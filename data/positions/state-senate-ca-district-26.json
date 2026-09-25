@@ -1,0 +1,175 @@
+{
+  "office": "State Senate",
+  "district": "CA District 26",
+  "division": "ca/sldu-26",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Sara Hernandez",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Hernandez proposes universal, free childcare but does not specify how she would fund it.",
+          "quote": "As a state senator, I will fight to make universal childcare a reality in California. Every family, regardless of income or ZIP code, should have access to free, high-quality care for children from 6 weeks to 5 years old.",
+          "sourceUrl": "https://www.sarahernandez.com/platform",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Hernandez supports union apprenticeships and says childcare workers should earn wages on par with public-school teachers.",
+          "quote": "And childcare workers—25% of whom currently live in poverty—deserve to earn wages on par with public school teachers, along with the benefits and respect their essential work demands.",
+          "sourceUrl": "https://www.sarahernandez.com/platform",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Hernandez calls for more multifamily housing, greater density, streamlined approvals, and more duplexes and fourplexes.",
+          "quote": "In the 26th District and across California, we need more multifamily housing in urban areas — especially near transit and jobs.",
+          "sourceUrl": "https://www.sarahernandez.com/platform",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Hernandez pledges both increased enforcement and investment in violence-prevention strategies.",
+          "quote": "As a state senator, I will fight every day for stronger gun safety laws, increased enforcement, and real investment in violence prevention strategies that protect our children and our neighborhoods.",
+          "sourceUrl": "https://www.sarahernandez.com/platform",
+          "agreement": "4/5"
+        },
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "strong",
+          "text": "In an ACLU candidate survey, Hernandez agreed with using crime-prevention solutions instead of longer sentences and more felony classifications for low-level crimes.",
+          "quote": "Do you agree with crime prevention solutions over increasing sentences and classifying more low level crimes as felonies?",
+          "sourceUrl": "https://aclucalaction.org/district/senate-district-26/",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Hernandez supports a pathway to citizenship and state protections against racial profiling and abusive immigration enforcement.",
+          "quote": "That means creating a real pathway to citizenship for the people who have helped build this nation and deserve to belong here.",
+          "sourceUrl": "https://www.sarahernandez.com/platform",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Hernandez pledges stronger gun-safety laws and specifically targets untraceable ghost guns.",
+          "quote": "As a state senator, I will fight every day for stronger gun safety laws, increased enforcement, and real investment in violence prevention strategies that protect our children and our neighborhoods.",
+          "sourceUrl": "https://www.sarahernandez.com/platform",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Hernandez pledges to expand abortion access, fund reproductive-health providers, and protect patients and providers.",
+          "quote": "I’ll fight to expand access to abortion care, birth control, and gender-affirming healthcare across California.",
+          "sourceUrl": "https://www.sarahernandez.com/platform",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Hernandez proposes expanding zero-emission infrastructure for freight and goods movement in heavily affected communities.",
+          "quote": "Fighting for clean air by expanding zero-emission infrastructure for freight and goods movement—especially along transport corridors that run through high-density residential communities",
+          "sourceUrl": "https://www.sarahernandez.com/platform",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Sarah Rascón",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Rascón promises to protect union labor and expand access to union jobs and apprenticeships.",
+          "quote": "As your State Senator, I’ll fight to expand investment in public education, grow career and technical education programs, strengthen partnerships between schools and industries, and protect union labor as a pillar of Californian economic opportunity.",
+          "sourceUrl": "https://www.rasconforsenate.com/issues/jobs",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Rascón supports loosening zoning to permit more multifamily and affordable housing, particularly near transit and jobs.",
+          "quote": "We need a bold housing agenda that centers equity and inclusion and helps our most vulnerable populations–seniors on fixed incomes, veterans, and those on the brink of homelessness–that means reforming outdated zoning laws to allow more multi-family and affordable housing, especially near transit and job centers.",
+          "sourceUrl": "https://www.rasconforsenate.com/issues/housing",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Rascón promises more investment in public education and rejects contributions from charter-school interests that undermine it.",
+          "quote": "As your State Senator, I’ll fight to expand investment in public education, grow career and technical education programs, strengthen partnerships between schools and industries, and protect union labor as a pillar of Californian economic opportunity.",
+          "sourceUrl": "https://www.rasconforsenate.com/issues/jobs",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "Rascón supports non-police crisis teams and greater investment in violence prevention and community services.",
+          "quote": "Invest in the community-based models that work. Fund violence interruption programs and organizations like Homeboy Industries that have spent decades doing the hard work of getting people out of cycles of violence, along with youth and reentry services that stop harm before it starts.",
+          "sourceUrl": "https://www.rasconforsenate.com/issues/safety",
+          "agreement": "5/5"
+        },
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "strong",
+          "text": "Rascón answered yes when asked whether she favors crime prevention over longer sentences and more felony classifications for low-level crimes.",
+          "quote": "Do you agree with crime prevention solutions over increasing sentences and classifying more low level crimes as felonies?",
+          "sourceUrl": "https://aclucalaction.org/district/senate-district-26/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Rascón supports a pathway to citizenship, DACA recipients, sanctuary protections, and state services regardless of immigration status.",
+          "quote": "Our federal government has failed us in providing a clear pathway to citizenship and supporting our DACA students; on the contrary, our immigrant communities have been under attack.",
+          "sourceUrl": "https://www.rasconforsenate.com/issues/immigration",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Rascón supports universal background checks, red-flag and safe-storage laws, and bans on assault weapons and high-capacity magazines.",
+          "quote": "I support common-sense gun safety laws: universal background checks, red flag laws to keep firearms out of the hands of people in crisis, safe storage requirements to protect children, and banning military-style assault weapons and high-capacity magazines designed for mass harm.",
+          "sourceUrl": "https://www.rasconforsenate.com/issues/safety",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Rascón supports CalCare single-payer health care and, in the short term, expanding Medi-Cal coverage.",
+          "quote": "As a proponent of CUSP (California United for Single Payer), I am a proud supporter of CalCare, California’s single-payer healthcare plan and model, because I believe no one should go without care due to cost, coverage, or corporate bureaucracy.",
+          "sourceUrl": "https://www.rasconforsenate.com/issues/health",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "sarahernandez.com · aclucalaction.org · rasconforsenate.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}
