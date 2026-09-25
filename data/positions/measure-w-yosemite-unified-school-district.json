@@ -1,0 +1,58 @@
+{
+  "office": "Measure W",
+  "district": "Yosemite Unified School District",
+  "division": "ca/school-yosemite-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes general obligation bonds for School Facilities Improvement District No. 1 within the Yosemite Unified School District, repaid by property taxes in that improvement district.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "A Yes vote supports issuing the School Facilities Improvement District No. 1 bond to fund school facilities.",
+          "quote": "Measure W-Yosemite Unified School District, School Facilities Improvement District (SFID) No.1 Bond",
+          "sourceUrl": "https://votemadera.com/candidate-campaign-information/general-election-november-3-2026/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote supports a bond for facilities in Yosemite Unified School District’s School Facilities Improvement District No. 1.",
+          "quote": "Measure W-Yosemite Unified School District, School Facilities Improvement District (SFID) No.1 Bond",
+          "sourceUrl": "https://votemadera.com/candidate-campaign-information/general-election-november-3-2026/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "A No vote rejects issuing the School Facilities Improvement District No. 1 bond under this measure.",
+          "quote": "Measure W-Yosemite Unified School District, School Facilities Improvement District (SFID) No.1 Bond",
+          "sourceUrl": "https://votemadera.com/candidate-campaign-information/general-election-november-3-2026/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote rejects the bond for facilities in Yosemite Unified School District’s School Facilities Improvement District No. 1.",
+          "quote": "Measure W-Yosemite Unified School District, School Facilities Improvement District (SFID) No.1 Bond",
+          "sourceUrl": "https://votemadera.com/candidate-campaign-information/general-election-november-3-2026/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "votemadera.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

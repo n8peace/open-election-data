@@ -1,0 +1,41 @@
+{
+  "office": "Measure W",
+  "district": "City of Davis",
+  "division": "ca/place-davis",
+  "kind": "measure",
+  "summary": "A Yes vote amends the Davis General Plan and land use designations to authorize the Willowgrove residential development, including housing, retail, parks, trails, and open space.",
+  "issues": [
+    "housing"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "A Yes vote approves the Willowgrove development, allowing more than 1,200 new housing units to move forward.",
+          "quote": "The project, which Davis voters will vote on during the November general election as Measure W, proposes putting more than 1,200 new units on a 234-acre plot of land just down the street from the former Village Farms site.",
+          "sourceUrl": "https://www.abridged.org/news/willowgrove-housing-development-davis/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "housing": {
+          "toward": "slower growth",
+          "strength": "strong",
+          "text": "A No vote rejects the Willowgrove development and does not allow those new housing units to move forward.",
+          "quote": "The project, which Davis voters will vote on during the November general election as Measure W, proposes putting more than 1,200 new units on a 234-acre plot of land just down the street from the former Village Farms site.",
+          "sourceUrl": "https://www.abridged.org/news/willowgrove-housing-development-davis/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "abridged.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

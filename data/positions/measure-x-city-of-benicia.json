@@ -1,0 +1,41 @@
+{
+  "office": "Measure X",
+  "district": "City of Benicia",
+  "division": "ca/place-benicia",
+  "kind": "measure",
+  "summary": "A Yes vote adopts a City of Benicia business license tax that sets rates by business category, exempts businesses with $100,000 or less in annual receipts, and applies a separate marine terminal rate.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would adopt the restructured business license tax, generating additional city revenue.",
+          "quote": "Measure X is a business license tax.",
+          "sourceUrl": "https://www.vallejosun.com/special-coverage-november-2026-general-election-in-vallejo-and-benicia/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would leave the existing business license tax system in place.",
+          "quote": "Measure X is a business license tax.",
+          "sourceUrl": "https://www.vallejosun.com/special-coverage-november-2026-general-election-in-vallejo-and-benicia/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "vallejosun.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

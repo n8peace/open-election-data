@@ -1,0 +1,58 @@
+{
+  "office": "Measure X",
+  "district": "Liberty Union High School District",
+  "division": "ca/school-liberty-union-high",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue $165 million in bonds for school facility repairs and modernization, repaid through property taxes at an estimated $20 per $100,000 of assessed value.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote authorizes $165 million in school bonds and the associated estimated tax rate to fund school improvements.",
+          "quote": "The proposed school facilities bond, Measure X , would provide locally controlled funding of $165 million to improve and modernize our schools while helping preserve these important community assets for future generations, with an estimated tax rate of $20 per $100,000 of assessed value during the term of the bonds.",
+          "sourceUrl": "https://www.luhsd.net/measure-x",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote provides locally controlled funding for improvements and modernization of Liberty Union High School District schools.",
+          "quote": "The proposed school facilities bond, Measure X , would provide locally controlled funding of $165 million to improve and modernize our schools while helping preserve these important community assets for future generations, with an estimated tax rate of $20 per $100,000 of assessed value during the term of the bonds.",
+          "sourceUrl": "https://www.luhsd.net/measure-x",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not authorize the school bonds or their associated estimated tax rate.",
+          "quote": "The proposed school facilities bond, Measure X , would provide locally controlled funding of $165 million to improve and modernize our schools while helping preserve these important community assets for future generations, with an estimated tax rate of $20 per $100,000 of assessed value during the term of the bonds.",
+          "sourceUrl": "https://www.luhsd.net/measure-x",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote does not provide the proposed bond funding for Liberty Union High School District schools.",
+          "quote": "The proposed school facilities bond, Measure X , would provide locally controlled funding of $165 million to improve and modernize our schools while helping preserve these important community assets for future generations, with an estimated tax rate of $20 per $100,000 of assessed value during the term of the bonds.",
+          "sourceUrl": "https://www.luhsd.net/measure-x",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "luhsd.net",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

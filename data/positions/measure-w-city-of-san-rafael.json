@@ -1,0 +1,23 @@
+{
+  "office": "Measure W",
+  "district": "City of San Rafael",
+  "division": "ca/place-san-rafael",
+  "kind": "measure",
+  "summary": "A Yes vote amends the municipal code to increase the city's real property transfer tax rate and adds an oversight provision.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {}
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

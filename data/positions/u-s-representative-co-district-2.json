@@ -1,0 +1,238 @@
+{
+  "office": "U.S. Representative",
+  "district": "CO District 2",
+  "division": "co/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Gaylon Kent",
+      "party": "Libertarian Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Kent supports a flat income tax capped at 5% above $50,000 and eliminating several other taxes.",
+          "quote": "I favor a flat tax of no more than 5% on incomes over $50,000 and eliminating inheritance & capital gain taxes.",
+          "sourceUrl": "https://ivoterguide.com/candidate/23332/race/3297/election/1232",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "Kent opposes a federally mandated minimum wage and describes compensation as a private agreement between employers and employees.",
+          "quote": "No. The government has no business mandating wages. A wage, or any benefit, is a private contract between employer and employee.",
+          "sourceUrl": "https://www.cpr.org/2016/10/11/colorado-congressional-district-3-race-tipton-schwartz-and-kent-on-the-issues/",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Kent said Medicare costs should be reduced through market competition while the country honors its Social Security commitments to workers.",
+          "quote": "Low taxes and free markets will produce a flourishing economy that will result in higher revenues for these programs. Medicare would benefit from doctors being allowed back into the free market. This will result in lower costs and better care. Social Security may never be completely healthy. We must stand by the commitment made to this nation's workers, though.",
+          "sourceUrl": "https://www.cpr.org/2014/10/17/colorado-us-senate-race-udall-gardner-and-kent-on-the-issues/",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "Kent supports ordinary firearm ownership but says weapons designed solely to kill large numbers of people may be prohibited.",
+          "quote": "I believe this does not include weapons whose sole purpose is to kill large numbers of people, and that we can prohibit them without violating either the letter or the spirit of the 2nd Amendment.",
+          "sourceUrl": "https://ivoterguide.com/candidate/23332/race/3297/election/1232",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Kent says elective abortion should be available whenever a woman chooses and that its morality is an individual matter.",
+          "quote": "Anytime a woman desires it. The moral aspects of abortion are an individual's lookout and no one else's.",
+          "sourceUrl": "https://ivoterguide.com/candidate/23332/race/3297/election/1232",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Kent says women's sports should be limited to people born female.",
+          "quote": "I agree with this. Biological women must compete against others born female.",
+          "sourceUrl": "https://ivoterguide.com/candidate/23332/race/3297/election/1232",
+          "agreement": "5/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Kent supports eliminating criminal penalties for growing, selling and possessing marijuana, while opposing government regulation.",
+          "quote": "Yes. It's not the government's job to mandate what adults do behind closed doors. I do not favor government regulation, however, merely the elimination of penalties for growing, selling and possessing weed.",
+          "sourceUrl": "https://www.cpr.org/2016/10/11/colorado-congressional-district-3-race-tipton-schwartz-and-kent-on-the-issues/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Kent favors allowing doctors and health insurers broad access to the free market, which he says would reduce prices and encourage innovation.",
+          "quote": "Doctors and health insurers must otherwise be allowed unfettered access to the free market. Doctors and health insurers who are financially responsible to patients would lower prices and spur innovation.",
+          "sourceUrl": "https://ivoterguide.com/candidate/23332/race/3297/election/1232",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Kent supports requiring voter identification and has proposed a national voter ID card.",
+          "quote": "I have never understood why we do not have a national voter ID card.",
+          "sourceUrl": "https://ivoterguide.com/candidate/23332/race/3297/election/1232",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Joe Neguse",
+      "party": "Democratic Party",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Neguse managed House floor opposition to a package endorsing tax cuts that its official summary said were paired with reductions in health coverage and nutrition assistance.",
+          "quote": "In the measure, Republicans also express support for the policies enacted under this legislation, which cut taxes for the richest 10% of Americans while kicking 15 million people off their health care coverage, gutting the Supplemental Nutrition Assistance Program (SNAP), and adding $5 trillion to the national debt.",
+          "sourceUrl": "https://neguse.house.gov/media/press-releases/rep-neguse-bills-us-do-nothing-improve-lives-working-families-our-country",
+          "agreement": "7/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Neguse's campaign says he is fighting to raise the federal minimum wage to $15 through the Raise the Wage Act.",
+          "quote": "In Congress, Joe is fighting to close the gender pay gap and raise the minimum wage to $15, through the Paycheck Fairness Act and Raise the Wage Act.",
+          "sourceUrl": "https://joeforcolorado.com/on-the-issues/",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Neguse urged the administration to reconsider its tariffs, warning that they raise prices and disproportionately burden small businesses.",
+          "quote": "Taxes on imported goods hit small businesses the hardest, with 88 percent of small firms relying on imports for the goods they produce and sell.",
+          "sourceUrl": "https://neguse.house.gov/media/press-releases/rep-neguse-rep-velasquez-demand-trump-administration-protect-small-businesses",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Neguse pledged to block proposed Social Security and Medicare cuts and to protect and strengthen both programs.",
+          "quote": "I’m committed to ensuring that the plan does not come to pass, and that we protect and strengthen these vital lifelines for years to come.",
+          "sourceUrl": "https://neguseforms.house.gov/news/email/show.aspx?ID=X3DQJ4BDJ4DPU",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Neguse advanced legislation allowing underused Forest Service sites to be leased for needs including affordable-housing construction.",
+          "quote": "The Forest Service Flexible Housing Partnerships Act helps address the housing shortage in rural and mountain communities by strengthening the authority of the United States Forest Service (USFS) to lease underutilized administrative sites to address local needs, including for building affordable housing.",
+          "sourceUrl": "https://neguse.house.gov/media/press-releases/explore-act-advances-several-neguse-led-bills-head-president-bidens-desk",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Neguse's campaign emphasizes public-school education and cites enacted funding support for rural schools.",
+          "quote": "Every student should be able to obtain a quality public-school education. To support Colorado’s rural and mountain communities, Joe introduced and enacted legislation to support rural schools through funds for supplies, building improvements and more.",
+          "sourceUrl": "https://joeforcolorado.com/on-the-issues/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Neguse's campaign says he has worked to protect Dreamers, assist immigrants living in sanctuary, and support refugee resettlement.",
+          "quote": "As the son of refugees, Joe is fighting to ensure that all immigrants are treated with humanity and dignity. As Vice Chair of the U.S. Subcommittee on Immigration and Citizenship, he helped lead an effort in the House to protect young Dreamers and has strongly advocated for relief for Coloradans living in sanctuary.",
+          "sourceUrl": "https://joeforcolorado.com/on-the-issues/",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Neguse pressed for tighter regulation of concealable assault-style weapons and helped pass expanded background-check legislation in the House.",
+          "quote": "In April of 2021 he led a series of letters to President Biden urging him to take executive actions to curb gun violence, and at Joe’s urging, the President issued an order that will more strictly regulate concealable assault-style weapons, among other reforms. Joe also helped lead efforts in the House to pass legislation to close dangerous loopholes in our background check system.",
+          "sourceUrl": "https://joeforcolorado.com/on-the-issues/",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Neguse sponsored the EACH Woman Act to protect individuals’ ability to make their own reproductive health-care decisions.",
+          "quote": "Joe is also a sponsor of the EACH Woman Act, which will ensure that woman can make their own healthcare decisions, and has supported efforts in Congress to end gender discrimination.",
+          "sourceUrl": "https://joeforcolorado.com/on-the-issues/",
+          "agreement": "5/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Neguse voted against the Protection of Women and Girls in Sports Act, which would have required school athletics rules based solely on sex at birth.",
+          "quote": "Vote Question: On Passage Protection of Women and Girls in Sports Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "6/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Neguse voted for the MORE Act, legislation to federally decriminalize and regulate cannabis.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Neguse supports universal coverage and expanding Medicare while seeking to curb discriminatory practices by for-profit insurers.",
+          "quote": "Affordable health care should be available to all Coloradans. Joe supports universal health care coverage and has championed efforts in Congress to lower the cost of prescription drugs, expand Medicare, and combat discriminatory practices of for-profit insurance companies.",
+          "sourceUrl": "https://joeforcolorado.com/on-the-issues/",
+          "agreement": "4/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Neguse has introduced and sponsored bills to expand renewable energy investment and sharply reduce carbon emissions.",
+          "quote": "The very first bill he introduced was a proposal to expand solar energy (the Solar Edge Act), and he’s written and sponsored multiple bills to significantly increase investments in renewable energy and drastically reduce our carbon emissions.",
+          "sourceUrl": "https://joeforcolorado.com/on-the-issues/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Neguse supports legislation expanding voter access and automatic voter registration.",
+          "quote": "To protect voting rights and ensure voting remains accessible to all, Joe supports the John Lewis Voting Rights Act, and H.R. 1 — historic legislation that would make it easier to vote, implement Automatic Voter Registration, and defend every eligible American’s right to cast a ballot.",
+          "sourceUrl": "https://joeforcolorado.com/on-the-issues/",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Kelley Anne Dennison",
+      "party": "Republican Party",
+      "stances": {
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Dennison supports both secure borders and faster legal immigration pathways.",
+          "quote": "She said she would advocate for secure borders and “faster, more efficient legal immigration pathways.”",
+          "sourceUrl": "https://www.cpr.org/2026/09/25/vg-2026-kelley-dennison-voter-guide/",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "ivoterguide.com · cpr.org · neguse.house.gov · joeforcolorado.com · neguseforms.house.gov · clerk.house.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

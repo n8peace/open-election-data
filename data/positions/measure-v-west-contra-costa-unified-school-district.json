@@ -1,0 +1,50 @@
+{
+  "office": "Measure V",
+  "district": "West Contra Costa Unified School District",
+  "division": "ca/school-west-contra-costa-unified",
+  "kind": "measure",
+  "summary": "A Yes vote renews the district's parcel tax at 7.2 cents per building square foot for nine years, raising about $10.2 million per year for school programs.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would renew the existing parcel tax for nine years to fund school programs and services.",
+          "quote": "Shall the measure supporting local quality education in West Contra Costa Unified School District, protecting core academics, science, music, arts, and career technical programs that prepare students for the changing economy; attracting and retaining qualified teachers; and maintaining mental health services and counselors to support student success; by renewing the parcel tax at the existing rate of 7.2¢/building square foot, raising approximately $10,238,737 annually for nine years, with senior exemptions, independent citizen oversight, audits, and local control, be adopted?",
+          "sourceUrl": "https://contracosta.news/2026/07/22/west-contra-costa-school-district-seeks-to-ask-voters-to-renew-parcel-tax/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote would provide additional locally controlled funding for West Contra Costa Unified School District programs, teachers and student services.",
+          "quote": "Renewing the parcel tax at the existing rate as proposed in this Measure would generate approximately $10,238,737 annually for nine years, providing funds to protect core academic programs including reading, writing, math and science; attract and retain qualified teachers; maintain science, technology, engineering and math (STEM) instruction, including by supporting lab materials and activities; provide career and technical training to make sure students are ready for careers in the changing economy; and maintain mental health services and counseling services to support student success.",
+          "sourceUrl": "https://contracosta.news/2026/07/22/west-contra-costa-school-district-seeks-to-ask-voters-to-renew-parcel-tax/",
+          "agreement": "3/10"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would let the existing parcel tax expire rather than renew it at 7.2 cents per building square foot for nine years.",
+          "quote": "Rate: 7.2 cents per square foot of building area — no increase over the existing rate (roughly $72 per year for a typical single-family home).",
+          "sourceUrl": "https://sanpablo.legistar.com/LegislationDetail.aspx?GUID=C9C86A5A-2979-4A54-9DE8-1B5339A537D3&ID=8216314&Options=&Search=",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "contracosta.news · sanpablo.legistar.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,41 @@
+{
+  "office": "Measure X",
+  "district": "City of Brisbane",
+  "division": "ca/place-brisbane",
+  "kind": "measure",
+  "summary": "A Yes vote replaces Brisbane's tiered business license tax with a gross-receipts formula under which a business with $25,000 or less in gross receipts pays $50 and one above that pays $50 plus $1.00 per $1,000 of receipts over $25,000, removes certain exemptions, and directs revenue to the General Fund.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "The pro-Measure X argument supports raising business-license fees so businesses contribute more toward city services.",
+          "quote": "This measure is a reasonable update to Brisbane's Business License Tax to ensure that businesses contribute their fair share toward City Services.",
+          "sourceUrl": "https://www.brisbaneca.gov/DocumentCenter/View/3408",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would reject the proposed business-license-tax changes and keep the current tax structure instead of raising approximately $1 million in additional annual revenue.",
+          "quote": "A “No” vote is a vote against the Measure. If the Measure is not approved, the current tax structure will remain in place.",
+          "sourceUrl": "https://www.brisbaneca.gov/DocumentCenter/View/3407",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "brisbaneca.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

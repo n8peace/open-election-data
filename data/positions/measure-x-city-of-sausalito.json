@@ -1,0 +1,41 @@
+{
+  "office": "Measure X",
+  "district": "City of Sausalito",
+  "division": "ca/place-sausalito",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a voter initiative revising the City of Sausalito's zoning and planning rules for its arts, industrial, and maritime waterfront district.",
+  "issues": [
+    "housing"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "housing": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A Yes vote would rezone commercial waterfront parcels and allow more development, but would not create housing sites.",
+          "quote": "It does not create housing sites or affect the historic downtown.",
+          "sourceUrl": "https://www.marinij.com/2026/09/09/sausalito-factions-gird-for-vote-on-waterfront-rezoning/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "housing": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A No vote would leave the commercial waterfront parcels under the existing zoning rules.",
+          "quote": "It does not create housing sites or affect the historic downtown.",
+          "sourceUrl": "https://www.marinij.com/2026/09/09/sausalito-factions-gird-for-vote-on-waterfront-rezoning/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "marinij.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

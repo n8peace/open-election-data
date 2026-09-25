@@ -1,0 +1,58 @@
+{
+  "office": "Measure V",
+  "district": "San Mateo County Community College District",
+  "division": "ca/school-san-mateo-county-community-college-district",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue up to $848 million in bonds, repaid by a property tax, to repair and upgrade facilities, infrastructure, safety and security systems, and instructional technology.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A yes vote approves the issuance of bonds to fund community college district facilities.",
+          "quote": "Measure V - San Mateo County Community College District: Bond Measure",
+          "sourceUrl": "https://my.lwv.org/california/south-san-mateo-county/event/zoom-pros-cons-presentation-local-measures",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A Yes vote would approve the bond measure described in the text.",
+          "quote": "Measure V - San Mateo County Community College District: Bond Measure",
+          "sourceUrl": "https://my.lwv.org/california/south-san-mateo-county/event/zoom-pros-cons-presentation-local-measures",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A no vote opposes authorizing the bond measure.",
+          "quote": "Measure V - San Mateo County Community College District: Bond Measure",
+          "sourceUrl": "https://my.lwv.org/california/south-san-mateo-county/event/zoom-pros-cons-presentation-local-measures",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A No vote would reject the bond measure described in the text.",
+          "quote": "Measure V - San Mateo County Community College District: Bond Measure",
+          "sourceUrl": "https://my.lwv.org/california/south-san-mateo-county/event/zoom-pros-cons-presentation-local-measures",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "my.lwv.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,50 @@
+{
+  "office": "Measure W",
+  "district": "Merced Union High School District",
+  "division": "ca/school-merced-union-high",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue bonds for School Facilities Improvement District No. 1, repaid by property taxes within that district.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A yes vote authorizes $33.8 million in bonds and an estimated property-tax levy of $29 per $100,000 of assessed value for school facilities.",
+          "quote": "shall Merced Union High School District's School Facilities Improvement District No. 1 measure authorizing $33,800,000 in bonds, at legal rates, and levying approximately $29 per $100,000 assessed value ($2,025,000 annually), while outstanding, be adopted",
+          "sourceUrl": "https://www.countyofmerced.com/DocumentCenter/View/53624/Measure-W",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A yes vote funds classroom, school-facility, safety, career-technical education, roofing, and plumbing improvements within the district.",
+          "quote": "To improve the quality of education; construct, upgrade, and modernize classrooms, restrooms, and school facilities; make safety/security improvements; renovate or construct career technical education classrooms",
+          "sourceUrl": "https://www.countyofmerced.com/DocumentCenter/View/53624/Measure-W",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "The No position opposes authorizing $33.8 million in school bonds that would be secured by a property-tax increase.",
+          "quote": "A “NO” vote means the voter is against authorizing the Merced Union High School District to issue and sell up to $33,800,000 in general obligation bonds.",
+          "sourceUrl": "https://www.countyofmerced.com/DocumentCenter/View/53694/Impartial-Analysis-Measure-W-District-1-IA-Livingston",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "countyofmerced.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

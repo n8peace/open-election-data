@@ -1,0 +1,41 @@
+{
+  "office": "Measure V",
+  "district": "Town of San Anselmo",
+  "division": "ca/place-san-anselmo",
+  "kind": "measure",
+  "summary": "A Yes vote continues the town's paramedic services special tax, with proceeds placed in a special fund used solely for paramedic and pre-hospital emergency services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote extends and increases property taxes to fund paramedic services.",
+          "quote": "The other seven jurisdictions are seeking up to $107.50 per dwelling or 1,000 square feet of developed nonresidential property, with increases of up to $4 a year.",
+          "sourceUrl": "https://www.jems.com/ems-management/ems-recruitment-retention/ca-voters-consider-paramedic-tax-extensions/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not approve the proposed tax extension and increase for paramedic services.",
+          "quote": "The other seven jurisdictions are seeking up to $107.50 per dwelling or 1,000 square feet of developed nonresidential property, with increases of up to $4 a year.",
+          "sourceUrl": "https://www.jems.com/ems-management/ems-recruitment-retention/ca-voters-consider-paramedic-tax-extensions/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "jems.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

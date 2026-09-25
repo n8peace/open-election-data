@@ -1,0 +1,183 @@
+{
+  "office": "State Senate",
+  "district": "CA District 16",
+  "division": "ca/sldu-16",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Melissa Hurtado",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Her campaign says she opposed increases in the state gas tax and utility rates.",
+          "quote": "State Senator Melissa Hurtado opposed gas tax increases and higher utility rates",
+          "sourceUrl": "https://www.melissahurtado.com/",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She voted for AB 1228, legislation establishing a minimum wage for fast-food workers and a Fast Food Council.",
+          "quote": "Allen, Alvarado-Gil, Archuleta, Ashby, Atkins, Becker, Blakespear, Bradford, Caballero, Cortese, Dodd, Durazo, Eggman, Glazer, Gonzalez, Hurtado, Laird, Limón",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1228",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Her campaign calls for building housing by reducing regulatory barriers that increase construction costs.",
+          "quote": "Build housing by cutting the red tape that makes construction unaffordable.",
+          "sourceUrl": "https://www.melissahurtado.com/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Her campaign calls for funding public schools so Central Valley children can thrive.",
+          "quote": "Fund public schools to ensure Valley kids can thrive",
+          "sourceUrl": "https://www.melissahurtado.com/",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Her campaign calls for fully funding local law enforcement while also addressing addiction and overdoses.",
+          "quote": "Fight crime by fully funding local law enforcement, and combat addiction and reduce drug overdoses",
+          "sourceUrl": "https://www.melissahurtado.com/",
+          "agreement": "9/10"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "lean",
+          "text": "She endorsed Proposition 36, which increased penalties and sentences for certain drug and theft offenses while creating treatment-mandated felonies.",
+          "quote": "“I think Prop 36 is needed,” Hurtado told KBAK. “It is long overdue.”",
+          "sourceUrl": "https://sjvsun.com/news/politics/hurtado-voices-support-for-prop-47-reform/",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She authored legislation extending state-funded food assistance to otherwise eligible Californians excluded because of immigration status.",
+          "quote": "expanding eligibility for state funded nutrition benefits to Californians of all ages currently excluded due solely to their immigration status",
+          "sourceUrl": "https://sd16.senate.ca.gov/news/press-release/senator-hurtado-releases-statement-after-food-all-act-passes-senate-human",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She authored SB 1220 to impose a ten-year firearm prohibition following specified misdemeanor ghost-gun convictions.",
+          "quote": "“SB 1220 is about accountability, traceability and protecting our communities from illegal firearms,” Senator Hurtado added.",
+          "sourceUrl": "https://sd16.senate.ca.gov/news/press-release/hurtado-peace-officer-protection-bill-advances-assembly",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She described herself as a reproductive-health advocate and cited her co-authorship of Proposition 1, which placed abortion rights in California's constitution.",
+          "quote": "I am a proud co-author of Prop 1 which enshrines the right to an abortion in the state constitution.",
+          "sourceUrl": "https://sjvsun.com/news/politics/salas-hurtado-trade-shots-over-abortion-rights-in-tussle-to-take-on-valadao/",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Hurtado voted for AB 1955, which bars schools from requiring disclosure of a student's gender identity without the student's consent.",
+          "quote": "Allen, Archuleta, Ashby, Atkins, Becker, Blakespear, Bradford, Caballero, Cortese, Dodd, Durazo, Eggman, Glazer, Gonzalez, Hurtado, Laird, McGuire, Menjivar, Min, Newman, Padilla, Portantino, Roth, Rubio, Skinner, Smallwood-Cuevas, Umberg, Wahab, Wiener",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1955",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Hurtado voted for the initial Senate passage of SB 770, which directed development of a unified health-care financing framework, though she did not vote on final concurrence.",
+          "quote": "Allen, Archuleta, Ashby, Atkins, Becker, Blakespear, Bradford, Caballero, Cortese, Dodd, Durazo, Eggman, Gonzalez, Hurtado, Laird, Limón, McGuire, Menjivar, Min, Newman, Padilla, Portantino, Roth, Rubio, Skinner, Smallwood-Cuevas, Stern, Umberg, Wahab, Wiener",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240SB770",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "She emphasizes affordable, reliable energy and co-authored SB 237 to support energy affordability and supply security.",
+          "quote": "The Valley powers California, and families here deserve affordable and reliable energy. Senator Hurtado co-authored Senate Bill 237 to strengthen energy affordability and security.",
+          "sourceUrl": "https://www.melissahurtado.com/issues",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She authored a law simplifying voter information and party-preference changes during the two weeks through Election Day.",
+          "quote": "this bipartisan measure to streamline the voting process for all Californians, regardless of their party affiliation",
+          "sourceUrl": "https://sd16.senate.ca.gov/news/press-release/governor-signs-senator-melissa-hurtados-legislation-expand-voter-access",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Guillermo Asuncion Gonzalez",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Gonzalez says Sacramento should live within existing means rather than seek more taxpayer money.",
+          "quote": "Government should live within its means, just like the families it serves. Out-of-touch Sacramento politicians should not demand more money from taxpayers, instead they should prove that current programs are working and delivering real results.",
+          "sourceUrl": "https://www.gonzalezforsenate.com/issues",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Gonzalez supports building homes while removing mandates, regulations, and costs that impede construction and affordability.",
+          "quote": "This means building homes families can actually buy, ending mandates and burdensome regulations, and cutting costs that force Valley kids to move out.",
+          "sourceUrl": "https://www.gonzalezforsenate.com/issues",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Gonzalez calls for backing law enforcement and strengthening the police force.",
+          "quote": "It’s time we back the badge, strengthen our police force, and end policies that release dangerous criminals back into our streets.",
+          "sourceUrl": "https://www.gonzalezforsenate.com/issues",
+          "agreement": "4/5"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "Gonzalez opposes policies that release people he describes as dangerous criminals.",
+          "quote": "It’s time we back the badge, strengthen our police force, and end policies that release dangerous criminals back into our streets.",
+          "sourceUrl": "https://www.gonzalezforsenate.com/issues",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Gonzalez supports continued domestic oil and gas production and emphasizes affordable power and fuel.",
+          "quote": "Keep resource production here at home. Oil, gas, water, and infrastructure managed by those who produce, not those who regulate. Affordable power, fuel, and food are the backbone of working families.",
+          "sourceUrl": "https://www.gonzalezforsenate.com/issues",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "melissahurtado.com · leginfo.legislature.ca.gov · sjvsun.com · sd16.senate.ca.gov · gonzalezforsenate.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

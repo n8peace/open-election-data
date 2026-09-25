@@ -1,0 +1,58 @@
+{
+  "office": "Measure W",
+  "district": "Acalanes Union High School District",
+  "division": "ca/school-acalanes-union-high",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a $168-per-parcel tax for eight years, raising about $6 million per year for the district's academic programs and teacher recruitment, with a senior exemption.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote authorizes the district to levy a $168 parcel tax for eight years to provide approximately $6 million annually in local school funding.",
+          "quote": "with Acalanes Union High School District levying a $168 parcel tax for eight years, with senior exemptions, citizens' oversight and independent audits, providing $6,000,000 annually in local school funding that cannot be taken by the State, be adopted?",
+          "sourceUrl": "https://www.acalanes.k12.ca.us/about-auhsd/measure-w/measure-w-resolution",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote authorizes funding for educational programs and services in the district's public schools.",
+          "quote": "By approval of this proposition (the \"Measure\") by at least two-thirds of the registered voters voting on the proposition, the District will be authorized to levy an education parcel tax of $168 per parcel for eight years, to maintain a high-quality education in District schools, subject to the accountability requirements specified below.",
+          "sourceUrl": "https://www.acalanes.k12.ca.us/about-auhsd/measure-w/measure-w-resolution",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not authorize the parcel tax described in Measure W.",
+          "quote": "with Acalanes Union High School District levying a $168 parcel tax for eight years, with senior exemptions, citizens' oversight and independent audits, providing $6,000,000 annually in local school funding that cannot be taken by the State, be adopted?",
+          "sourceUrl": "https://www.acalanes.k12.ca.us/about-auhsd/measure-w/measure-w-resolution",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote does not authorize the additional parcel-tax funding for the district's public schools.",
+          "quote": "By approval of this proposition (the \"Measure\") by at least two-thirds of the registered voters voting on the proposition, the District will be authorized to levy an education parcel tax of $168 per parcel for eight years, to maintain a high-quality education in District schools, subject to the accountability requirements specified below.",
+          "sourceUrl": "https://www.acalanes.k12.ca.us/about-auhsd/measure-w/measure-w-resolution",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "acalanes.k12.ca.us",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}
