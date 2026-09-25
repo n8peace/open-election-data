@@ -86,7 +86,8 @@ async function viaCodex(prompt: string): Promise<string> {
   const dir = await mkdtemp(path.join(tmpdir(), 'pb-codex-'));
   try {
     const last = path.join(dir, 'last.txt');
-    await runClosed('codex', ['exec', '--skip-git-repo-check', '--sandbox', 'read-only', '-c', 'web_search="live"', '--output-last-message', last, prompt], dir, 10 * 60 * 1000);
+    // CODEX_BIN picks a specific Codex build (e.g. the one bundled with the ChatGPT app).
+    await runClosed(process.env.CODEX_BIN || 'codex', ['exec', '--skip-git-repo-check', '--sandbox', 'read-only', '-c', 'web_search="live"', '--output-last-message', last, prompt], dir, 10 * 60 * 1000);
     return await readFile(last, 'utf8');
   } finally {
     await rm(dir, { recursive: true, force: true });
