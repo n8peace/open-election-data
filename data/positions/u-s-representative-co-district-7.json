@@ -1,0 +1,289 @@
+{
+  "office": "U.S. Representative",
+  "district": "CO District 7",
+  "division": "co/cd-7",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Brittany Pettersen",
+      "party": "Democratic Party",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Pettersen supports repealing tax cuts for wealthy people and large corporations and using fairer taxation to fund schools, roads, and small businesses.",
+          "quote": "She will continue to fight for tax fairness to support working families and invest back in our schools, roads, and small businesses.",
+          "sourceUrl": "https://brittanypettersen.com/issues/",
+          "agreement": "9/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Pettersen cosponsored the Raise the Wage Act of 2025, which would increase the federal minimum wage.",
+          "quote": "To provide for increases in the Federal minimum wage, and for other purposes.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr2743ih",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Pettersen has opposed broad tariffs, arguing that importers pass their costs on to consumers.",
+          "quote": "Let’s be clear: tariffs are a tax hike on the American people.",
+          "sourceUrl": "https://pettersen.house.gov/news/documentsingle.aspx?DocumentID=1366",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Pettersen says deficit reduction should not involve cutting Medicare and that Social Security benefits should be protected and increased.",
+          "quote": "Brittany will never balance our budget on the backs of seniors by slashing Medicare benefits.",
+          "sourceUrl": "https://brittanypettersen.com/issues/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Pettersen introduced and advanced bills intended to loosen restrictive zoning, remove construction barriers, and increase housing supply.",
+          "quote": "We need an all-hands-on deck solution for the housing affordability crisis — that means removing barriers that are preventing construction of more housing and increasing access to options for families outside of major cities.",
+          "sourceUrl": "https://pettersen.house.gov/news/documentsingle.aspx?DocumentID=1596",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Pettersen highlights her work increasing teacher pay, modernizing school buildings, and funding full-day kindergarten in public schools.",
+          "quote": "As chair of the House Education Committee, she helped build the coalition to raise teacher pay, modernize school buildings, and get the funding for full day kindergarten.",
+          "sourceUrl": "https://brittanypettersen.com/issues/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Pettersen has publicly called for legal pathways allowing immigrants to work in the United States.",
+          "quote": "Every business owner here, you all know it, you can’t find people to hire; you can’t fill these slots and there are people who want to work here and we don’t provide a pathway for them to do so.",
+          "sourceUrl": "https://pettersen.house.gov/news/documentsingle.aspx?DocumentID=484",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Pettersen introduced legislation strengthening extreme-risk protection orders and encouraging safe firearm storage.",
+          "quote": "While we know this is a complicated issue, we also know that the radicalization of kids online and easy access to firearms can be a lethal combination.",
+          "sourceUrl": "https://pettersen.house.gov/news/documentsingle.aspx?DocumentID=1594",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Pettersen helped codify Roe protections in Colorado and pledges to protect abortion rights in Congress.",
+          "quote": "She has worked to increase access to contraception and protect abortion rights here in Colorado, and in Congress, will vote to protect those rights for everyone.",
+          "sourceUrl": "https://brittanypettersen.com/issues/",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "Pettersen defended school policies giving transgender students access to facilities and programs consistent with gender identity.",
+          "quote": "including our transgender students who deserve equal access to safe, affirming learning environments",
+          "sourceUrl": "https://pettersen.house.gov/news/documentsingle.aspx?DocumentID=1772",
+          "agreement": "10/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "Pettersen joined a national cannabis-reform rally, praised federal rescheduling, and highlighted support for marijuana legalization.",
+          "quote": "It’s such a big deal to have a presidential candidate that has come out to say that she supports legalizing marijuana. That has never happened in the past.",
+          "sourceUrl": "https://coloradotimesrecorder.com/2024/11/polis-pettersen-join-willie-nelson-in-supporting-federal-cannabis-legalization-and-kamala-harris/65619/",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Pettersen introduced legislation protecting Medicaid waivers that expand coverage for residential substance-use treatment.",
+          "quote": "Expanding access to treatment not only saves lives, it reduces costly emergency care and hospitalizations, lowering long-term health care costs while helping people recover and rebuild their lives.",
+          "sourceUrl": "https://pettersen.house.gov/news/documentsingle.aspx?DocumentID=1686",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Pettersen supports a rapid transition to renewable energy and federal investment in the electric grid and clean technology.",
+          "quote": "She supports a rapid transition to renewable energy like wind, solar, geothermal and other emerging clean technologies.",
+          "sourceUrl": "https://brittanypettersen.com/issues/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Pettersen says she will protect voting rights and expand ballot access.",
+          "quote": "In Congress, she will fight to protect every citizen’s right to vote and increase access to the ballot.",
+          "sourceUrl": "https://brittanypettersen.com/issues/",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Dan \"Kilo\" Sallis",
+      "party": "Libertarian Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Sallis supports large reductions in federal taxes and says deficits should be reduced through spending cuts rather than tax increases.",
+          "quote": "Americans are overtaxed and the federal government chronically overspends. Dan supports dramatically reducing federal taxes across the board — income, capital gains, and corporate — and reducing the deficit through spending cuts, not tax hikes.",
+          "sourceUrl": "https://www.dankilo.com/issues",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Sallis favors free trade and voluntary economic exchange.",
+          "quote": "Free trade, not foreign entanglements. Build wealth through voluntary exchange.",
+          "sourceUrl": "https://www.dankilo.com/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Sallis supports removing regulatory barriers to housing construction and opposes rent control.",
+          "quote": "Dan supports removing barriers to housing construction and opposing federal policies that inflate housing costs.",
+          "sourceUrl": "https://www.dankilo.com/issues",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Sallis supports universal school choice, education savings accounts and parental control over curricula.",
+          "quote": "Dan supports universal school choice, education savings accounts, and full parental rights over curriculum.",
+          "sourceUrl": "https://www.dankilo.com/issues",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Sallis supports streamlining legal immigration while also calling for market-based border security.",
+          "quote": "Dan supports streamlining legal immigration pathways while securing the border through market-based solutions.",
+          "sourceUrl": "https://www.dankilo.com/issues",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Sallis opposes federal firearm registration, red-flag laws and magazine-capacity limits.",
+          "quote": "Dan will oppose any federal gun registration, red flag laws, or magazine capacity restrictions.",
+          "sourceUrl": "https://www.dankilo.com/issues",
+          "agreement": "5/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Sallis supports federal drug decriminalization and leaving cannabis policy to the states.",
+          "quote": "Dan supports full federal decriminalization and deferring drug policy entirely to states.",
+          "sourceUrl": "https://www.dankilo.com/issues",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Sallis supports repealing Affordable Care Act mandates, interstate insurance sales and expanded Health Savings Accounts.",
+          "quote": "Dan supports repealing the ACA mandates, allowing insurance to be sold across state lines, and empowering Health Savings Accounts.",
+          "sourceUrl": "https://www.dankilo.com/issues",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Sallis opposes federal energy mandates and favors competition among oil, gas and renewable energy sources.",
+          "quote": "Dan opposes top-down federal energy mandates and supports allowing all energy sources to compete on a level playing field.",
+          "sourceUrl": "https://www.dankilo.com/issues",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Lawrence Kyle Clark",
+      "party": "American Constitution Party",
+      "stances": {}
+    },
+    {
+      "name": "Joe Krzeczkowski",
+      "party": "Unaffiliated",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He supports reducing construction red tape and encouraging local housing development.",
+          "quote": "We need to stop the red tape that’s driving up construction costs and start incentivizing smart, local development.",
+          "sourceUrl": "https://joeforco.com/values/",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports firearm ownership for self-defense and sport while also calling for transparency, responsible ownership and mental-health investment.",
+          "quote": "In Colorado, we respect the right to own firearms for self-defense and sport, but we also expect the common-sense transparency required to keep our schools and streets safe. It’s time to move past the partisan shouting matches and focus on responsible ownership and mental health investments that prioritize our neighbors over the interests of lobbyists.",
+          "sourceUrl": "https://joeforco.com/values/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He proposes creating a single-payer health-care system.",
+          "quote": "Instead of listening to the insurance lobbyists, its time to listen to the people and create a single-payer healthcare plan.",
+          "sourceUrl": "https://joeforco.com/values/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He calls for abundant clean domestic energy that would both reduce prices and improve the environment.",
+          "quote": "We should be building so much clean, domestic energy that prices are affordable, the environment is cleaner, and oil wars are a thing of the past. No American should be left cold because of the cost of energy.",
+          "sourceUrl": "https://joeforco.com/values/",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He supports the Freedom to Vote Act and making Election Day a national holiday.",
+          "quote": "We should be encouraging and enabling every citizen to vote in our elections, not putting red tape in the way. This is democracy, and this is America. Congress should pass the Freedom to Vote Act and enshrine election day as a national holiday to reduce the burden on voters.",
+          "sourceUrl": "https://joeforco.com/values/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Susan Hall",
+      "party": "Unity Party",
+      "stances": {
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "Hall said federal savings from reduced weapons spending should support mental-health services and rehabilitation rather than punitive punishment.",
+          "quote": "The Billions of dollars saved from sending weapons abroad should go to support a healthy society which is gained through good jobs, education, healthcare, mental help provisions, affordable housing, & rehabilitation centers over punitive punishments with NO torture with US money.",
+          "sourceUrl": "https://news.ballotpedia.org/2024/10/20/two-candidates-in-the-nov-5-general-election-for-colorados-8th-congressional-district-election-complete-ballotpedias-survey/",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "brittanypettersen.com · govinfo.gov · pettersen.house.gov · coloradotimesrecorder.com · dankilo.com · joeforco.com · news.ballotpedia.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,111 @@
+{
+  "office": "State Senate",
+  "district": "CA District 20",
+  "division": "ca/sldu-20",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Caroline Menjivar",
+      "party": "Democratic",
+      "stances": {
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She condemned workplace immigration raids and advocated protections for immigrant workers, families, and communities.",
+          "quote": "The ICE raids that began in Los Angeles last week, and what has been happening since January across the country, is not only unjust, but also cruel.",
+          "sourceUrl": "https://sd20.senate.ca.gov/news/standing-our-immigrant-communities-los-angeles",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She explicitly described California's position on abortion rights as unwavering while promoting expanded reproductive-care coverage.",
+          "quote": "Infertility and IVF coverage in large group health plans, combined with our unwavering stance on contraception and abortion rights, solidifies California as the nation’s leader in reproductive freedom.",
+          "sourceUrl": "https://sd20.senate.ca.gov/news/governor-signs-sb-729-victory-reproductive-justice-california",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "She coauthored AB 1955, which prohibited school policies requiring staff to disclose a student's gender identity without permission.",
+          "quote": "The signing of AB 1955, the SAFETY Act, comes nearly one year to the date after Superintendent Thurmond was forcibly removed from a school board meeting after speaking during public comment to oppose a proposed forced outing policy that LGBTQ+ students and families had said would threaten students’ safety at school and at home.",
+          "sourceUrl": "https://www.cde.ca.gov/Nr/ne/yr24/yr24rel37.asp",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She defended health coverage for undocumented adults and made expanding access to health services a stated priority.",
+          "quote": "As the former Senate Health Committee Chair, I made expanding access to health services a priority. I fought to protect health access to undocumented adults because I know we have so many mixed-status families, and often the burden to financially support a family land on the documented kid.",
+          "sourceUrl": "https://us.headtopics.com/news/caroline-menjivar-sd-20-candidate-2026-primary-election-83027021",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She called for a faster transition away from oil while pairing it with green jobs and economic protections.",
+          "quote": "The truth is, we are moving away from oil because it’s harmful and outdated, and the faster we transition, the less leverage this industry has over our policy decisions.",
+          "sourceUrl": "https://us.headtopics.com/news/caroline-menjivar-sd-20-candidate-2026-primary-election-83027021",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Tony Rodriguez",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Rodriguez calls for lower taxes and fees and an end to spending on programs he considers unsuccessful.",
+          "quote": "The frivolous spending of taxpayer dollars on failed programs must end.",
+          "sourceUrl": "https://tony4senate.com/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "slower growth",
+          "strength": "strong",
+          "text": "Rodriguez says single-family neighborhoods should be protected from state policies and outside developers.",
+          "quote": "There must be allowances for all kinds of neighborhoods in a state as big as California. Single family neighborhoods are under threat by corporate buyers, Sacramento and out-of-state developers.",
+          "sourceUrl": "https://tony4senate.com/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Rodriguez said parents should choose which participating accredited school receives their child's taxpayer-funded allocation.",
+          "quote": "Parents should decide which participating and accredited school should receive the 15,000 of taxpayer monies allocated per student;",
+          "sourceUrl": "https://www.ballotready.org/people/tony-rodriguez",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Rodriguez calls for fully funding police and adding more officers.",
+          "quote": "Public safety must be a priority, and to do this, we must fully fund the LAPD and LAFD. More cops, more firefighters, fewer excuses.",
+          "sourceUrl": "https://tony4senate.com/",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "sd20.senate.ca.gov · cde.ca.gov · us.headtopics.com · tony4senate.com · ballotready.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

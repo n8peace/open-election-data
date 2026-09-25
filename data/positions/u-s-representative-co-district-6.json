@@ -1,0 +1,184 @@
+{
+  "office": "U.S. Representative",
+  "district": "CO District 6",
+  "division": "co/cd-6",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jason Clark",
+      "party": "Republican Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Clark said taxes, fees, and regulations are stifling businesses and called for limited government.",
+          "quote": "You have so many taxes, so many fees, so many regulations, you're stifling all the businesses, all the developers.",
+          "sourceUrl": "https://www.cpr.org/2026/09/25/vg-2026-jason-ray-clark-voter-guide/",
+          "agreement": "6/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Clark explicitly opposed tariffs and elsewhere endorsed free trade.",
+          "quote": "I don't agree with the (Iran) war. I don't agree with tariffs.",
+          "sourceUrl": "https://www.cpr.org/2026/09/25/vg-2026-jason-ray-clark-voter-guide/",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Asked about housing affordability, Clark blamed regulations for stifling developers.",
+          "quote": "goes back to limited government. The government's the problem. You have so many taxes, so many fees, so many regulations, you're stifling all the businesses, all the developers.",
+          "sourceUrl": "https://www.cpr.org/2026/09/25/vg-2026-jason-ray-clark-voter-guide/",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Clark's campaign calls for pursuing criminals and cleaning up Colfax Avenue.",
+          "quote": "Go after the criminals\nClean up Colfax Avenue",
+          "sourceUrl": "https://jasonclarkuscongress.com/",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "In 2014, Clark opposed a proposed constitutional amendment defining life as beginning at conception.",
+          "quote": "Kopp and Brophy said they supported the 2012 Personhood Amendment, which defines life beginning at conception, while Clark and House said they opposed it.",
+          "sourceUrl": "https://www.coloradopolitics.com/2014/02/25/gop-candidates-for-guv-attack-hick-and-absent-front-runners/",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "Jason Crow",
+      "party": "Democratic Party",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Crow voted against legislation that paired corporate and high-income tax cuts with reductions in health coverage and food assistance.",
+          "quote": "Americans won’t forget that Republicans cut healthcare to pass a massive tax cut for big corporations and the wealthiest Americans.",
+          "sourceUrl": "https://crow.house.gov/media/press-releases/crow-statement-on-anniversary-of-trump-s-big-ugly-bill",
+          "agreement": "4/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Crow cosponsored the Raise the Wage Act of 2025, which would increase the federal minimum wage.",
+          "quote": "To provide for increases in the Federal minimum wage, and for other purposes.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr2743ih",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Crow supports targeted tariffs against unfair trade practices but opposes broad tariffs that raise prices and trigger retaliation.",
+          "quote": "And when adversarial nations decide to engage in unfair trade practices, I believe tariffs can be leveraged to protect American companies and protect working Americans from unfair trade practices. However, overly broad tariffs raise the cost of goods, open markets to adversarial nations like China to fill the gap we leave, and subject American businesses to retaliatory tariffs in return.",
+          "sourceUrl": "https://www.cpr.org/2024/10/14/vg-2024-6th-congressional-district-jason-crow/",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Crow supports greater federal housing investment and expanding tax credits that incentivize developers to construct affordable units.",
+          "quote": "This is why I will continue to fight for increased federal investment aimed at fixing the housing crisis. To start, I will support the expansion of the Low Income Housing Tax Credit, which provides incentives for developers to build affordable housing units.",
+          "sourceUrl": "https://www.cpr.org/2024/10/14/vg-2024-6th-congressional-district-jason-crow/",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Crow said he would oppose voucher proposals and funding cuts while supporting greater investment in public schools.",
+          "quote": "In Congress, I am fighting against cuts in funding and voucher proposals that will only make this problem worse for Colorado's families.",
+          "sourceUrl": "https://ontheissues.org/House/Jason_Crow_Education.htm",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "Crow introduced legislation funding mental-health response partnerships intended to de-escalate crises and connect people with care rather than primarily criminalizing them.",
+          "quote": "The legislation, led by Crow and Bennet during National Mental Health Awareness Month, dedicates funding to deepen partnerships among law enforcement, health professionals, case managers, and outreach teams to improve public safety and connect people with mental health services and community resources. It seeks to treat mental health emergencies as such by stabilizing an individual, de-escalating, and connecting them with care, rather than treating these situations primarily as criminal matters.",
+          "sourceUrl": "https://crow.house.gov/media/press-releases/bennet-crow-introduce-legislation-to-support-law-enforcement-strengthen-community-policing",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Crow supports a secure border alongside a legal pathway to citizenship and protections for immigrant families.",
+          "quote": "Law enforcement can use existing laws to target violent criminals and Congress should focus on passing bipartisan immigration reform to provide a legal pathway to citizenship for immigrant families and secure our border.",
+          "sourceUrl": "https://crow.house.gov/services/know-your-rights",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Crow introduced legislation requiring certain interstate rifle and shotgun purchasers to undergo background checks in their home states.",
+          "quote": "The Colorado Loophole Act takes a commonsense step to treat shotguns and rifles the same way we treat handguns.",
+          "sourceUrl": "https://crow.house.gov/media/press-releases/congressman-crow-reintroduces-legislation-to-close-the-colorado-loophole-on-out-of-state-gun-sales",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Crow introduced legislation protecting abortion-related leave and travel benefits for servicemembers and military families.",
+          "quote": "A servicemember’s choice to have an abortion should remain between her and her doctor – not politicians.",
+          "sourceUrl": "https://crow.house.gov/media/press-releases/congressman-crow-joins-rep-sherrill-to-fight-for-reproductive-freedom-for-servicewomen-and-military-families",
+          "agreement": "9/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Crow has supported federal marijuana decriminalization and voted for the MORE Act and cannabis banking legislation.",
+          "quote": "Jason is fighting for federal decriminalization of marijuana",
+          "sourceUrl": "https://vote.norml.org/politicians/180218",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Crow supports protecting Medicaid, building on the Affordable Care Act, and creating a public insurance option.",
+          "quote": "In Congress, Jason is working hard to protect and build on the Affordable Care Act to protect people with pre-existing conditions, prevent any cuts to Medicaid, and ensure that every American can access affordable care. Jason is also building on this work to create a public option and provide reinsurance to drive down health care costs to everyone.",
+          "sourceUrl": "https://crow.house.gov/sites/evo-subsites/crow-evo.house.gov/files/2020_CO06_2020_Year_in_Review.pdf",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Crow calls climate change an existential threat, supports renewable-energy development, and favors limiting new oil and gas production on public lands.",
+          "quote": "I believe the federal government should take steps to limit new oil and gas production on public lands.",
+          "sourceUrl": "https://www.cpr.org/2024/10/14/vg-2024-6th-congressional-district-jason-crow/",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Crow supports Colorado’s accessible registration and voting systems as a national model and says participation barriers should be addressed.",
+          "quote": "To start, Colorado is the gold standard of election administration, and our accessible registration and voting systems should serve as a national model. Nationally, although we need to address barriers to participation, no credible evidence of voter fraud has been brought forth nationwide",
+          "sourceUrl": "https://www.cpr.org/2024/10/14/vg-2024-6th-congressional-district-jason-crow/",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "cpr.org · jasonclarkuscongress.com · coloradopolitics.com · crow.house.gov · govinfo.gov · ontheissues.org · vote.norml.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}
