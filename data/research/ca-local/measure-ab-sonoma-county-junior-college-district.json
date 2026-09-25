@@ -1,0 +1,19 @@
+{
+  "office": "Measure AB",
+  "district": "Sonoma County Junior College District",
+  "division": "ca/school-sonoma-county-junior-college-district",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue up to $830,000,000 in general obligation bonds to repair, construct, and equip college classrooms, sites, and facilities, including for career training programs.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

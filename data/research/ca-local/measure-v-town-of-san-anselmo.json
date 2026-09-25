@@ -1,0 +1,18 @@
+{
+  "office": "Measure V",
+  "district": "Town of San Anselmo",
+  "division": "ca/place-san-anselmo",
+  "kind": "measure",
+  "summary": "A Yes vote continues the town's paramedic services special tax, with proceeds placed in a special fund used solely for paramedic and pre-hospital emergency services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

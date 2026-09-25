@@ -1,0 +1,18 @@
+{
+  "office": "Measure II",
+  "district": "City of Union City",
+  "division": "ca/place-union",
+  "kind": "measure",
+  "summary": "A Yes vote extends the city's existing utility users tax.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

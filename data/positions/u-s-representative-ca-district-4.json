@@ -1,0 +1,160 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 4",
+  "division": "ca/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Mike Thompson",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Thompson introduced a package combining targeted tax relief with public investments in housing, child care, health care, and energy.",
+          "quote": "The American Affordability Act is about real relief for families: affordable housing, lower energy bills, more affordable childcare and healthcare, and bigger paychecks. This bill delivers targeted tax relief and smart investments that help families make ends meet and restores the promise that hard work should be enough to get ahead in our country.",
+          "sourceUrl": "https://mikethompson.house.gov/newsroom/press-releases/thompson-neal-ways-and-means-democrats-introduce-american-affordability-act",
+          "agreement": "4/8"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Thompson has publicly called for raising the minimum wage as a way to strengthen the middle class.",
+          "quote": "This Labor Day, let's commit ourselves to jumpstarting the middle class by creating good jobs, raising the minimum wage, and making higher education affordable.",
+          "sourceUrl": "https://mikethompson.house.gov/newsroom/press-releases/rep-mike-thompson-statement-labor-day",
+          "agreement": "4/8"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Thompson opposed new tariffs, saying they would raise consumer prices and cost jobs.",
+          "quote": "The American people will pay the price for the President’s trade war. The tariffs the President announced today will raise prices on groceries and electronics, cars and homes, and just about every other good on which we rely.",
+          "sourceUrl": "https://www.mikethompsonforcongress.com/news/thompson-releases-statement-presidents-trade-war",
+          "agreement": "6/8"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Thompson pledges to keep Social Security and Medicare intact and fully funded.",
+          "quote": "I am committed to making sure the promise of Social Security and Medicare is 100 percent certain today and for many years to come.",
+          "sourceUrl": "https://www.mikethompsonforcongress.com/issues/seniors",
+          "agreement": "6/8"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Thompson voted for legislation intended to increase housing supply and streamline home construction.",
+          "quote": "The 21st Century ROAD to Housing Act will help us build more housing, lower mortgage and rental costs, and expand home ownership. The President should sign it into law now",
+          "sourceUrl": "https://www.mikethompsonforcongress.com/news/thompson-applauds-passage-landmark-housing-bill-urges-president-sign-it-law-thompson-voted-yes",
+          "agreement": "6/8"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "As a state senator, Thompson passed a law allowing law-enforcement agencies to share information about parolees and violent and sex offenders.",
+          "quote": "As a State Senator, Thompson introduced and passed a bill allowing law-enforcement agencies to integrate and share information concerning parolees, violent criminals, and habitual sexual offenders, including registered sex offenders.",
+          "sourceUrl": "https://mikethompson.house.gov/about/representative-mike-thompsons-accomplishments",
+          "agreement": "3/8"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Thompson supports pathways to citizenship, education protections for immigrant children, and guest-worker programs.",
+          "quote": "We need comprehensive reform that that rewards individuals who play by the rules, allows children of immigrants to get a college education, provides a pathway to citizenship for families who have been here for generations, and establishes a guest worker program for those here doing jobs Americans don’t want to do.",
+          "sourceUrl": "https://www.mikethompsonforcongress.com/issues/immigration",
+          "agreement": "6/8"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "As chair of the Gun Violence Prevention Task Force, Thompson champions universal background checks to keep firearms from dangerous people.",
+          "quote": "My position has always been that criminals or people who are a danger to themselves or others should not be able to possess firearms.",
+          "sourceUrl": "https://mikethompson.house.gov/issues/gun-violence-prevention",
+          "agreement": "8/8"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Thompson supports federal action to protect access to abortion and other reproductive health care.",
+          "quote": "I believe that protecting a woman’s access to reproductive healthcare is more important now than ever.",
+          "sourceUrl": "https://mikethompson.house.gov/issues/civil-rights",
+          "agreement": "3/8"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Thompson voted for and defends the Affordable Care Act as a step toward covering every American.",
+          "quote": "I am proud to have voted for the Patient Protection and Affordable Care Act",
+          "sourceUrl": "https://www.mikethompsonforcongress.com/issues/health-care",
+          "agreement": "7/8"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Thompson calls climate change the top threat and authored the GREEN Act clean-energy investments in the Inflation Reduction Act.",
+          "quote": "Climate change is the greatest threat we face today.",
+          "sourceUrl": "https://mikethompson.house.gov/issues/environment",
+          "agreement": "8/8"
+        }
+      }
+    },
+    {
+      "name": "Eric Jones",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Jones proposes a working-class tax cut funded by closing corporate tax loopholes and pursuing tax cheats.",
+          "quote": "using that money to fund a tax cut for the working class in this country",
+          "sourceUrl": "https://www.kqed.org/news/12087322/democrat-eric-jones-set-up-for-runoff-battle-against-longtime-napa-valley-congressman",
+          "agreement": "3/8"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He wants to open export markets for the district's crops and remove trade barriers so growers can sell abroad, while conceding trade leverage is sometimes needed.",
+          "quote": "We grow what the world wants to buy. Our job is to make sure they can buy it — and to stop letting the people who grow it be the first ones to pay for somebody else's fight.",
+          "sourceUrl": "https://www.ericjones.us/priorities/protect-our-future/trade-and-exports",
+          "agreement": "5/8"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Jones proposes building two million homes annually to increase supply and reduce housing costs.",
+          "quote": "Build 2 million homes a year — increase supply, ease the housing shortage, and lower costs",
+          "sourceUrl": "https://www.ericjones.us/",
+          "agreement": "7/8"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He wants to expand Medicare to cover vision, hearing, dental, and in-home care for everyone at 65.",
+          "quote": "Medicare will pay for a heart procedure but not the dental care that might have prevented it.",
+          "sourceUrl": "https://www.ericjones.us/priorities/lower-cost-of-living/expand-medicare",
+          "agreement": "8/8"
+        }
+      }
+    }
+  ],
+  "sources": "mikethompson.house.gov · mikethompsonforcongress.com · kqed.org · ericjones.us",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

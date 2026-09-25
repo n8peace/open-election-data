@@ -1,0 +1,19 @@
+{
+  "office": "Measure H",
+  "district": "Plumas Lake Elementary School District",
+  "division": "ca/school-plumas-lake-elementary",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Plumas Lake Elementary School District to issue $9,000,000 in general obligation bonds to construct and furnish a gymnasium at Plumas Lake Junior High School, repaid by a property tax levied at an estimated $12 per $100,000 of assessed valuation while the bonds are outstanding.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

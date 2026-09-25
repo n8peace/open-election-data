@@ -1,0 +1,19 @@
+{
+  "office": "Measure E",
+  "district": "Los Angeles County",
+  "division": "ca/county-los-angeles",
+  "kind": "measure",
+  "summary": "A Yes vote amends the Los Angeles County Charter to change the structure, independence, appointments, and duties of the County Ethics Commission, Office of Ethics Compliance, and Ethics Compliance Officer, and to continue the County's community investment and alternatives-to-incarceration commitment.",
+  "issues": [
+    "safety",
+    "sentencing"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

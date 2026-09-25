@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "AZ District 2",
+  "division": "az/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Eli Crane",
+      "party": "Republican"
+    },
+    {
+      "name": "Jonathan Nez",
+      "party": "Democratic"
+    },
+    {
+      "name": "Curtis Goodwin",
+      "party": "Libertarian"
+    }
+  ]
+}

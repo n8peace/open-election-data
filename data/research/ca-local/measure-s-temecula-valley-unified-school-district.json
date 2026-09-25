@@ -1,0 +1,19 @@
+{
+  "office": "Measure S",
+  "district": "Temecula Valley Unified School District",
+  "division": "ca/school-temecula-valley-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes Temecula Valley Unified School District to issue $215 million in bonds for school facilities, repaid by a property tax estimated at $20 per $100,000 of assessed value.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

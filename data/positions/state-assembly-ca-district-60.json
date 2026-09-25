@@ -1,0 +1,78 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 60",
+  "division": "ca/sldl-60",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Corey A Jackson",
+      "party": "Democratic",
+      "stances": {}
+    },
+    {
+      "name": "Ed Delgado",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Delgado supports eliminating California's gas tax to reduce the cost of living.",
+          "quote": "I support eliminating the Gas Tax, which will help make everything from food, to driving, to clothing, less expensive.",
+          "sourceUrl": "https://www.voteeddelgado.com/issues",
+          "agreement": "2/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Delgado wants to remove construction regulations so more affordable homes can be built.",
+          "quote": "I'll fight to eliminate unfair rules and regulations on housing construction so we can build affordable homes again.",
+          "sourceUrl": "https://www.voteeddelgado.com/issues",
+          "agreement": "2/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Delgado supports fully funding Proposition 36 and stronger enforcement against drug and theft crimes.",
+          "quote": "I support fully funding Proposition 36, which enacted tough new drug and theft laws, while getting offenders the help they may need.",
+          "sourceUrl": "https://www.voteeddelgado.com/issues",
+          "agreement": "2/3"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "Delgado, a former assistant sheriff, criticizes soft-on-crime laws and calls for life sentences for child predators.",
+          "quote": "I'll vote to keep people safe from crime and send child predators to prison for life.",
+          "sourceUrl": "https://www.voteeddelgado.com/issues",
+          "agreement": "2/3"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Delgado supports barring transgender girls from girls' sports and locker rooms.",
+          "quote": "I will work hard to ensure our girls are safe by banning biological boys in girls sports and locker rooms.",
+          "sourceUrl": "https://www.voteeddelgado.com/issues",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "voteeddelgado.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

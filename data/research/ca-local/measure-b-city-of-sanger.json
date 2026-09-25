@@ -1,0 +1,18 @@
+{
+  "office": "Measure B",
+  "district": "City of Sanger",
+  "division": "ca/place-sanger",
+  "kind": "measure",
+  "summary": "A Yes vote imposes a transient occupancy tax on stays at hotels and other short-term lodging in the City of Sanger.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

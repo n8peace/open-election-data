@@ -1,0 +1,16 @@
+{
+  "office": "Insurance Commissioner",
+  "district": "CA",
+  "division": "ca/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Ben Allen",
+      "party": "Democratic"
+    },
+    {
+      "name": "Jane Kim",
+      "party": "Democratic"
+    }
+  ]
+}

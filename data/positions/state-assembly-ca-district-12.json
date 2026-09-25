@@ -1,0 +1,143 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 12",
+  "division": "ca/sldl-12",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jackie Elward",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Elward says she supports closing multinational corporate tax loopholes to recover revenue for the state.",
+          "quote": "Jackie supports closing multi-national corporate tax loopholes that cost the state billions every year",
+          "sourceUrl": "https://www.jackie4assembly.com/priorities",
+          "agreement": "6/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "A self-described pro-labor organizer, Elward backs every worker's right to unionize and bargain for higher pay.",
+          "quote": "EVERY worker deserves the right to organize and collectively bargain for fair wages and benefits",
+          "sourceUrl": "https://www.jackie4assembly.com/priorities",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She supports expanding infill development, streamlining accessory-dwelling-unit construction, and funding affordable housing.",
+          "quote": "thoughtfully expand infill development, and streamline ADU construction.",
+          "sourceUrl": "https://www.jackie4assembly.com/priorities",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Elward, a career educator, emphasizes investing in and protecting public schools.",
+          "quote": "Jackie is a lifelong educator who believes in the transformative power of our public schools and university system.",
+          "sourceUrl": "https://www.jackie4assembly.com/priorities",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "She supported an unarmed crisis-response team and frames safety around youth programs, mental health, and crisis responders.",
+          "quote": "This includes enriching opportunities for youth before, during, and after school, greater mental health investments, crisis responder support, and greater connections between law enforcement and the communities they serve (community policing).",
+          "sourceUrl": "https://www.jackie4assembly.com/priorities",
+          "agreement": "6/10"
+        },
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "strong",
+          "text": "Elward supports earned credits, eliminating mandatory minimums, and diversion over a punishment-first sentencing model.",
+          "quote": "Bills that restrict earned credits or narrow eligibility undermine voter intent and move us backward toward a punishment first model that has already failed.",
+          "sourceUrl": "https://ijaction.org/ad-12-2026/",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "An immigrant herself, Elward pledges to protect immigrant neighbors and their rights.",
+          "quote": "Jackie is proud to be an immigrant who loves the North Bay, and will do everything she can to protect our neighbors",
+          "sourceUrl": "https://www.jackie4assembly.com/priorities",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She backs gun-safety laws and pledges to champion efforts to reduce gun violence.",
+          "quote": "Jackie supports common-sense gun safety laws and will champion efforts to reduce gun violence",
+          "sourceUrl": "https://www.jackie4assembly.com/priorities",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She wants the state to backfill federal cuts so Californians do not lose their health insurance.",
+          "quote": "the state needs to step up to fill in the gaps left by H.R. 1 to ensure millions of Californians do not lose their health insurance",
+          "sourceUrl": "https://www.jackie4assembly.com/priorities",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Elward champions climate investment, securing state Climate Bond funding for wildfire prevention and resilience.",
+          "quote": "Jackie will ensure the North Bay gets its fair share of the Climate Bond, which invests $10 billion in projects",
+          "sourceUrl": "https://www.jackie4assembly.com/priorities",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Eric Lucan",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "As a Marin County Supervisor he helped pass a county housing commitment enabling thousands of new homes.",
+          "quote": "paves the way for over 5,000 new homes in Marin",
+          "sourceUrl": "https://www.ericlucan.com/priorities",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He funded legal aid for immigrant communities and pledged to oppose deportations and federal immigration overreach.",
+          "quote": "opposing unlawful removals, federal overreach, and actions that undermine due process, community trust, and the rule of law",
+          "sourceUrl": "https://www.ericlucan.com/priorities",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He says California must do more on climate and calls for shifting transportation funding toward biking and away from highway expansion to cut emissions.",
+          "quote": "California, for all of its leadership on climate change, must do more!",
+          "sourceUrl": "https://marinbike.org/news/2026-assembly-district-12-questionnaire/",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "jackie4assembly.com · ijaction.org · ericlucan.com · marinbike.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

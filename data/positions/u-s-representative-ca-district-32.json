@@ -1,0 +1,192 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 32",
+  "division": "ca/cd-32",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Brad Sherman",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Sherman voted against the 2025 Republican reconciliation bill, opposing its tax cuts for the wealthy alongside cuts to health and nutrition programs.",
+          "quote": "This big, ugly bill epitomizes the true nature of Trump's entire policy agenda — one that favors billionaires over everyday Americans.",
+          "sourceUrl": "https://sherman.house.gov/media-center/press-releases/congressman-brad-sherman-hosts-5000-telephone-town-hall-voting-against",
+          "agreement": "3/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Sherman has supported organized labor, collective bargaining, workers’ rights, and legislation for better wages and benefits.",
+          "quote": "For decades, Sherman has championed legislation to strengthen workers' rights, protect collective bargaining, expand paid family and medical leave, and support the ability of workers to organize and negotiate for better wages and benefits.",
+          "sourceUrl": "https://sherman.house.gov/media-center/press-releases/sherman-secures-12-million-labor-community-services-bringing-total",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Sherman has consistently opposed privatizing Social Security or turning Medicare into a voucher program.",
+          "quote": "I have consistently opposed any and all efforts to privatize Social Security.",
+          "sourceUrl": "https://sherman.house.gov/media-center/opinion-editorials/new-threats-to-social-security-medicare",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Sherman urged the president to sign a bipartisan housing bill that would expand access to affordable housing and reduce barriers for vulnerable people.",
+          "quote": "would have enacted the largest set of bipartisan measures that would help expand access to affordable housing, reduce unnecessary barriers for vulnerable Americans, and make homeownership more accessible and affordable for families across the country",
+          "sourceUrl": "https://sherman.house.gov/media-center/press-releases/trump-holds-housing-bill-stabs-homeless-veterans-back-ill-fated-effort",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Secured funding for both an unarmed crisis-response program and a police real-time crime center.",
+          "quote": "The funding will be used to help expand the Crisis and Incident Response through Community-led Engagement (CIRCLE) program, a 24/7 unarmed response program",
+          "sourceUrl": "https://sherman.house.gov/media-center/press-releases/sherman-secures-funding-9-additional-valley-westside-projects",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Said he would not vote for federal appropriations bills funding ICE and criticized aggressive immigration enforcement policies.",
+          "quote": "Sherman said he will refuse to vote for any federal appropriations bill that funds ICE",
+          "sourceUrl": "https://sherman.house.gov/media-center/press-releases/over-3000-join-sherman-telephone-town-hall-reviewing-trumps-first-year",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Sherman supports stricter gun laws, citing a 100% rating from the Brady Campaign and an 'F' grade from the NRA.",
+          "quote": "Congressman Sherman has earned a 100% voting record rating from the Brady Campaign to Prevent Gun Violence.",
+          "sourceUrl": "https://www.bradsherman.com/priorities",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Sherman supports the Affordable Care Act and safeguarding Social Security and Medicare, and opposed cuts to Medicaid.",
+          "quote": "pass President Obama's Affordable Care Act, safeguard Social Security and Medicare",
+          "sourceUrl": "https://www.bradsherman.com/meet-brad",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Sherman cosponsored the Green New Deal and voted for the Inflation Reduction Act's climate investments.",
+          "quote": "The Green New Deal sets forth an ambitious yet vitally necessary vision for a 10-year national mobilization effort to curb global warming and achieve a green economy with net-zero emissions",
+          "sourceUrl": "https://www.bradsherman.com/priorities",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Sherman helped introduce the John R. Lewis Voting Rights Advancement Act to restore and protect voting access.",
+          "quote": "Today, I was proud to join my House Democratic colleagues to introduce the John Lewis Voting Rights Advancement Act to protect the right to vote against extremists working to silence our voices.",
+          "sourceUrl": "https://sherman.house.gov/media-center/press-releases/sherman-colleagues-to-introduce-the-john-r-lewis-voting-rights",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "Larry Thompson",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Thompson's platform calls for lowering all taxes and eliminating some, plus no taxes on Social Security, tips, and overtime.",
+          "quote": "Lower them all, and eliminate some. No taxes on Social Security and no taxes on tips and overtime.",
+          "sourceUrl": "https://www.larrythompsonforcongress.com/issues",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Thompson supports cutting spending to reduce the national debt while also saying he would protect Social Security and Medicare.",
+          "quote": "The government should cut spending in order to reduce the national debt.",
+          "sourceUrl": "https://ivoterguide.com/candidate/51687/race/25593/election/1385",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Thompson said he supports school choice programs including vouchers, tax credits, charter schools, private schools, and homeschooling.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools.",
+          "sourceUrl": "https://ivoterguide.com/candidate/51687/race/1261/election/1202?culture=en-us",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Thompson says he wants to support police and prosecute criminals according to the letter and spirit of the law.",
+          "quote": "We need to support our men and women in blue and prosecute criminals according to the letter and spirit of the law.",
+          "sourceUrl": "https://www.larrythompsonforcongress.com/issues",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Thompson said the southern border should be physically secured and disagreed with sanctuary cities.",
+          "quote": "The U.S. should do more to physically secure the southern border. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/51687/race/1261/election/1202?culture=en-us",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Thompson says he is personally opposed to abortion but believes states should set abortion policy and opposes a federal ban on abortion rights.",
+          "quote": "As your Congressman, I believe the law is clear. It's not an issue for the national government anymore. The people and legislatures of each state will determine their policies. I also do not believe in a federal law banning a woman's right to choose.",
+          "sourceUrl": "https://www.larrythompsonforcongress.com/issues",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Thompson said biological males should not participate in women's sports or occupy spaces designated for biological women.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces",
+          "sourceUrl": "https://ivoterguide.com/candidate/51687/race/25593/election/1385",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Thompson supports letting all alternative energy forms and American oil compete in a free market.",
+          "quote": "I am for allowing all alternate forms of energy and American oil to compete in a free market.",
+          "sourceUrl": "https://www.larrythompsonforcongress.com/issues",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Thompson disagreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/51687/race/1261/election/1202?culture=en-us",
+          "agreement": "7/10"
+        }
+      }
+    }
+  ],
+  "sources": "sherman.house.gov · bradsherman.com · larrythompsonforcongress.com · ivoterguide.com",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

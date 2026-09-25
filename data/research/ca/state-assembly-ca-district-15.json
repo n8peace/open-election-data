@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 15",
+  "division": "ca/sldl-15",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Anamarie Avila Farias",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Arthur Webb",
+      "party": "No Party Preference",
+      "incumbent": false
+    }
+  ]
+}

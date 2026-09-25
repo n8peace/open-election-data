@@ -1,0 +1,19 @@
+{
+  "office": "Measure C",
+  "district": "Santa Paula Unified School District",
+  "division": "ca/school-santa-paula-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Santa Paula Unified School District to issue $48.6 million in general obligation bonds, repaid by district property owners, to fund construction and repairs at district school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

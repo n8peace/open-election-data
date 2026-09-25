@@ -1,0 +1,184 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 35",
+  "division": "ca/cd-35",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Norma Torres",
+      "party": "Democratic",
+      "stances": {
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Torres cosponsored the American Dream and Promise Act and defended DACA recipients, calling for permanent protections and a pathway to citizenship.",
+          "quote": "Today's Supreme Court ruling sends a clear message that DACA recipients are Americans in every way",
+          "sourceUrl": "https://torres.house.gov/media-center/press-releases/torres-dreamers-are-americans-every-way",
+          "agreement": "3/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Torres, a former 911 dispatcher, repeatedly calls for stronger gun laws to keep firearms from dangerous people.",
+          "quote": "At a bare minimum, we owe it to them to pass the common-sense laws that would prevent the same events from playing out, over and over.",
+          "sourceUrl": "https://torres.house.gov/media-center/press-releases/rep-torres-calls-common-sense-gun-control-policies",
+          "agreement": "4/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Torres, Vice Chair of the Pro-Choice Caucus, co-sponsors legislation to guarantee abortion access and defends reproductive rights.",
+          "quote": "Every woman should have the ability to make her own personal medical decisions and access reproductive health care.",
+          "sourceUrl": "https://torres.house.gov/media-center/press-releases/torres-schakowsky-booker-lee-degette-pressley-strickland-reintroduce",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Voted against the One Big Beautiful Bill Act after the scorecard identified it as cutting Medicaid funding and disqualifying Planned Parenthood from the program.",
+          "quote": "A bill to drastically cut Medicaid funding and disqualify Planned Parenthood from participating in the program for one year.",
+          "sourceUrl": "https://reproductivefreedomforall.org/lawmaker/norma-torres/",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Torres voted for the For the People Act to expand voting access and counter new voting restrictions.",
+          "quote": "There is nothing more important to the health of our democracy than access to the polls",
+          "sourceUrl": "https://torres.house.gov/media-center/press-releases/torres-votes-strengthen-democracy-face-unprecedented-voter-suppression",
+          "agreement": "3/10"
+        }
+      }
+    },
+    {
+      "name": "Mike Cargile",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Cargile says taxes should be reduced and government regulation cut to support economic growth.",
+          "quote": "Lower the tax burden and eliminate government over-regulation and we will bounce back quicker than it takes to pack up and move to Texas!",
+          "sourceUrl": "https://www.cargileforcongress.com/jobs-and-economy",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Cargile rejects a government responsibility to guarantee everyone a livable income and emphasizes free enterprise.",
+          "quote": "It is the government’s responsibility to ensure everyone has a livable income. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/52202/race/1264/election/765",
+          "agreement": "3/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Cargile says he would vote to protect Social Security benefits for future generations.",
+          "quote": "Get elected to Congress and vote to protect it. There really is no other safeguard.",
+          "sourceUrl": "https://ivoterguide.com/candidate/52202/race/1264/election/765",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Cargile supports allowing parents to choose among public, private, charter, online and home schools.",
+          "quote": "Parents should be able to choose the school and environment best suited for their child.",
+          "sourceUrl": "https://www.cargileforcongress.com/education",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Cargile says he supports law enforcement and first responders and favors enforcement responses to crime and border violations.",
+          "quote": "Mike stands WITH our Law Enforcement and First Responders.",
+          "sourceUrl": "https://www.cargileforcongress.com/issues-1",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Cargile supports completing a border wall and deporting people who remain in the country illegally after refusing to leave.",
+          "quote": "Those who refuse to self-deport will be deported forcibly and without prejudice.",
+          "sourceUrl": "https://www.cargileforcongress.com/immigration",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Cargile says gun ownership is an unrestricted constitutional right and opposes broad government oversight.",
+          "quote": "This unrestricted right is recognized as belonging to the common citizens (Militia) of the United States",
+          "sourceUrl": "https://www.cargileforcongress.com/second-amendment",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Cargile says he would not support abortion except in cases of rape, incest or danger to the mother’s life.",
+          "quote": "Therefore, except in the case of rape, incest or the life of the mother, I will never support abortion.",
+          "sourceUrl": "https://www.cargileforcongress.com/life",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Cargile opposes boys participating in girls’ sports and men using women’s bathrooms.",
+          "quote": "Mike wholeheartedly stands against boys in girls’ sports, men in women’s bathrooms",
+          "sourceUrl": "https://www.cargileforcongress.com/issues-1",
+          "agreement": "7/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "strong",
+          "text": "Cargile opposes legalizing recreational marijuana.",
+          "quote": "I support the legalization of recreational marijuana. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/52202/race/1264/election/765",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Cargile opposes government responsibility for guaranteeing health insurance and favors competition in the private marketplace.",
+          "quote": "Allow robust competition in the marketplace and remove governmental restraints.",
+          "sourceUrl": "https://ivoterguide.com/candidate/52202/race/1264/election/765",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Cargile supports oil and gas production and opposes policies he says would move the country away from fossil fuels.",
+          "quote": "The lifeblood of the American economy is crude oil.",
+          "sourceUrl": "https://www.cargileforcongress.com/jobs-and-economy",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Cargile lists requiring photo identification for national elections as a legislative priority.",
+          "quote": "Photo ID Required to vote in a National Election",
+          "sourceUrl": "https://ivoterguide.com/candidate/52202/race/1264/election/765",
+          "agreement": "9/10"
+        }
+      }
+    }
+  ],
+  "sources": "torres.house.gov · reproductivefreedomforall.org · cargileforcongress.com · ivoterguide.com",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

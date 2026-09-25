@@ -1,0 +1,18 @@
+{
+  "office": "Measure DD",
+  "district": "City of Newark",
+  "division": "ca/place-newark",
+  "kind": "measure",
+  "summary": "A Yes vote updates the city's business license ordinance to fund city services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

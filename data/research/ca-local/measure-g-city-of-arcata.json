@@ -1,0 +1,18 @@
+{
+  "office": "Measure G",
+  "district": "City of Arcata",
+  "division": "ca/place-arcata",
+  "kind": "measure",
+  "summary": "A Yes vote continues the city's existing 0.75% sales (transactions and use) tax with no expiration date, estimated to generate about $2,800,000 per year for city services, until repealed by voters.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

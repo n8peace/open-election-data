@@ -1,0 +1,41 @@
+{
+  "office": "Measure P",
+  "district": "Tahoe Truckee Unified School District",
+  "division": "ca/school-tahoe-truckee-unified",
+  "kind": "measure",
+  "summary": "A Yes vote renews the expiring $148 annual parcel tax and adds a $40 increase to fund school programs.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "A Yes vote renews the expiring $148 school parcel tax and adds a $40 increase for nine years to fund local schools.",
+          "quote": "renewing the expiring $148 annual school parcel tax with a $40 increase, for nine years, with senior exemptions",
+          "sourceUrl": "https://www.nevadacountyca.gov/m/newsflash/Home/Detail/8846",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Measure P renews and raises the district's parcel tax to fund Tahoe-Truckee Unified public school programs, teachers, and class sizes, and a Yes vote supports it.",
+          "quote": "continue supporting math, science, engineering, technology, arts, and skilled trades/job training programs preparing students for success in college/careers",
+          "sourceUrl": "https://www.nevadacountyca.gov/m/newsflash/Home/Detail/8846",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "nevadacountyca.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

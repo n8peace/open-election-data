@@ -1,0 +1,18 @@
+{
+  "office": "Measure CC",
+  "district": "City of Hayward",
+  "division": "ca/place-hayward",
+  "kind": "measure",
+  "summary": "A Yes vote updates the city's business license tax ordinance.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

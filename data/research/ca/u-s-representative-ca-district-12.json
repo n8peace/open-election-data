@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 12",
+  "division": "ca/cd-12",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Jamie Joyce",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Lateefah Simon",
+      "party": "Democratic",
+      "incumbent": false
+    }
+  ]
+}

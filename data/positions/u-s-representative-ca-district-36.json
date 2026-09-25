@@ -1,0 +1,152 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 36",
+  "division": "ca/cd-36",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Ted W. Lieu",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Secured federal funding for affordable-housing acquisition and converting a hotel into housing for people experiencing homelessness.",
+          "quote": "$250,000 for the City of Redondo Beach’s Affordable Housing Acquisition to Lease Project",
+          "sourceUrl": "https://lieu.house.gov/media-center/press-releases/rep-lieu-secures-over-137-million-local-community-projects",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Secured $2 million in federal funding for the Palos Verdes Peninsula Unified School District’s Miraleste Intermediate School modernization project.",
+          "quote": "$2,000,000 for the Palos Verdes Peninsula Unified School District’s Miraleste Intermediate School Modernization Project",
+          "sourceUrl": "https://lieu.house.gov/media-center/press-releases/rep-lieu-secures-over-137-million-local-community-projects",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Secured federal funding for local crime-center and public-safety infrastructure projects.",
+          "quote": "$1,031,000 for the City of Hermosa Beach’s Real Time Crime Center Project",
+          "sourceUrl": "https://lieu.house.gov/media-center/press-releases/rep-lieu-secures-over-137-million-local-community-projects",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Lieu has opposed aggressive immigration enforcement, calling for a halt to ICE and CBP interior operations.",
+          "quote": "an immediate nationwide stand down of ICE and CBP interior operations",
+          "sourceUrl": "https://lieu.house.gov/issues/immigration",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Lieu backs an assault weapons ban and universal background checks and has repeatedly pushed for stricter gun laws.",
+          "quote": "Democrats have introduced a number of commonsense gun safety reforms, including an assault weapons ban, universal background checks, a ban on pistol braces, and more.",
+          "sourceUrl": "https://lieu.house.gov/media-center/press-releases/rep-lieu-condemns-gop-inaction-gun-violence",
+          "agreement": "4/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Lieu, a Pro-Choice Caucus member, says he has worked throughout his career to protect access to abortion and reproductive health care.",
+          "quote": "I have spent my career in public office working to protect equal access to reproductive health care for all Americans.",
+          "sourceUrl": "https://lieu.house.gov/reproductive-rights",
+          "agreement": "3/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Lieu voted for federal cannabis reform and says enforcement resources should not be spent on cannabis laws.",
+          "quote": "It is my longstanding belief that law enforcement resources and taxpayer money should not be used to enforce ill-advised cannabis laws.",
+          "sourceUrl": "https://lieu.house.gov/media-center/press-releases/rep-lieu-statement-house-passage-bill-cannabis-reform",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Lieu defends the Affordable Care Act and expanded coverage, saying access to care should not depend on cost.",
+          "quote": "The decision to seek care and take life-saving measures shouldn't come down to cost.",
+          "sourceUrl": "https://lieu.house.gov/media-center/editorials/protect-affordable-care-act",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Lieu, who authored California's AB 32 and introduced the Climate Solutions Act, calls for strong renewable standards and cutting carbon pollution.",
+          "quote": "set strong renewable energy standards and slash the carbon pollution that is damaging our planet.",
+          "sourceUrl": "https://lieu.house.gov/issues/energy-and-environment",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Lieu cosponsored voting rights legislation and says protecting ballot access should be a priority for every official.",
+          "quote": "Protecting the right to vote is foundational to our country's values and should be a priority for every elected official.",
+          "sourceUrl": "https://lieu.house.gov/media-center/press-releases/rep-lieu-statement-house-passage-voting-rights-bill",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Houston Brignano",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Supports tax breaks for people buying homes or starting companies.",
+          "quote": "tax breaks for buying homes or starting companies",
+          "sourceUrl": "https://www.voteforhouston.com/solutions",
+          "agreement": "2/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Supports extensive housing construction and reducing regulations that restrict new development.",
+          "quote": "abundance through innovation zones and extensive building can change that. You can't purchase a home because regulations restrict new development",
+          "sourceUrl": "https://www.voteforhouston.com/why",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Supports secure borders, strong vetting, and enforcement to remove criminals, while opposing secret amnesty and people skipping the legal immigration process.",
+          "quote": "Strong vetting will prevent and strong enforcement will remove criminals who threaten our families, ensuring secure borders to keep Americans safe.",
+          "sourceUrl": "https://www.voteforhouston.com/why",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Supports portable health savings accounts, cross-state competition, and allowing people to choose among healthcare providers.",
+          "quote": "I support portable health savings accounts, cross-state competition, and a system that works for you to choose the best care for your family",
+          "sourceUrl": "https://www.voteforhouston.com/why",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "lieu.house.gov · voteforhouston.com",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

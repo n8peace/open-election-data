@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 9",
+  "division": "ca/sldl-9",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Matthew Adams",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Heath Flora",
+      "party": "Republican",
+      "incumbent": true
+    }
+  ]
+}

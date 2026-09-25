@@ -1,0 +1,19 @@
+{
+  "office": "Measure W",
+  "district": "Acalanes Union High School District",
+  "division": "ca/school-acalanes-union-high",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a $168-per-parcel tax for eight years, raising about $6 million per year for the district's academic programs and teacher recruitment, with a senior exemption.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

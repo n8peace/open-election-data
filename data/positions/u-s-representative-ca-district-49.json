@@ -1,0 +1,160 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 49",
+  "division": "ca/cd-49",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Mike Levin",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Levin supports raising the payroll tax cap for higher earners to help extend Social Security’s solvency.",
+          "quote": "On Social Security, Levin said he supports raising the payroll tax cap for higher earners rather than cutting benefits or increasing the retirement age.",
+          "sourceUrl": "https://www.mikelevin.org/2026/09/19/san-clemente-times-levin-highlights-rail-beach-restoration-and-san-onofre-during-san-clemente-town-hall/",
+          "agreement": "4/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Levin opposes Trump's tariffs and has called for them to be lifted, saying they raise families' costs.",
+          "quote": "Trump's tariffs are harming consumers and small businesses, and because they are so erratic they are not helping our nation expand the manufacturing base at home.",
+          "sourceUrl": "https://www.mikelevin.org/agenda/economy/",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Levin supports raising taxes on higher earners rather than cutting Social Security benefits or increasing the retirement age.",
+          "quote": "On Social Security, Levin said he supports raising the payroll tax cap for higher earners rather than cutting benefits or increasing the retirement age.",
+          "sourceUrl": "https://www.mikelevin.org/2026/09/19/san-clemente-times-levin-highlights-rail-beach-restoration-and-san-onofre-during-san-clemente-town-hall/",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Levin frames a supply shortage as the root of the housing crisis and backs investments to increase the housing supply.",
+          "quote": "Our nation is nearly four million units of housing short of the need, and that supply shortage is the root cause of our affordable housing crisis.",
+          "sourceUrl": "https://www.mikelevin.org/agenda/housing/",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Levin says he has fought to make sure local public schools get the resources they need.",
+          "quote": "Mike has fought for our local public schools, working to make sure they receive the resources they need to hire and keep excellent teachers",
+          "sourceUrl": "https://www.mikelevin.org/agenda/education/",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Levin says he has never supported defunding police and wants to increase police funding.",
+          "quote": "Mike believes we should increase funding for police in a way that helps them stay safe, do their jobs more effectively, and earn the trust of the communities they serve.",
+          "sourceUrl": "https://www.mikelevin.org/agenda/safety/",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Levin opposed a DHS funding bill after accountability measures for ICE, including limits on deportations, were rejected.",
+          "quote": "We even tried to add a ban on the deportation of American citizens , and the Republicans in Congress rejected all of it!",
+          "sourceUrl": "https://www.mikelevin.org/2026/01/22/statement-from-mike-on-why-he-voted-no-on-the-dhs-appropriations-bill/",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Levin supports universal background checks and an assault weapons ban.",
+          "quote": "Mike has also worked to institute an assault weapons ban and expand Brady background checks to all gun sales, including those made over the Internet and at gun shows.",
+          "sourceUrl": "https://www.mikelevin.org/agenda/gunviolence/",
+          "agreement": "4/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Levin says he will defend a woman's right to make her own reproductive choices and cosponsored a bill to codify Roe.",
+          "quote": "Mike will always defend a woman's right to make her own reproductive choices.",
+          "sourceUrl": "https://www.mikelevin.org/agenda/women/",
+          "agreement": "6/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Levin says no one should face discrimination based on gender identity and supports the Equality Act.",
+          "quote": "He believes that no one should face discrimination or harassment based on their gender identity or sexual orientation, and that no one should face hostility because of their sexuality.",
+          "sourceUrl": "https://www.mikelevin.org/agenda/lgbtq/",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Levin lists strengthening the Affordable Care Act to expand access and lower costs as a priority.",
+          "quote": "All Americans should have access to affordable, quality health care, and one of Rep. Levin's priorities is strengthening the Affordable Care Act (ACA) to expand access and lower costs.",
+          "sourceUrl": "https://levin.house.gov/issues/health",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Levin led congressional efforts to restore canceled clean-energy grants and remove delays affecting renewable-energy projects.",
+          "quote": "The letter pushes Secretary Burgum to submit the required reports in a timely manner and end the procedural hurdles to clean energy development that would lower Americans’ energy bills.",
+          "sourceUrl": "https://levin.house.gov/media/press-releases/rep-mike-levin-pushes-interior-department-on-renewable-energy-permitting",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Levin backs restoring the Voting Rights Act and ensuring every eligible voter can participate.",
+          "quote": "make elections more transparent, and make sure every eligible voter can participate",
+          "sourceUrl": "https://www.mikelevin.org/agenda/democracy/",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Armen Kurdian",
+      "party": "Republican",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Kurdian said his mission includes expanding access to housing for people at all income levels.",
+          "quote": "expand access to housing for all income levels",
+          "sourceUrl": "https://sdrostra.com/armen-kurdian-on-running-for-congress/",
+          "agreement": "2/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Kurdian said his mission includes reducing energy costs.",
+          "quote": "reduce energy costs",
+          "sourceUrl": "https://sdrostra.com/armen-kurdian-on-running-for-congress/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "mikelevin.org · levin.house.gov · sdrostra.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

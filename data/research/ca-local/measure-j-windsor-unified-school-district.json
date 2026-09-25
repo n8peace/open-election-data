@@ -1,0 +1,19 @@
+{
+  "office": "Measure J",
+  "district": "Windsor Unified School District",
+  "division": "ca/school-windsor-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue $96,000,000 in bonds, levied at about $46 per $100,000 of assessed value while outstanding, to upgrade classrooms, labs, career training space, and school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

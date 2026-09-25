@@ -1,0 +1,103 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 52",
+  "division": "ca/sldl-52",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jessica Caloza",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Introduced legislation requiring larger cities and counties to create centralized online application portals for housing development projects.",
+          "quote": "A city or county with a population of 150,000 or more persons shall, no later than January 1, 2028, make a centralized application portal available on its internet website to applicants for housing development projects.",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB920",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Caloza supports investing in public schools, teacher and school staff wages, early childhood education, and related programs.",
+          "quote": "Jessica believes public education is the key to unlocking opportunity and building a brighter future for all Californians",
+          "sourceUrl": "https://www.jessicacaloza.com/issues",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Supported legislation requiring government agencies to identify and equip privately rented vehicles used for enforcement, citing concerns about excessive force and due process during immigration operations.",
+          "quote": "Fear for the public and fear for those who are being illegally faced with excessive force from our Federal Government without due process.",
+          "sourceUrl": "https://calmatters.digitaldemocracy.org/hearings/279130",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Caloza supports protecting Planned Parenthood funding and expanding access to reproductive health care.",
+          "quote": "In the Assembly, Jessica has fought to protect funding for Planned Parenthood and expand access to critical health care services for all women.",
+          "sourceUrl": "https://www.jessicacaloza.com/issues",
+          "agreement": "3/10"
+        }
+      }
+    },
+    {
+      "name": "Andrea Lee Anderson",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She supports lowering taxes to encourage people to spend more and foster state growth.",
+          "quote": "Lower taxes. People will spend the money saved and thus foster growth in the state.",
+          "sourceUrl": "https://www.ballotready.org/people/andrea-lee-anderson",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "She says California should cooperate with federal agents enforcing immigration law rather than oppose them.",
+          "quote": "The least we can do is cooperate with them rather than threaten them.",
+          "sourceUrl": "https://www.ballotready.org/people/andrea-lee-anderson",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "She says returning to private health businesses would reduce the problem of people lacking health insurance and save government money.",
+          "quote": "If we went back to private health businesses, the problem would diminish and the government would save a lot of money.",
+          "sourceUrl": "https://www.ballotready.org/people/andrea-lee-anderson",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "She opposes ending oil production in California and says nuclear power is safe and inexpensive.",
+          "quote": "Nuclear power is safe and cheap.",
+          "sourceUrl": "https://www.ballotready.org/people/andrea-lee-anderson",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "leginfo.legislature.ca.gov · jessicacaloza.com · calmatters.digitaldemocracy.org · ballotready.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

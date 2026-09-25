@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "NV District 3",
+  "division": "nv/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Jon Kamerath",
+      "party": "IAP"
+    },
+    {
+      "name": "Susie Lee",
+      "party": "DEM"
+    },
+    {
+      "name": "Marty O'Donnell",
+      "party": "REP"
+    }
+  ]
+}

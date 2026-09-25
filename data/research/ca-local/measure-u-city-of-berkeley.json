@@ -1,0 +1,18 @@
+{
+  "office": "Measure U",
+  "district": "City of Berkeley",
+  "division": "ca/place-berkeley",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the City of Berkeley to issue $300 million in general obligation bonds for infrastructure and climate resiliency, repaid by property taxes.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

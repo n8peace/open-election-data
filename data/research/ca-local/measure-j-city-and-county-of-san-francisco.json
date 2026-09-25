@@ -1,0 +1,18 @@
+{
+  "office": "Measure J",
+  "district": "City and County of San Francisco",
+  "division": "ca/place-city-and-county-of-san-francisco",
+  "kind": "measure",
+  "summary": "A Yes vote removes the foreclosure exemption from the real property transfer tax.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

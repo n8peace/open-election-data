@@ -1,0 +1,18 @@
+{
+  "office": "Measure J",
+  "district": "City of Coalinga",
+  "division": "ca/place-coalinga",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a City of Coalinga transactions and use (sales) tax.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

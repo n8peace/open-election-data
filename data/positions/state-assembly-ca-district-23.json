@@ -1,0 +1,86 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 23",
+  "division": "ca/sldl-23",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Marc Berman",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "As a Palo Alto City Council member, Berman led an effort to raise the local minimum wage.",
+          "quote": "I led the effort to increase the minimum wage for struggling workers",
+          "sourceUrl": "https://www.voteberman.com/meet-marc",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Berman says he has written bills to cut regulation and build more affordable housing across California.",
+          "quote": "I've written bills to reduce red tape and build more affordable housing",
+          "sourceUrl": "https://www.voteberman.com/meet-marc",
+          "agreement": "3/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Berman has authored firearm-related legislation, including a firearm violence prevention training program for physicians.",
+          "quote": "I've authored bills to establish a first-in-the-nation firearm violence prevention training program for physicians",
+          "sourceUrl": "https://www.voteberman.com/meet-marc",
+          "agreement": "4/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Berman says he has fought to protect and expand abortion access and has a 100% Planned Parenthood record.",
+          "quote": "I've fought to protect and expand the right to choose here in California, earning a lifetime 100% voting record from Planned Parenthood.",
+          "sourceUrl": "https://www.voteberman.com/meet-marc",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Berman wrote California's first-in-the-nation law banning sales of gas-powered leaf blowers and lawnmowers to cut emissions.",
+          "quote": "I wrote the law to make California the first state in the nation to ban the sale of gas-powered leaf blowers and lawnmowers to reduce emissions of climate changing pollutants",
+          "sourceUrl": "https://www.voteberman.com/meet-marc",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Berman wrote the law making California a permanent vote-by-mail state to expand ballot access.",
+          "quote": "he wrote the landmark law for California to be a permanent vote-by-mail state",
+          "sourceUrl": "https://www.voteberman.com/priorities",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "David G. Johnson",
+      "party": "Republican",
+      "stances": {}
+    }
+  ],
+  "sources": "voteberman.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

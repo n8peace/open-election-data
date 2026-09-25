@@ -1,0 +1,200 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 21",
+  "division": "ca/cd-21",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jim Costa",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Costa voted against a budget bill that paired tax breaks with cuts affecting food aid, health care, and housing.",
+          "quote": "This bill threatens meals for kids, healthcare, and housing stability for thousands of Valley families, all to protect tax breaks for billionaires and big corporations.",
+          "sourceUrl": "https://costa.house.gov/media/press-releases/rep-jim-costa-votes-against-house-republicans-partisan-budget-bill",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Costa voted for the Raise the Wage Act to lift the federal minimum wage to $15 an hour.",
+          "quote": "It's time workers received a fair wage for an honest day's work",
+          "sourceUrl": "https://costa.house.gov/media-center/press-releases/congressman-costa-votes-raise-federal-minimum-wage",
+          "agreement": "3/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Costa led a bipartisan letter supporting the USMCA and preserving its market-access provisions.",
+          "quote": "USMCA was truly a landmark agreement for American Agriculture when it entered force, and its positive impact on U.S. agriculture has yet to reach its maximum benefit",
+          "sourceUrl": "https://costa.house.gov/media/press-releases/costa-ag-trade-caucus-co-chairs-highlight-usmca-benefits-agriculture",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Costa voted against a Republican bill he said would deeply cut Medicaid and Medicare.",
+          "quote": "which would have made the largest cuts to Medicaid and Medicare in U.S. history, Costa voted no",
+          "sourceUrl": "https://costa.house.gov/issues/healthcare",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Costa says he has worked to expand access to affordable housing across his district.",
+          "quote": "Congressman Jim Costa has been a steadfast advocate for expanding access to affordable housing in the San Joaquin Valley",
+          "sourceUrl": "https://costa.house.gov/issues/housing",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Costa co-authored the Farm Workforce Modernization Act to give undocumented farmworkers legal status.",
+          "quote": "he helped pass a bipartisan bill to provide legal status for undocumented farmworkers and modernize the outdated H-2A visa program",
+          "sourceUrl": "https://costa.house.gov/issues/immigration",
+          "agreement": "4/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Costa voted to reinstate the assault weapons ban and backs expanded background checks.",
+          "quote": "The gun violence epidemic in America has taken far too many innocent lives, leaving broken families and communities less safe",
+          "sourceUrl": "https://costa.house.gov/media-center/press-releases/costa-votes-reinstate-assault-weapons-ban",
+          "agreement": "3/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Costa supports protecting legal access to abortion and cosponsored the Women's Health Protection Act.",
+          "quote": "Every woman in America deserves to make their own healthcare decisions.",
+          "sourceUrl": "https://costa.house.gov/issues/protecting-reproductive-rights",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Costa voted to extend enhanced federal premium tax credits under the Affordable Care Act.",
+          "quote": "I am proud to support the passage of this legislation, which ensures families across the San Joaquin Valley",
+          "sourceUrl": "https://costa.house.gov/media/press-releases/rep-jim-costa-applauds-house-passage-aca-premium-tax-credit-extension",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Costa has prioritized federal investment in emissions reduction and clean-energy expansion.",
+          "quote": "Congressman Costa has prioritized securing federal investments to reduce emissions, expand clean energy, prevent wildfires, and protect forests.",
+          "sourceUrl": "https://costa.house.gov/issues/energy-environment",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Kyle Kirkland",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, Kirkland said the federal government must reduce the tax burden on working families.",
+          "quote": "The federal government is strangling businesses and hardworking Americans who are struggling to make ends meet. We must cut overbearing regulation, reduce the tax burden on working families, and reduce government intervention in the market economy.",
+          "sourceUrl": "https://ivoterguide.com/candidate/78525/race/5024/election/1078?culture=en-us",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Kirkland's campaign says it would address expensive housing by ending over-regulation and restarting domestic production.",
+          "quote": "Housing, food, gas, and healthcare are brutally expensive. Kyle will end over-regulation, restart domestic production, and attack the cost-of-living crisis head-on.",
+          "sourceUrl": "https://kirkland2026.com/",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Kirkland strongly agreed that school choice should include vouchers, tax credits, charter schools, private schools, and home schools.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/78525/race/5024/election/1078?culture=en-us",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Kirkland's campaign platform pledges to support police and first responders and to end 'soft-on-crime' policies.",
+          "quote": "Back the blue, support first responders, and end soft-on-crime policies that put families at risk.",
+          "sourceUrl": "https://kirkland2026.com/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Under a 'Secure Our Border' priority, Kirkland calls for giving law enforcement more tools to stop fentanyl, trafficking, and cartel violence.",
+          "quote": "Give law enforcement the tools to stop fentanyl, human trafficking, and cartel violence while respecting legal immigration.",
+          "sourceUrl": "https://kirkland2026.com/",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "Kirkland said elective abortion should have exceptions for rape, incest, and the life of the mother, while calling abortion policy a state issue.",
+          "quote": "There should be exceptions for rape, incest and life of the mother.",
+          "sourceUrl": "https://ivoterguide.com/candidate/78525/race/5024/election/1078?culture=en-us",
+          "agreement": "6/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Kirkland strongly agreed that biological males should be excluded from women's sports and designated women's spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/78525/race/5024/election/1078?culture=en-us",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Kirkland selected the option making government-funded health insurance available to anyone who wants it while retaining private options.",
+          "quote": "B) Healthcare insurance funded by the government should be available for all who want it, along with private healthcare options.",
+          "sourceUrl": "https://ivoterguide.com/candidate/78525/race/5024/election/1078?culture=en-us",
+          "agreement": "3/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Kirkland supports permitting cost-effective nuclear, solar, and fossil-fuel energy to increase domestic supply.",
+          "quote": "We should allow all safe, reliable, cost-effective energy sources including nuclear, solar and fossil fuels to reduce our dependence on foreign energy production.",
+          "sourceUrl": "https://ivoterguide.com/candidate/78525/race/5024/election/1078?culture=en-us",
+          "agreement": "6/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Kirkland strongly disagreed that people should be permitted to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/78525/race/5024/election/1078?culture=en-us",
+          "agreement": "6/10"
+        }
+      }
+    }
+  ],
+  "sources": "costa.house.gov · ivoterguide.com · kirkland2026.com",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

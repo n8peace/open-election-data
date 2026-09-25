@@ -1,0 +1,13 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 8",
+  "division": "ca/sldl-8",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "David Jariustokaeutulelei Tangipa",
+      "party": "Republican",
+      "incumbent": true
+    }
+  ]
+}

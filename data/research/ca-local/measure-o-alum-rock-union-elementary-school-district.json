@@ -1,0 +1,19 @@
+{
+  "office": "Measure O",
+  "district": "Alum Rock Union Elementary School District",
+  "division": "ca/school-alum-rock-union-elementary",
+  "kind": "measure",
+  "summary": "A Yes vote levies a $310 per parcel tax in the Alum Rock Union Elementary School District for seven years.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

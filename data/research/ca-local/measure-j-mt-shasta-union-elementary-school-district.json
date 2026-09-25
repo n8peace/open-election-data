@@ -1,0 +1,19 @@
+{
+  "office": "Measure J",
+  "district": "Mt. Shasta Union Elementary School District",
+  "division": "ca/school-mt-shasta-union-elementary",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the District to issue $9.1 million in bonds, with independent oversight and audits, to repair or replace roofs, plumbing, electrical, and heating, ventilation and air-conditioning systems and to upgrade emergency communication systems and fire alarms, repaid by a property tax levied while the bonds are outstanding.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

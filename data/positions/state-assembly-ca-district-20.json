@@ -1,0 +1,71 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 20",
+  "division": "ca/sldl-20",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Liz Ortega",
+      "party": "Democratic",
+      "stances": {
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "She lists reproductive freedom among her top priorities and is endorsed by Planned Parenthood.",
+          "quote": "Reproductive freedom, affordable housing, jobs, an end to homelessness and safe schools/neighborhoods.",
+          "sourceUrl": "https://www.ortegaforassembly.com/issues",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Patricia Muga",
+      "party": "Republican",
+      "stances": {
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "On her campaign issues page, Muga calls for backing local police and sheriffs and supporting vagrancy laws.",
+          "quote": "Support Your Local Sheriff and Police! Support vagrancy laws and guardianship protection for the addicted and mentally ill.",
+          "sourceUrl": "https://mugaforassembly.com/the-issues",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Muga wants to preserve existing power infrastructure and stop the closure of fossil-fuel and nuclear facilities.",
+          "quote": "Cease closing natural gas and nuclear plants and petroleum refineries.",
+          "sourceUrl": "https://mugaforassembly.com/the-issues",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Supports voter identification, audits of voter data, ending automatic voter registration, and requiring proof of citizenship for registration.",
+          "quote": "I am in FULL SUPPORT of the California Voter ID Initiative #1984.",
+          "sourceUrl": "https://mugaforassembly.com/the-issues",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "ortegaforassembly.com · mugaforassembly.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,41 @@
+{
+  "office": "Measure Y",
+  "district": "City of Berkeley",
+  "division": "ca/place-berkeley",
+  "kind": "measure",
+  "summary": "A Yes vote creates a special parcel tax of $0.07 per square foot of improvements for 12 years, estimated to raise about $6.3 million annually, to fund grants for performing arts organizations, art projects, community festivals, and arts operating and capital expenses.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "The source urges voters to support Measure Y, a parcel tax intended to fund Berkeley arts organizations and programs.",
+          "quote": "You can show that support in a simple way by adding your name to a Berkeley coalition working to pass Measure Y.",
+          "sourceUrl": "https://www.encoreplus.app/encore/support-berkeley-arts-with-measure-y/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would reject the ordinance creating a parcel tax to fund arts institutions and programs.",
+          "quote": "Initiative Petition – Ordinance Creating a Parcel Tax to Fund Arts Institutions and Programs",
+          "sourceUrl": "https://berkeleyca.gov/city-council-regular-meeting-eagenda-july-14-2026",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "encoreplus.app · berkeleyca.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

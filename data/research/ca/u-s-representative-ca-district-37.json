@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 37",
+  "division": "ca/cd-37",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Sydney Kamlager-Dove",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Samantha Mota",
+      "party": "Democratic",
+      "incumbent": false
+    }
+  ]
+}

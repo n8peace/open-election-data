@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 30",
+  "division": "ca/cd-30",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Laura Friedman",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Scott Alan Meyers",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

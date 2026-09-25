@@ -1,0 +1,128 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 9",
+  "division": "ca/cd-9",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Josh Harder",
+      "party": "Democratic",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Called on the Supreme Court to strike down tariffs and urged Congress to pursue new trade deals.",
+          "quote": "The Supreme Court should shut down this tariff insanity and give families some much-needed breathing room.",
+          "sourceUrl": "https://harder.house.gov/media/press-releases/tariffs-harder-calls-on-supreme-court-to-strike-down-tariffs-urges-congress-to-act",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Introduced legislation supporting updated regulations, smarter land use, and the construction of more homes to reduce housing costs.",
+          "quote": "Harder is leading federal efforts to pass the biggest housing reform legislation in decades that would modernize outdated regulations, incentivize smarter land use, and build more homes.",
+          "sourceUrl": "https://harder.house.gov/media/press-releases/housing-harder-introduces-new-bill-to-force-state-housing-department-to-lower-housing-costs",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "On his campaign site Harder says he backs law enforcement and giving officers the tools they need to keep communities safe.",
+          "quote": "proud to stand with our law enforcement officers and give them the tools they need to keep us safe",
+          "sourceUrl": "https://harderforcongress.com/issues/",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Said he would oppose increased funding for ICE unless the agency adopted reforms including limits on enforcement practices and a ban on deporting U.S. citizens.",
+          "quote": "Harder vowed to vote against any increased funding for ICE until five key reforms were met:",
+          "sourceUrl": "https://harder.house.gov/media/press-releases/ice-harder-demands-accountability-from-ice-following-oversight-investigation-at-stockton-field-office",
+          "agreement": "4/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Helped pass legislation expanding background checks and the Bipartisan Safer Communities Act, which established federal gun-trafficking and straw-purchasing crimes and funded state extreme-risk laws.",
+          "quote": "Representative Harder helped pass the Bipartisan Background Checks Act in 2019 and 2021, which would expand background checks to all gun sales and help prevent individuals convicted of crimes and those who have committed domestic abuse from obtaining firearms.",
+          "sourceUrl": "https://giffords.org/candidates/josh-harder-3/",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Harder voted against and condemned House-passed cuts to Medicaid, vowing to stop the loss of coverage for constituents.",
+          "quote": "I voted no on this cruel bill, and I'll do everything in my power to stop this nightmare from becoming reality.",
+          "sourceUrl": "https://harder.house.gov/media/press-releases/release-harder-condemns-house-passage-of-devastating-medicaid-cuts",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Harder describes climate change as an existential threat, signaling support for stronger action to cut emissions.",
+          "quote": "climate change is an existential threat to our way of life",
+          "sourceUrl": "https://harderforcongress.com/issues/",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "John McBride",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "His campaign platform calls for reducing tax policies, shrinking government spending, and eliminating taxes on Social Security benefits.",
+          "quote": "Reduce Oppressive Tax Policies -Drastically Shrink Government Spending",
+          "sourceUrl": "https://johnmcbrideforcongress.com",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "McBride called for expanding school choice and trade-education programs to address poverty and workforce needs.",
+          "quote": "McBride said education and family structure are the most important factors in reducing poverty and called for expanded school choice and trade education programs.",
+          "sourceUrl": "https://www.recordnet.com/story/news/politics/elections/2026/05/28/stockton-area-house-district-9-candidates-election-2026-healthcare-economy/90007178007/",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "McBride said local police agencies should receive more federal financial support and that Congress should help ensure judges are not lenient on crime.",
+          "quote": "He also wants to see more financial support for local police agencies. As an example, he said federal grants could fund satellite police departments.",
+          "sourceUrl": "https://www.kcra.com/article/california-june-2-primary-election-congressional-district-9-candidates-on-the-issues/71373283",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "His campaign platform lists strengthening the southern border as a priority.",
+          "quote": "Stronger Southern Border",
+          "sourceUrl": "https://johnmcbrideforcongress.com",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "harder.house.gov · harderforcongress.com · giffords.org · johnmcbrideforcongress.com · recordnet.com · kcra.com",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

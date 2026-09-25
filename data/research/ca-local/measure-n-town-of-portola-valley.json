@@ -1,0 +1,18 @@
+{
+  "office": "Measure N",
+  "district": "Town of Portola Valley",
+  "division": "ca/place-portola-valley",
+  "kind": "measure",
+  "summary": "A Yes vote makes Portola Valley a charter town and enacts a real property transfer tax of $10 per $1,000 of a property's sale price.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

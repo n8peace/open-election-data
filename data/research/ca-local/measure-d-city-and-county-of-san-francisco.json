@@ -1,0 +1,16 @@
+{
+  "office": "Measure D",
+  "district": "City and County of San Francisco",
+  "division": "ca/place-city-and-county-of-san-francisco",
+  "kind": "measure",
+  "summary": "A Yes vote changes the procedures and signature requirements for placing measures on the city ballot.",
+  "issues": [],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

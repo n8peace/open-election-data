@@ -1,0 +1,18 @@
+{
+  "office": "Measure B",
+  "district": "City of Merced",
+  "division": "ca/place-merced",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a general tax whose revenue goes to the City of Merced's general fund for general municipal purposes.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

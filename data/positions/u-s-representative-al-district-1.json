@@ -1,0 +1,128 @@
+{
+  "office": "U.S. Representative",
+  "district": "AL District 1",
+  "division": "al/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jerry Carl",
+      "party": "Republican",
+      "stances": {
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "Carl campaigns on fiscal restraint and balancing the federal budget, saying the government should live within its means.",
+          "quote": "Washington needs to live within its means, just like families and small-businesses do every day",
+          "sourceUrl": "https://jerrycarlforcongress.com/issues/",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Said he supports school choice, including vouchers, tax credits, charter schools, private schools and homeschooling, and supports eliminating the U.S. Department of Education.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools.",
+          "sourceUrl": "https://ivoterguide.com/candidate/49072/race/305/election/1086",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Carl positions himself as a strong backer of police and law enforcement.",
+          "quote": "Jerry has always been a strong supporter of law enforcement",
+          "sourceUrl": "https://jerrycarlforcongress.com/issues/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Carl calls for building the border wall, more Border Patrol agents, and opposing illegal immigration.",
+          "quote": "illegal immigration is a direct threat to our national security",
+          "sourceUrl": "https://jerrycarlforcongress.com/issues/",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Carl describes himself as a lifelong Second Amendment supporter who will defend gun rights.",
+          "quote": "lifelong supporter of the Second Amendment and will defend our right to bear and keep arms",
+          "sourceUrl": "https://jerrycarlforcongress.com/issues/",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Carl says he is 100% pro-life and opposes public funding of abortion.",
+          "quote": "Jerry Carl is 100% pro-life and opposes any tax dollars being used to fund abortions",
+          "sourceUrl": "https://jerrycarlforcongress.com/issues/",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Carl says he has worked to keep transgender athletes out of women's sports.",
+          "quote": "He has led the charge to protect women's sports, and he will work with President Trump",
+          "sourceUrl": "https://jerrycarlforcongress.com/issues/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Clyde Jones",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Jones advocated for reducing Alabama’s grocery tax while serving with Alabama Arise.",
+          "quote": "pushed to achieve the state’s grocery tax reduction reached in 2025",
+          "sourceUrl": "https://www.alreporter.com/2026/06/02/cd1-hopeful-clyde-jones-talks-redistricting-affordability-ethics-reform/",
+          "agreement": "2/3"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Jones calls for a livable wage in coastal Alabama and backs the right to unionize and protections like overtime pay and paid leave.",
+          "quote": "In Baldwin County alone, a single person has to make at least $22 an hour to live here.",
+          "sourceUrl": "https://clydeforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Jones calls for immigration reform with a path for undocumented people to gain legal status and says law-abiding immigrants should not be targeted, while also saying secure borders are necessary.",
+          "quote": "While it's important to hold criminals accountable, law abiding immigrants shouldn't be caught in the crosshairs to hit a quota.",
+          "sourceUrl": "https://clydeforcongress.com/",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Jones supports expanding Medicaid, restoring enhanced Affordable Care Act subsidies and creating direct federal coverage for residents of states that do not expand Medicaid.",
+          "quote": "I believe in the expansion of Medicaid , and ACA Enhanced Premium Tax Credits to ease the burden of health care on every day Americans.",
+          "sourceUrl": "https://clydeforcongress.com/issues",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "jerrycarlforcongress.com · ivoterguide.com · alreporter.com · clydeforcongress.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

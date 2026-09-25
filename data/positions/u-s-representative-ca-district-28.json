@@ -1,0 +1,184 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 28",
+  "division": "ca/cd-28",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Judy Chu",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Joined legislation to restore and permanently establish a free, government-run online tax filing program.",
+          "quote": "restore and permanently codify the IRS’s free, government-run online tax filing program",
+          "sourceUrl": "https://chu.house.gov/media-center/press-releases/rep-chu-joins-sen-warren-rep-sherman-160-lawmakers-introducing-direct",
+          "agreement": "3/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Chu supports raising the federal minimum wage and co-sponsored the PRO Act to strengthen union organizing rights.",
+          "quote": "No one who works hard every day and plays by the rules should live in poverty",
+          "sourceUrl": "https://chu.house.gov/issues/worker-rights-and-labor",
+          "agreement": "6/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Condemned a proposed 100% tariff on foreign-made films and advocated incentives instead of tariffs to support domestic production.",
+          "quote": "Tariffs will not bring film production back to the United States. Instead, they will provoke retaliation from around the world, devastate our film industry here at home, and jeopardize millions of American jobs.",
+          "sourceUrl": "https://chu.house.gov/media-center/press-releases/rep-judy-chu-condemns-trumps-dangerous-100-film-tariff-threat-advocates",
+          "agreement": "3/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Chu opposes cuts to Social Security and Medicare and says she will support legislation preventing benefit cuts.",
+          "quote": "I will continue to support legislation that puts seniors first and prevents benefit cuts",
+          "sourceUrl": "https://chu.house.gov/issues/seniors",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Requested federal funding for a transit-oriented development expected to add more than 730 residences, including affordable units.",
+          "quote": "South Village will make a significant contribution to Claremont’s limited and undiversified housing stock, adding over 730 new residences, including over 100 affordable units.",
+          "sourceUrl": "https://chu.house.gov/fy-2026-community-projects-funded",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Chu supports increased federal investment in public schools, including funding for infrastructure, teachers, and student services.",
+          "quote": "I am committed to increasing federal investment in our public schools to guarantee equitable opportunities for every student",
+          "sourceUrl": "https://chu.house.gov/issues/education",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Chu backs a pathway to citizenship and due-process protections for immigrants and asylum seekers.",
+          "quote": "I do not believe that immigrants seeking refuge in the United States should be labeled as criminals. They should be afforded fair, speedy proceedings and due process rights",
+          "sourceUrl": "https://chu.house.gov/issues/immigration",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Chu supports universal background checks, reinstating the assault weapons ban, and other gun restrictions.",
+          "quote": "instituting criminal background checks for every gun sale",
+          "sourceUrl": "https://chu.house.gov/issues/crime-and-safety",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Chu authored the Women's Health Protection Act to enshrine abortion rights into federal law.",
+          "quote": "Abortion care is health care, and being able to make health care decisions about your own body is a fundamental right",
+          "sourceUrl": "https://chu.house.gov/issues/womens-rights",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Chu, a founding member of the Medicare for All Caucus, works to protect and expand the ACA, Medicare, and Medicaid.",
+          "quote": "I am committed to working to protect and expand the Affordable Care Act (ACA), as well as protecting the Medicare program so we can ensure our seniors have quality care they can count on",
+          "sourceUrl": "https://chu.house.gov/issues/health-care",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Chu voted for the Inflation Reduction Act and supports aggressive climate action toward a net-zero economy.",
+          "quote": "I support aggressive action to combat the climate crisis and meet President Biden's goal of a net-zero economy by midcentury",
+          "sourceUrl": "https://chu.house.gov/issues/energy",
+          "agreement": "6/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Chu supports expanding ballot access, including same-day registration and the For the People Act.",
+          "quote": "All voters deserve equal access to the ballot box and fair representation in our government",
+          "sourceUrl": "https://chu.house.gov/issues/civil-and-voting-rights",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "April A. Verlato",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Verlato signed a pledge opposing federal income-tax increases and advocates lower tax rates and restoring state and local tax and mortgage-interest deductions.",
+          "quote": "A proud signer of the Taxpayer Protection Pledge, Mayor Verlato will fight for legislation to stop the unprecedented growth in mandatory spending, oppose any attempts to increase the federal income tax and work to restore the state and local tax (SALT) and mortgage interest deductions (MID).",
+          "sourceUrl": "https://www.2026election.com/race/2026-house-ca-28",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "Verlato names tackling the national debt as a campaign priority and calls for a measured, pragmatic approach to fiscal responsibility.",
+          "quote": "Mayor April Verlato acknowledges the pressing concern of the national debt and is committed to taking a measured and pragmatic approach to fiscal responsibility.",
+          "sourceUrl": "https://verlatoforcongress.com/?page_id=120",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "As Arcadia mayor and councilmember, Verlato supported adding police officers, approving police budgets, opposing zero-bail policies, and challenging the county district attorney.",
+          "quote": "Voted to add four sworn officers to Arcadia's police force and approved all police department budget requests.",
+          "sourceUrl": "https://www.2026election.com/race/2026-house-ca-28",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Verlato calls for strict enforcement of immigration laws at international borders to prevent illegal crossings and related crimes.",
+          "quote": "Mayor Verlato believes that the Federal Government has a duty and obligation to enforce our laws at international borders, and protect our Nation from human traffickers, gangs, drug smugglers and terrorists.",
+          "sourceUrl": "https://www.2026election.com/race/2026-house-ca-28",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Verlato identifies market-driven healthcare solutions as a core platform priority intended to increase consumer choice and lower costs.",
+          "quote": "Champions market-driven healthcare solutions as a key platform pillar.",
+          "sourceUrl": "https://www.2026election.com/race/2026-house-ca-28",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Verlato supports expanding domestic production of oil, natural gas, and renewable energy to reduce dependence on foreign energy sources.",
+          "quote": "Mayor Verlato supports American energy independence as a pillar of national security and will fight to expand domestic production of oil, natural gas, and renewables, in order to reduce dependence on foreign oil.",
+          "sourceUrl": "https://www.2026election.com/race/2026-house-ca-28",
+          "agreement": "6/10"
+        }
+      }
+    }
+  ],
+  "sources": "chu.house.gov · 2026election.com · verlatoforcongress.com",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

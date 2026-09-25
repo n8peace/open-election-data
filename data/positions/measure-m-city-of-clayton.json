@@ -1,0 +1,41 @@
+{
+  "office": "Measure M",
+  "district": "City of Clayton",
+  "division": "ca/place-clayton",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a City of Clayton sales tax expected to raise about $1 million per year for general city services such as police, road maintenance, and libraries.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote on Measure M authorizes a 1% city sales tax to fund Clayton services including police, road and sidewalk improvements, library and recreation, and park maintenance.",
+          "quote": "To provide local funding to maintain City of Clayton programs, services, and facilities, including: police services, traffic enforcement and road safety, road and sidewalk improvements, enhance library and recreation opportunities, park maintenance, recruitment and retention of city employees and other city services, shall the City of Clayton levy a 1% sales tax",
+          "sourceUrl": "https://contracosta.news/2026/06/17/clayton-agrees-to-place-1-sales-tax-on-november-ballot/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote rejects the proposed one-cent sales tax increase for city services.",
+          "quote": "we cannot afford more taxes",
+          "sourceUrl": "https://www.sfgate.com/news/bayarea/article/clayton-new-sales-tax-extension-of-existing-22432282.php",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "contracosta.news · sfgate.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

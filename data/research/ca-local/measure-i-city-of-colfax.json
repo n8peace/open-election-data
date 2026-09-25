@@ -1,0 +1,18 @@
+{
+  "office": "Measure I",
+  "district": "City of Colfax",
+  "division": "ca/place-colfax",
+  "kind": "measure",
+  "summary": "A Yes vote adopts a 1% transactions and use (sales) tax to fund construction, maintenance, and repair of streets, sidewalks, and other infrastructure.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

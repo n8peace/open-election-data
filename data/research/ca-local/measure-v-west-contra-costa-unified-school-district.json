@@ -1,0 +1,19 @@
+{
+  "office": "Measure V",
+  "district": "West Contra Costa Unified School District",
+  "division": "ca/school-west-contra-costa-unified",
+  "kind": "measure",
+  "summary": "A Yes vote renews the district's parcel tax at 7.2 cents per building square foot for nine years, raising about $10.2 million per year for school programs.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

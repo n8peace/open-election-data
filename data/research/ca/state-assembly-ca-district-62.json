@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 62",
+  "division": "ca/sldl-62",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "José Luis Solache",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Paul Irving Jones",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

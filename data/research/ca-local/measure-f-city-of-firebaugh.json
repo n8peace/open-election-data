@@ -1,0 +1,18 @@
+{
+  "office": "Measure F",
+  "district": "City of Firebaugh",
+  "division": "ca/place-firebaugh",
+  "kind": "measure",
+  "summary": "A Yes vote imposes a parcel tax on property in the City of Firebaugh.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

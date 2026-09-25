@@ -1,0 +1,135 @@
+{
+  "office": "Controller",
+  "district": "CA",
+  "division": "ca/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Malia M. Cohen",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "As chair of the Board of Equalization, Cohen promoted new affordable housing and used property-tax abatements to stimulate affordable housing.",
+          "quote": "As Chair of the BOE, she led the effort to modernize California's property tax system, provide guidance to the 58 county assessors on remote assessment appeals board hearings, and utilize property tax abatements to stimulate affordable housing.",
+          "sourceUrl": "https://boe.ca.gov/members/board.htm",
+          "agreement": "6/9"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "She says California should preserve its commitments to public education.",
+          "quote": "Preserve California’s commitments to public education, healthcare access, climate resilience, and infrastructure investments, especially during periods of economic uncertainty and federal instability.",
+          "sourceUrl": "https://growsf.org/voter-guide/questionnaires/june-2026/malia-cohen/",
+          "agreement": "3/9"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Cohen’s campaign identifies protecting reproductive access as one of her top issues.",
+          "quote": "Protecting Reproductive Access",
+          "sourceUrl": "https://www.maliacohenforca.com/issues",
+          "agreement": "7/9"
+        }
+      }
+    },
+    {
+      "name": "Herb W Morgan",
+      "party": "Republican",
+      "stances": {
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "Morgan said wages should rise through economic growth and competitive labor markets rather than government-mandated increases.",
+          "quote": "The best way to raise wages is through a thriving economy and competitive labor markets — not government mandates.",
+          "sourceUrl": "https://ivoterguide.com/candidate/91093/race/25616/election/1385",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Morgan said public protection, deterrence, incapacitating dangerous offenders and punishment should be the criminal justice system’s priorities.",
+          "quote": "The primary goal of the criminal justice system must be public protection first, followed by justice.",
+          "sourceUrl": "https://ivoterguide.com/candidate/91093/race/25616/election/1385",
+          "agreement": "6/10"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "lean",
+          "text": "Morgan said rehabilitation should not take priority over public safety and supported swift and certain punishment for lawbreakers.",
+          "quote": "Rehabilitation has its place, but it must never come at the expense of public safety.",
+          "sourceUrl": "https://ivoterguide.com/candidate/91093/race/25616/election/1385",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Morgan strongly opposed sanctuary cities that protect undocumented people.",
+          "quote": "I support the existence of sanctuary cities to protect undocumented persons.\n Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/91093/race/25616/election/1385",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Morgan supports background checks and barring firearms access for mentally unstable people and violent criminals while opposing broad restrictions on law-abiding gun owners.",
+          "quote": "Responsible restrictions make sense: we should prevent the mentally unstable and violent criminals from acquiring firearms.",
+          "sourceUrl": "https://ivoterguide.com/candidate/91093/race/25616/election/1385",
+          "agreement": "7/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Morgan said biological males should not participate in women’s sports or use biological women’s spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/91093/race/25616/election/1385",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Morgan said Medicaid and Medicare should remain available but opposed additional taxpayer-funded health care programs.",
+          "quote": "Medicaid and Medicare should remain available, but no other taxpayer-funded programs are necessary.",
+          "sourceUrl": "https://ivoterguide.com/candidate/91093/race/25616/election/1385",
+          "agreement": "3/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Morgan rejected urgent political action on human-caused climate change and identified natural gas as the most reliable energy source.",
+          "quote": "Man-made climate change is a global threat and requires urgent political action.\n Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/91093/race/25616/election/1385",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Morgan strongly opposed allowing people to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification.\n Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/91093/race/25616/election/1385",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "boe.ca.gov · growsf.org · maliacohenforca.com · ivoterguide.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

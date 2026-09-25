@@ -1,0 +1,219 @@
+{
+  "office": "U.S. Representative in Congress",
+  "district": "NE District 1",
+  "division": "ne/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Mike Flood",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Flood says he voted to cut taxes for Nebraska families and to pass No Tax on Tips, Overtime, and Social Security.",
+          "quote": "I voted to cut taxes for Nebraska families. I voted to pass No Tax on Tips, No Tax on Overtime, and No Tax on Social Security.",
+          "sourceUrl": "https://mikefloodfornebraska.com/getting-things-done/",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "Flood said the president and Congress should use every lawful tool available to build a resilient domestic economy and help American goods compete abroad after the Supreme Court’s tariffs ruling.",
+          "quote": "I trust that President Trump and Congress will use every lawful tool available to keep growing our economy and ensure American goods compete on a level playing field abroad.",
+          "sourceUrl": "https://flood.house.gov/media/press-releases/congressman-flood-supreme-courts-tariffs-decision-we-must-respect-rule-law-and",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Flood wrote a bill to cut red tape and make it cheaper to build new homes.",
+          "quote": "My bill cuts red tape and makes it more affordable to build new homes.",
+          "sourceUrl": "https://mikefloodfornebraska.com/getting-things-done/",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Flood helped secure federal funding for police cruisers, sheriff’s equipment, body cameras and increased Drug Enforcement Administration funding.",
+          "quote": "$1,200,000 to the Lancaster County Sheriff’s Office equipment and body-worn cameras.",
+          "sourceUrl": "https://flood.house.gov/media/press-releases/rep-flood-secures-inclusion-29-million-first-district-projects-federal-funding",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Flood voted to fund Border Patrol and immigration enforcement and said people in the country illegally who commit crimes should be removed.",
+          "quote": "I voted to fund Border Patrol and immigration enforcement",
+          "sourceUrl": "https://flood.house.gov/media/press-releases/congressman-flood-votes-fully-fund-border-patrol-and-immigration-enforcement",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Flood says he will oppose any attempt to infringe on the right to keep and bear arms.",
+          "quote": "I will oppose any attempt to infringe on Americans' fundamental liberties, including our freedoms of speech and religion and our sacred right to keep and bear arms.",
+          "sourceUrl": "https://www.opencampaign.com/politicians-in-united-states/190882/mike-flood/issue-positions",
+          "agreement": "3/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Flood describes himself as a pro-life champion who believes life begins at conception.",
+          "quote": "Life is a precious gift from God that begins at conception. I've been a pro-life champion in the Legislature",
+          "sourceUrl": "https://www.opencampaign.com/politicians-in-united-states/190882/mike-flood/issue-positions",
+          "agreement": "7/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Flood voted for the Protection of Women and Girls in Sports Act, saying athletics should be based on biological sex.",
+          "quote": "Helping young Americans participate in athletics based on their biological sex is just common sense.",
+          "sourceUrl": "https://flood.house.gov/media/press-releases/rep-flood-votes-protect-womens-sports-republicans-will-continue-fight-next",
+          "agreement": "3/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "strong",
+          "text": "Flood opposed helping reclassify marijuana federally and said he would not advocate for medical marijuana beyond complying with Nebraska law.",
+          "quote": "I am not going to use my advocacy efforts to help reclassify marijuana at the federal level,” Flood said.",
+          "sourceUrl": "https://nebraskapublicmedia.org/en/news/news-articles/first-district-rep-mike-flood-fields-questions-about-medical-marijuana-immigration-and-the-epstein-files-at-town-hall/",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Flood said he supported extending expired Obamacare subsidies but voted against a proposal because it did not include reforms to reduce waste, fraud, and abuse.",
+          "quote": "I support an extension of the subsidies but not without reforms, including the elimination of waste, fraud, and abuse",
+          "sourceUrl": "https://flood.house.gov/media/press-releases/congressman-flood-healthcare-vote-fell-short-without-reforms-elimination-fraud",
+          "agreement": "4/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Flood says he opposes the Green New Deal, mileage taxes, and carbon taxes.",
+          "quote": "I oppose the Green New Deal, mileage taxes, carbon taxes",
+          "sourceUrl": "https://www.opencampaign.com/politicians-in-united-states/190882/mike-flood/issue-positions",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Flood supports voter ID and says election laws should ensure that legal ballots are counted accurately.",
+          "quote": "I support commonsense measures, like voter ID, that will better secure future elections and give voters the confidence that legal ballots will be counted accurately.",
+          "sourceUrl": "https://federalvoice.com/mike-flood/",
+          "agreement": "3/10"
+        }
+      }
+    },
+    {
+      "name": "Chris Backemeyer",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Backemeyer calls for rebalancing the tax code so the wealthy pay more and expanding the Child Tax Credit to fund relief for families.",
+          "quote": "Rebalance the tax code so that billionaires and corporations pay their fair share",
+          "sourceUrl": "https://backnebraska.com/lowering-costs-restoring-the-middle-class/",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Backemeyer wants to end tariffs, saying they harm Nebraska farmers and raise costs for producers and consumers.",
+          "quote": "End the tariff chaos that harms farmers and raises consumer costs",
+          "sourceUrl": "https://backnebraska.com/supporting-agriculture-rural-communities/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Backemeyer proposes cutting regulatory delays on housing projects to get more families into homes.",
+          "quote": "Cut red tape that delays housing projects and puts families in houses instead of investment firms",
+          "sourceUrl": "https://backnebraska.com/lowering-costs-restoring-the-middle-class/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Backemeyer supports comprehensive immigration reform with a pathway to citizenship and clawing back ICE funding.",
+          "quote": "Pass comprehensive immigration reform that creates a genuine pathway to citizenship and keeps families together",
+          "sourceUrl": "https://backnebraska.com/smart-fair-immigration-and-a-secure-border/",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Backemeyer says he will protect abortion access in Nebraska and nationally.",
+          "quote": "Protect a woman's right to choose in Nebraska and nationwide",
+          "sourceUrl": "https://backnebraska.com/making-healthcare-affordable-accessible/",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Backemeyer supports enacting a public option to guarantee universal coverage and lowering the Medicare eligibility age to 60.",
+          "quote": "Enact a true public option to guarantee universal coverage and force insurance companies to compete by offering lower prices and better coverage",
+          "sourceUrl": "https://backnebraska.com/making-healthcare-affordable-accessible/",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Nik Sandman",
+      "party": "Libertarian",
+      "stances": {
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Sandman said he opposes abortion and supported legislation requiring care for babies born alive after failed abortion attempts while opposing taxpayer funding for abortion providers.",
+          "quote": "Nik Sandman, a Libertarian, told Nebraska Public Media News that he is most passionate about life, including supporting health care for all and pushing against abortion and euthanasia.",
+          "sourceUrl": "https://nebraskapublicmedia.org/en/news/news-articles/two-democrats-face-off-in-1st-district-primary-incumbent-republican-mike-flood-and-libertarian-run-unopposed/",
+          "agreement": "2/3"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "On a candidate questionnaire, Sandman answered \"Yes\" to legislation limiting girls' sports and women's facilities to those born female, and \"No\" to sex-change surgeries for minors.",
+          "quote": "Do you support legislation prohibiting men from playing in girls' sports and using women's restrooms and locker rooms?",
+          "sourceUrl": "https://nebraskavoterguide.com/candidates/nik-sandman",
+          "agreement": "2/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Sandman said the government should fund and build health care infrastructure and allow people to use it, describing this as health care for all.",
+          "quote": "He compared how he believes the government should provide health care to the way it provides roads — the government should fund and build them and allow people the freedom to use them.",
+          "sourceUrl": "https://nebraskapublicmedia.org/en/news/news-articles/two-democrats-face-off-in-1st-district-primary-incumbent-republican-mike-flood-and-libertarian-run-unopposed/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "Dan Hartong",
+      "party": "America First",
+      "stances": {}
+    }
+  ],
+  "sources": "mikefloodfornebraska.com · flood.house.gov · opencampaign.com · nebraskapublicmedia.org · federalvoice.com · backnebraska.com · nebraskavoterguide.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

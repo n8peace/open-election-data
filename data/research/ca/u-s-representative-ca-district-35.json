@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 35",
+  "division": "ca/cd-35",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Norma J. Torres",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Mike Cargile",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

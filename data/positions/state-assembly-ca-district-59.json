@@ -1,0 +1,54 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 59",
+  "division": "ca/sldl-59",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Phillip Chen",
+      "party": "Republican",
+      "stances": {}
+    },
+    {
+      "name": "Victor Hernandez",
+      "party": "Green",
+      "stances": {
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Hernandez lists defending immigrants, protecting them against ICE, and upholding sanctuary principles among his campaign priorities.",
+          "quote": "defending immigrants and our communities, Victor is putting the needs of California's working families and small businesses above corporate greed",
+          "sourceUrl": "https://www.victorforassembly.com/",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Hernandez calls health care a human right and lists enacting the single-payer CalCare bill and statewide free clinics among his priorities.",
+          "quote": "Healthcare is a human right, and everyone deserves access to quality care that meets their needs without bankrupting them.",
+          "sourceUrl": "https://www.victorforassembly.com/issues",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "victorforassembly.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

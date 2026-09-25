@@ -1,0 +1,135 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 3",
+  "division": "ca/sldl-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Dom Belza",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "On his campaign issues page, Belza pledges to fight for lower taxes and reduce regulations he says drive up costs.",
+          "quote": "I will fight for lower taxes, reduce regulations that drive up costs, and support policies that help working families keep more of their hard-earned money.",
+          "sourceUrl": "https://dombelza.com/issues/",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Belza said school choice is a right of parents and families and called for greater accountability in education.",
+          "quote": "Belza said accountability needs to be brought into the education system and that school choice is the right of parents and families.",
+          "sourceUrl": "https://www.appeal-democrat.com/colusa_sun_herald/three-republicans-vie-for-3rd-assembly-seat/article_8af2b3f3-ac28-4d1b-a2bd-b96084bf0e16.html",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "His campaign issues page calls for more support and resources for police officers.",
+          "quote": "additional support and resources for our peace officers and will work to close",
+          "sourceUrl": "https://dombelza.com/issues/",
+          "agreement": "3/10"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "His campaign issues page calls for stronger penalties for repeat offenders, and he served as Honorary Co-Chair of Proposition 36, which increased criminal penalties.",
+          "quote": "advocate for stronger penalties for repeat offenders, additional support and resources",
+          "sourceUrl": "https://dombelza.com/issues/",
+          "agreement": "4/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "His campaign issues page states he will protect Second Amendment rights to keep and bear arms.",
+          "quote": "I believe the Second Amendment guarantees our right to protect ourselves, our families, and our freedoms.",
+          "sourceUrl": "https://dombelza.com/issues/",
+          "agreement": "3/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Belza identified high fuel and electricity costs as affordability problems and said reducing gas prices would be a major priority.",
+          "quote": "So, figuring out ways to cut our gas prices is going to be huge going forward.",
+          "sourceUrl": "https://www.mynspr.org/news/2026-05-22/interview-belza-outlines-priorities-in-north-state-assembly-race",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "James \"Jamie\" Johansson",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Johansson says he will oppose any new taxes on income, property, or agricultural land.",
+          "quote": "I will oppose any new taxes on income, property, or agricultural land that burden working families and farm operations.",
+          "sourceUrl": "https://www.votejohansson.com/issues",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Johansson said school choice and vouchers could improve accountability and school performance through competition.",
+          "quote": "Johansson advocated school choice as the most effective way to address the issue; he believes that when schools compete, competition drives improvement. He also believes that a voucher system could encourage accountability, as dissatisfied parents have a choice to move elsewhere.",
+          "sourceUrl": "https://www.appeal-democrat.com/colusa_sun_herald/three-republicans-vie-for-3rd-assembly-seat/article_8af2b3f3-ac28-4d1b-a2bd-b96084bf0e16.html",
+          "agreement": "2/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Johansson says he will build more prisons and hire more police officers if needed.",
+          "quote": "Victims come first. If we need more prisons, we'll build them. If we need more police officers, we'll hire them.",
+          "sourceUrl": "https://www.votejohansson.com/issues",
+          "agreement": "2/3"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "Johansson says sexual predators who harm children deserve life sentences under a one-strike rule.",
+          "quote": "Sexual predators who harm children deserve life sentences. One strike, and they're out of our communities for good.",
+          "sourceUrl": "https://www.votejohansson.com/issues",
+          "agreement": "2/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Johansson supports the border wall and says criminal illegal immigrants should be arrested and deported.",
+          "quote": "Criminal illegal immigrants should be arrested and deported to their home country.",
+          "sourceUrl": "https://www.votejohansson.com/issues",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Johansson says he will vote to suspend the state gas tax to lower fuel and commuting costs.",
+          "quote": "I will vote to suspend the Gas Tax. It costs Californians thousands each year and drives up the price of food, housing and commuting.",
+          "sourceUrl": "https://www.votejohansson.com/issues",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "dombelza.com · appeal-democrat.com · mynspr.org · votejohansson.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,42 @@
+{
+  "office": "Measure P",
+  "district": "City of Albany",
+  "division": "ca/place-albany",
+  "kind": "measure",
+  "summary": "A Yes vote sets the Street Paving and Storm Drain special parcel tax at $0.0638 per lot square foot and adds low-income exemptions and rebates, raising about $1.4 million per year until ended by voters.",
+  "issues": [
+    "tax",
+    "transit"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "The League supports Measure P, which continues funding for Albany street paving and storm-drain work through a special tax.",
+          "quote": "Measure P — Street Paving & Storm Drain Tax : SUPPORT",
+          "sourceUrl": "https://www.lwvbae.org/league-news/vote-with-the-league-nov-2024-2/",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "A No vote would reject Measure P’s authorization for the city to levy a potentially higher parcel tax for street paving and storm drains.",
+          "quote": "A yes vote would allow the city to levy a tax of up to $0.0638 per lot square foot on all parcels",
+          "sourceUrl": "https://www.albanyscanner.com/2026/08/12/city/albany-2026-november-election-ballot-measures/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "lwvbae.org · albanyscanner.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

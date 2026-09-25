@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 51",
+  "division": "ca/sldl-51",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Colin D. Hernandez",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Rick Chavez Zbur",
+      "party": "Democratic",
+      "incumbent": true
+    }
+  ]
+}

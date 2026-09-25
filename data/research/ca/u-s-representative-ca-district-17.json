@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 17",
+  "division": "ca/cd-17",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Ro Khanna",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Ritesh Tandon",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

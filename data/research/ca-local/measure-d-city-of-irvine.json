@@ -1,0 +1,16 @@
+{
+  "office": "Measure D",
+  "district": "City of Irvine",
+  "division": "ca/place-irvine",
+  "kind": "measure",
+  "summary": "A Yes vote directs the City of Irvine to use ranked choice voting for city council member and mayoral elections held after January 1, 2028.",
+  "issues": [],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

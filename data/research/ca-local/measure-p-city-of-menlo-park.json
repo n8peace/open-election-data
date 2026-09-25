@@ -1,0 +1,19 @@
+{
+  "office": "Measure P",
+  "district": "City of Menlo Park",
+  "division": "ca/place-menlo-park",
+  "kind": "measure",
+  "summary": "A Yes vote adopts an ordinance requiring voter approval before the City sells, leases, or otherwise disposes of downtown city-owned parking plaza land in ways that reduce public parking.",
+  "issues": [
+    "housing",
+    "transit"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "office": "Measure Y",
+  "district": "Lassen Union High School District",
+  "division": "ca/school-lassen-union-high",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Lassen Union High School District to issue general obligation bonds to fund school facility repairs and improvements, repaid by an assessment on taxable property in the district.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

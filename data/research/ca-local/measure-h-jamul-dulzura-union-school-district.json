@@ -1,0 +1,19 @@
+{
+  "office": "Measure H",
+  "district": "Jamul-Dulzura Union School District",
+  "division": "ca/school-jamul-dulzura-union",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes bonds to repair and modernize school facilities in the Jamul-Dulzura Union School District.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

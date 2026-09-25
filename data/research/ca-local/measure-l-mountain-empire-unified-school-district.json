@@ -1,0 +1,19 @@
+{
+  "office": "Measure L",
+  "district": "Mountain Empire Unified School District",
+  "division": "ca/school-mountain-empire-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Mountain Empire Unified School District to issue $23,000,000 in general obligation bonds to repair and upgrade school facilities, including classroom renovations and asbestos removal.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "office": "Measure X",
+  "district": "City of Benicia",
+  "division": "ca/place-benicia",
+  "kind": "measure",
+  "summary": "A Yes vote adopts a City of Benicia business license tax that sets rates by business category, exempts businesses with $100,000 or less in annual receipts, and applies a separate marine terminal rate.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

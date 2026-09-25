@@ -1,0 +1,111 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 47",
+  "division": "ca/cd-47",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Dave Min",
+      "party": "Democratic",
+      "stances": {
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Min says he voted against cuts to funding for Medicaid and Medicare and wants that funding restored.",
+          "quote": "I believe that we must restore the enhanced premium tax credits and also essential funding to Medicaid and Medicare.",
+          "sourceUrl": "https://www.davemin.com/issues/healthcare",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Min says his housing approach centers on cutting barriers to building more housing alongside funding for affordable housing, and voices support for YIMBY efforts.",
+          "quote": "reducing the barriers to building more housing while also emphasizing funding and subsidies for affordable housing",
+          "sourceUrl": "https://www.davemin.com/issues/housing-and-homelessness",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Min says he will continue advocating for and protecting resources for public schools.",
+          "quote": "America’s ability to compete globally hinges on the success of our public schools, which is why I will always champion public education.",
+          "sourceUrl": "https://www.davemin.com/issues/education",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Min supports strong border security while also saying that misconduct by immigration agents and parts of current immigration law require correction.",
+          "quote": "I believe in strong border security, but the misconduct of ICE, CBP, and DHS agents has starkly illustrated how deeply flawed our immigrant laws are.",
+          "sourceUrl": "https://www.davemin.com/issues",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Min says he supports expanding background checks and red flag laws and renewing the assault weapons ban, and notes his F rating from the NRA.",
+          "quote": "Supporting bills to expand background checks and red flag laws, and to renew the assault weapons ban.",
+          "sourceUrl": "https://www.davemin.com/issues/gun-violence-prevention",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Min says he has fought his whole career for abortion rights, authored California's Proposition 1 codifying abortion access, and sponsored federal legislation to codify Roe v. Wade.",
+          "quote": "Women should have full autonomy over their own bodies and their ability to make their own healthcare decisions.",
+          "sourceUrl": "https://www.davemin.com/issues/reproductive-rights",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Min says he voted against cuts to Medicaid and Medicare funding and wants to restore enhanced premium tax credits so more people can afford coverage.",
+          "quote": "That's why I voted against cuts to funding for Medicaid and Medicare.",
+          "sourceUrl": "https://www.davemin.com/issues/healthcare",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Min calls climate change his most urgent issue and, as a state senator, authored legislation to end offshore oil drilling and decarbonize the economy.",
+          "quote": "As the parent of three young kids, I cannot think of a more urgent issue to tackle than climate change.",
+          "sourceUrl": "https://www.davemin.com/issues",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Min says he has opposed voter-suppression efforts.",
+          "quote": "I’ve fought back forcefully against their culture war efforts, including by issuing statements, writing letters, and even speaking at Council Chambers against book bans, voter suppression efforts, and proposals targeting the LGBTQ+ community.",
+          "sourceUrl": "https://www.davemin.com/issues",
+          "agreement": "3/10"
+        }
+      }
+    },
+    {
+      "name": "Jenny Rae Le Roux",
+      "party": "Republican",
+      "stances": {}
+    }
+  ],
+  "sources": "davemin.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

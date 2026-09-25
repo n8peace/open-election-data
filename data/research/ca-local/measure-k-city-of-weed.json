@@ -1,0 +1,18 @@
+{
+  "office": "Measure K",
+  "district": "City of Weed",
+  "division": "ca/place-weed",
+  "kind": "measure",
+  "summary": "A Yes vote establishes a 1.5% sales tax in the City of Weed, providing approximately $1,700,000 annually for general city services until repealed by voters.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

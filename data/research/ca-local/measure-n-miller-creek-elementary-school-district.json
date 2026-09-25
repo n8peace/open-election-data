@@ -1,0 +1,19 @@
+{
+  "office": "Measure N",
+  "district": "Miller Creek Elementary School District",
+  "division": "ca/school-miller-creek-elementary",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue up to $67,000,000 in bonds to repair and upgrade school buildings, systems, classrooms, and security, repaid by a property tax.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

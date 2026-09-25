@@ -1,0 +1,18 @@
+{
+  "office": "Measure X",
+  "district": "City of Brisbane",
+  "division": "ca/place-brisbane",
+  "kind": "measure",
+  "summary": "A Yes vote replaces Brisbane's tiered business license tax with a gross-receipts formula under which a business with $25,000 or less in gross receipts pays $50 and one above that pays $50 plus $1.00 per $1,000 of receipts over $25,000, removes certain exemptions, and directs revenue to the General Fund.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

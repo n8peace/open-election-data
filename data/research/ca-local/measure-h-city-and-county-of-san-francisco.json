@@ -1,0 +1,19 @@
+{
+  "office": "Measure H",
+  "district": "City and County of San Francisco",
+  "division": "ca/place-city-and-county-of-san-francisco",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a parcel tax to fund Muni public transit operations.",
+  "issues": [
+    "tax",
+    "transit"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

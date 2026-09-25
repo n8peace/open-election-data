@@ -1,0 +1,17 @@
+{
+  "office": "U.S. House",
+  "district": "Example District 1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Candidate One",
+      "party": "Party A",
+      "sources": ["https://example.com/candidate-one/issues"]
+    },
+    {
+      "name": "Candidate Two",
+      "party": "Party B",
+      "sources": ["https://example.com/candidate-two/platform"]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 22",
+  "division": "ca/sldl-22",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Juan Alanis",
+      "party": "Republican",
+      "stances": {
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "A 29-year sheriff's deputy, Alanis emphasizes cracking down on drug dealers and holding criminals accountable.",
+          "quote": "He is leading efforts to crack down on fentanyl dealers, prevent smash-and-grab robberies, and fix laws that fail to hold criminals accountable.",
+          "sourceUrl": "https://alanisforassembly.com/issues/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Alanis is working to suspend California's gas tax to lower the state's high gas prices.",
+          "quote": "Juan is working to fix California's highest-in-the-nation gas prices by working to suspend the gas tax",
+          "sourceUrl": "https://alanisforassembly.com/issues/",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "alanisforassembly.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

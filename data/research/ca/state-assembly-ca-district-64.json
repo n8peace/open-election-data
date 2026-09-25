@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 64",
+  "division": "ca/sldl-64",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Blanca Pacheco",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Raul Ortiz Jr.",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

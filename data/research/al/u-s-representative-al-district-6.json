@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "AL District 6",
+  "division": "al/cd-6",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Gary Palmer",
+      "party": "Republican"
+    },
+    {
+      "name": "Maurice Mercer",
+      "party": "Democrat"
+    }
+  ]
+}

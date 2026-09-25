@@ -1,0 +1,152 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 18",
+  "division": "ca/cd-18",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Zoe Lofgren",
+      "party": "Democratic",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Joined a Supreme Court brief challenging the president’s unilateral tariffs, arguing that they raise prices and harm consumers and businesses.",
+          "quote": "These chaotic on-again, off-again tariffs are not just lawless, they are hurting Americans, driving up prices for consumers and crushing small businesses.",
+          "sourceUrl": "https://lofgren.house.gov/media/press-releases/lofgren-house-democrats-litigation-task-force-submits-bicameral-amicus-brief",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Lofgren vowed to protect Social Security from cuts.",
+          "quote": "Retirees deserve secure retirement benefits after a lifetime of hard work, and I am fully committed to protecting Social Security from Republicans' attempts to dismantle it.",
+          "sourceUrl": "https://lofgren.house.gov/media/press-releases/lofgren-vows-protect-social-security-87th-anniversary",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Lofgren has repeatedly voted against federally funded private-school voucher programs, including the DC Opportunity Scholarship Program.",
+          "quote": "Voted NO on reauthorizing the DC opportunity scholarship program.",
+          "sourceUrl": "https://ontheissues.org/CA/Zoe_Lofgren_Education.htm",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Describes herself as a champion of comprehensive immigration reform and a defender of DACA.",
+          "quote": "Zoe is recognized by her colleagues and immigration advocates as an established champion of comprehensive immigration reform, a national leader on immigration policy, and a staunch defender of DACA",
+          "sourceUrl": "https://www.zoelofgren.com/meet-zoe/",
+          "agreement": "6/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Lofgren supports requiring background checks for all commercial gun sales.",
+          "quote": "The Public Safety and Second Amendment Rights Protection Act would require background checks to be completed for all commercial gun sales to prevent domestic abusers and felons from obtaining firearms",
+          "sourceUrl": "https://lofgren.house.gov/issues/gun-violence",
+          "agreement": "3/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Lofgren condemned the Dobbs decision and supports codifying Roe v. Wade into law.",
+          "quote": "Democrats in the House have already passed legislation to enshrine Roe v. Wade in law.",
+          "sourceUrl": "https://lofgren.house.gov/media/press-releases/lofgren-condemns-supreme-court-s-dobbs-decision",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Opposed a Senate funding agreement because it did not immediately extend Affordable Care Act tax credits to lower health-care costs.",
+          "quote": "Americans need their healthcare costs to be lowered now. Getting the \"promise of a vote\" to extend ACA tax credits a month from now is just not good enough",
+          "sourceUrl": "https://lofgren.house.gov/media/press-releases/lofgren-opposes-senate-deal-prolong-republicans-healthcare-crisis",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Joined lawmakers calling for an end to new offshore oil and gas leasing and restoration of a pathway for offshore wind and other clean-energy projects.",
+          "quote": "We write to express our strongest opposition to any effort to open new offshore oil and gas leasing",
+          "sourceUrl": "https://lofgren.house.gov/media/press-releases/lofgren-joins-over-100-lawmakers-demanding-trump-reverse-plan-open-new",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Defended California’s vote-by-mail system and urged the Justice Department not to take actions that intimidate voters or reduce participation.",
+          "quote": "We will not tolerate federal interference in Californians’ right to vote, including by the Department engaging in any form of intimidation of immigrant communities.",
+          "sourceUrl": "https://lofgren.house.gov/media/press-releases/california-lawmakers-defend-states-election-integrity-oppose-voter",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Shane Lewis",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Lewis proposes a simple low flat tax of roughly 7% on workers' wages to cut federal tax liability.",
+          "quote": "Introduce a simple, low flat tax of approximately 7% for American workers' wages and salaries.",
+          "sourceUrl": "https://shanelewisforcongress.com/issues",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Lewis calls for gradually reducing federal deficit spending to address a national debt exceeding $39 trillion.",
+          "quote": "I support a responsible, gradual reduction in deficit spending by 2% annually",
+          "sourceUrl": "https://shanelewisforcongress.com/issues",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "Lewis backs a Parent and Student Empowerment Act that ties a portion of education funding directly to students.",
+          "quote": "This act gives families more say by tying a portion of education funding directly to students, increasing transparency and accountability.",
+          "sourceUrl": "https://shanelewisforcongress.com/issues",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Lewis proposes expanding and reforming the H-2A visa program as a controlled tool for seasonal agricultural labor.",
+          "quote": "Expand and reform the H-2A visa program as a vetted, controlled tool for seasonal agricultural labor.",
+          "sourceUrl": "https://shanelewisforcongress.com/issues",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Lewis favors an all-of-the-above energy strategy emphasizing affordable, reliable energy using abundant domestic resources.",
+          "quote": "The smartest path forward is an all-of-the-above energy strategy",
+          "sourceUrl": "https://shanelewisforcongress.com/issues",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "lofgren.house.gov · ontheissues.org · zoelofgren.com · shanelewisforcongress.com",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

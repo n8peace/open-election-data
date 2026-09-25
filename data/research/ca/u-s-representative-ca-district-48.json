@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 48",
+  "division": "ca/cd-48",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Marni von Wilpert",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Jim Desmond",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

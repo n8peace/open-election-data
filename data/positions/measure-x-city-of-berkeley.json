@@ -1,0 +1,20 @@
+{
+  "office": "Measure X",
+  "district": "City of Berkeley",
+  "division": "ca/place-berkeley",
+  "kind": "measure",
+  "summary": "A Yes vote amends Berkeley's rent ordinance to apply most exemptions only to units not exempt when the current tenancy began, allow fee waivers for nonprofit-owned subsidized units, change the registration deadline, limit annual rent increases to ten percent, and allow tenant associations in smaller properties.",
+  "issues": [],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {}
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

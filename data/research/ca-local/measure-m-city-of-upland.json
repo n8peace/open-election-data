@@ -1,0 +1,18 @@
+{
+  "office": "Measure M",
+  "district": "City of Upland",
+  "division": "ca/place-upland",
+  "kind": "measure",
+  "summary": "A Yes vote amends the City of Upland municipal code.",
+  "issues": [
+    "cannabis"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

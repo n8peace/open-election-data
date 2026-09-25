@@ -1,0 +1,18 @@
+{
+  "office": "Measure HH",
+  "district": "City of Pleasanton",
+  "division": "ca/place-pleasanton",
+  "kind": "measure",
+  "summary": "A Yes vote increases the city's hotel transient occupancy tax.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

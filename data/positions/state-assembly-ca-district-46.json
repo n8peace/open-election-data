@@ -1,0 +1,86 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 46",
+  "division": "ca/sldl-46",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jesse Gabriel",
+      "party": "Democratic",
+      "stances": {}
+    },
+    {
+      "name": "Tracey Schroeder",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Schroeder says she would suspend the gas tax, use the state surplus to cut taxes, defend Proposition 13, and oppose new tax increases.",
+          "quote": "I will vote to suspend the Gas Tax, use the state's surplus to cut your taxes, and defend Proposition 13 so families aren't taxed out of their homes. I oppose any new tax increase.",
+          "sourceUrl": "https://traceyschroeder.com/issues",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Schroeder says she would support parental rights and school choice while auditing education spending.",
+          "quote": "I will fight for parental rights and school choice, defend parents' voice in their kids' education, and audit education spending so every dollar reaches the classroom.",
+          "sourceUrl": "https://traceyschroeder.com/issues",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Schroeder opposes defunding the police and says she would hold prosecutors accountable and keep dangerous felons behind bars.",
+          "quote": "I oppose \"Defunding the Police.\" I will fight for tougher penalties for repeat offenders, hold rogue DAs accountable, stop the refusal to prosecute, and keep dangerous felons behind bars.",
+          "sourceUrl": "https://traceyschroeder.com/issues",
+          "agreement": "5/5"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "Schroeder says she would seek tougher penalties for repeat offenders and keep dangerous felons incarcerated.",
+          "quote": "I will fight for tougher penalties for repeat offenders, hold rogue DAs accountable, stop the refusal to prosecute, and keep dangerous felons behind bars.",
+          "sourceUrl": "https://traceyschroeder.com/issues",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Schroeder says she would protect girls' sports and girls' private spaces.",
+          "quote": "I will audit Child Protective Services, support families in crisis, and protect girls' private spaces and girls' sports.",
+          "sourceUrl": "https://traceyschroeder.com/issues",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "She says she would suspend the gas tax as part of making basic costs more affordable.",
+          "quote": "I will vote to suspend the Gas Tax, use the state's surplus to cut your taxes, and defend Proposition 13 so families aren't taxed out of their homes.",
+          "sourceUrl": "https://traceyschroeder.com/issues",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "traceyschroeder.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

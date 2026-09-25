@@ -1,0 +1,18 @@
+{
+  "office": "State Senate",
+  "district": "CA District 2",
+  "division": "ca/sldu-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Damon Connolly",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Tief Gibbs",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

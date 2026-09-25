@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 37",
+  "division": "ca/sldl-37",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Gregg Hart",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Sari Domingues",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

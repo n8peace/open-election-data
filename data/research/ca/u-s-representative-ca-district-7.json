@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 7",
+  "division": "ca/cd-7",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Doris Matsui",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Mai Vang",
+      "party": "Democratic",
+      "incumbent": false
+    }
+  ]
+}

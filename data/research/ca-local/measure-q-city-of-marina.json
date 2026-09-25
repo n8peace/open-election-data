@@ -1,0 +1,18 @@
+{
+  "office": "Measure Q",
+  "district": "City of Marina",
+  "division": "ca/place-marina",
+  "kind": "measure",
+  "summary": "A Yes vote establishes a 7% utility users' tax to fund city services, with an exemption for low-income residents.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

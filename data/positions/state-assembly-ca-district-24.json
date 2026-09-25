@@ -1,0 +1,103 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 24",
+  "division": "ca/sldl-24",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Alex Lee",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Lee authored AB 259, a tax on extreme wealth, arguing it would raise billions for schools and services while affecting almost no one.",
+          "quote": "99.9% of people would not be impacted by the Wealth Tax, yet it could generate over $20 billion in revenue for our schools, roads, and essential services.",
+          "sourceUrl": "https://contracosta.news/2024/01/12/bill-to-tax-extreme-wealth-held-by-committee/",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Lee's platform calls for smart-growth policies to build more mixed-use, mixed-income housing in dense areas, plus public 'social housing.'",
+          "quote": "Promote smart growth policies that will create more mixed-use housing in dense areas that are available to mixed-income levels",
+          "sourceUrl": "https://www.votealexlee.com/issues",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Lee authored a resolution affirming the Legislature's commitment to birthright citizenship.",
+          "quote": "Affirming the Legislature's commitment to birthright citizenship (AJR 5 of 2025)",
+          "sourceUrl": "https://www.votealexlee.com/issues",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Lee champions universal, single-payer health care and authored AB 1900 toward that goal.",
+          "quote": "Universal health care for everyone (AB 1900 of 2025)",
+          "sourceUrl": "https://www.votealexlee.com/issues",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Lee's platform calls for ending fracking and California's reliance on fossil fuels.",
+          "quote": "Ending fracking and our reliance on fossil fuels",
+          "sourceUrl": "https://www.votealexlee.com/issues",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Max Hsia",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Hsia says he wants to protect Proposition 13 and opposes the property-tax reassessment provision of Proposition 19.",
+          "quote": "He also wants to protect Proposition 13 and oppose the property tax reassessment clause in Proposition 19",
+          "sourceUrl": "https://www.municipaljournal.org/post/max-hsia-on-fiscal-reform-public-safety-and-housing-costs",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Hsia argues overregulation drives up housing costs and wants to streamline fees and bureaucratic delays to lower construction costs.",
+          "quote": "Overregulation, he argues, is one of the single biggest drivers of unaffordable housing in California",
+          "sourceUrl": "https://www.municipaljournal.org/post/max-hsia-on-fiscal-reform-public-safety-and-housing-costs",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Hsia supports funding Proposition 36 and proposes license plate readers and cameras at high-crime intersections.",
+          "quote": "He fully supports funding Proposition 36, which allows prosecutors to charge repeat drug and theft offenders with felonies.",
+          "sourceUrl": "https://www.municipaljournal.org/post/max-hsia-on-fiscal-reform-public-safety-and-housing-costs",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "contracosta.news · votealexlee.com · municipaljournal.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

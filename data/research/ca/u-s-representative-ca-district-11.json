@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 11",
+  "division": "ca/cd-11",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Connie Chan",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Scott Wiener",
+      "party": "Democratic",
+      "incumbent": false
+    }
+  ]
+}

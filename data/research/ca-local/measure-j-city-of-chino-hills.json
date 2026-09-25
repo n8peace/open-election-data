@@ -1,0 +1,18 @@
+{
+  "office": "Measure J",
+  "district": "City of Chino Hills",
+  "division": "ca/place-chino-hills",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a City of Chino Hills transactions and use (sales) tax.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

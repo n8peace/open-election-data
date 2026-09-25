@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 9",
+  "division": "ca/cd-9",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Josh Harder",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "John McBride",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

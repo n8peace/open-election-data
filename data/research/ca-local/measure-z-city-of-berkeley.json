@@ -1,0 +1,18 @@
+{
+  "office": "Measure Z",
+  "district": "City of Berkeley",
+  "division": "ca/place-berkeley",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a parcel tax to provide capital for a public bank serving the East Bay.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "office": "Measure S",
+  "district": "City of Oceanside",
+  "division": "ca/place-oceanside",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a temporary half-cent sales tax in the City of Oceanside to fund public safety and infrastructure, with citizen oversight and independent auditing.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

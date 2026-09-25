@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "AR District 02",
+  "division": "ar/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Chris Jones",
+      "party": "Democratic"
+    },
+    {
+      "name": "Congressman French Hill",
+      "party": "Republican"
+    }
+  ]
+}

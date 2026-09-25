@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "AZ District 5",
+  "division": "az/cd-5",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Mark Lamb",
+      "party": "Republican"
+    },
+    {
+      "name": "Elizabeth Lee",
+      "party": "Democratic"
+    }
+  ]
+}

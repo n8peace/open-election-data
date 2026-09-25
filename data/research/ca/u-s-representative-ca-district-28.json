@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 28",
+  "division": "ca/cd-28",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Judy Chu",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "April A. Verlato",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

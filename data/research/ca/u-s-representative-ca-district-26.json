@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 26",
+  "division": "ca/cd-26",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Jacqui Irwin",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Sam Gallucci",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

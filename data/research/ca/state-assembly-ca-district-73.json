@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 73",
+  "division": "ca/sldl-73",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Cottie Petrie-Norris",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Urson Russell",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

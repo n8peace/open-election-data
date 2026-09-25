@@ -1,0 +1,19 @@
+{
+  "office": "Measure M",
+  "district": "Harmony Union School District",
+  "division": "ca/school-harmony-union",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a $75-per-parcel tax for four years, raising about $177,600 annually to fund the district's garden enrichment program and student mental health and academic intervention services, with an exemption available to those 65 and older.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

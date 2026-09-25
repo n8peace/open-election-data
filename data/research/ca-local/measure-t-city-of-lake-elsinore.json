@@ -1,0 +1,16 @@
+{
+  "office": "Measure T",
+  "district": "City of Lake Elsinore",
+  "division": "ca/place-lake-elsinore",
+  "kind": "measure",
+  "summary": "A Yes vote changes the office of City Treasurer from an elected office to an office appointed by the City Manager.",
+  "issues": [],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

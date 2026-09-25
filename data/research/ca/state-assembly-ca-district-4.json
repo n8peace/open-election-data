@@ -1,0 +1,13 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 4",
+  "division": "ca/sldl-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Cecilia M. Aguiar-Curry",
+      "party": "Democratic",
+      "incumbent": true
+    }
+  ]
+}

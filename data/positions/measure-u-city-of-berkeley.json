@@ -1,0 +1,41 @@
+{
+  "office": "Measure U",
+  "district": "City of Berkeley",
+  "division": "ca/place-berkeley",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes $300 million in general obligation bonds, repaid by property taxes averaging about $22.14 per $100,000 of assessed value per year, to fund fire stations, emergency response facilities, parks and recreation facilities, other public infrastructure, and climate resiliency.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would authorize up to $300 million in bonds and increase property taxes to fund emergency facilities, parks, and infrastructure upgrades.",
+          "quote": "Authorizes up to $300 million in general obligation bonds for emergency response facilities, parks, seismic and climate resilience upgrades, and replacing aging natural gas infrastructure.",
+          "sourceUrl": "https://www.lwvbae.org/league-news/vote-with-the-league-nov-2024-2/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote rejects the $300 million infrastructure bond, which would increase annual property taxes to fund city infrastructure and facilities.",
+          "quote": "The measure would increase annual property taxes by $44 for every $100,000 of a home’s assessed value.",
+          "sourceUrl": "https://www.berkeleyside.org/2026/07/24/berkeley-election-2026-ballot-measures-public-bank-soda-tax",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "lwvbae.org · berkeleyside.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

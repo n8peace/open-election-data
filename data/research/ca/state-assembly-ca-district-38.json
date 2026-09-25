@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 38",
+  "division": "ca/sldl-38",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Steve Bennett",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Michael MacDonald",
+      "party": "Democratic",
+      "incumbent": false
+    }
+  ]
+}

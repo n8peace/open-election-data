@@ -1,0 +1,32 @@
+{
+  "office": "Measure Q",
+  "district": "City of Richmond",
+  "division": "ca/place-richmond",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the City of Richmond to issue $120 million in bonds to build firefighter housing and improve fire and emergency-response facilities, repaid through property taxes.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote authorizes $120 million in City of Richmond bonds, raising property taxes about $22.15 per $100,000 of assessed value, to fund 911 emergency medical response and rehabilitate firefighter housing and facilities.",
+          "quote": "To support rapid, 911 emergency medical response, modernize and rehabilitate unsafe/deteriorating firefighter housing and facilities",
+          "sourceUrl": "https://localnewsmatters.org/contra-costa-county-november-3-2026/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "localnewsmatters.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

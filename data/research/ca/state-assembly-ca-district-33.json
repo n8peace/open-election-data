@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 33",
+  "division": "ca/sldl-33",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Hipolito Angel Cerros",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Alexandra (Ali) Macedo",
+      "party": "Republican",
+      "incumbent": true
+    }
+  ]
+}

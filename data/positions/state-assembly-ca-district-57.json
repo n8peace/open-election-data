@@ -1,0 +1,70 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 57",
+  "division": "ca/sldl-57",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Sade Elhawary",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Co-authored AB 1790, which seeks to require large corporations such as fossil fuel companies to pay more taxes to the state.",
+          "quote": "This year, Elhawary co-authored AB 1790 which seeks to make large corporations like fossil fuel companies pay their fair share of taxes to the state.",
+          "sourceUrl": "https://climateactioncaelections.org/ad-57-sade-elhawary-2/",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "Elhawary's platform supports community-led alternatives to policing and a community safety model built on restorative justice and prevention.",
+          "quote": "Sade supports community-led alternatives to policing, a community safety model that prioritizes balanced and restorative justice, discipline reform, workforce innovation, cultural wellness, and civic engagement.",
+          "sourceUrl": "https://sadeforassembly.com/priorities/",
+          "agreement": "3/5"
+        },
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "lean",
+          "text": "Elhawary's platform calls for promoting gang intervention as a career path and creating pathways for rehabilitation and healing.",
+          "quote": "Promote gang intervention as a legitimate career path and altogether create pathways for rehabilitation and healing",
+          "sourceUrl": "https://sadeforassembly.com/priorities/",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Elhawary's platform calls for phasing out oil drilling and remediating existing and abandoned wells.",
+          "quote": "Phase out oil drilling and remediate existing and abandoned wells.",
+          "sourceUrl": "https://sadeforassembly.com/priorities/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Constance Jewel Menzies",
+      "party": "Republican",
+      "stances": {}
+    }
+  ],
+  "sources": "climateactioncaelections.org · sadeforassembly.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

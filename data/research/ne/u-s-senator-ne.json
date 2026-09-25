@@ -1,0 +1,28 @@
+{
+  "office": "U.S. Senator",
+  "district": "NE",
+  "division": "ne/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Pete Ricketts",
+      "party": "Republican"
+    },
+    {
+      "name": "Mike Marvin",
+      "party": "Legal Marijuana NOW"
+    },
+    {
+      "name": "Robin Richards",
+      "party": "Nebraska Working People"
+    },
+    {
+      "name": "Chuck Conboy",
+      "party": "America First"
+    },
+    {
+      "name": "Dan Osborn",
+      "party": "By Petition"
+    }
+  ]
+}

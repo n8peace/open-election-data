@@ -1,0 +1,18 @@
+{
+  "office": "Measure F",
+  "district": "City of Lincoln",
+  "division": "ca/place-lincoln",
+  "kind": "measure",
+  "summary": "A Yes vote establishes a one-cent (1%) sales tax providing about $6,000,000 annually for city services including public safety.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

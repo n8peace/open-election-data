@@ -1,0 +1,103 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 36",
+  "division": "ca/sldl-36",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Ida S. Obeso-Martinez",
+      "party": "Democratic",
+      "stances": {
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Her campaign says neighborhood safety should combine prevention, law enforcement, and mental-health support.",
+          "quote": "Prevention, law enforcement, and mental health support working together.",
+          "sourceUrl": "https://www.idaforassembly.com/",
+          "agreement": "2/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Obeso-Martinez, a nurse practitioner, criticized cuts to Medicaid coverage in her district and pledged to fight for families' health coverage.",
+          "quote": "When the Trump Administration eliminated Medicaid coverage for hundreds of thousands of families across our Desert and Inland communities, our elected Assemblyman was silent.",
+          "sourceUrl": "https://calexicochronicle.com/2025/10/17/ida-obeso-martinez-of-imperial-announces-assembly-candidacy/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "Jeff Gonzalez",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Gonzalez introduced AB 1745 to suspend California's roughly 61-cent-per-gallon gas tax for one year to ease costs on drivers.",
+          "quote": "This is about affordability, this is about fairness. This is about putting people before politics",
+          "sourceUrl": "https://krcrtv.com/news/local/assemblyman-jeff-gonzalez-announces-bill-to-suspend-61-cent-gas-tax-for-one-year",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "His platform calls for hiring more teachers and improving school resources and safety.",
+          "quote": "His platform also calls for eliminating taxes on groceries, passing what he describes as a major middle-class tax cut, hiring more teachers, and strengthening school safety.",
+          "sourceUrl": "https://ivn.us/trump-won-this-latino-california-district-now-independents-will-decide-who-holds-it-2026-04-07/",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Gonzalez authored AB 2701, which would have created a public domestic violence offender registry to track and publicize convicted offenders.",
+          "quote": "AB 2701 was about protecting victims, increasing awareness, and holding the most dangerous offenders accountable",
+          "sourceUrl": "https://www.ivpressonline.com/news/assemblyman-jeff-gonzalez-s-bill-ab-2701-fails-in-assembly-public-safety-committee/article_5cd066eb-e5e2-412e-a4aa-b98ba2682449.html",
+          "agreement": "3/10"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "lean",
+          "text": "Joined Republican colleagues in urging the parole board not to release a convicted child molester and emphasized the lasting harm to victims.",
+          "quote": "Joining Republican colleagues at a March 2026 press conference urging the parole board to deny release to a convicted child molester",
+          "sourceUrl": "https://ivn.us/trump-won-this-latino-california-district-now-independents-will-decide-who-holds-it-2026-04-07/",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Justified a troop deployment in Los Angeles while also signing a letter advocating a legal-status pathway for undocumented immigrants.",
+          "quote": "He sought to justify Trump’s deployment of troops in Los Angeles last year as “stepping up.” He also signed a caucus letter to Congress last year advocating for a path for legal status for undocumented immigrants.",
+          "sourceUrl": "https://www.kpbs.org/news/politics/2026/05/04/california-republicans-who-flipped-seats-in-2024-are-fighting-to-keep-them",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Gonzalez says he fought the governor's proposed cuts to In-Home Supportive Services, a publicly funded care program for vulnerable residents.",
+          "quote": "fighting back against the governor when he wanted to cut $700 million dollars from in-home supportive services for the most vulnerable people",
+          "sourceUrl": "https://kyma.com/decision-politics/local-politics/2026/09/21/jeff-gonzalez-kicks-off-reelection-campaign-in-brawley/",
+          "agreement": "4/10"
+        }
+      }
+    }
+  ],
+  "sources": "idaforassembly.com · calexicochronicle.com · krcrtv.com · ivn.us · ivpressonline.com · kpbs.org · kyma.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

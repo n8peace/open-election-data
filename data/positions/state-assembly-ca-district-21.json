@@ -1,0 +1,63 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 21",
+  "division": "ca/sldl-21",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Diane Papan",
+      "party": "Democratic",
+      "stances": {
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Papan authored AB 2842, a signed 2024 law tightening firearm rules to curb untraceable \"ghost guns.\"",
+          "quote": "An act to amend Sections 18005 and 26576 of the Penal Code, relating to firearms.",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB2842",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "On her campaign site Papan pledges to protect the legal right to abortion and access to contraceptives.",
+          "quote": "the right to an abortion and access to contraceptives regardless of socioeconomic status",
+          "sourceUrl": "https://www.dianepapan.com/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Jabra J Muhawieh",
+      "party": "Republican",
+      "stances": {
+        "housing": {
+          "toward": "slower growth",
+          "strength": "lean",
+          "text": "Muhawieh said he supports affordable housing without requiring high-density projects in single-family neighborhoods.",
+          "quote": "Muhawieh is interested in affordable housing that does not force high-density projects in single-family neighborhoods",
+          "sourceUrl": "https://www.rwcpulse.com/redwood-city/2026/08/28/redwood-city-voters-will-decide-state-federal-races-in-november/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "leginfo.legislature.ca.gov · dianepapan.com · rwcpulse.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

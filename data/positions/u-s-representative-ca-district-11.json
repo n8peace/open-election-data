@@ -1,0 +1,192 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 11",
+  "division": "ca/cd-11",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Scott Wiener",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Wiener proposes funding a large social and affordable housing program by rolling back tax cuts on corporations and the wealthy.",
+          "quote": "paid for by reversing big portions of the Bush and Trump mega tax cuts on corporations and the wealthy",
+          "sourceUrl": "https://www.scottwiener.com/platform",
+          "agreement": "7/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "He pledges to support the PRO Act to make it easier for workers to organize into unions.",
+          "quote": "support the PRO Act to help millions of new workers organize",
+          "sourceUrl": "https://www.scottwiener.com/priorities",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Wiener, author of major state zoning-reform bills, campaigns on building millions of new homes.",
+          "quote": "build 8 million homes over the next decade",
+          "sourceUrl": "https://www.scottwiener.com/platform",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Wiener frames public safety as combining compassionate and enforcement-oriented approaches rather than favoring one.",
+          "quote": "We can have both compassionate and sensible solutions to public safety",
+          "sourceUrl": "https://www.scottwiener.com/priorities",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Wiener calls for protecting immigrants, abolishing ICE, and creating a pathway to citizenship.",
+          "quote": "In Congress, Scott will fight to protect our immigrant neighbors and ABOLISH ICE!!!",
+          "sourceUrl": "https://www.scottwiener.com/priorities",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He supports an assault weapons ban and safe storage requirements.",
+          "quote": "He will fight for an assault weapons ban, safe storage requirements, and the funding that keeps communities safe from gun violence.",
+          "sourceUrl": "https://www.scottwiener.com/priorities",
+          "agreement": "5/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Wiener says decisions about abortion belong to individuals and their doctors, not politicians.",
+          "quote": "decisions about pregnancy, abortion, and contraception belong to individuals",
+          "sourceUrl": "https://www.scottwiener.com/priorities",
+          "agreement": "5/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "Wiener authored legislation expanding access to legal cannabis and opposes local bans.",
+          "quote": "We need to ensure everyone can access medicinal cannabis if they need it",
+          "sourceUrl": "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/38685-california-state-senator-scott-wiener-s-legislation-to-stop-cities-from-banning-medicinal-cannabis-passes-senate",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports Medicare for All single-payer coverage and protecting Medicaid.",
+          "quote": "Pass Medicare for All so we can enshrine healthcare as a universal right for all Americans into law.",
+          "sourceUrl": "https://www.scottwiener.com/healthcare",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Wiener passed first-in-the-nation corporate carbon-disclosure legislation and campaigns on aggressive climate action.",
+          "quote": "Scott passed a first-in-the-nation law requiring large corporations to disclose their carbon emissions",
+          "sourceUrl": "https://www.scottwiener.com/priorities",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Connie Chan",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She backs raising taxes on billionaires and large corporations to fund expanded credits for working families.",
+          "quote": "Billionaires should not pay less in taxes than working families. They and the largest corporations should pay their fair share.",
+          "sourceUrl": "https://missionlocal.org/2026/09/scott-wiener-connie-chan-who-would-you-tax-more/",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Chan increased worker compensation, supported living-wage jobs, and backed legislation protecting workers’ rights.",
+          "quote": "Increased minimum compensation for workers , including in-home service workers, and she fought for and restored essential city workers’ jobs and city funding for critical workforce programs like City Build.",
+          "sourceUrl": "https://www.conniechansf.com/accomplishments",
+          "agreement": "7/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Chan criticized the trade war for raising consumer prices and said she would pursue fair trade that supports workers and environmental protections.",
+          "quote": "Connie is firmly committed to a foreign policy that prioritizes peaceful solutions and supports democratic ideals and human rights. She will push to de-prioritize the use of military force and work for fair trade that uplifts workers and protects the global environment.",
+          "sourceUrl": "https://www.conniechansf.com/foreign-policy",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Chan sponsored legislation to increase affordable housing production and passed legislation creating 76 housing units while preserving a historic site.",
+          "quote": "Sponsored the Affordable Housing Production Act to spur truly affordable housing development without compromising strong labor protections and building housing that workers can actually afford.",
+          "sourceUrl": "https://www.conniechansf.com/accomplishments",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Chan secured funding for public-school students, including summer camps and before- and after-school care.",
+          "quote": "Championed $15 million for free summer camps for K-8 public school students",
+          "sourceUrl": "https://www.conniechansf.com/accomplishments",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Chan supported additional police staffing, patrols, and overtime while also working to expand crisis-response teams and other alternatives.",
+          "quote": "Working to expand deployment of Street Crisis Response teams",
+          "sourceUrl": "https://www.conniechansf.com/accomplishments",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "A first-generation immigrant, she embraces San Francisco's sanctuary-city status and immigrant protections.",
+          "quote": "Only in San Francisco and in a sanctuary city",
+          "sourceUrl": "https://missionlocal.org/2026/02/chinatown-immigrant-billionaire-sf-connie-chan-congress/",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She pledged to help pass the Medicare for All Act to eliminate premiums, deductibles and copays.",
+          "quote": "In Congress, I will work with Pramila Jayapal and our nurses to pass the Medicare for All Act, eliminate premiums, deductibles and copays, and end the power of private insurers to deny care for profit",
+          "sourceUrl": "https://sf.gazetteer.co/pramila-jayapal-endorses-connie-chan",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Chan authored an ordinance banning oil extraction on city-owned land and supported programs intended to meet San Francisco’s climate goals.",
+          "quote": "Authored and passed an ordinance banning oil extraction from land that San Francisco owns",
+          "sourceUrl": "https://www.conniechansf.com/accomplishments",
+          "agreement": "8/10"
+        }
+      }
+    }
+  ],
+  "sources": "scottwiener.com · goldrushcam.com · missionlocal.org · conniechansf.com · sf.gazetteer.co",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

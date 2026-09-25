@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 60",
+  "division": "ca/sldl-60",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Corey A Jackson",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Ed Delgado",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

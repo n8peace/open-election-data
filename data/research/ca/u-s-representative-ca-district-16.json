@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 16",
+  "division": "ca/cd-16",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Sam Liccardo",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Peter Sundin Soulé",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

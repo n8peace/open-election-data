@@ -1,0 +1,18 @@
+{
+  "office": "State Senate",
+  "district": "CA District 22",
+  "division": "ca/sldu-22",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Susan Rubio",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Mike Netter",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

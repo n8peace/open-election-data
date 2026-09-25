@@ -1,0 +1,18 @@
+{
+  "office": "Measure I",
+  "district": "Town of Windsor",
+  "division": "ca/place-windsor",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a 1% transactions and use (sales) tax projected to raise about $5.7 million annually for the town's general fund and municipal services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

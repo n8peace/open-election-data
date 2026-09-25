@@ -1,0 +1,18 @@
+{
+  "office": "Measure H",
+  "district": "Sonoma County",
+  "division": "ca/county-sonoma",
+  "kind": "measure",
+  "summary": "A Yes vote extends the existing one-eighth-cent sales tax for regional and city parks, continuing it when the current Measure M tax expires in 2029 without changing the rate.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

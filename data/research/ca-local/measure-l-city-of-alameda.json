@@ -1,0 +1,18 @@
+{
+  "office": "Measure L",
+  "district": "City of Alameda",
+  "division": "ca/place-alameda",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the City of Alameda to issue $300 million in general obligation bonds for emergency preparedness and infrastructure, repaid by property taxes.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 44",
+  "division": "ca/cd-44",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Nanette Diaz Barragan",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Barragán says she will keep pushing a pro-labor agenda that includes raising the federal minimum wage to $15 an hour and protecting union wage standards.",
+          "quote": "I will continue to advocate for a pro-labor agenda, including raising the minimum wage to $15.00 per hour and ensuring Davis-Bacon Act protections remain in place.",
+          "sourceUrl": "https://barragan.house.gov/jobs-the-economy/",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Barragán calls health care a fundamental right and has consistently defended and sought to strengthen the Affordable Care Act.",
+          "quote": "Healthcare is a fundamental right. Throughout my time in Congress, I have consistently fought on behalf of the Affordable Care Act.",
+          "sourceUrl": "https://barragan.house.gov/issues/healthcare/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Barragán voted for the Inflation Reduction Act's climate investments and celebrated federal action to cut pollution and address the climate crisis.",
+          "quote": "we will finally give you the resources to fight pollution and climate change locally, on your terms.",
+          "sourceUrl": "https://barragan.house.gov/2022/08/13/rep-barragan-votes-to-combat-climate-crisis-lower-prescription-drug-and-healthcare-costs/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Genevieve Angel",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Angel favors tax cuts, arguing lower rates spur growth and raise federal revenue.",
+          "quote": "Tax cuts encourage economic expansion which would result in increases in federal government revenue at a lower tax rate.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92421/race/25605/election/1385",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "She strongly supported cutting government spending to reduce the national debt.",
+          "quote": "The government should cut spending in order to reduce the national debt.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92421/race/25605/election/1385",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Angel opposes sanctuary cities and wants those in the country illegally deported rather than released.",
+          "quote": "These sanctuary cities allow criminal illegal immigrants to be released into the community rather than being deported, thereby endangering residents.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92421/race/25605/election/1385",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Angel says she supports the Second Amendment and the right to own firearms for self defense, hunting and sport.",
+          "quote": "I support the Second Ammendment because I believe in my right and everyone's right to own firearms for self defense, hunting, and sport.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92421/race/25605/election/1385",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "She said abortion should generally be prohibited, with exceptions for threats to the mother’s life, rape, and incest, and opposed public funding for abortion providers.",
+          "quote": "The fetus is a human being and the Consitution protects its life. Abortion should be allowed when the mother's life is endagered by her pregnancy, and on exceptions for rape and incest.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92421/race/25605/election/1385",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Angel says attempts to socially or physically transition a child constitute child abuse.",
+          "quote": "Attempts to physically or socially transition a child to the opposite sex constitute child abuse.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92421/race/25605/election/1385",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "She supported keeping Medicaid and Medicare available while opposing additional taxpayer-funded health programs.",
+          "quote": "C - Federal government should prioritize protecting vulnerable populations specifically the seniors, the disabled, and low-income families—while reducing spending on other social services; while the State level can better manage programs such as childcare and social services.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92421/race/25605/election/1385",
+          "agreement": "4/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "She identifies coal and nuclear power as reliable sources for meeting rising electricity demand and supports reducing regulations affecting fossil-fuel refineries.",
+          "quote": "The use of coal and nuclear energy are both the most reliable, baseload energy sources to meet growing electricity demand, particularly for AI data centers and manufacturing.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92421/race/25605/election/1385",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Angel supports tighter voter ID and proof-of-citizenship requirements for state and federal elections.",
+          "quote": "I support all measures aimed at tightening national voter ID requirements and proof of citizenship for state and federal elections because it is essential for election integrity.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92421/race/25605/election/1385",
+          "agreement": "7/10"
+        }
+      }
+    }
+  ],
+  "sources": "barragan.house.gov · ivoterguide.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

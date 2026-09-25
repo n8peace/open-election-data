@@ -1,0 +1,23 @@
+name: Challenge a dial's wording
+description: Tell us if one end of a dial isn't how its own supporters would say it.
+title: "Wording: [Issue name]"
+labels: ["wording"]
+body:
+  - type: input
+    id: issue
+    attributes:
+      label: Which dial?
+      placeholder: "Abortion"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's unfair about the current wording?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Your proposed wording
+      description: Ideally, how people who hold that view would describe it themselves.

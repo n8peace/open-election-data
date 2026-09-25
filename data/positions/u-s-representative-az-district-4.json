@@ -1,0 +1,190 @@
+{
+  "office": "U.S. Representative",
+  "district": "AZ District 4",
+  "division": "az/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Greg Stanton",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Supported increasing the minimum wage and giving workers a greater role in workplace decisions.",
+          "quote": "Increase the minimum wage and ensure workers have a seat at the table.",
+          "sourceUrl": "https://stanton.house.gov/press-releases?id=A8E4DFE2-1065-443B-9068-4F4C39C5C6CA",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Stanton touts helping pass the USMCA to strengthen trade partnerships and lower tariffs for exporters.",
+          "quote": "to strengthen Arizona's trade partnerships and lower tariffs for exporters and small businesses.",
+          "sourceUrl": "https://www.stantonforarizona.com/economy-jobs",
+          "agreement": "8/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Stanton criticized a spending bill for failing to safeguard Medicare, Medicaid and Social Security.",
+          "quote": "It fails to protect Arizonans' hard-earned benefits like Medicare, Medicaid and Social Security.",
+          "sourceUrl": "https://stanton.house.gov/press-releases?ID=98E80734-1A25-4F9F-82E9-692015A338A4",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Supported updating permitting and zoning rules to build four million homes over the next decade.",
+          "quote": "Cut red tape and update permitting and zoning to build four million homes in the next decade.",
+          "sourceUrl": "https://stanton.house.gov/press-releases?id=A8E4DFE2-1065-443B-9068-4F4C39C5C6CA",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Stanton opposes private school vouchers and says public money should strengthen public education.",
+          "quote": "Public money should be used to strengthen public education, not private school voucher schemes or corporations looking to profit off students.",
+          "sourceUrl": "https://gregstanton.com/education",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Stanton opposes defunding police and supports investing in officers and detectives.",
+          "quote": "Greg does not support defunding or disbanding local police departments.",
+          "sourceUrl": "https://gregstanton.com/security",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Stanton cosponsors legislation creating a citizenship pathway for Dreamers and TPS holders while also backing border security.",
+          "quote": "Proud cosponsor of the American Dream and Promise Act, creating a pathway to citizenship for Dreamers and people with Temporary Protected Status who have built their lives in the United States.",
+          "sourceUrl": "https://www.stantonforarizona.com/immigration",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "Stanton backs common-sense gun safety laws to keep dangerous weapons away from dangerous people.",
+          "quote": "common-sense gun safety laws that keep dangerous weapons out of dangerous hands while respecting law-abiding gun owners",
+          "sourceUrl": "https://gregstanton.com/security",
+          "agreement": "3/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Stanton voted for the Women's Health Protection Act to guarantee nationwide access to abortion.",
+          "quote": "In Congress, Greg voted for the Women's Health Protection Act to ensure every woman has access to reproductive health care.",
+          "sourceUrl": "https://www.stantonforarizona.com/abortion",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Supported extending ACA tax credits, fully funding Medicaid, and strengthening Medicare benefits.",
+          "quote": "Reduce monthly costs by extending ACA tax credits and expanding access to prescription price caps.",
+          "sourceUrl": "https://stanton.house.gov/press-releases?id=A8E4DFE2-1065-443B-9068-4F4C39C5C6CA",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Supported energy policies intended to lower residential energy costs and make energy infrastructure cheaper to build.",
+          "quote": "Invest in energy efficiency and home heating & cooling to lower residential energy costs.",
+          "sourceUrl": "https://stanton.house.gov/press-releases?id=A8E4DFE2-1065-443B-9068-4F4C39C5C6CA",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Stanton voted for the For the People Act to expand voting rights.",
+          "quote": "Greg also voted for and supported the For the People Act, a sweeping democracy reform bill that addressed threats to democracy by expanding voting rights, strengthening ethics reforms, and reducing the use of dark money in elections.",
+          "sourceUrl": "https://www.stantonforarizona.com/democracy",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Zuhdi Jasser",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Jasser says he would rein in spending and let people keep more of their earnings while cutting regulations.",
+          "quote": "That means reining in wasteful spending, letting Americans keep more of their hard-earned money, and cutting needless regulations so small businesses can thrive.",
+          "sourceUrl": "https://z4az.com/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Jasser supports a constitutional Balanced Budget Amendment to control federal spending.",
+          "quote": "I support a Balanced Budget Amendment to the United States Constitution.",
+          "sourceUrl": "https://z4az.com/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Jasser backs educational freedom and funding students rather than school systems.",
+          "quote": "I support educational freedom in education, and funding students — not systems.",
+          "sourceUrl": "https://z4az.com/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Jasser says he would give border agents more resources to secure the border.",
+          "quote": "I will support more resources for our border agents, as they have the tools and support to properly secure our border.",
+          "sourceUrl": "https://z4az.com/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Jasser blames the Affordable Care Act and wants more competition and price transparency to lower coverage costs.",
+          "quote": "He blamed the Affordable Care Act and a lack of competition and price transparency for making coverage increasingly expensive.",
+          "sourceUrl": "https://azfreenews.com/2026/09/jasser-tells-stanton-house-needs-a-doctor-not-a-politician-during-cd4-forum/",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Tisha Benoit",
+      "party": "AIP",
+      "stances": {
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "Said she wants to find solutions for schools while preserving parent choice.",
+          "quote": "She also wants to target inflation and find solutions for schools while keeping parent choice intact.",
+          "sourceUrl": "https://www.yourvalley.net/stories/meet-the-candidates-for-congressional-district-4,684198",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "stanton.house.gov · stantonforarizona.com · gregstanton.com · z4az.com · azfreenews.com · yourvalley.net",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

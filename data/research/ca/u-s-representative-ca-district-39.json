@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 39",
+  "division": "ca/cd-39",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Mark Takano",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Steve Manos",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

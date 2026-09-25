@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 48",
+  "division": "ca/sldl-48",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Blanca Rubio",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Dan T. Tran",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

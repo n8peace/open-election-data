@@ -1,0 +1,18 @@
+{
+  "office": "Measure D",
+  "district": "City of Fresno",
+  "division": "ca/place-fresno",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a City of Fresno transactions and use (sales) tax.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

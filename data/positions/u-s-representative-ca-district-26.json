@@ -1,0 +1,152 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 26",
+  "division": "ca/cd-26",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jacqui Irwin",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Irwin said wealthy people and corporations should pay more in taxes.",
+          "quote": "Irwin and Epsinosa both said rich people and corporation should pay more in taxes.",
+          "sourceUrl": "https://www.vcstar.com/story/news/politics/elections/2026/05/09/candidates-for-congress-debate-climate-war-immigration-in-oxnard/89932371007/",
+          "agreement": "5/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Irwin said President Trump’s tariffs were arbitrary, uninformed and harmful to the economy.",
+          "quote": "She said his tariffs were arbitrary, uninformed and harmful to the economy",
+          "sourceUrl": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Irwin said she would reduce regulatory burdens on housing development to help address living costs.",
+          "quote": "reducing regulatory burdens on housing development",
+          "sourceUrl": "https://www.vcstar.com/story/news/politics/elections/2026/05/10/candidates-26th-congressional-district-race/89962300007/",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Irwin said she supports strong borders while opposing ICE’s budget, alleged racial profiling and untrained agents.",
+          "quote": "Democrats Jacqui Irwin and Sonia Kacker both said they support “strong borders,” but both criticized ICE as well.",
+          "sourceUrl": "https://www.vcstar.com/story/news/politics/elections/2026/05/09/candidates-for-congress-debate-climate-war-immigration-in-oxnard/89932371007/",
+          "agreement": "6/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Irwin authored a California bill establishing a pilot project involving restrictions on firearm possession.",
+          "quote": "AB 1344 by Assemblymember Jacqui Irwin (D-Thousand Oaks)– Restrictions on firearm possession: pilot project.",
+          "sourceUrl": "https://www.gov.ca.gov/2025/10/10/governor-newsom-signs-legislation-10-10-25/",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Irwin authored AB 2531 to provide veterans access to abortion care at no or reduced cost.",
+          "quote": "California’s veteran population has access to receiving abortion care in this state at no cost or reduced cost.",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2531",
+          "agreement": "3/10"
+        },
+        "cannabis": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Has a mixed cannabis record, including sponsoring restrictive measures, opposing cannabis cafes and advancing a bill extending cannabis compassion programs.",
+          "quote": "Mixed voting record. Sponsored failed bills to ban cannabis billboards and impose restrictive labeling requirements on cannabis products; voted against cannabis cafes; skipped votes on employment rights, medical access. To her credit, she did move AB 2555, a bill to extend cannabis compassion programs",
+          "sourceUrl": "https://www.canorml.org/cal-norml-election-guide-2026/",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Irwin said she would fight to reverse cuts to federal healthcare programs and insurance subsidies.",
+          "quote": "And Irwin said Congress should “fight to reverse the Trump cuts” to federal health care programs and insurance subsidies.",
+          "sourceUrl": "https://www.vcstar.com/story/news/politics/elections/2026/05/09/candidates-for-congress-debate-climate-war-immigration-in-oxnard/89932371007/",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Irwin highlighted her role in reauthorizing California’s cap-and-trade program to reduce greenhouse-gas emissions.",
+          "quote": "Irwin, who represents the eastern half of Ventura County in the State Assembly, touted her role in reauthorizing the state’s cap and trade program, a market-based policy that allows companies to trade emission credits to reduce overall greenhouse emissions.",
+          "sourceUrl": "https://www.vcstar.com/story/news/politics/elections/2026/05/09/candidates-for-congress-debate-climate-war-immigration-in-oxnard/89932371007/",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Sam Gallucci",
+      "party": "Republican",
+      "stances": {
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "Said tariffs should be implemented more precisely and with better targeting.",
+          "quote": "But the candidate said the implementation of tariffs could have been more precise and targeted.",
+          "sourceUrl": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-26-ventura-county-voter-guide",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "Said the federal deficit is out of control and mentioned cutting fraud, waste and abuse from the budget.",
+          "quote": "Koslow, Kacker and Gallucci all mentioned cutting “fraud, waste and abuse” from the budget",
+          "sourceUrl": "https://www.vcstar.com/story/news/politics/elections/2026/05/09/candidates-26th-congressional-district-debate-climate-war-immigration-in-oxnard/89932371007/",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He supports incentivizing homebuilding and streamlining regulations that delay and raise construction costs.",
+          "quote": "Incentivize homebuilding near jobs and transit; streamline federal regulations that delay and inflate construction costs.",
+          "sourceUrl": "https://www.ballotready.org/people/sam-l-gallucci",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports funding the mass removal of criminal illegal aliens while also streamlining work permits in fields with labor shortages.",
+          "quote": "Streamline work permitting in fields with labor shortages so employers can fill needed jobs.",
+          "sourceUrl": "https://www.ballotready.org/people/sam-l-gallucci",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He wants to expand domestic energy production and streamline permits to lower utility bills.",
+          "quote": "Unleash American energy to lower utility bills; streamline permits for domestic production and grid upgrades.",
+          "sourceUrl": "https://www.ballotready.org/people/sam-l-gallucci",
+          "agreement": "6/10"
+        }
+      }
+    }
+  ],
+  "sources": "vcstar.com · latimes.com · gov.ca.gov · leginfo.legislature.ca.gov · canorml.org · ballotready.org",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

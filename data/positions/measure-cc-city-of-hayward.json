@@ -1,0 +1,41 @@
+{
+  "office": "Measure CC",
+  "district": "City of Hayward",
+  "division": "ca/place-hayward",
+  "kind": "measure",
+  "summary": "A Yes vote updates the Hayward business license tax with a $60 minimum and rates from $0.30 to $3.75 per $1,000 of gross receipts, raising an additional $12 million annually for general city services until repealed.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would approve an updated business license tax estimated to raise an additional $12 million annually for general City services.",
+          "quote": "It is estimated that the updated BLT would annually bring in an additional $12 million to support general City services.",
+          "sourceUrl": "https://www.hayward-ca.gov/discover/news/sep26/hayward-measure-cc-explained",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote on Measure CC would reject the proposed business-license-tax update, which would generate approximately $12 million in additional annual revenue for city services.",
+          "quote": "In total, the proposed update would increase annual BLT revenue by approximately $12 million.",
+          "sourceUrl": "https://www.hayward-ca.gov/blt",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "hayward-ca.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

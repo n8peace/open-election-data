@@ -1,0 +1,18 @@
+{
+  "office": "Measure J",
+  "district": "City of Palo Alto",
+  "division": "ca/place-palo-alto",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a 0.5% sales tax in the City of Palo Alto.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

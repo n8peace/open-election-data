@@ -1,0 +1,19 @@
+{
+  "office": "Measure R",
+  "district": "Orchard School District",
+  "division": "ca/school-orchard",
+  "kind": "measure",
+  "summary": "A Yes vote levies a parcel tax of about 4 cents per building square foot in the Orchard School District for eight years.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

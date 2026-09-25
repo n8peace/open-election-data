@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 10",
+  "division": "ca/sldl-10",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Stephanie Nguyen",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Vinaya Singh",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

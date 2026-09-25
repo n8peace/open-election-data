@@ -1,0 +1,19 @@
+{
+  "office": "Measure B",
+  "district": "Rio School District",
+  "division": "ca/school-rio",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Rio School District to issue $78 million in general obligation bonds, repaid by district property owners, to fund construction, repairs, and safety projects at district schools.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

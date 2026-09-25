@@ -1,0 +1,19 @@
+{
+  "office": "Measure Q",
+  "district": "Cambrian School District",
+  "division": "ca/school-cambrian",
+  "kind": "measure",
+  "summary": "A Yes vote levies a $148 per parcel tax in the Cambrian School District for eight years.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

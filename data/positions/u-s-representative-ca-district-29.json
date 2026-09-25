@@ -1,0 +1,184 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 29",
+  "division": "ca/cd-29",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Luz Maria Rivas",
+      "party": "Democratic",
+      "stances": {
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Rivas says protecting Social Security and Medicare is a core commitment of her candidacy.",
+          "quote": "I will fight to make sure every family has economic opportunity, protect Social Security and Medicare, and reduce the threat of climate change.",
+          "sourceUrl": "https://www.luzforcongress.com/",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Announced that she would vote against fiscal year 2026 funding for DHS and ICE, citing opposition to raids, detention and deportation efforts.",
+          "quote": "I plan to proudly cast my NO vote to stand up for my community and immigrants.",
+          "sourceUrl": "https://rivas.house.gov/media/press-releases/congresswoman-luz-rivas-vote-hell-no-funding-dhs-ice",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Rivas supports banning assault weapons and expanding background checks to all firearm and ammunition purchases.",
+          "quote": "legislation banning assault weapons, expanding background checks to all firearm and ammunition purchases, and blocking abusive dating partners from obtaining weapons",
+          "sourceUrl": "https://giffords.org/candidates/luz-rivas/",
+          "agreement": "3/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Rivas voted against the Born-Alive Abortion Survivors Protection Act and against a bill restricting abortion coverage, earning a 100 score from Reproductive Freedom for All.",
+          "quote": "A bill to ban abortion coverage in certain health plans and to raise health care costs.",
+          "sourceUrl": "https://reproductivefreedomforall.org/lawmaker/luz-maria-rivas/",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Voted against the House-passed One Big Beautiful Bill Act, which the scorecard says would cut Medicaid funding and disqualify Planned Parenthood from the program.",
+          "quote": "A bill to drastically cut Medicaid funding and disqualify Planned Parenthood from participating in the program for one year.",
+          "sourceUrl": "https://reproductivefreedomforall.org/lawmaker/luz-maria-rivas/",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Rivas names reducing the threat of climate change as a central goal and has authored climate legislation.",
+          "quote": "I will fight to make sure every family has economic opportunity, protect Social Security and Medicare, and reduce the threat of climate change.",
+          "sourceUrl": "https://www.luzforcongress.com/",
+          "agreement": "6/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Criticized the SAVE Act for restricting voting access through documentary citizenship requirements and by eliminating mail-in and online voter registration methods.",
+          "quote": "The SAVE Act would restrict millions of Americans’ ability to vote by requiring voters to provide documentary proof of citizenship (DPOC);",
+          "sourceUrl": "https://rivas.house.gov/media/press-releases/congresswoman-luz-rivas-bipartisan-housing-bill-becoming-law-after-trumps",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Angélica María Dueñas",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She calls for closing tax loopholes used by billionaires and lifting the Social Security income cap so the wealthy pay more, to fund programs like Medicare for All and tuition-free college.",
+          "quote": "Billionaires borrow against stock to avoid income taxes. Any loan backed by stock should be treated and taxed as income, just like wages.",
+          "sourceUrl": "https://angelica4congress.com/",
+          "agreement": "6/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supports raising the minimum wage to a living wage and strengthening unions and collective bargaining.",
+          "quote": "Protect the right to unionize, raise the minimum wage to a living wage, defend collective bargaining, and guarantee fair pay, safe workplaces, and strong labor protections for all workers.",
+          "sourceUrl": "https://angelica4congress.com/",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She pledges to protect Social Security and oppose benefit cuts or raising the retirement age.",
+          "quote": "We will protect Social Security, oppose benefit cuts or raising the retirement age, and lift the income cap so the wealthy pay their fair share.",
+          "sourceUrl": "https://angelica4congress.com/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She advocates for stronger public schools and protecting them from privatization.",
+          "quote": "We advocate for stronger public schools, better teacher support, improved classrooms, protection from privatization, and universal pre-K and Head Start programs",
+          "sourceUrl": "https://angelica4congress.com/",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "She calls for demilitarizing police, banning private prisons, ending mandatory minimums, and reforming use-of-force laws.",
+          "quote": "Championing criminal justice reform: demilitarize police, boost accountability, end school-to-prison pipeline, ban private prisons, eliminate mandatory minimums, and reform use-of-force laws.",
+          "sourceUrl": "https://angelica4congress.com/",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She champions legal status for all immigrants and DREAM Act citizenship, and calls for abolishing ICE and building a humane system.",
+          "quote": "Advocating for inclusive immigration policies, we champion legal status for all, DREAM Act citizenship, work visa programs, healthcare access, and justice for asylum seekers.",
+          "sourceUrl": "https://angelica4congress.com/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Said stronger gun control is needed to protect public safety.",
+          "quote": "More restrictive gun control is needed to protect public safety.",
+          "sourceUrl": "https://ivoterguide.com/candidate/41173/race/1258/election/560?culture=en-us",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She supports protecting legal access to abortion and reproductive healthcare and bodily autonomy.",
+          "quote": "Ensure access to abortion and reproductive healthcare, defend bodily autonomy, and protect every person's freedom to make their own medical decisions without government interference.",
+          "sourceUrl": "https://angelica4congress.com/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "Supported allowing people to use public restrooms, showers, and changing rooms based on gender identity.",
+          "quote": "People should be allowed to use public restrooms, showers, and changing rooms based on \"gender identity.\"",
+          "sourceUrl": "https://ivoterguide.com/candidate/41173/race/1258/election/560?culture=en-us",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She advocates for Medicare for All and a single-payer health care system.",
+          "quote": "Advocating for Medicare for All, promoting a single-payer solution for reform to our current healthcare system.",
+          "sourceUrl": "https://angelica4congress.com/",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She pushes for a rapid transition to clean energy to cut emissions and create jobs.",
+          "quote": "Clean energy now to lower costs, create local jobs, and protect the health of our communities and future generations.",
+          "sourceUrl": "https://angelica4congress.com/",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "luzforcongress.com · rivas.house.gov · giffords.org · reproductivefreedomforall.org · angelica4congress.com · ivoterguide.com",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

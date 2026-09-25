@@ -1,0 +1,86 @@
+{
+  "office": "Insurance Commissioner",
+  "district": "CA",
+  "division": "ca/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "housing",
+    "safety",
+    "transit",
+    "immigration"
+  ],
+  "choices": [
+    {
+      "name": "Ben Allen",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Allen introduced a bill providing a tax credit of up to $10,000 for eligible disaster-rebuilding purchases.",
+          "quote": "This tax credit would offer needed financial relief to provide disaster survivors with a more stable pathway to a successful recovery effort.",
+          "sourceUrl": "https://sd24.senate.ca.gov/news/press-release/tax-credit-rebuilding-costs-would-ease-financial-stress-our-recovery-effort",
+          "agreement": "5/9"
+        },
+        "housing": {
+          "toward": "slower growth",
+          "strength": "lean",
+          "text": "Allen said he wants to restrict new construction in high-risk areas and consider incentives for current residents to move elsewhere.",
+          "quote": "As part of reducing risk, he wants to restrict new construction in high-risk zones",
+          "sourceUrl": "https://calmatters.org/politics/2026/04/california-insurance-commissioner-candidates/",
+          "agreement": "7/9"
+        },
+        "transit": {
+          "toward": "transit first",
+          "strength": "lean",
+          "text": "Allen has authored legislation described as supporting green transit.",
+          "quote": "Senator Allen has authored crucial legislation in the areas of economic development, environmental protection, climate change, green transit, educational equity, government transparency, insurance, and electoral reform.",
+          "sourceUrl": "https://civicwell.org/2026con-speakers/",
+          "agreement": "4/9"
+        }
+      }
+    },
+    {
+      "name": "Jane Kim",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "As a San Francisco supervisor, she passed a tax on multimillion-dollar commercial real estate to fund universal affordable childcare.",
+          "quote": "passing a tax on multimillion-dollar commercial real estate that now raises over $140 million annually to make universal affordable childcare a reality",
+          "sourceUrl": "https://www.janekim.org/MeetJane",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "As a San Francisco supervisor, she raised the affordable-housing requirement for development projects from 12% to 25% and secured 40% requirements in three projects.",
+          "quote": "She also led and won the fight to raise the city’s affordable housing mandate from 12% to 25%, and secured an unprecedented 40% requirement in three major development projects within her district.",
+          "sourceUrl": "https://www.janekim.org/MeetJane",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "She sponsored a San Francisco task force that recommended alternatives to financial penalties, bail and incarceration, including community service and pretrial diversion.",
+          "quote": "increasing the use of current alternatives such as the Pretrial Diversion Project",
+          "sourceUrl": "https://treasurer.sf.gov/economicjustice/media/treasurer-jose-cisneros-and-supervisor-jane-kim-advance-first-nation-effort-alleviate",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "She joined a protest against federal immigration agents’ presence at San Francisco International Airport and was arrested after blocking access to the terminal.",
+          "quote": "former supervisor Jane Kim, blocked the street to the international terminal",
+          "sourceUrl": "https://missionlocal.org/2026/05/s-f-supervisors-past-and-present-arrested-at-sfo-anti-ice-protest/",
+          "agreement": "9/10"
+        }
+      }
+    }
+  ],
+  "sources": "sd24.senate.ca.gov · calmatters.org · civicwell.org · janekim.org · treasurer.sf.gov · missionlocal.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

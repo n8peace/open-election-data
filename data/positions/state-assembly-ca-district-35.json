@@ -1,0 +1,71 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 35",
+  "division": "ca/sldl-35",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Andrae Gonzales",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Gonzales lists building new housing and expanding first-time homebuyer programs among his campaign priorities.",
+          "quote": "Build New Housing and expand programs to help first-time homebuyers.",
+          "sourceUrl": "https://www.andraegonzales.com/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Gonzales says he would support local schools and expand access to early education.",
+          "quote": "Improve Local Schools and expand access to early education.",
+          "sourceUrl": "https://www.andraegonzales.com/",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Gonzales proposed increasing the state climate credit to offset higher utility costs in Kern County.",
+          "quote": "We pay more in the summer months than most other parts of the state, we should receive a higher credit in order to offset the increased cost in utilities",
+          "sourceUrl": "https://www.turnto23.com/news/in-your-nieghborhood/delano-mcfarland/the-race-for-assembly-district-35-continues",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Saul Ayon",
+      "party": "Republican",
+      "stances": {
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Ayon, a former Kern County sheriff's deputy, campaigns on supporting law enforcement and public safety.",
+          "quote": "Support law enforcement, restore accountability, and ensure every family can feel safe in their neighborhood.",
+          "sourceUrl": "http://www.ayonforassembly.com/",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "andraegonzales.com · turnto23.com · ayonforassembly.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

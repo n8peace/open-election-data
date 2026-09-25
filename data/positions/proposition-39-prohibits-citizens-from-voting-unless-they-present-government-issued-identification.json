@@ -1,0 +1,23 @@
+{
+  "office": "Proposition 39",
+  "district": "Prohibits Citizens from Voting Unless They Present Government-Issued Identification.",
+  "division": "ca/state",
+  "kind": "measure",
+  "summary": "A Yes vote requires voters to present government-issued identification at polls or provide the last four digits of a government-issued identification number when voting by mail, and establishes related citizenship-verification reporting requirements.",
+  "issues": [
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {}
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,103 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 58",
+  "division": "ca/sldl-58",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Clarissa Cervantes",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Cervantes says on the Riverside City Council she voted to raise wages and helped create local union jobs.",
+          "quote": "she voted to raise wages, expanded trade training programs, and helped create hundreds of good-paying local union jobs.",
+          "sourceUrl": "https://www.clarissacervantes.com/priorities",
+          "agreement": "3/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Cervantes says she worked to reduce regulatory barriers to building more affordable homes and to protect renters and homeowners from rising costs.",
+          "quote": "cut red tape to build more affordable homes, and protect homeowners and renters from rising housing costs.",
+          "sourceUrl": "https://www.clarissacervantes.com/priorities",
+          "agreement": "10/10"
+        },
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "strong",
+          "text": "Supported crime-prevention approaches, greater investment in community programs, and rejecting legislation that lengthens sentences or increases penalties.",
+          "quote": "Will you publicly advocate for greater investment in community-based programs and services and reject legislation that lengthens sentences and increases penalties?",
+          "sourceUrl": "https://aclucalaction.org/district/assembly-district-58/",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Opposed immigration raids and the expansion of detention and supported transparency and oversight of federal immigration enforcement.",
+          "quote": "Do you publicly oppose ICE raids that have detained people without evidence or due process based on the color of their skin, language they speak, or occupation?",
+          "sourceUrl": "https://aclucalaction.org/district/assembly-district-58/",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Cervantes says she will make health care more affordable and expand access, putting patients ahead of insurance and drug company profits.",
+          "quote": "make healthcare more affordable, expand access to quality care, and make sure patients come before the profits of insurance and drug companies",
+          "sourceUrl": "https://www.clarissacervantes.com/priorities",
+          "agreement": "3/10"
+        }
+      }
+    },
+    {
+      "name": "Leticia Castillo",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Castillo sponsored proposals to suspend California’s gas tax and end taxes on tips for service workers.",
+          "quote": "She emphasized her sponsorship of bills to suspend the state’s gas tax, end taxes on tips for service workers and audit state spending on homelessness and mental health programs.",
+          "sourceUrl": "https://www.pressenterprise.com/2026/07/24/why-inland-empire-republicans-in-sacramento-face-tough-reelection-fights/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Castillo joined a letter urging the federal government to expedite work permits for undocumented essential workers and said she supports humane and fair immigration practices.",
+          "quote": "As a daughter of legal immigrants, I support humane and fair immigration practices, and public safety must remain a top priority.",
+          "sourceUrl": "https://ivn.us/leticia-castillo-doesnt-fit-californias-political-boxes-and-neither-does-her-district-2026-01/",
+          "agreement": "3/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "She introduced legislation stating that a parent declining to use a child's preferred pronouns or gender-affirming care is not child abuse.",
+          "quote": "a parent refusing to use their child's preferred pronouns, chosen name, or allowing their child to access gender-affirming health care is not an act of child abuse",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Leticia_Castillo",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "clarissacervantes.com · aclucalaction.org · pressenterprise.com · ivn.us · en.wikipedia.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

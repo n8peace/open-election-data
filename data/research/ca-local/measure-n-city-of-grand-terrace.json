@@ -1,0 +1,18 @@
+{
+  "office": "Measure N",
+  "district": "City of Grand Terrace",
+  "division": "ca/place-grand-terrace",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a City of Grand Terrace transactions and use (sales) tax.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

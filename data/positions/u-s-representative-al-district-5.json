@@ -1,0 +1,144 @@
+{
+  "office": "U.S. Representative",
+  "district": "AL District 5",
+  "division": "al/cd-5",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Dale W. Strong",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Strong says he is pro-growth and wants to cut government spending and return money to families and workers.",
+          "quote": "It's time to put money back in the pockets of American families and workers and right-size wasteful government spending.",
+          "sourceUrl": "https://strong.house.gov/issues/fiscal-responsibility",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Strong, a former first responder, says he will work to give law enforcement more tools and resources.",
+          "quote": "I will always seek ways to equip our law enforcement officials with the necessary tools and resources to carry out their duties safely.",
+          "sourceUrl": "https://strong.house.gov/issues/supporting-law-enforcement",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Strong backed impeaching DHS Secretary Mayorkas, saying he refused to enforce federal immigration law.",
+          "quote": "Mayorkas has willfully refused to comply with and enforce federal immigration law as passed by Congress",
+          "sourceUrl": "https://strong.house.gov/issues/securing-our-homeland",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Strong, a lifetime NRA member, pledges to oppose any effort to limit gun owners' rights.",
+          "quote": "I will always fight any attempt by the radical left to diminish the right of law-abiding American citizens to keep and bear arms.",
+          "sourceUrl": "https://strong.house.gov/issues/gun-rights",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Strong describes defending life as a solemn duty and frames it among his core values.",
+          "quote": "I view it as my solemn duty to defend life, stand for your right to worship, and preserve our commonsense values.",
+          "sourceUrl": "https://strong.house.gov/issues/conservative-family-values",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Andrew Sneed",
+      "party": "Democrat",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "His labor platform pledges to protect organized labor and defend the right to collective bargaining for workers.",
+          "quote": "Fight for the right to collective bargaining for workers",
+          "sourceUrl": "https://www.sneedforcongress.com/labor",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Sneed lists repealing tariffs among his affordability priorities, saying rollbacks would lower costs for working-class Alabamians.",
+          "quote": "Repeal Unjustified Tariffs",
+          "sourceUrl": "https://www.sneedforcongress.com/affordability",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Sneed says he opposes cuts to Social Security and Medicaid while also saying the national debt should be reduced.",
+          "quote": "Sneed does not support cuts to Medicaid, Social Security or the VA, but he believes there is a need to reduce the national debt.",
+          "sourceUrl": "https://www.sneedforcongress.com/news/democrat-launches-campaign-opposing-north-alabama-congressman-dale-strong",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Sneed proposes expanding rental assistance and increasing affordable housing options.",
+          "quote": "Expand Rental Assistance Increase Affordable Housing Options Support First-Time Home Buyers",
+          "sourceUrl": "https://www.sneedforcongress.com/affordability",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Sneed supports increasing teacher pay and opposes the CHOOSE Act and voucher programs.",
+          "quote": "Oppose the \"CHOOSE Act\" and all voucher schemes.",
+          "sourceUrl": "https://www.ballotready.org/people/andrew-sneed",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Sneed calls for comprehensive reform, a simpler path to citizenship, and restoring asylum protections for immigrants.",
+          "quote": "Our current immigration posture and enforcement practices run counter to our essential American spirit.",
+          "sourceUrl": "https://www.sneedforcongress.com/immigration",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Sneed proposes expanding Medicaid availability and regulating for-profit insurance companies.",
+          "quote": "Expand Medicaid availability",
+          "sourceUrl": "https://www.sneedforcongress.com/healthcare",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "His energy and environment platform calls for restoring clean air and water protections and funding clean, sustainable technologies.",
+          "quote": "Restore federal funding for clean, innovative, and sustainable technologies.",
+          "sourceUrl": "https://www.sneedforcongress.com/energy",
+          "agreement": "4/10"
+        }
+      }
+    }
+  ],
+  "sources": "strong.house.gov · sneedforcongress.com · ballotready.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

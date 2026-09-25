@@ -1,0 +1,18 @@
+{
+  "office": "Measure L",
+  "district": "City of Cupertino",
+  "division": "ca/place-cupertino",
+  "kind": "measure",
+  "summary": "A Yes vote requires two-thirds voter approval before parks, parkland, or open space in the City of Cupertino may be rezoned or developed.",
+  "issues": [
+    "housing"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "office": "Measure Z",
+  "district": "City of Berkeley",
+  "division": "ca/place-berkeley",
+  "kind": "measure",
+  "summary": "A Yes vote creates a special parcel tax of $0.06 per square foot of residential improvements and $0.09 per square foot of non-residential improvements for six years, estimated to raise about $9.2 million the first year, to capitalize and support a public bank funding affordable housing, green energy and infrastructure, and small businesses.",
+  "issues": [
+    "tax",
+    "energy"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would impose a temporary six-year parcel tax to raise money for a public bank.",
+          "quote": "The ballot initiative, if passed, would raise the funds to start the public bank through a temporary six year parcel tax of $0.06 on dwelling units and $0.09 on commercial properties in Berkeley.",
+          "sourceUrl": "https://indivisibleeb.org/2026/05/13/ieb-volunteers-successfully-help-gather-signatures-to-put-a-public-bank-on-the-ballot/",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "A Yes vote would fund a public bank intended to invest in green energy solutions and infrastructure.",
+          "quote": "A public bank takes public money that the city has from taxes and fees and puts it into a government- owned institution where the money is allocated towards affordable housing, green energy solutions, and supporting local businesses.",
+          "sourceUrl": "https://indivisibleeb.org/2026/05/13/ieb-volunteers-successfully-help-gather-signatures-to-put-a-public-bank-on-the-ballot/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote on Measure Z would reject the six-year parcel tax proposed to capitalize and support a regional public bank.",
+          "quote": "Creates a parcel tax based on parcel size to help capitalize and support a proposed public bank",
+          "sourceUrl": "https://www.lwvbae.org/league-news/vote-with-the-league-nov-2024-2/",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "indivisibleeb.org · lwvbae.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

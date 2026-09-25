@@ -1,0 +1,18 @@
+{
+  "office": "Measure W",
+  "district": "City of Davis",
+  "division": "ca/place-davis",
+  "kind": "measure",
+  "summary": "A Yes vote amends the Davis General Plan and land use designations to authorize the Willowgrove residential development, including housing, retail, parks, trails, and open space.",
+  "issues": [
+    "housing"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

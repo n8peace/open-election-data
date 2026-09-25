@@ -1,0 +1,18 @@
+{
+  "office": "Measure R",
+  "district": "City of San Pablo",
+  "division": "ca/place-san-pablo",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a temporary San Pablo sales tax of one-half cent for five years and one-quarter cent for the following five years for general city services, after which it ends.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

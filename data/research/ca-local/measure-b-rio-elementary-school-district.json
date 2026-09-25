@@ -1,0 +1,19 @@
+{
+  "office": "Measure B",
+  "district": "Rio Elementary School District",
+  "division": "ca/school-rio-elementary",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes up to $78,000,000 in general obligation bonds for construction, modernization, renovation, safety, and facility projects at district schools.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

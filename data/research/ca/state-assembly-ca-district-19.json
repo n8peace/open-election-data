@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 19",
+  "division": "ca/sldl-19",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Catherine Stefani",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Philip Louis Wing",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

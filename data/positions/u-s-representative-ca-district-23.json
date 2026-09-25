@@ -1,0 +1,104 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 23",
+  "division": "ca/cd-23",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Tessa Lynn Hodge",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Hodge wants to invest in a wider range of housing options to make housing more affordable.",
+          "quote": "That means investing in a diverse range of housing options - from affordable rentals to pathways to homeownership",
+          "sourceUrl": "https://tessaforca.com/issues/lowering-costs-for-homeowners-and-renters",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Hodge argues the Department of Education must be preserved to fund public and rural schools.",
+          "quote": "The Department of Education cannot be eliminated. It plays a vital role in ensuring equitable access to education.",
+          "sourceUrl": "https://tessaforca.com/issues/public-education",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Hodge calls for creating a clear pathway to legal status for long-term residents and criticizes deportation practices.",
+          "quote": "creating a clear pathway to legal status for long-term residents",
+          "sourceUrl": "https://tessaforca.com/issues/humane-immigration-policy",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Hodge says she will fight for a single-payer health care system so everyone gets care.",
+          "quote": "I will fight for a single-payer healthcare system so everyone gets the care they need, no exception",
+          "sourceUrl": "https://tessaforca.com/issues/issue-1",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Hodge pledges to push for stronger emission standards and federal funding for clean energy jobs.",
+          "quote": "I will fight for stronger emission standards, major federal funding that creates clean energy jobs in our district",
+          "sourceUrl": "https://tessaforca.com/issues/protecting-our-environment",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Jay Obernolte",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He says he is working in Congress to lower taxes to encourage job growth.",
+          "quote": "In Congress, I am working to eliminate wasteful spending, cut the red tape holding back small businesses, and lower taxes to encourage job growth.",
+          "sourceUrl": "https://obernolte.house.gov/issues/jobs-economy",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "During a visit to an immigration processing center, Obernolte reaffirmed his commitment to lawful immigration enforcement and public safety.",
+          "quote": "Rep. Obernolte thanked the men and women working at the facility for their professionalism and reaffirmed his commitment to public safety, lawful immigration enforcement, and accountability.",
+          "sourceUrl": "https://obernolte.house.gov/media/press-releases/congressman-obernolte-visits-california-city-immigration-processing-center",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Obernolte introduced legislation to revoke California emissions waivers, arguing that the mandates increase costs and limit consumer choice.",
+          "quote": "We must protect American jobs and supply chains while preserving the ability of consumers to choose what works best for them and their families.",
+          "sourceUrl": "https://obernolte.house.gov/media/press-releases/energy-and-commerce-members-obernolte-palmer-and-pfluger-introduce-bills-stop",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "tessaforca.com · obernolte.house.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

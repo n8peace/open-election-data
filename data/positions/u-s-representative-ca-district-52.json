@@ -1,0 +1,160 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 52",
+  "division": "ca/cd-52",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Juan Vargas",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Reintroduced a wealth-tax proposal imposing a 14.25 percent tax on individuals and trusts worth at least $10 million.",
+          "quote": "I am reintroducing the Donald J. Trump Wealth Tax Act to allow the President to follow through on his original idea of taxing the one percent.",
+          "sourceUrl": "https://vargas.house.gov/media/press-releases/on-tax-day-rep-juan-vargas-reintroduces-the-donald-j-trump-wealth-tax-act",
+          "agreement": "6/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Voted against the FY2026 National Defense Authorization Act because he said it would weaken collective bargaining rights.",
+          "quote": "the final bill still includes dangerous provisions that would let the Trump Administration weaponize the military to carry out its inhumane anti-immigrant agenda, weaken collective bargaining rights, and put culture war issues over the actual needs of our soldiers.",
+          "sourceUrl": "https://vargas.house.gov/media/press-releases/rep-juan-vargas-votes-no-on-fy2026-ndaa",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Reintroduced a wealth-tax proposal that he said would significantly reduce the national debt.",
+          "quote": "If he’s committed to reducing our national debt and staying true to his proposal, then I’m committed to working with him to ensure his wealth tax becomes law.",
+          "sourceUrl": "https://vargas.house.gov/media/press-releases/on-tax-day-rep-juan-vargas-reintroduces-the-donald-j-trump-wealth-tax-act",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Secured $1 million for converting a motel into permanent supportive housing to address homelessness.",
+          "quote": "$1,000,000 for the City of Chula Vista for a project to convert the Palomar Motel into permanent supportive housing to help address homelessness.",
+          "sourceUrl": "https://vargas.house.gov/media/press-releases/rep-juan-vargas-secures-nearly-15-million-for-15-projects-across-ca-52",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Opposed a proposed HUD rule that would end prorated housing assistance for mixed-status families and called for protecting families from eviction and separation.",
+          "quote": "the lawmakers call on Secretary Turner to withdraw the proposed rule and instead focus on solutions that will effectively address the housing affordability crisis that Americans are being forced to grapple with.",
+          "sourceUrl": "https://vargas.house.gov/media/press-releases/rep-juan-vargas-colleagues-urge-hud-secretary-turner-to-withdraw-cruel-rule-targeting-mixed-status-families",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Voted against an ACA rollback amendment that would strip premium tax credits.",
+          "quote": "Voted NO on ACA-rollback budget reconciliation amendment (119th Congress) — strips ACA premium tax credits. (2025).",
+          "sourceUrl": "https://thecandidate.com/candidates/juan-c-vargas-ca-house-52",
+          "agreement": "3/10"
+        }
+      }
+    },
+    {
+      "name": "Jeff Belle",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Belle said he would reduce taxes and strongly disagreed that people who can afford to pay more should do so to provide relief for working families.",
+          "quote": "People who can afford to pay more taxes should do so in order to provide relief for working families. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/92432",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Belle said the government should cut spending to reduce the national debt.",
+          "quote": "The government should cut spending in order to reduce the national debt. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/92432",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "Belle listed school choice among his priorities for eliminating government waste.",
+          "quote": "4- School Choice",
+          "sourceUrl": "https://ivoterguide.com/candidate/92432",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Belle said immigrants should be duly processed, opposed sanctuary cities, and listed securing the border as a priority.",
+          "quote": "I support the existence of sanctuary cities to protect undocumented persons. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/92432",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Belle said no restrictions on gun ownership are needed beyond the Second Amendment.",
+          "quote": "No restrictions, as provided by the 2nd Amendment.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92432",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Belle said elective abortion should not be allowed and that human life should be legally protected from conception.",
+          "quote": "Under what circumstances should an elective abortion be allowed? None",
+          "sourceUrl": "https://ivoterguide.com/candidate/92432",
+          "agreement": "3/3"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Belle said biological males should not participate in women’s sports or occupy spaces designated for biological women.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces",
+          "sourceUrl": "https://ivoterguide.com/candidate/92432",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Belle said Medicaid and Medicare should remain available but opposed creating additional taxpayer-funded health-care programs.",
+          "quote": "Medicaid and Medicare should remain available, but no other taxpayer-funded programs are necessary.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92432",
+          "agreement": "2/3"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Belle said voter identification is necessary and strongly disagreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/92432",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "vargas.house.gov · thecandidate.com · ivoterguide.com",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

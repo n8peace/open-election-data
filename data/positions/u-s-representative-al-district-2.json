@@ -1,0 +1,104 @@
+{
+  "office": "U.S. Representative",
+  "district": "AL District 2",
+  "division": "al/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Rhett Marques",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Marques says he will reduce taxes so Alabamians keep more of their earnings.",
+          "quote": "put more of your hard-earned money back in your pocket so hardworking Alabamians will prosper like never before.",
+          "sourceUrl": "https://www.rhettforalabama.com/issues",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Marques says he would support detaining and deporting criminal undocumented immigrants and ending mass migration.",
+          "quote": "As your Congressman, I'll fight to keep criminal illegal aliens out of our communities and end the mass migration madness that's driven down American wages and undermined our working class.",
+          "sourceUrl": "https://rhettforalabama.com/issues",
+          "agreement": "2/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Marques frames gun ownership as a God-given right guaranteed by the Second Amendment that he will protect.",
+          "quote": "The right to protect ourselves and our loved ones is God-given and guaranteed by the Second Amendment.",
+          "sourceUrl": "https://www.rhettforalabama.com/issues",
+          "agreement": "2/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Marques says he voted for a strong anti-abortion law and will oppose abortion-rights measures in Congress.",
+          "quote": "I voted for the strongest pro-life law in our country, and I'll fight Democrats' radical, pro-abortion agenda in Washington.",
+          "sourceUrl": "https://www.rhettforalabama.com/issues",
+          "agreement": "3/3"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Marques says he would bar transgender women from girls' locker rooms.",
+          "quote": "kick biological men out of our girls' locker rooms.",
+          "sourceUrl": "https://www.rhettforalabama.com/issues",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Shomari C. Figures",
+      "party": "Democratic",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Voted against extending government funding in part because he said tariffs raise the prices consumers pay for imported goods.",
+          "quote": "You raised tariffs on the price of goods that are coming from other countries.",
+          "sourceUrl": "https://figures.house.gov/media/in-the-news/figures-discusses-government-shutdown-town-hall-meeting",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Figures pledged to protect abortion rights and contraception access, saying women should be able to make these decisions themselves.",
+          "quote": "Going back to an era where women had that reproductive choice, that freedom is where we need to be",
+          "sourceUrl": "https://www.yahoo.com/news/articles/shomari-figures-pledges-reproductive-rights-194340640.html",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Figures spoke on the House floor against Republican plans to cut Medicaid and SNAP and has pushed to expand Medicaid in Alabama.",
+          "quote": "Today, Rep. Shomari C. Figures (AL-02) spoke on the House Floor to oppose the Republicans' plan to significantly cut Medicaid and SNAP benefits for millions of Americans",
+          "sourceUrl": "https://figures.house.gov/issues/health",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "rhettforalabama.com · figures.house.gov · yahoo.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

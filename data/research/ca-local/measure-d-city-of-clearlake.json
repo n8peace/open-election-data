@@ -1,0 +1,16 @@
+{
+  "office": "Measure D",
+  "district": "City of Clearlake",
+  "division": "ca/place-clearlake",
+  "kind": "measure",
+  "summary": "A Yes vote changes the office of Clearlake City Treasurer from an elected position to an appointed one.",
+  "issues": [],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "office": "Measure S",
+  "district": "City of Albany",
+  "division": "ca/place-albany",
+  "kind": "measure",
+  "summary": "A Yes vote changes the real property transfer tax from a flat $15 per $1,000 to a tiered rate of $10 to $30 per $1,000 based on sale price, raising about $1 million per year for general city services until ended by voters.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "The League of Women Voters supports Measure S, which would adjust Albany’s real property transfer tax and raise about $1 million annually for city services.",
+          "quote": "Measure S — Real Property Transfer Tax : SUPPORT",
+          "sourceUrl": "https://www.lwvbae.org/league-news/vote-with-the-league-nov-2024-2/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "A No vote would reject changing the real property transfer tax structure, which is projected to provide an additional $1 million annually for city services.",
+          "quote": "It would provide an additional $1 million annually that would support general services",
+          "sourceUrl": "https://www.albanyscanner.com/2026/08/12/city/albany-2026-november-election-ballot-measures/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "lwvbae.org · albanyscanner.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

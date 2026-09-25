@@ -1,0 +1,18 @@
+{
+  "office": "Measure X",
+  "district": "City of Sausalito",
+  "division": "ca/place-sausalito",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a voter initiative revising the City of Sausalito's zoning and planning rules for its arts, industrial, and maritime waterfront district.",
+  "issues": [
+    "housing"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

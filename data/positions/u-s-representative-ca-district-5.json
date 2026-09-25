@@ -1,0 +1,152 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 5",
+  "division": "ca/cd-5",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Tom McClintock",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Voted against the CHIPS Act and criticized the high tax costs of doing business in the United States.",
+          "quote": "Many years ago, the last silicon chip manufacturer closed its operations in Silicon Valley because of the high tax, energy and regulatory costs of doing business in the United States.",
+          "sourceUrl": "https://mcclintock.house.gov/issues/government-regulation",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Supported Trade Promotion Authority legislation, describing trade as a source of jobs and prosperity.",
+          "quote": "Trade Means Freedom and Prosperity",
+          "sourceUrl": "https://mcclintock.house.gov/issues/labor",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "McClintock identifies the national debt as a major threat and calls for budget reforms to constrain borrowing and review mandatory spending.",
+          "quote": "I believe the single greatest peril to our nation is our national debt",
+          "sourceUrl": "https://tommcclintock.com/fiscal-reform-and-the-national-debt/",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Said housing costs are driven in part by construction mandates, limited permits and restrictions on land available for housing.",
+          "quote": "The high cost of housing is the product of bad public policy that has imposed expensive mandates on construction, limited the permits that can be issued, restricted the land available for housing",
+          "sourceUrl": "https://mcclintock.house.gov/issues/fiscal-and-economic",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Supported legislation making certain immigration and identification-document fraud grounds for inadmissibility and deportation.",
+          "quote": "if you are an alien who admits to, or is convicted of, social security fraud or identification document fraud, you cannot enter the country, and if you are already here, you should be deported.",
+          "sourceUrl": "https://mcclintock.house.gov/newsroom/press-releases/consequences-social-security-fraud-act-folded-hr-1958-and-passed-house",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Voted for the American Health Care Act and argued for lower premiums and more insurance choices rather than the existing Obamacare system.",
+          "quote": "Lower premiums, increased choices and improved care",
+          "sourceUrl": "https://mcclintock.house.gov/issues/healthcare",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Supported legislation to increase American energy production and exports while reducing regulations on infrastructure and economic development.",
+          "quote": "Increasing the production and export of American energy and reducing the regulatory burdens that make it harder to build American infrastructure and grow our economy.",
+          "sourceUrl": "https://mcclintock.house.gov/newsroom/current-issues",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "Michael Masuda",
+      "party": "Democratic",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Masuda's platform opposes tariffs, saying they raise costs and hurt farmers, and calls for expanding export markets for California producers.",
+          "quote": "Oppose unpredictable tariffs that raise costs and hurt farmers",
+          "sourceUrl": "https://www.votemasuda.com/issues",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Masuda says he would protect Medicare and Medi-Cal.",
+          "quote": "Protect Medicare and Medi-Cal",
+          "sourceUrl": "https://www.votemasuda.com/issues",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "His platform calls for increasing housing supply, encouraging a mix of housing types, and reducing barriers to development.",
+          "quote": "Encourage a mix of housing types, including entry-level and multi-family",
+          "sourceUrl": "https://www.votemasuda.com/issues",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "His education platform focuses on investing in public schools, special education, student services, and Career and Technical Education, with no mention of vouchers or school choice.",
+          "quote": "Increase investment in special education and student services",
+          "sourceUrl": "https://www.votemasuda.com/issues",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "His platform pairs enforcement measures like border security technology and prioritizing removal of public-safety risks with expanded legal pathways, agricultural labor pathways, and certainty for Dreamers.",
+          "quote": "Invest in modern border security and drug detection technology",
+          "sourceUrl": "https://www.votemasuda.com/issues",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Masuda supports protecting Medicare and Medi-Cal, reducing health-care costs, and expanding access in rural communities.",
+          "quote": "Protect Medicare and Medi-Cal",
+          "sourceUrl": "https://www.votemasuda.com/issues",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Masuda emphasizes reducing energy costs and maintaining stable, predictable energy prices while investing in grid reliability.",
+          "quote": "Focus on stable, predictable energy costs",
+          "sourceUrl": "https://www.votemasuda.com/issues",
+          "agreement": "4/10"
+        }
+      }
+    }
+  ],
+  "sources": "mcclintock.house.gov · tommcclintock.com · votemasuda.com",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

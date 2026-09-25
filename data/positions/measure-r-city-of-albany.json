@@ -1,0 +1,41 @@
+{
+  "office": "Measure R",
+  "district": "City of Albany",
+  "division": "ca/place-albany",
+  "kind": "measure",
+  "summary": "A Yes vote changes the city business license tax so it is calculated on gross receipts instead of number of employees, raising about $600,000 per year for general city services until ended by voters.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A yes vote on Measure R would replace Albany’s employee-based business license tax with a gross-receipts tax and raise an estimated $600,000 annually for general city services.",
+          "quote": "Raises an estimated $600,000 a year for general city services, with funds that stay local.",
+          "sourceUrl": "https://www.lwvbae.org/league-news/vote-with-the-league-nov-2024-2/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "A No vote would reject the business-license-tax change projected to raise an additional $600,000 annually for Albany general services.",
+          "quote": "Revenue collected from the tax, providing an estimated additional $600,000 annually, would support Albany general services",
+          "sourceUrl": "https://www.albanyscanner.com/2026/08/12/city/albany-2026-november-election-ballot-measures/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "lwvbae.org · albanyscanner.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

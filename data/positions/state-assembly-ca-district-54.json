@@ -1,0 +1,37 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 54",
+  "division": "ca/sldl-54",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Mark Gonzalez",
+      "party": "Democratic",
+      "stances": {}
+    },
+    {
+      "name": "Alexandra Briseno",
+      "party": "Republican",
+      "stances": {}
+    }
+  ],
+  "sources": "",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,192 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 7",
+  "division": "ca/cd-7",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Doris Matsui",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Introduced legislation to improve wages and working conditions for direct-care workers.",
+          "quote": "legislation that would invest in the direct care workforce by improving wages and working conditions",
+          "sourceUrl": "https://matsui.house.gov/media/press-releases/matsui-dingell-introduce-bill-strengthen-home-care-access",
+          "agreement": "3/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Matsui works to preserve Social Security retirement benefits and strengthen Medicare for seniors.",
+          "quote": "Congresswoman Matsui has worked diligently to ensure the federal government continues to provide the retirement benefits our seniors have earned, so they can maintain a healthy and active lifestyle.",
+          "sourceUrl": "https://matsui.house.gov/issue/seniors",
+          "agreement": "3/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Matsui highlighted a federal housing law that helps Sacramento preserve affordable housing and build more housing faster.",
+          "quote": "This law gives SHRA and our local partners better tools to renovate public housing, prepare sites for construction, and reduce federal delays that drive up costs.",
+          "sourceUrl": "https://matsui.house.gov/media/press-releases/matsui-thompson-bera-and-local-leaders-highlight-new-federal-housing-law",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Matsui opposes stricter ICE enforcement, repeatedly voting against funding ICE and to protect immigrants.",
+          "quote": "That's why Matsui stands up to Trump's cruel immigration tactics, fights to protect our neighbors from illegal ICE activity, repeatedly votes no on funding ICE, and opposes allowing masked ICE agents to disregard the rule of law.",
+          "sourceUrl": "https://matsuiforcongress.com/issues/",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Matsui said she fights back when policies threaten reproductive rights.",
+          "quote": "When Trump moves to roll back healthcare and reproductive rights, attack immigrants, weaken air and water pollution laws, and cut the basic services families rely on, Matsui stands up and fights back.",
+          "sourceUrl": "https://matsuiforcongress.com/issues/",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Matsui helped pass the Affordable Care Act and touts its expansion of Medicaid to low-income Americans.",
+          "quote": "Congresswoman Matsui was a leader in the passage of the Affordable Care Act, which expanded Medicaid to millions of low-income Americans.",
+          "sourceUrl": "https://matsui.house.gov/issues/health-care",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Matsui has led efforts to decarbonize the electric grid, strengthen pollution standards, and expand clean energy and energy-efficiency programs.",
+          "quote": "Doris has consistently led efforts to modernize and decarbonize our electric grid and support energy efficiency programs that save ratepayers money while also cutting emissions.",
+          "sourceUrl": "https://matsuiforcongress.com/issues/",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Mai Vang",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Vang calls for taxing billionaires and closing corporate loopholes to fund public priorities.",
+          "quote": "A handful of people own more wealth than the bottom half of our entire country",
+          "sourceUrl": "https://www.maiforus.com/platform",
+          "agreement": "7/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Vang would raise the minimum wage tied to inflation and, as a union member, pass the PRO Act.",
+          "quote": "I will fight to raise the minimum wage and tie it to inflation so it keeps up with the real cost of living.",
+          "sourceUrl": "https://www.maiforus.com/platform",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Vang opposes Trump's tariffs, calling them a hidden tax on working families and small businesses.",
+          "quote": "Donald Trump's illegal tariffs acted as a hidden tax on every working family and small business in our region.",
+          "sourceUrl": "https://www.maiforus.com/platform",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Vang pledges to protect Social Security and Medicare from cuts.",
+          "quote": "I will fight to eliminate medical debt, slash prescription costs, and protect Social Security and Medicare from cuts.",
+          "sourceUrl": "https://www.maiforus.com/platform",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Vang would increase federal funding for new construction and make it easier to build more housing.",
+          "quote": "make it easier to build more housing for the teachers, nurses, and working families",
+          "sourceUrl": "https://www.maiforus.com/platform",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Vang opposes diverting public dollars to charter schools or private voucher programs.",
+          "quote": "resist efforts to divert public dollars to charter schools or private voucher programs",
+          "sourceUrl": "https://www.maiforus.com/platform",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "Vang opposed a Sacramento budget because she said it cut youth and parks programs while dedicating too much funding to police.",
+          "quote": "Vang criticized the budget for dedicating too much to the police department.",
+          "sourceUrl": "https://www.abridged.org/news/sacramento-city-council-adopts-budget/",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Vang backs a comprehensive pathway to citizenship and permanent protection for Dreamers and TPS recipients.",
+          "quote": "I will fight for a comprehensive pathway to citizenship that moves our neighbors out of the shadows and provides permanent protection for Dreamers and TPS recipients.",
+          "sourceUrl": "https://www.maiforus.com/platform",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Vang supports federal protections guaranteeing the right to abortion nationwide.",
+          "quote": "We need federal protections that guarantee the right to choose for everyone, no matter what state they live in.",
+          "sourceUrl": "https://www.maiforus.com/platform",
+          "agreement": "4/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "According to Cal NORML, Vang opposed a Sacramento cannabis lounge pilot program and typically voted against cannabis measures.",
+          "quote": "Vang opposed a cannabis lounge pilot program in Sacramento, and typically votes against cannabis",
+          "sourceUrl": "https://www.canorml.org/cal-norml-election-guide-2026/",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Vang is a vocal advocate for Medicare for All as a guaranteed right.",
+          "quote": "In Congress, I will be a relentless advocate for Medicare for All to guarantee healthcare as a right for every American.",
+          "sourceUrl": "https://www.maiforus.com/platform",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Vang champions the John Lewis Voting Rights Advancement Act to expand voting access.",
+          "quote": "champion the John Lewis Voting Rights Advancement Act to ensure our democracy is accessible to everyone.",
+          "sourceUrl": "https://www.maiforus.com/platform",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "matsui.house.gov · matsuiforcongress.com · maiforus.com · abridged.org · canorml.org",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

@@ -1,0 +1,32 @@
+{
+  "office": "Measure HH",
+  "district": "City of Pleasanton",
+  "division": "ca/place-pleasanton",
+  "kind": "measure",
+  "summary": "A Yes vote increases the city's hotel transient occupancy tax.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "The Yes on Measure HH campaign argues for raising Pleasanton's hotel tax to generate revenue that funds city programs and services.",
+          "quote": "Generating sufficient revenue to ensure Pleasanton's sustainability allows the City to continue providing programs and services that benefit all residents",
+          "sourceUrl": "https://www.pleasantonweekly.com/city-politics/2026/09/15/ballot-arguments-set-the-stage-for-pleasantons-measure-hh-hotel-tax-campaign/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "pleasantonweekly.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

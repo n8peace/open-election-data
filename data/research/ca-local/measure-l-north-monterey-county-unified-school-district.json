@@ -1,0 +1,19 @@
+{
+  "office": "Measure L",
+  "district": "North Monterey County Unified School District",
+  "division": "ca/school-north-monterey-county-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue $40 million in bonds for school facilities, repaid by a property tax of about $32 per $100,000 of assessed value.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 63",
+  "division": "ca/sldl-63",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Natasha Johnson",
+      "party": "Republican",
+      "incumbent": true
+    },
+    {
+      "name": "Kevin Akin",
+      "party": "Peace and Freedom",
+      "incumbent": false
+    }
+  ]
+}

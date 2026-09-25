@@ -1,0 +1,18 @@
+{
+  "office": "Measure H",
+  "district": "City of Arvin",
+  "division": "ca/place-arvin",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a 1% transactions and use (sales) tax in the City of Arvin for general city services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

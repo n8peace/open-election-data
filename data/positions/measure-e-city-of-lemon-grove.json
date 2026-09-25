@@ -1,0 +1,20 @@
+{
+  "office": "Measure E",
+  "district": "City of Lemon Grove",
+  "division": "ca/place-lemon-grove",
+  "kind": "measure",
+  "summary": "A Yes vote prohibits the retail sale of birds in the City of Lemon Grove and limits pet stores to sourcing birds from shelters, humane societies, or nonprofit rescue organizations.",
+  "issues": [],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {}
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

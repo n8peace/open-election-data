@@ -1,0 +1,19 @@
+{
+  "office": "Proposition 3",
+  "district": "Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes.",
+  "division": "ca/state",
+  "kind": "measure",
+  "summary": "A Yes vote makes existing high-income tax rates permanent and allocates revenue to K–12 schools, community colleges, and the state General Fund.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

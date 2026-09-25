@@ -1,0 +1,20 @@
+{
+  "office": "Measure A",
+  "district": "City of Morgan Hill",
+  "division": "ca/place-morgan-hill",
+  "kind": "measure",
+  "summary": "A Yes vote changes the Morgan Hill City Treasurer from an elected office to one appointed by the City Council.",
+  "issues": [],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {}
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

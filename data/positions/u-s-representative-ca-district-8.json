@@ -1,0 +1,176 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 8",
+  "division": "ca/cd-8",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "John Garamendi",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Garamendi pushed to force a House vote on raising the federal minimum wage.",
+          "quote": "Increasing the minimum wage is one of the most effective methods we have to lift millions of Americans out of poverty",
+          "sourceUrl": "https://garamendi.house.gov/2022/11/09/garamendi-joins-effort-requiring-minimum-wage-vote-house-floor/",
+          "agreement": "6/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "Garamendi helped secure retaliatory tariffs on certain European canned fruit imports and supported measures to protect domestic industry.",
+          "quote": "Also, helped secure new retaliatory tariffs on canned peaches and mixed fruits from the European Union.",
+          "sourceUrl": "https://garamendi.house.gov/legislative-work/past-legislative-accomplishments/",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Garamendi flatly opposed cutting Social Security, Medicare or Medicaid as part of debt-ceiling talks.",
+          "quote": "We have no right at this time, or any time in the future, to harm those who are on Social Security.",
+          "sourceUrl": "https://garamendi.house.gov/press-release/congressman-garamendi-says-no-and-hell-no-social-security-medicare-and-medicaid-cuts",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Garamendi makes lowering housing prices and expanding affordable housing supply a top priority and advocates more funding for housing programs.",
+          "quote": "decreasing housing prices and increasing affordable housing opportunities are two of my top priorities",
+          "sourceUrl": "https://garamendi.house.gov/legislative-work/issues/housing/",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Garamendi opposes cuts to public education and backs federal funding to lower class sizes and preserve programs.",
+          "quote": "Garamendi has consistently spoken out against destructive cuts to all levels of education.",
+          "sourceUrl": "https://www.garamendi.org/issues",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Garamendi supports a fair pathway to citizenship for Dreamers and an end to deportation threats.",
+          "quote": "I fervently support policies that would provide these integral members of our community with a fair pathway to citizenship",
+          "sourceUrl": "https://garamendi.house.gov/legislative-work/issues/immigration/",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Garamendi backs universal background checks and closing the gun-show loophole.",
+          "quote": "Universal background checks are overwhelmingly supported by the American public",
+          "sourceUrl": "https://garamendi.house.gov/2022/11/09/congressman-garamendi-s-statement-president-obama-s-executive-order-requiring/",
+          "agreement": "4/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Garamendi says he supports a woman's right to choose and, as a Pro-Choice Caucus member, works to protect reproductive access.",
+          "quote": "As a member of the Pro-Choice Caucus, I am proud to fight to preserve, protect, and advance policies that ensure reproductive autonomy for all Americans.",
+          "sourceUrl": "https://garamendi.house.gov/legislative-work/issues/womens-equality/",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Garamendi wants to expand Medicare, including letting it negotiate drug prices and adding dental and vision coverage.",
+          "quote": "Lower prescription drug costs in Medicare through the importation of drugs from countries with rigorous safety standards",
+          "sourceUrl": "https://www.garamendi.org/issues",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Garamendi calls the climate crisis serious and champions clean-energy investment.",
+          "quote": "Congressman Garamendi is a passionate advocate for investments in clean energy, building weatherization, public transit, and biking amenities",
+          "sourceUrl": "https://www.garamendi.org/issues",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Voted for the For the People Act, which he described as expanding voting rights.",
+          "quote": "Rep. Garamendi voted to pass H.R. 1, the &#8220;For the People Act,&#8221; a sweeping anti-corruption package to clean up Washington, protect and expand voting rights, restore integrity to government and put the needs, and priorities of the American people ahead of special interests.",
+          "sourceUrl": "https://garamendi.house.gov/legislative-work/legislative-history-and-accomplishments-in-congress/",
+          "agreement": "3/10"
+        }
+      }
+    },
+    {
+      "name": "Rudy Recile",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Recile argued against raising taxes on the wealthy, saying it would drive away the businesses that create jobs, and separately called government spending out of control.",
+          "quote": "The billionaires are the ones that are bringing in industry, and if you start taxing them they can just pick up and move.",
+          "sourceUrl": "https://www.vallejosun.com/incumbent-john-garamendi-faces-rudy-recile-again-in-8th-congressional-district-race/",
+          "agreement": "3/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Spoke at a news conference opposing a proposed $30 minimum wage, warning that it could cause businesses to close or cut jobs.",
+          "quote": "A sudden jump to $30 an hour minimum wage could force them to close their businesses, cut jobs, raise hours, raise prices or close altogether,",
+          "sourceUrl": "https://abc7news.com/post/alameda-county-weighs-nations-first-30-minimum-wage/19626650/",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Recile faulted local governments for making it hard to build homes in California, favoring easier home development.",
+          "quote": "have made it very difficult for developers to develop homes, especially in California.",
+          "sourceUrl": "https://www.vallejosun.com/incumbent-john-garamendi-faces-rudy-recile-again-in-8th-congressional-district-race/",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Recile calls for expanding school choice, saying education funding should follow the student and backing nationwide tax credits for schooling.",
+          "quote": "Money should follow the child not the child following the money.",
+          "sourceUrl": "https://rudyforuscongress.com/index.php/issues/education-and-school-choice/",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "Said Congress should ensure immigration laws are enforced as written and that immigrants need to follow the law.",
+          "quote": "From the House's side of it, we just need to make sure that the law is being enforced as it's written,”",
+          "sourceUrl": "https://www.vallejosun.com/incumbent-john-garamendi-faces-rudy-recile-again-in-8th-congressional-district-race/",
+          "agreement": "4/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Recile praised U.S. energy independence and high domestic production, and elsewhere called nuclear the cleanest and safest energy source.",
+          "quote": "The USA was producing so much energy the USA was selling energy to other countries.",
+          "sourceUrl": "https://rudyforuscongress.com/index.php/issues/",
+          "agreement": "8/10"
+        }
+      }
+    }
+  ],
+  "sources": "garamendi.house.gov · garamendi.org · vallejosun.com · abc7news.com · rudyforuscongress.com",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

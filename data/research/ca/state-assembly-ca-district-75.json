@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 75",
+  "division": "ca/sldl-75",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Gerald C. Boursiquot",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Carl DeMaio",
+      "party": "Republican",
+      "incumbent": true
+    }
+  ]
+}

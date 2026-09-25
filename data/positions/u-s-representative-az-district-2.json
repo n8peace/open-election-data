@@ -1,0 +1,126 @@
+{
+  "office": "U.S. Representative",
+  "district": "AZ District 2",
+  "division": "az/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Eli Crane",
+      "party": "Republican",
+      "stances": {
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Crane has warned about the growing national deficit and pushed for narrower spending bills over omnibus packages.",
+          "quote": "Rep. Crane has warned about the rapidly growing national deficit",
+          "sourceUrl": "https://crane.house.gov/issues/economic-prosperity/",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Crane supports removing people in the country unlawfully, opposes mass amnesty, and worked to codify stricter border policies.",
+          "quote": "fully supports removing individuals who are unlawfully present in the country",
+          "sourceUrl": "https://crane.house.gov/issues/securing-our-border/",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Crane says he opposes red flag laws and will vote to keep gun rights from being infringed.",
+          "quote": "When I vote regarding the Second Amendment, I'm going to continue to support the Constitution and what it says: our rights shall not be infringed.",
+          "sourceUrl": "https://gunsamerica.com/digest/exclusive-eli-crane-talks-favorite-guns-seal-stories-and-flipping-the-house-for-republicans-in-2022/",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Crane said abortion should be allowed only to save the life of the mother and described himself as strongly pro-life.",
+          "quote": "The only circumstance would be to save the life of the mother.",
+          "sourceUrl": "https://ivoterguide.com/candidate/60503/race/1119/election/904?culture=en-us",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Crane backs expanding domestic oil and gas production and opposes Green New Deal subsidies and EV mandates to lower costs.",
+          "quote": "American energy dominance improves national security and lowers costs for families",
+          "sourceUrl": "https://crane.house.gov/issues/energy/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Jonathan Nez",
+      "party": "Democratic",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Nez said he would roll back sweeping tariffs that he said were raising costs for businesses and families.",
+          "quote": "When in Congress, I will not be afraid to stand up to my party and do right by rural Arizonans by lowering costs. Congressman Eli Crane’s lack of courage is hurting Arizona.",
+          "sourceUrl": "https://www.jonathannezforaz.com/news/congressman-eli-crane-votes-to-let-tariffs-raise-costs-on-arizona-families",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Nez opposes cuts to Medicaid, warning they would financially devastate rural and Native residents who depend on the coverage.",
+          "quote": "Now, if they get sick, it could bankrupt them, and they might not have a home to live in, they might not have food on the table",
+          "sourceUrl": "https://www.knau.org/knau-and-arizona-news/2026-09-22/nez-hopes-buyers-remorse-will-wrest-control-of-cd2-from-republicans-in-november",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Curtis Goodwin",
+      "party": "Libertarian",
+      "stances": {
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Supported federal tax credits or scholarships allowing families to choose private schools, homeschooling, or online programs.",
+          "quote": "Providing federal tax credits or scholarships that allow parents to choose private schools, homeschool, or online programs for their children.",
+          "sourceUrl": "https://www.azvoterguide.com/candidate/goodwin-curtis/",
+          "agreement": "2/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Supported expanding federal enforcement to prevent illegal border crossings and said stronger borders improve safety and ensure immigration follows proper procedures.",
+          "quote": "I support this because I believe that becoming an American citizen. It's an important step and ensuring that it's done the proper way is realistically.",
+          "sourceUrl": "https://www.azvoterguide.com/candidate/goodwin-curtis/",
+          "agreement": "2/3"
+        },
+        "abortion": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Opposed prohibiting federal funds from supporting abortion-related organizations while also supporting limits on direct federal promotion of abortion and preserving access to essential health care.",
+          "quote": "I support ensuring federal funds are not used to directly promote or facilitate abortion, while also making sure we preserve access to essential healthcare services and respect the complexity of this issue.",
+          "sourceUrl": "https://www.azvoterguide.com/candidate/goodwin-curtis/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "crane.house.gov · gunsamerica.com · ivoterguide.com · jonathannezforaz.com · knau.org · azvoterguide.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

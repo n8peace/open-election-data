@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 2",
+  "division": "ca/sldl-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Chris Rogers",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Michael Greer",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

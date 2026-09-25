@@ -1,0 +1,19 @@
+{
+  "office": "Measure M",
+  "district": "San Diego Unified School District",
+  "division": "ca/school-san-diego-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the San Diego Unified School District to issue $3,500,000,000 in general obligation bonds to repair and upgrade school facilities across the district.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 42",
+  "division": "ca/sldl-42",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Deborah Klein Lopez",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She supports increasing the supply of attainable and workforce housing through careful development, including in underutilized areas.",
+          "quote": "Increasing the supply of attainable housing through careful, well-planned development",
+          "sourceUrl": "https://deborahkleinlopez.com/issues/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports stabilizing funding for public schools, expanding access to public education, and investing in school facilities and support services.",
+          "quote": "Every student in our district and across California deserves access to a world-class education in a safe, supportive environment.",
+          "sourceUrl": "https://deborahkleinlopez.com/issues/",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports additional resources for law enforcement while also investing in mental health care, drug courts, and treatment instead of relying only on jail.",
+          "quote": "We need smart, balanced public safety policies that both hold offenders accountable and address the root causes of crime.",
+          "sourceUrl": "https://deborahkleinlopez.com/issues/",
+          "agreement": "3/3"
+        },
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "lean",
+          "text": "She supports directing people with serious mental illness or drug addiction to treatment, drug courts, and care facilities instead of jail.",
+          "quote": "Investing in mental health beds, drug courts, and treatment facilities so those with serious illnesses and/or drug addiction can get the care they need instead of ending up in jail or on the street",
+          "sourceUrl": "https://deborahkleinlopez.com/issues/",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She supports protecting reproductive health and the right to make personal healthcare decisions.",
+          "quote": "Protecting reproductive health and freedom, defending every person’s right to make their own healthcare decisions",
+          "sourceUrl": "https://deborahkleinlopez.com/issues/",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports restoring and expanding public healthcare programs, including Medi-Cal, while working to expand coverage and reduce out-of-pocket costs.",
+          "quote": "I will stand up to Trump's targeted attacks on Californians and use every tool available to restore the vital healthcare programs gutted by the Big Beautiful Bill, including services provided by Medi-Cal and Planned Parenthood.",
+          "sourceUrl": "https://www.vcstar.com/story/news/politics/elections/2026/05/07/meet-the-candidates-for-state-assembly-district-42/89759031007/",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "She supports expanding renewable energy and alternative transportation to reduce dependence on fossil fuels and vehicle emissions.",
+          "quote": "Investing in alternative transportation models to reduce vehicle emissions",
+          "sourceUrl": "https://deborahkleinlopez.com/issues/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "Ted Nordblum",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Nordblum says he would cut taxes, including the gas tax, and oppose raising taxes while requiring a balanced state budget.",
+          "quote": "I will work to cut the gas tax, defend the taxpayer protections of Proposition 13, and demand a balanced state budget that doesn't rely on raising your taxes.",
+          "sourceUrl": "https://tednordblum.com/positions",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Nordblum says California should reduce regulatory barriers to building homes and remove obstacles posed by the Coastal Commission and CEQA.",
+          "quote": "we need to roll back the red tape on building new homes.",
+          "sourceUrl": "https://www.vcstar.com/story/news/politics/elections/2026/05/07/meet-the-candidates-for-state-assembly-district-42/89759031007/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Nordblum says he supports giving parents more education options through school choice.",
+          "quote": "I'll fight for greater transparency in our schools, support school choice, and work to ensure that our children are taught the fundamentals, not political agendas.",
+          "sourceUrl": "https://tednordblum.com/positions",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Nordblum identifies public safety as his top priority and says police and sheriff's departments should receive funding, training and support.",
+          "quote": "I will always back the blue. I'll work to ensure that our police and sheriff's departments have the funding, training, and support they need to protect our communities and keep our streets safe.",
+          "sourceUrl": "https://tednordblum.com/positions",
+          "agreement": "5/5"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "Nordblum says he would seek tougher penalties, truth-in-sentencing and full terms for violent offenders.",
+          "quote": "I'll fight to repeal the soft-on-crime policies that have emboldened criminals and made our communities less safe. We need to restore truth-in-sentencing and ensure that violent offenders serve their full terms.",
+          "sourceUrl": "https://tednordblum.com/positions",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Nordblum says he would develop California's energy resources to lower utility costs for families and businesses.",
+          "quote": "I'll push to responsibly develop our energy and water resources, lower costs for families and businesses, and build the infrastructure our region needs.",
+          "sourceUrl": "https://tednordblum.com/positions",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "deborahkleinlopez.com · vcstar.com · tednordblum.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

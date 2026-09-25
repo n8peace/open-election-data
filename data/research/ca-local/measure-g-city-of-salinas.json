@@ -1,0 +1,18 @@
+{
+  "office": "Measure G",
+  "district": "City of Salinas",
+  "division": "ca/place-salinas",
+  "kind": "measure",
+  "summary": "A Yes vote renews the city's existing 1% transactions and use (sales) tax with no expiration date to fund city services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

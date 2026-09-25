@@ -1,0 +1,18 @@
+{
+  "office": "State Senate",
+  "district": "CA District 28",
+  "division": "ca/sldu-28",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Lola Smallwood-Cuevas",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Joe Lisuzzo",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

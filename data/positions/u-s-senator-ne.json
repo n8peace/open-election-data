@@ -1,0 +1,224 @@
+{
+  "office": "U.S. Senator",
+  "district": "NE",
+  "division": "ne/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Pete Ricketts",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Ricketts supported the Working Families Tax Cut, which reduced or avoided federal taxes for families, seniors, and businesses.",
+          "quote": "The Working Families Tax Cut means 88% of seniors won’t have to pay income taxes on their Social Security benefits.",
+          "sourceUrl": "https://www.ricketts.senate.gov/news/press-releases/ricketts-recaps-2025-a-year-of-delivering-wins-for-nebraskans/",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Ricketts supported the ROAD to Housing Act and legislation intended to increase housing supply, including in rural Nebraska.",
+          "quote": "The ROAD to Housing Act will help our country increase housing supply,” said Ricketts.",
+          "sourceUrl": "https://www.ricketts.senate.gov/news/press-releases/ricketts-celebrates-senate-passage-of-the-21st-century-road-to-housing-act/",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Ricketts supports school choice and created scholarships for families to attend the school of their choice.",
+          "quote": "We created scholarships for Nebraskans to attend the school of their choice.",
+          "sourceUrl": "https://www.ricketts.senate.gov/weekly_column/senator-ricketts-weekly-column-highlighting-school-choice-week/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Ricketts supported enhanced policing tools, additional law-enforcement resources, and efforts to combat fentanyl and illegal immigration.",
+          "quote": "I’m backing the blue, so Nebraska law enforcement can continue their record of excellence.",
+          "sourceUrl": "https://www.ricketts.senate.gov/weekly_column/senator-ricketts-weekly-column-the-good-life-in-2026/",
+          "agreement": "3/5"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "Ricketts supported the HALT Fentanyl Act, which he said would impose harsher sentences on fentanyl traffickers.",
+          "quote": "It will lead to harsher sentences for fentanyl traffickers and fewer overdose deaths.",
+          "sourceUrl": "https://www.ricketts.senate.gov/news/press-releases/ricketts-recaps-2025-a-year-of-delivering-wins-for-nebraskans/",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Ricketts backs building the border wall, tightening asylum law, and stopping sanctuary cities.",
+          "quote": "He supports legislation to reform our broken asylum laws and build the wall.",
+          "sourceUrl": "https://www.ricketts.senate.gov/issues/securing-our-border/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Ricketts calls himself pro-life, praised the Dobbs decision, and says work to restrict abortion continues.",
+          "quote": "As we celebrate the three-year anniversary of Dobbs, we remember that our work to support life has only just begun.",
+          "sourceUrl": "https://www.ricketts.senate.gov/news/press-releases/video-ricketts-fights-for-life/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Ricketts favors expanded domestic energy production and permitting reform and opposes energy mandates.",
+          "quote": "America must be able to power itself. That's why Pete Ricketts believes we should be able to use our nation's natural resources responsibly.",
+          "sourceUrl": "https://www.ricketts.senate.gov/issues/ensuring-energy-independence/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Ricketts supports voter ID and the SAVE Act's proof-of-citizenship requirement to vote.",
+          "quote": "When they claim, 'You're going to disenfranchise somebody,' well, you can look at states where we've implemented voter ID and voter-participation rates have gone up.",
+          "sourceUrl": "https://www.norfolkneradio.com/news/ricketts-calls-save-act-common-sense/article_988ee42e-28c8-4346-8beb-7362738ad28f.html",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Mike Marvin",
+      "party": "Legal Marijuana NOW",
+      "stances": {
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Marvin ran as the Legal Marijuana NOW candidate with marijuana legalization as his signature issue.",
+          "quote": "Mike is committed to legal marijuana NOW — in Nebraska and across the nation.",
+          "sourceUrl": "https://www.ballotready.org/people/mike-marvin",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Marvin's campaign platform included expanding Medicare and Medicaid.",
+          "quote": "repealing the PATRIOT act, fighting against political action committee and foreign lobbying dollars in politics, and expanding Medicare and Medicaid, among others.",
+          "sourceUrl": "https://nebraskapublicmedia.org/en/news/news-articles/legal-marijuana-now-candidate-drops-out-of-nebraska-senate-race/",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Robin Richards",
+      "party": "Nebraska Working People",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Said the state should find new revenue streams and invest in education, healthcare, and public resources rather than make major spending cuts.",
+          "quote": "We need to invest in education, healthcare, and our citizens by finding revenue streams that don't affect our middle and lower classes.",
+          "sourceUrl": "https://ivoterguide.com/candidate/64845/race/17451/election/953?culture=en-us",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "On a candidate questionnaire she opposed vouchers and charter schools, saying public money should not fund private education.",
+          "quote": "I do not support public funds paying for private education.",
+          "sourceUrl": "https://ivoterguide.com/candidate/64845/race/17451/election/953",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "She affirmed Second Amendment rights while saying she supports gun training and registration requirements.",
+          "quote": "I believe in the 2nd amendment but in training and registrations.",
+          "sourceUrl": "https://ivoterguide.com/candidate/64845/race/17451/election/953",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She said she supports universal health care and that the current system must change.",
+          "quote": "I believe in universal healthcare. We have to change our current system.",
+          "sourceUrl": "https://ivoterguide.com/candidate/64845/race/17451/election/953",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Chuck Conboy",
+      "party": "America First",
+      "stances": {}
+    },
+    {
+      "name": "Dan Osborn",
+      "party": "By Petition",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Osborn says wealthy individuals and corporations should pay their fair share while also describing himself as fiscally conservative and supporting some tax and spending cuts.",
+          "quote": "If paying your fair share is an increase, then I suppose yeah.",
+          "sourceUrl": "https://www.newsweek.com/dan-osborn-chances-republican-pete-ricketts-nebraska-senate-11670776",
+          "agreement": "3/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "A longtime union president who led the 2021 Kellogg's strike, he backs worker organizing and calls to ban non-compete agreements.",
+          "quote": "Non-compete agreements are predatory contracts that corporations force onto workers to prevent them from leaving for a better job.",
+          "sourceUrl": "https://www.osbornforsenate.com/ngfp-protect-our-paychecks-social-security-and-healthcare",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Osborn opposes private-school voucher programs because he says they divert funding from public schools.",
+          "quote": "I'm also against voucher programs for private schools",
+          "sourceUrl": "https://www.ontheissues.org/Archive/2024_NE_Senate_Education.htm",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Osborn supports a secure border and removing violent criminals but opposes expanded immigration enforcement that he says has harmed American citizens.",
+          "quote": "I understand and I agree with the fundamental mission of enforcement, and that's to get the criminal elements that shouldn't be here out of the country.",
+          "sourceUrl": "https://www.wnycstudios.org/podcasts/tnyradiohour/articles/a1de3ec3b376271e88c4e27e",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He opposes national abortion bans and supports access within Roe-era limits, while saying he opposes late-term abortions.",
+          "quote": "I do not support extreme national measures to ban abortion.",
+          "sourceUrl": "https://ontheissues.org/social/Dan_Osborn_Abortion.htm",
+          "agreement": "10/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "He supports medical cannabis, removing marijuana from Schedule I, and ending prison time for cannabis use.",
+          "quote": "Let's stop putting people in prison for cannabis use.",
+          "sourceUrl": "https://ontheissues.org/Domestic/Dan_Osborn_Drugs.htm",
+          "agreement": "4/10"
+        }
+      }
+    }
+  ],
+  "sources": "ricketts.senate.gov · norfolkneradio.com · ballotready.org · nebraskapublicmedia.org · ivoterguide.com · newsweek.com · osbornforsenate.com · ontheissues.org · wnycstudios.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

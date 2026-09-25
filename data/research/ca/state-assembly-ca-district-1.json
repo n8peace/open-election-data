@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 1",
+  "division": "ca/sldl-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Dianna Margaret James",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Heather Hadwick",
+      "party": "Republican",
+      "incumbent": true
+    }
+  ]
+}

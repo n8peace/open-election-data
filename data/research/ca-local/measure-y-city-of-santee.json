@@ -1,0 +1,18 @@
+{
+  "office": "Measure Y",
+  "district": "City of Santee",
+  "division": "ca/place-santee",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a one-cent sales tax in the City of Santee for ten years to fund city services and infrastructure, including road repairs.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

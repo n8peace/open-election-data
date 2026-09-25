@@ -1,0 +1,19 @@
+{
+  "office": "Measure V",
+  "district": "San Mateo County Community College District",
+  "division": "ca/school-san-mateo-county-community-college-district",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue up to $848 million in bonds, repaid by a property tax, to repair and upgrade facilities, infrastructure, safety and security systems, and instructional technology.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

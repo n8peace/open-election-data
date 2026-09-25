@@ -1,0 +1,176 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 45",
+  "division": "ca/cd-45",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Derek Tran",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Tran says he is working to cut taxes for middle-class families and small businesses.",
+          "quote": "That’s why Derek is working to cut taxes for middle-class families and small businesses",
+          "sourceUrl": "https://www.derektranforcongress.com/issues",
+          "agreement": "7/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Tran says he supports making the minimum wage a living wage and cosponsored legislation strengthening workers’ right to unionize, although he did not cosponsor a federal living-wage bill tracked by the source.",
+          "quote": "Derek is fighting to make the minimum wage a living wage",
+          "sourceUrl": "https://www.derektranforcongress.com/issues",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Tran says he will oppose efforts to cut Social Security and Medicare and will defend Medicare.",
+          "quote": "He will fight back against the extremists who want to cut Social Security and Medicare",
+          "sourceUrl": "https://www.derektranforcongress.com/issues",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Tran voted for a housing bill and cosponsored an expansion of tax credits for constructing affordable rental housing.",
+          "quote": "Cosponsored expanding Low-Income Housing Tax Credits to build more affordable rental housing (H.R.2725)",
+          "sourceUrl": "https://yourreprecord.org/members/tran-derek-ca-45/",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Tran says he supports investing in community public schools and identifies himself as the parent of children in public schools.",
+          "quote": "investing in community public schools",
+          "sourceUrl": "https://www.derektranforcongress.com/issues",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Tran says he supports both putting more police on the streets and investing in violence prevention and rehabilitation programs.",
+          "quote": "He’s worked to put more police on the streets to crack down on rising crime and put dangerous criminals in prison. And Derek has fought for more investments in violence prevention and rehabilitation programs to address the root causes of crime.",
+          "sourceUrl": "https://www.derektranforcongress.com/issues",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Tran says America is stronger as a nation of immigrants and that people who are ready to contribute belong in the country.",
+          "quote": "America is stronger because we are a nation of immigrants. It doesn’t matter where you come from; if you’re ready to contribute, you belong.",
+          "sourceUrl": "https://tran.house.gov/issues/immigration-0",
+          "agreement": "4/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Tran says he supports universal background checks and a ban on assault weapons.",
+          "quote": "common-sense gun safety laws like universal background checks and a ban on assault weapons",
+          "sourceUrl": "https://www.derektranforcongress.com/issues",
+          "agreement": "5/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Tran describes himself as pro-choice and says he supports protecting abortion access and related reproductive health services.",
+          "quote": "Derek is 100% pro-choice and has stood strong to protect funding for Planned Parenthood and access to critical women’s health services like birth control and cancer screenings.",
+          "sourceUrl": "https://www.derektranforcongress.com/issues",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Tran says health care should be a right, opposes cuts to Medicaid, and will defend Medicare.",
+          "quote": "Derek believes healthcare should be a right, not a privilege.",
+          "sourceUrl": "https://www.derektranforcongress.com/issues",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Tran says he wants to protect the environment while also addressing the cost of energy for families.",
+          "quote": "I also want to make sure our environment is protected and preserved for the next generation. But I also know how expensive energy costs are for our family home.",
+          "sourceUrl": "https://tran.house.gov/issues/energy-environment",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Tran says he will work to strengthen voting rights and defend free and fair elections.",
+          "quote": "Derek will work to strengthen voting rights for every American and defend our free and fair elections",
+          "sourceUrl": "https://www.derektranforcongress.com/issues",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Chuong V. Vo",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Signed the Taxpayer Protection Pledge, committing to oppose and vote against tax increases.",
+          "quote": "a written commitment to the voters of California to oppose and vote against tax hikes.",
+          "sourceUrl": "https://atr.org/chuong-vo-makes-no-new-taxes-promise-to-california-voters/",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Said he would protect Social Security and Medicare for current seniors while cutting wasteful spending and targeting fraud.",
+          "quote": "I’ll vote to cut wasteful spending that fuels inflation, protect Social Security and Medicare for today’s seniors",
+          "sourceUrl": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congresstional-district-45-north-orange-county-voter-guide",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Said he would increase federal support for tutoring, literacy instruction and career and technical education in schools.",
+          "quote": "I'll support better funding for tutoring and proven literacy programs, so every child learns to read on time and graduates ready for college or a good career.",
+          "sourceUrl": "https://www.vo4congress.com",
+          "agreement": "3/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Said he would support law enforcement, increase penalties for fentanyl trafficking and fund police and federal-agent training and equipment.",
+          "quote": "I'll always back law enforcement and work to strengthen trust with standards that work for both local and federal authorities",
+          "sourceUrl": "https://www.vo4congress.com",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Called for secure borders and faster asylum decisions while also supporting modernization of legal immigration and faster visa processing.",
+          "quote": "I'll support secure borders and faster asylum decisions, paired with better training and resources for agents so enforcement is effective, safe, and professional.",
+          "sourceUrl": "https://www.vo4congress.com",
+          "agreement": "8/10"
+        }
+      }
+    }
+  ],
+  "sources": "derektranforcongress.com · yourreprecord.org · tran.house.gov · atr.org · latimes.com · vo4congress.com",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

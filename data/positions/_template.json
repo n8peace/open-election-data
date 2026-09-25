@@ -1,0 +1,25 @@
+{
+  "$schema": "../positions.schema.json",
+  "office": "State Senate",
+  "district": "District 14",
+  "division": "tx/sldu-14",
+  "kind": "candidate",
+  "issues": ["tax", "housing", "schools"],
+  "choices": [
+    {
+      "name": "Candidate Full Name",
+      "party": "Party as listed on the ballot",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Voted for the 2025 bill allowing apartments near transit.",
+          "quote": "exact words copied from the source",
+          "sourceUrl": "https://example.com/where-the-quote-is"
+        }
+      }
+    }
+  ],
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

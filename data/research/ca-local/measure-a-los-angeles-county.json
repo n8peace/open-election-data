@@ -1,0 +1,18 @@
+{
+  "office": "Measure A",
+  "district": "Los Angeles County",
+  "division": "ca/county-los-angeles",
+  "kind": "measure",
+  "summary": "A Yes vote amends the Los Angeles County Charter to prohibit strikes by certified public safety employees and their supervisors, reiterate good-faith negotiation obligations, and establish an impartial binding arbitration process for resolving their labor disputes.",
+  "issues": [
+    "wages"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

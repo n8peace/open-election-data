@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 50",
+  "division": "ca/sldl-50",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Robert Garcia",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Victoria Viveros Mageno",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

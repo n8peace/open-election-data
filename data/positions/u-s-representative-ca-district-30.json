@@ -1,0 +1,176 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 30",
+  "division": "ca/cd-30",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Laura Friedman",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She co-leads the Raise the Wage Act of 2025 to raise the federal minimum wage and has a long record of backing minimum-wage increases and labor.",
+          "quote": "raises the minimum wage and empowers more American workers",
+          "sourceUrl": "https://friedman.house.gov/media/press-releases/release-congresswoman-friedman-marks-productive-first-year-congress",
+          "agreement": "7/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "She criticized new tariffs as driving up everyday costs for families.",
+          "quote": "massive new tariffs that would raise everyday costs",
+          "sourceUrl": "https://friedman.house.gov/standing-our-values",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "A self-described YIMBY who leads House Democrats' housing affordability effort, she pushes to cut red tape and build more homes.",
+          "quote": "the red tape holding Angelenos back from being able to afford a roof over their heads",
+          "sourceUrl": "https://friedman.house.gov/media/press-releases/release-congresswoman-friedman-convenes-2nd-meeting-housing-advisory-committee",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She backs restoring oversight and civil rights protections to immigration enforcement and co-leads the No Masks for ICE Act.",
+          "quote": "Restores oversight and civil rights protections to immigration enforcement.",
+          "sourceUrl": "https://friedman.house.gov/standing-our-values",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She led gun-violence-prevention efforts in the Assembly and holds Giffords and Gun Sense Voter endorsements.",
+          "quote": "she led efforts to combat climate change, prevent gun violence, protect reproductive freedom, defend the LGBTQ+ community, and expand housing affordability",
+          "sourceUrl": "https://www.lauraforcongress.org/",
+          "agreement": "5/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She affirms a right to abortion care and leads legislation to restore Medicaid funding to Planned Parenthood.",
+          "quote": "Every person has the basic right to emergency health care, including abortion care.",
+          "sourceUrl": "https://friedman.house.gov/standing-our-values",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "Opposed policies targeting transgender people, including restrictions on gender-affirming care and transgender service members.",
+          "quote": "Friedman has also taken the administration to task on its attacks on the transgender community, and has taken action to oppose the elimination of life-saving gender affirming care, restrictive passport gender markers, and the ban on transgender service members.",
+          "sourceUrl": "https://friedman.house.gov/media/press-releases/release-congresswoman-friedman-convenes-lgbtq-advisory-committee",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She opposed Republican Medicaid cuts and has co-authored single-payer healthcare legislation.",
+          "quote": "condemning Americans to higher healthcare costs and less access to healthcare",
+          "sourceUrl": "https://friedman.house.gov/media/press-releases/release-congresswoman-friedman-planned-parenthood-announce-legislation-restore",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "A career climate legislator, she affirms the need to confront the climate crisis and opposed withdrawing from the Paris Agreement.",
+          "quote": "this resolution affirms the need for global cooperation to confront the climate crisis and protect our planet",
+          "sourceUrl": "https://friedman.house.gov/standing-our-values",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Criticized proof-of-citizenship mandates and restrictions on mail voting as measures that make voting harder for eligible Americans.",
+          "quote": "While our election security infrastructure is being dismantled, this administration is simultaneously making it harder for eligible Americans to vote — pushing proof-of-citizenship mandates, demanding voter rolls from states, restricting mail-in voting, and threatening federal enforcement at polling places,",
+          "sourceUrl": "https://friedman.house.gov/media/press-releases/release-rep-friedman-joins-shadow-hearing-protecting-american-democracy",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Scott Alan Meyers",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Meyers' campaign platform calls for lower taxes and less federal spending as core affordability commitments.",
+          "quote": "Fight for lower taxes and pro-growth policies",
+          "sourceUrl": "https://www.meyersforcongress.com/issues.html",
+          "agreement": "4/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "He backs trade policies aimed at keeping American entertainment-industry jobs in the U.S.",
+          "quote": "Support tax and trade policies that keep American entertainment jobs in America",
+          "sourceUrl": "https://www.meyersforcongress.com/issues.html",
+          "agreement": "3/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He wants to cut regulations he says drive up housing costs.",
+          "quote": "Cut regulatory red tape that drives up housing and small business costs",
+          "sourceUrl": "https://www.meyersforcongress.com/issues.html",
+          "agreement": "3/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He calls for supporting law enforcement and restoring criminal consequences.",
+          "quote": "Support law enforcement and restore consequences for crime",
+          "sourceUrl": "https://www.meyersforcongress.com/issues.html",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supports securing the southern border, aggressive drug-trafficking enforcement, and opposing sanctuary policies.",
+          "quote": "Support strong leadership to secure the southern border",
+          "sourceUrl": "https://www.meyersforcongress.com/issues.html",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He backs American energy independence framed as a way to reduce gas and utility costs.",
+          "quote": "Support American energy independence to lower gas and utility costs",
+          "sourceUrl": "https://www.meyersforcongress.com/issues.html",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "He supports voter ID requirements and proof-of-citizenship measures like the SAVE Act.",
+          "quote": "Confidence in elections is foundational to democracy.",
+          "sourceUrl": "https://www.meyersforcongress.com/issues.html",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "friedman.house.gov · lauraforcongress.org · meyersforcongress.com",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

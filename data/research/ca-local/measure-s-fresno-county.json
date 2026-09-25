@@ -1,0 +1,18 @@
+{
+  "office": "Measure S",
+  "district": "Fresno County",
+  "division": "ca/county-fresno",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a countywide sales tax to fund transportation improvements under the Fresno County Transportation Improvement Act.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

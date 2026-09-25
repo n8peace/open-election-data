@@ -1,0 +1,18 @@
+{
+  "office": "Measure G",
+  "district": "City and County of San Francisco",
+  "division": "ca/place-city-and-county-of-san-francisco",
+  "kind": "measure",
+  "summary": "A Yes vote allows private vehicles on the portion of the Great Highway within Sunset Dunes Park.",
+  "issues": [
+    "transit"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

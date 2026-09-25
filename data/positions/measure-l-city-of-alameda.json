@@ -1,0 +1,41 @@
+{
+  "office": "Measure L",
+  "district": "City of Alameda",
+  "division": "ca/place-alameda",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes $300 million in general obligation bonds, repaid at an estimated $49 per $100,000 of assessed value, to fund flood and sea-level-rise protection, street repair, stormwater infrastructure, and emergency-response facilities.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would approve a $300 million bond funded by a property tax to address infrastructure and public-safety needs.",
+          "quote": "If passed, property owners would pay approximately $49 per year for every $100,000 of assessed value",
+          "sourceUrl": "https://www.alamedaca.gov/strongertogether",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote rejects the $300 million general obligation bond, which would charge property owners approximately $49 annually for every $100,000 of assessed value.",
+          "quote": "It would cost property owners an estimated $49 annually per $100,000 of assessed value.",
+          "sourceUrl": "https://alamedapost.com/news/alameda-candidates-outline-differences-on-affordability-housing-infrastructure-public-safety/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "alamedaca.gov · alamedapost.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

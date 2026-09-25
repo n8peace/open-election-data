@@ -1,0 +1,16 @@
+{
+  "office": "Measure U",
+  "district": "City of Livingston",
+  "division": "ca/place-livingston",
+  "kind": "measure",
+  "summary": "A Yes vote changes the Livingston City Treasurer from an elected position to one appointed by the City.",
+  "issues": [],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

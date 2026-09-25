@@ -1,0 +1,19 @@
+{
+  "office": "Measure H",
+  "district": "Red Bluff Joint Union High School District",
+  "division": "ca/school-red-bluff-joint-union-high",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue up to $19,000,000 in general obligation bonds for school facility projects, repaid by an ad valorem property tax estimated at $19 per $100,000 of assessed value.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

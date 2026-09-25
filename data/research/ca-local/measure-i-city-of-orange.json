@@ -1,0 +1,18 @@
+{
+  "office": "Measure I",
+  "district": "City of Orange",
+  "division": "ca/place-orange",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a one-cent (1%) transactions and use (sales) tax in the City of Orange for 13 years to fund general city services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

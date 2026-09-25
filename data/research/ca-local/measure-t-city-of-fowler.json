@@ -1,0 +1,18 @@
+{
+  "office": "Measure T",
+  "district": "City of Fowler",
+  "division": "ca/place-fowler",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a City of Fowler transactions and use (sales) tax.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

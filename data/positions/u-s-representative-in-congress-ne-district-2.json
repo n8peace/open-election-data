@@ -1,0 +1,206 @@
+{
+  "office": "U.S. Representative in Congress",
+  "district": "NE District 2",
+  "division": "ne/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Brinker Harding",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Harding says he voted three times to lower Omaha’s property-tax levy.",
+          "quote": "On the City Council, I have voted to lower Omaha’s property tax levy three times.",
+          "sourceUrl": "https://www.brinkerharding.com/about",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Harding's platform pledges to protect Social Security, Medicaid, and Medicare, though limited to citizens rather than illegal immigrants or able-bodied adults.",
+          "quote": "Protect critical programs like Social Security, Medicaid, and Medicare for single moms, veterans, the elderly, and disabled",
+          "sourceUrl": "https://www.brinkerharding.com/vision",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Harding highlights giving Omaha police a record pay raise rather than reducing police funding.",
+          "quote": "We didn’t defund our police, we gave them the record pay raise they deserve.",
+          "sourceUrl": "https://www.brinkerharding.com/about",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Harding's platform calls for deporting immigrants in the country illegally who commit violent crimes.",
+          "quote": "Deport criminal illegal immigrants who commit violent crimes",
+          "sourceUrl": "https://www.brinkerharding.com/vision",
+          "agreement": "3/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "In a candidate survey, Harding answered yes when asked if he supports barring males from girls' sports and women's restrooms and locker rooms.",
+          "quote": "Do you support legislation prohibiting men from playing in girls' sports and using women's restrooms and locker rooms?",
+          "sourceUrl": "https://nebraskavoterguide.com/candidates/brinker-harding",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Harding's platform supports year-round E-15 ethanol sales to lower gas prices and support Nebraska agriculture.",
+          "quote": "Pass year-round E-15 to help lower gas prices and support Nebraska agriculture",
+          "sourceUrl": "https://www.brinkerharding.com/vision",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Harding's platform calls for passing nationwide voter ID requirements.",
+          "quote": "Pass nationwide Voter ID to ensure only American citizens can vote",
+          "sourceUrl": "https://www.brinkerharding.com/vision",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Denise Powell",
+      "party": "Democratic",
+      "stances": {
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Powell opposes the administration’s broad tariff policies but supports targeted tariffs on certain agricultural imports.",
+          "quote": "Work to use tariffs to protect American farmers by targeting specific imported goods (like beef and soy beans) to boost domestic prices while using them as leverage to secure better trade deals and market access abroad.",
+          "sourceUrl": "https://deniseforcongress.org/priorities/",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Powell promises to protect Social Security while also managing federal deficits and debt.",
+          "quote": "Protect Social Security at all costs to ensure the promise of a secure and dignified retirement for all Nebraskans.",
+          "sourceUrl": "https://deniseforcongress.org/priorities/",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Powell supports building more affordable housing for first-time buyers and middle-class families.",
+          "quote": "Build more high-quality, affordable housing that is attainable for first-time homebuyers and middle-class families.",
+          "sourceUrl": "https://deniseforcongress.org/priorities/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports investing in public schools, childcare, community colleges, universities, and vocational programs.",
+          "quote": "I won’t let that stand. We can’t fuel American innovation if we’re not investing in a strong educational system",
+          "sourceUrl": "https://deniseforcongress.org/priorities/",
+          "agreement": "3/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Powell supports funding police departments alongside social workers, mental-health support and community interventions.",
+          "quote": "Fully fund our police departments, providing access to training and mental health support for our officers, and investing in social workers to help expand the way we address the needs of our communities.",
+          "sourceUrl": "https://deniseforcongress.org/priorities/",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Powell supports border-security resources while calling for citizenship pathways for long-term immigrants and Dreamers.",
+          "quote": "Work to create a fair path to citizenship for long term immigrants who have worked and paid taxes for decades as essential workers and Dreamers, and create legal avenues for workers needed to fill Nebraska’s essential roles in industries like agriculture, manufacturing, healthcare and hospitality.",
+          "sourceUrl": "https://deniseforcongress.org/priorities/",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Powell supports universal background checks, red-flag laws and community violence-intervention programs.",
+          "quote": "Save lives from gun violence by ensuring universal background checks to prevent convicted felons and gang members from obtaining guns, red flag laws to keep guns out of the hands of domestic abusers, and fund community violence intervention programs.",
+          "sourceUrl": "https://deniseforcongress.org/priorities/",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Powell says she would work to restore Roe v. Wade into federal law.",
+          "quote": "Protect abortion rights for Nebraska women by fighting to restore Roe v. Wade into law nationwide.",
+          "sourceUrl": "https://deniseforcongress.org/priorities/",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Powell supports creating a Medicare-like public option while preserving private insurance for people who want it.",
+          "quote": "Work to create a Medicare-like public option that gives every American the choice of affordable coverage while protecting private insurance for those who want it.",
+          "sourceUrl": "https://deniseforcongress.org/priorities/",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Powell supports expanding clean energy production to cut costs and protect the environment.",
+          "quote": "Expand clean energy production to bring down costs in the short term while protecting our environment in the long run.",
+          "sourceUrl": "https://deniseforcongress.org/priorities/",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "Eric Michael Foreman",
+      "party": "Libertarian",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Foreman's campaign platform calls for lower taxes for working families alongside free markets and reduced spending.",
+          "quote": "lower taxes for working families, and responsible budgeting",
+          "sourceUrl": "https://foremantakebackourhouse.com/platform",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Foreman repeatedly criticizes rising federal debt and spending and calls for cutting spending and responsible budgeting.",
+          "quote": "Both parties keep growing government, increasing debt, and weakening the value",
+          "sourceUrl": "https://foremantakebackourhouse.com/platform",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "Foreman said that protecting Second Amendment rights is among the principles for which he stands.",
+          "quote": "As a Libertarian, he said he stands for individual liberty, limited government, fiscal responsibility, strong borders, Second Amendment rights and peace over foreign entanglements.",
+          "sourceUrl": "https://nebraskapublicmedia.org/en/news/news-articles/heres-whos-running-in-nebraskas-crowded-2nd-district-house-race/",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "brinkerharding.com · nebraskavoterguide.com · deniseforcongress.org · foremantakebackourhouse.com · nebraskapublicmedia.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,95 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 31",
+  "division": "ca/sldl-31",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Annalisa Perea",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Perea's housing platform calls for building more homes so families can afford to live where they work, and she is endorsed by California YIMBY.",
+          "quote": "Build more housing so every family can afford to live where they work",
+          "sourceUrl": "https://www.pereaforassembly.com/news/housing-shouldnt-cost-a-fortune",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Perea sponsored a city ordinance allowing Fresno to penalize jurisdictions that transport members of their homeless populations to Fresno.",
+          "quote": "A city ordinance to allow Fresno to penalize jurisdictions for transporting members of their local homeless population to Fresno",
+          "sourceUrl": "https://fresnoland.org/2026/01/01/fresno-government-year-in-review-2025/",
+          "agreement": "3/5"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "lean",
+          "text": "Perea sponsored a resolution urging the state to deny parole for a convicted serial rapist.",
+          "quote": "A resolution approved by all councilmembers urging the state to deny parole for a convicted serial rapist",
+          "sourceUrl": "https://fresnoland.org/2026/01/01/fresno-government-year-in-review-2025/",
+          "agreement": "3/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Perea, who identifies as part of the LGBTQ+ community, says she will prioritize advancing LGBTQ+ equality statewide.",
+          "quote": "I will prioritize protecting civil rights, safeguarding reproductive freedom, and advancing LGBTQ+ equality statewide to ensure every Californian is treated with dignity and has the opportunity to succeed.",
+          "sourceUrl": "https://www.pereaforassembly.com/news/fresno-stonewall-democrats-endorse-annalisa-perea-for-state-assembly",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Jim Polsgrove",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Polsgrove says he supports lower taxes and protecting taxpayers.",
+          "quote": "I stand for stronger border security, law enforcement, less debt and lower taxes.",
+          "sourceUrl": "https://www.polsgrove4calif.com/",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Polsgrove lists law enforcement among the things he stands for and emphasizes reducing crime.",
+          "quote": "I stand for stronger border security, law enforcement, less debt and lower taxes.",
+          "sourceUrl": "https://www.polsgrove4calif.com/",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Polsgrove says he stands for stronger border security.",
+          "quote": "I stand for stronger border security, law enforcement, less debt and lower taxes.",
+          "sourceUrl": "https://www.polsgrove4calif.com/",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "pereaforassembly.com · fresnoland.org · polsgrove4calif.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

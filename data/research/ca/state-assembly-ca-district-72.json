@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 72",
+  "division": "ca/sldl-72",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Chris Kluwe",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Gracey Van Der Mark",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

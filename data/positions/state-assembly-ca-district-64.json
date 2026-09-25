@@ -1,0 +1,87 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 64",
+  "division": "ca/sldl-64",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Blanca Pacheco",
+      "party": "Democratic",
+      "stances": {
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Pacheco pledges to invest more in public schools so students receive a quality education.",
+          "quote": "invest more in public schools to ensure our students receive a world class education",
+          "sourceUrl": "https://downeylatinonews.com/en/2022/01/blanca-pacheco-launches-state-assembly-campaign/",
+          "agreement": "3/10"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "lean",
+          "text": "Introduced AB 352, which would make threats against judges an aggravating factor at sentencing.",
+          "quote": "making threats against judges an aggravating factor at sentencing",
+          "sourceUrl": "https://ivn.us/before-a-california-bill-gets-a-vote-it-has-to-get-past-blanca-pacheco/",
+          "agreement": "3/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Pacheco says the state must protect reproductive health care access and rights.",
+          "quote": "we must protect reproductive healthcare access and rights",
+          "sourceUrl": "https://www.pachecoforassembly.com/priorities",
+          "agreement": "4/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Pacheco pledges to urgently address the climate crisis while protecting air and water.",
+          "quote": "urgently address the climate crisis and ensure affordable and accessible healthcare for every Californian",
+          "sourceUrl": "https://downeylatinonews.com/en/2022/01/blanca-pacheco-launches-state-assembly-campaign/",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Raul Ortiz Jr.",
+      "party": "Republican",
+      "stances": {
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Ortiz says he would support law and order and safer communities.",
+          "quote": "Ensure Public Safety by Supporting Law and Order",
+          "sourceUrl": "https://raulortizforassembly.com/about",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "Ortiz says protecting the nation’s borders is one of his campaign priorities.",
+          "quote": "Protecting our Borders",
+          "sourceUrl": "https://raulortizforassembly.com/",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "downeylatinonews.com · ivn.us · pachecoforassembly.com · raulortizforassembly.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

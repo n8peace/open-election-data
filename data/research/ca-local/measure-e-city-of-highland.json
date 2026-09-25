@@ -1,0 +1,18 @@
+{
+  "office": "Measure E",
+  "district": "City of Highland",
+  "division": "ca/place-highland",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a City of Highland transactions and use (sales) tax.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

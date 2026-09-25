@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 10",
+  "division": "ca/cd-10",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Mark DeSaulnier",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Jeff Frese",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

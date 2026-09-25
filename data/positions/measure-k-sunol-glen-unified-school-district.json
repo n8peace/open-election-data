@@ -1,0 +1,33 @@
+{
+  "office": "Measure K",
+  "district": "Sunol Glen Unified School District",
+  "division": "ca/school-sunol-glen-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes $6.1 million in general obligation bonds, repaid at an estimated $35 per $100,000 of assessed value, to fund campus building repairs and infrastructure improvements.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "The Yes campaign backs the bond to invest in facilities at Sunol Glen's district public school, calling it an investment in the school and community.",
+          "quote": "When we invest in the infrastructure of our school, of course we get a building",
+          "sourceUrl": "https://www.pleasantonweekly.com/sunol/2026/09/15/sunol-residents-set-to-consider-6-1-million-measure-k-school-bond-this-november/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "pleasantonweekly.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

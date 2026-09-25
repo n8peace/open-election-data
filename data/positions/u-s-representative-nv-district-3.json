@@ -1,0 +1,197 @@
+{
+  "office": "U.S. Representative",
+  "district": "NV District 3",
+  "division": "nv/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jon Kamerath",
+      "party": "IAP",
+      "stances": {}
+    },
+    {
+      "name": "Susie Lee",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Lee opposed raising federal tax rates and said she supports exempting tips and overtime from taxation.",
+          "quote": "I support policies like no tax on tips and no tax on overtime",
+          "sourceUrl": "https://thenevadaindependent.com/article/where-do-the-candidates-for-nevadas-most-competitive-house-seat-stand-on-the-issues",
+          "agreement": "3/3"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Lee said President Trump’s tariffs harmed Nevada through reduced tourism and higher home costs.",
+          "quote": "Lee: Yes. Lee blamed tariffs for the sharp decline in Canadian tourists visiting Las Vegas last year and the general tourism slump, as well as for higher home costs .",
+          "sourceUrl": "https://thenevadaindependent.com/article/where-do-the-candidates-for-nevadas-most-competitive-house-seat-stand-on-the-issues",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Lee opposed raising the Social Security retirement age and supported addressing the program’s finances without cutting benefits.",
+          "quote": "She supports solutions that don't involve cutting benefits",
+          "sourceUrl": "https://thenevadaindependent.com/article/where-do-the-candidates-for-nevadas-most-competitive-house-seat-stand-on-the-issues",
+          "agreement": "3/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Lee supported legislation intended to increase housing supply and lower housing costs.",
+          "quote": "We need to build more housing families can afford.",
+          "sourceUrl": "https://susielee.house.gov/issues/housing",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Lee introduced legislation to fully fund federal programs for public school districts and support wraparound services in public schools.",
+          "quote": "I introduced legislation to fully fund Title I and the Individuals with Disabilities Education Act.",
+          "sourceUrl": "https://susielee.house.gov/issues/students-education",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Supported bipartisan immigration reform that would strengthen border security and provide earned legal-status pathways, while supporting deportation for immigrants who commit crimes.",
+          "quote": "Lee noted her support for the Dignity Act , a bipartisan immigration reform bill that aims to strengthen border security and provide earned pathways to legal status for many individuals, including Dreamers.",
+          "sourceUrl": "https://thenevadaindependent.com/article/where-do-the-candidates-for-nevadas-most-competitive-house-seat-stand-on-the-issues",
+          "agreement": "2/3"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Lee said she helped pass the Bipartisan Safer Communities Act and supports additional gun-safety measures.",
+          "quote": "I worked across the aisle to pass the historic Bipartisan Safer Communities Act. But it is not enough.",
+          "sourceUrl": "https://susielee.house.gov/media/press-releases/congresswoman-lee-statement-8th-anniversary-1-october-mass-shooting",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Lee supports codifying Roe-era protections and protecting access to abortion and other reproductive health care.",
+          "quote": "I won’t rest until every woman has the freedom to make private reproductive and health care decisions about her own body.",
+          "sourceUrl": "https://susielee.house.gov/issues/womens-rights",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Lee supported extending Affordable Care Act premium tax credits and opposed Medicaid cuts.",
+          "quote": "Lee: Yes. Lee co-sponsored a bipartisan bill to extend the tax credits",
+          "sourceUrl": "https://thenevadaindependent.com/article/where-do-the-candidates-for-nevadas-most-competitive-house-seat-stand-on-the-issues",
+          "agreement": "2/3"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Lee said she is working to combat climate change and expand clean-energy production, including through the Inflation Reduction Act.",
+          "quote": "I’m doing everything possible to protect our public lands and parks, combat climate change, and build our clean energy economy.",
+          "sourceUrl": "https://susielee.house.gov/issues/energy-public-lands",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Lee opposed the SAVE America Act, arguing that its proof-of-citizenship requirements would disenfranchise voters and create barriers to registration.",
+          "quote": "She called the bill \"an attempt by the Trump administration to disenfranchise millions of Americans,\"",
+          "sourceUrl": "https://thenevadaindependent.com/article/where-do-the-candidates-for-nevadas-most-competitive-house-seat-stand-on-the-issues",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Marty O'Donnell",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "O'Donnell has pledged to oppose income-tax increases and called for reducing federal program budgets.",
+          "quote": "We cannot continue to spend like drunken sailors. We can't continue to increase the budgets and tax the people. It's just unacceptable.",
+          "sourceUrl": "https://www.foxnews.com/politics/revenge-normies-halo-veteran-turned-candidate-pitches-outsider-revolt-nevada-swing-district",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "O'Donnell said tariffs can protect national security, support U.S. jobs and help American businesses.",
+          "quote": "President Trump uses tariffs as a form of diplomacy to level the playing field on trade or to protect our national security,” O'Donnell wrote.",
+          "sourceUrl": "https://thenevadaindependent.com/article/where-do-the-candidates-for-nevadas-most-competitive-house-seat-stand-on-the-issues",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "O’Donnell opposed raising the Social Security retirement age above 67 and said the national debt should be addressed without leaving holes in social safety nets.",
+          "quote": "O'Donnell: No. O'Donnell's campaign website emphasizes the need to address the national debt to avoid leaving social safety nets \"with giant holes in them.\"",
+          "sourceUrl": "https://thenevadaindependent.com/article/where-do-the-candidates-for-nevadas-most-competitive-house-seat-stand-on-the-issues?",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "O'Donnell supports unlocking federal land for development to increase housing supply and reduce housing costs.",
+          "quote": "We need to unlock federal land for development, but we should do it over a shorter period of time than this bill allows,” O'Donnell said.",
+          "sourceUrl": "https://thenevadaindependent.com/article/where-do-the-candidates-for-nevadas-most-competitive-house-seat-stand-on-the-issues",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "O’Donnell said undocumented immigrants who commit additional crimes while in the United States should be deported.",
+          "quote": "All illegal immigrants who have committed additional crimes while in the United States should be deported",
+          "sourceUrl": "https://thenevadaindependent.com/article/where-do-the-candidates-for-nevadas-most-competitive-house-seat-stand-on-the-issues?",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "O’Donnell said that allowing boys to participate in girls’ sports should stop.",
+          "quote": "You know, transing your kids, boys in girls' sports, having open borders, the ever-growing federal government and fraud, that all has to stop",
+          "sourceUrl": "https://www.foxnews.com/politics/revenge-normies-halo-veteran-turned-candidate-pitches-outsider-revolt-nevada-swing-district",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "O'Donnell opposes reinstating enhanced Affordable Care Act subsidies and calls for broader health care reform instead.",
+          "quote": "Reinstating these subsidies won't fix our healthcare system that Democrats broke,",
+          "sourceUrl": "https://thenevadaindependent.com/article/where-do-the-candidates-for-nevadas-most-competitive-house-seat-stand-on-the-issues",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "O'Donnell supported passage of the SAVE America Act, which would require proof of citizenship for federal voter registration.",
+          "quote": "O'Donnell: Yes.",
+          "sourceUrl": "https://thenevadaindependent.com/article/where-do-the-candidates-for-nevadas-most-competitive-house-seat-stand-on-the-issues",
+          "agreement": "7/10"
+        }
+      }
+    }
+  ],
+  "sources": "thenevadaindependent.com · susielee.house.gov · foxnews.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

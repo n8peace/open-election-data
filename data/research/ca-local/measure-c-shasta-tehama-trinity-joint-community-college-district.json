@@ -1,0 +1,19 @@
+{
+  "office": "Measure C",
+  "district": "Shasta-Tehama-Trinity Joint Community College District",
+  "division": "ca/school-shasta-tehama-trinity-joint-community-college-district",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue up to $129,630,000 in general obligation bonds for college facilities, classrooms, and equipment, repaid by an ad valorem property tax estimated at $7.76 per $100,000 of assessed value.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

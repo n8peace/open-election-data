@@ -1,0 +1,18 @@
+{
+  "office": "Measure Y",
+  "district": "City of Woodland",
+  "division": "ca/place-woodland",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a one-cent transactions and use (sales) tax in the City of Woodland, generating approximately $16 million annually for the city general fund.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

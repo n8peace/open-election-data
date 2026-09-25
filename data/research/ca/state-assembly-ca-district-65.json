@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 65",
+  "division": "ca/sldl-65",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Ayanna Davis",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Lydia A. Gutiérrez",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

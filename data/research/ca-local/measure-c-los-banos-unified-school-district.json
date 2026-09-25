@@ -1,0 +1,19 @@
+{
+  "office": "Measure C",
+  "district": "Los Banos Unified School District",
+  "division": "ca/school-los-banos-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue bonds repaid by property taxes within the district.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

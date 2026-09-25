@@ -1,0 +1,24 @@
+{
+  "office": "Measure Q",
+  "district": "Oroville City Elementary School District",
+  "division": "ca/school-oroville-city-elementary",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue up to $16,000,000 in general obligation bonds to repair, upgrade, replace, and construct school facilities, repaid by a property tax estimated at $16.28 per $100,000 of assessed value.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {}
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

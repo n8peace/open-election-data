@@ -1,0 +1,18 @@
+{
+  "office": "State Senate",
+  "district": "CA District 6",
+  "division": "ca/sldu-6",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Sean Frame",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Roger Niello",
+      "party": "Republican",
+      "incumbent": true
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 22",
+  "division": "ca/cd-22",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "David G. Valadao",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Valadao voted for the 2025 One Big Beautiful Bill Act extending and expanding the 2017 tax cuts, touting lower taxes for families.",
+          "quote": "These are real wins that will put more money back in the pockets of hardworking Central Valley families.",
+          "sourceUrl": "https://www.yahoo.com/news/closely-watched-vote-fong-valadao-035900785.html",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Valadao led a bipartisan effort to eliminate Japanese tariffs on frozen blueberries exported from the United States.",
+          "quote": "U.S. frozen blueberries receive the same duty-free market access in Japan as fresh or dried blueberries, as well as other frozen berries",
+          "sourceUrl": "https://valadao.house.gov/news/documentsingle.aspx?DocumentID=662",
+          "agreement": "3/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "His campaign says the nation's finances require reexamining the future of Social Security and Medicare.",
+          "quote": "Our nation's financial situation requires that we carefully examine the future of programs our seniors depend upon like Medicare and Social Security.",
+          "sourceUrl": "https://valadaoforcongress.com/issues/",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Valadao supported federal housing legislation and secured funding to construct 36 affordable senior-housing units in Bakersfield.",
+          "quote": "Improving affordability is one of my top priorities, which is why I was proud to support bills like the Housing for the 21st Century Act",
+          "sourceUrl": "https://valadao.house.gov/news/email/show.aspx?ID=J52DPGRLNILDY",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Valadao co-sponsored legislation funding training, safety resources and mental-health services for small police departments.",
+          "quote": "We must increase our investment in public safety and make sure our existing law enforcement officers know they have our support.",
+          "sourceUrl": "https://valadao.house.gov/news/documentsingle.aspx?DocumentID=673",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Valadao backs both tougher border security and protections and legal status for Dreamers and farm workers, a mixed stance.",
+          "quote": "I am proud to protect our Dreamers. My Congressional District is home to more than 7,000 DACA recipients.",
+          "sourceUrl": "https://valadao.house.gov/news/documentsingle.aspx?DocumentID=82",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Valadao voted against expanding background checks and backs concealed-carry reciprocity, opposing new gun restrictions.",
+          "quote": "Voted NO on background checks for private transfers.",
+          "sourceUrl": "https://www.ontheissues.org/CA/David_Valadao_Gun_Control.htm",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Valadao favors market-based competition in health care and has voted to repeal the Affordable Care Act.",
+          "quote": "Market-based competition is best health care solution",
+          "sourceUrl": "https://www.ontheissues.org/CA/David_Valadao_Health_Care.htm",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "His campaign blames regulation and litigation for blocking energy development and raising costs, favoring more domestic production.",
+          "quote": "red tape and frivolous litigation is blocking the development of America's energy resources, killing jobs and slamming families with sky-high energy costs.",
+          "sourceUrl": "https://valadaoforcongress.com/issues/",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Valadao supports requiring citizenship documentation for federal voter registration and identification with mail ballots.",
+          "quote": "This bill simply requires that states obtain proof of an individual’s citizenship status when they register to vote in federal elections.",
+          "sourceUrl": "https://valadao.house.gov/news/email/show.aspx?ID=MPXC577ZDJPN6",
+          "agreement": "3/10"
+        }
+      }
+    },
+    {
+      "name": "Randy Villegas",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Villegas calls for raising government revenue by taxing the wealthiest to fund breaks and services for working families.",
+          "quote": "The most effective and fair way to increase government revenue is to tax the top 1% of income earners and wealth holders, and give working families the break we've earned.",
+          "sourceUrl": "https://www.villegasforcongress.com/issues/jobs-the-economy",
+          "agreement": "7/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He argues the federal minimum wage should be far higher, noting it would be $25 an hour if it had tracked productivity.",
+          "quote": "if the minimum wage kept up with worker productivity over the past 50 years, it would be $25 an hour. Instead, it's just $7.25.",
+          "sourceUrl": "https://www.villegasforcongress.com/issues/healthcare",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He criticizes tariffs for harming Central Valley farmers and small businesses.",
+          "quote": "But angering our trading partners with frivolous tariffs has killed the revenue of farmers, and small businesses across the country.",
+          "sourceUrl": "https://www.villegasforcongress.com/issues/jobs-the-economy",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Under a section titled 'Protect Social Security,' he stresses safeguarding seniors' fixed incomes against inflation.",
+          "quote": "Ask someone with a fixed Social Security income and they'll tell you: their check doesn't go as far as it used to.",
+          "sourceUrl": "https://www.villegasforcongress.com/issues/healthcare",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He backs a large federal program to build a large amount of new affordable housing nationwide.",
+          "quote": "We need an ambitious federal program to build an abundance of affordable and safe housing across the country, creating hundreds of thousands of well-paid union jobs in the process.",
+          "sourceUrl": "https://www.villegasforcongress.com/issues/housing",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He emphasizes investing in public school teachers, staff, and smaller class sizes.",
+          "quote": "Teachers and education staff deserve salaries they can plan for a future with, and classroom sizes small enough to steward every child's development.",
+          "sourceUrl": "https://www.villegasforcongress.com/issues/education-training",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports a path to citizenship for undocumented immigrants and opposes blanket detention and deportation.",
+          "quote": "We need a working system that protects our communities while providing a path to citizenship so our undocumented neighbors, friends and coworkers aren't forced to live in the shadows.",
+          "sourceUrl": "https://www.villegasforcongress.com/issues/immigration-1",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "He supports gun-safety measures intended to prevent violence and keep dangerous weapons from people who should not have them.",
+          "quote": "That is why he supports commonsense gun safety measures that can help prevent violence before it happens and keep dangerous weapons out of the wrong hands.",
+          "sourceUrl": "https://giffords.org/candidates/randy-villegas/",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He calls healthcare a human right and is a strong supporter of Medicare for All.",
+          "quote": "I believe healthcare is a human right, and am a strong supporter of Medicare for All.",
+          "sourceUrl": "https://www.villegasforcongress.com/issues/immigration",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "He warns that worsening climate change threatens food, water, and livable temperatures and calls for action.",
+          "quote": "We're seeing record heat, year after year. If nothing changes, our food, water, and livable temperatures are all at risk.",
+          "sourceUrl": "https://www.villegasforcongress.com/issues/environment",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "yahoo.com · valadao.house.gov · valadaoforcongress.com · ontheissues.org · villegasforcongress.com · giffords.org",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

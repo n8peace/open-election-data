@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "AL District 5",
+  "division": "al/cd-5",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Dale W. Strong",
+      "party": "Republican"
+    },
+    {
+      "name": "Andrew Sneed",
+      "party": "Democrat"
+    }
+  ]
+}

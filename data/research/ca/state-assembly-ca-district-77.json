@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 77",
+  "division": "ca/sldl-77",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Tasha Boerner",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Trinity Hannaway",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

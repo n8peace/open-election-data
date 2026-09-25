@@ -1,0 +1,19 @@
+{
+  "office": "Measure N",
+  "district": "Sylvan Union School District",
+  "division": "ca/school-sylvan-union",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Sylvan Union School District to issue up to $70 million in general obligation bonds, repaid through property taxes, to repair and upgrade elementary and middle school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

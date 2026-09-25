@@ -1,0 +1,54 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 25",
+  "division": "ca/sldl-25",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Ash Kalra",
+      "party": "Democratic",
+      "stances": {
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Kalra authored AB 1440 declaring that ICE and CBP agents are not state-licensed peace officers, saying California should protect all residents regardless of immigration status.",
+          "quote": "in California, law enforcement officers are sworn to protect all residents, regardless of their immigration status",
+          "sourceUrl": "https://www.courthousenews.com/california-bans-ice-masquerading-police-officers/",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Kalra authored California's single-payer health care legislation (CalCare) and lists leading the fight for a single-payer system among his top priorities.",
+          "quote": "Leading the fight for a single-payer health care system to ensure comprehensive, high-quality health care for all Californians",
+          "sourceUrl": "https://www.ashkalra.com/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Himat Singh Bainiwal",
+      "party": "Republican",
+      "stances": {}
+    }
+  ],
+  "sources": "courthousenews.com · ashkalra.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

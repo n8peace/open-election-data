@@ -1,0 +1,19 @@
+{
+  "office": "Measure I",
+  "district": "Carmel Unified School District",
+  "division": "ca/school-carmel-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue $250 million in bonds for school facilities, repaid by a property tax of about $36 per $100,000 of assessed value.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

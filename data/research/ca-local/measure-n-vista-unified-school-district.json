@@ -1,0 +1,19 @@
+{
+  "office": "Measure N",
+  "district": "Vista Unified School District",
+  "division": "ca/school-vista-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Vista Unified School District to issue up to $543,000,000 in general obligation bonds to repair and upgrade classrooms, science labs, and school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

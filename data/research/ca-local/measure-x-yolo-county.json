@@ -1,0 +1,18 @@
+{
+  "office": "Measure X",
+  "district": "Yolo County",
+  "division": "ca/county-yolo",
+  "kind": "measure",
+  "summary": "A Yes vote increases the transient occupancy (hotel) tax in the unincorporated area of Yolo County from 8% to 12%, with revenue going to the county general fund.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

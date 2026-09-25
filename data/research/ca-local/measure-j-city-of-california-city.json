@@ -1,0 +1,18 @@
+{
+  "office": "Measure J",
+  "district": "City of California City",
+  "division": "ca/place-california",
+  "kind": "measure",
+  "summary": "A Yes vote raises California City's transient occupancy (hotel) tax from 6% to 10% for general government use, with no set expiration date.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

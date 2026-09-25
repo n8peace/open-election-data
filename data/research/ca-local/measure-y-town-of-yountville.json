@@ -1,0 +1,18 @@
+{
+  "office": "Measure Y",
+  "district": "Town of Yountville",
+  "division": "ca/place-yountville",
+  "kind": "measure",
+  "summary": "A Yes vote raises the Town of Yountville's appropriations (Gann) spending limit for a four-year period without creating or increasing any tax.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

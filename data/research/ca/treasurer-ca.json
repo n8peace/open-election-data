@@ -1,0 +1,16 @@
+{
+  "office": "Treasurer",
+  "district": "CA",
+  "division": "ca/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Eleni Kounalakis",
+      "party": "Democratic"
+    },
+    {
+      "name": "Jennifer Hawks",
+      "party": "Republican"
+    }
+  ]
+}

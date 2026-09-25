@@ -1,0 +1,135 @@
+{
+  "office": "Lieutenant Governor",
+  "district": "CA",
+  "division": "ca/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Fiona Ma",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Ma said she would consider some tax increases but opposes a proposed one-time tax on billionaires.",
+          "quote": "If elected, Ma would consider some “thoughtfully done” tax increases. But she is opposed to the Billionaire Tax Act",
+          "sourceUrl": "https://www.latimes.com/california/story/2026-05-01/california-lieutenant-governor-election-voter-guide",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Ma says she would expand affordable housing, identify state-owned parcels for development, and push public colleges to build housing for students, faculty and staff.",
+          "quote": "I will push to identify and prioritize state-owned parcels that are suitable for housing development, particularly affordable and workforce housing",
+          "sourceUrl": "https://www.mercurynews.com/2026/05/22/fiona-ma-california-lieutenant-governor-candidate-answers-bay-area-news-groups-primary-questionnaire/",
+          "agreement": "10/10"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "lean",
+          "text": "Ma said she supports the death penalty for people who kill police officers in the line of duty or commit heinous crimes against women and children.",
+          "quote": "Ma supports the death penalty for those who kill police officers in the line of duty or commit heinous crimes against women and children.",
+          "sourceUrl": "https://www.latimes.com/california/story/2026-05-01/california-lieutenant-governor-election-voter-guide",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Ma said she was proud to stand with a pro-choice organization that supports protecting women and families in California.",
+          "quote": "NWPC-CA is at the forefront of electing strong, pro-choice women who fight for equality, economic opportunity, and justice, and Fiona Ma is proud to stand with them to advance women’s leadership and protect women and families across California.",
+          "sourceUrl": "https://fionama.com/california-lieutenant-governor-candidate-fiona-ma-endorsed-by-national-womens-political-caucus-of-california/",
+          "agreement": "3/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Ma supports legal cannabis while seeking to replace or substantially overhaul California’s current legalization framework and reduce barriers for licensed businesses.",
+          "quote": "We need to overturn Prop 64. It’s a complete failure",
+          "sourceUrl": "https://www.canorml.org/cal-norml-election-guide-2026/",
+          "agreement": "3/10"
+        }
+      }
+    },
+    {
+      "name": "Gloria Romero",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Romero said she would not support tax increases or the Billionaire Tax Act and favored controlling spending instead.",
+          "quote": "Romero would not support tax increases or the Billionaire Tax Act.",
+          "sourceUrl": "https://www.latimes.com/california/story/2026-05-01/california-lieutenant-governor-election-voter-guide",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Romero said housing costs were driven in part by overregulation of building and zoning and called for reevaluating those policies.",
+          "quote": "The lack of affordability in housing is largely attributable to misplaced priorities and overregulation of building, zoning and running a business.",
+          "sourceUrl": "https://www.mercurynews.com/2026/05/22/gloria-romero-california-lieutenant-governor-candidate-answers-bay-area-news-groups-primary-questionnaire/",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Romero said she supports school vouchers that would let parents use taxpayer funds for private-school education.",
+          "quote": "Romero, a former Democrat-turned-Republican, supports school vouchers to let parents use taxpayer dollars to pay for private school education",
+          "sourceUrl": "https://calmatters.org/politics/2026/04/california-lieutenant-governor-race/",
+          "agreement": "10/10"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "Romero said she supports the death penalty for serious crimes because victims’ families deserve justice and closure.",
+          "quote": "Romero supports the death penalty for serious crimes because victims’ families deserve justice and closure.",
+          "sourceUrl": "https://www.latimes.com/california/story/2026-05-01/california-lieutenant-governor-election-voter-guide",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "Said she would defend Title IX protections for girls and women in sports.",
+          "quote": "Romero outlined specific priorities, including standing up for Title IX protections for girls and women in sports",
+          "sourceUrl": "https://www.kcra.com/article/gloria-romero-explains-why-she-should-be-californias-next-lieutenant-governor-ca-politics-360/73440575",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Romero opposed banning new gas-powered cars and said oil exploration could provide clean and efficient energy.",
+          "quote": "California must engage in developing renewable energy projects, particularly oil exploration, which can be clean and efficient.",
+          "sourceUrl": "https://www.mercurynews.com/2026/05/22/gloria-romero-california-lieutenant-governor-candidate-answers-bay-area-news-groups-primary-questionnaire/",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "Romero’s campaign promotes a petition supporting voter identification requirements.",
+          "quote": "SIGN THE VOTER ID PETITION",
+          "sourceUrl": "https://www.gloriaromero4ltgov.com/",
+          "agreement": "4/10"
+        }
+      }
+    }
+  ],
+  "sources": "latimes.com · mercurynews.com · fionama.com · canorml.org · calmatters.org · kcra.com · gloriaromero4ltgov.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

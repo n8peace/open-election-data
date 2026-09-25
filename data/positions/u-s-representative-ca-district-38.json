@@ -1,0 +1,120 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 38",
+  "division": "ca/cd-38",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Hilda Solis",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Solis helped fund and build thousands of affordable housing units through Los Angeles County programs.",
+          "quote": "This funding allowed L.A. County to build thousands of affordable housing units all over the First District.",
+          "sourceUrl": "https://www.hildasolis.com/meet-hilda/",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "Solis says public safety policy should shift from punishment and incarceration toward support, resources, and alternatives.",
+          "quote": "Supervisor Solis believes that we need to shift the focus from punishment and incarceration to support and resources to get our justice system to work for the people and not against them.",
+          "sourceUrl": "https://www.hildasolis.com/",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She voted to expand the SCHIP children's health program and helped implement the Affordable Care Act as Secretary of Labor.",
+          "quote": "Voted YES on adding 2 to 4 million children to SCHIP eligibility.",
+          "sourceUrl": "https://ontheissues.org/CA/Hilda_Solis.htm",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Pedro Antonio Casas",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "On his campaign site Casas calls for tax cuts and reduced regulation to let the free market grow the economy.",
+          "quote": "To stimulate economic growth, I propose tax cuts, reduction of bureaucratic red tape and excessive regulations on small businesses, allowing the free market to recalibrate itself.",
+          "sourceUrl": "https://casasforcongress.com/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Casas supports implementing private-school vouchers alongside expanded JROTC programs.",
+          "quote": "Establish JROTC programs in every high school which can offer free pathways to college opportunities and address military personnel shortages. Support the implementation of private school vouchers.",
+          "sourceUrl": "https://casasforcongress.com/priorities/",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Casas supports law enforcement funding and opposes efforts to defund police.",
+          "quote": "Support law enforcement while opposing any defunding measures.",
+          "sourceUrl": "https://casasforcongress.com/priorities/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Casas pledges to secure the southern border and enact immigration reforms centered on national security.",
+          "quote": "I will work to secure our southern border and implement immigration reforms that prioritize national security.",
+          "sourceUrl": "https://casasforcongress.com/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Casas states in a candidate survey that life begins at conception, citing his Catholic and Christian beliefs.",
+          "quote": "Life begins at conception. And, my Catholic/Christian beliefs hold that life begins at conception.",
+          "sourceUrl": "https://ivoterguide.com/candidate/78417/race/25599/election/1385",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Casas says he supports sports rules requiring biological males to compete only against other males.",
+          "quote": "In sports, I advocate for fairness by ensuring that biological males only compete against their counterparts.",
+          "sourceUrl": "https://casasforcongress.com/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Casas argues in a candidate survey that requiring no identification to vote invites fraud.",
+          "quote": "the idea that no identification is required is inviting massive voter fraud",
+          "sourceUrl": "https://ivoterguide.com/candidate/78417/race/25599/election/1385",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "hildasolis.com · ontheissues.org · casasforcongress.com · ivoterguide.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

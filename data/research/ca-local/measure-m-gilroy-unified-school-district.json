@@ -1,0 +1,19 @@
+{
+  "office": "Measure M",
+  "district": "Gilroy Unified School District",
+  "division": "ca/school-gilroy-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Gilroy Unified School District to issue $295 million in bonds.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

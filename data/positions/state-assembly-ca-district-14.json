@@ -1,0 +1,103 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 14",
+  "division": "ca/sldl-14",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Buffy Wicks",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Sponsored legislation requiring developers using its housing approval process to pay construction workers prevailing or union-level wages and meet additional labor standards.",
+          "quote": "Under Wicks’ bill, developers would have to pay union-level wages",
+          "sourceUrl": "https://calmatters.org/housing/2022/05/california-housing-crisis-unions/",
+          "agreement": "3/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Authored AB 2011, which authorized streamlined, ministerial approval for qualifying multifamily housing developments in certain commercial zones.",
+          "quote": "This bill would create the Affordable Housing and High Road Jobs Act of 2022, which would authorize a development proponent to submit an application for a housing development that meets specified objective standards and affordability and site criteria",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220AB2011",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "Mark Rendon",
+      "party": "Green",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Rendón supports progressive taxation of billionaires and wealthy residents to fund state programs.",
+          "quote": "“progressive taxation,” meaning he would tax billionaires and other wealthy residents more.",
+          "sourceUrl": "https://www.mercurynews.com/2026/05/14/wicks-faces-two-challengers-in-district-14-reelection-bid/",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Rendón proposes creating social housing in rent-controlled and mixed-income neighborhoods for unhoused Californians.",
+          "quote": "We can create social housing programs for unhoused Californians. Not projects, but housing in rent controlled and mixed income neighborhoods.",
+          "sourceUrl": "https://mark-rendon-for-state-assembly-14.com/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Rendón identifies public education as a campaign priority and describes education as an investment.",
+          "quote": "PUBLIC EDUCATION : Education is an investment, not a debt sentence",
+          "sourceUrl": "https://www.markrendon4ad14.com/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Rendón says he would prohibit federal Immigration and Customs Enforcement agents from using state property and eliminate related detention centers.",
+          "quote": "If elected, Rendón said he wants to ban federal Immigration and Customs Enforcement agents from using state property and get rid of any related detention centers.",
+          "sourceUrl": "https://www.mercurynews.com/2026/05/14/wicks-faces-two-challengers-in-district-14-reelection-bid/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Rendón supports implementing CalCare, described as Medicare for All in California.",
+          "quote": "We must pass CalCare, Medicare for All, in California! Better quality healthcare for EVERYONE at a lower cost to the State.",
+          "sourceUrl": "https://mark-rendon-for-state-assembly-14.com/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Rendón supports accelerating the transition to 100% renewable energy and replacing fossil fuels.",
+          "quote": "We have to accelerate the transition to 100% renewable energy.",
+          "sourceUrl": "https://mark-rendon-for-state-assembly-14.com/",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "calmatters.org · leginfo.legislature.ca.gov · mercurynews.com · mark-rendon-for-state-assembly-14.com · markrendon4ad14.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

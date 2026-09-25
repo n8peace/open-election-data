@@ -1,0 +1,18 @@
+{
+  "office": "Measure K",
+  "district": "City of Milpitas",
+  "division": "ca/place-milpitas",
+  "kind": "measure",
+  "summary": "A Yes vote revises the City of Milpitas business tax structure.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

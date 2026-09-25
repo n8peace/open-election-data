@@ -1,0 +1,18 @@
+{
+  "office": "Measure O",
+  "district": "City of Orange Cove",
+  "division": "ca/place-orange-cove",
+  "kind": "measure",
+  "summary": "A Yes vote imposes a special parcel tax on property in the City of Orange Cove.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

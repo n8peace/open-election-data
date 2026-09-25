@@ -1,0 +1,128 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 39",
+  "division": "ca/cd-39",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Mark Takano",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Takano has repeatedly backed raising the federal minimum wage to $15 an hour and supports labor unions.",
+          "quote": "Raising the federal minimum wage would lift millions out of poverty and provide workers with a livable wage as we rebuild and emerge from this pandemic.",
+          "sourceUrl": "https://takano.house.gov/newsroom/press-releases/rep-mark-takano-statement-on-the-passage-of-the-american-rescue-plan",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Takano pledges to oppose benefit cuts and privatization of Medicare and Social Security.",
+          "quote": "I will fight back against attempts to turn Medicare into a privatized voucher program that shifts costs to seniors and those with disabilities.",
+          "sourceUrl": "https://takano.house.gov/issues/seniors",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Takano, a former public school teacher, emphasizes strong investment in public education.",
+          "quote": "future economic prosperity requires a strong investment in public education and workforce training today",
+          "sourceUrl": "https://takano.house.gov/issues/education-and-labor",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "Takano supports reducing incarceration through probation for low-level offenses and changes to drug sentencing.",
+          "quote": "The federal government spends billions of dollars annually on funding our prisons and I believe there are a few simple reforms, like expanding the use of probation for low-level offenders and reexamining sentencing laws for drug offenders, that can reduce the cost of our prison systems, while maintaining public safety.",
+          "sourceUrl": "https://takano.house.gov/issues/public-safety",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Takano supports expanded legal pathways to citizenship for asylum seekers, Dreamers, and undocumented immigrants.",
+          "quote": "We need to create more expeditious legal pathways to citizenship for people who are seeking asylum, deliver more resources for migrants at the border, and develop a fair pathway to citizenship for undocumented immigrants.",
+          "sourceUrl": "https://takano.house.gov/issues/immigration",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Takano supported the Bipartisan Safer Communities Act to expand background checks and has pushed for gun violence prevention measures.",
+          "quote": "I was proud to support the Bipartisan Safer Communities Act, signed into law last Congress, to expand background check requirements",
+          "sourceUrl": "https://takano.house.gov/issues/public-safety",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Takano supports abortion rights, cosponsoring federal protections and pledging to defend the right to choose.",
+          "quote": "I will continue to defend a women's right to choose and I will work to protect Roe v. Wade.",
+          "sourceUrl": "https://takano.house.gov/issues/women",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Takano is a cosponsor and vocal advocate of the Medicare for All Act to guarantee public health coverage.",
+          "quote": "I am a staunch advocate of the Medicare for All Act.",
+          "sourceUrl": "https://takano.house.gov/issues/healthcare-and-seniors",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Takano supports the Green New Deal and aggressive action to cut carbon emissions.",
+          "quote": "I am proud to support the Green New Deal, a comprehensive and ambitious proposal to achieve global net-zero emissions by 2050.",
+          "sourceUrl": "https://takano.house.gov/issues/energy-and-environment",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Takano cosponsored the Voter Empowerment Act and advocates making voting more accessible for eligible voters.",
+          "quote": "The right to cast a ballot is a cornerstone of our democracy and we must ensure that anyone who is eligible to vote can do so easily.",
+          "sourceUrl": "https://takano.house.gov/newsroom/press-releases/rep-takano-signs-on-as-cosponsor-to-voter-empowerment-act",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Steve Manos",
+      "party": "Republican",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Manos calls affordable, market-rate housing the district's greatest need and wants to remove barriers that raise housing costs.",
+          "quote": "We need to remove the barriers to housing that have made that basic asset attractive to giant hedge funds.",
+          "sourceUrl": "https://www.ballotready.org/people/steve-manos-b0f0c979-a6af-4064-8bab-29b4ba43e41b",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "takano.house.gov · ballotready.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

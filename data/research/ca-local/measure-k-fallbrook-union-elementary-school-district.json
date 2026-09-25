@@ -1,0 +1,19 @@
+{
+  "office": "Measure K",
+  "district": "Fallbrook Union Elementary School District",
+  "division": "ca/school-fallbrook-union-elementary",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Fallbrook Union Elementary School District to issue $76,000,000 in general obligation bonds to repair and upgrade school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

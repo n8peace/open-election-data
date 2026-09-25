@@ -1,0 +1,18 @@
+{
+  "office": "State Senate",
+  "district": "CA District 34",
+  "division": "ca/sldu-34",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Avelino Valencia",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Rhonda Shader",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

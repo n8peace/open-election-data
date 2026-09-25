@@ -1,0 +1,18 @@
+{
+  "office": "Measure L",
+  "district": "City of Santa Rosa",
+  "division": "ca/place-santa-rosa",
+  "kind": "measure",
+  "summary": "A Yes vote extends and increases the city's half-cent sales tax to one cent with no expiration date, raising an estimated $46 million annually for city finances and deferred maintenance.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

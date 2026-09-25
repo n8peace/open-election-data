@@ -1,0 +1,144 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 31",
+  "division": "ca/cd-31",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Gil Cisneros",
+      "party": "Democratic",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Cisneros said small businesses need relief from tariffs and introduced a bill allowing them to report concerns about tariff policies.",
+          "quote": "small businesses need relief from Trump’s chaotic use of tariffs",
+          "sourceUrl": "https://cisneros.house.gov/media/press-releases/rep-cisneros-introduces-bill-reduce-administrative-burden-small-businesses",
+          "agreement": "2/3"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Cisneros supported protecting and strengthening Medicare’s guaranteed benefits without cutting benefits or reducing access.",
+          "quote": "Protect and strengthen Medicare by safeguarding its guaranteed benefits",
+          "sourceUrl": "https://cisneros.house.gov/media/press-releases/rep-cisneros-unveils-health-care-action-plan",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "Cisneros championed community violence-intervention programs intended to prevent violence and interrupt cycles of violence.",
+          "quote": "Representative Cisneros also championed numerous bills to address the boyfriend loophole and other measures to disarm domestic abusers and adequately fund important community violence intervention programs",
+          "sourceUrl": "https://giffords.org/candidates/gil-cisneros-3/",
+          "agreement": "2/3"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Cisneros supported universal background checks, longer background-check periods, and measures addressing domestic-abuser access to firearms.",
+          "quote": "He has always been a staunch supporter of the Bipartisan Background Checks Act",
+          "sourceUrl": "https://giffords.org/candidates/gil-cisneros-3/",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Cisneros voted against the Born-Alive Abortion Survivors Protection Act and other bills described as restricting reproductive freedom or abortion coverage.",
+          "quote": "A vote for reproductive freedom was against passage.",
+          "sourceUrl": "https://reproductivefreedomforall.org/lawmaker/gil-cisneros/",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Cisneros proposed expanding and strengthening the Affordable Care Act, Medicaid, and Medicare while closing coverage gaps.",
+          "quote": "improve access by closing coverage gaps for rural and underserved communities, strengthening Medicaid and Medicare",
+          "sourceUrl": "https://cisneros.house.gov/media/press-releases/rep-cisneros-unveils-health-care-action-plan",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Cisneros said he would champion voting rights and work to ensure everyone can participate in elections.",
+          "quote": "I’ll continue to champion voting rights, fight to ensure everyone can make their voices heard in our elections",
+          "sourceUrl": "https://cisneros.house.gov/media/press-releases/rep-cisneros-statement-lies-and-misinformation-about-us-elections-trumps",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Eric Ching",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Ching supports maintaining low tax burdens and using revenue bills to avoid overburdening taxpayers.",
+          "quote": "Commits to using votes on revenue bills to ensure taxpayers are not overburdened.",
+          "sourceUrl": "https://www.2026election.com/race/2026-house-ca-31",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Ching supports school choice and empowering parents to decide which schools their children attend.",
+          "quote": "I support school choice, and I will empower parents to use their ability to decide which schools are best for their kids.",
+          "sourceUrl": "https://www.2026election.com/race/2026-house-ca-31",
+          "agreement": "2/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Ching supports criminal deterrence, enforcement of laws, and accountability for officials who fail to enforce them.",
+          "quote": "We must protect our homes, schools, businesses, and neighborhoods from criminals by ways of deterrence.",
+          "sourceUrl": "https://www.2026election.com/race/2026-house-ca-31",
+          "agreement": "2/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Ching supports securing the border and enforcing immigration laws against illegal entry and other unlawful movement.",
+          "quote": "I will promote legal trade and tourism while supporting ways to best secure our border from the illegal movement of weapons, drugs, contraband, and people.",
+          "sourceUrl": "https://www.2026election.com/race/2026-house-ca-31",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Ching identifies protecting unborn life as a goal of his congressional campaign.",
+          "quote": "As your congressman, I will improve the economy, secure the border, protect our unborn, advocate for education, and defend our constitution.",
+          "sourceUrl": "https://www.2026election.com/race/2026-house-ca-31",
+          "agreement": "2/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Ching favors an energy approach that prioritizes energy security and limits regulatory effects on industries and businesses rather than aggressive emissions mandates.",
+          "quote": "Policy statements prioritize economic concerns and energy security over aggressive emissions mandates or phasedown of fossil fuels.",
+          "sourceUrl": "https://www.predictionedge.com/elections/profile/eric-ching/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "cisneros.house.gov · giffords.org · reproductivefreedomforall.org · 2026election.com · predictionedge.com",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

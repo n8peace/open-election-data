@@ -1,0 +1,13 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 32",
+  "division": "ca/sldl-32",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "David Couch",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

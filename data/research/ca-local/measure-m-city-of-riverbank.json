@@ -1,0 +1,18 @@
+{
+  "office": "Measure M",
+  "district": "City of Riverbank",
+  "division": "ca/place-riverbank",
+  "kind": "measure",
+  "summary": "A Yes vote amends the City of Riverbank General Plan to require majority voter approval before the city may authorize converting agricultural land or open space west of the city limits to urban uses.",
+  "issues": [
+    "housing"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

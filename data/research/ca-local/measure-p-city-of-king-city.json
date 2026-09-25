@@ -1,0 +1,18 @@
+{
+  "office": "Measure P",
+  "district": "City of King City",
+  "division": "ca/place-king",
+  "kind": "measure",
+  "summary": "A Yes vote reauthorizes the city's existing 1.5% transactions and use (sales) tax for general city services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

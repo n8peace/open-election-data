@@ -1,0 +1,32 @@
+{
+  "office": "Measure BB",
+  "district": "City of Emeryville",
+  "division": "ca/place-emeryville",
+  "kind": "measure",
+  "summary": "A Yes vote updates the City of Emeryville's business license tax with rates up to 0.4% of gross receipts, raising about $12.4 million annually for general city services until ended by voters.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would approve a business-tax increase expected to raise additional revenue for city programs and services.",
+          "quote": "The tax revenue would be put in the city&#x27;s general fund and could be spent on programs and services that benefit public safety, seniors and youth, road repair and parks, among other things.",
+          "sourceUrl": "https://www.sfgate.com/news/bayarea/article/alameda-co-voters-asked-to-approve-new-business-tax-22438993.php",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "sfgate.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,54 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 6",
+  "division": "ca/sldl-6",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Maggy Krell",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Krell says businesses should pay living wages so Californians can afford to live in the state.",
+          "quote": "Maggy believes that we should help local businesses prosper and in turn, they should pay living wages so that Californians can afford to live here.",
+          "sourceUrl": "https://maggykrellforassembly.com/issues/",
+          "agreement": "3/5"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "lean",
+          "text": "Attempted to pass harsher penalties for soliciting sex from 16- and 17-year-olds, despite opposition from Democratic leaders.",
+          "quote": "She angered her progressive colleagues when she publicly defied Democratic leaders in attempting to pass harsher penalties for soliciting sex from 16- and 17-year-olds.",
+          "sourceUrl": "https://calmatters.digitaldemocracy.org/legislators/maggy-krell-14941",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Jagtar Singh",
+      "party": "Democratic",
+      "stances": {}
+    }
+  ],
+  "sources": "maggykrellforassembly.com · calmatters.digitaldemocracy.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

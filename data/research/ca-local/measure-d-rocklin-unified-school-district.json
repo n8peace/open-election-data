@@ -1,0 +1,19 @@
+{
+  "office": "Measure D",
+  "district": "Rocklin Unified School District",
+  "division": "ca/school-rocklin-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue $288,000,000 in bonds to renovate, modernize, and expand classrooms and school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

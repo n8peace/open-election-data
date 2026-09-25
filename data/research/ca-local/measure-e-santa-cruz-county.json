@@ -1,0 +1,18 @@
+{
+  "office": "Measure E",
+  "district": "Santa Cruz County",
+  "division": "ca/county-santa-cruz",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a one-half percent transactions and use (sales) tax throughout the county, including its cities, for five years, with revenue going to the County General Fund for general government purposes.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

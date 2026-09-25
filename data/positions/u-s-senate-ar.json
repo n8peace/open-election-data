@@ -1,0 +1,214 @@
+{
+  "office": "U.S. Senate",
+  "district": "AR",
+  "division": "ar/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Hallie Shoffner",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Shoffner says she would cut taxes for working families while making investments in public programs and infrastructure.",
+          "quote": "That means real economic vision by cutting taxes for working families, lowering the cost of groceries, childcare, housing, and healthcare, and strengthening Arkansas industries.",
+          "sourceUrl": "https://www.hallieshoffner.com/priorities",
+          "agreement": "7/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Shoffner supports raising the minimum wage, strengthening unions, and protecting workers’ right to organize.",
+          "quote": "That means raising the minimum wage, expanding workforce training, cutting taxes for working families, giving local businesses the resources they need to thrive, cutting red tape, and modernizing infrastructure so people can live near where they work and build real futures here.",
+          "sourceUrl": "https://www.hallieshoffner.com/priorities",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Shoffner criticized tariffs, saying they were harming Arkansas soybean farmers.",
+          "quote": "On her vote for Kamala Harris in the 2024 presidential election, she cleverly told a conservative podcaster it was a vote against Trump’s tariffs, which she says are destroying Arkansas’ soybean farmers.",
+          "sourceUrl": "https://arktimes.com/arkansas-blog/2026/08/03/inside-hallie-shoffners-surprisingly-competitive-senate-campaign-to-unseat-tom-cotton",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Shoffner says she would protect and strengthen Social Security and Medicare and raise the contribution cap on wealthy taxpayers.",
+          "quote": "I will protect and strengthen Social Security and Medicare, lift the contribution cap on the ultra wealthy, reverse the cuts, and invest in a care economy that creates good-paying jobs and keeps seniors close to home.",
+          "sourceUrl": "https://www.hallieshoffner.com/priorities",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Shoffner said she supports a bipartisan federal housing bill that had passed Congress.",
+          "quote": "On affordable housing (she supports the bipartisan housing bill that just passed Congress)",
+          "sourceUrl": "https://arktimes.com/arkansas-blog/2026/08/03/inside-hallie-shoffners-surprisingly-competitive-senate-campaign-to-unseat-tom-cotton",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Shoffner says public funds should not enrich private schools and supports maintaining federal education funding.",
+          "quote": "On education, she would advocate for a federal bill that would ban the use of public dollars to enrich private schools and vote to fund the Department of Education at its previous level, before the Trump administration whittled it down.",
+          "sourceUrl": "https://arktimes.com/arkansas-blog/2026/08/03/inside-hallie-shoffners-surprisingly-competitive-senate-campaign-to-unseat-tom-cotton",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "Shoffner called for investment in community-based crime prevention.",
+          "quote": "Invest in community-based crime prevention.",
+          "sourceUrl": "https://www.ontheissues.org/Senate/Hallie_Shoffner.htm",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Shoffner supports reconsidering ICE and broader immigration reform while prioritizing border security and deportation of violent criminals.",
+          "quote": "I think we should definitely take a second look at ICE,” she says. She adds that law enforcement should focus on border security and deporting violent criminals before broader immigration reform.",
+          "sourceUrl": "https://arktimes.com/arkansas-blog/2026/08/03/inside-hallie-shoffners-surprisingly-competitive-senate-campaign-to-unseat-tom-cotton",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Shoffner supports strengthening the Affordable Care Act and protecting Medicare and Medicaid while lowering prescription drug costs.",
+          "quote": "I will fight to protect our hospitals, lower prescription drug prices, strengthen the Affordable Care Act, protect Medicare and Medicaid, cut red tape, and hold insurance companies accountable.",
+          "sourceUrl": "https://www.hallieshoffner.com/priorities",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Shoffner has described climate change as a threat and supports solar projects owned by farmers and individuals.",
+          "quote": "Climate change is a threat; it's threatening our groceries.",
+          "sourceUrl": "https://www.ontheissues.org/Senate/Hallie_Shoffner.htm",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Senator Tom Cotton",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Said he voted for the Big Beautiful Bill, which he described as a major tax cut, and previously led efforts to repeal the Affordable Care Act’s individual mandate tax penalty.",
+          "quote": "I was proud to vote for the Big Beautiful Bill that delivered the largest tax cut in American history",
+          "sourceUrl": "https://sengov.com/candidates/Tom-Cotton-For-Congress-in-2026/",
+          "agreement": "3/5"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "Cotton reintroduced legislation to end China’s permanent normal trade relations and phase in tariffs on Chinese products.",
+          "quote": "Phase-in tariffs for Chinese products over five years, including 100% tariffs for goods determined to be important to national security.",
+          "sourceUrl": "https://www.cotton.senate.gov/news/press-releases/cotton-reintroduces-legislation-to-end-permanent-normal-trade-relations-with-china/",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "Reintroduced legislation imposing a one-time tax on certain university endowments, with revenue intended in part to pay down the national debt.",
+          "quote": "A tax on the billions of dollars these schools have amassed would be more than enough to pay down our national debt or secure the southern border",
+          "sourceUrl": "https://www.cotton.senate.gov/news/press-releases/cotton-reintroduces-woke-endowment-security-tax-act-to-tax-college-endowments/",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Cotton supported the Laken Riley Act as a measure to detain certain criminal migrants.",
+          "quote": "the Laken Riley Act will ensure these criminals are detained.",
+          "sourceUrl": "https://www.cotton.senate.gov/news/press-releases/cotton-statement-on-senate-passage-of-laken-riley-act/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Cotton introduced legislation to restrict federal benefits for noncitizens and expedite removal proceedings for asylum seekers.",
+          "quote": "Expedite removal proceedings for asylum seekers.",
+          "sourceUrl": "https://www.cotton.senate.gov/news/press-releases/cotton-introduces-bill-to-put-american-citizens-first/",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Reintroduced legislation to repeal the federal tax on firearms regulated under the National Firearms Act.",
+          "quote": "Our legislation will remove the red tape that places an undue financial burden on would-be gun owners",
+          "sourceUrl": "https://www.cotton.senate.gov/news/press-releases/cotton-colleagues-reintroduce-bill-to-repeal-tax-on-certain-firearm-purchases/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Introduced legislation to prevent state renewable-energy mandates that he said raise electricity costs and to ensure consumers pay the lowest available price.",
+          "quote": "State requirements for less reliable, renewable energy sources, shouldn’t lead to higher energy costs for Arkansans.",
+          "sourceUrl": "https://www.cotton.senate.gov/news/press-releases/cotton-introduces-bill-to-lower-arkansas-energy-prices/",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Urged senators to support legislation requiring proof of citizenship and valid identification for voting.",
+          "quote": "The SAVE America Act will ensure that every voter in our elections is an American citizen.",
+          "sourceUrl": "https://www.cotton.senate.gov/news/speeches/floor-speech-on-save-america-act/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Jeff Wadlin",
+      "party": "Libertarian",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Wadlin says Libertarians favor smaller government and lower taxes on economic issues.",
+          "quote": "On economic issues, they favor smaller government, lower taxes and property rights, as Republicans have traditionally said they do.",
+          "sourceUrl": "https://independentarkansas.com/libertarian-jeff-wadlin/",
+          "agreement": "5/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He opposes broad tariffs and supports trade policies that open markets and reduce costs.",
+          "quote": "I oppose broad tariffs that raise the cost of equipment, fertilizer, fuel, and household goods while inviting retaliation against Arkansas rice, soybeans, poultry, cotton, and other exports. Trade policy should open markets, not close them.",
+          "sourceUrl": "https://www.jeffwadlin.com/issues",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "Wadlin criticizes policies that increase the national debt and says his campaign will emphasize fiscal discipline and ending inflationary spending.",
+          "quote": "The Wadlin campaign centers on transparency and fiscal discipline intended to solve the affordability crisis created by two-party dysfunction.",
+          "sourceUrl": "https://www.jeffwadlin.com/in-the-news/rgt4p58qm0ttaqu839of3w801ix7t8",
+          "agreement": "6/10"
+        }
+      }
+    }
+  ],
+  "sources": "hallieshoffner.com · arktimes.com · ontheissues.org · sengov.com · cotton.senate.gov · independentarkansas.com · jeffwadlin.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,18 @@
+{
+  "office": "Measure D",
+  "district": "City of Fortuna",
+  "division": "ca/place-fortuna",
+  "kind": "measure",
+  "summary": "A Yes vote enacts an additional 0.75% city sales (transactions and use) tax beginning April 1, 2027, estimated to generate about $1,800,000 per year for general city services until repealed by voters.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

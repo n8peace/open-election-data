@@ -1,0 +1,16 @@
+{
+  "office": "Governor",
+  "district": "CA",
+  "division": "ca/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Xavier Becerra",
+      "party": "Democratic"
+    },
+    {
+      "name": "Steve Hilton",
+      "party": "Republican"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "office": "Measure E",
+  "district": "Monterey County",
+  "division": "ca/county-monterey",
+  "kind": "measure",
+  "summary": "A Yes vote increases the transient occupancy tax paid by hotel and short-term lodging guests in the unincorporated area of the county from 10.5% to 12.5%.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

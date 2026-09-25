@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 36",
+  "division": "ca/sldl-36",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Ida S. Obeso-Martinez",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Jeff Gonzalez",
+      "party": "Republican",
+      "incumbent": true
+    }
+  ]
+}

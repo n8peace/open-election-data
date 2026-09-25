@@ -1,0 +1,41 @@
+{
+  "office": "Measure T",
+  "district": "City of Albany",
+  "division": "ca/place-albany",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a special parcel tax of $0.0354 per lot square foot with low-income exemptions to fund street tree and streetlighting maintenance, raising about $775,000 per year until ended by voters.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "The League of Women Voters supported a Yes vote on Measure T, which would create a parcel tax to fund street-tree and streetlighting maintenance and improvements.",
+          "quote": "Measure T — Street Trees & Streetlighting Tax : SUPPORT",
+          "sourceUrl": "https://www.lwvbae.org/league-news/vote-with-the-league-nov-2024-2/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would reject the proposed special parcel tax for street trees and street lighting.",
+          "quote": "Measure T would establish a new special parcel tax to fund the improvement and maintenance of Albany’s street trees and street lighting.",
+          "sourceUrl": "https://www.albanyscanner.com/2026/08/12/city/albany-2026-november-election-ballot-measures/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "lwvbae.org · albanyscanner.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

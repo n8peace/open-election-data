@@ -1,0 +1,19 @@
+{
+  "office": "Measure M",
+  "district": "Pleasant Ridge Union School District",
+  "division": "ca/school-pleasant-ridge-union",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Pleasant Ridge Union School District to issue $19,800,000 in general obligation bonds, repaid by a property tax of about $22.50 per $100,000 of assessed value, to fund repairs and improvements to school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

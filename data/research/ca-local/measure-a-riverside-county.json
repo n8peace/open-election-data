@@ -1,0 +1,18 @@
+{
+  "office": "Measure A",
+  "district": "Riverside County",
+  "division": "ca/county-riverside",
+  "kind": "measure",
+  "summary": "A Yes vote continues the existing one-half-cent countywide transactions and use tax after 2039 to fund transportation improvements and services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

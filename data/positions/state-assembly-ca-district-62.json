@@ -1,0 +1,46 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 62",
+  "division": "ca/sldl-62",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "José Luis Solache",
+      "party": "Democratic",
+      "stances": {
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "His campaign lists combating climate change through clean energy investment as a priority.",
+          "quote": "Combat climate change by investing in sustainability and clean energy infrastructure",
+          "sourceUrl": "https://solacheforassembly.com/",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Paul Irving Jones",
+      "party": "Republican",
+      "stances": {}
+    }
+  ],
+  "sources": "solacheforassembly.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,13 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 22",
+  "division": "ca/sldl-22",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Juan Alanis",
+      "party": "Republican",
+      "incumbent": true
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 67",
+  "division": "ca/sldl-67",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Mark Pulido",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Paulo Morales",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env*
+!.env.example
+.DS_Store
+review.html
+recheck-summary.md
+bias-report.md
+pr.diff
+data/sources/

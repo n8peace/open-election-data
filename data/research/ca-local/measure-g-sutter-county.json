@@ -1,0 +1,19 @@
+{
+  "office": "Measure G",
+  "district": "Sutter County",
+  "division": "ca/county-sutter",
+  "kind": "measure",
+  "summary": "A Yes vote establishes a 1-cent general sales tax in Sutter County, shared by the County and the Cities of Yuba City and Live Oak, lasting until ended by voters and raising about $22,500,000 annually for services including water supply, fire and emergency response, sheriff's and police patrols, and road repair.",
+  "issues": [
+    "tax",
+    "safety"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

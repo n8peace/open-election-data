@@ -1,0 +1,18 @@
+{
+  "office": "Measure P",
+  "district": "City of Hercules",
+  "division": "ca/place-hercules",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a one-cent (1%) City of Hercules sales tax expected to raise about $4 million per year for general city services including emergency response, police, water quality, and street repair.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

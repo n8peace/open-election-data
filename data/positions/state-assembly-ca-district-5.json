@@ -1,0 +1,46 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 5",
+  "division": "ca/sldl-5",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Neva Parker",
+      "party": "Democratic",
+      "stances": {
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She has said she would balance electrification with affordability while addressing wildfires and other climate-related concerns.",
+          "quote": "Neva has promised to take an even-handed approach that will aim to balance electrification with affordability so that no one in her district gets left behind.",
+          "sourceUrl": "https://climateactioncaelections.org/ad-5-neva-parker/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Joe Patterson",
+      "party": "Republican",
+      "stances": {}
+    }
+  ],
+  "sources": "climateactioncaelections.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

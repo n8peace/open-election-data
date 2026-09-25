@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "AZ District 4",
+  "division": "az/cd-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Greg Stanton",
+      "party": "Democratic"
+    },
+    {
+      "name": "Zuhdi Jasser",
+      "party": "Republican"
+    },
+    {
+      "name": "Tisha Benoit",
+      "party": "AIP"
+    }
+  ]
+}

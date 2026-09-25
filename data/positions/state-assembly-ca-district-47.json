@@ -1,0 +1,87 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 47",
+  "division": "ca/sldl-47",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Leila Namvar",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Namvar has said she fights for better wages and has led union contract negotiations for city employees.",
+          "quote": "Leila has spent years standing shoulder to shoulder with workers — fighting for better wages, safer working conditions, and affordable healthcare.",
+          "sourceUrl": "https://www.leilanamvar.com/meet-leila",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Namvar supports expanding affordable housing and removing barriers that slow housing construction.",
+          "quote": "Throughout her career, Leila has worked to remove unnecessary barriers that slow housing construction and drive-up costs.",
+          "sourceUrl": "https://www.leilanamvar.com/Media",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Namvar has said she would protect and expand access to reproductive healthcare.",
+          "quote": "I would work to protect and expand access to affordable healthcare services, including mental health care and reproductive healthcare.",
+          "sourceUrl": "https://www.desertsun.com/story/news/politics/elections/2026/05/22/california-primary-district-47-seat/90179843007/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Greg Wallis",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Wallis said he introduced legislation for major middle-class tax relief as part of his affordability agenda.",
+          "quote": "That is why I introduced legislation for major middle-class tax relief along with bills focused on lowering fuel and insurance costs.",
+          "sourceUrl": "https://www.desertsun.com/story/news/politics/elections/2026/05/22/california-primary-district-47-seat/90179843007/",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "After a community member was killed on Highway 74, Wallis worked with local leaders and law enforcement to seek increased CHP presence and stronger safety efforts.",
+          "quote": "I worked with local leaders and law enforcement to push for increased CHP presence and stronger safety efforts along that corridor.",
+          "sourceUrl": "https://www.desertsun.com/story/news/politics/elections/2026/05/22/california-primary-district-47-seat/90179843007/",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "Wallis was the only Republican reported to have voted for a bill protecting abortion providers and providers of gender-affirming care from certain arrests.",
+          "quote": "This year, Wallis was the only Republican to vote for a bill that seeks to prevent arrests of abortion providers or providers of gender-affirming care.",
+          "sourceUrl": "https://calmatters.org/politics/2026/07/california-legislature-maverick-lawmakers/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "leilanamvar.com · desertsun.com · calmatters.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

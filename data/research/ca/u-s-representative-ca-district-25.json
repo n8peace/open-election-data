@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 25",
+  "division": "ca/cd-25",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Raul Ruiz",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Joe Males",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

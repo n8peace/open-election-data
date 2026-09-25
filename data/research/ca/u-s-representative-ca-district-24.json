@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 24",
+  "division": "ca/cd-24",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Salud Carbajal",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Bob Smith",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

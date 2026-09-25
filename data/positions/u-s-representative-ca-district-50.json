@@ -1,0 +1,144 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 50",
+  "division": "ca/cd-50",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Scott Peters",
+      "party": "Democratic",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Supported reducing trade barriers, reauthorizing the Export-Import Bank, and passing the USMCA to expand international trade.",
+          "quote": "San Diego’s economy depends on international trade. In order to remain globally competitive, the United States must reduce barriers to its exports",
+          "sourceUrl": "https://scottpeters.house.gov/trade",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Participates in the Bipartisan Fiscal Forum, which advocates bipartisan proposals to address the national debt and rising interest costs.",
+          "quote": "The Bipartisan Fiscal Forum (BFF) is a group of like-minded congressmembers dedicated to sounding the alarm about our nation's unsustainable debt trajectory and working together to get control of our fiscal future.",
+          "sourceUrl": "https://scottpeters.house.gov/issues/bipartisan-fiscal-forum",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Says San Diego needs to build more housing and that he is working to incentivize additional development.",
+          "quote": "We need to build more housing for people of all income levels in a way that’s thoughtfully planned for our communities.",
+          "sourceUrl": "https://scottpeters.house.gov/issues/housing-and-homelessness",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Supports investing in teachers and a public education system while expanding education and training opportunities.",
+          "quote": "Scott is dedicated to investing in our education workforce to support a public education system where students are treated equitably and feel supported.",
+          "sourceUrl": "https://scottpeters.house.gov/issues/education",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Said refugees and immigrants should have the opportunity to build better lives in the United States and supported funding for additional special immigrant visas.",
+          "quote": "Scott will continue to ensure our minority communities have a voice and that refugees and immigrants have the same opportunity to build a better life in America, just as our ancestors.",
+          "sourceUrl": "https://scottpeters.house.gov/issues/civil-rights",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Called for universal background checks, bans on weapons of war, and restrictions on firearm purchases by suspected terrorists and domestic abusers.",
+          "quote": "Congress can prevent these tragedies if it implements universal background checks, bans weapons of war, and prohibits suspected terrorists and domestic abusers from purchasing firearms.",
+          "sourceUrl": "https://scottpeters.house.gov/issues/gun-reform",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Voted for a funding package after House Democrats removed provisions that would have made abortion illegal nationwide and supported protections for servicemembers traveling for reproductive health care.",
+          "quote": "House Democrats were successful in removing harmful Republican policies from these bills that attempted to make abortion illegal everywhere",
+          "sourceUrl": "https://scottpeters.house.gov/press-releases/rep-peters-helps-pass-second-government-funding-package-including-additional-local-money",
+          "agreement": "7/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Voted for the MORE Act to decriminalize marijuana and expunge nonviolent federal marijuana convictions, and has supported federally legalizing cannabis.",
+          "quote": "Rep. Peters voted to pass a historic marijuana reform bill, the bipartisan Marijuana Opportunity Reinvestment and Expungement (MORE) Act to decriminalize marijuana at the federal level and expunge all non-violent federal marijuana criminal offenses from an individual's record.",
+          "sourceUrl": "https://scottpeters.house.gov/press-releases/rep-peters-helps-pass-bipartisan-bill-to-increase-safety-in-banking",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Supported funding for Medicaid and a requirement that state Medicaid programs cover medications and services for opioid-use disorder.",
+          "quote": "Requirement that state Medicaid programs cover all forms of medication for the treatment of opioid use disorder, including methadone, counseling services, and behavioral therapy",
+          "sourceUrl": "https://scottpeters.house.gov/press-releases/representative-scott-peters-secures-more-than-138-million-for-local-projects-in-government-funding-package",
+          "agreement": "4/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Supported funding that he said would continue efforts to fight climate change and included additional climate and energy resiliency funding.",
+          "quote": "House Democrats were successful in removing harmful Republican policies from these bills that attempted to make abortion illegal everywhere, slash efforts to fight climate change, and threaten our national security.",
+          "sourceUrl": "https://scottpeters.house.gov/press-releases/rep-peters-helps-pass-second-government-funding-package-including-additional-local-money",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Said protecting voting access and ensuring that every eligible person can cast a ballot are central commitments.",
+          "quote": "Securing our democracy against efforts to undermine our elections and ensuring every eligible American can cast their ballot remains one of Scott’s main commitments.",
+          "sourceUrl": "https://scottpeters.house.gov/issues/civil-rights",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Steve Cohen",
+      "party": "Republican",
+      "stances": {
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Says he will defend Social Security and Medicare from cuts.",
+          "quote": "Steve Cohen will defend Social Security and Medicare from cuts",
+          "sourceUrl": "https://cohenforcongressca50.com/",
+          "agreement": "2/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Says he will expand housing supply to address housing costs.",
+          "quote": "Steve Cohen will fight for real solutions: expanding housing supply",
+          "sourceUrl": "https://cohenforcongressca50.com/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "scottpeters.house.gov · cohenforcongressca50.com",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

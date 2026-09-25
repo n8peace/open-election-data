@@ -1,0 +1,128 @@
+{
+  "office": "U.S. Representative",
+  "district": "AR District 02",
+  "division": "ar/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Chris Jones",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Jones said policymakers should increase workers’ pay as part of strengthening the economic safety net.",
+          "quote": "Pay people more, help to reduce the price of goods and make sure you strengthen the safety net",
+          "sourceUrl": "https://katv.com/news/local/arkansas-2nd-district-showdown-as-march-3rd-nears-chris-jones-calls-for-accountability",
+          "agreement": "7/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Jones criticized tariffs as taxes that increase costs for Arkansans.",
+          "quote": "tariffs at the end of the day are taxes. And Arkansans don’t like paying taxes to the federal government.",
+          "sourceUrl": "https://katv.com/news/local/arkansas-2nd-district-showdown-as-march-3rd-nears-chris-jones-calls-for-accountability",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Jones called for stronger schools and government investment in early childhood education and workforce training.",
+          "quote": "Our government should invest in our people. Early childhood education, hands-on apprenticeships, and training in both technology and the trades will prepare our children and our workforce for tomorrow.",
+          "sourceUrl": "https://chrisjonesforcongress.com/",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Congressman French Hill",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Voted for appropriations bills that he said would save taxpayers money and restore fiscal discipline.",
+          "quote": "all while saving taxpayers money. This is another step toward restoring fiscal discipline",
+          "sourceUrl": "https://hill.house.gov/news/documentsingle.aspx?DocumentID=9759",
+          "agreement": "4/10"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Said tariffs can be useful when targeted but opposed broad tariffs because they can raise prices and hurt families.",
+          "quote": "I don’t support across-the-board tariffs. They can have a price level increase at one moment",
+          "sourceUrl": "https://katv.com/news/local/four-candidates-one-seat-french-hill-discusses-kitchen-table-issues",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Supported and voted for legislation intended to reduce regulatory barriers and increase the housing supply.",
+          "quote": "At its core, this bill is about restoring that dream. It lowers costs, cuts red tape, and increases housing supply",
+          "sourceUrl": "https://hill.house.gov/news/email/show.aspx?ID=7PIBUJWUBHCWPQ42ODCG3BE6VQ",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "Voted for an appropriations package that included $500 million for charter schools.",
+          "quote": "$500 million for charter schools.",
+          "sourceUrl": "https://hill.house.gov/news/documentsingle.aspx?DocumentID=9759",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Supported appropriations that funded community-oriented policing and law-enforcement grants.",
+          "quote": "$44 million for the Regional Information Sharing Systems program within the Community Oriented Policing Services (COPS) hiring program.",
+          "sourceUrl": "https://hill.house.gov/news/documentsingle.aspx?DocumentID=9739",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Supported appropriations providing funding to sustain 22,000 Border Patrol agents and body cameras for immigration-enforcement officers.",
+          "quote": "Strengthens U.S. national security and border protections by providing $513 million to sustain 22,000 Border Patrol agents.",
+          "sourceUrl": "https://hill.house.gov/news/documentsingle.aspx?DocumentID=9759",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "Voted for a foreign-affairs appropriations bill that maintained existing pro-life provisions.",
+          "quote": "maintains all long-standing pro-life provisions",
+          "sourceUrl": "https://hill.house.gov/news/documentsingle.aspx?DocumentID=10259",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Supported legislation requiring proof of citizenship to register for federal elections and government-issued photo identification to vote.",
+          "quote": "The Safeguard American Voter Eligibility Act will protect our elections by requiring proof of U.S. citizenship to register to vote in federal elections and a valid government-issued photo ID to cast a ballot.",
+          "sourceUrl": "https://hill.house.gov/news/email/show.aspx?ID=7PIBUJWUBHCWPQ42ODCG3BE6VQ",
+          "agreement": "9/10"
+        }
+      }
+    }
+  ],
+  "sources": "katv.com · chrisjonesforcongress.com · hill.house.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

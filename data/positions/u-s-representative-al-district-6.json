@@ -1,0 +1,128 @@
+{
+  "office": "U.S. Representative",
+  "district": "AL District 6",
+  "division": "al/cd-6",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Gary Palmer",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Palmer voted for the 2017 Tax Cuts and Jobs Act, praising it as a tax break that would put more money with Americans and spur growth.",
+          "quote": "Our tax plan not only puts more money in the pockets of the American people, but will also launch economic growth.",
+          "sourceUrl": "https://palmer.house.gov/media-center/press-releases/palmer-tax-cuts-and-jobs-act-vote",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Palmer's campaign site says he opposes amnesty for people in the country illegally and that immigration reform must start with securing the border.",
+          "quote": "Gary Palmer opposes amnesty for those who are in the country illegally and believes the rule of law must be enforced.",
+          "sourceUrl": "https://palmerforalabama.com/issues/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Voted for concealed-carry reciprocity legislation and opposed executive actions intended to restrict firearm access.",
+          "quote": "Today the House of Representatives passed H.R. 38, the Concealed Carry Reciprocity Act. Congressman Gary Palmer (R-AL) released the following statement after voting in favor of the bill.",
+          "sourceUrl": "https://palmer.house.gov/issues/second-amendment",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Palmer's campaign site says he believes every human life is worthy of protection and that he has supported barring taxpayer funding of abortion providers.",
+          "quote": "Gary Palmer believes every human life is worthy of protection.",
+          "sourceUrl": "https://palmerforalabama.com/issues/",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Palmer opposes the Affordable Care Act and says health care decisions should rest with patients and doctors rather than the federal government.",
+          "quote": "Gary Palmer believes health care decisions should be made by patients and doctors—not Washington bureaucrats.",
+          "sourceUrl": "https://palmerforalabama.com/issues/",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Introduced legislation allowing states to require proof of citizenship when registering to vote in federal elections.",
+          "quote": "The Citizen Ballot Protection Act protects the integrity of American elections by amending the National Voter Registration Act to make clear that a state may impose a proof of citizenship requirement to register to vote in a federal election.",
+          "sourceUrl": "https://palmer.house.gov/media-center/press-releases/palmer-britt-introduce-citizen-ballot-protection-act",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Maurice Mercer",
+      "party": "Democrat",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Mercer says workers should be able to organize and collectively bargain and credits unions with building the middle class.",
+          "quote": "Strong unions helped build America's middle class, and workers should have the right to organize and collectively bargain for fair wages, safe working conditions, and good benefits.",
+          "sourceUrl": "https://www.mauricemercer.com/platform",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Mercer says he supports excellent public schools along with career and technical education, apprenticeships, and workforce programs.",
+          "quote": "I support excellent public schools, expanded career and technical education, apprenticeships, workforce development programs, safe learning environments, and improved broadband access for students and educators.",
+          "sourceUrl": "https://www.mauricemercer.com/platform",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Mercer says he backs giving law enforcement and first responders the tools, training, equipment, and recruitment support to serve effectively.",
+          "quote": "I believe in providing the tools, training, equipment, recruitment support, and disability protections necessary for these professionals to serve effectively.",
+          "sourceUrl": "https://www.mauricemercer.com/platform",
+          "agreement": "3/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "Mercer says he supports a woman's right to make her own healthcare decisions while also wanting to do more to support life.",
+          "quote": "While I support a woman's right to make her own healthcare decisions, I also believe we should do more to support life by strengthening families, reducing barriers to adoption, expanding foster care opportunities, supporting mothers and fathers, caring for individuals with disabilities, and ensuring seniors receive the respect and care they deserve.",
+          "sourceUrl": "https://www.mauricemercer.com/platform",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Mercer has made expanding access to universal healthcare a top legislative priority and supports affordable coverage regardless of income or location.",
+          "quote": "When you have people who cannot afford health care based off the zip code, based off the economic background, that&#x27;s a problem,",
+          "sourceUrl": "https://abc3340.com/news/beyond-the-podium/a-look-at-alabamas-6th-congressional-district-democratic-candidates-ahead-of-the-primary",
+          "agreement": "6/10"
+        }
+      }
+    }
+  ],
+  "sources": "palmer.house.gov · palmerforalabama.com · mauricemercer.com · abc3340.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

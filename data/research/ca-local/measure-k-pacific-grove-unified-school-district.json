@@ -1,0 +1,19 @@
+{
+  "office": "Measure K",
+  "district": "Pacific Grove Unified School District",
+  "division": "ca/school-pacific-grove-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes an $85 annual tax per parcel for five years to fund school programs.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

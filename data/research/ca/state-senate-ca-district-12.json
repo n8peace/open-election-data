@@ -1,0 +1,18 @@
+{
+  "office": "State Senate",
+  "district": "CA District 12",
+  "division": "ca/sldu-12",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Nathan Magsig",
+      "party": "Republican",
+      "incumbent": false
+    },
+    {
+      "name": "William Brown Jr.",
+      "party": "Libertarian",
+      "incumbent": false
+    }
+  ]
+}

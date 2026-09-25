@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 78",
+  "division": "ca/sldl-78",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Chris Ward",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Payton Galvez",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

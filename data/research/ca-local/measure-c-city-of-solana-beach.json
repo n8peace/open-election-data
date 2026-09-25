@@ -1,0 +1,18 @@
+{
+  "office": "Measure C",
+  "district": "City of Solana Beach",
+  "division": "ca/place-solana-beach",
+  "kind": "measure",
+  "summary": "A Yes vote increases the City of Solana Beach's transient occupancy (hotel/lodging) tax paid by visitors by one percent.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

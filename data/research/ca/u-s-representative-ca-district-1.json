@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 1",
+  "division": "ca/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Mike McGuire",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "James Gallagher",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

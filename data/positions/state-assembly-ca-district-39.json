@@ -1,0 +1,37 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 39",
+  "division": "ca/sldl-39",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Juan Carrillo",
+      "party": "Democratic",
+      "stances": {}
+    },
+    {
+      "name": "Paul Andre Marsh",
+      "party": "Republican",
+      "stances": {}
+    }
+  ],
+  "sources": "",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

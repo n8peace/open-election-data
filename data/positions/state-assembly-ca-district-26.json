@@ -1,0 +1,46 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 26",
+  "division": "ca/sldl-26",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Patrick Ahrens",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Ahrens said the state should accelerate affordable housing by streamlining zoning and permitting, while also saying cities should keep a voice in zoning to fit community character.",
+          "quote": "State action can support housing affordability by expanding programs like the Low-Income Housing Tax Credit (LIHTC) and streamlining zoning and permitting processes to accelerate affordable housing projects.",
+          "sourceUrl": "https://www.svvoice.com/state-assembly-district-26-candidates-weigh-in-on-local-california-issues/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Tim Gorsulowsky",
+      "party": "Republican",
+      "stances": {}
+    }
+  ],
+  "sources": "svvoice.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

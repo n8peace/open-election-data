@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 17",
+  "division": "ca/sldl-17",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Matt Haney",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Manuel Noris-Barrera",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

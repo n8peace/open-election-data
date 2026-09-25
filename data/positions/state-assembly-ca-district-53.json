@@ -1,0 +1,46 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 53",
+  "division": "ca/sldl-53",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Michelle Rodriguez",
+      "party": "Democratic",
+      "stances": {
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Identified advancing universal healthcare as one of her legislative priorities.",
+          "quote": "Her legislative priorities included advancing universal healthcare",
+          "sourceUrl": "http://politracks.com/official/michelle-rodriguez?tab=cosponsored&page=3",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Rafaela Romero",
+      "party": "Republican",
+      "stances": {}
+    }
+  ],
+  "sources": "politracks.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

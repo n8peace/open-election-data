@@ -1,0 +1,18 @@
+{
+  "office": "Measure G",
+  "district": "City of Yreka",
+  "division": "ca/place-yreka",
+  "kind": "measure",
+  "summary": "A Yes vote raises the City of Yreka's transient occupancy (hotel) tax rate from 10% to 12% effective July 1, 2027, generating an estimated $245,000 annually for general city services until repealed or amended.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

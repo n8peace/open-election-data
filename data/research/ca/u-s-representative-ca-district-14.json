@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 14",
+  "division": "ca/cd-14",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Melissa Hernandez",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Aisha Wahab",
+      "party": "Democratic",
+      "incumbent": false
+    }
+  ]
+}

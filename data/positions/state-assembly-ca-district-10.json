@@ -1,0 +1,86 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 10",
+  "division": "ca/sldl-10",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Stephanie Nguyen",
+      "party": "Democratic",
+      "stances": {}
+    },
+    {
+      "name": "Vinaya Singh",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Singh's campaign platform calls for cutting taxes and fees on gas, food, and other essentials.",
+          "quote": "Reduce taxes and fees on gas, food, and other essential items.",
+          "sourceUrl": "https://drsinghforassembly.com/on-the-issues/",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Singh proposes easing environmental regulations and fees to enable more low-cost housing.",
+          "quote": "Provide the same relief from environmental regulations and fees that builders of sports stadiums and other local revenue boosters receive, so that low-cost homes can be available for the poor and the homeless.",
+          "sourceUrl": "https://drsinghforassembly.com/on-the-issues/",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "Singh says parents should be able to move their children to another public or charter school.",
+          "quote": "Parents should also have the right to move their child to another public or charter school.",
+          "sourceUrl": "https://drsinghforassembly.com/on-the-issues/",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Singh says police should be funded to local needs and district attorneys should prosecute criminals to deter repeat offenders.",
+          "quote": "Law enforcement budgets should reflect the needs of the local population, and technology should be used to reduce crime and protect what are now fearful communities and business owners.",
+          "sourceUrl": "https://drsinghforassembly.com/on-the-issues/",
+          "agreement": "10/10"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "Singh calls for repealing AB 109 and Propositions 47 and 57, which reduced sentences and early-release restrictions.",
+          "quote": "AB 109, and Props. 47 and 57 have not led to safer communities and must be repealed.",
+          "sourceUrl": "https://drsinghforassembly.com/",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Singh calls for repealing California's sanctuary-state status and prioritizing services for citizens over asylum seekers.",
+          "quote": "Repeal California's Sanctuary State status and prioritize services for citizens over asylum seekers.",
+          "sourceUrl": "https://drsinghforassembly.com/on-the-issues/",
+          "agreement": "9/10"
+        }
+      }
+    }
+  ],
+  "sources": "drsinghforassembly.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

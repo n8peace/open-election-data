@@ -1,0 +1,224 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 1",
+  "division": "ca/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "James Gallagher",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Gallagher's campaign platform pledges to make life more affordable through lower taxes, fees and regulations.",
+          "quote": "Make life more affordable for North State families through lower taxes, lower fees and fewer regulations",
+          "sourceUrl": "https://electjamesgallagher.com/",
+          "agreement": "8/8"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He strongly agreed that the federal government should cut spending to reduce the national debt.",
+          "quote": "The government should cut spending in order to reduce the national debt.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/66228/race/25562/election/1385",
+          "agreement": "4/8"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He said making school choice a priority would give parents more control over their children's education.",
+          "quote": "Parents should be in the driver seat of their children’s education, and that starts with making school choice a priority.",
+          "sourceUrl": "https://cagop.org/es/what-they-are-saying-national-school-choice-week/",
+          "agreement": "3/8"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Gallagher's platform calls for tougher laws to protect communities from crime.",
+          "quote": "Enact tougher laws protect our communities, neighborhoods and homes from crime",
+          "sourceUrl": "https://electjamesgallagher.com/",
+          "agreement": "5/8"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Gallagher's platform pledges to continue tough border security.",
+          "quote": "Continue the tough border security implemented by the President",
+          "sourceUrl": "https://electjamesgallagher.com/",
+          "agreement": "7/8"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He said he opposes restrictions on firearm ownership by law-abiding citizens.",
+          "quote": "I support the 2nd Amendment and do not support restrictions on law-abiding citizens' ability to own firearms.",
+          "sourceUrl": "https://ivoterguide.com/candidate/66228/race/25562/election/1385",
+          "agreement": "5/8"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Gallagher opposed California's Proposition 1, arguing it lacked gestational limits protecting the unborn.",
+          "quote": "Babies like my twins at 30 weeks, their lives could be taken. And I don't think that's the right balance",
+          "sourceUrl": "https://www.kqed.org/news/11927597/the-v-word-proposition-1-revives-historic-abortion-debate-over-viability-in-california",
+          "agreement": "7/8"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He strongly agreed that women's sports and spaces should exclude biological males.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/66228/race/25562/election/1385",
+          "agreement": "5/8"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He said Medicare and Medicaid should remain but no additional taxpayer-funded health programs are necessary.",
+          "quote": "C) Medicaid and Medicare should remain available, but no other taxpayer-funded programs are necessary.",
+          "sourceUrl": "https://ivoterguide.com/candidate/66228/race/25562/election/1385",
+          "agreement": "3/8"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Gallagher's platform calls for expanding energy production to lower prices.",
+          "quote": "Expand energy production to bring prices down",
+          "sourceUrl": "https://electjamesgallagher.com/",
+          "agreement": "4/8"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He strongly disagreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/66228/race/25562/election/1385",
+          "agreement": "5/8"
+        }
+      }
+    },
+    {
+      "name": "Mike McGuire",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "McGuire called for restoring Medicaid funding and repealing tax cuts for billionaires.",
+          "quote": "And what I mean by that is we have to repeal the $1 trillion in cuts to Medicaid. We have to repeal the $2.2 trillion in cuts that Donald Trump has given billionaires in this country.",
+          "sourceUrl": "https://www.mynspr.org/news/2026-05-05/mike-mcguire-interview-california-1st-congressional-district-2026?_amp=true",
+          "agreement": "7/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "McGuire called for raising the federal minimum wage and cited California's higher wage floors for health-care and fast-food workers.",
+          "quote": "We have to raise the federal minimum wage. It has been $7.25 for 20 years. As Senate leader and as a state senator, we've raised the minimum wage in this state, $25 minimum wage for healthcare workers, $20 minimum wage for fast food workers.",
+          "sourceUrl": "https://www.mynspr.org/news/2026-05-05/mike-mcguire-interview-california-1st-congressional-district-2026?_amp=true",
+          "agreement": "7/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "McGuire called for eliminating tariffs, arguing that they raise costs for families and harm California agriculture.",
+          "quote": "So first of all, we need to eliminate the tariff taxes that's putting $2,400 annual burden onto families.",
+          "sourceUrl": "https://www.mynspr.org/news/2026-05-05/mike-mcguire-interview-california-1st-congressional-district-2026?_amp=true",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "McGuire says he has worked to build more housing and cut red tape to make it easier to construct homes in California.",
+          "quote": "I've worked to build more housing and cut red tape in California.",
+          "sourceUrl": "https://www.votemikemcguire.com/issues",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "McGuire's campaign highlights his record of increasing public-school funding and providing universal meals to public-school students.",
+          "quote": "Mike helped spearhead the creation of tens of thousands of new childcare slots, invested record funding for public schools, implemented free universal school meals for every public school student in the state, expanded tuition-free college for tens of thousands of students, and developed the plan that saved one of Northern California’s top universities from going under.",
+          "sourceUrl": "https://www.votemikemcguire.com/about",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "McGuire advanced a public-safety package combining treatment and rehabilitation with measures to deter and prosecute crime.",
+          "quote": "The plan focuses on both the fentanyl crisis and retail and community-based crime, and includes increasing access to treatment, offering rehabilitative services for those already in the criminal justice system, preventing trafficking of dangerous new substances, and addressing and deterring retail theft and community-based crimes.",
+          "sourceUrl": "https://sd02.senate.ca.gov/news/senate-leader-mcguire-senate-colleagues-announce-new-bipartisan-legislative-package-working",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Under a 'Holding ICE Accountable' heading, McGuire vows to oppose the Trump administration's use of government against people.",
+          "quote": "Donald Trump has made one thing crystal clear: he is willing to shred the Constitution and weaponize our government to terrorize the American people.",
+          "sourceUrl": "https://www.votemikemcguire.com/issues",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "McGuire says he has fought to keep Planned Parenthood clinics open and to protect abortion rights in California.",
+          "quote": "I've successfully fought to keep Planned Parenthood clinics open and to protect abortion rights in California.",
+          "sourceUrl": "https://www.votemikemcguire.com/issues",
+          "agreement": "10/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "McGuire enacted licensing reforms intended to support regulated, licensed cannabis farms.",
+          "quote": "Just like with other agricultural crops, cannabis farmers shouldn’t go under from one bad season, whether it’s from a tough market, drought, or even a wildfire.",
+          "sourceUrl": "https://sd02.senate.ca.gov/news/mcguires-commonsense-cannabis-licensing-reform-act-help-small-family-cannabis-farmers-signed",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "McGuire says he has worked to move Medicare for All forward in California to guarantee coverage for everyone.",
+          "quote": "That's why I've worked day and night to move Medicare for All forward in California, to guarantee health coverage and mental health care – for everyone.",
+          "sourceUrl": "https://www.votemikemcguire.com/issues",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "McGuire says he has led the fight for stronger environmental laws and climate action and taken on Big Oil.",
+          "quote": "I've led the fight for stronger environmental laws and climate action, and taken on Big Oil.",
+          "sourceUrl": "https://www.votemikemcguire.com/issues",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "McGuire says he will fight to protect voting rights and civil rights.",
+          "quote": "I'll fight to protect voting rights, civil rights, and labor rights, stand up to political violence, and ensure government works for everyone.",
+          "sourceUrl": "https://www.votemikemcguire.com/issues",
+          "agreement": "7/10"
+        }
+      }
+    }
+  ],
+  "sources": "electjamesgallagher.com · ivoterguide.com · cagop.org · kqed.org · mynspr.org · votemikemcguire.com · sd02.senate.ca.gov",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

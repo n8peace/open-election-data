@@ -1,0 +1,316 @@
+{
+  "office": "U.S. Representative",
+  "district": "NV District 1",
+  "division": "nv/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Carrie Ann Buck",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Buck said families do not need another federal tax increase.",
+          "quote": "The last thing they need is another tax increase.",
+          "sourceUrl": "https://thenevadaindependent.com/article/heres-where-the-candidates-stand-on-the-issues-in-nevadas-1st-congressional-district",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Buck opposed drastic minimum-wage increases, saying they would harm small-business growth.",
+          "quote": "Demands to drastically increase minimum wage are not sustainable to a capitalist society, specifically small business growth.",
+          "sourceUrl": "https://ivoterguide.com/candidate/79195/race/20478/election/1221?culture=en-us",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Buck said tariffs can protect American jobs but should be targeted and temporary enough not to raise costs for Nevada families and businesses.",
+          "quote": "they should be targeted and used strategically, not become permanent policies that drive up costs for Nevada families and small businesses.",
+          "sourceUrl": "https://thenevadaindependent.com/article/heres-where-the-candidates-stand-on-the-issues-in-nevadas-1st-congressional-district",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Buck opposed raising the Social Security retirement age and said Social Security should be protected for current and future retirees.",
+          "quote": "Nevadans spend their working lives paying into Social Security and should be able to count on it when they retire,",
+          "sourceUrl": "https://thenevadaindependent.com/article/heres-where-the-candidates-stand-on-the-issues-in-nevadas-1st-congressional-district",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Buck supported making more federal land available for housing and responsible economic development.",
+          "quote": "making more federal land available for housing and responsible economic development while protecting Nevada's public lands",
+          "sourceUrl": "https://thenevadaindependent.com/article/heres-where-the-candidates-stand-on-the-issues-in-nevadas-1st-congressional-district",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Buck strongly supported allowing education funding to follow children to public, private or homeschool options.",
+          "quote": "The state should fund education by allowing dollars to follow the child through programs which protect parents' freedom to choose their child's school – public, private, or homeschool.",
+          "sourceUrl": "https://ivoterguide.com/candidate/79195/race/20478/election/1221?culture=en-us",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Buck strongly opposed redirecting police funding to community programs.",
+          "quote": "I support redirecting funds from police departments to community programs.\n Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/79195/race/20478/election/1221?culture=en-us",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "Buck called for securing the border and focusing deportations on violent criminals rather than deporting every undocumented immigrant.",
+          "quote": "We need to secure the border and enforce our immigration laws, with deportation focused on violent illegal criminals,",
+          "sourceUrl": "https://thenevadaindependent.com/article/heres-where-the-candidates-stand-on-the-issues-in-nevadas-1st-congressional-district",
+          "agreement": "4/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Buck said any restriction on gun ownership violates the Constitution and supported allowing teachers to carry guns at school.",
+          "quote": "I believe that any restriction on gun ownership is a Consitutional violation and is not just.",
+          "sourceUrl": "https://ivoterguide.com/candidate/79195/race/20478/election/1221?culture=en-us",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Buck said elective abortion should generally be allowed only in cases of rape, incest or a threat to the mother's life.",
+          "quote": "Abortion should only be allowed in moments of rape, incest, or in medical situations in which the life of the mother is threatened.",
+          "sourceUrl": "https://ivoterguide.com/candidate/79195/race/20478/election/1221?culture=en-us",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Buck supported excluding biological males from women's sports and other biological women's spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/79195/race/20478/election/1221?culture=en-us",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Buck supported extending Affordable Care Act premium subsidies and retaining Medicaid and Medicare while seeking lower health-care costs.",
+          "quote": "I support extending these subsidies so families do not face higher premiums",
+          "sourceUrl": "https://thenevadaindependent.com/article/heres-where-the-candidates-stand-on-the-issues-in-nevadas-1st-congressional-district",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Buck said stricter environmental regulations cost jobs and can undermine energy independence and reliable electricity sources.",
+          "quote": "Stricter environmental laws and regulations cost too many jobs and hurt the economy.",
+          "sourceUrl": "https://ivoterguide.com/candidate/79195/race/20478/election/1221?culture=en-us",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Buck opposed voting without photo identification and supported proof-of-citizenship requirements for voter registration.",
+          "quote": "Requiring proof of citizenship to register to vote is a commonsense safeguard that helps protect election integrity.",
+          "sourceUrl": "https://thenevadaindependent.com/article/heres-where-the-candidates-stand-on-the-issues-in-nevadas-1st-congressional-district",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Afzal \"Bobby\" Khan",
+      "party": "NP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Khan proposes eliminating federal taxes on veterans’ income, retirement income, and gambling winnings, and raising the IRS reporting threshold.",
+          "quote": "Bobby will fight to eliminate federal taxes on retirement income, including Social Security, pensions, and withdrawals from retirement accounts.",
+          "sourceUrl": "https://bobbykhanforcongress.com/solutions/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Khan proposes transferring surplus federal land to state and local control to expand affordable housing and new development.",
+          "quote": "Bobby will lead the charge to transfer surplus federal land to state and local control so we can expand affordable housing, attract new development, and stabilize rents",
+          "sourceUrl": "https://bobbykhanforcongress.com/solutions/",
+          "agreement": "5/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Khan supports removing marijuana from federal drug classification, ending federal penalties for state-compliant users and businesses, and expunging nonviolent marijuana records.",
+          "quote": "Bobby Khan supports removing marijuana from federal drug classification and ending federal penalties for individuals and businesses that comply with state law.",
+          "sourceUrl": "https://bobbykhanforcongress.com/state-rights-on-marijuana-and-other-issues/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Khan supports expanding oil, natural gas, and nuclear energy to reduce utility bills, gas prices, and inflation.",
+          "quote": "Bobby supports unleashing American energy—oil, natural gas, and nuclear—so we can drive down utility bills, gas prices, and inflation across the board.",
+          "sourceUrl": "https://bobbykhanforcongress.com/solutions/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Steven \"Chap\" St. John",
+      "party": "NP",
+      "stances": {
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "The campaign says it will protect Medicare and Medicaid and support stability for seniors.",
+          "quote": "Advocating for access to care, protecting Medicare and Medicaid, and lowering the burden of medical costs.",
+          "sourceUrl": "https://www.chaplainstevenstjohnforcongress.com/",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He strongly agreed that the government should enforce laws protecting the border and preventing illegal entry.",
+          "quote": "Government should enforce laws designed to protect the border and to prevent illegal entry of persons into the country.",
+          "sourceUrl": "https://ivoterguide.com/candidate/25330/race/2146/election/307?culture=en-us",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He strongly agreed that more restrictive gun-control laws are needed to protect public safety.",
+          "quote": "More restrictive gun control laws are needed now to protect public safety.",
+          "sourceUrl": "https://ivoterguide.com/candidate/25330/race/2146/election/307?culture=en-us",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Supports allowing abortion in circumstances including rape, incest, criminal offenses, and threats to the mother's health.",
+          "quote": "I am for women's rights to be treated with decency and respect. I am going to keep certain parts of this private but under rape, incest, criminal offenses and the mother's health.",
+          "sourceUrl": "https://ivoterguide.com/candidate/25330/race/2146/election/307?culture=en-us",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He agreed that government should ensure everyone has health care and a livable income and strongly disagreed with repealing the Affordable Care Act.",
+          "quote": "It is the government’s responsibility to be sure everyone has health care and a livable income.",
+          "sourceUrl": "https://ivoterguide.com/candidate/25330/race/2146/election/307?culture=en-us",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "He strongly agreed that governments should fund wind and solar development when those solutions are not economically feasible.",
+          "quote": "Governments should pay to develop wind and solar energy solutions when these are not economically feasible.",
+          "sourceUrl": "https://ivoterguide.com/candidate/25330/race/2146/election/307?culture=en-us",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He gave a neutral response when asked whether people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Neutral",
+          "sourceUrl": "https://ivoterguide.com/candidate/25330/race/2146/election/307?culture=en-us",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Dina Titus",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Titus said taxpayers should not pay additional federal taxes to fund the Iran war or projects of the Trump administration.",
+          "quote": "Taxpayers should not have to pay extra federal taxes to support the war in Iran and President Trump's vanity projects such as his White House ballroom, his arch and his golden horses",
+          "sourceUrl": "https://thenevadaindependent.com/article/heres-where-the-candidates-stand-on-the-issues-in-nevadas-1st-congressional-district",
+          "agreement": "6/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Titus said tariffs increased costs, harmed tourism and reduced jobs and government revenue in Southern Nevada.",
+          "quote": "President Trump's tariffs have driven up the cost of living in Southern Nevada and caused a downturn in our tourism economy, leading to lost jobs and less revenue to support critical government services",
+          "sourceUrl": "https://thenevadaindependent.com/article/heres-where-the-candidates-stand-on-the-issues-in-nevadas-1st-congressional-district",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Titus opposed raising the Social Security retirement age and said the promised retirement age should be honored.",
+          "quote": "We have promised seniors they can retire at age 67 and we should honor that promise",
+          "sourceUrl": "https://thenevadaindependent.com/article/heres-where-the-candidates-stand-on-the-issues-in-nevadas-1st-congressional-district",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Titus secured funding for both police equipment and an anti-violence initiative that includes intervention services for victims.",
+          "quote": "This will implement a comprehensive anti-violence initiative focused on: improving training for police and prosecutors; providing qualified, consistent forensic examinations; and providing intervention services for victims of domestic violence and sexual assault.",
+          "sourceUrl": "https://titus.house.gov/news/documentsingle.aspx?DocumentID=5838",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Titus opposed deporting all undocumented immigrants and said immigration enforcement should focus on people who committed violent crimes or pose a threat.",
+          "quote": "Immigration enforcement efforts should be focused on people who have committed violent crimes and pose a threat to our society",
+          "sourceUrl": "https://thenevadaindependent.com/article/heres-where-the-candidates-stand-on-the-issues-in-nevadas-1st-congressional-district",
+          "agreement": "9/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Titus introduced legislation to remove federal barriers to cannabis research and described responsible legal cannabis use as an economic driver.",
+          "quote": "The legal, responsible use of cannabis has been a major economic driver in Nevada and across the country and deserves further research",
+          "sourceUrl": "https://titus.house.gov/news/documentsingle.aspx?DocumentID=5878",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Titus supported reinstating ACA premium subsidies and opposed Medicaid work requirements.",
+          "quote": "The action by the Republican Congress to allow the premium tax credits to expire has forced thousands of Nevadans to either lose their insurance or pay exorbitant premiums",
+          "sourceUrl": "https://thenevadaindependent.com/article/heres-where-the-candidates-stand-on-the-issues-in-nevadas-1st-congressional-district",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Titus supported appropriations for clean-energy programs and increased EPA funding to address climate change.",
+          "quote": "Investing in Clean Energy: Provides $3.1 billion for Energy Efficiency and Renewable Energy funding, repudiating the Trump administration's crusade against clean energy;",
+          "sourceUrl": "https://titus.house.gov/news/documentsingle.aspx?DocumentID=5838",
+          "agreement": "3/10"
+        }
+      }
+    }
+  ],
+  "sources": "thenevadaindependent.com · ivoterguide.com · bobbykhanforcongress.com · chaplainstevenstjohnforcongress.com · titus.house.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

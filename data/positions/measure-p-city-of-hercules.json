@@ -1,0 +1,32 @@
+{
+  "office": "Measure P",
+  "district": "City of Hercules",
+  "division": "ca/place-hercules",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a one-cent (1%) City of Hercules sales tax expected to raise about $4 million per year for general city services including emergency response, police, water quality, and street repair.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Yes on Measure P supports raising the Hercules sales tax by one cent to sustain city services and prevent cuts to programs like street maintenance and neighborhood crime prevention.",
+          "quote": "residents favored continuing neighborhood crime prevention, attracting businesses and preventing cuts to street maintenance.",
+          "sourceUrl": "https://citizenportal.ai/articles/9913244/california/contra-costa-county/hercules-city/hercules-council-votes-to-place-upto1-sales-tax-measure-on-nov-2026-ballot-citing-projected-shortfalls",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "citizenportal.ai",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

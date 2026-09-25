@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Representative",
+  "district": "NV District 1",
+  "division": "nv/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Carrie Ann Buck",
+      "party": "REP"
+    },
+    {
+      "name": "Afzal \"Bobby\" Khan",
+      "party": "NP"
+    },
+    {
+      "name": "Steven \"Chap\" St. John",
+      "party": "NP"
+    },
+    {
+      "name": "Dina Titus",
+      "party": "DEM"
+    }
+  ]
+}

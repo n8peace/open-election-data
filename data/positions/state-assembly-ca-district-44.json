@@ -1,0 +1,119 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 44",
+  "division": "ca/sldl-44",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Nicholas \"Nick\" Schultz",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Schultz says he is working to make it easier to build housing and supported legislation allowing some commercial properties to be converted to residential use.",
+          "quote": "Nick is fighting to make it easier to build needed housing and expand programs to help renters and first-time homebuyers.",
+          "sourceUrl": "https://www.votenickschultz.com/",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Schultz says he supports fully funding public education and has backed increased school funding and teacher-support programs.",
+          "quote": "Local teachers support Nick because he’s a champion for fully funding our system of public education and lowering barriers for college students.",
+          "sourceUrl": "https://www.votenickschultz.com/",
+          "agreement": "8/10"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "lean",
+          "text": "As committee chair, Schultz recommended voting yes on a bill that would allow courts to impose an additional sentencing aggravating factor.",
+          "quote": "I am recommending an aye.",
+          "sourceUrl": "https://calmatters.digitaldemocracy.org/hearings/278731",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Schultz co-authored legislation limiting immigration enforcement access to schools without a judicial warrant and requiring notification when enforcement occurs on campus.",
+          "quote": "AB 49, which prohibits employees of a local education agency from allowing immigration enforcement to enter a school site without a valid judicial warrant or court order",
+          "sourceUrl": "https://www.crescentavalleyweekly.com/news/11/13/2025/education-and-other-policy-changes-could-affect-school-district-says-rep-nick-schultz/",
+          "agreement": "3/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Schultz authored a bill intended to reduce electricity costs for consumers and said he would revise and reintroduce it after the governor’s veto.",
+          "quote": "Had it passed, the bill would have significantly decreased energy costs for consumers and retail rate payers – up to $550 million a year, according to Schultz.",
+          "sourceUrl": "https://www.crescentavalleyweekly.com/news/11/13/2025/education-and-other-policy-changes-could-affect-school-district-says-rep-nick-schultz/",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "Carolyn Daniels",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She supports suspending the gas tax, cutting the car tax and reducing income taxes while opposing new tax hikes.",
+          "quote": "Suspend the gas tax, cut the car tax, and reduce the income tax. Defend Prop. 13.",
+          "sourceUrl": "https://www.ballotready.org/people/carolyn-daniels-9dd00d0d-9b75-4066-b6e7-afb9c84648c3",
+          "agreement": "3/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She supports cutting regulations and streamlining permits to increase the housing supply.",
+          "quote": "Build More Homes: Cut expensive regulations and streamline permitting to increase supply.",
+          "sourceUrl": "https://www.ballotready.org/people/carolyn-daniels-9dd00d0d-9b75-4066-b6e7-afb9c84648c3",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "She supports police, Prop. 36 reforms and prioritizing victims in public-safety policy.",
+          "quote": "Restore Public Safety: Support Prop. 36 reforms, back police, and put victims first—not criminals.",
+          "sourceUrl": "https://www.ballotready.org/people/carolyn-daniels-9dd00d0d-9b75-4066-b6e7-afb9c84648c3",
+          "agreement": "3/3"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "She supports incarcerating drug offenders and enforcing anti-camping laws.",
+          "quote": "Prioritize mental treatment and incarcerate drug offenders. Enforce anti-camping laws.",
+          "sourceUrl": "https://www.ballotready.org/people/carolyn-daniels-9dd00d0d-9b75-4066-b6e7-afb9c84648c3",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "She supports expanding access to natural resources and reducing climate policies that she says raise energy costs.",
+          "quote": "Reduce Energy Bills: California has plenty of natural resources. Sacramento is blocking them. Dump foolish climate policies and make energy abundant again.",
+          "sourceUrl": "https://www.ballotready.org/people/carolyn-daniels-9dd00d0d-9b75-4066-b6e7-afb9c84648c3",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "votenickschultz.com · calmatters.digitaldemocracy.org · crescentavalleyweekly.com · ballotready.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

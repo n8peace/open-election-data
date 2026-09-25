@@ -1,0 +1,18 @@
+{
+  "office": "State Senate",
+  "district": "CA District 36",
+  "division": "ca/sldu-36",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Chris Duncan",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Tony Strickland",
+      "party": "Republican",
+      "incumbent": true
+    }
+  ]
+}

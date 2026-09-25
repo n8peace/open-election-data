@@ -1,0 +1,18 @@
+{
+  "office": "State Senate",
+  "district": "CA District 40",
+  "division": "ca/sldu-40",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Mara Elliott",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Kristie Bruce-Lane",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

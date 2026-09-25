@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "AZ District 1",
+  "division": "az/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Amish Shah",
+      "party": "Democratic"
+    },
+    {
+      "name": "Monica Alponte",
+      "party": "Libertarian"
+    }
+  ]
+}

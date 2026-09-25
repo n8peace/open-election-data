@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 59",
+  "division": "ca/sldl-59",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Phillip Chen",
+      "party": "Republican",
+      "incumbent": true
+    },
+    {
+      "name": "Victor Hernandez",
+      "party": "Green",
+      "incumbent": false
+    }
+  ]
+}

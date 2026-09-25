@@ -1,0 +1,87 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 16",
+  "division": "ca/sldl-16",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Rebecca Bauer-Kahan",
+      "party": "Democratic",
+      "stances": {
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "She sponsored and passed measures restricting firearm possession in certain circumstances and banning firearm marketing to children.",
+          "quote": "Rebecca has introduced and passed bipartisan bills that strengthen gun safety laws.",
+          "sourceUrl": "https://www.rebeccabauerkahan.com/issues/gun-safety",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She authored laws creating legal and privacy protections for abortion providers and patients in California.",
+          "quote": "She authored a bill that was signed into law and enacted the very day Roe was overturned to create a strong legal shield for California abortion providers and patients.",
+          "sourceUrl": "https://www.rebeccabauerkahan.com/issues/womens-health-reproductive-rights",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Joseph A. Rubay",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Rubay calls for cutting spending, lowering the cost of living, and reducing the state gas tax.",
+          "quote": "In the Assembly I'll push for a comprehensive review of our infrastructural expenditures and practices so that we can upgrade our roads and reduce the gas tax.",
+          "sourceUrl": "https://joerubay.nationbuilder.com/joe_on_issues",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "Rubay opposes raising the minimum wage (such as SB-525's healthcare wage), arguing it raises costs on those least able to afford it.",
+          "quote": "Raising minimum wages also increases the costs of goods and services which in turn has the greatest impact on those who can least afford it.",
+          "sourceUrl": "https://joerubay.nationbuilder.com/joe_on_issues",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Rubay opposes defunding police and calls for restoring full funding to local law enforcement.",
+          "quote": "He opposes efforts to defund the police and supports restoring adequate funding to local law enforcement agencies.",
+          "sourceUrl": "https://www.rubay4assembly.com/",
+          "agreement": "5/5"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "Rubay criticizes lenient prosecution and early-release policies and calls for stronger accountability for repeat offenders.",
+          "quote": "Rising crime rates, lenient prosecution, and early release policies have endangered neighborhoods, and he calls for stronger accountability for repeat offenders.",
+          "sourceUrl": "https://www.rubay4assembly.com/",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "rebeccabauerkahan.com · joerubay.nationbuilder.com · rubay4assembly.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

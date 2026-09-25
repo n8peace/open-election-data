@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 45",
+  "division": "ca/sldl-45",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "James C. Ramos",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Greg Abdouch",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

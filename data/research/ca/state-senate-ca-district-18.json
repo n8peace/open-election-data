@@ -1,0 +1,18 @@
+{
+  "office": "State Senate",
+  "district": "CA District 18",
+  "division": "ca/sldu-18",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Steve Padilla",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Art Hodges",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

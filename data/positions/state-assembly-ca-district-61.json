@@ -1,0 +1,71 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 61",
+  "division": "ca/sldl-61",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Tina Simone McKinnor",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "McKinnor authored AB 288 to protect private-sector workers' right to unionize and previously led the effort to let legislative staff join a union.",
+          "quote": "if this federal government won't respect a worker's right to join a union",
+          "sourceUrl": "https://calaborfed.org/press-releases/billionaires-want-to-take-away-workers-right-to-organize-ab-288-protects-it/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Brian Lockwood",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Lockwood's campaign platform calls for reducing taxes and regulation on families.",
+          "quote": "Families will continue to be unburdened with the removal of restrictive taxes & red tape, the unleashing of California's abundant energy resources, and the upgrading of our infrastructure beyond previous empty promises.",
+          "sourceUrl": "https://www.electbrianlockwood.com/issues",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "His platform leads with backing police and ending crime on the streets.",
+          "quote": "It begins with a renewed support for law enforcement. No more homelessness, drugs, and violent crime on our streets",
+          "sourceUrl": "https://www.electbrianlockwood.com/issues",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He calls for expanding California's energy production.",
+          "quote": "Families will continue to be unburdened with the removal of restrictive taxes & red tape, the unleashing of California's abundant energy resources, and the upgrading of our infrastructure beyond previous empty promises.",
+          "sourceUrl": "https://www.electbrianlockwood.com/issues",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "calaborfed.org · electbrianlockwood.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

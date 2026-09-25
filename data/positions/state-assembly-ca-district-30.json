@@ -1,0 +1,87 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 30",
+  "division": "ca/sldl-30",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Dawn Addis",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "On a candidate questionnaire, Addis said the region is not building enough affordable housing and backed making housing easier to build.",
+          "quote": "We are not doing enough to build affordable housing and reduce homelessness.",
+          "sourceUrl": "https://slochamber.org/state-assembly-candidate-dawn-addis/",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Authored legislation seeking remedies for unlawful arrests and described her work as providing protections from Immigration and Customs Enforcement intervention.",
+          "quote": "Addis’ political action contributes to further legislative action and protections from Immigration and Customs Enforcement intervention.",
+          "sourceUrl": "https://mustangnews.net/dawn-addis-impacts-cal-poly/",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Co-sponsored a law giving local governments greater authority to restrict oil and gas operations.",
+          "quote": "giving cities and counties greater authority to impose restrictions on oil and gas operations.",
+          "sourceUrl": "https://dawnaddis.org/news/",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Shannon Kessler",
+      "party": "Republican",
+      "stances": {
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Kessler supports school choice, saying parents should decide whether their children are educated through homeschooling, private, public, or charter schools.",
+          "quote": "School choice, Kessler said, means parents would have the right to decide whether their children should be educated through homeschooling, private, public, or charter schools.",
+          "sourceUrl": "https://www.newtimesslo.com/arroyo-grande-parents-rights-advocate-shannon-kessler-runs-for-assembly-17055135/",
+          "agreement": "3/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Kessler called for public safety policies that combine accountability with resources directed toward approaches that reduce crime.",
+          "quote": "We need smart, balanced public safety policies that hold offenders accountable while focusing resources where they actually reduce crime.",
+          "sourceUrl": "https://www.kesslerforca.com/priorities",
+          "agreement": "5/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Kessler founded Save Girls' Sports Central Coast and says she is running to ensure locker rooms, bathrooms, and sports are limited to biological females.",
+          "quote": "This lack of responsiveness motivated me to run for office—partly to advocate for parental rights and to ensure that locker rooms, bathrooms, and sports are reserved for biological females only.",
+          "sourceUrl": "https://www.newtimesslo.com/arroyo-grande-parents-rights-advocate-shannon-kessler-runs-for-assembly-17055135/",
+          "agreement": "9/10"
+        }
+      }
+    }
+  ],
+  "sources": "slochamber.org · mustangnews.net · dawnaddis.org · newtimesslo.com · kesslerforca.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

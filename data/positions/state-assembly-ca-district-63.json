@@ -1,0 +1,87 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 63",
+  "division": "ca/sldl-63",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Natasha Johnson",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Johnson says that as a city councilwoman she opposed fee increases and pledges to reduce the cost of living for working families.",
+          "quote": "consistently opposed fee increases that burden our working families and small businesses",
+          "sourceUrl": "https://natashajohnsonforassembly.com/issues/",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Johnson presented a bill authorizing local governments to use tax increment financing districts to develop workforce housing.",
+          "quote": "I&#x27;m here to present AB 2110 that provides local governments with the authority to establish tax increment financing districts for the purpose of financing workforce housing for education, manufacturing, health care, and public safety personnel.",
+          "sourceUrl": "https://calmatters.digitaldemocracy.org/hearings/279188",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Johnson advocates for expanded educational options, including charter schools, so parents in any zip code can choose schools that fit their children.",
+          "quote": "support for charter schools that have provided innovative and high-performing alternatives to traditional public schools",
+          "sourceUrl": "https://natashajohnsonforassembly.com/issues/",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Johnson says she increased patrols in high-crime areas and funded police equipment and training, and opposed policies she says restrained officers.",
+          "quote": "supported our police department with critical funding for equipment and training, and stood against policies that handcuffed officers from doing their jobs",
+          "sourceUrl": "https://natashajohnsonforassembly.com/issues/",
+          "agreement": "9/10"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "Johnson calls for tougher penalties for violent repeat offenders, fentanyl traffickers and organized retail theft, and to repeal laws she says emboldened criminals.",
+          "quote": "including tougher penalties for violent repeat offenders, fentanyl traffickers, and organized retail theft",
+          "sourceUrl": "https://natashajohnsonforassembly.com/issues/",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Kevin Akin",
+      "party": "Peace and Freedom",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Akin said the Peace and Freedom Party was pursuing minimum-wage reform and described the effort as gaining momentum.",
+          "quote": "Current efforts by the PFP for minimum wage reform are “building up momentum and appears likely to overwhelm the opposition,” contends Akin.",
+          "sourceUrl": "https://ivn.us/peace-freedom-party-defines-victory-influences-policy-not-elections-won/",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "natashajohnsonforassembly.com · calmatters.digitaldemocracy.org · ivn.us",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

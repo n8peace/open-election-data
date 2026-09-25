@@ -1,0 +1,120 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 13",
+  "division": "ca/cd-13",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Adam Gray",
+      "party": "Democratic",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Sponsored legislation to limit tariffs that raise food prices and hurt Valley farmers.",
+          "quote": "Adam has sponsored legislation to lower food prices by limiting costly tariffs that drive up costs for families and hurt Valley farmers.",
+          "sourceUrl": "https://www.adamgrayforcongress.com/about",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Said government should address housing unaffordability by removing zoning, permitting, financing and other barriers that slow construction.",
+          "quote": "Too many young, working families cannot afford to buy a home — not because America has forgotten how to build houses, but because we have made building them slower, harder and dramatically more expensive through overlapping zoning rules, lawsuits, permit delays, financing barriers and bureaucratic red tape.",
+          "sourceUrl": "https://www.adamgrayforcongress.com/news/op-ed-my-purple-district-can-tell-you-what-the-democratic-autopsy-left-out",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Cosponsored legislation to fully fund special-education requirements and secured funding for public-school programs.",
+          "quote": "Cosponsored the bipartisan IDEA Full Funding Act to ensure that children with disabilities can access a free, high quality public education.",
+          "sourceUrl": "https://www.adamgrayforcongress.com/issues",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Supported law-enforcement funding and policies focused on apprehending drug traffickers and gang leaders.",
+          "quote": "Adam strongly supports law enforcement at the local, state, and national levels",
+          "sourceUrl": "https://www.adamgrayforcongress.com/issues",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Supported stronger border security while also backing legal-status pathways and opposing many current ICE operations.",
+          "quote": "I think it&#x27;s important that we have a strong border, but I think it&#x27;s also important that we treat people with respect and dignity when they&#x27;re here following the law, trying to contribute to our economy.",
+          "sourceUrl": "https://www.kcra.com/article/california-june-2-primary-election-congressional-district-13-candidates/71462835",
+          "agreement": "5/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "As a state representative, Gray voted for a bill allowing qualified nurses, midwives and physician assistants to perform certain first-trimester abortions.",
+          "quote": "This bill makes an exception for performing an abortion by medication or aspiration techniques in the first trimester of pregnancy if the person holds a license to perform the necessary functions.",
+          "sourceUrl": "https://www.ontheissues.org/Archive/Legis_CA_Adam_Gray.htm",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Gray has repeatedly pushed to extend the ACA's enhanced premium tax credits and to restore federal Medicaid funding, opposing cuts to those public programs.",
+          "quote": "With these tax credits set to expire at the end of this month, millions of Americans are facing a sudden and devastating increase in health care costs",
+          "sourceUrl": "https://gray.house.gov/media/press-releases/rep-gray-leads-central-valley-lawmakers-push-vote-aca-tax-credits",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Kevin Lincoln",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Lincoln's campaign says he balanced Stockton's budgets without tax increases and would cut spending and lower taxes in Congress.",
+          "quote": "he will work to cut wasteful government spending, lower taxes, and put more money back in the pockets of hardworking Central Valley families.",
+          "sourceUrl": "https://www.kevinlincolnforcongress.com/issues",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "As mayor Lincoln increased police funding and opposed defunding, and his campaign touts backing police and fighting soft-on-crime policies.",
+          "quote": "Kevin Lincoln backed the blue, delivering an 18% pay raise and a $42 million budget increase to keep officers on the streets.",
+          "sourceUrl": "https://www.kevinlincolnforcongress.com/issues",
+          "agreement": "5/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Lincoln's campaign said he would oppose transgender bathroom policies and gender-affirming care for minors.",
+          "quote": "His campaign says he would oppose Diversity, Equity and Inclusion mandates, transgender bathroom policies and gender-affirming care for minors.",
+          "sourceUrl": "https://www.cbsnews.com/sacramento/news/california-congressional-district-13-primary-election-2026/",
+          "agreement": "4/10"
+        }
+      }
+    }
+  ],
+  "sources": "adamgrayforcongress.com · kcra.com · ontheissues.org · gray.house.gov · kevinlincolnforcongress.com · cbsnews.com",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

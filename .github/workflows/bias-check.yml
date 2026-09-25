@@ -1,0 +1,62 @@
+name: Bias check
+# Every pull request: three models from different companies review the change for
+# partisan bias. Uses pull_request_target so the check can use the AI key on pull
+# requests from forks. It never checks out or runs the pull request's code: it only
+# reads the diff as text, and it runs the reviewer script from the main branch.
+#
+# Cost guard: it runs when a pull request opens, and again on new pushes only for
+# people with write access. Anyone else's later pushes are rechecked when a
+# maintainer adds the "recheck-bias" label.
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened, ready_for_review, labeled]
+
+permissions:
+  contents: read
+  pull-requests: write
+
+concurrency:
+  group: bias-check-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  bias:
+    if: >-
+      github.event.pull_request.draft == false && (
+        github.event.action == 'opened' || github.event.action == 'reopened' || github.event.action == 'ready_for_review' ||
+        (github.event.action == 'labeled' && github.event.label.name == 'recheck-bias') ||
+        (github.event.action == 'synchronize' && contains(fromJSON('["OWNER","MEMBER","COLLABORATOR"]'), github.event.pull_request.author_association)))
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      AI_GATEWAY_API_KEY: ${{ secrets.AI_GATEWAY_API_KEY }}
+      PR: ${{ github.event.pull_request.number }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - name: Get the change as text
+        run: |
+          gh pr diff "$PR" --repo "$GITHUB_REPOSITORY" > pr.diff || {
+            printf '## Bias check\n\n**This change is too large to fetch as one diff, so it was not reviewed automatically.** A maintainer should review it by hand, or split it into smaller pull requests.\n' > bias-report.md
+            exit 1
+          }
+      - name: Review for bias with three models
+        id: review
+        run: npm run bias-check -- pr.diff
+        continue-on-error: true
+      - name: Post the result on the pull request
+        if: always() && hashFiles('bias-report.md') != ''
+        run: gh pr comment "$PR" --repo "$GITHUB_REPOSITORY" --body-file bias-report.md --edit-last || gh pr comment "$PR" --repo "$GITHUB_REPOSITORY" --body-file bias-report.md
+      - name: Block on a confirmed high-severity concern
+        if: steps.review.outcome == 'failure'
+        run: exit 1
+      - name: Let the label be used again
+        if: always() && github.event.action == 'labeled'
+        run: gh pr edit "$PR" --repo "$GITHUB_REPOSITORY" --remove-label recheck-bias

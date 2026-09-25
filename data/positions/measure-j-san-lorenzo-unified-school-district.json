@@ -1,0 +1,41 @@
+{
+  "office": "Measure J",
+  "district": "San Lorenzo Unified School District",
+  "division": "ca/school-san-lorenzo-unified",
+  "kind": "measure",
+  "summary": "A Yes vote renews the district's $99 per parcel annual tax for 12 years, raising about $1.8 million annually for academic programs and teacher retention.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Yes on Measure J renews an expiring $99 parcel tax for 12 years to keep funding San Lorenzo school programs and retain teachers.",
+          "quote": "To renew expiring local school funding without increasing current tax rates; support academic excellence and programs in reading, writing, math, arts, science and technology; attract and retain highly qualified teachers and staff; and continue stable, local funding the State cannot take away",
+          "sourceUrl": "https://localnewsmatters.org/alameda-county-november-3-2026/",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote would maintain locally raised funding for San Lorenzo Unified academic programs and instructor retention.",
+          "quote": "SLZUSD's last voter-approved parcel tax is set to expire this year, which would cause the loss of $1.8 million annually for academic programs and instructor retention.",
+          "sourceUrl": "https://www.slzusd.org/apps/pages/www.slzusd.org/about-us/local-funding/",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "localnewsmatters.org · slzusd.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

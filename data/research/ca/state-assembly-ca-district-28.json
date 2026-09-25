@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 28",
+  "division": "ca/sldl-28",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Gail Pellerin",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Carol Pefley",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "office": "Measure FF",
+  "district": "City of Oakland",
+  "division": "ca/place-oakland",
+  "kind": "measure",
+  "summary": "A Yes vote amends Oakland's Real Property Transfer Tax to eliminate the foreclosure exemption for most transfers, with specified exceptions, and lets the City Council set foreclosure-related exceptions, raising about $4 million to $13 million annually beginning January 1, 2027 until repealed.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would remove foreclosure exemptions from Oakland’s real property transfer tax for most commercial and multifamily properties and raise revenue for the city’s General Fund.",
+          "quote": "generating approximately $4 million to $13 million annually in revenue to bolster the city’s General Fund over the next five years.",
+          "sourceUrl": "https://www.spur.org/news/2026-09-21/six-november-ballot-measures-would-impact-housing-and-development-most",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would reject Measure FF, which would extend Oakland’s real property transfer tax to most foreclosed commercial and multifamily properties.",
+          "quote": "The measure would eliminate an exemption from Oakland’s real property transfer tax for most foreclosed commercial and multifamily residential properties",
+          "sourceUrl": "https://www.spur.org/news/2026-09-21/six-november-ballot-measures-would-impact-housing-and-development-most",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "spur.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

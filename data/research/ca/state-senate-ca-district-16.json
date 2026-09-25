@@ -1,0 +1,18 @@
+{
+  "office": "State Senate",
+  "district": "CA District 16",
+  "division": "ca/sldu-16",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Melissa Hurtado",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Guillermo Asuncion Gonzalez",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

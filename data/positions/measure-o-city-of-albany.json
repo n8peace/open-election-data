@@ -1,0 +1,41 @@
+{
+  "office": "Measure O",
+  "district": "City of Albany",
+  "division": "ca/place-albany",
+  "kind": "measure",
+  "summary": "A Yes vote amends the existing voter-approval requirement so the City Council can approve zoning changes to single-family residential areas without a neighborhood voter approval vote.",
+  "issues": [
+    "housing"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "The League of Women Voters supports Measure O because it removes a neighborhood-level veto over R-1 zoning changes and allows the City Council to consider them through the normal public process.",
+          "quote": "Measure O removes precisely the sort of neighborhood-level veto that this position identifies as a housing constraint.",
+          "sourceUrl": "https://www.lwvbae.org/league-news/vote-with-the-league-nov-2024-2/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "housing": {
+          "toward": "slower growth",
+          "strength": "strong",
+          "text": "A no vote would retain the Measure D requirement for majority approval from residents in an affected neighborhood before certain single-family zoning changes.",
+          "quote": "A yes vote on Measure O would give the Albany City Council greater authority over zoning in single-family residential areas and reduce the direct approval power granted to neighborhood voters under Measure D.",
+          "sourceUrl": "https://www.albanyscanner.com/2026/08/12/city/albany-2026-november-election-ballot-measures/",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "lwvbae.org · albanyscanner.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

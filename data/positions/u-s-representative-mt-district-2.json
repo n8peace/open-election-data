@@ -1,0 +1,196 @@
+{
+  "office": "U.S. Representative",
+  "district": "MT District 2",
+  "division": "mt/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Troy Downing",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Downing says he strongly supports making the 2017 Tax Cuts and Jobs Act permanent to reduce taxes.",
+          "quote": "I strongly support making the Tax Cuts and Jobs Act permanent to keep more money in the pockets of hardworking Montanans.",
+          "sourceUrl": "https://downing.house.gov/issues/economy",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Downing introduced legislation to expand mandatory detention of immigrants who commit property crimes and said such people must be removed.",
+          "quote": "especially those who broke our laws crossing our borders, must not be allowed to remain",
+          "sourceUrl": "https://downing.house.gov/media/press-releases/downing-introduces-safeguarding-american-property-act",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Downing says Congress should lower health care costs by promoting competition and transparency.",
+          "quote": "Congress must prioritize reforms that simplify health care, provide transparency, and lower costs by promoting competition.",
+          "sourceUrl": "https://downing.house.gov/issues/health",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Downing backs an all-of-the-above approach centered on fossil fuels and cheap, reliable energy.",
+          "quote": "Reliable and cheap energy means more money in the pockets of hardworking Montanans.",
+          "sourceUrl": "https://downing.house.gov/issues/energy",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Patrick McCracken",
+      "party": "Libertarian",
+      "stances": {
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "McCracken criticized how Trump imposed tariffs as heavy-handed while suggesting the underlying idea may have had merit.",
+          "quote": "I think that the way that Trump enacted the tariffs was strong-handed and didn't leave a lot of room for our trading partners to adjust in a timely fashion.",
+          "sourceUrl": "https://www.mtpr.org/montana-news/2026-04-17/patrick-mccracken-interview",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Brian J Miller",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Miller said corporate tax receipts should rise and proposed restoring Medicaid funding and ACA subsidies.",
+          "quote": "I want to see that increase to 20, 25%.",
+          "sourceUrl": "https://montanafreepress.org/2026/04/12/montana-democratic-primary-candidates-house-senate-take-questions-capital-debate/",
+          "agreement": "3/5"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Miller said he supports free trade but would weigh national interest, opposing the current tariffs while treating tariffs as a possible negotiating tool.",
+          "quote": "we need to have free trade on the one hand, but we also need to look at our national interest",
+          "sourceUrl": "https://www.mtpr.org/montana-news/2026-04-21/brian-miller-interview",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Miller supports streamlining regulations and increasing the housing supply to address construction costs and affordability.",
+          "quote": "Second, we are going to have to understand that if we increase the housing stock, it is going to lower equity for homeowners",
+          "sourceUrl": "https://projects.montanafreepress.org/election-guide-2026/candidates/brian-j-miller/",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Miller called for repealing the One Big Beautiful Bill's Medicaid cuts and restoring Medicaid funding and Affordable Care Act subsidies.",
+          "quote": "We also need to spend money on restoring ACA subsidies",
+          "sourceUrl": "https://projects.montanafreepress.org/election-guide-2026/candidates/brian-j-miller/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Michael D Eisenhauer",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "He proposes property-tax relief for qualified homeowners and first-time buyers, along with targeted capital-gains reductions for older homeowners who downsize.",
+          "quote": "Property tax relief to qualified homeowners, and to 1st-time homebuyers for the first 3 years",
+          "sourceUrl": "https://projects.montanafreepress.org/election-guide-2026/candidates/michael-d-eisenhauer/",
+          "agreement": "5/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Eisenhauer opposes tariffs, calling them an indirect tax that raises prices for consumers.",
+          "quote": "tariffs are an indirect tax on Americans that will inevitably be passed along in the form of higher prices for imported goods and business inputs",
+          "sourceUrl": "https://eisenhauerforcongress.com/issues",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He supports zoning changes to allow more duplexes, triplexes and multi-family housing in residential areas.",
+          "quote": "Zoning changes that remove barriers to the construction of duplexes, triplexes or multi-family housing in residential areas",
+          "sourceUrl": "https://eisenhauerforcongress.com/issues",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Supports increased resources for teachers, school transportation, school lunches, special education and public education programs.",
+          "quote": "I don't agree with the elimination of the Department of Education.",
+          "sourceUrl": "https://www.mtpr.org/montana-news/2026-04-27/michael-eisenhauer-interview",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Supports protecting and increasing federal funding for Montana law enforcement and first responders.",
+          "quote": "I will work to protect and increase federal funding for these vital services; I will make sure that Montana law enforcement and first responders always have the resources they need.",
+          "sourceUrl": "https://www.ballotready.org/people/michael-d-eisenhauer",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "He supports enhanced border security to curb illegal immigration.",
+          "quote": "things like enhanced border security to curb illegal immigration",
+          "sourceUrl": "https://eisenhauerforcongress.com/why-independent/",
+          "agreement": "5/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Says Montana voters have expressed support for preserving abortion care rights.",
+          "quote": "the people of Montana have spoken with a unified voice that rights to abortion care must be preserved.",
+          "sourceUrl": "https://www.ballotready.org/people/michael-d-eisenhauer",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports maintaining rural healthcare and Medicaid-supported services while rejecting a single-payer healthcare system.",
+          "quote": "Montana’s critical-access and rural healthcare system must be maintained.",
+          "sourceUrl": "https://projects.montanafreepress.org/election-guide-2026/candidates/michael-d-eisenhauer/",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Eisenhauer supported developing Montana’s energy and mineral resources to fund public schools and local communities while also protecting public lands.",
+          "quote": "Montana is gifted with a certain amount of energy that can be put into production and minerals that, if managed appropriately, can provide significant funding for our public schools and for our local communities.",
+          "sourceUrl": "https://www.mtpr.org/montana-news/2026-04-27/michael-eisenhauer-interview",
+          "agreement": "3/10"
+        }
+      }
+    }
+  ],
+  "sources": "downing.house.gov · mtpr.org · montanafreepress.org · projects.montanafreepress.org · eisenhauerforcongress.com · ballotready.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

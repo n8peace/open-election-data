@@ -1,0 +1,62 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 41",
+  "division": "ca/sldl-41",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "John Harabedian",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Supported AB 2058, which would streamline inspections and permitting for factory-built housing to reduce costs and increase housing production.",
+          "quote": "AB 2058 takes a practical step toward addressing California&#x27;s housing shortage by modernizing rules for factory built housing.",
+          "sourceUrl": "https://calmatters.digitaldemocracy.org/hearings/279733",
+          "agreement": "5/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "Honored a Planned Parenthood leader and was described as a partner in expanding access to safe and legal abortion and other health services.",
+          "quote": "I look forward to continuing my work in advocacy and partnering with champions like Assemblymember Harabedian to expand access to safe and legal abortion and other essential health services in California,",
+          "sourceUrl": "https://pasadenanow.com/main/harabedian-names-retiring-planned-parenthood-president-and-ceo-as-districts-2026-woman-of-the-year",
+          "agreement": "3/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "As a Sierra Madre councilmember, he led a solar-energy initiative and helped create the Clean Power Alliance to promote renewable energy.",
+          "quote": "He led Sierra Madre’s groundbreaking solar energy initiative, which now powers the city, and co-founded the Clean Power Alliance to promote renewable energy across the region.",
+          "sourceUrl": "https://pasadenanow.com/main/harabedian-to-deliver-sacramento-report-at-pasadena-rotary-luncheon",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Adam Christopher Vena",
+      "party": "Republican",
+      "stances": {}
+    }
+  ],
+  "sources": "calmatters.digitaldemocracy.org · pasadenanow.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

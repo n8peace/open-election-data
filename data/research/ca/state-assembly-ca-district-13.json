@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 13",
+  "division": "ca/sldl-13",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Rhodesia Ransom",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Tom Patti",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

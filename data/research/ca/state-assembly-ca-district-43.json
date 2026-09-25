@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 43",
+  "division": "ca/sldl-43",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Celeste Rodriguez",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Ricardo Benitez",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

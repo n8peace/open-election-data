@@ -1,0 +1,18 @@
+{
+  "office": "Measure BB",
+  "district": "City of Emeryville",
+  "division": "ca/place-emeryville",
+  "kind": "measure",
+  "summary": "A Yes vote updates the city's business license tax.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

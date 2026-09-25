@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 5",
+  "division": "ca/sldl-5",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Neva Parker",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Joe Patterson",
+      "party": "Republican",
+      "incumbent": true
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 29",
+  "division": "ca/cd-29",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Angélica María Dueñas",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Luz Maria Rivas",
+      "party": "Democratic",
+      "incumbent": false
+    }
+  ]
+}

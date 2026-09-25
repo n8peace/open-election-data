@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 2",
+  "division": "ca/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Jared Huffman",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Robin Littau",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

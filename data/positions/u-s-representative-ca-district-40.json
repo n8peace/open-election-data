@@ -1,0 +1,112 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 40",
+  "division": "ca/cd-40",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Ken Calvert",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Calvert says people should keep more of their income and supports simplifying the tax code and lowering the corporate tax rate.",
+          "quote": "Everyone who works hard deserves to keep the money they earn",
+          "sourceUrl": "https://calvert.house.gov/issues",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Calvert says the southern border must be secured, immigration laws enforced, and E-Verify made mandatory nationwide.",
+          "quote": "First and foremost, we must have control of our border.",
+          "sourceUrl": "https://calvert.house.gov/issues",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Voted against federal legislation protecting abortion access and for multiple measures restricting abortion coverage, abortion providers, or abortion procedures.",
+          "quote": "A bill to protect the federal right to abortion and block the barrage of state bans and restrictions on abortion intended to impede or outright deny access.",
+          "sourceUrl": "https://reproductivefreedomforall.org/lawmaker/ken-calvert/",
+          "agreement": "3/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Introduced a resolution condemning state policies that restrict domestic oil production and increase gasoline prices.",
+          "quote": "The resolution calls out the California policies that restrict energy supplies and increase costs, which impact consumers – including the U.S. military.",
+          "sourceUrl": "https://calvert.house.gov/media/press-releases/rep-calvert-introduces-resolution-slamming-californias-energy-policies",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Young Kim",
+      "party": "Republican",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Helped advance legislation to expand housing supply, streamline permitting, and give communities tools to build more homes.",
+          "quote": "The package streamlines burdensome federal permitting processes that delay construction, equips communities with new tools to build more homes",
+          "sourceUrl": "https://youngkim.house.gov/2026/06/24/rep-young-kim-fights-california-housing-crisis-with-passage-of-21st-century-road-to-housing-act/",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Supported increased border-security funding and the Laken Riley Act, which provides for detention and deportation of undocumented immigrants who commit crimes.",
+          "quote": "It’s simple: enforce our laws, secure the border, no amnesty, and put American safety first.",
+          "sourceUrl": "https://youngkimforcongress.com/issue/securing-the-border-enforcing-immigration-laws/",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Voted for legislation intended to lower premiums by expanding private coverage choices, particularly for small businesses and workers.",
+          "quote": "By expanding choice, cracking down on hidden costs, and empowering employers and workers, we can drive down prices and give families more control over their health care decisions.",
+          "sourceUrl": "https://youngkim.house.gov/2025/12/17/rep-young-kim-votes-to-deliver-lower-health-care-premiums-for-all-americans/",
+          "agreement": "3/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Introduced legislation to expand domestic geothermal production, reduce permitting barriers, and bring more affordable energy online.",
+          "quote": "For Californians facing some of the highest energy costs in the country, this relief can’t come soon enough.",
+          "sourceUrl": "https://youngkim.house.gov/2026/04/23/rep-young-kims-bill-to-boost-geothermal-energy-passes-u-s-house-of-representatives/",
+          "agreement": "6/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Supported the SAVE Act and voter-identification requirements to limit voting in federal elections to eligible citizens and verify voters’ identities.",
+          "quote": "I supported the Safeguard American Voter Eligibility (SAVE) Act to ensure only American citizens can vote in American elections, and I support voter ID in California and across the country",
+          "sourceUrl": "https://youngkimforcongress.com/issue/protecting-election-integrity/",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "calvert.house.gov · reproductivefreedomforall.org · youngkim.house.gov · youngkimforcongress.com",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

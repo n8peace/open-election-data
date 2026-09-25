@@ -1,0 +1,18 @@
+{
+  "office": "Measure Z",
+  "district": "Kern County",
+  "division": "ca/county-kern",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a countywide 0.125% sales tax in Kern County to fund the maintenance, improvement, and operation of the California Living Museum (CALM).",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

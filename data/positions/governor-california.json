@@ -1,0 +1,183 @@
+{
+  "office": "Governor",
+  "district": "California",
+  "division": "ca/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Xavier Becerra",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Supports keeping California's progressive income tax system, extending a higher tax rate on high earners to fund schools, and has not ruled out raising other taxes, including on corporations with low-wage workers.",
+          "quote": "Becerra supports a progressive income tax system and the proposal to extend a higher tax rate on high earners to pay for schools. He opposes Proposition 40, the billionaire wealth tax proposal on the ballot. He has not ruled out raising taxes and says he wants to tax corporations with workers who are paid so little they qualify for public healthcare.",
+          "sourceUrl": "https://calmatters.org/california-voter-guide-2026/governor/",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "He says state healthcare interventions should require fair labor standards and respect healthcare workers’ representation rights.",
+          "quote": "State interventions will ensure that public dollars come with public obligations, including maintaining fair labor standards and respecting the representation rights of the healthcare workforce.",
+          "sourceUrl": "https://www.xavierbecerra2026.com/priorities/health-care/",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Wants to push cities to zone more residential land, speed up approvals, and crack down on cities that block new housing construction.",
+          "quote": "He would push cities to zone more residential land to build apartments, duplexes and condos and crack down on cities that make it harder to build new housing.",
+          "sourceUrl": "https://calmatters.org/california-voter-guide-2026/governor/",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Opposes Trump administration mass deportation policies, supports California's sanctuary law, and says ICE should leave the state to protect immigrant communities.",
+          "quote": "Our next Governor needs to be ready to protect our immigrant communities from the threat of ICE",
+          "sourceUrl": "https://www.usatoday.com/story/news/nation/california/2026/04/22/california-governor-candidate-becerra/89719820007/",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He supports policies that restrict access to firearms.",
+          "quote": "Becerra is in favor of strict gun control, advocating for policies that restrict access to firearms .",
+          "sourceUrl": "https://www.usatoday.com/story/news/nation/california/2026/04/22/california-governor-candidate-becerra/89719820007/",
+          "agreement": "3/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Pledges to keep California a sanctuary for reproductive freedom, citing his record protecting emergency abortion access as HHS Secretary and defending abortion clinics as Attorney General.",
+          "quote": "As your next California Governor, I promise to keep California the ultimate sanctuary for reproductive freedom.",
+          "sourceUrl": "https://x.com/XavierBecerra/status/2059820490223423503",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Says he will build toward universal coverage in California, protect and expand Medi-Cal, and previously supported single-payer healthcare.",
+          "quote": "Guarantee Access and Build Toward Universal Coverage. Protect existing coverage from federal rollbacks and chart a clear path to ensuring that no Californian is left without care, regardless of income, zip code or immigration status.",
+          "sourceUrl": "https://www.xavierbecerra2026.com/priorities/health-care/",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Supports the state's clean energy transition but says he is open to revising climate goals, including the 2035 gas car ban, if they make energy unaffordable.",
+          "quote": "Becerra says he supports the state's clean energy transition goals but is open to revising them if they make gas and energy unaffordable, particularly Gov. Gavin Newsom's ban on selling new gas cars by 2035.",
+          "sourceUrl": "https://calmatters.org/california-voter-guide-2026/governor/",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Becerra endorsed a no vote on Proposition 39, opposing stricter voter identification and voter-roll administration rules.",
+          "quote": "NO on Prop 39: Voter Identification, Citizenship Verification, and Registered Voter List Administration Initiative",
+          "sourceUrl": "https://www.xavierbecerra2026.com/2026/07/31/becerra-announces-positions-on-key-november-ballot-measures/",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "Steve Hilton",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Proposes eliminating state income tax on the first $150,000 of earnings, moving to a flat rate above that, halving the gas tax, and opposing a proposed billionaire wealth tax.",
+          "quote": "Hilton wants to eliminate state income tax on the first $150,000 of Californians’ earnings, and make the income tax a flat rate above that. He also wants to halve the gas tax and opposes Proposition 40, the ballot measure that would impose a one-time tax on billionaires’ assets.",
+          "sourceUrl": "https://calmatters.org/california-voter-guide-2026/governor/",
+          "agreement": "4/9"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Wants to reduce fees and building regulations for starter homes, limit CEQA lawsuits against construction, and expand suburban single-family development.",
+          "quote": "Hilton wants to “bring back the starter home” by reducing fees and building regulations on the development of smaller single-family homes and creating a state loan program for first-time buyers. He also wants to prevent people, companies and unions from using the California Environmental Quality Act to sue to stop construction and favors building suburban developments over denser city apartment projects.",
+          "sourceUrl": "https://calmatters.org/california-voter-guide-2026/governor/",
+          "agreement": "3/9"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Supports using public funds to let parents in underperforming districts send children to private or other schools, easier teacher firing, and more charter conversions.",
+          "quote": "He supports using public funds to allow parents in underperforming districts to send their children to private schools or other districts.",
+          "sourceUrl": "https://calmatters.org/california-voter-guide-2026/governor/",
+          "agreement": "4/9"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Wants to loosen restrictions that limit police from stopping people on the street and have police clear all homeless encampments.",
+          "quote": "He is particularly focused on loosening restrictions in a state anti-discrimination law that prevent police from stopping people on the street.",
+          "sourceUrl": "https://calmatters.org/california-voter-guide-2026/governor/",
+          "agreement": "4/9"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "Proposes reopening closed state prisons and reducing early releases for good conduct, while boosting rehabilitation programs.",
+          "quote": "Hilton would reopen closed state prisons, reduce the practice of early release based on prisoners’ good conduct and boost rehabilitation programs in prisons.",
+          "sourceUrl": "https://calmatters.org/california-voter-guide-2026/governor/",
+          "agreement": "3/9"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Says he supports full cooperation with ICE and wants to overturn California's sanctuary law limiting police cooperation with federal immigration authorities.",
+          "quote": "Hilton said he supports full cooperation with ICE \"100 percent,\"",
+          "sourceUrl": "https://www.ontheissues.org/Governor/Steve_Hilton_Immigration.htm",
+          "agreement": "4/9"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Supports reducing restrictions on owning and using firearms.",
+          "quote": "He supports reducing restrictions on owning and using firearms.",
+          "sourceUrl": "https://calmatters.org/california-voter-guide-2026/governor/",
+          "agreement": "4/9"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Opposes the state law allowing transgender youth to compete on school sports teams matching their gender identity.",
+          "quote": "He opposes the state law allowing transgender youth to compete on school sports teams they choose.",
+          "sourceUrl": "https://calmatters.org/california-voter-guide-2026/governor/",
+          "agreement": "5/9"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Wants to roll back California's climate mandates, end rules requiring utilities to buy renewable power, and allow more natural gas production.",
+          "quote": "Hilton wants to roll back California’s climate rules that mandate a transition to clean energy and a reduction in greenhouse gas emissions in favor of more consumer-friendly policies.",
+          "sourceUrl": "https://calmatters.org/california-voter-guide-2026/governor/",
+          "agreement": "3/9"
+        }
+      }
+    }
+  ],
+  "sources": "calmatters.org · xavierbecerra2026.com · usatoday.com · x.com · ontheissues.org",
+  "checkedAt": "2026-09-24",
+  "reviewed": true
+}

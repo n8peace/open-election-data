@@ -1,0 +1,95 @@
+{
+  "office": "Superintendent of Public Instruction",
+  "district": "CA",
+  "division": "ca/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Sonja Shaw",
+      "party": "Nonpartisan",
+      "stances": {
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Shaw opposes allowing boys or transgender girls to use girls’ locker rooms or compete on girls’ sports teams.",
+          "quote": "Policies allowing boys to undress in girls' locker rooms and play on their sports teams undermine fairness and safety.",
+          "sourceUrl": "https://shawforca.com/",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Richard Barrera",
+      "party": "Nonpartisan",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Barrera supports increasing education funding through sustainable, progressive revenue and treating Proposition 98 as a funding floor rather than a ceiling.",
+          "quote": "Secure sustainable, progressive revenue so funding is stable across economic cycles and resources reach students with the greatest needs.",
+          "sourceUrl": "https://growsf.org/voter-guide/questionnaires/june-2026/richard-barrera/",
+          "agreement": "3/3"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Barrera helped raise the minimum wage and supports improving educator compensation and working conditions.",
+          "quote": "Outside education, I helped raise the minimum wage and secure paid sick days for more than 200,000 workers.",
+          "sourceUrl": "https://www.mercurynews.com/2026/05/27/richard-barrera-candidate-for-superintendent-of-public-instruction-answers-bay-area-news-groups-primary-questionnaire/",
+          "agreement": "3/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Barrera proposes using public land, including school-district land, to build permanently affordable housing and supports educator housing strategies.",
+          "quote": "California should treat public land as a long term public asset and use more of it to build permanently affordable housing at scale",
+          "sourceUrl": "https://growsf.org/voter-guide/questionnaires/june-2026/richard-barrera/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Barrera supports fully funded public education and keeping education funds focused on district classrooms and direct student supports.",
+          "quote": "Preserve the core promise of public education by keeping funds focused on classrooms and direct student supports.",
+          "sourceUrl": "https://growsf.org/voter-guide/questionnaires/june-2026/richard-barrera/",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Barrera supports enforcing protections for immigrant students and ensuring students are not denied equal access based on immigration status.",
+          "quote": "The state has a duty to make sure students are not denied equal access because of disability, race, language status, immigration status, gender identity, or sexual orientation.",
+          "sourceUrl": "https://growsf.org/voter-guide/questionnaires/june-2026/richard-barrera/",
+          "agreement": "2/3"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "Barrera supports protecting LGBTQ students and enforcing protections against discrimination based on gender identity.",
+          "quote": "That means protecting the rights of LGBTQ+ students and ensuring schools are places of belonging, not exclusion.",
+          "sourceUrl": "https://www.barreraforedu.com/priorities",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "shawforca.com · growsf.org · mercurynews.com · barreraforedu.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

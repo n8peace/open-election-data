@@ -1,0 +1,19 @@
+{
+  "office": "Measure G",
+  "district": "Paso Robles Joint Unified School District",
+  "division": "ca/school-paso-robles-joint-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue up to $205 million in general obligation bonds for improvements at Paso Robles and Liberty high schools, repaid by a property tax on district property owners.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 2",
+  "division": "ca/sldl-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Chris Rogers",
+      "party": "Democratic",
+      "stances": {}
+    },
+    {
+      "name": "Michael Greer",
+      "party": "Republican",
+      "stances": {
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "On a candidate questionnaire he supported keeping males who identify as female out of female-only spaces and parents' authority to treat children per biological sex.",
+          "quote": "Preventing males who identify as female from entering sex-separated spaces intended for females",
+          "sourceUrl": "https://freedomvoterguide.com/candidates/michael-greer/",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "freedomvoterguide.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

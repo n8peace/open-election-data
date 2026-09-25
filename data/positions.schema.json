@@ -1,0 +1,156 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "office": {
+      "type": "string"
+    },
+    "district": {
+      "type": "string"
+    },
+    "division": {
+      "type": "string",
+      "pattern": "^[a-z]{2}\\/[a-z0-9-]+$"
+    },
+    "kind": {
+      "default": "candidate",
+      "type": "string",
+      "enum": [
+        "candidate",
+        "measure",
+        "retention"
+      ]
+    },
+    "summary": {
+      "type": "string",
+      "maxLength": 400
+    },
+    "issues": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "tax",
+          "wages",
+          "trade",
+          "debt",
+          "housing",
+          "schools",
+          "transit",
+          "safety",
+          "sentencing",
+          "immigration",
+          "guns",
+          "abortion",
+          "gender",
+          "cannabis",
+          "health",
+          "energy",
+          "voting",
+          "judicial"
+        ]
+      }
+    },
+    "choices": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "party": {
+            "type": "string"
+          },
+          "stances": {
+            "type": "object",
+            "propertyNames": {
+              "type": "string",
+              "enum": [
+                "tax",
+                "wages",
+                "trade",
+                "debt",
+                "housing",
+                "schools",
+                "transit",
+                "safety",
+                "sentencing",
+                "immigration",
+                "guns",
+                "abortion",
+                "gender",
+                "cannabis",
+                "health",
+                "energy",
+                "voting",
+                "judicial"
+              ]
+            },
+            "additionalProperties": {
+              "type": "object",
+              "properties": {
+                "toward": {
+                  "type": "string"
+                },
+                "strength": {
+                  "type": "string",
+                  "enum": [
+                    "lean",
+                    "strong"
+                  ]
+                },
+                "text": {
+                  "type": "string",
+                  "minLength": 10,
+                  "maxLength": 240
+                },
+                "quote": {
+                  "type": "string",
+                  "minLength": 12
+                },
+                "sourceUrl": {
+                  "type": "string",
+                  "format": "uri"
+                },
+                "agreement": {
+                  "type": "string",
+                  "pattern": "^\\d+\\/\\d+$"
+                }
+              },
+              "required": [
+                "toward",
+                "strength",
+                "text",
+                "quote",
+                "sourceUrl"
+              ]
+            }
+          }
+        },
+        "required": [
+          "name",
+          "stances"
+        ]
+      }
+    },
+    "sources": {
+      "type": "string"
+    },
+    "checkedAt": {
+      "type": "string"
+    },
+    "reviewed": {
+      "type": "boolean"
+    }
+  },
+  "required": [
+    "office",
+    "issues",
+    "choices",
+    "checkedAt",
+    "reviewed"
+  ],
+  "title": "Plain Ballot researched contest",
+  "description": "One contest in data/positions. Every stance needs an exact quote from its sourceUrl. See CONTRIBUTING.md."
+}

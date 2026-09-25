@@ -1,0 +1,20 @@
+{
+  "office": "Measure O",
+  "district": "City of Colton",
+  "division": "ca/place-colton",
+  "kind": "measure",
+  "summary": "A Yes vote amends the City of Colton municipal code.",
+  "issues": [],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {}
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,18 @@
+{
+  "office": "Measure S",
+  "district": "City of Monterey",
+  "division": "ca/place-monterey",
+  "kind": "measure",
+  "summary": "A Yes vote continues the city's existing 1% transactions and use (sales) tax for street infrastructure for eight years.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

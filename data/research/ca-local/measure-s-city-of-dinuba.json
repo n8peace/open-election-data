@@ -1,0 +1,18 @@
+{
+  "office": "Measure S",
+  "district": "City of Dinuba",
+  "division": "ca/place-dinuba",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a general transactions and use (sales) tax in the City of Dinuba, with no expiration date, for general city services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "office": "Measure G",
+  "district": "Grossmont-Cuyamaca Community College District",
+  "division": "ca/school-grossmont-cuyamaca-community-college-district",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Grossmont-Cuyamaca Community College District to issue up to $624,000,000 in general obligation bonds to construct, repair, and equip college facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

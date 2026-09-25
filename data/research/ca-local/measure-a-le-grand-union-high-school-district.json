@@ -1,0 +1,19 @@
+{
+  "office": "Measure A",
+  "district": "Le Grand Union High School District",
+  "division": "ca/school-le-grand-union-high",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue bonds repaid by property taxes within the district.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

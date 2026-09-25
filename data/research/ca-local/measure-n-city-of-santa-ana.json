@@ -1,0 +1,18 @@
+{
+  "office": "Measure N",
+  "district": "City of Santa Ana",
+  "division": "ca/place-santa-ana",
+  "kind": "measure",
+  "summary": "A Yes vote continues the City of Santa Ana's existing 1.5% transactions and use (sales) tax at its current rate to fund general city services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

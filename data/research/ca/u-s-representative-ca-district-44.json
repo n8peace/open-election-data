@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 44",
+  "division": "ca/cd-44",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Nanette Diaz Barragan",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Genevieve Angel",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

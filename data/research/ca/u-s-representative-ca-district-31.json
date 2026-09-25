@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 31",
+  "division": "ca/cd-31",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Gil Cisneros",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Eric Ching",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

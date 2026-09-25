@@ -1,0 +1,18 @@
+{
+  "office": "Measure FF",
+  "district": "City of Oakland",
+  "division": "ca/place-oakland",
+  "kind": "measure",
+  "summary": "A Yes vote amends Oakland's real property transfer tax to eliminate the foreclosure exception for most property transfers and allows the City Council to set foreclosure-related exceptions, raising an estimated $4-13 million annually.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

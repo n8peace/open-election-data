@@ -1,0 +1,18 @@
+{
+  "office": "Measure R",
+  "district": "City of Oceanside",
+  "division": "ca/place-oceanside",
+  "kind": "measure",
+  "summary": "A Yes vote amends the Oceanside city charter to require prevailing wage standards and project labor agreements on municipal public works projects.",
+  "issues": [
+    "wages"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

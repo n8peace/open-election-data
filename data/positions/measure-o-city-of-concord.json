@@ -1,0 +1,32 @@
+{
+  "office": "Measure O",
+  "district": "City of Concord",
+  "division": "ca/place-concord",
+  "kind": "measure",
+  "summary": "A Yes vote updates the City of Concord business license tax to 0.1% of gross receipts, expected to raise about $2.9 million per year for general city services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Yes on Measure O supports raising Concord's business license tax to about 0.1% of gross receipts to fund city services like pothole repair, emergency response, and parks.",
+          "quote": "shall the measure be adopted to: repair potholes on neighborhood and major streets; maintain 9-1-1 emergency response; keep parks/playgrounds safe/clean; relieve traffic congestion along major corridors; maintain senior/youth programs; for general government use; by updating Concord's 37-year-old business license rates to 0.1% of gross receipts until ended by voters, providing an additional $2,900,000 annually, requiring independent citizen oversight?",
+          "sourceUrl": "https://localnewsmatters.org/contra-costa-county-november-3-2026/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "localnewsmatters.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,19 @@
+{
+  "office": "Measure K",
+  "district": "Sunol Glen Unified School District",
+  "division": "ca/school-sunol-glen-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue about $6.1 million in general obligation bonds for building improvements and system upgrades, repaid by property taxes.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

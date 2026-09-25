@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 3",
+  "division": "ca/sldl-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Dom Belza",
+      "party": "Republican",
+      "incumbent": false
+    },
+    {
+      "name": "James \"Jamie\" Johansson",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

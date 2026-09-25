@@ -1,0 +1,79 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 29",
+  "division": "ca/sldl-29",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Robert Rivas",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Rivas introduced a farmworker relief package, saying the state must act to protect agricultural workers' economic security.",
+          "quote": "But as we ask our farmworkers to continue working through the COVID-19 pandemic, we must take action to protect their health, safety, and economic security.",
+          "sourceUrl": "https://benitolink.com/assemblyman-rivas-introduces-california-farmworker-covid-19-relief-package/",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Rivas is described as a leader of California's YIMBY movement, which favors building more housing and loosening zoning.",
+          "quote": "Rivas is a leader of the YIMBY movement in California.",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Robert_A._Rivas",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Rivas supports state funding for law enforcement while also backing violence prevention, treatment, rehabilitation and criminal justice reforms.",
+          "quote": "The latest state budget includes $50 million for crime victim services through the Victims of Crime Act program, $20 million for community-based violence prevention and rehabilitation through the RIGHT Grant, $375 million in substance use treatment, mental health treatment and rehabilitation services, and $20 million to fight human trafficking.",
+          "sourceUrl": "https://benitolink.com/2026-general-election-candidates-qa-29th-assembly-district/",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Responding to a federal immigration-enforcement killing, Rivas urged Californians to show solidarity with targeted immigrants.",
+          "quote": "We need your voice, we need your solidarity, and standing up for American values.",
+          "sourceUrl": "https://calmatters.org/politics/2026/01/california-legislature-minnesota-response/",
+          "agreement": "3/10"
+        }
+      }
+    },
+    {
+      "name": "Dennis P. Sanchez",
+      "party": "Republican",
+      "stances": {
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Sanchez said he would seek more support for law enforcement while also expanding behavioral health programs to address crises before they become law enforcement emergencies.",
+          "quote": "I also believe behavioral health resources and law enforcement should complement one another, not be treated as substitutes for each other.",
+          "sourceUrl": "https://benitolink.com/2026-general-election-candidates-qa-29th-assembly-district/",
+          "agreement": "4/9"
+        }
+      }
+    }
+  ],
+  "sources": "benitolink.com · en.wikipedia.org · calmatters.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

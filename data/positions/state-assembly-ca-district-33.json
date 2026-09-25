@@ -1,0 +1,46 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 33",
+  "division": "ca/sldl-33",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Hipolito Angel Cerros",
+      "party": "Democratic",
+      "stances": {}
+    },
+    {
+      "name": "Alexandra (Ali) Macedo",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "On her campaign site she opposes new taxes and calls for reducing existing taxes, including repealing the state gas tax.",
+          "quote": "I oppose new taxes and support reducing the taxes that make life harder for normal people.",
+          "sourceUrl": "https://www.alexandramacedo.com/issues",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "alexandramacedo.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

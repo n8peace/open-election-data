@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 14",
+  "division": "ca/sldl-14",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Buffy Wicks",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Mark Rendon",
+      "party": "Green",
+      "incumbent": false
+    }
+  ]
+}

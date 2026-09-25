@@ -1,0 +1,19 @@
+{
+  "office": "Measure D",
+  "district": "Columbia Elementary School District",
+  "division": "ca/school-columbia-elementary",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Columbia Elementary School District to issue general obligation bonds to repair and modernize its school facilities, repaid through local property taxes.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

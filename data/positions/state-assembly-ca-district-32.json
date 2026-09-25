@@ -1,0 +1,41 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 32",
+  "division": "ca/sldl-32",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "David Couch",
+      "party": "Republican",
+      "stances": {
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Couch's campaign says he backs police and first responders and wants to ensure they have what they need.",
+          "quote": "Serious about backing the men and women who keep us safe, making sure police, firefighters, and first responders have what they need to protect our families.",
+          "sourceUrl": "https://www.votecouch.com/copy-of-meet-david",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "votecouch.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

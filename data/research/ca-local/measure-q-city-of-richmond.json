@@ -1,0 +1,18 @@
+{
+  "office": "Measure Q",
+  "district": "City of Richmond",
+  "division": "ca/place-richmond",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the City of Richmond to issue $120 million in bonds to build firefighter housing and improve fire and emergency-response facilities, repaid through property taxes.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

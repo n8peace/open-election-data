@@ -1,0 +1,18 @@
+{
+  "office": "State Senate",
+  "district": "CA District 38",
+  "division": "ca/sldu-38",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Catherine S. Blakespear",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Laura Bassett",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

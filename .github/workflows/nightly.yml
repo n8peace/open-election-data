@@ -1,0 +1,38 @@
+name: Nightly source check
+# Candidates edit their sites. Every night, re-fetch every published source and
+# confirm each quote is still there. If one disappears, open an issue so the
+# claim gets rechecked instead of silently going stale.
+on:
+  schedule:
+    - cron: '17 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  sources:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: sudo apt-get install -y -qq poppler-utils
+      - name: Re-verify every quote
+        id: check
+        run: |
+          set +e
+          npm run check:research > check.txt 2>&1
+          echo "status=$?" >> "$GITHUB_OUTPUT"
+          cat check.txt
+      - name: Open an issue if any quote went missing
+        if: steps.check.outputs.status != '0'
+        run: |
+          { echo "The nightly check found quotes that no longer appear on their source pages. The page may have changed, or the claim may need rechecking."; echo; echo '```'; grep -E '✗|!' check.txt; echo '```'; } > body.md
+          gh issue create --title "Source check: quotes missing ($(date -u +%Y-%m-%d))" --body-file body.md --label research

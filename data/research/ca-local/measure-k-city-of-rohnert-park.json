@@ -1,0 +1,18 @@
+{
+  "office": "Measure K",
+  "district": "City of Rohnert Park",
+  "division": "ca/place-rohnert-park",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a half-cent sales tax projected to raise about $5.5 million annually for the city's general fund.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

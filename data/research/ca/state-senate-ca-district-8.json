@@ -1,0 +1,18 @@
+{
+  "office": "State Senate",
+  "district": "CA District 8",
+  "division": "ca/sldu-8",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Angelique Ashby",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Susan A Mason",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

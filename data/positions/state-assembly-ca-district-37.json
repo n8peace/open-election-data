@@ -1,0 +1,143 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 37",
+  "division": "ca/sldl-37",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Gregg Hart",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Hart says he will advocate for policies to increase the supply of housing affordable at all income levels.",
+          "quote": "Gregg will advocate for policies to increase the supply of housing that is affordable for people of all income levels, including middle-income earners.",
+          "sourceUrl": "https://gregghart.org/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Hart said he was working on legislation to protect immigrants through public-record privacy, school safe spaces and limits on ICE operations near children.",
+          "quote": "Hart said he and his colleagues are trying to create laws to protect immigrants by “creating better privacy of public records, safe spaces at schools and making sure that U.S. Immigration and Customs Enforcement agents can’t operate in places where children are.”",
+          "sourceUrl": "https://www.noozhawk.com/gregg-hart-sari-domingues-facing-off-again-for-state-assembly-seat/",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "Hart says he is committed to ending gun violence.",
+          "quote": "Gregg is committed to ending gun violence. He will also invest in treatment and support programs to make our communities safer",
+          "sourceUrl": "https://gregghart.org/",
+          "agreement": "4/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "On his campaign site, Hart says California must ensure access to safe and legal abortion and the full range of reproductive health services.",
+          "quote": "California must lead the way for ensuring access to safe and legal abortion, along with the full range of reproductive health services.",
+          "sourceUrl": "https://gregghart.org/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Hart describes himself as a strong advocate for advancing gender equity and supporting LGBTQ Californians.",
+          "quote": "Gregg is a strong advocate for advancing gender equity and supporting LGBTQ Californians",
+          "sourceUrl": "https://gregghart.org/",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Hart says he will work to move California closer to universal health coverage and lower drug prices.",
+          "quote": "Gregg will work to move us closer to universal health coverage and support policies that lower drug prices",
+          "sourceUrl": "https://gregghart.org/",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Hart says he is committed to transitioning away from fossil fuels that create greenhouse gas emissions.",
+          "quote": "Gregg is committed to transitioning away from fossil fuels that create greenhouse gas emissions",
+          "sourceUrl": "https://gregghart.org/",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Sari Domingues",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Domingues said she strongly supports preserving Proposition 13, which limits property taxes.",
+          "quote": "I am a strong supporter to preserving Prop 13.",
+          "sourceUrl": "https://keyt.com/general-election/california-assembly-district-37/2024/07/12/839823-5/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Domingues agreed with a proposal to prioritize more workforce and affordable housing while investigating barriers to construction.",
+          "quote": "Domingues agreed with Hart but also asked why those initiatives are not being implemented.",
+          "sourceUrl": "https://www.noozhawk.com/state-assembly-candidates-discuss-high-cost-of-living-housing/",
+          "agreement": "3/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Domingues said she will vote for stronger laws and support first responders and law enforcement.",
+          "quote": "I am pro-active and will vote for stronger laws and support first responders including law enforcement.",
+          "sourceUrl": "https://keyt.com/general-election/california-assembly-district-37/2024/07/12/839823-5/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "Domingues defended ICE's focus on criminals while saying improper conduct should be addressed.",
+          "quote": "Domingues visibly shook her head during Hart’s response and asserted that she knows ICE is going after criminals. “If ICE is doing things that aren’t proper then they need to be addressed,” she said.",
+          "sourceUrl": "https://www.noozhawk.com/state-assembly-candidates-discuss-high-cost-of-living-housing/",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "Domingues described herself as pro-life while also saying women have a right to their bodies.",
+          "quote": "Domingues said she is pro-life. She said she supports women having a right to their bodies, but she would never talk someone into getting an abortion.",
+          "sourceUrl": "https://www.noozhawk.com/state-assembly-candidates-discuss-high-cost-of-living-housing/",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Domingues said she favors private insurance, arguing more competition would lower costs.",
+          "quote": "if they get competitive enough, they will create low cost",
+          "sourceUrl": "https://www.ksby.com/news/national-politics/america-votes/meet-the-candidates-running-for-assembly-district-37",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "gregghart.org · noozhawk.com · keyt.com · ksby.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

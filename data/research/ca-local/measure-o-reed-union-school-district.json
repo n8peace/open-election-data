@@ -1,0 +1,19 @@
+{
+  "office": "Measure O",
+  "district": "Reed Union School District",
+  "division": "ca/school-reed-union",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue up to $115,000,000 in bonds for repair, safety, and upgrade projects at Reed, Bel Aire, and Del Mar schools, repaid by a property tax.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

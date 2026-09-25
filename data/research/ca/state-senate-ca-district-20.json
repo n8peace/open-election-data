@@ -1,0 +1,18 @@
+{
+  "office": "State Senate",
+  "district": "CA District 20",
+  "division": "ca/sldu-20",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Caroline Menjivar",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Tony Rodriguez",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

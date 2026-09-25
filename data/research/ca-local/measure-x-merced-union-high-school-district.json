@@ -1,0 +1,19 @@
+{
+  "office": "Measure X",
+  "district": "Merced Union High School District",
+  "division": "ca/school-merced-union-high",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue bonds for School Facilities Improvement District No. 2, repaid by property taxes within that district.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

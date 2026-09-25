@@ -1,0 +1,160 @@
+{
+  "office": "U.S. Representative",
+  "district": "AL District 4",
+  "division": "al/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Robert B. Aderholt",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Aderholt says he favors targeted spending cuts over raising taxes to address the fiscal crisis.",
+          "quote": "I believe that targeted spending cuts are the most responsible way to address the fiscal crisis facing our country, not increasing taxes on families and small businesses.",
+          "sourceUrl": "https://aderholt.house.gov/issues/taxes",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Aderholt says high-crime areas need a greater law-enforcement presence while also supporting training and de-escalation reforms.",
+          "quote": "The bottom line is this: high-crime areas need more law enforcement presence, not less; defunded police departments would make our streets more dangerous, not less; and the brave men and women who keep us safe deserve more respect, not less.",
+          "sourceUrl": "https://aderholtforcongress.org/issues",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Aderholt calls for securing the border first and opposes automatic amnesty for those in the country illegally.",
+          "quote": "I feel very strongly that amnesty should not be automatically granted to those who are here illegally.",
+          "sourceUrl": "https://aderholt.house.gov/issues/immigration",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Aderholt says he supports expanding the rights of gun owners rather than imposing new restrictions.",
+          "quote": "we need to expand the rights of gun owners rather than seeking new ways to impose restrictions",
+          "sourceUrl": "https://aderholt.house.gov/issues/gun-rights",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Aderholt says he wholeheartedly believes the country should look for ways to curb and stop abortions.",
+          "quote": "I also wholeheartedly believe that we should look for ways to curb and stop abortions in the United States.",
+          "sourceUrl": "https://aderholt.house.gov/issues/family-values",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "As House Values Action Team chairman, Aderholt backed the Protection of Women and Girls in Sports Act to restrict girls' sports to female athletes.",
+          "quote": "This is about protecting opportunities for female athletes to compete, succeed, and excel, as intended when Title IX was enacted.",
+          "sourceUrl": "https://aderholt.house.gov/media-center/press-releases/house-values-action-team-chairman-robert-b-aderholts-statement-passage",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Aderholt says he opposed the Affordable Care Act and warns that government interference raises prices.",
+          "quote": "I opposed the President's healthcare bill, the Patient Protection and Affordable Care Act (PPACA), also known as Obamacare.",
+          "sourceUrl": "https://aderholt.house.gov/issues/health-care",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Aderholt calls for increasing domestic oil, gas and coal production and opposes cap-and-trade carbon controls.",
+          "quote": "I certainly oppose policy proposals such as Cap & Trade and other similar carbon emission control systems that harm economic growth",
+          "sourceUrl": "https://aderholt.house.gov/issues/energy",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Aderholt urged passage of the SAVE Act, which adds citizenship and identification requirements to federal voting procedures.",
+          "quote": "We need to restore confidence in our voters and integrity in our elections, because it’s common sense that American elections should be decided by American voters, and American voters only.",
+          "sourceUrl": "https://rsc-pfluger.house.gov/media/press-releases/rsc-members-demand-senate-action-save-act",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "Amanda N. Pusczek",
+      "party": "Democrat",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Pusczek calls for a $15 federal minimum wage indexed to cost of living and for passing the PRO Act to strengthen unions.",
+          "quote": "Champions legislation to immediately raise the federal minimum wage to $15.00 per hour, tying future increases to regional cost-of-living and inflation indexes.",
+          "sourceUrl": "https://www.amandaforalabama.com/policy",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Her platform calls for strengthening Social Security without cuts and protecting and expanding Medicare.",
+          "quote": "defending and strengthening Social Security with no cuts—ever",
+          "sourceUrl": "https://www.ballotready.org/people/amanda-n-pusczek",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports increased investment in public schools and opposes diverting public funds to private and charter schools.",
+          "quote": "Protecting Public Education from Privatization by opposing the diversion of public funds to private and charter schools",
+          "sourceUrl": "https://www.ballotready.org/people/amanda-n-pusczek",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Her immigration platform calls for speeding up legal immigration and naturalization while keeping families together.",
+          "quote": "accelerating the legal immigration and naturalization process by increasing judge appointments to address COVID era backlogs, prioritizing keeping families together and ending cruel separations",
+          "sourceUrl": "https://www.ballotready.org/people/amanda-n-pusczek",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "She cited Alabama’s restrictions on reproductive rights as a reason for running for Congress.",
+          "quote": "She cites Alabama’s ‘growing restrictions on healthcare and reproductive rights that make it nearly impossible for her and Trever to start the family they dreamed of,’ a driving force in her decision to seek the Democratic nomination for Alabama’s Fourth Congressional District.",
+          "sourceUrl": "https://www.franklinfreepress.net/news/candidate-for-state-senate-congress-to-meet-with-franklin-county-democratic-executive-committee-next-week",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She would let the federal government directly enroll low-income people in non-expansion states into public coverage, bypassing state governments.",
+          "quote": "Introduces legislation enabling the federal government to directly enroll eligible low-income individuals in non-expansion states into local managed-care plans or a federal insurance pool, completely bypassing obstructionist state governments.",
+          "sourceUrl": "https://www.amandaforalabama.com/policy",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "aderholt.house.gov · aderholtforcongress.org · rsc-pfluger.house.gov · amandaforalabama.com · ballotready.org · franklinfreepress.net",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,18 @@
+{
+  "office": "Measure O",
+  "district": "City of Albany",
+  "division": "ca/place-albany",
+  "kind": "measure",
+  "summary": "A Yes vote lets the Albany City Council make zoning changes to R-1 residential areas without the neighborhood voter approval required under 1978's Measure D, following a noticed public hearing.",
+  "issues": [
+    "housing"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

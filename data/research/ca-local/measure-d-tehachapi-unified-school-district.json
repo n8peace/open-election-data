@@ -1,0 +1,19 @@
+{
+  "office": "Measure D",
+  "district": "Tehachapi Unified School District",
+  "division": "ca/school-tehachapi-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Tehachapi Unified School District to issue $61 million in bonds for school facilities, repaid by property taxes estimated at $28.65 per $100,000 of assessed value per year.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

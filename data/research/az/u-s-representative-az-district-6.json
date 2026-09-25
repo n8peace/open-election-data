@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "AZ District 6",
+  "division": "az/cd-6",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Juan Ciscomani",
+      "party": "Republican"
+    },
+    {
+      "name": "JoAnna Mendoza",
+      "party": "Democratic"
+    }
+  ]
+}

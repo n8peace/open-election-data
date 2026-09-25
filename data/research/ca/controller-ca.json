@@ -1,0 +1,16 @@
+{
+  "office": "Controller",
+  "district": "CA",
+  "division": "ca/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Malia M. Cohen",
+      "party": "Democratic"
+    },
+    {
+      "name": "Herb W Morgan",
+      "party": "Republican"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "office": "U.S. House",
+  "district": "California District 10",
+  "division": "ca/cd-10",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Mark DeSaulnier",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Voted against a bill he said would make it easier for employers to require unpaid training.",
+          "quote": "Congressman DeSaulnier voted no",
+          "sourceUrl": "https://desaulnier.house.gov/media-center/desaulnier-digest/desaulnier-digest-its-time-impeach-kristi-noem",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Joined nearly 200 Democratic colleagues in publicly opposing any cuts to Social Security, Medicare, or Medicaid.",
+          "quote": "I joined with nearly 200 of my Democratic colleagues last week in sending a united message to the President, Speaker Johnson, and Republicans in Congress: No cuts to Social Security. No cuts to Medicare. No cuts to Medicaid.",
+          "sourceUrl": "https://desaulnier.house.gov/media-center/desaulnier-digest/desaulnier-digest-house-democrats-work-protect-social-security",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Helped secure federal funding for a new affordable-housing development in Walnut Creek.",
+          "quote": "Mark helped secure federal funding for the project",
+          "sourceUrl": "https://desaulnier.house.gov/media-center/desaulnier-digest/desaulnier-digest-dont-miss-tomorrows-town-hall-antioch",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Secured funding for a county unit to prevent and prosecute organized retail theft and assist local law enforcement.",
+          "quote": "creating an Organized Retail Theft Prevention and Prosecution Unit and helping local law enforcement agencies better confront retail theft crimes.",
+          "sourceUrl": "https://desaulnier.house.gov/media-center/desaulnier-digest/desaulnier-digest-join-our-virtual-immigration-town-hall-april-1st",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Sponsors the Dream and Promise Act to provide a pathway to citizenship for Dreamers and has opposed the Trump administration's family separation and deportation policies.",
+          "quote": "Sponsor of the Dream and Promise Act (H.R. 16) and supports finding a pathway to citizenship for Dreamers",
+          "sourceUrl": "https://desaulnier.house.gov/issues/immigration",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Supports bringing California's gun control reforms to the national level to reduce gun violence.",
+          "quote": "The common sense reforms we have made in California are working, and Congressman DeSaulnier is leading the way to bring them to the national level to make our families, schools, and communities safer while adhering to the Second Amendment.",
+          "sourceUrl": "https://desaulnier.house.gov/issues",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Holds a 100% lifetime score from Planned Parenthood and sponsors the Women's Health Protection Act to block abortion restrictions.",
+          "quote": "100% lifetime score from Planned Parenthood in supporting and protecting women's health",
+          "sourceUrl": "https://desaulnier.house.gov/issues/womens-rights",
+          "agreement": "5/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "Voted against the Protection of Women and Girls in Sports Act, which would have required school sports eligibility to be based on sex at birth.",
+          "quote": "DeSaulnier Democratic California CA Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/2023192",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Has been an ardent supporter of protecting, strengthening, and expanding the Affordable Care Act and favors a health care system that prioritizes people over profits.",
+          "quote": "Congressman DeSaulnier has been an ardent supporter of protecting, strengthening, and expanding the Affordable Care Act (ACA).",
+          "sourceUrl": "https://desaulnier.house.gov/issues",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "DeSaulnier endorsed clean-energy legislation and voted against bills that would roll back federal energy-efficiency standards and increase energy consumption.",
+          "quote": "These bills would increase energy consumption, raise utility bills over time, and undermine efforts to reduce pollution.",
+          "sourceUrl": "https://desaulnier.house.gov/media-center/desaulnier-digest/desaulnier-digest-join-our-womens-equality-town-hall-next-thursday",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Sponsored the John R. Lewis Voting Rights Advancement Act to restore voting protections weakened by the Supreme Court and combat voter suppression laws.",
+          "quote": "Congressman DeSaulnier sponsored the John R. Lewis Voting Rights Advancement Act (H.R. 14), which would restore key voting protections that were weakened by the Supreme Court and safeguard the right to vote from discriminatory voter suppression laws.",
+          "sourceUrl": "https://desaulnier.house.gov/media-center/desaulnier-digest/desaulnier-digest-house-democrats-work-protect-social-security",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Jeff Frese",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Frese proposes eliminating federal income tax on teachers' salaries as part of a broader push to cut taxes and reduce spending.",
+          "quote": "No federal income tax on teachers.",
+          "sourceUrl": "https://freseforcongress.com/",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Frese says Social Security and Medicare benefits earned by workers should not be cut or have the retirement age raised, while going after fraud instead.",
+          "quote": "No cuts. You earned it.\n - No raising the retirement age.",
+          "sourceUrl": "https://freseforcongress.com/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Frese calls for cutting federal red tape and regulations that slow and raise the cost of building homes.",
+          "quote": "Cut the red tape that makes building slow and expensive.",
+          "sourceUrl": "https://freseforcongress.com/",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Frese supports increased police funding and prosecution, ending cashless bail, and keeping repeat offenders off the streets.",
+          "quote": "Back the police. Prosecute crime.\n - End cashless bail. Consequences can't be optional.\n - Keep repeat offenders off the streets.",
+          "sourceUrl": "https://freseforcongress.com/",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Frese emphasizes cutting federal regulations that raise domestic energy costs rather than prioritizing faster emissions cuts.",
+          "quote": "Cut federal red tape that drives up energy costs.",
+          "sourceUrl": "https://www.2026election.com/race/2026-house-ca-10",
+          "agreement": "3/10"
+        },
+        "voting": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Frese supports requiring voter ID for federal elections while also keeping mail voting and allowing same-day voting with ID, combining tighter identification rules with easier access measures.",
+          "quote": "Voter ID for federal elections.\n - Same-day voting with ID. Keep vote by mail.",
+          "sourceUrl": "https://freseforcongress.com/",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "desaulnier.house.gov · clerk.house.gov · freseforcongress.com · 2026election.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": true
+}

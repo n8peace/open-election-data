@@ -1,0 +1,18 @@
+{
+  "office": "Measure G",
+  "district": "City of Twentynine Palms",
+  "division": "ca/place-twentynine-palms",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a City of Twentynine Palms transactions and use (sales) tax.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

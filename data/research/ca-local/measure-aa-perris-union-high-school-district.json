@@ -1,0 +1,19 @@
+{
+  "office": "Measure AA",
+  "district": "Perris Union High School District",
+  "division": "ca/school-perris-union-high",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes Perris Union High School District to issue $187 million in bonds for school facilities, repaid by a property tax estimated at $20 per $100,000 of assessed value.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

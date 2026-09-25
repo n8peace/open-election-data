@@ -1,0 +1,152 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 27",
+  "division": "ca/cd-27",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "George Whitesides",
+      "party": "Democratic",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Whitesides criticized tariffs for raising costs and said they were hurting small businesses in his district.",
+          "quote": "He said small-business owners in his district are struggling to keep their doors open because of Trump’s tariffs.",
+          "sourceUrl": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Whitesides supports protecting Social Security and other vital programs as part of his economic agenda.",
+          "quote": "protecting vital programs like Social Security and Medicaid",
+          "sourceUrl": "https://whitesides.house.gov/issues/economy/",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Whitesides called for signing a housing bill intended to increase the housing supply and lower costs.",
+          "quote": "would increase the housing supply and lower costs for American families",
+          "sourceUrl": "https://whitesides.house.gov/category/press-releases/",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Whitesides says he is investing in public education and supporting local schools, teachers and students.",
+          "quote": "By investing in our students, our public education system, our community colleges, and our workforce development pipeline",
+          "sourceUrl": "https://whitesides.house.gov/issues/",
+          "agreement": "3/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "He says he wants to increase funding for local law enforcement to get illegal guns off the streets.",
+          "quote": "increase funding for local law enforcement so they can get more illegal guns off our streets and out of the hands of dangerous criminals",
+          "sourceUrl": "https://www.yahoo.com/news/guide-californias-27th-congressional-district-100037409.html",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Whitesides said he supports securing the border while providing legal pathways to citizenship, particularly for undocumented immigrants brought to the country as children.",
+          "quote": "Whitesides said he supports commonsense reforms that secure the border while providing legal pathways to citizenship, especially for undocumented immigrants brought to the U.S. as children.",
+          "sourceUrl": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-voter-guide",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He says he supports comprehensive background checks and campaigns on gun-violence-prevention measures such as expanding background checks to all gun sales.",
+          "quote": "Whitesides said that he supports comprehensive background checks",
+          "sourceUrl": "https://www.yahoo.com/news/guide-californias-27th-congressional-district-100037409.html",
+          "agreement": "3/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He says everyone should be free to make their own reproductive health decisions and cosponsors legislation to codify abortion rights nationally.",
+          "quote": "Everyone should have the right to make their own healthcare decisions, including those related to reproductive health and abortion access, free from government interference.",
+          "sourceUrl": "https://www.georgewhitesides.com/policies/",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Whitesides opposed policies he said would remove Americans from health care and has fought efforts to cut Medicaid.",
+          "quote": "He’s fought against efforts to cut Medicaid and Social Security",
+          "sourceUrl": "https://www.georgewhitesides.com/",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Whitesides introduced a bill described as lowering energy costs and modernizing the electric grid.",
+          "quote": "The Lowering Energy Costs through Grid Modernization Act would speed deployment of advanced conductors on existing power line corridors, getting cheaper energy to consumers faster.",
+          "sourceUrl": "https://whitesides.house.gov/newsroom/",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Jason Gibbs",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Gibbs's campaign pledges to lower the cost of living by opposing new taxes and cutting wasteful government spending.",
+          "quote": "Jason will fight to lower the cost of living by opposing new taxes, supporting energy affordability, and holding government accountable for wasteful spending.",
+          "sourceUrl": "https://www.jasongibbsforcongress.com/",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Gibbs says he would support law enforcement, oppose policies he describes as soft on crime, and restore consequences for criminal behavior.",
+          "quote": "Jason will support law enforcement and stand up to the \"soft-on-crime\" policies that are letting repeat offenders walk free.",
+          "sourceUrl": "https://www.jasongibbsforcongress.com/",
+          "agreement": "2/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Gibbs's campaign calls for securing the border, cracking down on fentanyl trafficking, and ending policies that reward illegal entry.",
+          "quote": "Jason supports securing the border, cracking down on fentanyl trafficking, and ending policies that reward illegal entry.",
+          "sourceUrl": "https://www.jasongibbsforcongress.com/",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Gibbs says he will support energy affordability to help ease the cost of living for California families.",
+          "quote": "opposing new taxes, supporting energy affordability, and holding government accountable for wasteful spending.",
+          "sourceUrl": "https://www.jasongibbsforcongress.com/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "latimes.com · whitesides.house.gov · yahoo.com · georgewhitesides.com · jasongibbsforcongress.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

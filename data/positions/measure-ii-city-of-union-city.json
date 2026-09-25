@@ -1,0 +1,41 @@
+{
+  "office": "Measure II",
+  "district": "City of Union City",
+  "division": "ca/place-union",
+  "kind": "measure",
+  "summary": "A Yes vote extends the city's existing utility users tax.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Yes on Measure II supports extending Union City's existing 5% Utility Users Tax to keep funding city services such as 9-1-1 response, fire protection, and street repair rather than let it expire.",
+          "quote": "Union City would lose approximately $7 million in annual funding and would have to consider cuts to city services.",
+          "sourceUrl": "https://www.unioncityca.gov/1043/Measure-II-Expiring-Utility-Users-Tax-UU",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote on Measure II opposes extending Union City's existing 5% Utility Users Tax, allowing it to expire at the end of 2028 rather than continuing through 2037.",
+          "quote": "the proposed Measure II would extend the expiration date from December 31, 2028 to December 31, 2037.",
+          "sourceUrl": "https://www.unioncityca.gov/1043/Measure-II-Expiring-Utility-Users-Tax-UU",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "unioncityca.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 5",
+  "division": "ca/cd-5",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Michael Masuda",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Tom McClintock",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

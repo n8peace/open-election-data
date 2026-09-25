@@ -1,0 +1,168 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 20",
+  "division": "ca/cd-20",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Vince Fong",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Fong says his work in Congress is focused on lowering taxes and cutting regulations.",
+          "quote": "In Congress, I am working to lower taxes, eliminate crushing regulations, address the high cost of living",
+          "sourceUrl": "https://vincefong.com/",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Fong lists supporting law enforcement among his core congressional priorities.",
+          "quote": "In Congress, I am working to lower taxes, eliminate crushing regulations, address the high cost of living, support law enforcement",
+          "sourceUrl": "https://vincefong.com/",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Fong campaigns on securing the border and ending illegal immigration through stricter enforcement.",
+          "quote": "A secure border is fundamental to national sovereignty and public safety.",
+          "sourceUrl": "https://vincefong.com/issues/",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Fong frames gun ownership as a constitutional right for law-abiding citizens and opposes new restrictions.",
+          "quote": "The Second Amendment is a constitutional right that safeguards the freedoms of law-abiding Americans.",
+          "sourceUrl": "https://vincefong.com/issues/",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Supported appropriations provisions prohibiting most federal funding for abortion.",
+          "quote": "Preserving Hyde-like pro-life protections, prohibiting DOJ funds from being used for abortion except to save the life of the mother.",
+          "sourceUrl": "https://fong.house.gov/media/press-releases/congressman-fong-votes-advance-fy2026-appropriations-bills-strengthen-public",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Fong backs expanded domestic oil and gas production and energy independence to lower costs.",
+          "quote": "America should never have to rely on foreign adversaries to power our economy.",
+          "sourceUrl": "https://vincefong.com/issues/",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Sandra Van Scotter",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Van Scotter supports requiring higher-income individuals and corporations to pay more taxes to provide relief for working families.",
+          "quote": "Yes, individuals and corporations earning above a defined threshold should pay more. Working families should not be underwriting corporate profits.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90432/race/25581/election/1385",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "She supports reducing waste and deficits but opposes spending cuts that harm elderly, retired, disabled, and other vulnerable people.",
+          "quote": "Reductions that harm children, disabled individuals, elderly and retired Americans while protecting tax advantages for the ultrawealthy are not fiscal responsibility — they are a transfer of suffering upward. Smart deficit reduction identifies waste without dismantling the programs that keep vulnerable Americans alive and dignified.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90432/race/25581/election/1385",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She opposes eliminating the U.S. Department of Education and objects to public education funds flowing to private religious schools.",
+          "quote": "Federal education funding is the primary equalizer for under-resourced districts — 51% goes to the neediest third of schools. Eliminating it doesn't create local control; it creates chaos for the communities least able to absorb the loss. Returning funds to states without guardrails also risks public money flowing to private religious schools — eroding the separation of church and state in curriculum.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90432/race/25581/election/1385",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Van Scotter says she supports a pathway to legal status for undocumented workers, modeled on the Reagan-era amnesty.",
+          "quote": "She supports a pathway to legal status for undocumented workers who have built their lives and livelihoods here, similar to the amnesty passed under the Reagan administration.",
+          "sourceUrl": "https://www.electsandravanscotter.com/issues",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She says current ownership restrictions are largely adequate but supports restricting military-style weapons and improving enforcement.",
+          "quote": "Military-style weapons have no place in hunting or civilian self-defense.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90432/race/25581/election/1385",
+          "agreement": "3/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She says abortion decisions should be left to patients and physicians and supports legal access under any circumstances they consider appropriate.",
+          "quote": "Under any circumstance that a patient and their physician determine is medically, emotionally, or personally appropriate. In 30 years as a medical professional, I observed that these decisions are never made lightly — they are made in pain, with care, and with profound personal weight. The government has no clinical standing in that room. The patient and doctor do.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90432/race/25581/election/1385",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "She rejects a blanket sex-at-birth rule for sports and shared spaces and calls for separate, evidence-based policies.",
+          "quote": "I strongly disagree. This prompt conflates unrelated issues — sports and shared spaces require separate, evidence-based policies.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90432/race/25581/election/1385",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports Medicare for All and describes health care as a right that should be guaranteed through public coverage.",
+          "quote": "Sandra supports Medicare for All",
+          "sourceUrl": "https://www.electsandravanscotter.com/issues",
+          "agreement": "4/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "She backs the Green New Deal and a transition to solar and wind energy.",
+          "quote": "Solar and wind are the most reliable path forward",
+          "sourceUrl": "https://ivoterguide.com/candidate/90432/race/25581/election/1385",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She supports allowing people to vote without photo identification and says signature matching can preserve election security.",
+          "quote": "I strongly agree. California's system demonstrates that photo ID is unnecessary for secure elections. Voters are verified through signature matching — against DMV records or the Secretary of State — at the point of voting.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90432/race/25581/election/1385",
+          "agreement": "8/10"
+        }
+      }
+    }
+  ],
+  "sources": "vincefong.com · fong.house.gov · ivoterguide.com · electsandravanscotter.com",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

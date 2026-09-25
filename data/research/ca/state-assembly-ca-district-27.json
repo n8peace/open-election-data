@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 27",
+  "division": "ca/sldl-27",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Brian Pacheco",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Mike Murphy",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "office": "State Senate",
+  "district": "CA District 10",
+  "division": "ca/sldu-10",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Scott Sakakihara",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Linda R. Price",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

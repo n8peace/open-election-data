@@ -1,0 +1,16 @@
+{
+  "office": "Lieutenant Governor",
+  "district": "CA",
+  "division": "ca/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Fiona Ma",
+      "party": "Democratic"
+    },
+    {
+      "name": "Gloria Romero",
+      "party": "Republican"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 25",
+  "division": "ca/cd-25",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Raul Ruiz",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Ruiz prioritizes creating unionized jobs and has cosponsored the Raise the Wage Act and the PRO Act.",
+          "quote": "create unionized, good-paying jobs in our communities while growing our economy",
+          "sourceUrl": "https://ruiz.house.gov/issues/jobs-and-economy",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Ruiz says he has fought to protect and expand Social Security and Medicare and opposes cuts to them.",
+          "quote": "I will always stand up for our local seniors, from protecting crucial programs like Social Security and Medicare to bringing down health care costs and prescription drugs.",
+          "sourceUrl": "https://ruiz.house.gov/issues/senior-citizens",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "As Congressional Hispanic Caucus chair, Ruiz pushed the Dream and Promise Act to create a pathway to citizenship for Dreamers.",
+          "quote": "Dr. Ruiz led efforts to pass the Dream and Promise Act and other legislation to secure a pathway to citizenship for Dreamers.",
+          "sourceUrl": "https://ruiz.house.gov/issues/immigration",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Ruiz voted for the Bipartisan Safer Communities Act, which strengthens background checks for young gun buyers, and welcomed its passage.",
+          "quote": "The House passage of the Bipartisan Safer Communities Act is a positive step forward in our work to address the gun violence epidemic",
+          "sourceUrl": "https://ruiz.house.gov/media-center/press-releases/dr-ruiz-votes-send-bipartisan-gun-violence-prevention-legislation",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Ruiz condemned the Supreme Court's Dobbs decision overturning Roe v. Wade and pledged to protect access to abortion.",
+          "quote": "Today's decision from the right-wing Supreme Court to strike down Roe v. Wade throws out nearly 50 years of precedent and rips away women's right to make personal health care decisions.",
+          "sourceUrl": "https://ruiz.house.gov/media-center/press-releases/dr-ruiz-statement-supreme-court-ruling-dobbs-v-jackson-women-s-health",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Ruiz voted for the Inflation Reduction Act to lower drug and insurance costs and works to protect and strengthen Medicare and Medicaid coverage.",
+          "quote": "Most recently, Dr. Ruiz voted for the Inflation Reduction Act, which became law in 2022, lowering prescription drug costs and insulin costs for seniors and reducing health care costs for families with insurance through Covered California.",
+          "sourceUrl": "https://ruiz.house.gov/issues/health-care",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Ruiz cosponsored the Climate Action Now Act to keep the U.S. meeting its Paris Agreement emission-reduction goals.",
+          "quote": "Dr. Ruiz has advocated to curb harmful emissions by cosponsoring the Climate Action Now Act to ensure the U.S. meets its emission goals established under the Paris Climate Agreement.",
+          "sourceUrl": "https://ruiz.house.gov/issues/energy-and-environment",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Joe Males",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Males said he would reduce gas taxes to help lower costs for California families.",
+          "quote": "reducing gas taxes and rolling back regulations would help lower costs for families across California.",
+          "sourceUrl": "https://www.nbcpalmsprings.com/decision-2026/2026/05/15/candidates-lay-out-key-issues-in-californias-25th-congressional-district-race",
+          "agreement": "2/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "Males said his congressional focus would be securing the border and enforcing immigration law while also modernizing the legal immigration system.",
+          "quote": "In Congress, I would focus on securing the border, modernizing our legal immigration system, and ensuring we remain both a nation of laws and a nation of opportunity.",
+          "sourceUrl": "https://battlegroundvote.com/california/joe-males",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Males said he opposes new mandates on pollution and carbon emissions because they raise costs and cost jobs.",
+          "quote": "I do not support expanding burdensome mandates on pollution and carbon emissions that often drive up costs, limit growth, and push jobs out of the country.",
+          "sourceUrl": "https://battlegroundvote.com/california/joe-males",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "ruiz.house.gov · nbcpalmsprings.com · battlegroundvote.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

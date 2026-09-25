@@ -1,0 +1,19 @@
+{
+  "office": "Measure P",
+  "district": "Tahoe Truckee Unified School District",
+  "division": "ca/school-tahoe-truckee-unified",
+  "kind": "measure",
+  "summary": "A Yes vote renews the expiring $148 annual parcel tax and adds a $40 increase to fund school programs.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

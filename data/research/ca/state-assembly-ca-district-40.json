@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 40",
+  "division": "ca/sldl-40",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Pilar Schiavo",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Rickey Tracy Hayes II",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

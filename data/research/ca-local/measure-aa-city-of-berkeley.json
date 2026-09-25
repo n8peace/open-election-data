@@ -1,0 +1,18 @@
+{
+  "office": "Measure AA",
+  "district": "City of Berkeley",
+  "division": "ca/place-berkeley",
+  "kind": "measure",
+  "summary": "A Yes vote increases the city's tax on sugar-sweetened beverages to two cents per ounce.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

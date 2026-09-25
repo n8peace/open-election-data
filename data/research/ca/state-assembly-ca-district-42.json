@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 42",
+  "division": "ca/sldl-42",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Deborah Klein Lopez",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Ted Nordblum",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

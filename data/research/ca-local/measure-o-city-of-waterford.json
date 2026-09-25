@@ -1,0 +1,16 @@
+{
+  "office": "Measure O",
+  "district": "City of Waterford",
+  "division": "ca/place-waterford",
+  "kind": "measure",
+  "summary": "A Yes vote changes the City of Waterford from electing its city council members at-large to electing them by district, with the mayor continuing to be elected at-large.",
+  "issues": [],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

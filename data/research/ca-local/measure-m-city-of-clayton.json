@@ -1,0 +1,18 @@
+{
+  "office": "Measure M",
+  "district": "City of Clayton",
+  "division": "ca/place-clayton",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a City of Clayton sales tax expected to raise about $1 million per year for general city services such as police, road maintenance, and libraries.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

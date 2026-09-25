@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 74",
+  "division": "ca/sldl-74",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Sergio Farias",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Laurie Davies",
+      "party": "Republican",
+      "incumbent": true
+    }
+  ]
+}

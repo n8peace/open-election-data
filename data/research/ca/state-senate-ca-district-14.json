@@ -1,0 +1,18 @@
+{
+  "office": "State Senate",
+  "district": "CA District 14",
+  "division": "ca/sldu-14",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Esmeralda Soria",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Darin S. DuPont",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

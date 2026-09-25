@@ -1,0 +1,16 @@
+{
+  "office": "Attorney General",
+  "district": "CA",
+  "division": "ca/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Rob Bonta",
+      "party": "Democratic"
+    },
+    {
+      "name": "Michael E. Gates",
+      "party": "Republican"
+    }
+  ]
+}

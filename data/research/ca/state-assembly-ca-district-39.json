@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 39",
+  "division": "ca/sldl-39",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Juan Carrillo",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Paul Andre Marsh",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

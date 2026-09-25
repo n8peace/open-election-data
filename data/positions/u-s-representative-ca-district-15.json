@@ -1,0 +1,192 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 15",
+  "division": "ca/cd-15",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Kevin Mullin",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Mullin says he backs a progressive tax code where corporations and the wealthiest pay more, and advocates funding childcare and the expanded Child Tax Credit.",
+          "quote": "I support a progressive, equitable tax code that keeps costs down for working families while ensuring that large corporations and the wealthiest 1% pay their fair share.",
+          "sourceUrl": "https://kevinmullin.house.gov/issues/economy/",
+          "agreement": "4/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Mullin describes himself as pro-labor and committed to expanding union jobs.",
+          "quote": "I am proudly pro-labor and will always fight for the expansion of well-paying union jobs.",
+          "sourceUrl": "https://kevinmullin.house.gov/issues/economy/",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Mullin praised protecting Social Security, Medicare, and Medicaid from cuts in the 2023 budget agreement.",
+          "quote": "I commend President Biden for his leadership in fending off devastating cuts and protecting Social Security, Medicare, and Medicaid.",
+          "sourceUrl": "https://kevinmullin.house.gov/2023/05/31/media-press-releases-rep-mullins-statement-bipartisan-budget-agreement/",
+          "agreement": "3/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Mullin lists producing new housing and addressing affordability as a top congressional priority.",
+          "quote": "Addressing affordability challenges and the production of new housing is one of my major priorities in Congress.",
+          "sourceUrl": "https://kevinmullin.house.gov/issues/housing-and-homelessness/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Mullin says he strongly supports and has invested in public schools and universities.",
+          "quote": "I am a strong advocate for public primary, secondary, and higher education institutions.",
+          "sourceUrl": "https://kevinmullin.house.gov/issues/education/",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Mullin voted no on DHS/ICE funding and condemned the administration's aggressive immigration enforcement operations.",
+          "quote": "The Trump Administration's deployment of masked, poorly-trained ICE agents into American cities has led to violence, intimidation, and serious violations of Americans' constitutional rights",
+          "sourceUrl": "https://kevinmullin.house.gov/2026/01/22/rep-mullin-will-vote-no-on-department-of-homeland-security-ice-funding/",
+          "agreement": "6/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "Mullin called for stronger gun-safety laws to address gun violence.",
+          "quote": "Congress must take meaningful action to strengthen protections for places of worship and address the epidemic of gun violence through stronger gun safety laws.",
+          "sourceUrl": "https://kevinmullin.house.gov/2026/05/19/rep-mullins-statement-on-san-diego-islamic-center-shooting/",
+          "agreement": "4/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Mullin says he believes in a woman's right to choose and cosponsors legislation to protect abortion access nationwide.",
+          "quote": "I unequivocally believe in a woman's right to choose and will continue fighting against policies that restrict access to reproductive health care and endanger women's health.",
+          "sourceUrl": "https://kevinmullin.house.gov/issues/healthcare/",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "Mullin opposed laws barring transgender girls and women from school sports teams matching their gender identity.",
+          "quote": "states’ discriminatory laws banning transgender girls and women from playing on school athletic teams that match their gender identity",
+          "sourceUrl": "https://kevinmullin.house.gov/2026/07/01/rep-mullin-condemns-supreme-court-transgender-sports-ruling/",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Mullin is a member of the Medicare for All Caucus and describes health care as a human right for everyone regardless of income.",
+          "quote": "High quality, affordable health care is a human right. We must ensure quality health care is available to everyone in this country regardless of income.",
+          "sourceUrl": "https://kevinmullin.house.gov/issues/healthcare/",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Mullin supports the Green New Deal and federal investments in clean-energy technologies and infrastructure to reduce emissions.",
+          "quote": "Kevin is a proud cosponsor of the Green New Deal, which would safeguard our planet for future generations and reduce emissions",
+          "sourceUrl": "https://www.kevinmullinforcongress.com/climate",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Mullin supported expanding ballot access and helped enact universal vote-by-mail and automatic voter registration in California.",
+          "quote": "In the California Assembly, Kevin authored the landmark California DISCLOSE Act, to put a stop to the use of dark money in our elections and reveal the true funders of ballot measures and candidates. He helped pass universal vote-by-mail so every California voter receives a postage paid paper ballot, resulting in record participation and turnout. He was also a co-author of the law to automatically register Californians to vote.",
+          "sourceUrl": "https://www.kevinmullinforcongress.com/fighting-for-our-democracy",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Charles Hoelter",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Hoelter says he will pursue lower taxes, reduced government spending, and pro-business policies.",
+          "quote": "Charles will fight for lower taxes, reduced government spending, and pro-business policies that create jobs and increase opportunity.",
+          "sourceUrl": "https://www.hoelterforuscongress.com/campaignss/secure-borders-and-fair-immigration-policies/",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Hoelter supports law enforcement and policies that protect communities and hold criminals accountable.",
+          "quote": "Charles supports law enforcement and believes in policies that protect communities and hold criminals accountable.",
+          "sourceUrl": "https://www.hoelterforuscongress.com/campaignss/secure-borders-and-fair-immigration-policies/",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "Hoelter says immigration should be legal, fair, and controlled and describes border security as a national-security issue.",
+          "quote": "Charles believes immigration should be legal, fair, and controlled. A secure border is a national security issue and must be treated as one",
+          "sourceUrl": "https://www.hoelterforuscongress.com/campaignss/secure-borders-and-fair-immigration-policies/",
+          "agreement": "6/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "Hoelter says he will defend the constitutional right to bear arms.",
+          "quote": "Charles will always defend the Constitution, including freedom of speech, religious liberty, and the right to bear arms.",
+          "sourceUrl": "https://www.hoelterforuscongress.com/campaignss/secure-borders-and-fair-immigration-policies/",
+          "agreement": "6/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Hoelter says he is working to keep men out of women’s sports.",
+          "quote": "Working on keeping men out of women sports",
+          "sourceUrl": "https://www.2026election.com/race/2026-house-ca-15",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "On his campaign site, Hoelter says he supports increasing American energy production to lower costs and reduce reliance on foreign nations.",
+          "quote": "Charles supports American energy production to lower costs and reduce reliance on foreign nations",
+          "sourceUrl": "https://www.hoelterforuscongress.com/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Hoelter lists requiring voter ID at elections and cleaning up voter rolls in all states among his top objectives.",
+          "quote": "impose term limits on politicians, require voter ID at elections",
+          "sourceUrl": "https://www.almanacnews.com/redwood-city/2026/05/18/five-candidates-up-to-bat-for-congressional-d-15/",
+          "agreement": "8/10"
+        }
+      }
+    }
+  ],
+  "sources": "kevinmullin.house.gov · kevinmullinforcongress.com · hoelterforuscongress.com · 2026election.com · almanacnews.com",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

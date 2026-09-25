@@ -1,0 +1,16 @@
+{
+  "office": "Measure T",
+  "district": "City of Walnut Creek",
+  "division": "ca/place-walnut-creek",
+  "kind": "measure",
+  "summary": "A Yes vote changes the Walnut Creek City Treasurer from an elected position to one appointed by the City Council.",
+  "issues": [],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

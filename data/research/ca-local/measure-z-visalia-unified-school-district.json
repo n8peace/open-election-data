@@ -1,0 +1,19 @@
+{
+  "office": "Measure Z",
+  "district": "Visalia Unified School District",
+  "division": "ca/school-visalia-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Visalia Unified School District to issue general obligation bonds, repaid by a property tax, to repair and upgrade school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 30",
+  "division": "ca/sldl-30",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Dawn Addis",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Shannon Kessler",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

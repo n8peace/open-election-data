@@ -1,0 +1,8 @@
+{
+  "name": "Plain Ballot",
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:24",
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y poppler-utils && npm ci && cp -n .env.example .env.local",
+  "forwardPorts": [3000],
+  "portsAttributes": { "3000": { "label": "Plain Ballot", "onAutoForward": "openPreview" } },
+  "customizations": { "vscode": { "extensions": ["dbaeumer.vscode-eslint", "vitest.explorer"] } }
+}

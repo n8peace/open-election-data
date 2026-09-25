@@ -1,0 +1,168 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 48",
+  "division": "ca/cd-48",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jim Desmond",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Desmond’s campaign says he supports lowering taxes as part of an affordability agenda.",
+          "quote": "his campaign website says he supports \"lowering taxes, reducing overregulation, and curbing out-of-control costs that are driving seniors and families out of the state.\"",
+          "sourceUrl": "https://news.ballotpedia.org/2026/07/16/democrats-are-targeting-the-redrawn-californias-48th-congressional-district-as-a-pick-up-on-november-3-2026/",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "Desmond proposed mandatory treatment and expanded psychiatric facilities as alternatives to leaving people on the streets or sending them to jail.",
+          "quote": "Scale proven models like One Safe Place and Crisis Stabilization Units (CSUs) across Southern California\n Stop forcing police, hospitals, and families to fill gaps created by failed policies",
+          "sourceUrl": "https://www.desmondforcongress.com/latest-news/my-4-step-plan-treatment-first-accountability-first",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Desmond opposed county policies limiting federal immigration enforcement at county facilities and said people who entered unvetted and caused harm should not be allowed to remain in the country.",
+          "quote": "we have to make sure that those people aren't allowed to stay here in this country.",
+          "sourceUrl": "https://www.kpbs.org/news/border-immigration/2025/10/21/county-supervisors-to-consider-federal-immigration-related-policies",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Desmond has identified lower energy costs as part of his affordability agenda and supported exploring additional energy generation from San Onofre’s spent fuel.",
+          "quote": "Lower energy costs is another step to improving affordability, Desmond argued.",
+          "sourceUrl": "https://idyllwildtowncrier.com/2026/05/26/june-2-primary-election-candidate-interviews/",
+          "agreement": "3/10"
+        }
+      }
+    },
+    {
+      "name": "Marni von Wilpert",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supports passing the PRO Act to strengthen workers’ rights to organize, bargain, and earn higher wages.",
+          "quote": "In Congress, she will finish the work she started as counsel to the House Education and Labor Committee by passing the PRO Act to strengthen workers’ rights to organize, bargain, and earn higher wages.",
+          "sourceUrl": "https://www.marnivonwilpert.com/issues",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "She opposes Trump’s tariffs and supports repealing them to reduce costs for consumers.",
+          "quote": "We have to undo the tariffs that Donald Trump has put on this country.",
+          "sourceUrl": "https://www.kpbs.org/podcasts/kpbs-midday-edition/californias-48th-congressional-district-race-marni-von-wilpert",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She supports protecting and strengthening Social Security and opposes cuts or privatization.",
+          "quote": "She will also stand up to protect Social Security, oppose any cuts or privatization, and ensure the program is strengthened for current and future retirees.",
+          "sourceUrl": "https://www.marnivonwilpert.com/issues",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She supports cutting red tape and making it easier to build more affordable housing.",
+          "quote": "Marni will cut red tape and make it easier to build more affordable housing to make sure people can live closer to where they work.",
+          "sourceUrl": "https://www.marnivonwilpert.com/issues",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports funding and restoring public education.",
+          "quote": "We need public education to be funded and restored.",
+          "sourceUrl": "https://www.kpbs.org/podcasts/kpbs-midday-edition/californias-48th-congressional-district-race-marni-von-wilpert",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She supports secure borders alongside legal pathways to citizenship for long-term residents and Dreamers.",
+          "quote": "She supports meaningful reform that keeps our borders secure and provides legal pathways to citizenship for hardworking long-term residents and Dreamers who have grown up here as Americans.",
+          "sourceUrl": "https://www.marnivonwilpert.com/issues",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports universal background checks, assault-weapons and high-capacity-magazine bans, stronger red-flag laws, and other gun-violence prevention measures.",
+          "quote": "She’ll keep fighting to pass gun violence prevention laws that protect our communities and put our safety first, including banning assault weapons and high-capacity magazines, requiring universal background checks",
+          "sourceUrl": "https://www.marnivonwilpert.com/issues",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She supports codifying Roe v. Wade and protecting access to abortion care.",
+          "quote": "When Roe v. Wade was overturned, Marni passed a law in San Diego to protect abortion rights, and she'll lead the fight to codify Roe into federal law.",
+          "sourceUrl": "https://www.marnivonwilpert.com/issues",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "She supports full Title IX protections and opposes bans targeting gender-affirming care and LGBTQ+ students.",
+          "quote": "She will fight book bans that target LGBTQ+ voices, defend full Title IX protections, and protect the freedom to build a family through marriage, adoption, or assisted reproductive care.",
+          "sourceUrl": "https://www.marnivonwilpert.com/issues",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports expanding the Affordable Care Act and creating a public option alongside other coverage.",
+          "quote": "Marni will fight to protect and expand the Affordable Care Act, restore ACA tax credits, and include a public option that gives families more affordable choices.",
+          "sourceUrl": "https://www.marnivonwilpert.com/issues",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She supports reversing environmental rollbacks and pursuing cleaner energy and climate action.",
+          "quote": "She will fight to reverse Trump-era rollbacks that weakened environmental protections and slowed progress toward cleaner, more affordable energy.",
+          "sourceUrl": "https://www.marnivonwilpert.com/issues",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She supports the John Lewis Voting Rights Act and the For the People Act to expand access to the ballot and protect elections.",
+          "quote": "We must pass the John Lewis Voting Rights Act and the For the People Act to protect free and fair elections and expand access to the ballot",
+          "sourceUrl": "https://www.marnivonwilpert.com/issues",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "news.ballotpedia.org · desmondforcongress.com · kpbs.org · idyllwildtowncrier.com · marnivonwilpert.com",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

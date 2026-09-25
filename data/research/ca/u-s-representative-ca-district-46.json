@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 46",
+  "division": "ca/cd-46",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Lou Correa",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "David Pan",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

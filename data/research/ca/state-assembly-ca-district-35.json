@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 35",
+  "division": "ca/sldl-35",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Andrae Gonzales",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Saul Ayon",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

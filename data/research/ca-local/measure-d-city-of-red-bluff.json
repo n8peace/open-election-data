@@ -1,0 +1,16 @@
+{
+  "office": "Measure D",
+  "district": "City of Red Bluff",
+  "division": "ca/place-red-bluff",
+  "kind": "measure",
+  "summary": "A Yes vote converts the City of Red Bluff offices of City Clerk and City Treasurer from elected positions to positions appointed by the City Council.",
+  "issues": [],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "office": "Measure C",
+  "district": "City of Point Arena",
+  "division": "ca/place-point-arena",
+  "kind": "measure",
+  "summary": "A Yes vote increases the City of Point Arena's transient occupancy (lodging) tax from 12% to 14%, effective April 1, 2027, with no end date unless repealed.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

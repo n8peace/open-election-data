@@ -1,0 +1,41 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 4",
+  "division": "ca/sldl-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Cecilia M. Aguiar-Curry",
+      "party": "Democratic",
+      "stances": {
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Sponsored legislation to protect access to abortion and medication abortion, including by barring certain penalties against providers and pharmacists.",
+          "quote": "It is the intent of the Legislature to ensure continued access to medication abortion",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB260",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "leginfo.legislature.ca.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

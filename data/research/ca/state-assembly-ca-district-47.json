@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 47",
+  "division": "ca/sldl-47",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Leila Namvar",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Greg Wallis",
+      "party": "Republican",
+      "incumbent": true
+    }
+  ]
+}

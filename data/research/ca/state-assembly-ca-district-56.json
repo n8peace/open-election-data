@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 56",
+  "division": "ca/sldl-56",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Lisa Calderon",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Jessica Martinez",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

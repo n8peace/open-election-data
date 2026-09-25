@@ -1,0 +1,192 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 14",
+  "division": "ca/cd-14",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Aisha Wahab",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Wahab said she supports raising taxes on billionaires.",
+          "quote": "support for Medicare for All, raising taxes on billionaires",
+          "sourceUrl": "https://www.19thnews.org/2026/08/aisha-wahab-california-house-swalwell/",
+          "agreement": "6/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Her campaign platform calls for raising the federal minimum wage and creating jobs people can live on, and she is backed by unions including National Nurses United.",
+          "quote": "Raise the federal minimum wage, expand apprenticeships and trades, support local hiring, and create jobs that let people afford to live where they work.",
+          "sourceUrl": "https://www.aishawahab.com/issues-1",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She supports protecting Medicare and Medicaid and opposes reducing basic health-care benefits to address deficits.",
+          "quote": "I would not balance the budget by cutting basic health care, nutrition, housing or education for working people.",
+          "sourceUrl": "https://www.mercurynews.com/2026/05/22/aisha-wahab-california-congressional-candidate-answers-bay-area-news-groups-primary-questionnaire/",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Her campaign platform calls for more funding for housing while cutting red tape and speeding up construction.",
+          "quote": "Increase funding for affordable, social, workforce, and starter housing; cut red tape; speed up construction; and expand paths to homeownership.",
+          "sourceUrl": "https://www.aishawahab.com/issues-1",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Her campaign platform emphasizes protecting Title I and IDEA public-school funding and expanding tutoring and after-school programs.",
+          "quote": "Protect Title I and IDEA funding and expand tutoring and after-school.",
+          "sourceUrl": "https://www.aishawahab.com/issues-1",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Her campaign platform calls for a humane immigration system with due process and faster legal pathways.",
+          "quote": "Secure, fair, and humane immigration with due process and faster legal pathways.",
+          "sourceUrl": "https://www.aishawahab.com/issues-1",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Wahab said she supports codifying abortion rights.",
+          "quote": "codifying abortion",
+          "sourceUrl": "https://www.19thnews.org/2026/08/aisha-wahab-california-house-swalwell/",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Wahab expressed support for Medicare for All.",
+          "quote": "indicating support for Medicare for All",
+          "sourceUrl": "https://www.19thnews.org/2026/08/aisha-wahab-california-house-swalwell/",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Her campaign platform calls for accelerating clean energy and grid upgrades while also cutting energy costs.",
+          "quote": "Cut energy costs and stop price gouging while accelerating clean energy and grid upgrades that improve reliability.",
+          "sourceUrl": "https://www.aishawahab.com/issues-1",
+          "agreement": "3/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Her campaign platform pledges to defend voting rights and equal protection for immigrants, seniors and other vulnerable communities.",
+          "quote": "Defend voting rights, civil rights, and equal protection for women, seniors, kids, LGBTQ+ people, immigrants, and vulnerable communities.",
+          "sourceUrl": "https://www.aishawahab.com/issues-1",
+          "agreement": "3/10"
+        }
+      }
+    },
+    {
+      "name": "Melissa Hernandez",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Hernandez touts keeping local taxes flat with fiscal discipline while also promising to expand federal services like Medicare and childcare support.",
+          "quote": "As Mayor, she kept Dublin financially strong without raising taxes",
+          "sourceUrl": "https://melissahernandez2026.com/issues/",
+          "agreement": "5/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Hernandez said she wants to remove tariffs to reduce everyday costs for consumers.",
+          "quote": "I support eliminating Trump's tariffs to ease everyday costs.",
+          "sourceUrl": "https://patch.com/california/dublin/meet-melissa-hernandez-candidate-californias-14th-congressional-district",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Hernandez pledges to protect Social Security and Medicare from cuts.",
+          "quote": "protect Social Security and Medicare from cuts, and prioritize growing small businesses to strengthen our local economy",
+          "sourceUrl": "https://melissahernandez2026.com/issues/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Hernandez calls for building more housing at all affordability levels to lower housing costs.",
+          "quote": "To bring down the cost of housing, we need to build more houses at all levels of affordability.",
+          "sourceUrl": "https://patch.com/california/dublin/meet-melissa-hernandez-candidate-californias-14th-congressional-district",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Hernandez calls for funding police staffing and resources while also expanding mental health crisis response and addiction treatment.",
+          "quote": "give our police officers, firefighters, and emergency responders the training, staffing, and resources they need",
+          "sourceUrl": "https://melissahernandez2026.com/issues/",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Hernandez supports a pathway to citizenship for DREAMers and undocumented residents, alongside border security.",
+          "quote": "supports a real pathway to citizenship for DREAMers and undocumented community members",
+          "sourceUrl": "https://melissahernandez2026.com/issues/",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Hernandez pledges to protect reproductive healthcare and supports the Women's Health Protection Act.",
+          "quote": "Melissa will also fight to protect reproductive healthcare and restore reproductive freedom by supporting legislation like the Women's Health Protection Act.",
+          "sourceUrl": "https://melissahernandez2026.com/issues/",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Hernandez supports expanding Medicare, restoring insurance subsidies, and lowering prescription drug costs.",
+          "quote": "lower prescription drug costs, protect and expand Medicare, restore insurance subsidies to reduce the cost of insurance premiums",
+          "sourceUrl": "https://patch.com/california/dublin/meet-melissa-hernandez-candidate-californias-14th-congressional-district",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Hernandez backs a transition to renewable energy and fully restoring the Inflation Reduction Act to cut emissions.",
+          "quote": "transition towards a diverse array of renewable energy sources to reduce greenhouse gas emissions",
+          "sourceUrl": "https://melissahernandez2026.com/issues/",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "19thnews.org · aishawahab.com · mercurynews.com · melissahernandez2026.com · patch.com",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

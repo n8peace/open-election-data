@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 55",
+  "division": "ca/sldl-55",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Ashley M. Brown",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Isaac G. Bryan",
+      "party": "Democratic",
+      "incumbent": true
+    }
+  ]
+}

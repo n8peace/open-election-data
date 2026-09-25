@@ -1,0 +1,152 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 2",
+  "division": "ca/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jared Huffman",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Huffman voted against and condemned the 2025 Republican reconciliation law for cutting Medicaid and food assistance to fund tax cuts.",
+          "quote": "Millions of Americans will have their health care and food assistance taken away.",
+          "sourceUrl": "https://huffman.house.gov/media-center/press-releases/huffman-statement-on-house-passage-of-trumps-big-ugly-bill",
+          "agreement": "4/9"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He voted to raise the federal minimum wage to $15 per hour.",
+          "quote": "Representative Jared Huffman (D-San Rafael) voted to pass H.R. 582, the Raise the Wage Act, legislation that gradually increases the federal minimum wage from $7.25 an hour to $15 an hour by 2025",
+          "sourceUrl": "https://huffman.house.gov/media-center/press-releases/rep-huffman-votes-to-pass-the-raise-the-wage-act-increasing-the-federal-minimum-wage-to-15/hour",
+          "agreement": "6/9"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Huffman demanded Republicans abandon efforts to cut Social Security, Medicare, and Medicaid benefits.",
+          "quote": "Every American should be able to access the high-quality health care and dignified retirement they deserve",
+          "sourceUrl": "https://huffman.house.gov/media-center/press-releases/rep-huffman-demands-house-republicans-abandon-efforts-to-cut-social-security-and-health-care-benefits-for-americans",
+          "agreement": "4/9"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He led an effort to withdraw an executive order prioritizing voucher funding for private and charter schools.",
+          "quote": "The federal government should be investing in robust funding to support and strengthen our public schools rather than redirecting resources to unaccountable, privately run secular and religious schools",
+          "sourceUrl": "https://huffman.house.gov/media-center/press-releases/huffman-schakowsky-raskin-lead-efforts-to-support-public-education-and-oppose-scheme-to-divert-public-funds-to-private-religious-schools",
+          "agreement": "6/9"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Huffman was an original cosponsor of comprehensive immigration reform creating a path to citizenship for undocumented immigrants.",
+          "quote": "A bill that has already won bipartisan support is our best opportunity to break this logjam and fix this broken immigration system.",
+          "sourceUrl": "https://huffman.house.gov/media-center/press-releases/huffman-helps-introduce-comprehensive-immigration-reform",
+          "agreement": "4/9"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Huffman backs universal background checks and other gun-control measures, calling gun violence a uniquely American epidemic.",
+          "quote": "We have a gun violence epidemic in our country, a crisis that is uniquely American.",
+          "sourceUrl": "https://huffman.house.gov/policy-issues/gun-violence",
+          "agreement": "6/9"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Huffman opposes restrictions on abortion and pledges to defend reproductive rights.",
+          "quote": "I am renewing my commitment to ensure that women's rights are always treated as human rights.",
+          "sourceUrl": "https://huffman.house.gov/media-center/press-releases/rep-huffman-slams-gop-attack-on-reproductive-health-takes-action-to-defend-womens-rights",
+          "agreement": "5/9"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Huffman voted for the Equality Act to bar discrimination based on gender identity and sexual orientation.",
+          "quote": "I'm glad today to vote for the Equality Act to protect LGBTQ Americans from legal discrimination",
+          "sourceUrl": "https://huffman.house.gov/media-center/press-releases/rep-huffman-votes-to-pass-the-equality-act-to-protect-lgbtq-americans",
+          "agreement": "3/9"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Huffman voted for the MORE Act to end federal marijuana prohibition and supports legalization.",
+          "quote": "Today Congress took an important step to eliminate one of the many harmful repercussions of federal marijuana prohibition",
+          "sourceUrl": "https://huffman.house.gov/media-center/press-releases/rep-huffman-applauds-house-approval-of-landmark-cannabis-bill-calls-on-congress-to-take-additional-steps-to-end-prohibition",
+          "agreement": "6/9"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Huffman cosponsors Medicare for All and supports a universal, single-payer health care system.",
+          "quote": "It is time for the United States to join the standard set by all other industrialized countries and create a universal, single-payer healthcare system.",
+          "sourceUrl": "https://huffman.house.gov/policy-issues/health-care",
+          "agreement": "8/9"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Huffman calls climate change the top priority and pushes to end fossil fuel use and accelerate clean energy.",
+          "quote": "Addressing climate change is the greatest imperative of our time.",
+          "sourceUrl": "https://huffman.house.gov/policy-issues/climate-action-energy-and-environment",
+          "agreement": "4/9"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Huffman voted for sweeping voting-rights legislation to expand and protect access to the ballot.",
+          "quote": "Democracy is at its strongest when voting is accessible, special-interest money is eradicated, and elected officials are held accountable.",
+          "sourceUrl": "https://huffman.house.gov/media-center/press-releases/rep-huffman-votes-to-pass-sweeping-voting-rights-anti-corruption-and-ethics-reforms",
+          "agreement": "7/9"
+        }
+      }
+    },
+    {
+      "name": "Robin Littau",
+      "party": "Republican",
+      "stances": {
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Her campaign platform calls for stronger deterrents and support for law enforcement.",
+          "quote": "Shield the Vulnerable +Stop the Predators +Stronger Deterrents +Support Law Enforcement",
+          "sourceUrl": "https://www.littauforcongress.com/",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports a faster legal-immigration process alongside measures intended to discourage illegal immigration.",
+          "quote": "Reward legal immigration with a more efficient process and continue to implement measures that highly discourage illegal immigration.",
+          "sourceUrl": "https://www.aol.com/articles/redding-republican-says-shed-lead-100759000.html",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "huffman.house.gov · littauforcongress.com · aol.com",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

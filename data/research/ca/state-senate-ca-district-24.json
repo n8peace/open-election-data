@@ -1,0 +1,18 @@
+{
+  "office": "State Senate",
+  "district": "CA District 24",
+  "division": "ca/sldu-24",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "John M. Erickson",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Brian Goldsmith",
+      "party": "Democratic",
+      "incumbent": false
+    }
+  ]
+}

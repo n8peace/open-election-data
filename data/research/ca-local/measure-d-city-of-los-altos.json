@@ -1,0 +1,18 @@
+{
+  "office": "Measure D",
+  "district": "City of Los Altos",
+  "division": "ca/place-los-altos",
+  "kind": "measure",
+  "summary": "A Yes vote requires voter approval before the City of Los Altos sells or develops ten specified downtown parking plazas.",
+  "issues": [
+    "housing"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

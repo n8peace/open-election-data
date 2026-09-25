@@ -1,0 +1,18 @@
+{
+  "office": "Measure L",
+  "district": "City of Needles",
+  "division": "ca/place-needles",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the City of Needles to issue municipal bonds.",
+  "issues": [
+    "debt"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

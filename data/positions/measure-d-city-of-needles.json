@@ -1,0 +1,20 @@
+{
+  "office": "Measure D",
+  "district": "City of Needles",
+  "division": "ca/place-needles",
+  "kind": "measure",
+  "summary": "A Yes vote amends the City of Needles charter.",
+  "issues": [],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {}
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,18 @@
+{
+  "office": "State Senate",
+  "district": "CA District 4",
+  "division": "ca/sldu-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Jaron Brandon",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Alexandra Duarte",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

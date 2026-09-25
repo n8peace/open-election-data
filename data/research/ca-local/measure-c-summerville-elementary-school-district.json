@@ -1,0 +1,19 @@
+{
+  "office": "Measure C",
+  "district": "Summerville Elementary School District",
+  "division": "ca/school-summerville-elementary",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Summerville Elementary School District to issue up to $3.4 million in general obligation bonds, repaid by a property tax estimated at $30 per $100,000 of assessed value, to repair and upgrade facilities at its Tuolumne campus, including roofs, heating and cooling systems, fire safety and alarm systems, and plumbing, sewer, and electrical lines, with independent audits and citizen oversight.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

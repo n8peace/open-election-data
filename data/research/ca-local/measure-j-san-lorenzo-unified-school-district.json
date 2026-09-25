@@ -1,0 +1,19 @@
+{
+  "office": "Measure J",
+  "district": "San Lorenzo Unified School District",
+  "division": "ca/school-san-lorenzo-unified",
+  "kind": "measure",
+  "summary": "A Yes vote renews the district's $99 parcel tax for 12 years to fund academic programs and teacher retention.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "office": "Measure V",
+  "district": "City of Los Banos",
+  "division": "ca/place-los-banos",
+  "kind": "measure",
+  "summary": "A Yes vote changes the Los Banos City Treasurer from an elected position to one appointed by the City.",
+  "issues": [],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

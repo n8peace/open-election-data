@@ -1,0 +1,18 @@
+{
+  "office": "Measure M",
+  "district": "City of San Clemente",
+  "division": "ca/place-san-clemente",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a 1% transactions and use (sales) tax in the City of San Clemente to fund natural hazard purposes such as beach restoration and wildfire prevention.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

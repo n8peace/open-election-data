@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "AL District 4",
+  "division": "al/cd-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Robert B. Aderholt",
+      "party": "Republican"
+    },
+    {
+      "name": "Amanda N. Pusczek",
+      "party": "Democrat"
+    }
+  ]
+}

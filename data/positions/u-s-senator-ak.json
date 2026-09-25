@@ -1,0 +1,195 @@
+{
+  "office": "U.S. Senator",
+  "district": "AK",
+  "division": "ak/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Gerald L. Heikes",
+      "party": "Republican",
+      "stances": {
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Heikes opposes abortion and has said he supports a nationwide ban, including in cases of rape and incest.",
+          "quote": "When you vote for people that believe in the sacrifice of children, in abortion and abortion bills",
+          "sourceUrl": "https://www.adn.com/politics/2024/08/06/as-early-voting-opens-in-alaskas-us-house-race-current-and-former-candidates-talk-about-whats-at-stake/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Mary Peltola",
+      "party": "Democrat",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Peltola proposed tax cuts for working Alaskans while also supporting higher taxes on wealthy Americans.",
+          "quote": "Eliminate federal income tax entirely for working Alaskans earning less than $92,000 per year; end taxes on seniors’ Social Security benefits",
+          "sourceUrl": "https://marypeltola.com/mary-peltola-announces-policy-plan-to-take-action-on-alaskas-affordability-crisis/",
+          "agreement": "6/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Peltola said she would support wage increases for Alaska workers and identified passage of the PRO Act as a congressional priority.",
+          "quote": "Most urgent task for Congress is to pass the PRO Act.",
+          "sourceUrl": "https://www.ontheissues.org/Senate/Mary_Peltola.htm",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Peltola proposed expanding housing grants and building more homes in communities that need them.",
+          "quote": "expand Indian Housing Block Grants to build more homes in communities that need them.",
+          "sourceUrl": "https://marypeltola.com/mary-peltola-announces-policy-plan-to-take-action-on-alaskas-affordability-crisis/",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Peltola described quality schools as vital and was recorded as opposing school vouchers.",
+          "quote": "Quality schools are vital to the future of our communities.",
+          "sourceUrl": "https://www.ontheissues.org/Senate/Mary_Peltola.htm",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Peltola said Alaska should have law enforcement throughout the state.",
+          "quote": "Ensure law enforcement throughout all of Alaska.",
+          "sourceUrl": "https://www.ontheissues.org/Senate/Mary_Peltola.htm",
+          "agreement": "6/10"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "lean",
+          "text": "Peltola supported collecting DNA from felons and requiring electronic monitoring for gang members on probation.",
+          "quote": "Gang members on probation must wear electronic monitors.",
+          "sourceUrl": "https://www.ontheissues.org/Senate/Mary_Peltola.htm",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "Peltola said Alaska jobs should be prioritized for Alaskans over immigrants.",
+          "quote": "Prioritize Alaskan jobs for Alaskans over immigrants.",
+          "sourceUrl": "https://www.ontheissues.org/Senate/Mary_Peltola.htm",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "Peltola said that owning guns is compatible with taking common-sense action on gun policy.",
+          "quote": "I own guns, but we can take common sense action.",
+          "sourceUrl": "https://www.ontheissues.org/Senate/Mary_Peltola.htm",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Peltola said she would protect the right to choose and oppose efforts to remove abortion rights.",
+          "quote": "I will always protect the right to choose.",
+          "sourceUrl": "https://marypeltola.com/mary-peltola-statement-on-anniversary-of-dobbs-decision/",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Peltola said she would protect Medicaid expansion and support a public health insurance option.",
+          "quote": "Protect Medicaid expansion, support a public option.",
+          "sourceUrl": "https://www.ontheissues.org/Senate/Mary_Peltola.htm",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Her campaign plan emphasizes expanding Alaska refining and local energy supply to reduce energy costs.",
+          "quote": "Pass permitting reform and targeted tax credits to expand refinery capacity here in Alaska, increasing in-state investment and local energy supply",
+          "sourceUrl": "https://marypeltola.com/mary-peltola-announces-policy-plan-to-take-action-on-alaskas-affordability-crisis/",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Dan S. Sullivan",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Sullivan helped shape the 2025 tax law, saying it prevented a large tax increase and locked in lower rates.",
+          "quote": "We prevented the largest tax hike in history—more than $4 trillion—and locked in permanent, lower tax rates",
+          "sourceUrl": "https://www.sullivan.senate.gov/newsroom/press-releases/sullivan-shapes-one-big-beautiful-bill-to-unleash-alaskas-economy-create-good-paying-jobs-provide-historic-tax-cuts-for-working-families-and-strengthen-health-care",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Sullivan repeatedly called for tougher enforcement at the southern border and criticized what he called an open-border policy.",
+          "quote": "The President needs to do his job, enforce the law, and end the incentives feeding this crisis immediately.",
+          "sourceUrl": "https://www.sullivan.senate.gov/newsroom/press-releases/sullivan-bidens-border-crisis-impacts-alaskans-and-americans-in-all-50-states/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Sullivan supported the Dobbs decision overturning Roe and describes himself as a pro-life senator who backs legislation protecting the unborn.",
+          "quote": "As a pro-life Catholic, I believe there is no greater gift than that of life.",
+          "sourceUrl": "https://www.sullivan.senate.gov/newsroom/press-releases/sullivan-reacts-to-supreme-court-dobbs-decision",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Sullivan championed opening ANWR's coastal plain to oil and gas drilling to boost the economy and jobs.",
+          "quote": "This Draft EIS brings us that much closer to unleashing America's energy potential, filling up the Trans-Alaska Pipeline, boosting our economy, and providing good jobs for Alaskans, all while protecting the ecosystem in ANWR's 1002 as we've done on the rest of Alaska's North Slope for over 40 years.",
+          "sourceUrl": "https://www.sullivan.senate.gov/newsroom/press-releases/alaska-delegation-commends-milestone-for_responsible-energy-development-on-the-coastal-plain-",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Daniel J. Sullivan Jr.",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Sullivan's campaign touts his role in passing the 2017 Republican tax cuts as a signature accomplishment.",
+          "quote": "passing the biggest tax cut in American history",
+          "sourceUrl": "https://dansullivanforalaska.com/",
+          "agreement": "8/9"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Sullivan said he supports Alaska’s ranked-choice and open-primary system and believes it makes voting easier.",
+          "quote": "Sullivan said he feels Alaska’s system makes voting easier, which he thinks is a good thing.",
+          "sourceUrl": "https://alaskapublic.org/news/politics/elections/2026-08-03/petersburgs-dan-j-sullivan-will-be-on-the-ballot-for-u-s-senate-what-are-his-policies",
+          "agreement": "6/9"
+        }
+      }
+    }
+  ],
+  "sources": "adn.com · marypeltola.com · ontheissues.org · sullivan.senate.gov · dansullivanforalaska.com · alaskapublic.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

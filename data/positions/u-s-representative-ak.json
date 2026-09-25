@@ -1,0 +1,251 @@
+{
+  "office": "U.S. Representative",
+  "district": "AK",
+  "division": "ak/cd-at-large",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Nick Begich",
+      "party": "Republican",
+      "stances": {
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Begich criticized current immigration policies as allowing illegal entry, contrasting them with what he called smart, legal immigration.",
+          "quote": "Smart, legal immigration has fueled America's historic growth story; however, today's immigration policies are anything but smart and legal.",
+          "sourceUrl": "https://alaskapublic.org/2022/08/10/candidate-qa-u-s-house-nick-begich-iii/",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Begich said he opposes gun control legislation and will defend Second Amendment rights.",
+          "quote": "I oppose gun control legislation. I strongly support our Second Amendment rights and will defend our right to keep and bear arms.",
+          "sourceUrl": "https://alaskapublic.org/2022/08/10/candidate-qa-u-s-house-nick-begich-iii/",
+          "agreement": "3/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Begich voted for the Protection of Women and Girls in Sports Act to bar transgender athletes from female sports.",
+          "quote": "This bill is essential to protecting female athletes and ensuring that sports programs remain fair and competitive for all.",
+          "sourceUrl": "https://alaskawatchman.com/2025/01/14/rep-begich-helps-pass-bill-to-protect-girls-sports-from-gender-confused-males/",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Voted for legislation that expands private-market health insurance options, increases competition and reduces premiums.",
+          "quote": "expanding affordable options for small businesses and workers, reducing premiums in the individual market",
+          "sourceUrl": "https://begich.house.gov/media/press-releases/congressman-begich-house-passage-lower-health-care-premiums-all-americans-act",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Supported unlocking Alaska oil and gas resources as a way to increase supply and reduce energy costs.",
+          "quote": "if we want to address affordability in this nation, the best way to do that is to address the fundamental cost of energy. If we are going to do that, we’ve got to produce more of it.",
+          "sourceUrl": "https://begich.house.gov/media/press-releases/icymi-congressman-nick-begich-joins-house-gop-leadership-discuss-energy",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Co-sponsored and supported the SAVE Act, which requires proof of citizenship for voter registration and photo identification to receive a ballot.",
+          "quote": "It requires people to show proof of citizenship to register to vote and to show photo ID to get a ballot.",
+          "sourceUrl": "https://alaskapublic.org/news/politics/washington-d-c/2026-02-13/alaska-delegation-split-on-bill-requiring-voters-to-prove-citizenship-at-registration",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Eric Hafner",
+      "party": "Democrat",
+      "stances": {}
+    },
+    {
+      "name": "Bill Hill",
+      "party": "Nonpartisan",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Hill wants the wealthy and corporations to pay more, backing higher taxes on top earners and closing loopholes to fund schools and services.",
+          "quote": "I support taxing the 1% and closing tax loopholes that mean my neighbors in Naknek are paying a higher tax rate than our country's biggest corporations.",
+          "sourceUrl": "https://billhillforalaskans.com/bills-platform/",
+          "agreement": "4/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Hill says he would champion the PRO Act to protect workers' union rights.",
+          "quote": "I'll also champion policies like the PRO Act that protects the rights of workers.",
+          "sourceUrl": "https://billhillforalaskans.com/bills-platform/",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Hill opposes tariffs, saying they drive up prices.",
+          "quote": "I oppose short-sighted tariffs that are driving up prices.",
+          "sourceUrl": "https://billhillforalaskans.com/bills-platform/",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "Hill calls for reducing the deficit and aligning federal spending with revenue.",
+          "quote": "Let's take real steps to bring our spending in line with revenue.",
+          "sourceUrl": "https://billhillforalaskans.com/bills-platform/",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Hill says he would work to bring new housing projects to Alaska to lower costs.",
+          "quote": "And I'll fight to bring new housing and energy projects to Alaska to bring those costs down, too.",
+          "sourceUrl": "https://billhillforalaskans.com/bills-platform/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A longtime educator, Hill pledges to invest in community schools and protect local control of classrooms.",
+          "quote": "I will be a champion for investments in community schools, and protect local control over our classrooms.",
+          "sourceUrl": "https://billhillforalaskans.com/bills-platform/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "Hill calls for a strong, secure border as part of stopping the flow of fentanyl into the country.",
+          "quote": "We need to do everything in our power to stop the flow of fentanyl into our country, including a strong, secure border.",
+          "sourceUrl": "https://billhillforalaskans.com/bills-platform/",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Hill describes himself as a strong Second Amendment supporter who will defend Alaskans' gun rights.",
+          "quote": "I'm a strong supporter of the Second Amendment.",
+          "sourceUrl": "https://billhillforalaskans.com/bills-platform/",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Hill says he will defend a woman's right to make her own healthcare decisions.",
+          "quote": "I will strongly defend a woman's right to make her own healthcare decisions.",
+          "sourceUrl": "https://billhillforalaskans.com/bills-platform/",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Hill supports expanding Medicaid, extending federal healthcare subsidies, and capping prescription drug prices.",
+          "quote": "I support expanding Medicaid coverage and extending federal healthcare subsidies that are keeping costs from spiking, and I want to see more caps on prescription drug prices.",
+          "sourceUrl": "https://billhillforalaskans.com/bills-platform/",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Hill backs an all-of-the-above approach focused on lowering fuel costs, developing Alaska's oil and gas while also restoring renewable tax credits.",
+          "quote": "I will go to bat for getting the most out of our oil and natural gas, and restore tax credits to bring online new renewable projects.",
+          "sourceUrl": "https://billhillforalaskans.com/bills-platform/",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "James C. \"Jim\" McDermott",
+      "party": "Libertarian",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "McDermott says the Permanent Fund Dividend should be exempt from federal income tax.",
+          "quote": "At the federal level, the PFD should be exempt from federal income tax",
+          "sourceUrl": "https://jamesmcdermott.org/issues/",
+          "agreement": "3/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "McDermott makes reducing the national debt a central priority and pledges to add nothing to it.",
+          "quote": "The national debt is over $37 trillion. That is not a number that fixes itself.",
+          "sourceUrl": "https://jamesmcdermott.org/issues",
+          "agreement": "4/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "He opposed more restrictive gun-control laws in his 2016 questionnaire, while supporting vetting and enforcement against illegally possessed guns.",
+          "quote": "More restrictive gun control laws are needed to protect public safety.",
+          "sourceUrl": "https://ivoterguide.com/candidate/3907/race/1217/election/514",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "McDermott described himself as pro-life but said abortion is a moral choice that government should not dictate.",
+          "quote": "Yes, I am \"Pro Life\" but as a Libertarian I don't see where government belongs dictating to us on who's more right.",
+          "sourceUrl": "https://ivoterguide.com/candidate/3907/race/1217/election/321?culture=en-us",
+          "agreement": "5/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "McDermott says certain drugs should be regulated the same way as alcohol, with regulation revenue funding education about abuse.",
+          "quote": "I believe that certain drugs ought to be regulated in the same manner as alcohol.",
+          "sourceUrl": "https://www.mcdermott4congress4alaska.com/",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He disagreed that government is responsible for ensuring everyone has health care and previously supported repealing the Affordable Care Act.",
+          "quote": "It is the government’s responsibility to be sure everyone has health care and a livable income.",
+          "sourceUrl": "https://ivoterguide.com/candidate/3907/race/1217/election/321",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He favors continued use of Alaska’s coal, natural gas and oil while also supporting small nuclear plants for rural areas.",
+          "quote": "We have abundance of clean coal, natural gas, and high-quality oil. I am a big fan of very clean power like mini nuclear power plants to especially locate within our rural areas.",
+          "sourceUrl": "https://snapcoalition.org/initiatives/stance-on-science/candidates/ak/james-mcdermott",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "McDermott gave a neutral response to whether people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Neutral",
+          "sourceUrl": "https://ivoterguide.com/candidate/3907/race/1217/election/321?culture=en-us",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "alaskapublic.org · alaskawatchman.com · begich.house.gov · billhillforalaskans.com · jamesmcdermott.org · ivoterguide.com · mcdermott4congress4alaska.com · snapcoalition.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

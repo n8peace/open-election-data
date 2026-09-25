@@ -1,0 +1,94 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 19",
+  "division": "ca/sldl-19",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Catherine Stefani",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Stefani says she will advocate for frontline workers to receive a living wage.",
+          "quote": "Catherine will prioritize the well-being of frontline workers, advocating for their safety and ensuring they receive a living wage.",
+          "sourceUrl": "https://www.votecatherinestefani.com/on_the_issues",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Stefani says building new homes at all income levels should be made as easy as possible.",
+          "quote": "We need to make it as easy as possible to construct the new homes we desperately need for residents at all income levels.",
+          "sourceUrl": "https://growsf.org/voter-guide/questionnaires/march-2024/catherine-stefani/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Stefani pledges to increase funding for public schools and teachers.",
+          "quote": "Catherine will advocate for increased funding for schools and teachers to ensure they have the resources to support our students.",
+          "sourceUrl": "https://www.votecatherinestefani.com/on_the_issues",
+          "agreement": "10/10"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "lean",
+          "text": "Stefani wants to legally reclassify domestic violence as a violent crime.",
+          "quote": "In the Assembly, she will work to redefine domestic violence as a violent crime, recognizing its severe consequences and advocating for appropriate measures.",
+          "sourceUrl": "https://www.votecatherinestefani.com/on_the_issues",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Stefani introduced California's first ghost gun ban and pledges to keep pushing gun violence prevention laws.",
+          "quote": "Catherine introduced the first ghost gun ban in California, and will continue to fight for comprehensive gun violence prevention laws.",
+          "sourceUrl": "https://www.votecatherinestefani.com/on_the_issues",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Stefani says she strongly supports reproductive freedom and protecting abortion access.",
+          "quote": "Catherine has been unwavering in her support of reproductive freedom and will be a leader in the fight to protect women's healthcare autonomy in Sacramento.",
+          "sourceUrl": "https://www.votecatherinestefani.com/on_the_issues",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Stefani supports a state single-payer healthcare system.",
+          "quote": "She supports Governor Newsom's comprehensive single-payer healthcare system.",
+          "sourceUrl": "https://www.votecatherinestefani.com/on_the_issues",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Philip Louis Wing",
+      "party": "Republican",
+      "stances": {}
+    }
+  ],
+  "sources": "votecatherinestefani.com · growsf.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

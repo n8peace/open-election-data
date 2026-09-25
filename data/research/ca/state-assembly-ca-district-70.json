@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 70",
+  "division": "ca/sldl-70",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Paula Swift",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Tri Ta",
+      "party": "Republican",
+      "incumbent": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Representative in Congress",
+  "district": "NE District 1",
+  "division": "ne/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Mike Flood",
+      "party": "Republican"
+    },
+    {
+      "name": "Chris Backemeyer",
+      "party": "Democratic"
+    },
+    {
+      "name": "Nik Sandman",
+      "party": "Libertarian"
+    },
+    {
+      "name": "Dan Hartong",
+      "party": "America First"
+    }
+  ]
+}

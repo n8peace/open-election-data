@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "AL District 3",
+  "division": "al/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Mike Rogers",
+      "party": "Republican"
+    },
+    {
+      "name": "Lee McInnis",
+      "party": "Democrat"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "office": "Measure O",
+  "district": "City of East Palo Alto",
+  "division": "ca/place-east-palo-alto",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the City to issue up to $125 million in general obligation bonds, repaid by a property tax, to finance a civic center, water and stormwater infrastructure, and recreational and park facilities.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

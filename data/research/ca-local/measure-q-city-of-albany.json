@@ -1,0 +1,18 @@
+{
+  "office": "Measure Q",
+  "district": "City of Albany",
+  "division": "ca/place-albany",
+  "kind": "measure",
+  "summary": "A Yes vote updates the city's parcel tax funding emergency medical services, advanced life support, and fire protection.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

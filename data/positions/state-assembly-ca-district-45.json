@@ -1,0 +1,71 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 45",
+  "division": "ca/sldl-45",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "James C. Ramos",
+      "party": "Democratic",
+      "stances": {
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "Supported youth diversion funding intended to prevent young people from entering the criminal justice system.",
+          "quote": "He has also supported youth diversion funding to prevent young people from entering the criminal justice system.",
+          "sourceUrl": "https://www.cccco.edu/about-us/notable-alumni/james-c-ramos/",
+          "agreement": "2/3"
+        },
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "lean",
+          "text": "Supported youth diversion funding as an alternative to placing young people in the criminal justice system.",
+          "quote": "He has also supported youth diversion funding to prevent young people from entering the criminal justice system.",
+          "sourceUrl": "https://www.cccco.edu/about-us/notable-alumni/james-c-ramos/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "Greg Abdouch",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Abdouch says he supports tax cuts for small businesses and opposes tax increases that make life more expensive for families.",
+          "quote": "Favors tax cuts that help small businesses grow.",
+          "sourceUrl": "https://www.decodethevote.com/candidate/cand-cav-ca-greg-abdouch-tate-ssembly-45",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Abdouch says he would support police, hold criminals accountable, and strengthen community policing.",
+          "quote": "Abdouch will work to hold criminals accountable, support police, and make our neighborhoods safer.",
+          "sourceUrl": "https://www.ballotready.org/people/greg-abdouch",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "cccco.edu · decodethevote.com · ballotready.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

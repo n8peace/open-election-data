@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "AL District 1",
+  "division": "al/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Jerry Carl",
+      "party": "Republican"
+    },
+    {
+      "name": "Clyde Jones",
+      "party": "Democrat"
+    }
+  ]
+}

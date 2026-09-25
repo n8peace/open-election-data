@@ -1,0 +1,18 @@
+{
+  "office": "Measure K",
+  "district": "City of Needles",
+  "division": "ca/place-needles",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a City of Needles transient occupancy (hotel) tax on lodging stays.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

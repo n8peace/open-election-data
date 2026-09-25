@@ -1,0 +1,19 @@
+{
+  "office": "Measure H",
+  "district": "Live Oak Unified School District",
+  "division": "ca/school-live-oak-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes Live Oak Unified School District to issue $33.2 million in general obligation bonds, repaid through property taxes averaging $56 per $100,000 of assessed value, to construct a new elementary school and upgrade athletic fields and facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

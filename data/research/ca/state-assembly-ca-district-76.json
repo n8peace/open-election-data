@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 76",
+  "division": "ca/sldl-76",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Darshana Patel",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Carrie S. Espinoza Villanueva",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

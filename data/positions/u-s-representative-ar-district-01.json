@@ -1,0 +1,134 @@
+{
+  "office": "U.S. Representative",
+  "district": "AR District 01",
+  "division": "ar/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Steve G. Parsons",
+      "party": "Libertarian",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "He says his campaign seeks less government and criticizes the two major parties for failing to control government spending and taxes.",
+          "quote": "My campaign is about less government and more freedom.",
+          "sourceUrl": "https://steve-parsons.com/",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "He supports less government intrusion into business decisions about hiring, benefits and compensation.",
+          "quote": "This also means less government intrusion into business operations such as decisions regarding hiring, benefits and compensation.",
+          "sourceUrl": "https://steve-parsons.com/",
+          "agreement": "4/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Parsons proposes eliminating trade tariffs, which he says raise costs and reduce jobs.",
+          "quote": "Eliminate trade tariffs (the 2018 trade war with China alone costs America $50 billion a year and 166,000 jobs)",
+          "sourceUrl": "https://steve-parsons.com/platform",
+          "agreement": "3/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "He says government should intrude less into personal decisions about marijuana use.",
+          "quote": "This means less government intrusion into personal decisions such as whether one uses a seat belt or smokes marijuana.",
+          "sourceUrl": "https://steve-parsons.com/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Terri Yarbrough Green",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Green says she supports raising the minimum wage.",
+          "quote": "Raising the minimum wage so work actually pays.",
+          "sourceUrl": "https://terrigreenforarkansas.com/",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Green says Arkansas needs excellent public schools as part of strong infrastructure.",
+          "quote": "excellent public schools",
+          "sourceUrl": "https://terrigreenforarkansas.com/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Green says immigration policies that make it harder for foreign medical professionals to practice in the United States are a concern.",
+          "quote": "She's also concerned about immigration policies making it harder for foreign medical professionals to practice in the U.S.",
+          "sourceUrl": "https://www.cap.org/podcast/why-updates-to-the-no-surprises-act-are-great-news-for-pathologists/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Called for accessible, affordable health care and opposed cuts to Medicare and Medicaid funding.",
+          "quote": "Accessible, affordable healthcare so getting sick does not mean going broke",
+          "sourceUrl": "https://terrigreenforarkansas.com",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Congressman Rick Crawford",
+      "party": "Republican",
+      "stances": {
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He voted for legislation described as defending the southern border after the expiration of Title 42.",
+          "quote": "Rep. Crawford Votes to Defend our Southern Border as Title 42 Lapse Causes Chaos",
+          "sourceUrl": "https://crawford.house.gov/issues/immigration",
+          "agreement": "3/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He introduced legislation requiring federal prisons to house inmates according to their biological sex.",
+          "quote": "The legislation would require the Bureau of Prisons to house federal inmates according to their biological sex",
+          "sourceUrl": "https://crawford.house.gov/issues/public-safety",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He advocates market-based health care with more consumer choice, expanded savings accounts, and insurance sales across state lines.",
+          "quote": "I favor patient-centered health care that allows individuals the freedom to make important health related decisions.",
+          "sourceUrl": "https://crawford.house.gov/issues/health-care",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "steve-parsons.com · terrigreenforarkansas.com · cap.org · crawford.house.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

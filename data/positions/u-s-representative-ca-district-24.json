@@ -1,0 +1,208 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 24",
+  "division": "ca/cd-24",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Salud Carbajal",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He voted against a budget that paired tax cuts for wealthy people and corporations with cuts to Medicaid and SNAP.",
+          "quote": "This budget is all about giving massive tax cuts to billionaires and big corporations while gutting the vital services that everyday Americans, seniors, and Veterans rely on.",
+          "sourceUrl": "https://carbajal.house.gov/news/documentsingle.aspx?DocumentID=3149",
+          "agreement": "4/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Carbajal’s Affordability Agenda proposes increasing the minimum wage and strengthening workers’ role in workplace decisions.",
+          "quote": "Increase the minimum wage and ensure workers have a seat at the table.",
+          "sourceUrl": "https://carbajal.house.gov/news/documentsingle.aspx?DocumentID=3397",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Carbajal called for reversing blanket tariffs and restoring free trade, while saying tariffs may be effective in limited, short-term circumstances.",
+          "quote": "I urge you to restore free trade before small businesses suffer irreparable harm and American families face lasting financial strain.",
+          "sourceUrl": "https://carbajal.house.gov/news/documentsingle.aspx?DocumentID=3366",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Carbajal opposes privatizing Social Security and converting Medicare to vouchers.",
+          "quote": "I strongly oppose privatizing Social Security and oppose turning Medicare into a voucher system.",
+          "sourceUrl": "https://www.saludcarbajal.com/issues/strengthening-security-in-retirement",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Carbajal co-led legislation to incentivize construction of more housing and supported a plan to build four million homes over the next decade.",
+          "quote": "Cut red tape and update permitting and zoning to build four million homes in the next decade.",
+          "sourceUrl": "https://carbajal.house.gov/news/documentsingle.aspx?DocumentID=3397",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Carbajal co-led and sponsored legislation providing legal status, immigration protections, and pathways to citizenship for some undocumented immigrants.",
+          "quote": "The bill includes commonsense reforms to legal status and protections for undocumented immigrants, border security investments, and improved asylum and visa processes.",
+          "sourceUrl": "https://carbajal.house.gov/news/documentsingle.aspx?DocumentID=3493",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Carbajal supports universal background checks and an assault-weapons ban.",
+          "quote": "Congress must also pass universal background checks, a policy supported by nearly 90 percent of the American people",
+          "sourceUrl": "https://carbajal.house.gov/issues/issue/?IssueID=15129",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Carbajal cosponsored legislation protecting abortion access nationwide.",
+          "quote": "That’s why I am a co-sponsor and leading advocate for the Women’s Health Protection Act, which would explicitly protect the right to an abortion nationwide.",
+          "sourceUrl": "https://www.saludcarbajal.com/issues/reproductive-justice",
+          "agreement": "6/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Carbajal voted to federally decriminalize marijuana.",
+          "quote": "The MORE Act is a long overdue measure which decriminalizes marijuana at the federal level",
+          "sourceUrl": "https://carbajal.house.gov/news/documentsingle.aspx?DocumentID=762",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Carbajal’s Affordability Agenda proposes expanding Medicaid access and strengthening Medicare’s guaranteed benefits.",
+          "quote": "Expand access to care by fully funding Medicaid and strengthening Medicare’s guaranteed benefits.",
+          "sourceUrl": "https://carbajal.house.gov/news/documentsingle.aspx?DocumentID=3397",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Carbajal called for restoring federal authority to regulate greenhouse-gas pollution and reversing the administration’s rollback of environmental protections.",
+          "quote": "The Administration has a responsibility to protect the American people from the escalating dangers of climate change, and I call on them to reverse this decision immediately.",
+          "sourceUrl": "https://carbajal.house.gov/news/documentsingle.aspx?DocumentID=3395",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Carbajal voted for automatic and same-day voter registration.",
+          "quote": "Expanding automatic voter registration and same day registration.",
+          "sourceUrl": "https://carbajal.house.gov/news/documentsingle.aspx?DocumentID=806",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Bob Smith",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Smith said higher earners should contribute appropriately while also supporting tax relief and lower costs for working families.",
+          "quote": "Those who do well should contribute appropriately, but the bigger issue is ensuring everyone plays by the same rules.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90453/race/25585/election/1385",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Smith strongly supports cutting federal spending and eliminating waste to reduce the national debt.",
+          "quote": "We must get federal spending under control to address our growing national debt.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90453/race/25585/election/1385",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Smith supports expanding the housing supply, including starter homes, townhomes and family housing, while reducing unnecessary construction regulations.",
+          "quote": "I will fight to expand the housing supply in areas that make sense, including starter homes, townhomes and family housing",
+          "sourceUrl": "https://www.vcstar.com/story/news/politics/elections/2026/05/11/meet-the-candidates-for-the-24th-congressional-district/89911304007/",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Smith pairs support for strong border security and removing offenders with legal clarity for long-term residents.",
+          "quote": "The United States should welcome immigrants who follow the law, contribute to our economy, and respect our Constitution.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90453/race/25585/election/1385",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "Smith supports restrictions targeting violent felons, domestic abusers and people found dangerous by a court, but opposes broad new restrictions on law-abiding gun owners.",
+          "quote": "I do not support broad new restrictions on law-abiding citizens.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90453/race/25585/election/1385",
+          "agreement": "5/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Smith said he supports legal access to abortion and that the government should not decide.",
+          "quote": "I support access to abortion and believe these decisions should be made by women and their doctors, not the federal government.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90453/race/25585/election/1385",
+          "agreement": "7/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Smith says athletic policies should be based on biological differences while providing accommodations that respect individual dignity.",
+          "quote": "Policies should be based on biological differences in athletics and provide appropriate accommodations that respect everyone’s dignity.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90453/race/25585/election/1385",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Smith prioritizes lowering household energy costs while also supporting a mix of reliable baseload power and clean generation.",
+          "quote": "Cut wasteful spending, lower the cost of housing, energy, and food, and expand homeownership for working families.",
+          "sourceUrl": "https://bobsmithforcongress.com/issues/",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Smith said requiring voter identification is a reasonable measure to protect election integrity.",
+          "quote": "Requiring identification to vote is a reasonable step to protect election integrity and maintain public trust.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90453/race/25585/election/1385",
+          "agreement": "7/10"
+        }
+      }
+    }
+  ],
+  "sources": "carbajal.house.gov · saludcarbajal.com · ivoterguide.com · vcstar.com · bobsmithforcongress.com",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

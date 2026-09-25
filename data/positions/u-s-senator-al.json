@@ -1,0 +1,119 @@
+{
+  "office": "U.S. Senator",
+  "district": "AL",
+  "division": "al/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Barry Moore",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Moore's campaign backs the Trump economic agenda of cutting taxes, including on tips, overtime and Social Security.",
+          "quote": "President Trump is building an economy that puts working families first beginning with cutting taxes on tips, overtime and Social Security.",
+          "sourceUrl": "https://barrymooreforalabama.com/issues/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Moore's campaign emphasizes law and order and support for police.",
+          "quote": "Law enforcement knows that Barry has their back.",
+          "sourceUrl": "https://barrymooreforalabama.com/issues/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Moore calls for zero tolerance for illegal immigration and supports border enforcement and deportations.",
+          "quote": "Barry believes there should be zero tolerance for illegal immigration.",
+          "sourceUrl": "https://barrymooreforalabama.com/issues/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Moore defends gun rights, opposes red flag laws and restrictions on firearms.",
+          "quote": "Barry believes in the right to keep and bear arms – period.",
+          "sourceUrl": "https://barrymooreforalabama.com/issues/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Moore said elective abortion should not be allowed, consistent with Alabama law.",
+          "quote": "Under what circumstances should an elective abortion be allowed?\n None, as in Alabama law.",
+          "sourceUrl": "https://ivoterguide.com/candidate/39619/race/31646/election/1466",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Moore's campaign opposes transgender women competing in women's sports.",
+          "quote": "Men have no business in women's sports – period.",
+          "sourceUrl": "https://barrymooreforalabama.com/issues/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Moore criticizes the Affordable Care Act and backs a system with more private choices and competition.",
+          "quote": "The Affordable Care Act has failed to deliver on its promises, causing costs to skyrocket, limiting options, and weakening quality of care while becoming a magnet for fraud.",
+          "sourceUrl": "https://barrymoore.house.gov/media/press-releases/rep-barry-moore-supports-lower-health-care-premiums-all-americans-act",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Moore voted against the 2022 climate spending law, opposing its Green New Deal provisions.",
+          "quote": "Instead, it puts more weight on the backs of hard-working Americans through hefty tax increases on American pensions and more than 700,000 new audits for those making under $75,000 a year, all to provide billions in tax breaks for wealthy corporations to implement Green New Deal policies.",
+          "sourceUrl": "https://barrymoore.house.gov/media/press-releases/rep-barry-moore-opposes-recession-deepening-climate-spending-and-taxation-bill",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Moore strongly opposed allowing people to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification.\n Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/39619/race/31646/election/1466",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Everett Wess",
+      "party": "Democratic",
+      "stances": {
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Wess says Alabama should maintain quality public education and describes public education as an engine of opportunity.",
+          "quote": "His education reflects a deep belief in the power of learning, Alabama institutions, and public education as engines of opportunity.",
+          "sourceUrl": "https://wessforsenate.com/",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "barrymooreforalabama.com · ivoterguide.com · barrymoore.house.gov · wessforsenate.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

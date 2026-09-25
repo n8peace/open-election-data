@@ -1,0 +1,79 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 38",
+  "division": "ca/sldl-38",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Steve Bennett",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Bennett supported and voted for a local increase to the minimum wage in 2001.",
+          "quote": "In 2001, Bennett gave support to and voted for increasing the minimum wage to $8 per hour with medical benefits or $10 per hour without medical benefits.",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Steve_Bennett_(California_politician)",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Bennett, a former public school teacher, says he is committed to directing funding into local public classrooms.",
+          "quote": "As an experienced local educator and high school economics teacher, he is committed to securing funding that goes directly into our local public classrooms.",
+          "sourceUrl": "https://stevebennettforassembly.com/",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Bennett pushed to block new offshore oil and gas leasing and chairs the Assembly budget subcommittee on the climate crisis.",
+          "quote": "Bennett called for the board of supervisors to pass a resolution in support of prohibiting new federal leasing for offshore oil and gas drilling.",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Steve_Bennett_(California_politician)",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Michael MacDonald",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "MacDonald calls for streamlining permitting and expanding by-right approvals to dramatically increase housing supply, including the missing middle.",
+          "quote": "Streamline permitting, expand by-right approvals for projects that meet established standards, and eliminate duplicative reviews so compliant projects can move from approval to construction.",
+          "sourceUrl": "https://www.michaelmacdonaldforassembly.com/restoring-affordability-plan",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "MacDonald says he will defend due process and civil rights and oppose indiscriminate immigration enforcement that separates families.",
+          "quote": "He will defend due process and civil rights, oppose indiscriminate immigration enforcement that tears families and communities apart",
+          "sourceUrl": "https://www.michaelmacdonaldforassembly.com/issues-policy-positions",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "en.wikipedia.org · stevebennettforassembly.com · michaelmacdonaldforassembly.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

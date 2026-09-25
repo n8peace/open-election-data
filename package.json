@@ -1,0 +1,53 @@
+{
+  "name": "agent-swarm-election-data",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Free data on who's running and where they stand, researched by independent AI agents that have to agree. Every position backed by a verified quote.",
+  "homepage": "https://n8peace.github.io/agent-swarm-election-data/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n8peace/agent-swarm-election-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/n8peace/agent-swarm-election-data/issues"
+  },
+  "license": "SEE LICENSE IN README.md",
+  "engines": {
+    "node": ">=24"
+  },
+  "keywords": [
+    "elections",
+    "candidates",
+    "open-data",
+    "voting",
+    "ai-agents",
+    "civic-tech"
+  ],
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "research": "node --env-file-if-exists=.env.local --import tsx scripts/research.ts",
+    "research:state": "node --env-file-if-exists=.env.local --import tsx scripts/research-state.ts",
+    "research:queue": "node --env-file-if-exists=.env.local --import tsx scripts/research-queue.ts",
+    "ca:list": "node --import tsx scripts/ca-cert-list.ts",
+    "ca:local-measures": "node --env-file-if-exists=.env.local --import tsx scripts/ca-local-measures.ts",
+    "consensus": "node --env-file-if-exists=.env.local --import tsx scripts/consensus.ts",
+    "check:research": "node --import tsx scripts/check-positions.ts",
+    "recheck": "node --env-file-if-exists=.env.local --import tsx scripts/recheck.ts",
+    "review": "node --import tsx scripts/review-sheet.ts",
+    "compare-models": "node --env-file-if-exists=.env.local --import tsx scripts/compare-models.ts",
+    "schema": "node --import tsx scripts/positions-schema.ts",
+    "build:api": "node --import tsx scripts/build-api.ts",
+    "bias-check": "node --env-file-if-exists=.env.local --import tsx scripts/bias-check.ts"
+  },
+  "dependencies": {
+    "ai": "^7.0.114",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3",
+    "vitest": "^5.0.2"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "office": "Measure P",
+  "district": "City of Albany",
+  "division": "ca/place-albany",
+  "kind": "measure",
+  "summary": "A Yes vote updates the city's parcel tax for street paving and storm drains, including low-income assistance provisions.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

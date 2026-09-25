@@ -1,0 +1,78 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 18",
+  "division": "ca/sldl-18",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Mia Bonta",
+      "party": "Democratic",
+      "stances": {
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "Bonta says public-safety investments should emphasize prevention and healing alongside accountability.",
+          "quote": "Oakland is getting safer — and Mia is fighting to keep it that way by investing in what actually works: prevention, healing, and real accountability.",
+          "sourceUrl": "https://www.miabonta.com/issues/criminal-justice-reform",
+          "agreement": "4/5"
+        },
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "strong",
+          "text": "Bonta authored AB 1376 to limit lengthy youth probation, emphasizing rehabilitation over continued law enforcement involvement.",
+          "quote": "face a system designed to help them succeed rather than perpetuate cycles of law enforcement involvement",
+          "sourceUrl": "https://contracosta.news/2025/10/11/californias-endless-probation-youth-bill-signed-into-law/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Bonta authored AB 2624 to protect immigrant service providers from doxxing and harassment through the state's Safe at Home program.",
+          "quote": "our immigrant service providers are living in fear because of extremists looking to demonize the work that they do and the populations they serve",
+          "sourceUrl": "https://eurweb.com/california-immigration-aid-workers/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Bonta introduced a legislative package to protect and expand abortion and reproductive health access and has publicly championed reproductive rights.",
+          "quote": "Despite recent progress, it is clear there is still more to do to protect reproductive and maternal health in the state, particularly for our most vulnerable populations, including Black, Latino, Indigenous, LGBTQ+, and low-income communities who are facing disproportionately worse health outcomes.",
+          "sourceUrl": "https://wclp.org/bonta-introduces-bills-supporting-reproductive-maternal-health/",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Bonta authored AB 1415 to expand state oversight of private equity in health care and strengthen the Office of Health Care Affordability.",
+          "quote": "our constituents are demanding that we take action to protect access to affordable and high-quality care",
+          "sourceUrl": "https://www.postnewsgroup.com/asm-mia-bontas-bill-cracking-down-on-private-equity-healthcare-deals-heads-to-govs-desk/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Andre Sandford",
+      "party": "Democratic",
+      "stances": {}
+    }
+  ],
+  "sources": "miabonta.com · contracosta.news · eurweb.com · wclp.org · postnewsgroup.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

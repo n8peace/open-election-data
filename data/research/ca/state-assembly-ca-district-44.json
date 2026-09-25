@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 44",
+  "division": "ca/sldl-44",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Nicholas \"Nick\" Schultz",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Carolyn Daniels",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

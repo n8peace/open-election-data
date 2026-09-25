@@ -1,0 +1,19 @@
+{
+  "office": "Measure G",
+  "district": "Galt Joint Union High School District",
+  "division": "ca/school-galt-joint-union-high",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes Galt Joint Union High School District to issue up to $43 million in general obligation bonds to repair school facilities and fund vocational training programs, with citizen oversight and annual audits.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

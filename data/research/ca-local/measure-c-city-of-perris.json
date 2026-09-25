@@ -1,0 +1,18 @@
+{
+  "office": "Measure C",
+  "district": "City of Perris",
+  "division": "ca/place-perris",
+  "kind": "measure",
+  "summary": "A Yes vote establishes a business license tax of up to 10 cents per square foot on qualifying non-e-commerce industrial, warehouse, manufacturing, and truck-yard facilities.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

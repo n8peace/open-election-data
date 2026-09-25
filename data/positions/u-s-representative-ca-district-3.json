@@ -1,0 +1,168 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 3",
+  "division": "ca/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Ami Bera",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Bera has advocated raising the federal minimum wage so full-time workers are not left in poverty.",
+          "quote": "If we raise the minimum wage to $10.10 an hour, we can restore fairness for working men and women, and make sure no one who works full time lives in poverty.",
+          "sourceUrl": "https://bera.house.gov/news/press-releases/bera-stands-up-for-fair-pay",
+          "agreement": "6/8"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Bera opposed President Trump's sweeping tariffs, saying they raised costs and strained alliances, and has defended free-trade agreements.",
+          "quote": "raised costs for working families, hurt small businesses, and strained our alliances around the world",
+          "sourceUrl": "https://bera.house.gov/news/press-releases/rep-bera-issues-statement-on-supreme-court-striking-down-president-trump-s-tariffs",
+          "agreement": "6/8"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Bera supports strengthening Social Security and Medicare and opposes efforts to cut or weaken the programs.",
+          "quote": "That is why I have supported the Social Security 2100 Act to strengthen Social Security and improve benefits, and why I will continue fighting to protect both Social Security and Medicare from efforts to weaken or undermine them.",
+          "sourceUrl": "https://bera.house.gov/issues/protecting-social-security-and-medicare",
+          "agreement": "8/8"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Bera voted for legislation intended to expand housing supply, cut red tape, and finance construction of more homes.",
+          "quote": "In Congress, I voted for the Housing for the 21st Century Act, a major package focused on expanding housing supply, lowering costs, cutting red tape, modernizing HUD programs, and unlocking financing to help build more homes.",
+          "sourceUrl": "https://bera.house.gov/issues/housing-and-homelessness",
+          "agreement": "4/8"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Bera says he has opposed education-funding cuts and supports protecting and strengthening public education.",
+          "quote": "I believe we have to protect and strengthen public education at every level, from K-12 schools to community colleges and universities, so that the same opportunities I had are still available to the next generation.",
+          "sourceUrl": "https://bera.house.gov/issues/education",
+          "agreement": "3/8"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Bera voted to fund both additional law-enforcement personnel and prevention-oriented programs such as mental-health response and violence intervention.",
+          "quote": "I voted for bipartisan legislation to increase funding for law enforcement and public safety programs, including support for officer recruitment and retention, homicide investigations, mental health first responder units, and evidence-based violence intervention programs.",
+          "sourceUrl": "https://bera.house.gov/issues/keeping-the-sacramento-region-safe",
+          "agreement": "4/8"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Bera introduced legislation to create a pathway to permanent residency for Dreamers and documented Dreamers.",
+          "quote": "They are stepping up, serving their communities, and doing their part to make our country stronger.",
+          "sourceUrl": "https://ross.house.gov/2026/9/reps-ross-bera-introduce-the-service-for-america-act-to-provide-pathway-to-permanent-residency-for-dreamers-documented-dreamers-in-public-service",
+          "agreement": "6/8"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Bera voted for expanded background checks and bipartisan gun-violence prevention legislation.",
+          "quote": "The American people have pleaded for commonsense action to prevent gun violence",
+          "sourceUrl": "https://bera.house.gov/news/press-releases/rep-bera-votes-for-historic-bipartisan-gun-violence-prevention-legislation",
+          "agreement": "5/8"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Bera voted for the Women's Health Protection Act to codify abortion rights after Roe was overturned and opposes restrictions.",
+          "quote": "The freedom to make the most intensely personal and often hardest decision of a woman's life should not be subject to the political inclination and ideology of politicians in Washington.",
+          "sourceUrl": "https://bera.house.gov/news/press-releases/rep-bera-votes-to-protect-reproductive-health-care-in-wake-of-supreme-court-s-reversal-of-roe-v-wade",
+          "agreement": "7/8"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Bera supports universal coverage and has voted to expand ACA subsidies, cap insulin costs, and let Medicare negotiate drug prices.",
+          "quote": "I support universal coverage so every American has access to affordable, quality health care.",
+          "sourceUrl": "https://bera.house.gov/issues/health-care",
+          "agreement": "7/8"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Bera voted for the Inflation Reduction Act, calling it the largest climate investment in U.S. history.",
+          "quote": "This bill will also make the single largest climate investment in U.S. history to protect the health of our environment and families and further our transition to a clean energy future while creating millions of new good-paying jobs.",
+          "sourceUrl": "https://bera.house.gov/news/press-releases/rep-bera-votes-for-inflation-reduction-act",
+          "agreement": "6/8"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Bera opposed the SAVE America Act’s voting restrictions, saying they would burden eligible voters.",
+          "quote": "These burdensome restrictions would make it harder for eligible Americans to vote and would disproportionately impact seniors, people with disabilities, rural voters, low-income Americans, and working families.",
+          "sourceUrl": "https://bera.house.gov/news/press-releases/rep-bera-calls-for-clean-vote-on-comprehensive-congressional-stock-trading-ban",
+          "agreement": "4/8"
+        }
+      }
+    },
+    {
+      "name": "Robb Tucker",
+      "party": "Republican",
+      "stances": {
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Tucker said he would support law enforcement and emphasized holding people who violate the law accountable.",
+          "quote": "And I would do everything I can to support law enforcement.",
+          "sourceUrl": "https://www.kcra.com/article/california-june-2-primary-election-congressional-district-3-candidates-on-the-issues/71360563",
+          "agreement": "4/7"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "Tucker described immigration as a public-safety issue and called for bringing people who violate the law to justice and holding them accountable.",
+          "quote": "We need to focus on the public safety side, bringing to justice and holding accountable those who violate the law.",
+          "sourceUrl": "https://www.kcra.com/article/california-june-2-primary-election-congressional-district-3-candidates-on-the-issues/71360563",
+          "agreement": "4/7"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Tucker said he supports the Second Amendment.",
+          "quote": "support the second amendment",
+          "sourceUrl": "https://robbtucker.com/nevada-county-supervisor-robb-tucker-launches-campaign-for-congressional-district-3/",
+          "agreement": "4/7"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Tucker supports the Protection of Women and Girls in Sports Act to set athletics and privacy rules by sex.",
+          "quote": "Robb supports this bill to clarify Title IX protections, ensuring fairness in women's and girls' athletics and protecting sex-based privacy in schools",
+          "sourceUrl": "https://robbtucker.com/platform/",
+          "agreement": "3/7"
+        }
+      }
+    }
+  ],
+  "sources": "bera.house.gov · ross.house.gov · kcra.com · robbtucker.com",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

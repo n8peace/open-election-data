@@ -1,0 +1,18 @@
+{
+  "office": "Measure GG",
+  "district": "City of Piedmont",
+  "division": "ca/place-piedmont",
+  "kind": "measure",
+  "summary": "A Yes vote increases the city's real property conveyance (transfer) tax.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

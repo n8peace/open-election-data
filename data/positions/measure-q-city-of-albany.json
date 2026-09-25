@@ -1,0 +1,32 @@
+{
+  "office": "Measure Q",
+  "district": "City of Albany",
+  "division": "ca/place-albany",
+  "kind": "measure",
+  "summary": "A Yes vote updates the Emergency Medical Services, Advanced Life Support, and Fire Protection special parcel tax and adds low-income exemptions and rebates, raising about $2.5 million per year until ended by voters.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "The League of Women Voters supports a Yes vote on Measure Q, which raises an estimated $2.5 million annually to maintain emergency medical and fire services.",
+          "quote": "Measure Q — Emergency Medical Services & Fire Protection Tax : SUPPORT",
+          "sourceUrl": "https://www.lwvbae.org/league-news/vote-with-the-league-nov-2024-2/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "lwvbae.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

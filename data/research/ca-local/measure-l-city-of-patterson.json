@@ -1,0 +1,18 @@
+{
+  "office": "Measure L",
+  "district": "City of Patterson",
+  "division": "ca/place-patterson",
+  "kind": "measure",
+  "summary": "A Yes vote enacts an additional 1% transactions and use (sales) tax within the City of Patterson, with the revenue going to the city's general fund.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

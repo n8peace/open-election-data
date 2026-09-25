@@ -1,0 +1,192 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 19",
+  "division": "ca/cd-19",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jimmy Panetta",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Joined legislation that would cut taxes for middle-class families and workers while also funding other affordability measures.",
+          "quote": "The plan takes a multi-angle approach to lowering the cost of living for working families across the country, with real solutions to expand affordable housing, lower energy bills, cut taxes for the middle class",
+          "sourceUrl": "https://panetta.house.gov/media/press-releases/reps-panetta-ways-means-members-introduce-american-affordability-act-lower",
+          "agreement": "3/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Panetta opposed President Trump's sweeping tariffs and introduced legislation to reclaim congressional authority over tariffs, warning they raise prices and disrupt trade.",
+          "quote": "Instead of creating jobs and strengthening our industries, President Trump's tariffs will most likely raise prices, disrupt supply chains, and invite costly retaliation from our allies and trading partners.",
+          "sourceUrl": "https://panetta.house.gov/media/press-releases/rep-jimmy-panettas-statement-president-trumps-sweeping-tariffs",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Panetta says he is continuing to fight to protect Medicare and other essential health care programs.",
+          "quote": "I am continuing the fight to protect Medicare and other essential health care programs that so many rely on.",
+          "sourceUrl": "https://panetta.house.gov/issues/health",
+          "agreement": "3/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Panetta authored legislation to increase the supply of affordable and workforce housing.",
+          "quote": "My Workforce Housing Tax Credit Act would increase the supply of affordable housing for middle-income families who earn too much to qualify for low-income housing and not enough to afford a home near where they work.",
+          "sourceUrl": "https://panetta.house.gov/issues/housing-and-homelessness",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Opposed mass deportations and unchecked immigration-enforcement funding while supporting protections for Dreamers, asylum reforms, and earned legalization.",
+          "quote": "Congress must impose guardrails, oversight, and accountability while pursuing commonsense reforms to improve our asylum system, protect Dreamers, and provide earned legalization for hardworking immigrants.",
+          "sourceUrl": "https://panetta.house.gov/media/press-releases/rep-panetta-convenes-local-leaders-discuss-impacts-administrations-mass",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Panetta voted for and championed expanded background checks on firearm sales and transfers.",
+          "quote": "The expansion of background checks for all sales and transfers of firearms is an important step toward the necessary reduction of gun violence across our nation.",
+          "sourceUrl": "https://panetta.house.gov/media/press-releases/congressman-panetta-statement-house-passage-background-checks-bill-gun-sales",
+          "agreement": "3/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "As a member of the Pro-Choice Caucus, Panetta supports protecting access to abortion and reproductive health care.",
+          "quote": "Access to reproductive health care services is a fundamental right, and inaction is not an option.",
+          "sourceUrl": "https://panetta.house.gov/issues/womens-rights",
+          "agreement": "7/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Panetta voted for the Equality Act, which would establish anti-discrimination protections based on sexual orientation and gender identity.",
+          "quote": "The bill would provide explicit, permanent protections against discrimination based on an individual's sexual orientation or gender identity in employment, housing, public accommodations, federal funding, credit, education, and jury service.",
+          "sourceUrl": "https://panetta.house.gov/media/press-releases/congressman-panetta-supports-landmark-lgbtq-civil-rights-legislation-equality",
+          "agreement": "3/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Panetta cosponsored the MORE Act to deschedule and decriminalize marijuana at the federal level.",
+          "quote": "The MORE Act not only deschedules cannabis at the federal level, it also provides a roadmap for states to legalize in a just and equitable manner.",
+          "sourceUrl": "https://panetta.house.gov/media/press-releases/congressman-panetta-cosponsors-more-act-decriminalize-marijuana-federal-level",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Panetta supports universal health care and worked on legislation to expand Medicare and lower prescription drug prices.",
+          "quote": "Jimmy supports universal health care and passed legislation to provide emergency assistance to nursing homes.",
+          "sourceUrl": "https://www.jimmypanetta.com/issues",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Panetta calls climate change urgent and touts the Inflation Reduction Act's investments to cut carbon emissions.",
+          "quote": "Climate change is real, it is urgent, and it demands action.",
+          "sourceUrl": "https://panetta.house.gov/issues/environment",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Panetta pushes for the John R. Lewis Voting Rights Act to combat voter suppression.",
+          "quote": "I continue to push for the passage of the John R. Lewis Voting Rights Act that would restore the Voting Rights Act's power to combat the resurgence of partisan voter suppression across the nation.",
+          "sourceUrl": "https://panetta.house.gov/issues/equality-civil-rights",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Peter Coe Verbica",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "His campaign platform calls for ending high gas taxes and reformulated-fuel mandates, reflecting a low-tax, fiscal-conservative stance.",
+          "quote": "End the high taxes on gas and ill-conceived reformulated blends",
+          "sourceUrl": "https://peterverbica.com/",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Verbica supports targeted reshoring of critical industries but rejects blanket tariffs.",
+          "quote": "He backs targeted reshoring of critical industries over blanket tariffs",
+          "sourceUrl": "https://www.usatoday.com/press-release/story/41254/pete-verbica-america-needs-statesmanship-and-common-sense-not-a-cult-of-personality/",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "In announcing his federal plan he faulted incumbents for failing to structurally reform Social Security.",
+          "quote": "they refused to structurally fix social security for current and future generations",
+          "sourceUrl": "https://www.prnewswire.com/news-releases/united-states-congressional-candidate-peter-coe-verbica-unveils-25-point-federal-plan-to-help-make-california-affordable-again-302480699.html",
+          "agreement": "6/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "Verbica says biological males should not compete in women's sports or use women's bathrooms.",
+          "quote": "Believes biological males should not compete in women's athletics or access women's bathrooms",
+          "sourceUrl": "https://www.prlog.org/13124848-santa-cruz-county-republicans-endorse-peter-coe-verbica-for-us-congress.html",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Verbica points to Singapore’s savings-account and price-transparency model as an approach for reducing federal health-care costs.",
+          "quote": "He has also pointed to Singapore’s healthcare model — mandated savings accounts paired with price transparency — as one example worth studying to bring down federal healthcare costs.",
+          "sourceUrl": "https://www.usatoday.com/press-release/story/41254/pete-verbica-america-needs-statesmanship-and-common-sense-not-a-cult-of-personality/",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "His affordability plan seeks cheaper energy by standardizing fuel blends and requesting EPA waivers for broader gasoline availability.",
+          "quote": "Request EPA waivers to allow broader gasoline availability",
+          "sourceUrl": "https://www.prnewswire.com/news-releases/united-states-congressional-candidate-peter-coe-verbica-unveils-25-point-federal-plan-to-help-make-california-affordable-again-302480699.html",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Verbica supports voter identification, citizenship verification, and continuing voter-roll audits.",
+          "quote": "He supports the California Voter ID initiative which is slated for the 2026 ballot and believes that the epidemic of billions in unfunded liabilities in local counties and cities must be stopped.",
+          "sourceUrl": "https://peterverbica.com/about",
+          "agreement": "3/10"
+        }
+      }
+    }
+  ],
+  "sources": "panetta.house.gov · jimmypanetta.com · peterverbica.com · usatoday.com · prnewswire.com · prlog.org",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

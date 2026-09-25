@@ -1,0 +1,19 @@
+{
+  "office": "Measure AA",
+  "district": "La Mesa-Spring Valley School District",
+  "division": "ca/school-la-mesa-spring-valley",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the La Mesa-Spring Valley School District to extend its existing bond tax rate to issue $131,000,000 in general obligation bonds to repair and upgrade school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 28",
+  "division": "ca/sldl-28",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Gail Pellerin",
+      "party": "Democratic",
+      "stances": {
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "Pellerin authored AB 1111, which would let small licensed cannabis cultivators sell their products directly at state-approved temporary events.",
+          "quote": "The bill would authorize a licensee who holds a valid annual state cultivation license and a valid license, permit, or other authorization for cannabis cultivation issued by a local jurisdiction, and who meets specified other requirements, to apply for a small producer event sales license.",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240AB1111",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Pellerin scored 98% on the 2025 California Environmental Scorecard and received extra credit for authoring or principal-coauthoring a scorecard climate bill.",
+          "quote": "This representative received extra credit for the following: Being an author or principal coauthor of a Scorecard bill.",
+          "sourceUrl": "https://envirovoters.org/scorecard/representative/gail-pellerin/",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Pellerin, a former county elections official and chair of the Assembly Elections Committee, praised a ruling requiring mail ballots postmarked by Election Day to be counted and said voters should not lose their voices to mail delays.",
+          "quote": "Eligible voters who did everything the law required should not have their voices silenced because of mail processing changes or mail delays beyond their control.",
+          "sourceUrl": "https://www.gov.ca.gov/2026/06/29/california-leaders-on-supreme-court-upholding-access-to-democracy-for-millions-of-americans/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Carol Pefley",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Pefley lists lowering the cost of living through tax relief among her key campaign priorities.",
+          "quote": "Advocate for tax relief and policies that make housing and essential goods more affordable for all Californians.",
+          "sourceUrl": "https://www.carolpefleyforassembly.com/key-priorities",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "slower growth",
+          "strength": "strong",
+          "text": "Pefley opposes state housing mandates and overdevelopment, favoring locally controlled, coordinated growth.",
+          "quote": "I believe in responsible, coordinated growth that works with communities, not sweeping mandates that override local planning.",
+          "sourceUrl": "https://www.carolpefleyforassembly.com/about-carol",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "leginfo.legislature.ca.gov · envirovoters.org · gov.ca.gov · carolpefleyforassembly.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

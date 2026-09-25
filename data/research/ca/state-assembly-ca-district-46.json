@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 46",
+  "division": "ca/sldl-46",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Jesse Gabriel",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Tracey Schroeder",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

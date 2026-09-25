@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Representative",
+  "district": "AK",
+  "division": "ak/cd-at-large",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Begich, Nick",
+      "party": "Registered Republican"
+    },
+    {
+      "name": "Hafner, Eric",
+      "party": "Registered Democrat"
+    },
+    {
+      "name": "Hill, Bill",
+      "party": "Nonpartisan"
+    },
+    {
+      "name": "McDermott, James C. “Jim”",
+      "party": "Registered Libertarian"
+    }
+  ]
+}

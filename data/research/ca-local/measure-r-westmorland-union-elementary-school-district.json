@@ -1,0 +1,19 @@
+{
+  "office": "Measure R",
+  "district": "Westmorland Union Elementary School District",
+  "division": "ca/school-westmorland-union-elementary",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Westmorland Union Elementary School District to issue bonds, repaid by a property tax of about $25 per $100,000 of assessed value, to fund school facility improvements.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

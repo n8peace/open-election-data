@@ -1,0 +1,18 @@
+{
+  "office": "Measure Q",
+  "district": "City of Shafter",
+  "division": "ca/place-shafter",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a 1% transactions and use (sales) tax in the City of Shafter for city services and facilities.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

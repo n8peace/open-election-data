@@ -1,0 +1,19 @@
+{
+  "office": "Measure B",
+  "district": "Westminster School District",
+  "division": "ca/school-westminster",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Westminster School District to issue general obligation bonds, repaid by local property taxes, to fund classroom repairs and school safety, security, and facility improvements.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

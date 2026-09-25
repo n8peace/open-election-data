@@ -1,0 +1,18 @@
+{
+  "office": "Measure S",
+  "district": "City of San Pablo",
+  "division": "ca/place-san-pablo",
+  "kind": "measure",
+  "summary": "A Yes vote limits how much residential rents in San Pablo may be increased each year and funds administration of the program through an annual fee on property owners.",
+  "issues": [
+    "housing"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

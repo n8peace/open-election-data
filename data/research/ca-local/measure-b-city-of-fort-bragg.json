@@ -1,0 +1,18 @@
+{
+  "office": "Measure B",
+  "district": "City of Fort Bragg",
+  "division": "ca/place-fort-bragg",
+  "kind": "measure",
+  "summary": "A Yes vote imposes a $50 annual parcel tax for 10 years within the City of Fort Bragg to fund fire protection equipment and emergency response services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

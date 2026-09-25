@@ -1,0 +1,41 @@
+{
+  "office": "Measure V",
+  "district": "City of Berkeley",
+  "division": "ca/place-berkeley",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a 0.5% transactions and use (sales) tax in the City of Berkeley for general municipal purposes, estimated to raise more than $9 million per year.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote on Measure V would raise Berkeley’s sales tax by 0.5% to generate about $9–10 million annually for general-fund services, including public safety.",
+          "quote": "Measure V — Sales Tax for the General Fund: SUPPORT",
+          "sourceUrl": "https://www.lwvbae.org/league-news/vote-with-the-league-nov-2024-2/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Argued against Measure V, which would impose a half-cent sales tax.",
+          "quote": "He is one of the two people being fact-checked here.",
+          "sourceUrl": "https://ericdf.github.io/berkeley-decision-project/measure-v-debate-fact-check.html",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "lwvbae.org · ericdf.github.io",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

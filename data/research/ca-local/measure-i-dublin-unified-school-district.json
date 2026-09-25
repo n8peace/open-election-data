@@ -1,0 +1,19 @@
+{
+  "office": "Measure I",
+  "district": "Dublin Unified School District",
+  "division": "ca/school-dublin-unified",
+  "kind": "measure",
+  "summary": "A Yes vote renews the district's existing $96 parcel tax and adds $48 per parcel to fund school programs.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

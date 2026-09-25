@@ -1,0 +1,18 @@
+{
+  "office": "Measure P",
+  "district": "City of American Canyon",
+  "division": "ca/place-american-canyon",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a 1% general sales tax in American Canyon, with revenue going to the city's general fund for city services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

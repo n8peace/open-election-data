@@ -1,0 +1,18 @@
+{
+  "office": "Measure N",
+  "district": "City of Carmel-by-the-Sea",
+  "division": "ca/place-carmel-by-the-sea",
+  "kind": "measure",
+  "summary": "A Yes vote increases the city's transactions and use (sales) tax by 0.375%, from 1.50% to 1.875%.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

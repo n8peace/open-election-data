@@ -1,0 +1,18 @@
+{
+  "office": "Measure V",
+  "district": "City of Vacaville",
+  "division": "ca/place-vacaville",
+  "kind": "measure",
+  "summary": "A Yes vote establishes an additional one-cent sales tax in the City of Vacaville, until ended by voters, for general city services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

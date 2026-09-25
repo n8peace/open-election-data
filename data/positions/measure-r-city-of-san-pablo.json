@@ -1,0 +1,32 @@
+{
+  "office": "Measure R",
+  "district": "City of San Pablo",
+  "division": "ca/place-san-pablo",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a temporary San Pablo sales tax of one-half cent for five years and one-quarter cent for the following five years for general city services, after which it ends.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote on Measure R enacts a local sales tax increase to fund city services such as police, street repairs, senior meals, and youth programs.",
+          "quote": "a ½ cent sales tax increase for the first five years, which would then decrease to a ¼-cent for the final five years",
+          "sourceUrl": "https://www.sanpabloca.gov/servicemeasure",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "sanpabloca.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

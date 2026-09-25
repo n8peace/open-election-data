@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 23",
+  "division": "ca/sldl-23",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Marc Berman",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "David G. Johnson",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

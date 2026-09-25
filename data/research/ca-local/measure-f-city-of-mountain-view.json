@@ -1,0 +1,18 @@
+{
+  "office": "Measure F",
+  "district": "City of Mountain View",
+  "division": "ca/place-mountain-view",
+  "kind": "measure",
+  "summary": "A Yes vote raises the City of Mountain View hotel (transient occupancy) tax from 10% to 15%.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

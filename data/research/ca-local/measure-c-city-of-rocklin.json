@@ -1,0 +1,19 @@
+{
+  "office": "Measure C",
+  "district": "City of Rocklin",
+  "division": "ca/place-rocklin",
+  "kind": "measure",
+  "summary": "A Yes vote establishes a half-cent (0.5%) sales tax to fund city services including police, fire, and 911 emergency response.",
+  "issues": [
+    "tax",
+    "safety"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

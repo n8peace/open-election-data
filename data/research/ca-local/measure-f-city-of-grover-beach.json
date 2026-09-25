@@ -1,0 +1,18 @@
+{
+  "office": "Measure F",
+  "district": "City of Grover Beach",
+  "division": "ca/place-grover-beach",
+  "kind": "measure",
+  "summary": "A Yes vote limits buildings in commercial areas to three stories or 40 feet and industrial buildings to 33 feet in height.",
+  "issues": [
+    "housing"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "office": "Measure D",
+  "district": "Natomas Unified School District",
+  "division": "ca/school-natomas-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes Natomas Unified School District to issue $300,000,000 in bonds, repaid by a property tax of about $60 per $100,000 of assessed value, to repair and upgrade school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

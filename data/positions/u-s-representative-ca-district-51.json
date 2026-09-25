@@ -1,0 +1,79 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 51",
+  "division": "ca/cd-51",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Sara Jacobs",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Jacobs introduced the LEGACY Act to lower the estate-tax exemption on wealthy families like her own to fund universal child care.",
+          "quote": "Wealthy families like mine didn't build our wealth alone, and we shouldn't hoard the benefits of success that's not only ours.",
+          "sourceUrl": "https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-introduces-landmark-bill-to-decrease-her-inheritance-to-fund-affordable-child-care",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Jacobs co-introduced legislation to expand transit-oriented housing development, framing the country's problem as a housing shortage.",
+          "quote": "Our country is facing a severe housing shortage – pushing Americans further away from their work, school, and transit.",
+          "sourceUrl": "https://simon.house.gov/media/press-releases/congresswomen-simon-and-jacobs-introduce-legislation-support-affordable-and",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Jacobs has repeatedly acted to protect abortion access, including for service members.",
+          "quote": "No matter where you live or are stationed, no matter how much money you make, you should have access to abortion.",
+          "sourceUrl": "https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-pushes-for-service-members-freedom-to-access-abortion-care",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "Jacobs was an original co-sponsor of and voted for the Equality Act, which adds gender identity to federal anti-discrimination protections.",
+          "quote": "As the proud sister to a trans brother and a gender non-conforming sibling, and the proud representative of Hillcrest, the heart of San Diego's LGBTQ+ community, I was honored to vote for the Equality Act.",
+          "sourceUrl": "https://sarajacobs.house.gov/news/press-releases/statement-from-congresswoman-jacobs-on-passage-of-the-equality-act",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Jacobs is an original co-sponsor of Medicare for All legislation.",
+          "quote": "I am proud to be an original co-sponsor of Medicare for All and to join my colleagues in introducing this vitally important legislation today.",
+          "sourceUrl": "https://sarajacobs.house.gov/news/press-releases/congresswoman-jacobs-joins-colleagues-as-an-original-co-sponsor-of-medicare-for-all-legislation",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Ricardo Cabrera",
+      "party": "Republican",
+      "stances": {}
+    }
+  ],
+  "sources": "sarajacobs.house.gov · simon.house.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

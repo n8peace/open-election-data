@@ -1,0 +1,18 @@
+{
+  "office": "Measure Z",
+  "district": "City of Benicia",
+  "division": "ca/place-benicia",
+  "kind": "measure",
+  "summary": "A Yes vote establishes a City of Benicia real property transfer tax on property sales at tiered rates, excluding existing homes selling for less than $2 million and immediate-family transfers.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

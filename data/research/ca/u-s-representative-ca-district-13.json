@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 13",
+  "division": "ca/cd-13",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Adam Gray",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Kevin Lincoln",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

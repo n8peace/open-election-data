@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 20",
+  "division": "ca/sldl-20",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Liz Ortega",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Patricia Muga",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

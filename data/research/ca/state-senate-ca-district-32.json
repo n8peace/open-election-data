@@ -1,0 +1,18 @@
+{
+  "office": "State Senate",
+  "district": "CA District 32",
+  "division": "ca/sldu-32",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Tiffanie Tate",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Kelly Seyarto",
+      "party": "Republican",
+      "incumbent": true
+    }
+  ]
+}

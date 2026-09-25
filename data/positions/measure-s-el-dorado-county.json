@@ -1,0 +1,33 @@
+{
+  "office": "Measure S",
+  "district": "El Dorado County",
+  "division": "ca/county-el-dorado",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a 3/8% sales tax for 30 years, estimated at $13 million annually, for emergency services and wildfire prevention.",
+  "issues": [
+    "tax",
+    "safety"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "The Yes on Measure S position supports enacting a 3/8% sales tax for 30 years to fund hospitals, fire protection, wildfire prevention, and emergency response.",
+          "quote": "shall the measure enacting a 3/8% sales tax for 30 years in El Dorado County, providing approximately $13,000,000 annually",
+          "sourceUrl": "https://eldoradostate.substack.com/p/day-1-measure-s-el-dorado-county",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "eldoradostate.substack.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,95 @@
+{
+  "office": "Treasurer",
+  "district": "CA",
+  "division": "ca/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Eleni Kounalakis",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Kounalakis said that strong unions are foundational to the middle class and a thriving California.",
+          "quote": "hard work, opportunity, and strong unions are the foundation of the middle class and of a thriving California.",
+          "sourceUrl": "https://growsf.org/voter-guide/questionnaires/june-2026/eleni-kounalakis/",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Kounalakis said she would accelerate housing construction and supported legislation streamlining housing development and expanding housing opportunities.",
+          "quote": "we must dramatically increase housing production across all income levels, especially near jobs and transit",
+          "sourceUrl": "https://growsf.org/voter-guide/questionnaires/june-2026/eleni-kounalakis/",
+          "agreement": "10/10"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "lean",
+          "text": "Kounalakis co-sponsored legislation that increased penalties for sex-trafficking offenders.",
+          "quote": "enhances California’s ability to combat sex trafficking by increasing penalties for offenders and expanding critical services for survivors.",
+          "sourceUrl": "https://ltg.ca.gov/2025/10/15/lt-governor-eleni-kounalakiss-2025-priority-legislation-signed-by-governor-newsom/",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "She praised the benefits of generous immigration policies and called for ending the treatment of immigrants and their families that she described as terrible.",
+          "quote": "California has benefited from America’s generous immigration policies over the last few generations in particular.",
+          "sourceUrl": "https://www.kcra.com/article/eleni-kounalakis-californias-state-treasurer-race/73499115",
+          "agreement": "3/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Kounalakis co-sponsored legislation to protect access to abortion medication and providers and patients from out-of-state prosecution.",
+          "quote": "to ensure continued access to abortion medication in California and protect providers and patients from out-of-state interference.",
+          "sourceUrl": "https://ltg.ca.gov/2025/10/15/lt-governor-eleni-kounalakiss-2025-priority-legislation-signed-by-governor-newsom/",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Kounalakis finalized a settlement to shut down an offshore oil platform and described her infrastructure plans as working toward California’s climate goals.",
+          "quote": "Finalized a settlement to shut down Platform Esther, reducing California’s offshore oil platforms to just two active sites",
+          "sourceUrl": "https://ltg.ca.gov/2026/01/02/lieutenant-governor-eleni-kounalakiss-2025-year-in-review/",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Jennifer Hawks",
+      "party": "Republican",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Hawks supports directing housing funding toward producing more housing units and tying homelessness-program funding to measurable reductions.",
+          "quote": "Calls for housing dollars to produce actual units, supports housing-finance metrics tying funding to homes, and supports tying homelessness programs to reductions.",
+          "sourceUrl": "https://www.change.vote/candidacy/jennifer-hawks.HBsSJbh6",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "growsf.org · ltg.ca.gov · kcra.com · change.vote",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

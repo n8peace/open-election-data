@@ -1,0 +1,18 @@
+{
+  "office": "Measure B",
+  "district": "San Diego County",
+  "division": "ca/county-san-diego",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a half-cent countywide sales tax to fund Tijuana River sewage cleanup, wildfire prevention, emergency response, healthcare, food assistance, and childhood development services, with citizen oversight and independent audits.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

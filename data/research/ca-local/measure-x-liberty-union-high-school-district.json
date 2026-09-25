@@ -1,0 +1,19 @@
+{
+  "office": "Measure X",
+  "district": "Liberty Union High School District",
+  "division": "ca/school-liberty-union-high",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue $165 million in bonds for school facility repairs and modernization, repaid through property taxes at an estimated $20 per $100,000 of assessed value.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

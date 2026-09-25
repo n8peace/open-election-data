@@ -1,0 +1,79 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 43",
+  "division": "ca/sldl-43",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Celeste Rodriguez",
+      "party": "Democratic",
+      "stances": {
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Condemned the federal mass-deportation agenda and described its effects on immigrant families and communities.",
+          "quote": "it&#x27;s really dangerous in our communities and communities like ours because of the Federal Administration&#x27;s mass deportation agenda.",
+          "sourceUrl": "https://calmatters.digitaldemocracy.org/hearings/278345",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Ricardo Benitez",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Supports tax incentives for small businesses.",
+          "quote": "Supports tax incentives to help small businesses thrive.",
+          "sourceUrl": "https://www.decodethevote.com/candidate/cand-cav-ca-ricardo-benitez-tate-ssembly-43",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Advocates increased funding to improve public schools.",
+          "quote": "Advocates for increased funding to improve public schools.",
+          "sourceUrl": "https://www.decodethevote.com/candidate/cand-cav-ca-ricardo-benitez-tate-ssembly-43",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Calls for both stronger border security and a pathway to citizenship.",
+          "quote": "Calls for border security and a pathway to citizenship.",
+          "sourceUrl": "https://www.decodethevote.com/candidate/cand-cav-ca-ricardo-benitez-tate-ssembly-43",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Advocates universal healthcare to provide coverage for all.",
+          "quote": "Advocates for universal healthcare to provide coverage for all.",
+          "sourceUrl": "https://www.decodethevote.com/candidate/cand-cav-ca-ricardo-benitez-tate-ssembly-43",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "calmatters.digitaldemocracy.org · decodethevote.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,19 @@
+{
+  "office": "Measure I",
+  "district": "Hemet Unified School District",
+  "division": "ca/school-hemet-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes Hemet Unified School District to issue $225 million in bonds for school facilities, repaid by a property tax estimated at $50 per $100,000 of assessed value.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

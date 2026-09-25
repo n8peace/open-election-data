@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Representative",
+  "district": "NV District 4",
+  "division": "nv/cd-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Russell Best",
+      "party": "IAP"
+    },
+    {
+      "name": "Steven A. Horsford",
+      "party": "DEM"
+    },
+    {
+      "name": "William Johnson",
+      "party": "NP"
+    },
+    {
+      "name": "Cody K. Whipple",
+      "party": "REP"
+    }
+  ]
+}

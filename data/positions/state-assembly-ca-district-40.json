@@ -1,0 +1,55 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 40",
+  "division": "ca/sldl-40",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Pilar Schiavo",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Authored a bill that streamlines and imposes deadlines on state-agency reviews of permits needed to begin predominantly residential development.",
+          "quote": "would require a state agency to comply with the above-described provisions relating to postentitlement phase permits applicable to a local agency",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB301",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Rickey Tracy Hayes II",
+      "party": "Republican",
+      "stances": {
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Hayes says he would work to lower utility costs and support affordable, reliable energy while strengthening the power grid.",
+          "quote": "I am grateful for his support as we work to lower utility costs for working families.",
+          "sourceUrl": "https://rickeyhayesforassembly.com/assemblyman-stan-ellis-endorses-rickey-hayes-for-state-assembly/",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "leginfo.legislature.ca.gov · rickeyhayesforassembly.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

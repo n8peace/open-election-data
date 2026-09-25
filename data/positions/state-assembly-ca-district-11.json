@@ -1,0 +1,78 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 11",
+  "division": "ca/sldl-11",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Lori D Wilson",
+      "party": "Democratic",
+      "stances": {}
+    },
+    {
+      "name": "Jenny Leilani Callison",
+      "party": "No Party Preference",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "On her campaign site she pledges to cut the gas tax, tolls, fees and other taxes to lower the cost of living.",
+          "quote": "I will fight to lower the cost of living by reducing the gas tax, cutting tolls, streamlining permitting, and eliminating fees and taxes that burden families and small businesses.",
+          "sourceUrl": "https://callison2026.com/",
+          "agreement": "8/9"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Her issues page calls for reforming codes and regulations to lower costs and expand housing options.",
+          "quote": "Common-sense reforms to codes and regulations can lower costs and expand housing options while maintaining safety.",
+          "sourceUrl": "https://callison2026.com/issues",
+          "agreement": "3/9"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Her campaign site says she would expand school choice and defend parental rights, alongside improving public schools.",
+          "quote": "I will expand educational opportunities and school choice, defend parental rights, improve access to IEPs",
+          "sourceUrl": "https://callison2026.com/",
+          "agreement": "8/9"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "Callison says she would promote safer communities through stronger mental health services.",
+          "quote": "promote safer communities with stronger mental health services",
+          "sourceUrl": "https://callison2026.com",
+          "agreement": "5/9"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "Her issues page supports federal legalization and lighter regulation to grow the cannabis industry.",
+          "quote": "Lower fees, fair regulations, and federal legalization can grow the cannabis industry and create opportunity.",
+          "sourceUrl": "https://callison2026.com/issues",
+          "agreement": "3/9"
+        }
+      }
+    }
+  ],
+  "sources": "callison2026.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,33 @@
+{
+  "office": "Measure I",
+  "district": "Dublin Unified School District",
+  "division": "ca/school-dublin-unified",
+  "kind": "measure",
+  "summary": "A Yes vote renews the district's expiring parcel tax and sets it at $144 per parcel per year for 9 years, raising about $3 million annually for teacher retention and class-size reduction.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote would direct the parcel-tax revenue to class-size reduction, teacher retention, counseling, tutoring and other programs in Dublin Unified schools.",
+          "quote": "The money raised would be spent on maintaining small class sizes, attracting and retaining teachers and on student counseling, tutoring and other types of academic assistance programs.",
+          "sourceUrl": "https://www.sfgate.com/news/bayarea/article/dublin-measure-i-on-november-ballot-would-22433868.php",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "sfgate.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

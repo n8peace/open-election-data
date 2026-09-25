@@ -1,0 +1,18 @@
+{
+  "office": "State Senate",
+  "district": "CA District 26",
+  "division": "ca/sldu-26",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Sara Hernandez",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Sarah Rascón",
+      "party": "Democratic",
+      "incumbent": false
+    }
+  ]
+}

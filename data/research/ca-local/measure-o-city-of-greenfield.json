@@ -1,0 +1,18 @@
+{
+  "office": "Measure O",
+  "district": "City of Greenfield",
+  "division": "ca/place-greenfield",
+  "kind": "measure",
+  "summary": "A Yes vote continues the city's existing 0.75% transactions and use (sales) tax, which is otherwise set to expire March 31, 2033.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

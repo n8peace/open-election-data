@@ -1,0 +1,18 @@
+{
+  "office": "State Senate",
+  "district": "CA District 30",
+  "division": "ca/sldu-30",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Bob J. Archuleta",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Araceli Martinez",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

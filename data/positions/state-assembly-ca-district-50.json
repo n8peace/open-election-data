@@ -1,0 +1,46 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 50",
+  "division": "ca/sldl-50",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Robert Garcia",
+      "party": "Democratic",
+      "stances": {
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Authored AB 1280, which expands state financing and incentives for projects that decarbonize industrial facilities and reduce emissions.",
+          "quote": "projects that enable the decarbonization of industrial facilities’ use of heat and power",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1280",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Victoria Viveros Mageno",
+      "party": "Republican",
+      "stances": {}
+    }
+  ],
+  "sources": "leginfo.legislature.ca.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

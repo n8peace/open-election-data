@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 21",
+  "division": "ca/sldl-21",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Diane Papan",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Jabra J Muhawieh",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

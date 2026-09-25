@@ -1,0 +1,18 @@
+{
+  "office": "Measure D",
+  "district": "City of Coronado",
+  "division": "ca/place-coronado",
+  "kind": "measure",
+  "summary": "A Yes vote raises the allowed height for multi-family residential development in the R-4 zone from three stories and 35 feet to four stories and 42 feet.",
+  "issues": [
+    "housing"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

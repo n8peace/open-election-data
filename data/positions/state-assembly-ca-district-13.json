@@ -1,0 +1,63 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 13",
+  "division": "ca/sldl-13",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Rhodesia Ransom",
+      "party": "Democratic",
+      "stances": {
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Ransom said she supports investing in education and workforce programs, including additional funding for career technical education.",
+          "quote": "In 2026, I want to continue to push for solutions that make life more affordable. We're going to be focusing on anything that we can do to try to cut down on escalating costs. I also want to focus on investing in education and workforce programs so that young people are ready for good-paying jobs and real opportunities.",
+          "sourceUrl": "https://www.agalert.com/california-ag-news/archives/december-3-2025/on-the-record-rhodesia-ransom-talks-serving-the-central-valley/",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Ransom said she had introduced or supported bills addressing high utility costs.",
+          "quote": "I've stood up bills to make sure that we are standing up against high-cost utility bills.",
+          "sourceUrl": "https://www.recordnet.com/story/news/politics/elections/2026/06/01/california-assembly-district-13-race-education-equity-key-priorities/90007266007/",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Tom Patti",
+      "party": "Republican",
+      "stances": {
+        "voting": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Said he supports mail-in voting while also favoring voter identification requirements.",
+          "quote": "Patti said he supports keeping California’s independent redistricting commission and likes mail-in voting but also favors identification requirements for voters.",
+          "sourceUrl": "https://stocktonia.org/news/politics/2026/09/04/__trashed-5/",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "agalert.com · recordnet.com · stocktonia.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

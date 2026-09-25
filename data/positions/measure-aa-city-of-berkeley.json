@@ -1,0 +1,32 @@
+{
+  "office": "Measure AA",
+  "district": "City of Berkeley",
+  "division": "ca/place-berkeley",
+  "kind": "measure",
+  "summary": "A Yes vote replaces Berkeley's existing $0.01-per-fluid-ounce tax on the distribution of sugar-sweetened beverages with a $0.02-per-fluid-ounce special tax, estimated to raise about $2.2 million annually, to fund public health, nutrition, and drinking-water programs.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Supports Measure AA, which would increase the sugary-drink distributor tax to fund community health, school nutrition, and water-access programs.",
+          "quote": "By increasing the tax levied on distributors of sugary drinks to 2 cents per ounce, Measure AA lets us stay ahead of inflation and continue to fund community-based health solutions",
+          "sourceUrl": "https://www.berkeleyvsbigsoda.org/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "berkeleyvsbigsoda.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

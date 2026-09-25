@@ -1,0 +1,19 @@
+{
+  "office": "Measure S",
+  "district": "Imperial County",
+  "division": "ca/county-imperial",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a countywide 0.5% sales and use tax for 20 years, estimated to raise about $20 million annually, dedicated to sheriff and fire public-safety services.",
+  "issues": [
+    "tax",
+    "safety"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "office": "Measure A",
+  "district": "Calaveras Unified School District",
+  "division": "ca/school-calaveras-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Calaveras Unified School District to issue up to $66,800,000 in general obligation bonds, repaid by an estimated property tax of about $49.44 per $100,000 of assessed value, to fund construction, renovation, and equipment for district school facilities, with citizens' oversight and annual audits.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

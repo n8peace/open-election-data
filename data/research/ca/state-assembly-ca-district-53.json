@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 53",
+  "division": "ca/sldl-53",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Michelle Rodriguez",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Rafaela Romero",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

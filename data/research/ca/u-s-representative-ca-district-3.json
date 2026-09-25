@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 3",
+  "division": "ca/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Ami Bera",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Robb Tucker",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

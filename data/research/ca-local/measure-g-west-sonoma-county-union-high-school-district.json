@@ -1,0 +1,19 @@
+{
+  "office": "Measure G",
+  "district": "West Sonoma County Union High School District",
+  "division": "ca/school-west-sonoma-county-union-high",
+  "kind": "measure",
+  "summary": "A Yes vote renews the district's $79-per-parcel tax for eight years, raising about $1,950,000 annually for the district, with an exemption available to seniors.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

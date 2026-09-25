@@ -1,0 +1,19 @@
+{
+  "office": "Measure Q",
+  "district": "Meadows Union Elementary School District",
+  "division": "ca/school-meadows-union-elementary",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Meadows Union Elementary School District to issue $2.2 million in bonds, repaid by a property tax of about $25 per $100,000 of assessed value, to fund school facility repairs and improvements.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

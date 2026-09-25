@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 45",
+  "division": "ca/cd-45",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Derek Tran",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Chuong V. Vo",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

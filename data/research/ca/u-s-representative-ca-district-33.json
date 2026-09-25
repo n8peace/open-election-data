@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 33",
+  "division": "ca/cd-33",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Pete Aguilar",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Stephanie M. Vargas",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

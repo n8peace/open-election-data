@@ -1,0 +1,120 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 37",
+  "division": "ca/cd-37",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Sydney Kamlager-Dove",
+      "party": "Democratic",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Called for the Trump administration to halt its tariffs, arguing that they raised prices and did little to protect American workers and industries.",
+          "quote": "These arbitrary tariffs have created chaos for small businesses and caused prices for nearly everything from groceries to clothes to skyrocket, all while doing next to nothing to protect American workers and industries.",
+          "sourceUrl": "https://kamlager-dove.house.gov/media/press-releases/kamlager-dove-statement-scotus-striking-down-trumps-tariffs",
+          "agreement": "5/9"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Requested federal community-project funding for Los Angeles Unified School District facilities and programs, including an aerospace fabrication hub and an early education center.",
+          "quote": "This project would help the creation of a centralized \"Artemis Generation\" Aerospace Fabrication Hub at Los Angeles Unified School District",
+          "sourceUrl": "https://kamlager-dove.house.gov/services/fiscal-year-2027-community-project-funding-selections",
+          "agreement": "4/9"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Requested funding both for LAPD dispatch and drone capabilities and for an unarmed community-led response program for some non-urgent calls.",
+          "quote": "This project would help develop an unarmed response program that operates under the Mayor's Office of Community Safety and deploys trained teams to address non-urgent LAPD calls related to unhoused individuals.",
+          "sourceUrl": "https://kamlager-dove.house.gov/services/fiscal-year-2027-community-project-funding-selections",
+          "agreement": "4/9"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Opposed additional funding for ICE and Border Patrol without reforms and called for protections against abusive immigration enforcement.",
+          "quote": "We can make an investment in the American people instead of ICE and Border Patrol, which already have enough funding to carry out their cruelty for years to come.",
+          "sourceUrl": "https://kamlager-dove.house.gov/media/press-releases/kamlager-dove-statement-dhs-funding",
+          "agreement": "7/9"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "Supported universal background checks, safe-storage requirements, restrictions on domestic abusers, and limits on large-capacity magazines and concealed-carry reciprocity.",
+          "quote": "she’s also championed the need for universal background checks on all gun sales, stronger safe storage measures, and legislation to disarm domestic abusers among other commonsense solutions.",
+          "sourceUrl": "https://giffords.org/candidates/sydney-kamlager-dove-2/",
+          "agreement": "3/9"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She introduced a resolution affirming reproductive freedom and supporting access to abortion as part of reproductive health care.",
+          "quote": "Every woman should be free to access the full spectrum of reproductive health care—including abortion—and to decide when, if, and how to have children.",
+          "sourceUrl": "https://kamlager-dove.house.gov/media/press-releases/kamlager-dove-simon-and-pressley-introduce-resolution-advance-reproductive",
+          "agreement": "8/9"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "She voted against an ACA rollback amendment that would have removed premium tax credits.",
+          "quote": "Voted NO on ACA-rollback budget reconciliation amendment (119th Congress) — strips ACA premium tax credits. (2025).",
+          "sourceUrl": "https://thecandidate.com/candidates/sydney-kamlager-dove-ca-house-37",
+          "agreement": "7/9"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Introduced legislation requiring the EPA to account for climate-change risks when managing and reviewing Superfund cleanups.",
+          "quote": "With the ongoing and ever-worsening climate crisis, we must take strong action to mitigate the climate risks on Superfund sites across California and the country",
+          "sourceUrl": "https://kamlager-dove.house.gov/media/press-releases/kamlager-dove-schiff-cleaver-introduce-bill-require-epa-examine-impact-climate",
+          "agreement": "3/9"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "She voted against the SAVE Act, which would have required proof of citizenship for voter registration, and called for restoring voting-rights protections.",
+          "quote": "Voted NO on Safeguard American Voter Eligibility (SAVE) Act (H.R. 8281, 118th) House passage — proof-of-citizenship for voter registration. (2024).",
+          "sourceUrl": "https://thecandidate.com/candidates/sydney-kamlager-dove-ca-house-37",
+          "agreement": "4/9"
+        }
+      }
+    },
+    {
+      "name": "Samantha Mota",
+      "party": "Democratic",
+      "stances": {
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Mota identifies universal health care as a primary policy passion.",
+          "quote": "The areas of public policy that I am passionate about are immigration reform, universal health care, Family Leave, and economic stability to heal the betrayal that have left our communities, neighborhoods, and nation abandoned and broken.",
+          "sourceUrl": "https://www.2026election.com/race/2026-house-ca-37",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "kamlager-dove.house.gov · giffords.org · thecandidate.com · 2026election.com",
+  "checkedAt": "2026-09-24",
+  "reviewed": false
+}

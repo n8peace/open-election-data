@@ -1,0 +1,39 @@
+name: Research a race
+description: Claim a contest on your ballot so nobody duplicates the work. No coding needed.
+title: "Research: [Office], [District], [State]"
+labels: ["research", "good first issue"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping. The step-by-step guide is in [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md#1-research-a-race-on-your-ballot-no-coding-20-minutes). One rule matters most: **no quote, no position.**
+  - type: input
+    id: contest
+    attributes:
+      label: Contest
+      description: Exactly as it appears on the ballot.
+      placeholder: "State Senate, District 14 (Texas)"
+    validations:
+      required: true
+  - type: textarea
+    id: candidates
+    attributes:
+      label: Candidates or choices
+      description: Every candidate in the race, not just one.
+      placeholder: |
+        - Name (Party)
+        - Name (Party)
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources you plan to use
+      description: Candidates' own sites, voting records, questionnaires, rulings. Not opinion pieces or attack ads.
+  - type: checkboxes
+    id: fair
+    attributes:
+      label: Fairness
+      options:
+        - label: I'll research every candidate in this race with the same care.
+          required: true

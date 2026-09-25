@@ -1,0 +1,18 @@
+{
+  "office": "U.S. Representative",
+  "district": "CA District 23",
+  "division": "ca/cd-23",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Tessa Lynn Hodge",
+      "party": "Democratic",
+      "incumbent": false
+    },
+    {
+      "name": "Jay Obernolte",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}

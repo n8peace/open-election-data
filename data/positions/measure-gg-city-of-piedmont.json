@@ -1,0 +1,32 @@
+{
+  "office": "Measure GG",
+  "district": "City of Piedmont",
+  "division": "ca/place-piedmont",
+  "kind": "measure",
+  "summary": "A Yes vote increases the City of Piedmont's real property transfer tax from $13.00 to $17.50 per $1,000 of consideration, raising about $1.5 million annually for general city services until ended by voters.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "The Piedmont Beautification Foundation unanimously endorsed Measure GG and recommended voting yes on the transfer-tax increase to fund city needs.",
+          "quote": "The Trustees unanimously voted that PBF endorse the measure and recommend a YES vote on November 3.",
+          "sourceUrl": "https://piedmontexedra.com/2026/09/piedmont-beautification-foundation-looks-to-banner-year-ahead-after-fast-start",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "piedmontexedra.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

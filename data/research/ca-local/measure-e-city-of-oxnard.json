@@ -1,0 +1,18 @@
+{
+  "office": "Measure E",
+  "district": "City of Oxnard",
+  "division": "ca/place-oxnard",
+  "kind": "measure",
+  "summary": "A Yes vote continues the City of Oxnard's existing half-cent sales tax at the current rate, providing about $20 million annually for general city services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes"
+    },
+    {
+      "name": "No"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 49",
+  "division": "ca/sldl-49",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Mike Fong",
+      "party": "Democratic",
+      "incumbent": true
+    },
+    {
+      "name": "Long David Liu",
+      "party": "Republican",
+      "incumbent": false
+    }
+  ]
+}
