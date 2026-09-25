@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 3",
+  "division": "tx/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "KEITH SELF",
+      "party": "REP"
+    },
+    {
+      "name": "EVAN HUNT",
+      "party": "DEM"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 31",
+  "division": "tx/cd-31",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "JOHN CARTER",
+      "party": "REP"
+    },
+    {
+      "name": "JUSTIN EARLY",
+      "party": "DEM"
+    },
+    {
+      "name": "GREG STOKER",
+      "party": "GRE"
+    }
+  ]
+}

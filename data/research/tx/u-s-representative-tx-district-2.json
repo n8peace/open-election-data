@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 2",
+  "division": "tx/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "STEVE TOTH",
+      "party": "REP"
+    },
+    {
+      "name": "SHAUN FINNIE",
+      "party": "DEM"
+    }
+  ]
+}

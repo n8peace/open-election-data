@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Senator",
+  "district": "TX",
+  "division": "tx/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "KEN PAXTON",
+      "party": "REP"
+    },
+    {
+      "name": "JAMES TALARICO",
+      "party": "DEM"
+    },
+    {
+      "name": "TED BROWN",
+      "party": "LIB"
+    }
+  ]
+}
