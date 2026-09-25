@@ -1,0 +1,41 @@
+{
+  "office": "Measure L",
+  "district": "City of Santa Rosa",
+  "division": "ca/place-santa-rosa",
+  "kind": "measure",
+  "summary": "A Yes vote extends and increases the city's half-cent sales tax to one cent with no expiration date, raising an estimated $46 million annually for city finances and deferred maintenance.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Measure L would raise the existing sales-tax rate to one cent to maintain city services and prevent additional cuts.",
+          "quote": "If approved by voters, reauthorizes a previously voter-approved sales tax at an updated 1-cent rate for general City services to maintain Santa Rosa’s quality of life, the City’s financial stability, and the existing services community members identified as priorities.",
+          "sourceUrl": "https://www.srcity.org/4397/Santa-Rosas-Local-Measure-L",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "The No position opposes Measure L’s proposed 0.50-percentage-point sales-tax increase, which would raise Santa Rosa’s total sales-tax rate to 10.50%.",
+          "quote": "Measure L would increase the total sales tax rate in Santa Rosa by 0.50%, to 10.50%.",
+          "sourceUrl": "https://www.srcity.org/DocumentCenter/View/50907/Signed_ImpartialAnalysis_Redacted",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "srcity.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

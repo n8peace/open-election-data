@@ -1,0 +1,58 @@
+{
+  "office": "Measure L",
+  "district": "Mountain Empire Unified School District",
+  "division": "ca/school-mountain-empire-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Mountain Empire Unified School District to issue $23,000,000 in general obligation bonds to repair and upgrade school facilities, including classroom renovations and asbestos removal.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "A yes vote supports issuing bonds to finance improved facilities for the school district.",
+          "quote": "Measure L is about giving students better facilities and keeping construction work flowing in the East County.",
+          "sourceUrl": "https://www.linkedin.com/pulse/top-10-socal-aec-events-three-week-outlook-august-31-luda-xdlac",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A yes vote supports funding facility improvements for Mountain Empire Unified School District public schools.",
+          "quote": "Measure L is about giving students better facilities and keeping construction work flowing in the East County.",
+          "sourceUrl": "https://www.linkedin.com/pulse/top-10-socal-aec-events-three-week-outlook-august-31-luda-xdlac",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "A no vote opposes issuing bonds to finance improved facilities for the school district.",
+          "quote": "Measure L is about giving students better facilities and keeping construction work flowing in the East County.",
+          "sourceUrl": "https://www.linkedin.com/pulse/top-10-socal-aec-events-three-week-outlook-august-31-luda-xdlac",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A no vote opposes funding facility improvements for Mountain Empire Unified School District public schools.",
+          "quote": "Measure L is about giving students better facilities and keeping construction work flowing in the East County.",
+          "sourceUrl": "https://www.linkedin.com/pulse/top-10-socal-aec-events-three-week-outlook-august-31-luda-xdlac",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "linkedin.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

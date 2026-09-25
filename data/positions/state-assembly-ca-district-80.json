@@ -1,0 +1,183 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 80",
+  "division": "ca/sldl-80",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "David A. Alvarez",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Alvarez voted for ACA 1, which proposed easing voter-approval thresholds for specified local taxes and bonds funding affordable housing and public infrastructure.",
+          "quote": "Addis, Aguiar-Curry, Alvarez, Arambula, Bauer-Kahan, Bennett, Berman, Boerner, Bonta, Bryan, Calderon, Juan Carrillo",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240ACA1",
+          "agreement": "6/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Alvarez voted for SB 525, which established phased minimum-wage increases for health-care workers.",
+          "quote": "Addis, Aguiar-Curry, Alvarez, Arambula, Bains, Bauer-Kahan, Bennett, Berman",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240SB525",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Alvarez authored bills to accelerate housing construction by shortening reviews and limiting procedural delays.",
+          "quote": "These bills cut through bureaucratic delay and legal loopholes to ensure we build housing faster, smarter, and more fairly.",
+          "sourceUrl": "https://www.davidalvarez.com/press-release/assemblymember-alvarezs-ab-357-ab-610-bills-to-expedite-the-construction-of-affordable-housing-pass-the-assembly",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Alvarez voted for a state budget that increased TK-12 funding and expanded district before- and after-school programs.",
+          "quote": "David voted for a State Budget that includes a historic investment in TK-12th grade education.",
+          "sourceUrl": "https://www.davidalvarez.com/opportunity-through-education",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Alvarez sought funding for both nonprofit prevention and outreach services and the Police Department's Homeless Outreach Team.",
+          "quote": "supplementary general funds are needed to ensure that year round outreach services are provided by both outside organizations and the Police Department’s Homeless Outreach Team",
+          "sourceUrl": "https://www.davidalvarez.com/memos/budget-priorities-for-fiscal-year-2018",
+          "agreement": "5/10"
+        },
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "lean",
+          "text": "Alvarez requested expansion of a program providing treatment, housing, and community services to low-level misdemeanor offenders instead of custody.",
+          "quote": "SMART provides access to drug treatment services while providing housing, the elements necessary for a successful recovery. The program prioritizes the provision of services and works to ensure that the homeless are not criminalized.",
+          "sourceUrl": "https://www.davidalvarez.com/memos/budget-priorities-for-fiscal-year-2018",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Alvarez authored AB 2586 to permit undocumented students at California public colleges and universities to obtain campus employment.",
+          "quote": "Students who are legally allowed to study at California’s public colleges and universities should also be allowed to work to pay for their own education.",
+          "sourceUrl": "https://www.davidalvarez.com/press-release/assemblymember-alvarez-issues-statement-on-governors-veto-of-ab-2586---opportunity-for-all-act",
+          "agreement": "6/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Alvarez voted for SB 2, which tightened concealed-carry licensing requirements and restricted carrying firearms in specified locations.",
+          "quote": "Addis, Aguiar-Curry, Alvarez, Arambula, Bauer-Kahan, Bennett, Berman, Boerner",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240SB2",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Alvarez voted for SCA 10, which placed constitutional protections for abortion and contraception before California voters.",
+          "quote": "Aguiar-Curry, Alvarez, Arambula, Bauer-Kahan, Bennett, Berman, Bloom, Boerner Horvath",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SCA10",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Alvarez voted for AB 1955, which bars schools from requiring disclosure of a student's gender identity or expression without the student's consent.",
+          "quote": "Addis, Aguiar-Curry, Alvarez, Arambula, Bains, Bauer-Kahan, Bennett, Berman",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1955",
+          "agreement": "7/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "Alvarez voted for AB 1775, which expanded regulated cannabis consumption lounges by allowing locally approved food sales and live performances.",
+          "quote": "Addis, Aguiar-Curry, Alanis, Alvarez, Arambula, Bauer-Kahan, Bennett, Berman",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1775",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Alvarez voted for SB 770, directing state work toward a unified health-care financing system that could include single-payer financing.",
+          "quote": "Addis, Aguiar-Curry, Alvarez, Arambula, Bauer-Kahan, Bennett, Berman, Boerner",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240SB770",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Alvarez sought funding and staffing to implement a climate plan targeting 100% renewable energy.",
+          "quote": "San Diego demonstrated leadership when it adopted the Climate Action Plan with the ambitious goal of 100% renewable energy.",
+          "sourceUrl": "https://www.davidalvarez.com/memos/fy-2019-budget-priorities",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Alvarez voted for SB 1174, which prohibited local governments from requiring identification when voters cast or submit ballots.",
+          "quote": "Addis, Aguiar-Curry, Alvarez, Arambula, Bains, Bauer-Kahan, Bennett, Berman",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240SB1174",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Alejandro Galicia",
+      "party": "Republican",
+      "stances": {
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He objected to union-only bidding rules that barred his nonunion business from school projects.",
+          "quote": "One example that really bothered me is because I am not a union shop, I cannot bid on any school projects because they are union-only, which in my opinion is a favor by local politicians to their number one contributors",
+          "sourceUrl": "https://www.thestarnews.com/decision-2024-10/",
+          "agreement": "2/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He made expanding affordable housing, including using surplus government property, one of his top three priorities.",
+          "quote": "Galicia said his top three priorities would be finding solutions to the Tijuana River Valley crisis and endorsing it as a Superfund site; updating and improving the county's emergency response plan; and enhanced short- and long-term approaches to homelessness, including more affordable homes and utilizing surplus government property.",
+          "sourceUrl": "https://patch.com/california/san-diego/board-chair-nora-vargas-eyes-2nd-term-district-1-supervisor",
+          "agreement": "2/3"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "Galicia criticized criminalizing and relocating unhoused people as ineffective rather than addressing the underlying problem.",
+          "quote": "As businesses, we are surrounded by those people, and they are dealing with it is that they are criminalizing it. You kick them out of a certain area. How do you make that illegal. It does not solve the issue. It makes people feel better.",
+          "sourceUrl": "https://www.thestarnews.com/decision-2024-10/",
+          "agreement": "2/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "He criticized federal policy that allows migrants to enter and then releases them into cities without support or a coherent plan.",
+          "quote": "That is an issue that the federal government should have a much better grasp on. This thing where they let them all come in, and then street releases them at a random intersection in a city and lets them go, is abandoning people and their fate.",
+          "sourceUrl": "https://www.thestarnews.com/decision-2024-10/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "leginfo.legislature.ca.gov · davidalvarez.com · thestarnews.com · patch.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

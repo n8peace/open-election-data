@@ -1,0 +1,58 @@
+{
+  "office": "Measure M",
+  "district": "Pleasant Ridge Union School District",
+  "division": "ca/school-pleasant-ridge-union",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Pleasant Ridge Union School District to issue $19,800,000 in general obligation bonds, repaid by a property tax of about $22.50 per $100,000 of assessed value, to fund repairs and improvements to school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote authorizes bonds and an associated property-tax levy to fund improvements to local schools.",
+          "quote": "authorizing $19,800,000 in bonds, levying approximately $22.50 per $100,000 assessed value, generating on average $1,400,000, annually, while bonds are outstanding",
+          "sourceUrl": "https://www.nevadacountyca.gov/m/newsflash/Home/Detail/8832",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote provides bond funding for improvements to the district’s elementary and middle schools.",
+          "quote": "To update local elementary and middle schools, replace leaky roofs and failing heating/cooling systems, improve student and school safety, weatherproof schools to avoid mold and dry rot, and qualify for matching funds from the State",
+          "sourceUrl": "https://www.nevadacountyca.gov/m/newsflash/Home/Detail/8832",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not authorize the proposed bonds or associated property-tax levy.",
+          "quote": "authorizing $19,800,000 in bonds, levying approximately $22.50 per $100,000 assessed value, generating on average $1,400,000, annually, while bonds are outstanding",
+          "sourceUrl": "https://www.nevadacountyca.gov/m/newsflash/Home/Detail/8832",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote does not provide the proposed bond funding for improvements to the district’s schools.",
+          "quote": "To update local elementary and middle schools, replace leaky roofs and failing heating/cooling systems, improve student and school safety, weatherproof schools to avoid mold and dry rot, and qualify for matching funds from the State",
+          "sourceUrl": "https://www.nevadacountyca.gov/m/newsflash/Home/Detail/8832",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "nevadacountyca.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

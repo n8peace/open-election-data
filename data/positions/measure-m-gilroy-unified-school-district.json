@@ -1,0 +1,58 @@
+{
+  "office": "Measure M",
+  "district": "Gilroy Unified School District",
+  "division": "ca/school-gilroy-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Gilroy Unified School District to issue $295 million in bonds.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote authorizes the $295 million bond program and the associated property-tax repayment.",
+          "quote": "The tax rate per property owner is estimated to be $60 per $100,000 of assessed valuation.",
+          "sourceUrl": "https://www.gilroyunified.org/measure-m",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote funds renovations, new construction, and other improvements at Gilroy Unified School District schools.",
+          "quote": "Measure M will provide our students with a better learning environment by making repairs and upgrades to existing classrooms and school facilities, many of which are also used and available to the community.",
+          "sourceUrl": "https://www.gilroyunified.org/measure-m",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote rejects the bond program and its associated property-tax repayment.",
+          "quote": "The tax rate per property owner is estimated to be $60 per $100,000 of assessed valuation.",
+          "sourceUrl": "https://www.gilroyunified.org/measure-m",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote does not authorize the proposed school-facility improvements through Measure M.",
+          "quote": "Measure M will provide our students with a better learning environment by making repairs and upgrades to existing classrooms and school facilities, many of which are also used and available to the community.",
+          "sourceUrl": "https://www.gilroyunified.org/measure-m",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "gilroyunified.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

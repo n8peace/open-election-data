@@ -1,0 +1,58 @@
+{
+  "office": "Measure M",
+  "district": "San Diego Unified School District",
+  "division": "ca/school-san-diego-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the San Diego Unified School District to issue $3,500,000,000 in general obligation bonds to repair and upgrade school facilities across the district.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "A Yes vote supports a bond measure for upgrades and repairs at district schools without raising taxes.",
+          "quote": "This November, voters living in the San Diego Unified School District will have the opportunity to support Measure M, a bond measure that will continue ongoing upgrades and repairs across nearly 150 of our schools… without raising taxes!",
+          "sourceUrl": "https://sdea.net/2026/08/sdea-endorsement-yes-on-measure-m/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote supports funding upgrades and repairs across nearly 150 San Diego Unified schools.",
+          "quote": "This November, voters living in the San Diego Unified School District will have the opportunity to support Measure M, a bond measure that will continue ongoing upgrades and repairs across nearly 150 of our schools… without raising taxes!",
+          "sourceUrl": "https://sdea.net/2026/08/sdea-endorsement-yes-on-measure-m/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "A No vote does not approve the bond measure or its proposed school upgrades and repairs.",
+          "quote": "This November, voters living in the San Diego Unified School District will have the opportunity to support Measure M, a bond measure that will continue ongoing upgrades and repairs across nearly 150 of our schools… without raising taxes!",
+          "sourceUrl": "https://sdea.net/2026/08/sdea-endorsement-yes-on-measure-m/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote does not approve the bond measure or its proposed school upgrades and repairs.",
+          "quote": "This November, voters living in the San Diego Unified School District will have the opportunity to support Measure M, a bond measure that will continue ongoing upgrades and repairs across nearly 150 of our schools… without raising taxes!",
+          "sourceUrl": "https://sdea.net/2026/08/sdea-endorsement-yes-on-measure-m/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "sdea.net",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

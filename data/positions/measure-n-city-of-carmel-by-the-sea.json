@@ -1,0 +1,41 @@
+{
+  "office": "Measure N",
+  "district": "City of Carmel-by-the-Sea",
+  "division": "ca/place-carmel-by-the-sea",
+  "kind": "measure",
+  "summary": "A Yes vote increases the city's transactions and use (sales) tax by 0.375%, from 1.50% to 1.875%.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote increases the transactions and use tax by 0.375% and provides additional revenue for city streets, sidewalks, beach erosion, wildfire preparedness, trees, and other general government purposes.",
+          "quote": "shall the measure increasing the transactions and use tax (also known as sales tax) by 0.375%, from 1.50% to 1.875%, providing approximately $1,800,000 annually in additional revenue",
+          "sourceUrl": "https://localnewsmatters.org/monterey-county-november-3-2026/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not increase the transactions and use tax through this measure.",
+          "quote": "shall the measure increasing the transactions and use tax (also known as sales tax) by 0.375%, from 1.50% to 1.875%, providing approximately $1,800,000 annually in additional revenue",
+          "sourceUrl": "https://localnewsmatters.org/monterey-county-november-3-2026/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "localnewsmatters.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

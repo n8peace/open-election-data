@@ -1,0 +1,58 @@
+{
+  "office": "Measure L",
+  "district": "North Monterey County Unified School District",
+  "division": "ca/school-north-monterey-county-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue $40 million in bonds for school facilities, repaid by a property tax of about $32 per $100,000 of assessed value.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote authorizes a $40 million school bond funded by an estimated annual tax of $32 per $100,000 of assessed value while the bonds are outstanding.",
+          "quote": "On June 25, 2026, the NMCUSD Governing Board voted to place Measure L, a $40 million bond measure, on the November 3, 2026 ballot to repair and upgrade our local schools.",
+          "sourceUrl": "https://www.nmcusd.org/departments/facilities/facilities-planning",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote provides bond funding for repairs and upgrades to North Monterey County Unified School District schools.",
+          "quote": "If approved by local voters, Measure L could be used to: Replacing aging roofs, plumbing, gas line, sewer systems and electrical infrastructure.",
+          "sourceUrl": "https://www.nmcusd.org/departments/facilities/facilities-planning",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote rejects the proposed bond and its associated estimated tax for school repairs and upgrades.",
+          "quote": "On June 25, 2026, the NMCUSD Governing Board voted to place Measure L, a $40 million bond measure, on the November 3, 2026 ballot to repair and upgrade our local schools.",
+          "sourceUrl": "https://www.nmcusd.org/departments/facilities/facilities-planning",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote does not provide the proposed bond funding for repairs and upgrades to district schools.",
+          "quote": "If approved by local voters, Measure L could be used to: Replacing aging roofs, plumbing, gas line, sewer systems and electrical infrastructure.",
+          "sourceUrl": "https://www.nmcusd.org/departments/facilities/facilities-planning",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "nmcusd.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

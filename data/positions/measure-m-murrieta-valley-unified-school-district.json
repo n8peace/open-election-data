@@ -1,0 +1,58 @@
+{
+  "office": "Measure M",
+  "district": "Murrieta Valley Unified School District",
+  "division": "ca/school-murrieta-valley-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes up to $359 million in general obligation bonds for school-facility repairs, replacements, upgrades, and related projects.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote authorizes up to $359 million in bonds for school facility improvements while maintaining existing tax rates.",
+          "quote": "Measure M would authorize up to $359 million in general obligation bonds to fund eligible school facility projects identified in the Facilities Master Plan and project list included in the measure language.",
+          "sourceUrl": "https://www.murrieta.k12.ca.us/directory/business-operations/facilities-operations-technology/measure-m",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote authorizes funding for repairs, modernization, and improvements at Murrieta Valley Unified School District schools.",
+          "quote": "Repair or replace deteriorating roofs, plumbing, gas lines, sewer lines, ventilation and electrical systems, where needed",
+          "sourceUrl": "https://www.murrieta.k12.ca.us/directory/business-operations/facilities-operations-technology/measure-m",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not authorize the proposed bonds for school facility improvements.",
+          "quote": "Measure M would authorize up to $359 million in general obligation bonds to fund eligible school facility projects identified in the Facilities Master Plan and project list included in the measure language.",
+          "sourceUrl": "https://www.murrieta.k12.ca.us/directory/business-operations/facilities-operations-technology/measure-m",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote does not authorize the proposed funding for improvements at district public schools.",
+          "quote": "Repair or replace deteriorating roofs, plumbing, gas lines, sewer lines, ventilation and electrical systems, where needed",
+          "sourceUrl": "https://www.murrieta.k12.ca.us/directory/business-operations/facilities-operations-technology/measure-m",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "murrieta.k12.ca.us",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

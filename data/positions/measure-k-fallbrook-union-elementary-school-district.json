@@ -1,0 +1,50 @@
+{
+  "office": "Measure K",
+  "district": "Fallbrook Union Elementary School District",
+  "division": "ca/school-fallbrook-union-elementary",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Fallbrook Union Elementary School District to issue $76,000,000 in general obligation bonds to repair and upgrade school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would authorize $76 million in bonds for school-facility improvements while continuing the existing bond tax rate of about $30 per $100,000 of assessed value.",
+          "quote": "The proposed 2026 bond has been structured so repayment would begin as Proposition X retires, keeping the tax rate flat, with the financial plan targeting continuation of the existing rate of approximately $30 per $100,000 of assessed property value.",
+          "sourceUrl": "https://www.fuesd.org/fuesd-governing-board-unanimously-approves-resolution-to-place-76-million-school-bond-extension-measure-before-voters-without-raising-tax-rates/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote would fund repairs, modernization, construction, acquisition and equipment for Fallbrook Union Elementary School District facilities.",
+          "quote": "The Fallbrook Union Elementary School District (FUESD) Governing Board unanimously approved Resolution No. 01-26/27, ordering a school bond extension election for November 3, 2026, and placing before local voters a proposed $76 million general obligation to repair, modernize, construct, acquire and equip school facilities throughout the District.",
+          "sourceUrl": "https://www.fuesd.org/fuesd-governing-board-unanimously-approves-resolution-to-place-76-million-school-bond-extension-measure-before-voters-without-raising-tax-rates/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "The No position opposes Measure K’s $76 million school-bond extension, which would continue the existing property-tax rate after Proposition X retires.",
+          "quote": "The proposed 2026 bond has been structured so repayment would begin as Proposition X retires, keeping the tax rate flat, with the financial plan targeting continuation of the existing rate of approximately $30 per $100,000 of assessed property value.",
+          "sourceUrl": "https://www.fuesd.org/fuesd-governing-board-unanimously-approves-resolution-to-place-76-million-school-bond-extension-measure-before-voters-without-raising-tax-rates/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "fuesd.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

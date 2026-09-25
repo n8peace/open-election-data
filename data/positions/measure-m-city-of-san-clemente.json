@@ -1,0 +1,41 @@
+{
+  "office": "Measure M",
+  "district": "City of San Clemente",
+  "division": "ca/place-san-clemente",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a 1% transactions and use (sales) tax in the City of San Clemente to fund natural hazard purposes such as beach restoration and wildfire prevention.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would establish dedicated local funding for beach protection and fire protection and wildfire preparedness.",
+          "quote": "Measure M pairs dedicated local funding with binding spending rules, public City Council decisions, independent audits and annual reporting—so residents can see what is proposed, speak before decisions are made and follow how the money is spent.",
+          "sourceUrl": "https://protectsanclemente.org/accountability/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would not establish Measure M’s dedicated local funding for those purposes.",
+          "quote": "Measure M pairs dedicated local funding with binding spending rules, public City Council decisions, independent audits and annual reporting—so residents can see what is proposed, speak before decisions are made and follow how the money is spent.",
+          "sourceUrl": "https://protectsanclemente.org/accountability/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "protectsanclemente.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}
