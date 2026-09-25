@@ -66,6 +66,13 @@ async function main() {
     return;
   }
 
+  if (input.kind === 'measure') {
+    // No readable official text: research the measure with agents on the ChatGPT plan
+    // (no per-use cost), since a measure's side follows from what it does.
+    process.env.RESEARCH_MODELS = process.env.MEASURE_FALLBACK_MODELS || 'codex';
+    console.log(`  No readable official text; researching with ${process.env.RESEARCH_MODELS} agents`);
+  }
+
   const roster = input.choices ?? (input.kind === 'measure' ? [{ name: 'Yes' }, { name: 'No' }] : await findRoster(input.office, input.district));
   if (!roster.length) throw new Error('Could not confirm who is on the ballot. Add "choices" to the input file.');
 
