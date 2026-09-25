@@ -12,7 +12,11 @@ import { runCliAgent } from './backends';
 // Server default (GitHub Actions rechecks): cheap models, verified against approved research.
 const DEFAULT_MODELS = 'gateway:openai/gpt-5.6-luna,gateway:google/gemini-3.8-flash,gateway:openai/gpt-5.6-terra';
 /** Read on each call so scripts can switch models at runtime. */
-export const researchModels = () => (process.env.RESEARCH_MODELS || DEFAULT_MODELS).split(',').map((s) => s.trim()).filter(Boolean);
+/** Midnight to 7am local time: RESEARCH_MODELS_NIGHT, if set, replaces RESEARCH_MODELS (e.g. to use a Claude plan only while its owner sleeps). */
+const isNight = () => new Date().getHours() < 7;
+export const researchModels = () => ((isNight() && process.env.RESEARCH_MODELS_NIGHT) || process.env.RESEARCH_MODELS || DEFAULT_MODELS).split(',').map((s) => s.trim()).filter(Boolean);
+/** Whether the Claude Code plan may be used right now (it's in the current model list). */
+export const claudePlanAllowed = () => researchModels().includes('claude-code');
 export const RESEARCH_MODELS = researchModels();
 
 export const modelFor = (run: number) => { const m = researchModels(); return m[run % m.length]; };

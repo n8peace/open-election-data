@@ -18,6 +18,7 @@ import { gateway, generateText, isStepCount, Output } from 'ai';
 import { z } from 'zod';
 import { contestKey, POSITIONS_DIR } from '../lib/ballot/positions';
 import { runCli } from '../lib/research/backends';
+import { claudePlanAllowed } from '../lib/research/agent';
 import { mapMeasureIssues } from './research-state';
 
 const run = promisify(execFile);
@@ -59,6 +60,7 @@ async function readViaApi(county: string, model: string) {
 
 async function readList(backend: 'claude-code' | 'codex', county: string) {
   const parse = (t: string) => Measures.parse(JSON.parse(t.slice(t.indexOf('{'), t.lastIndexOf('}') + 1)));
+  if (backend === 'claude-code' && !claudePlanAllowed()) return readViaApi(county, process.env.RESEARCH_FALLBACK || 'gateway:openai/gpt-5.6-terra');
   try { return parse(await runCli(backend, prompt(county))); } catch (e) {
     console.log(`  ${backend} unavailable for ${county} (${(e as Error).message.slice(0, 80)}); reading via the API instead`);
     // A different model for each reader, so two fallbacks are still independent.

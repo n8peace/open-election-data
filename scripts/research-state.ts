@@ -20,6 +20,7 @@ import { z } from 'zod';
 import { contestKey, nameKey, POSITIONS_DIR } from '../lib/ballot/positions';
 import { gateway, generateText, isStepCount, Output } from 'ai';
 import { runCli } from '../lib/research/backends';
+import { claudePlanAllowed } from '../lib/research/agent';
 import { ISSUE_IDS, sideGuide } from '../lib/issues';
 import { canonicalOffice, divisionFor, levelFor, type Level } from '../lib/research/divisions';
 
@@ -62,6 +63,8 @@ async function listViaGateway(state: string, level: Exclude<Level, 'measures'>, 
 async function listContests(state: string, level: Exclude<Level, 'measures'>) {
   const parse = (t: string) => Contests.parse(JSON.parse(t.slice(t.indexOf('{'), t.lastIndexOf('}') + 1)));
   const read = async (backend: 'claude-code' | 'codex') => {
+    // Outside the hours the Claude plan is allowed, its reader uses an API model instead.
+    if (backend === 'claude-code' && !claudePlanAllowed()) return listViaGateway(state, level);
     try { return parse(await runCli(backend, listPrompt(state, level))); } catch (e) {
       console.log(`  ${backend} unavailable (${(e as Error).message.slice(0, 80)}); reading the list via the API instead`);
       // A different model for each reader, so two fallbacks are still independent.

@@ -69,7 +69,7 @@ async function main() {
   if (input.kind === 'measure') {
     // No readable official text: research the measure with agents on the ChatGPT plan
     // (no per-use cost), since a measure's side follows from what it does.
-    process.env.RESEARCH_MODELS = process.env.MEASURE_FALLBACK_MODELS || 'codex';
+    process.env.RESEARCH_MODELS = process.env.RESEARCH_MODELS_NIGHT = process.env.MEASURE_FALLBACK_MODELS || 'codex';
     console.log(`  No readable official text; researching with ${process.env.RESEARCH_MODELS} agents`);
   }
 
