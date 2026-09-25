@@ -1,19 +1,19 @@
 {
   "office": "U.S. Representative",
-  "district": "TX District 28",
-  "division": "tx/cd-28",
+  "district": "TX District 38",
+  "division": "tx/cd-38",
   "kind": "candidate",
   "choices": [
     {
-      "name": "Tano E. Tijerina",
+      "name": "Jon Bonck",
       "party": "REP"
     },
     {
-      "name": "Henry Cuellar",
+      "name": "Melissa McDonough",
       "party": "DEM"
     },
     {
-      "name": "Marlon Duran",
+      "name": "Alex McMenemy",
       "party": "GRE"
     }
   ]

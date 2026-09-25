@@ -1,15 +1,15 @@
 {
   "office": "U.S. Representative",
-  "district": "TX District 10",
-  "division": "tx/cd-10",
+  "district": "TX District 21",
+  "division": "tx/cd-21",
   "kind": "candidate",
   "choices": [
     {
-      "name": "Chris Gober",
+      "name": "Mark Teixeira",
       "party": "REP"
     },
     {
-      "name": "Caitlin Rourk",
+      "name": "Kristin Hook",
       "party": "DEM"
     }
   ]
