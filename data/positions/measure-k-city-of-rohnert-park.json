@@ -1,0 +1,41 @@
+{
+  "office": "Measure K",
+  "district": "City of Rohnert Park",
+  "division": "ca/place-rohnert-park",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a half-cent sales tax projected to raise about $5.5 million annually for the city's general fund.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A Yes vote's effect on taxes or services is not specified in the provided text.",
+          "quote": "find important updates about the November election and Measure K",
+          "sourceUrl": "https://www.rpcity.ca.gov/m/newsflash/Home/Detail/198",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A No vote's effect on taxes or services is not specified in the provided text.",
+          "quote": "find important updates about the November election and Measure K",
+          "sourceUrl": "https://www.rpcity.ca.gov/m/newsflash/Home/Detail/198",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "rpcity.ca.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

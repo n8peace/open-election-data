@@ -1,0 +1,103 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 79",
+  "division": "ca/sldl-79",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "LaShae Sharp-Collins",
+      "party": "Democratic",
+      "stances": {
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "strong",
+          "text": "She introduced legislation creating alternatives to incarceration for low-level, nonviolent theft offenses.",
+          "quote": "Create alternatives to jail for low-level, nonviolent theft offenses",
+          "sourceUrl": "https://www.lashaeforassembly.com/accomplishments",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Her campaign pledges legislation against gun violence and efforts to remove illegally possessed guns.",
+          "quote": "Continue to lead against gun violence; get illegal guns off the streets, and champion legislation that addresses systemic issues contributing to gun violence.",
+          "sourceUrl": "https://www.lashaeforassembly.com/issues",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Her campaign states that she will protect women’s ability to make their own health-care decisions.",
+          "quote": "LaShae will ensure California stays on the leading edge of protecting a woman’s right to make her own health care decisions.",
+          "sourceUrl": "https://www.lashaeforassembly.com/issues",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Her campaign calls for reducing greenhouse-gas emissions and providing 100% clean energy.",
+          "quote": "Build a more sustainable California by reducing greenhouse gas emissions, providing 100% clean energy, and ensuring that all communities have access to clean air, and water, and fight for stronger animal welfare, protect California's wildlife, and continue to make California a leader in the fight against climate change.",
+          "sourceUrl": "https://www.lashaeforassembly.com/issues",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Andrew Lawson",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Lawson says he will oppose rising state fees and taxes while reducing regulatory burdens on small businesses.",
+          "quote": "Andrew will fight to reduce the burden on small businesses, oppose job-killing mandates, and protect taxpayers from Sacramento’s ever-increasing fees and taxes.",
+          "sourceUrl": "https://www.andrewlawson4ad79.com/issues.html",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Lawson supports streamlining permits, reducing regulatory barriers, and incentivizing construction of affordable housing.",
+          "quote": "Andrew Lawson believes in cutting bureaucratic red tape that delays new construction, streamlining the permitting process, and incentivizing builders to create housing that working families can actually afford.",
+          "sourceUrl": "https://www.andrewlawson4ad79.com/issues.html",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Lawson supports school choice and directing more education funding to classrooms rather than administration.",
+          "quote": "Andrew supports empowering parents with school choice, raising academic standards, ensuring transparency in curricula, and directing funding to classrooms instead of administrative overhead.",
+          "sourceUrl": "https://www.andrewlawson4ad79.com/issues.html",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Lawson supports fully funding law enforcement and reversing policies he characterizes as soft on crime.",
+          "quote": "Andrew supports fully funding law enforcement, reversing soft-on-crime policies that have emboldened repeat offenders, and ensuring that the justice system fulfills its responsibility to uphold the law and protect public safety.",
+          "sourceUrl": "https://www.andrewlawson4ad79.com/issues.html",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "lashaeforassembly.com · andrewlawson4ad79.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

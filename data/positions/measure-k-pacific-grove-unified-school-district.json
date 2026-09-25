@@ -1,0 +1,58 @@
+{
+  "office": "Measure K",
+  "district": "Pacific Grove Unified School District",
+  "division": "ca/school-pacific-grove-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes an $85 annual tax per parcel for five years to fund school programs.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote adopts an $85-per-parcel tax for five years to fund the listed school programs and services.",
+          "quote": "shall Pacific Grove Unified School District&#x27;s parcel tax measure enhancing reading and math programs; improving services for students with disabilities; keeping before- and after-school programs affordable; and supporting student mental health counseling",
+          "sourceUrl": "https://localnewsmatters.org/monterey-county-november-3-2026/",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote provides additional funding for programs and services in Pacific Grove Unified School District schools.",
+          "quote": "shall Pacific Grove Unified School District&#x27;s parcel tax measure enhancing reading and math programs; improving services for students with disabilities; keeping before- and after-school programs affordable; and supporting student mental health counseling",
+          "sourceUrl": "https://localnewsmatters.org/monterey-county-november-3-2026/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote rejects the parcel tax and does not provide this additional funding for the listed school programs and services.",
+          "quote": "shall Pacific Grove Unified School District&#x27;s parcel tax measure enhancing reading and math programs; improving services for students with disabilities; keeping before- and after-school programs affordable; and supporting student mental health counseling",
+          "sourceUrl": "https://localnewsmatters.org/monterey-county-november-3-2026/",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote does not provide this additional funding for Pacific Grove Unified School District schools.",
+          "quote": "shall Pacific Grove Unified School District&#x27;s parcel tax measure enhancing reading and math programs; improving services for students with disabilities; keeping before- and after-school programs affordable; and supporting student mental health counseling",
+          "sourceUrl": "https://localnewsmatters.org/monterey-county-november-3-2026/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "localnewsmatters.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

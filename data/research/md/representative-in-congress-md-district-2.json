@@ -1,0 +1,16 @@
+{
+  "office": "Representative in Congress",
+  "district": "MD District 2",
+  "division": "md/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "John \"Johnny O\" Olszewski, Jr.",
+      "party": "Democratic"
+    },
+    {
+      "name": "Dave Wallace",
+      "party": "Republican"
+    }
+  ]
+}

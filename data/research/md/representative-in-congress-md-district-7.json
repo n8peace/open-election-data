@@ -1,0 +1,16 @@
+{
+  "office": "Representative in Congress",
+  "district": "MD District 7",
+  "division": "md/cd-7",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Kweisi Mfume",
+      "party": "Democratic"
+    },
+    {
+      "name": "Scott M. Collier",
+      "party": "Republican"
+    }
+  ]
+}

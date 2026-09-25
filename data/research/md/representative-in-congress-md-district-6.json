@@ -1,0 +1,20 @@
+{
+  "office": "Representative in Congress",
+  "district": "MD District 6",
+  "division": "md/cd-6",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "April McClain Delaney",
+      "party": "Democratic"
+    },
+    {
+      "name": "Robin Ficker",
+      "party": "Republican"
+    },
+    {
+      "name": "Moshe Y. Landman",
+      "party": "Green"
+    }
+  ]
+}

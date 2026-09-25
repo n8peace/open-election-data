@@ -1,0 +1,41 @@
+{
+  "office": "Measure L",
+  "district": "City of Patterson",
+  "division": "ca/place-patterson",
+  "kind": "measure",
+  "summary": "A Yes vote enacts an additional 1% transactions and use (sales) tax within the City of Patterson, with the revenue going to the city's general fund.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote approves a 1-cent sales tax increase for Patterson's general city services.",
+          "quote": "Measure P in Ceres could raise $9.4 million a year for city coffers, and Measure L in Patterson is projected to bring in $9 million.",
+          "sourceUrl": "https://themodestofocus.org/elections-2026-modesto-and-stanislaus-voters-confront-busy-november-ballot/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote rejects the proposed 1-cent sales tax increase for Patterson's general city services.",
+          "quote": "Measure P in Ceres could raise $9.4 million a year for city coffers, and Measure L in Patterson is projected to bring in $9 million.",
+          "sourceUrl": "https://themodestofocus.org/elections-2026-modesto-and-stanislaus-voters-confront-busy-november-ballot/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "themodestofocus.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

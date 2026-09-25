@@ -1,0 +1,49 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 8",
+  "division": "ca/sldl-8",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "David Jariustokaeutulelei Tangipa",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Tangipa pledges to oppose higher taxes and regulations to lower costs.",
+          "quote": "Lower costs by opposing higher taxes and needless regulations.",
+          "sourceUrl": "https://www.davidtangipaforassembly.com/",
+          "agreement": "4/4"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Tangipa pledges to support law enforcement and enact anti-crime legislation.",
+          "quote": "Increase public safety and protect families by supporting law enforcement and passing common sense anti-crime bills.",
+          "sourceUrl": "https://www.davidtangipaforassembly.com/",
+          "agreement": "3/4"
+        }
+      }
+    }
+  ],
+  "sources": "davidtangipaforassembly.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

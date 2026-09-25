@@ -1,0 +1,20 @@
+{
+  "office": "Representative in Congress",
+  "district": "MD District 8",
+  "division": "md/cd-8",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Jamie Raskin",
+      "party": "Democratic"
+    },
+    {
+      "name": "Cheryl Riley",
+      "party": "Republican"
+    },
+    {
+      "name": "Nancy Wallace",
+      "party": "Green"
+    }
+  ]
+}

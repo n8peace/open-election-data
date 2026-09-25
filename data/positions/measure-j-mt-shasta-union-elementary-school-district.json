@@ -1,0 +1,58 @@
+{
+  "office": "Measure J",
+  "district": "Mt. Shasta Union Elementary School District",
+  "division": "ca/school-mt-shasta-union-elementary",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the District to issue $9.1 million in bonds, with independent oversight and audits, to repair or replace roofs, plumbing, electrical, and heating, ventilation and air-conditioning systems and to upgrade emergency communication systems and fire alarms, repaid by a property tax levied while the bonds are outstanding.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A yes vote approves the issuance of $59 million in bonds funded by a property tax levy to finance school safety and security upgrades.",
+          "quote": "authorizing $59,000,000 in bonds at legal rates, levying $28 per $100,000 of assessed value ($4,000,000 annually) while bonds are outstanding",
+          "sourceUrl": "http://bigbadbonds.com/CALBONDS/",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "A yes vote provides bond funding to repair and upgrade safety features at district public elementary and middle schools.",
+          "quote": "To provide safe elementary/ middle schools by upgrading to current earthquake/ building safety codes; improving school security, classroom locks, fencing, lighting, emergency communications, and cameras",
+          "sourceUrl": "http://bigbadbonds.com/CALBONDS/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A no vote opposes the issuance of $59 million in bonds and the associated property tax levy.",
+          "quote": "authorizing $59,000,000 in bonds at legal rates, levying $28 per $100,000 of assessed value ($4,000,000 annually) while bonds are outstanding",
+          "sourceUrl": "http://bigbadbonds.com/CALBONDS/",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "A no vote denies bond funding for facility and security improvements at district public schools.",
+          "quote": "To provide safe elementary/ middle schools by upgrading to current earthquake/ building safety codes; improving school security, classroom locks, fencing, lighting, emergency communications, and cameras",
+          "sourceUrl": "http://bigbadbonds.com/CALBONDS/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "bigbadbonds.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

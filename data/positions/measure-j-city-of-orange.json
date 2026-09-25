@@ -1,0 +1,41 @@
+{
+  "office": "Measure J",
+  "district": "City of Orange",
+  "division": "ca/place-orange",
+  "kind": "measure",
+  "summary": "A Yes vote modifies the City of Orange's transient occupancy (hotel guest) tax.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "The Yes campaign supports increasing taxes on guests at larger hotels to fund police, fire, streets, parks, and other city services.",
+          "quote": "Every day, visitors staying in Orange hotels rely on our police officers, firefighters, streets, parks, and other public services. Measure J simply asks visitors to contribute more toward the community they enjoy.",
+          "sourceUrl": "https://ocvote.gov/sites/default/files/2026-09/J-ORAN%20TOT%20-%20LAYOUT%20%281%29.pdf",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote rejects increasing Orange’s hotel occupancy tax from 10% to 14% for hotels with 11 or more rooms and extending the tax to online and other travel companies.",
+          "quote": "A “No” vote on Measure J does not authorize those changes to the City’s Transient Occupancy Tax.",
+          "sourceUrl": "https://ocvote.gov/sites/default/files/2026-09/J-ORAN%20TOT%20-%20LAYOUT%20(1).pdf",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "ocvote.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

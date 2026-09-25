@@ -1,0 +1,41 @@
+{
+  "office": "Measure K",
+  "district": "City of Needles",
+  "division": "ca/place-needles",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a City of Needles transient occupancy (hotel) tax on lodging stays.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Measure K would phase in an increase in Needles' transient occupancy tax from 10% to 14% to raise revenue for general city services.",
+          "quote": "by increasing the City of Needles Transient Occupancy Tax paid primarily by hotel, motel, and short-term rental guests from 10% to 14% in phases",
+          "sourceUrl": "https://cityofneedles.com/wp-content/uploads/2026/08/2026-27-TOT-Increase-SBEMP-WITH-683-AC.pdf",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote opposes raising Needles’ transient occupancy tax from 10% to 14% to generate revenue for general city services.",
+          "quote": "Shall the measure to maintain and improve quality of life by supporting local businesses and jobs; keeping public areas safe, clean, and well maintained; maintaining and improving streets, parks, and other public infrastructure; and funding other general City services, by increasing the City of Needles Transient Occupancy Tax paid primarily by hotel, motel, and short-term rental guests from 10% to 14% in phases, generating approximately $400,000 annually, with annual public disclosure and remaining effective until ended by voters, be adopted?",
+          "sourceUrl": "https://cityofneedles.com/wp-content/uploads/2026/08/2026-27-TOT-Increase-SBEMP-WITH-683-AC.pdf",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "cityofneedles.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

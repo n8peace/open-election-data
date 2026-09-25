@@ -1,0 +1,20 @@
+{
+  "office": "Representative in Congress",
+  "district": "MD District 4",
+  "division": "md/cd-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Glenn F. Ivey",
+      "party": "Democratic"
+    },
+    {
+      "name": "George E. McDermott",
+      "party": "Republican"
+    },
+    {
+      "name": "Sam Husseini",
+      "party": "Green"
+    }
+  ]
+}

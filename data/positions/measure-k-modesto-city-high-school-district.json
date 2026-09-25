@@ -1,0 +1,58 @@
+{
+  "office": "Measure K",
+  "district": "Modesto City High School District",
+  "division": "ca/school-modesto-city-high",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Modesto City High School District to issue up to $250 million in general obligation bonds, repaid through property taxes, to repair and upgrade high school classrooms, career training facilities, and other school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A Yes vote's effect on taxes and services cannot be determined from the provided text.",
+          "quote": "High School Bond Measure K | Modesto City Schools",
+          "sourceUrl": "https://www.mcs4kids.com/page/high-school-bond-measure-k",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A Yes vote's effect on school choice or district public-school funding cannot be determined from the provided text.",
+          "quote": "High School Bond Measure K | Modesto City Schools",
+          "sourceUrl": "https://www.mcs4kids.com/page/high-school-bond-measure-k",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A No vote's effect on taxes and services cannot be determined from the provided text.",
+          "quote": "High School Bond Measure K | Modesto City Schools",
+          "sourceUrl": "https://www.mcs4kids.com/page/high-school-bond-measure-k",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A No vote's effect on school choice or district public-school funding cannot be determined from the provided text.",
+          "quote": "High School Bond Measure K | Modesto City Schools",
+          "sourceUrl": "https://www.mcs4kids.com/page/high-school-bond-measure-k",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "mcs4kids.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

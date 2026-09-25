@@ -1,0 +1,58 @@
+{
+  "office": "Measure J",
+  "district": "Windsor Unified School District",
+  "division": "ca/school-windsor-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue $96,000,000 in bonds, levied at about $46 per $100,000 of assessed value while outstanding, to upgrade classrooms, labs, career training space, and school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "A Yes vote supports approving school district bonds to fund facility improvements, with none of the funds going to the Windsor Creek site.",
+          "quote": "should their upcoming bond Measure J pass, no funds from that bond would be spent on the Windsor Creek school site.",
+          "sourceUrl": "https://www.wusd.org/index.php?pageID=smartSiteFeed&psqFeed=true&articleID=84662693",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote would authorize the district bond measure for district facilities, with no bond proceeds spent on the Windsor Creek Property.",
+          "quote": "The Board hereby affirms, determines and declares that no proceeds of the Bonds, including any investment earnings thereon, shall be expended for the acquisition, construction, reconstruction, rehabilitation, replacement, modernization, renovation, improvement, furnishing or equipping of any facilities located on the Windsor Creek Property, or for the planning, design, permitting or any other cost of any project located on the Windsor Creek Property.",
+          "sourceUrl": "https://www.wusd.org/index.php?pageID=smartSiteFeed&psqFeed=true&articleID=84662693",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "A No vote opposes approving the school district bond measure.",
+          "quote": "should their upcoming bond Measure J pass, no funds from that bond would be spent on the Windsor Creek school site.",
+          "sourceUrl": "https://www.wusd.org/index.php?pageID=smartSiteFeed&psqFeed=true&articleID=84662693",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote would reject the district bond measure.",
+          "quote": "The Board hereby affirms, determines and declares that no proceeds of the Bonds, including any investment earnings thereon, shall be expended for the acquisition, construction, reconstruction, rehabilitation, replacement, modernization, renovation, improvement, furnishing or equipping of any facilities located on the Windsor Creek Property, or for the planning, design, permitting or any other cost of any project located on the Windsor Creek Property.",
+          "sourceUrl": "https://www.wusd.org/index.php?pageID=smartSiteFeed&psqFeed=true&articleID=84662693",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "wusd.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

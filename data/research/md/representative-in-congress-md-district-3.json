@@ -1,0 +1,16 @@
+{
+  "office": "Representative in Congress",
+  "district": "MD District 3",
+  "division": "md/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Sarah Elfreth",
+      "party": "Democratic"
+    },
+    {
+      "name": "Berney Flowers",
+      "party": "Republican"
+    }
+  ]
+}

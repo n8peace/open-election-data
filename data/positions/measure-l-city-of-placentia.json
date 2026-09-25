@@ -1,0 +1,41 @@
+{
+  "office": "Measure L",
+  "district": "City of Placentia",
+  "division": "ca/place-placentia",
+  "kind": "measure",
+  "summary": "A Yes vote increases the City of Placentia transient occupancy (hotel) tax from 10% to 14%.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "The Yes campaign supports increasing Placentia’s hotel tax from 10% to 14% to fund essential city services and infrastructure.",
+          "quote": "Vote YES on Placentia’s Hotel Tax Measure to protect essential city services, keep local dollars in Placentia, and ensure visitors pay their fair share.",
+          "sourceUrl": "https://placentia.org/DocumentCenter/View/16840",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would reject the proposed hotel-tax increase from 10% to 14%.",
+          "quote": "A NO vote rejects the ordinance, and would leave the Hotel Tax at 10%.",
+          "sourceUrl": "https://www.placentia.org/DocumentCenter/View/16804",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "placentia.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

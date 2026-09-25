@@ -1,0 +1,41 @@
+{
+  "office": "Measure J",
+  "district": "City of Coalinga",
+  "division": "ca/place-coalinga",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a City of Coalinga transactions and use (sales) tax.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would approve the City of Coalinga transactions and use tax measure.",
+          "quote": "City of Coalinga Transactions and Use Tax Measure",
+          "sourceUrl": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would reject the City of Coalinga transactions and use tax measure.",
+          "quote": "City of Coalinga Transactions and Use Tax Measure",
+          "sourceUrl": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "fresnocountyca.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

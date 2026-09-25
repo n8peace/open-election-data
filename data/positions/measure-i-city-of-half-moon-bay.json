@@ -1,0 +1,41 @@
+{
+  "office": "Measure I",
+  "district": "City of Half Moon Bay",
+  "division": "ca/place-half-moon-bay",
+  "kind": "measure",
+  "summary": "A Yes vote amends the City of Half Moon Bay Local Coastal Land Use Plan and the Subdivisions and Zoning titles of the Municipal Code so that the Measure D \"Downtown Area\" is redefined as the area designated as the \"Town Center\" in the Local Coastal Land Use Plan.",
+  "issues": [
+    "housing"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "housing": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Measure I would redefine the area where housing growth is concentrated while leaving existing development locations, densities and intensities unchanged.",
+          "quote": "Measure I will not change the location, density or intensity of development permitted under the 2020 LCLUP or the General Plan including the 2023 - 2031 Housing Element.",
+          "sourceUrl": "https://www.halfmoonbay.gov/1107/2026-Measure-I---City-of-Half-Moon-Bay-C",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "housing": {
+          "toward": "slower growth",
+          "strength": "lean",
+          "text": "The argument against Measure I said adding large developable parcels to the downtown allocation pool could worsen the concentration of housing allocations among large developers.",
+          "quote": "Large housing developers have been granted a huge proportion of available allocations, angering many residents. The map change may worsen this by adding large developable parcels to the downtown pool.",
+          "sourceUrl": "https://d3n9y02raazwpg.cloudfront.net/halfmoonbay/5f967cd1-fc8e-11f0-bb28-005056a89546-cd4a2209-1453-446e-897b-2c6c76fde19c-1779492863.pdf",
+          "agreement": "6/10"
+        }
+      }
+    }
+  ],
+  "sources": "halfmoonbay.gov · d3n9y02raazwpg.cloudfront.net",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}
