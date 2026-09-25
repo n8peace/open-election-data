@@ -1,0 +1,41 @@
+{
+  "office": "Measure A",
+  "district": "City of Simi Valley",
+  "division": "ca/place-simi-valley",
+  "kind": "measure",
+  "summary": "A Yes vote raises the City of Simi Valley's transient occupancy tax on hotel and short-term lodging stays from 10% to 12%, with the revenue going to general city services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote raises the hotel/short-term lodging tax from 10% to 12% to fund general city services.",
+          "quote": "Raises the hotel/short‑term lodging tax from 10% to 12% , paid by guests, to fund general city services (911, police, streets, senior services), about $400,000/year , until ended by voters.",
+          "sourceUrl": "https://www.newsbreak.com/ventura-county-ca-daily-brief-373157408/4840240798028-what-s-on-your-2026-ventura-county-local-ballot-measures-a-h",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not enact the proposed hotel/short-term lodging tax increase.",
+          "quote": "Raises the hotel/short‑term lodging tax from 10% to 12% , paid by guests, to fund general city services (911, police, streets, senior services), about $400,000/year , until ended by voters.",
+          "sourceUrl": "https://www.newsbreak.com/ventura-county-ca-daily-brief-373157408/4840240798028-what-s-on-your-2026-ventura-county-local-ballot-measures-a-h",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "newsbreak.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

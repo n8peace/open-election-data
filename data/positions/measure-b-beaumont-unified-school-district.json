@@ -1,0 +1,58 @@
+{
+  "office": "Measure B",
+  "district": "Beaumont Unified School District",
+  "division": "ca/school-beaumont-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue general obligation bonds, repaid by property taxes, to fund school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "A Yes vote approves $86 million in locally controlled school funding for school facility repairs and upgrades without increasing tax rates.",
+          "quote": "If approved by registered voters in the District, without increasing tax rates, Measure B could provide $86 million in locally controlled school funding to:",
+          "sourceUrl": "https://www.beaumontusd.us/apps/news/article/2223801?categoryId=8968",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote approves funding for repairs, upgrades, safety improvements, and new facilities in Beaumont Unified School District schools.",
+          "quote": "To make repairs and upgrades to local schools and continue meeting the needs of students, the Beaumont Unified School District Board of Trustees voted to place Measure B, a school facilities improvement bond extension, on the November 3 ballot.",
+          "sourceUrl": "https://www.beaumontusd.us/apps/news/article/2223801?categoryId=8968",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "A No vote does not approve the bond extension and does not provide its proposed school facility funding.",
+          "quote": "If approved by registered voters in the District, without increasing tax rates, Measure B could provide $86 million in locally controlled school funding to:",
+          "sourceUrl": "https://www.beaumontusd.us/apps/news/article/2223801?categoryId=8968",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote does not approve the proposed bond funding for Beaumont Unified School District schools.",
+          "quote": "To make repairs and upgrades to local schools and continue meeting the needs of students, the Beaumont Unified School District Board of Trustees voted to place Measure B, a school facilities improvement bond extension, on the November 3 ballot.",
+          "sourceUrl": "https://www.beaumontusd.us/apps/news/article/2223801?categoryId=8968",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "beaumontusd.us",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

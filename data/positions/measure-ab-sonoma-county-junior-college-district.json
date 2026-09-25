@@ -1,0 +1,58 @@
+{
+  "office": "Measure AB",
+  "district": "Sonoma County Junior College District",
+  "division": "ca/school-sonoma-county-junior-college-district",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue up to $830,000,000 in general obligation bonds to repair, construct, and equip college classrooms, sites, and facilities, including for career training programs.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote authorizes bonds that would be repaid through property taxes to fund district facilities and repairs.",
+          "quote": "What it does: Authorizes $830 million in bonds for classrooms, labs, job training facilities, technology and repairs.",
+          "sourceUrl": "https://mendovoice.com/2026/09/5-local-measures-on-mendocino-county-ballots-nov-3-what-each-one-does-and-costs/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote authorizes bonds for classrooms, labs, job training facilities, technology and repairs in the district.",
+          "quote": "What it does: Authorizes $830 million in bonds for classrooms, labs, job training facilities, technology and repairs.",
+          "sourceUrl": "https://mendovoice.com/2026/09/5-local-measures-on-mendocino-county-ballots-nov-3-what-each-one-does-and-costs/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not authorize these bonds or the associated property-tax payments.",
+          "quote": "What it does: Authorizes $830 million in bonds for classrooms, labs, job training facilities, technology and repairs.",
+          "sourceUrl": "https://mendovoice.com/2026/09/5-local-measures-on-mendocino-county-ballots-nov-3-what-each-one-does-and-costs/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote does not authorize these bonds for district facilities and repairs.",
+          "quote": "What it does: Authorizes $830 million in bonds for classrooms, labs, job training facilities, technology and repairs.",
+          "sourceUrl": "https://mendovoice.com/2026/09/5-local-measures-on-mendocino-county-ballots-nov-3-what-each-one-does-and-costs/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "mendovoice.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

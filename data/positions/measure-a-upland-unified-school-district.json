@@ -1,0 +1,58 @@
+{
+  "office": "Measure A",
+  "district": "Upland Unified School District",
+  "division": "ca/school-upland-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue general obligation bonds, repaid by property taxes, to fund school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would authorize the bond measure and its property tax to fund school improvements.",
+          "quote": "Measure A would cost $47.50 per $100,000 of a property's assessed (not market) value per year while bonds are outstanding.",
+          "sourceUrl": "https://www.upland.k12.ca.us/bond-information",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote would provide bond funding for improvements to Upland Unified School District schools.",
+          "quote": "If approved by local voters, Measure A would provide $236.7 million in funding for our community schools to:",
+          "sourceUrl": "https://www.upland.k12.ca.us/bond-information",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would not authorize the bond measure or its associated property tax.",
+          "quote": "Measure A would cost $47.50 per $100,000 of a property's assessed (not market) value per year while bonds are outstanding.",
+          "sourceUrl": "https://www.upland.k12.ca.us/bond-information",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote would not provide this bond funding for Upland Unified School District schools.",
+          "quote": "If approved by local voters, Measure A would provide $236.7 million in funding for our community schools to:",
+          "sourceUrl": "https://www.upland.k12.ca.us/bond-information",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "upland.k12.ca.us",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

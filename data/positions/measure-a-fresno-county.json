@@ -1,0 +1,41 @@
+{
+  "office": "Measure A",
+  "district": "Fresno County",
+  "division": "ca/county-fresno",
+  "kind": "measure",
+  "summary": "A Yes vote imposes a countywide transient occupancy tax on stays at hotels and other short-term lodging in Fresno County.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A Yes vote would approve the Fresno County transient occupancy tax measure.",
+          "quote": "Fresno County Transient Occupancy Tax Measure",
+          "sourceUrl": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A No vote would not approve the Fresno County transient occupancy tax measure.",
+          "quote": "Fresno County Transient Occupancy Tax Measure",
+          "sourceUrl": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "fresnocountyca.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

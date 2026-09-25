@@ -1,0 +1,50 @@
+{
+  "office": "Measure AA",
+  "district": "La Mesa-Spring Valley School District",
+  "division": "ca/school-la-mesa-spring-valley",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the La Mesa-Spring Valley School District to extend its existing bond tax rate to issue $131,000,000 in general obligation bonds to repair and upgrade school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "The Yes campaign supports extending the current property-tax rate to fund local school repairs and upgrades.",
+          "quote": "Measure AA is a bond extension measure which will fund local school repairs and upgrades by extending, but not increasing, the current $22 per $100,000 of assessed value tax rate.",
+          "sourceUrl": "https://www.yesonaalmsv.com/faq",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "The Yes campaign says Measure AA funds would be reserved exclusively for La Mesa-Spring Valley School District schools.",
+          "quote": "No funds can be taken by the County, State or Federal government, or used for other purposes. All funds from the potential bond measure will benefit LMSVSD schools only.",
+          "sourceUrl": "https://www.yesonaalmsv.com/faq",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would reject $131 million in bonds funded by an annual property-tax levy of $22 per $100,000 of assessed value.",
+          "quote": "The measure would levy $22 per $100,000 of assessed value ($9,000,000 annually) while the bonds are outstanding.",
+          "sourceUrl": "https://www.lmsvschools.org/measure-aa/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "yesonaalmsv.com · lmsvschools.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

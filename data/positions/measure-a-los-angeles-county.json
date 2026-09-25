@@ -1,0 +1,41 @@
+{
+  "office": "Measure A",
+  "district": "Los Angeles County",
+  "division": "ca/county-los-angeles",
+  "kind": "measure",
+  "summary": "A Yes vote amends the Los Angeles County Charter to prohibit strikes by certified public safety employees and their supervisors, reiterate good-faith negotiation obligations, and establish an impartial binding arbitration process for resolving their labor disputes.",
+  "issues": [
+    "wages"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "A Yes vote requires binding arbitration for labor disputes involving Los Angeles County certified public safety employees.",
+          "quote": "Measure A - Charter Amendment Requiring Binding Arbitration for Labor Disputes with Los Angeles County Certified Public Safety Employees",
+          "sourceUrl": "https://my.lwv.org/california/long-beach-area/election-issues",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "A No vote does not adopt this charter amendment requiring binding arbitration.",
+          "quote": "Measure A - Charter Amendment Requiring Binding Arbitration for Labor Disputes with Los Angeles County Certified Public Safety Employees",
+          "sourceUrl": "https://my.lwv.org/california/long-beach-area/election-issues",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "my.lwv.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

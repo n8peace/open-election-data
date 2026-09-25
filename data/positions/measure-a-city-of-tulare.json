@@ -1,0 +1,23 @@
+{
+  "office": "Measure A",
+  "district": "City of Tulare",
+  "division": "ca/place-tulare",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a 1-cent (1%) general transactions and use (sales) tax in the City of Tulare, with no expiration date, for unrestricted general city services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {}
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

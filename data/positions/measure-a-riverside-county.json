@@ -1,0 +1,41 @@
+{
+  "office": "Measure A",
+  "district": "Riverside County",
+  "division": "ca/county-riverside",
+  "kind": "measure",
+  "summary": "A Yes vote continues the existing one-half-cent countywide transactions and use tax after 2039 to fund transportation improvements and services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote continues the countywide half-cent sales tax beyond 2039 to fund transportation infrastructure and services.",
+          "quote": "If approved by the voters, Measure A would continue the current countywide half-cent sales tax beyond the year 2039 and would not raise the current sales tax rate in Riverside County.",
+          "sourceUrl": "https://www.rctc.org/measure-a-renewal/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not renew the countywide half-cent sales tax beyond 2039.",
+          "quote": "If approved by the voters, Measure A would continue the current countywide half-cent sales tax beyond the year 2039 and would not raise the current sales tax rate in Riverside County.",
+          "sourceUrl": "https://www.rctc.org/measure-a-renewal/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "rctc.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

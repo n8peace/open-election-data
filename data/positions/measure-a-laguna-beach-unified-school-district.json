@@ -1,0 +1,58 @@
+{
+  "office": "Measure A",
+  "district": "Laguna Beach Unified School District",
+  "division": "ca/school-laguna-beach-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Laguna Beach Unified School District to issue up to $83 million in general obligation bonds, repaid by local property taxes, to fund school facility projects.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote authorizes up to $83 million in bonds and an expected tax rate of approximately $8.85 per $100,000 of assessed value to fund school facility improvements.",
+          "quote": "If approved by voters, Measure A would authorize up to $83 million in bonds for school facilities improvements.",
+          "sourceUrl": "https://www.lbusd.org/about/local-funding",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "A Yes vote directs bond funds to improvements in Laguna Beach Unified School District public schools.",
+          "quote": "By law, all money raised by Measure A could only be used to improve local schools, and could not be taken away by State or used for other purposes",
+          "sourceUrl": "https://www.lbusd.org/about/local-funding",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not authorize the new bonds or their associated tax, leaving the proposed facility improvements without Measure A funding.",
+          "quote": "If approved by voters, Measure A would authorize up to $83 million in bonds for school facilities improvements.",
+          "sourceUrl": "https://www.lbusd.org/about/local-funding",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "A No vote does not authorize Measure A funds for district public school improvements.",
+          "quote": "By law, all money raised by Measure A could only be used to improve local schools, and could not be taken away by State or used for other purposes",
+          "sourceUrl": "https://www.lbusd.org/about/local-funding",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "lbusd.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

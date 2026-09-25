@@ -1,0 +1,103 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 65",
+  "division": "ca/sldl-65",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Ayanna Davis",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Davis says she will raise wages, strengthen workplace protections, and expand worker benefits.",
+          "quote": "In the Assembly, I’ll fight to raise wages, improve workplace protections, and expand healthcare and retirement benefits for the workers in our state.",
+          "sourceUrl": "https://www.ayannadavis.com/priorities-1/creating-good-paying-jobs",
+          "agreement": "4/4"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Davis proposes streamlining permits and cutting red tape to accelerate affordable-housing construction.",
+          "quote": "To address the housing crisis, I will work to cut red tape and streamline permitting processes so that we can rapidly build more affordable housing for working families.",
+          "sourceUrl": "https://www.ayannadavis.com/priorities-1/addressing-housing-and-homelessness",
+          "agreement": "4/4"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Davis calls building a more equitable public-education system a top priority and supports fully funding it.",
+          "quote": "Building a more equitable public education system will be one of my top priorities in the State Assembly.",
+          "sourceUrl": "https://www.ayannadavis.com/priorities-1/investing-in-education",
+          "agreement": "3/4"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Davis pledges to protect immigrant families and keep immigration agents out of schools, hospitals, churches, and neighborhoods.",
+          "quote": "Ayanna will continue her work to protect immigrant children and families and keep ICE agents out of our schools, hospitals, churches, and neighborhoods.",
+          "sourceUrl": "https://www.ayannadavis.com/media",
+          "agreement": "4/4"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Davis says she will always advocate for stronger gun-safety laws, particularly restrictions targeting ghost guns.",
+          "quote": "Additionally, I will always push for stronger gun safety laws – especially those targeting ghost guns – to keep dangerous weapons out of our schools and off of our streets.",
+          "sourceUrl": "https://www.ayannadavis.com/priorities-1/improving-public-safety",
+          "agreement": "3/4"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Davis pledges to protect legal abortion access and expand reproductive-health services.",
+          "quote": "With reproductive rights under attack across the country, I will work tirelessly to safeguard access to safe and legal abortion, expand reproductive health services for women coming to California to seek care, and support policies that uphold a woman's right to choose.",
+          "sourceUrl": "https://www.ayannadavis.com/priorities-1/standing-up-for-civil-rights",
+          "agreement": "3/4"
+        }
+      }
+    },
+    {
+      "name": "Lydia A. Gutiérrez",
+      "party": "Republican",
+      "stances": {
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Gutiérrez pledged to restore funding for the LAUSD school police department.",
+          "quote": "I will push to reinstate their funding to make our campuses safer because our children deserve it.",
+          "sourceUrl": "https://cityclerk.lacity.org/election/gutierrezlydia_ENG.pdf",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Gutiérrez opposed teaching young students that they can choose their sex and pronouns based on how they feel.",
+          "quote": "Do you believe that teachers have the right to introduce sexual content starting in kindergarten to plant ideals that their students could choose their sex and pronouns because of the way they feel? The LAUSD School Board does but I don’t.",
+          "sourceUrl": "https://cityclerk.lacity.org/election/gutierrezlydia_ENG.pdf",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "ayannadavis.com · cityclerk.lacity.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

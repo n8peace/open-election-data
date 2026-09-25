@@ -1,0 +1,41 @@
+{
+  "office": "Measure B",
+  "district": "City of Fort Bragg",
+  "division": "ca/place-fort-bragg",
+  "kind": "measure",
+  "summary": "A Yes vote imposes a $50 annual parcel tax for 10 years within the City of Fort Bragg to fund fire protection equipment and emergency response services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote authorizes a $50 annual parcel tax for 10 years to fund local fire protection services and equipment.",
+          "quote": "To maintain reliable local fire protection services; replace aging fire engines and emergency response equipment; keep funds locally controlled and unavailable for State use; and require annual audit and public reporting, shall the City of Fort Bragg authorize a $50 annual parcel tax for 10 years, generating approximately $123,900 annually?",
+          "sourceUrl": "https://www.advocate-news.com/2026/07/14/fort-bragg-general-municipal-election-candidate-nomination-period/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not authorize the proposed parcel tax.",
+          "quote": "To maintain reliable local fire protection services; replace aging fire engines and emergency response equipment; keep funds locally controlled and unavailable for State use; and require annual audit and public reporting, shall the City of Fort Bragg authorize a $50 annual parcel tax for 10 years, generating approximately $123,900 annually?",
+          "sourceUrl": "https://www.advocate-news.com/2026/07/14/fort-bragg-general-municipal-election-candidate-nomination-period/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "advocate-news.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}
