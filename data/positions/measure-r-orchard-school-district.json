@@ -1,0 +1,58 @@
+{
+  "office": "Measure R",
+  "district": "Orchard School District",
+  "division": "ca/school-orchard",
+  "kind": "measure",
+  "summary": "A Yes vote levies a parcel tax of about 4 cents per building square foot in the Orchard School District for eight years.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote approves an Orchard School District parcel tax raising $1.4 million annually for eight years to fund educational opportunities, staff, STEAM education, and the arts.",
+          "quote": "To enhance and create quality educational opportunities, attract and retain teachers and staff, support Science, Technology, Engineering, Arts and Mathematics (STEAM) education and visual and performing arts, shall the Orchard School District measure levying a parcel tax at the rate of 4 cents per building square foot (not-to-exceed $7,500 non-residential and $89 residential per parcel), raising $1.4 million annually for eight years beginning July 1, 2027, with senior exemptions and all expenditures audited be adopted?",
+          "sourceUrl": "https://localnewsmatters.org/santa-clara-november-3-2026/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote directs the parcel-tax revenue to Orchard School District educational opportunities, staff, STEAM education, and the arts.",
+          "quote": "To enhance and create quality educational opportunities, attract and retain teachers and staff, support Science, Technology, Engineering, Arts and Mathematics (STEAM) education and visual and performing arts, shall the Orchard School District measure levying a parcel tax at the rate of 4 cents per building square foot (not-to-exceed $7,500 non-residential and $89 residential per parcel), raising $1.4 million annually for eight years beginning July 1, 2027, with senior exemptions and all expenditures audited be adopted?",
+          "sourceUrl": "https://localnewsmatters.org/santa-clara-november-3-2026/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote rejects the parcel tax and does not authorize this additional funding for the Orchard School District.",
+          "quote": "To enhance and create quality educational opportunities, attract and retain teachers and staff, support Science, Technology, Engineering, Arts and Mathematics (STEAM) education and visual and performing arts, shall the Orchard School District measure levying a parcel tax at the rate of 4 cents per building square foot (not-to-exceed $7,500 non-residential and $89 residential per parcel), raising $1.4 million annually for eight years beginning July 1, 2027, with senior exemptions and all expenditures audited be adopted?",
+          "sourceUrl": "https://localnewsmatters.org/santa-clara-november-3-2026/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote does not authorize the parcel-tax revenue for Orchard School District programs.",
+          "quote": "To enhance and create quality educational opportunities, attract and retain teachers and staff, support Science, Technology, Engineering, Arts and Mathematics (STEAM) education and visual and performing arts, shall the Orchard School District measure levying a parcel tax at the rate of 4 cents per building square foot (not-to-exceed $7,500 non-residential and $89 residential per parcel), raising $1.4 million annually for eight years beginning July 1, 2027, with senior exemptions and all expenditures audited be adopted?",
+          "sourceUrl": "https://localnewsmatters.org/santa-clara-november-3-2026/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "localnewsmatters.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

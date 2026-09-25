@@ -1,0 +1,41 @@
+{
+  "office": "Measure Q",
+  "district": "Town of Corte Madera",
+  "division": "ca/place-corte-madera",
+  "kind": "measure",
+  "summary": "A Yes vote continues the town's paramedic services special tax for four years at up to $94.50 per residential unit or per 1,000 square feet of nonresidential space, adjustable to a maximum of $117.75.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote approves extending and increasing property taxes to fund paramedic services.",
+          "quote": "Measure Q seeks to catch Corte Madera up on its contributions to the Ross Valley Paramedic Authority by imposing a tax of up to $94.50 per dwelling or 1,000 square feet of developed nonresidential property.",
+          "sourceUrl": "https://www.jems.com/ems-management/ems-recruitment-retention/ca-voters-consider-paramedic-tax-extensions/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote rejects the proposed property tax extension and increase.",
+          "quote": "Measure Q seeks to catch Corte Madera up on its contributions to the Ross Valley Paramedic Authority by imposing a tax of up to $94.50 per dwelling or 1,000 square feet of developed nonresidential property.",
+          "sourceUrl": "https://www.jems.com/ems-management/ems-recruitment-retention/ca-voters-consider-paramedic-tax-extensions/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "jems.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

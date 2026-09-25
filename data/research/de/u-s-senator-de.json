@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Senator",
+  "district": "DE",
+  "division": "de/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Chris Coons",
+      "party": "Democratic"
+    },
+    {
+      "name": "Michael \"Dr. Mike\" Katz",
+      "party": "Republican"
+    }
+  ]
+}

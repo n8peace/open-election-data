@@ -1,0 +1,58 @@
+{
+  "office": "Measure S",
+  "district": "Imperial County",
+  "division": "ca/county-imperial",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a countywide 0.5% sales and use tax for 20 years, estimated to raise about $20 million annually, dedicated to sheriff and fire public-safety services.",
+  "issues": [
+    "tax",
+    "safety"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote establishes a 1/2-cent sales tax generating approximately $20 million annually for county services.",
+          "quote": "shall Imperial County's locally-controlled measure establishing a 1/2-cent sales tax, generating approximately $20,000,000 annually, expiring in 20 years, be adopted;",
+          "sourceUrl": "https://kyma.com/election-candidates/imperial-county-measures/2026/08/19/imperial-county-measures/",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "A Yes vote provides sales-tax funding for 911, fire, paramedic, and sheriff services, including efforts to reduce crime.",
+          "quote": "To maintain/improve emergency/911 response, fire/paramedic/sheriff services; prepare for/respond to earthquakes, other disasters; reduce crime; attract/retain qualified firefighters/paramedics/sheriff's deputies:",
+          "sourceUrl": "https://kyma.com/election-candidates/imperial-county-measures/2026/08/19/imperial-county-measures/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not establish the proposed 1/2-cent sales tax or its additional county-service funding.",
+          "quote": "shall Imperial County's locally-controlled measure establishing a 1/2-cent sales tax, generating approximately $20,000,000 annually, expiring in 20 years, be adopted;",
+          "sourceUrl": "https://kyma.com/election-candidates/imperial-county-measures/2026/08/19/imperial-county-measures/",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "A No vote does not provide the proposed sales-tax funding for those public-safety services.",
+          "quote": "To maintain/improve emergency/911 response, fire/paramedic/sheriff services; prepare for/respond to earthquakes, other disasters; reduce crime; attract/retain qualified firefighters/paramedics/sheriff's deputies:",
+          "sourceUrl": "https://kyma.com/election-candidates/imperial-county-measures/2026/08/19/imperial-county-measures/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "kyma.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

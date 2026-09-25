@@ -1,0 +1,32 @@
+{
+  "office": "Measure S",
+  "district": "City of Dinuba",
+  "division": "ca/place-dinuba",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a general transactions and use (sales) tax in the City of Dinuba, with no expiration date, for general city services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Measure S would establish a three-quarter-cent sales tax to fund essential city services, public safety, and community initiatives.",
+          "quote": "Measure S is a proposed three-quarter-cent sales tax that could provide for essential general City services such as those that keep residents safe, help maintain basic City functions, and support City initiatives for residents.",
+          "sourceUrl": "https://www.dinuba.org/government/city-council/elections/measure-s",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "dinuba.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

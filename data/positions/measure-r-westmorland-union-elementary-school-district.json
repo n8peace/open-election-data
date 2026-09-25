@@ -1,0 +1,58 @@
+{
+  "office": "Measure R",
+  "district": "Westmorland Union Elementary School District",
+  "division": "ca/school-westmorland-union-elementary",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Westmorland Union Elementary School District to issue bonds, repaid by a property tax of about $25 per $100,000 of assessed value, to fund school facility improvements.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Authorizes the school district to issue $2.8 million in bonds and levy a property tax to fund facility improvements.",
+          "quote": "shall the Westmorland Union Elementary School District's measure be adopted to issue $2,800,000 of bonds at legal rates, levy approximately $25/$100,000 of assessed value, generating approximately $218,799 annually while bonds are outstanding",
+          "sourceUrl": "https://kyma.com/election-candidates/imperial-county-measures/2026/08/19/imperial-county-measures/",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "A Yes vote funds improvements and construction for facilities at the district's public elementary school.",
+          "quote": "To improve athletic facilities at Westmorland Elementary School; repair restrooms; upgrade outdated heating, ventilation, and electrical systems; repair, construct, acquire classrooms, sites and equipment",
+          "sourceUrl": "https://kyma.com/election-candidates/imperial-county-measures/2026/08/19/imperial-county-measures/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Maintains current property tax rates and rejects the issuance of $2.8 million in school bonds.",
+          "quote": "shall the Westmorland Union Elementary School District's measure be adopted to issue $2,800,000 of bonds at legal rates, levy approximately $25/$100,000 of assessed value, generating approximately $218,799 annually while bonds are outstanding",
+          "sourceUrl": "https://kyma.com/election-candidates/imperial-county-measures/2026/08/19/imperial-county-measures/",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "A No vote does not authorize these school-facility improvements and construction through the measure.",
+          "quote": "To improve athletic facilities at Westmorland Elementary School; repair restrooms; upgrade outdated heating, ventilation, and electrical systems; repair, construct, acquire classrooms, sites and equipment",
+          "sourceUrl": "https://kyma.com/election-candidates/imperial-county-measures/2026/08/19/imperial-county-measures/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "kyma.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

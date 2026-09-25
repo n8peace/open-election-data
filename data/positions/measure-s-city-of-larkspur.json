@@ -1,0 +1,41 @@
+{
+  "office": "Measure S",
+  "district": "City of Larkspur",
+  "division": "ca/place-larkspur",
+  "kind": "measure",
+  "summary": "A Yes vote continues the city's paramedic services special tax for four years at $107.50 per taxable unit or per 1,000 square feet of nonresidential space, with annual increases up to a maximum of $118.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote approves a four-year extension and increase of taxes to fund paramedic services.",
+          "quote": "Eight jurisdictions in central Marin County are asking voters to approve a four-year extension and increase of taxes for paramedic services.",
+          "sourceUrl": "https://www.jems.com/ems-management/ems-recruitment-retention/ca-voters-consider-paramedic-tax-extensions/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote rejects the proposed four-year tax extension and increase.",
+          "quote": "Eight jurisdictions in central Marin County are asking voters to approve a four-year extension and increase of taxes for paramedic services.",
+          "sourceUrl": "https://www.jems.com/ems-management/ems-recruitment-retention/ca-voters-consider-paramedic-tax-extensions/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "jems.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

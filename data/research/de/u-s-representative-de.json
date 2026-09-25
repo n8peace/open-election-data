@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "DE",
+  "division": "de/cd-at-large",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Sarah McBride",
+      "party": "Democratic"
+    },
+    {
+      "name": "Joseph \"Dr. Joe\" Arminio",
+      "party": "Republican"
+    }
+  ]
+}

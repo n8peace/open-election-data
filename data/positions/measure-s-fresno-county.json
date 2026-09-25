@@ -1,0 +1,41 @@
+{
+  "office": "Measure S",
+  "district": "Fresno County",
+  "division": "ca/county-fresno",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a countywide sales tax to fund transportation improvements under the Fresno County Transportation Improvement Act.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A Yes vote would approve Measure S.",
+          "quote": "Measure S \n Fresno County Transportation Improvement Act Measure",
+          "sourceUrl": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A No vote would reject Measure S.",
+          "quote": "Measure S \n Fresno County Transportation Improvement Act Measure",
+          "sourceUrl": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "fresnocountyca.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,41 @@
+{
+  "office": "Measure S",
+  "district": "City of St. Helena",
+  "division": "ca/place-st-helena",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a one-half-cent (0.5%) general sales tax in St. Helena, with revenue going to the city's general fund for city services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would establish a one-half cent local sales tax to support general City services.",
+          "quote": "If approved by voters, Measure S would establish a locally controlled one-half cent (0.5%) sales tax to support general City services.",
+          "sourceUrl": "https://www.cityofsthelena.gov/MeasureS",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would not establish the proposed local sales tax.",
+          "quote": "If approved by voters, Measure S would establish a locally controlled one-half cent (0.5%) sales tax to support general City services.",
+          "sourceUrl": "https://www.cityofsthelena.gov/MeasureS",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "cityofsthelena.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}
