@@ -193,6 +193,10 @@ async function main() {
     const d = JSON.parse(await readFile(path.join(POSITIONS_DIR, f), 'utf8'));
     if (d.division) covered.add(`${d.division}|${canonicalOffice(d.office)}`);
   }
+  // Races a contributor has claimed on GitHub are left for them (data/research/claimed.json).
+  for (const c of JSON.parse(await readFile(path.join('data', 'research', 'claimed.json'), 'utf8').catch(() => '[]')) as { division: string; office: string }[]) {
+    covered.add(`${c.division}|${canonicalOffice(c.office)}`);
+  }
   const queue: string[] = [];
   for (const level of levels) {
     if (level === 'measures') {
