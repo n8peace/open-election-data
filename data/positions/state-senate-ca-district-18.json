@@ -1,0 +1,183 @@
+{
+  "office": "State Senate",
+  "district": "CA District 18",
+  "division": "ca/sldu-18",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Steve Padilla",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Padilla voted for AB 28, which imposed an 11% tax on firearm and ammunition sales to fund violence-prevention, education, research, response, and investigation programs.",
+          "quote": "Allen, Archuleta, Ashby, Atkins, Becker, Blakespear, Bradford, Durazo, Eggman, Glazer, Gonzalez, Hurtado, Laird, Limón, McGuire, Menjivar, Min, Newman, Padilla, Portantino, Rubio, Skinner, Smallwood-Cuevas, Stern, Umberg, Wahab, Wiener",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB28",
+          "agreement": "7/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Padilla publicly supported Sharp Chula Vista workers forming a union to seek better wages and working conditions.",
+          "quote": "Unions are the very structure that built America’s middle class. Their achievements and successes advance the quality of life of workers across this nation. Everyone deserves representation in their workplace — a voice that can speak out for better wages or working conditions.",
+          "sourceUrl": "https://sd18.senate.ca.gov/news/senator-padillas-statement-ahead-sharp-worker-union-vote",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Padilla helped advance SB 79, which allowed more apartments near transit despite local zoning, and spoke in favor of integrating housing density with transit.",
+          "quote": "“(The evidence) is pretty overwhelming, and has been for decades, the benefits of integrating housing with transit infrastructure,” Padilla said.",
+          "sourceUrl": "https://www.kpbs.org/news/living/2025/06/10/state-senators-from-san-diego-split-on-allowing-housing-near-transit-but-not-along-partisan-lines",
+          "agreement": "7/10"
+        },
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "lean",
+          "text": "Padilla voted for SB 94, which would have allowed some people serving life without parole for pre-1990 offenses to petition for recall and resentencing after 25 years.",
+          "quote": "Allen, Ashby, Atkins, Becker, Blakespear, Bradford, Cortese, Durazo, Gonzalez, Hurtado, Laird, Limón, McGuire, Menjivar, Newman, Padilla, Rubio, Skinner, Smallwood-Cuevas, Stern, Wahab, Wiener",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240SB94",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Padilla authored SB 420 to deny charitable property-tax exemptions to organizations connected to private immigration detention or deportation operations.",
+          "quote": "SB 420 closes the loophole in California’s Revenue and Taxation Code by preventing organizations connected to immigration detention or deportation efforts from qualifying for charitable property tax exemptions in the future.",
+          "sourceUrl": "https://sd18.senate.ca.gov/news/california-legislature-closes-loophole-allowed-nonprofits-claim-ice-detention-centers",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Padilla voted for SB 2, which tightened concealed-carry licensing requirements and restricted carrying firearms in specified sensitive places.",
+          "quote": "Allen, Archuleta, Ashby, Atkins, Becker, Blakespear, Bradford, Cortese, Dodd, Durazo, Eggman, Glazer, Gonzalez, Laird, Limón, McGuire, Menjivar, Min, Newman, Padilla, Portantino, Rubio, Skinner, Smallwood-Cuevas, Stern, Umberg, Wahab, Wiener",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240SB2",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Padilla voted for SB 345, which protected abortion providers and patients from out-of-state investigations, prosecutions, and civil actions involving care legal in California.",
+          "quote": "Allen, Alvarado-Gil, Archuleta, Ashby, Atkins, Becker, Blakespear, Bradford, Caballero, Cortese, Dodd, Durazo, Eggman, Glazer, Gonzalez, Hurtado, Laird, Limón, McGuire, Menjivar, Min, Newman, Padilla, Portantino, Roth, Rubio, Skinner, Smallwood-Cuevas, Stern, Umberg, Wahab, Wiener",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240SB345",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Padilla voted for AB 1955, which barred schools from requiring employees to disclose a student's gender identity or expression without the student's consent.",
+          "quote": "Allen, Archuleta, Ashby, Atkins, Becker, Blakespear, Bradford, Caballero, Cortese, Dodd, Durazo, Eggman, Glazer, Gonzalez, Hurtado, Laird, McGuire, Menjivar, Min, Newman, Padilla, Portantino, Roth, Rubio, Skinner, Smallwood-Cuevas, Umberg, Wahab, Wiener",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1955",
+          "agreement": "7/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "As a Chula Vista councilmember, Padilla moved and voted for an ordinance regulating commercial cannabis and allowing up to ten cultivation licenses.",
+          "quote": "A motion was made by Councilmember Padilla, seconded by Mayor Casillas Salas, to amend the draft ordinance to limit the number of licenses for cultivation facilities to 10 citywide. The motion carried by the following vote:",
+          "sourceUrl": "https://chulavista.legistar.com/HistoryDetail.aspx?GUID=4DA61022-8661-4293-B021-05AF5650FFE8&ID=14880212",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Padilla campaigned for universal health care and lower prescription-drug costs.",
+          "quote": "Work for lower prescription drug costs and healthcare that’s universal.",
+          "sourceUrl": "https://docs.voteinfo.net/Elections/20220607/docs/June%20Candidates%20All-V5.pdf",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Padilla authored SB 619 to accelerate transmission projects needed to expand clean energy and move California from fossil fuels toward carbon-free power.",
+          "quote": "Modernizing our grid will help California bridge the gap between our fossil fuel past and our carbon-free future.",
+          "sourceUrl": "https://sd18.senate.ca.gov/news/california-legislature-passes-senator-padillas-legislation-accelerate-and-modernize",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Padilla voted for SB 1174, which prohibited local governments from requiring voters to present identification when voting or submitting a ballot.",
+          "quote": "Archuleta, Ashby, Atkins, Becker, Blakespear, Bradford, Caballero, Cortese, Dodd, Durazo, Eggman, Glazer, Gonzalez, Hurtado, Laird, Limón, McGuire, Menjivar, Min, Newman, Padilla, Portantino, Roth, Rubio, Skinner, Smallwood-Cuevas, Stern, Umberg, Wahab, Wiener",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240SB1174",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Art Hodges",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "His campaign says high income, sales, and property taxes burden people and drive businesses out.",
+          "quote": "High taxes (income, sales, property) burden individuals and drive businesses out.",
+          "sourceUrl": "https://www.arthodgesforsenate.com/priorities-blog/government-overreach-and-regulation",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He made enforcing laws and restoring neighborhood safety part of his campaign platform.",
+          "quote": "Safe & Lawful Communities — eliminating harmful laws, enforcing good ones, and restoring neighborhood safety.",
+          "sourceUrl": "https://static1.squarespace.com/static/686ebe0393b8c644912395c7/t/689e5eab6d646a3a353b4c42/1755209387079/Press%2BRelease%2BArt%2BHodges%2B8.14.25.pdf",
+          "agreement": "5/5"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "lean",
+          "text": "His campaign criticizes Prop 47-style policies and the early release of dangerous offenders.",
+          "quote": "Soft-on-crime policies (like Prop 47) have led to:\nTheft and shoplifting\nEarly release of dangerous offenders",
+          "sourceUrl": "https://www.arthodgesforsenate.com/priorities-blog/crime-and-public-safety-issues",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He identifies protecting human life from the womb onward as a core value.",
+          "quote": "Art Hodges’ core values are sanctity of human life from womb to tomb, birth gender, traditional marriage, religious liberty, support of Israel.",
+          "sourceUrl": "https://www.arthodgesforsenate.com/about-art",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He identifies birth gender as one of his core values.",
+          "quote": "Art Hodges’ core values are sanctity of human life from womb to tomb, birth gender, traditional marriage, religious liberty, support of Israel.",
+          "sourceUrl": "https://www.arthodgesforsenate.com/about-art",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "His campaign says climate policies can harm working-class people and small communities.",
+          "quote": "Climate change policies often hurt small communities and the working class.",
+          "sourceUrl": "https://www.arthodgesforsenate.com/priorities-blog/environmental-extremism",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "leginfo.legislature.ca.gov · sd18.senate.ca.gov · kpbs.org · chulavista.legistar.com · docs.voteinfo.net · arthodgesforsenate.com · static1.squarespace.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

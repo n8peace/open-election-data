@@ -1,0 +1,41 @@
+{
+  "office": "Measure X",
+  "district": "Yolo County",
+  "division": "ca/county-yolo",
+  "kind": "measure",
+  "summary": "A Yes vote increases the transient occupancy (hotel) tax in the unincorporated area of Yolo County from 8% to 12%, with revenue going to the county general fund.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote supports raising Yolo County’s transient occupancy tax from 8% to 12% to help fund county services.",
+          "quote": "A “yes” vote on Measure X approves Ordinance No. 1585 and the proposed increase in the TOT from 8% to 12%.",
+          "sourceUrl": "https://elections.yolocounty.gov/420/Measure-X---Yolo-County-Unincorporated-A",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A no vote would reject increasing the transient occupancy tax from 8% to 12%, leaving the rate at 8%.",
+          "quote": "A “no” vote on Measure X is a vote against authorizing the proposed changes in Ordinance No. 1585 and the TOT rate would remain at 8%.",
+          "sourceUrl": "https://ace.yolocounty.gov/420/Measure-X---Yolo-County-Unincorporated-A",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "elections.yolocounty.gov · ace.yolocounty.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,58 @@
+{
+  "office": "Measure Y",
+  "district": "San Bernardino Community College District",
+  "division": "ca/school-san-bernardino-community-college-district",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue general obligation bonds, repaid by property taxes, to fund school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote authorizes the bonds and the associated property-tax levy to fund college facility projects.",
+          "quote": "If approved, Measure Y would levy $25 a year for every $100,000 of assessed property value and generate about $56 million annually while the bonds are outstanding.",
+          "sourceUrl": "https://sanbernardinonewsdaily.com/community/community-college-district-places-bond-measure-on-ballot/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote authorizes bonds to fund repairs, upgrades, equipment, and other projects at the two community colleges.",
+          "quote": "Measure Y would authorize bonds for San Bernardino Valley College and Crafton Hills College to repair and upgrade classrooms, labs, training spaces, infrastructure and equipment.",
+          "sourceUrl": "https://sanbernardinonewsdaily.com/community/community-college-district-places-bond-measure-on-ballot/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not authorize the bonds or the associated property-tax levy.",
+          "quote": "If approved, Measure Y would levy $25 a year for every $100,000 of assessed property value and generate about $56 million annually while the bonds are outstanding.",
+          "sourceUrl": "https://sanbernardinonewsdaily.com/community/community-college-district-places-bond-measure-on-ballot/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote does not authorize the bonds for projects at the two community colleges.",
+          "quote": "Measure Y would authorize bonds for San Bernardino Valley College and Crafton Hills College to repair and upgrade classrooms, labs, training spaces, infrastructure and equipment.",
+          "sourceUrl": "https://sanbernardinonewsdaily.com/community/community-college-district-places-bond-measure-on-ballot/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "sanbernardinonewsdaily.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

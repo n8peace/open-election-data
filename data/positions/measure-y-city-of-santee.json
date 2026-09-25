@@ -1,0 +1,41 @@
+{
+  "office": "Measure Y",
+  "district": "City of Santee",
+  "division": "ca/place-santee",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a one-cent sales tax in the City of Santee for ten years to fund city services and infrastructure, including road repairs.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would increase Santee’s sales tax by one cent per dollar for 10 years and provide additional revenue for city services and infrastructure.",
+          "quote": "If approved, the measure would raise Santee’s sales tax rate from 7.75% to 8.75% for the next 10 years.",
+          "sourceUrl": "https://www.10news.com/news/local-news/santee-voters-to-decide-on-proposed-one-cent-sales-tax-increase",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would keep Santee’s sales tax rate at 7.75% and would not provide the proposed additional revenue.",
+          "quote": "If approved, the measure would raise Santee’s sales tax rate from 7.75% to 8.75% for the next 10 years.",
+          "sourceUrl": "https://www.10news.com/news/local-news/santee-voters-to-decide-on-proposed-one-cent-sales-tax-increase",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "10news.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

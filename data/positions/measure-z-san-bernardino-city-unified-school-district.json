@@ -1,0 +1,58 @@
+{
+  "office": "Measure Z",
+  "district": "San Bernardino City Unified School District",
+  "division": "ca/school-san-bernardino-city-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue general obligation bonds, repaid by property taxes, to fund school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would authorize a bond funded by a property tax to pay for school facility improvements.",
+          "quote": "If approved by voters, homeowners would pay approximately $50 per $100,000 of assessed (not market) value while bonds are outstanding.",
+          "sourceUrl": "https://www.sbcusd.com/departments/business-services-division/school-improvements",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote would provide locally controlled funding for improvements to district public school facilities.",
+          "quote": "Measure Z would provide $382 million in locally controlled funding that could be used to:",
+          "sourceUrl": "https://www.sbcusd.com/departments/business-services-division/school-improvements",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would not authorize this bond or its associated property tax.",
+          "quote": "If approved by voters, homeowners would pay approximately $50 per $100,000 of assessed (not market) value while bonds are outstanding.",
+          "sourceUrl": "https://www.sbcusd.com/departments/business-services-division/school-improvements",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote would not provide the Measure Z funding for district public school facilities.",
+          "quote": "Measure Z would provide $382 million in locally controlled funding that could be used to:",
+          "sourceUrl": "https://www.sbcusd.com/departments/business-services-division/school-improvements",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "sbcusd.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

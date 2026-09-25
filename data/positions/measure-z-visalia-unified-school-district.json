@@ -1,0 +1,58 @@
+{
+  "office": "Measure Z",
+  "district": "Visalia Unified School District",
+  "division": "ca/school-visalia-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Visalia Unified School District to issue general obligation bonds, repaid by a property tax, to repair and upgrade school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote authorizes funding for local school facility improvements through a bond paid for by property owners.",
+          "quote": "If passed, Measure Z would provide $158 million for local school facility improvements at a cost of $40 per $100,000 of assessed value (not market value).",
+          "sourceUrl": "https://engage.vusd.org/measure-z",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote authorizes funding for repairs, upgrades, and modern learning spaces in Visalia Unified district schools.",
+          "quote": "If approved by voters, Measure Z funds would be used to address high-priority facility needs across VUSD schools, including:",
+          "sourceUrl": "https://engage.vusd.org/measure-z",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not authorize Measure Z's bond funding or its stated property-owner cost.",
+          "quote": "If passed, Measure Z would provide $158 million for local school facility improvements at a cost of $40 per $100,000 of assessed value (not market value).",
+          "sourceUrl": "https://engage.vusd.org/measure-z",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote does not authorize Measure Z funding for improvements in Visalia Unified district schools.",
+          "quote": "If approved by voters, Measure Z funds would be used to address high-priority facility needs across VUSD schools, including:",
+          "sourceUrl": "https://engage.vusd.org/measure-z",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "engage.vusd.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

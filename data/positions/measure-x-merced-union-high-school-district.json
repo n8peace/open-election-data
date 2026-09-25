@@ -1,0 +1,50 @@
+{
+  "office": "Measure X",
+  "district": "Merced Union High School District",
+  "division": "ca/school-merced-union-high",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue bonds for School Facilities Improvement District No. 2, repaid by property taxes within that district.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote supports up to $59.1 million in bonds for school improvements, repaid through increased property taxes.",
+          "quote": "A “YES” vote is a vote in favor of authorizing the Merced Union High School District to issue and sell up to $59,100,000 in general obligation bonds to be secured by a property tax increase on lands located within School Facilities Improvement District No. 2.",
+          "sourceUrl": "https://www.countyofmerced.com/DocumentCenter/View/53698/Measure-X-Impartial-Analysis-District-2-Atwater-Buhach",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote supports additional funding for facilities serving Atwater and Buhach Colony high schools in the district.",
+          "quote": "This proposed measure would authorize the District to issue and sell bonds in the amount of up to $59,100,000 for facilities improvements within Improvement District No. 2 which covers the Atwater and Buhach Colony High School Areas.",
+          "sourceUrl": "https://www.countyofmerced.com/DocumentCenter/View/53698/Measure-X-Impartial-Analysis-District-2-Atwater-Buhach",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Opposes authorizing up to $59.1 million in school bonds that would be secured by a property-tax increase.",
+          "quote": "A “NO” vote means the voter is against authorizing the Merced Union High School District to issue and sell up to $59,100,000 in general obligation bonds.",
+          "sourceUrl": "https://www.countyofmerced.com/DocumentCenter/View/53698/Measure-X-Impartial-Analysis-District-2-Atwater-Buhach",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "countyofmerced.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

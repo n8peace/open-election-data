@@ -1,0 +1,41 @@
+{
+  "office": "Measure Y",
+  "district": "City of Benicia",
+  "division": "ca/place-benicia",
+  "kind": "measure",
+  "summary": "A Yes vote adopts a limited city charter for Benicia that continues its council-manager form of government and allows the Measure Z real property transfer tax to take effect if voters approve both Measures Y and Z.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would allow Benicia to become a limited charter city and make it possible to levy a real property transfer tax.",
+          "quote": "Measure Y, if passed, would make Benicia a limited charter city and make it possible to implement the second measure to levy a real property transfer tax, as Benicia currently cannot levy real property transfer taxes above the transfer tax cap of $0.55 per $1,000.",
+          "sourceUrl": "https://www.vallejosun.com/judge-rejects-allegations-that-benicia-ballot-measures-are-misleading/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would leave Benicia unable to levy real property transfer taxes above the existing cap.",
+          "quote": "Measure Y, if passed, would make Benicia a limited charter city and make it possible to implement the second measure to levy a real property transfer tax, as Benicia currently cannot levy real property transfer taxes above the transfer tax cap of $0.55 per $1,000.",
+          "sourceUrl": "https://www.vallejosun.com/judge-rejects-allegations-that-benicia-ballot-measures-are-misleading/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "vallejosun.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

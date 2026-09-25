@@ -1,0 +1,58 @@
+{
+  "office": "Measure Y",
+  "district": "Lassen Union High School District",
+  "division": "ca/school-lassen-union-high",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Lassen Union High School District to issue general obligation bonds to fund school facility repairs and improvements, repaid by an assessment on taxable property in the district.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote authorizes a bond financed by an estimated annual property tax to fund school facility improvements.",
+          "quote": "The district estimates the bond would generate approximately $1.083 million annually while outstanding, with an estimated tax rate of $29.55 per $100,000 of assessed property value each year.",
+          "sourceUrl": "https://www.sierradailynews.com/local/lassen-union-high-school-district-outlines-details-of-proposed-measure-y-bond/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote funds improvements and modernization of Lassen Union High School District facilities.",
+          "quote": "According to information released by the district, the bond would fund improvements to aging facilities, including classroom renovations, heating and air conditioning system repairs, safety and security upgrades, and new or modernized instructional spaces.",
+          "sourceUrl": "https://www.sierradailynews.com/local/lassen-union-high-school-district-outlines-details-of-proposed-measure-y-bond/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not authorize the bond or its associated property tax.",
+          "quote": "The district estimates the bond would generate approximately $1.083 million annually while outstanding, with an estimated tax rate of $29.55 per $100,000 of assessed property value each year.",
+          "sourceUrl": "https://www.sierradailynews.com/local/lassen-union-high-school-district-outlines-details-of-proposed-measure-y-bond/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote does not authorize the bond, so the proposed district facility improvements would not move forward.",
+          "quote": "According to information released by the district, the bond would fund improvements to aging facilities, including classroom renovations, heating and air conditioning system repairs, safety and security upgrades, and new or modernized instructional spaces.",
+          "sourceUrl": "https://www.sierradailynews.com/local/lassen-union-high-school-district-outlines-details-of-proposed-measure-y-bond/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "sierradailynews.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

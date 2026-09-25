@@ -1,0 +1,41 @@
+{
+  "office": "Measure Z",
+  "district": "City of Benicia",
+  "division": "ca/place-benicia",
+  "kind": "measure",
+  "summary": "A Yes vote establishes a City of Benicia real property transfer tax on property sales at tiered rates, excluding existing homes selling for less than $2 million and immediate-family transfers.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote approves allowing the real property transfer tax to take effect if Measure Y also passes, generating revenue for city services.",
+          "quote": "Measure Z (real property transfer tax): would allow a transfer tax to take effect only if voters approve both Measures Y and Z.",
+          "sourceUrl": "https://citizenportal.ai/articles/8581819/california/solano-county/benicia-city/benicia-council-places-three-measures-on-nov-3-2026-ballot-after-tightening-language-and-revenue-estimate",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote rejects Measure Z, so the real property transfer tax cannot take effect through this measure.",
+          "quote": "Measure Z (real property transfer tax): would allow a transfer tax to take effect only if voters approve both Measures Y and Z.",
+          "sourceUrl": "https://citizenportal.ai/articles/8581819/california/solano-county/benicia-city/benicia-council-places-three-measures-on-nov-3-2026-ballot-after-tightening-language-and-revenue-estimate",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "citizenportal.ai",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

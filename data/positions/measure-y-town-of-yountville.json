@@ -1,0 +1,41 @@
+{
+  "office": "Measure Y",
+  "district": "Town of Yountville",
+  "division": "ca/place-yountville",
+  "kind": "measure",
+  "summary": "A Yes vote raises the Town of Yountville's appropriations (Gann) spending limit for a four-year period without creating or increasing any tax.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "A Yes vote approves increasing the town's appropriations limit to allow continued spending of municipal revenues.",
+          "quote": "Measure Y (Increase of Appropriations (Gann) Limit)",
+          "sourceUrl": "https://yountvilleca.new.swagit.com/events/48239",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "A No vote opposes increasing the town's appropriations limit.",
+          "quote": "Measure Y (Increase of Appropriations (Gann) Limit)",
+          "sourceUrl": "https://yountvilleca.new.swagit.com/events/48239",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "yountvilleca.new.swagit.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

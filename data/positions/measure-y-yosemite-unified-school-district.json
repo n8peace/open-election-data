@@ -1,0 +1,58 @@
+{
+  "office": "Measure Y",
+  "district": "Yosemite Unified School District",
+  "division": "ca/school-yosemite-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Yosemite Unified School District to issue districtwide general obligation bonds repaid by district property taxes.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "A yes vote supports authorizing the school district to issue bonds to finance school improvements.",
+          "quote": "Measure Y-Yosemite Unified School District Bond",
+          "sourceUrl": "https://votemadera.com/candidate-campaign-information/general-election-november-3-2026/",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote would authorize a bond for Yosemite Unified School District.",
+          "quote": "Measure Y-Yosemite Unified School District Bond",
+          "sourceUrl": "https://votemadera.com/candidate-campaign-information/general-election-november-3-2026/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "A no vote opposes authorizing the school district to issue bonds.",
+          "quote": "Measure Y-Yosemite Unified School District Bond",
+          "sourceUrl": "https://votemadera.com/candidate-campaign-information/general-election-november-3-2026/",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote would not authorize the bond for Yosemite Unified School District.",
+          "quote": "Measure Y-Yosemite Unified School District Bond",
+          "sourceUrl": "https://votemadera.com/candidate-campaign-information/general-election-november-3-2026/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "votemadera.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

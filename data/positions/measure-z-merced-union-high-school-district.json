@@ -1,0 +1,50 @@
+{
+  "office": "Measure Z",
+  "district": "Merced Union High School District",
+  "division": "ca/school-merced-union-high",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue bonds for School Facilities Improvement District No. 3, repaid by property taxes within that district.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote authorizes $129 million in school-improvement bonds repaid through a property-tax increase.",
+          "quote": "A “YES” vote is a vote in favor of authorizing the Merced Union High School District to issue and sell up to $129,000,000 in general obligation bonds to be secured by a property tax increase on lands located within School Facilities Improvement District No. 3.",
+          "sourceUrl": "https://www.countyofmerced.com/DocumentCenter/View/53704/Measure-Z-Impartial-Analysis",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote funds facility improvements in the district areas serving El Capitan, Merced, and Golden Valley high schools.",
+          "quote": "This proposed measure would authorize the District to issue and sell bonds in the amount of up to $129,000,000 for facilities improvements within Improvement District No. 3 which covers the District’s El Capitan, Merced, and Golden Valley High School Areas.",
+          "sourceUrl": "https://www.countyofmerced.com/DocumentCenter/View/53704/Measure-Z-Impartial-Analysis",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "The Measure Z opposition rejects the school bond because it would be funded by taxpayers.",
+          "quote": "Authorizes costly bond funded by taxpayer dollars despite massive levels of wasteful spending and awarding contracts without fair and open competition.",
+          "sourceUrl": "https://www.reformcalifornia.org/voter-guides/merced",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "countyofmerced.com · reformcalifornia.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}
