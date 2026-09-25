@@ -1,0 +1,41 @@
+{
+  "office": "Measure C",
+  "district": "City and County of San Francisco",
+  "division": "ca/place-city-and-county-of-san-francisco",
+  "kind": "measure",
+  "summary": "A Yes vote changes the city's required contributions to its affordable housing fund.",
+  "issues": [
+    "housing"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "The Yes on Measure C campaign supports renewing and expanding dedicated funding to build and preserve affordable housing in San Francisco.",
+          "quote": "Renews funding to build and preserve affordable homes in San Francisco — with no new taxes.",
+          "sourceUrl": "https://www.homesforsf.com/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "housing": {
+          "toward": "slower growth",
+          "strength": "lean",
+          "text": "The No position opposes increasing the City’s annual Housing Trust Fund contribution and expanding affordable-housing programs.",
+          "quote": "If you vote NO, you do not want to make these changes.",
+          "sourceUrl": "https://lwvsf.org/procon",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "homesforsf.com · lwvsf.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

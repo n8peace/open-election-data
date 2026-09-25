@@ -1,0 +1,42 @@
+{
+  "office": "Measure C",
+  "district": "Barstow Community College District",
+  "division": "ca/school-barstow-community-college-district",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue general obligation bonds, repaid by property taxes, to fund school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Measure C would provide locally controlled funding exclusively for Barstow Community College District facilities.",
+          "quote": "By law, all funds from Measure C must stay local, dedicated to BCCD only.",
+          "sourceUrl": "https://www.barstow.edu/sites/default/files/media/pdf_document/2026/Info-Only-Fact-Sheet-BCCD-081326v9-copy.pdf",
+          "agreement": "3/4"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would reject $37 million in bonds financed by annual taxes on property within the district.",
+          "quote": "A \"no\" vote means that the District will not be authorized to issue and sell the up to $37,000,000 in bonds set forth in the Measure.",
+          "sourceUrl": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BarstowCCD/IA_BarstowCCD.pdf",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "barstow.edu · uploads.rov.sbcounty.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

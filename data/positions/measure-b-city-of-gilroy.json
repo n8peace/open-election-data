@@ -1,0 +1,41 @@
+{
+  "office": "Measure B",
+  "district": "City of Gilroy",
+  "division": "ca/place-gilroy",
+  "kind": "measure",
+  "summary": "A Yes vote raises the City of Gilroy hotel (transient occupancy) tax from 9% to a maximum of 13%.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote raises the Transient Occupancy Tax on hotel and lodging guests from 9% to a maximum of 13% to provide about $700,000 annually for City services.",
+          "quote": "To maintain critical City services such as street/pothole repair, park and recreation programs, emergency preparedness for storms, flooding and wildfires, and police and fire response shall the City of Gilroy measure raising the Transient Occupancy Tax (hotel tax) rate from 9% to a maximum of 13%, set by Council resolution, providing $700,000 annually paid only by hotel/lodging guests, with annual independent audits, that cannot be taken by Sacramento, until ended by voters, be adopted?",
+          "sourceUrl": "https://localnewsmatters.org/santa-clara-november-3-2026/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not authorize this increase in the Transient Occupancy Tax.",
+          "quote": "To maintain critical City services such as street/pothole repair, park and recreation programs, emergency preparedness for storms, flooding and wildfires, and police and fire response shall the City of Gilroy measure raising the Transient Occupancy Tax (hotel tax) rate from 9% to a maximum of 13%, set by Council resolution, providing $700,000 annually paid only by hotel/lodging guests, with annual independent audits, that cannot be taken by Sacramento, until ended by voters, be adopted?",
+          "sourceUrl": "https://localnewsmatters.org/santa-clara-november-3-2026/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "localnewsmatters.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

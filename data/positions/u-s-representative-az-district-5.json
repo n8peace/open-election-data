@@ -1,0 +1,176 @@
+{
+  "office": "U.S. Representative",
+  "district": "AZ District 5",
+  "division": "az/cd-5",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Elizabeth Lee",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Lee supports raising the federal minimum wage and expanding union rights.",
+          "quote": "Raise the federal minimum wage to a living wage",
+          "sourceUrl": "https://www.nurselee4az.com/issues/economic-equity",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Lee supports cutting wasteful spending while protecting Social Security, Medicare, Medicaid and core services.",
+          "quote": "Cutting wasteful spending and protecting Social Security, Medicare, Medicaid and core services working families rely on.",
+          "sourceUrl": "https://www.nurselee4az.com/issues/government-that-works-for-people",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Lee advocates for immigration reform that creates a pathway to citizenship for Dreamers.",
+          "quote": "securing the border while creating a pathway to citizenship for Dreamers.",
+          "sourceUrl": "https://www.fox10phoenix.com/news/2026-election-arizona-congressional-district-5-democratic-candidates-debate",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Lee supports requiring a background check for every gun sale.",
+          "quote": "Ensure every gun sale includes a background check",
+          "sourceUrl": "https://www.nurselee4az.com/issues/gun-violence-prevention",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Lee supports ensuring emergency reproductive care for women facing pregnancy complications as part of her plan to restore nationwide abortion access.",
+          "quote": "Ensure that women facing pregnancy complications get the emergency care they need",
+          "sourceUrl": "https://www.nurselee4az.com/issues/repro-freedom",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Lee supports Medicare for All and expanding Medicare coverage to include vision, dental, hearing, and mental health services.",
+          "quote": "she will fight for Medicare for All, as well as expanding Medicare to include mental health, dental, vision, and hearing coverage.",
+          "sourceUrl": "https://www.fox10phoenix.com/news/2026-election-arizona-congressional-district-5-democratic-candidates-debate",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Lee supports early voting and voting by mail and opposes voter-ID laws intended to suppress turnout.",
+          "quote": "Support early voting and vote-by-mail (which Arizona already does well!)",
+          "sourceUrl": "https://www.nurselee4az.com/issues/protecting-democracy-voting-rights",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Mark Lamb",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Lamb's campaign says he supports lower taxes and a smaller federal government.",
+          "quote": "His campaign continues to focus on border security, constitutional rights, lower taxes, and reducing the size of government.",
+          "sourceUrl": "https://marklamb.us/post/mark-lamb-steve-gruber-show-real-americas-voice-arizona",
+          "agreement": "7/8"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Lamb warns that federal overspending and debt shift financial burdens to future generations and calls for fiscal responsibility.",
+          "quote": "continued federal overspending threatens future generations",
+          "sourceUrl": "https://marklamb.us/post/mark-lamb-chandler-republican-group-july-15-2026",
+          "agreement": "3/8"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Lamb supports federal tax credits or scholarships for private, home and online schooling.",
+          "quote": "Education money should follow the child. Parents know their kids better than any federal agency does and parental authority should not be usurped or abridged in any way.",
+          "sourceUrl": "https://www.azvoterguide.com/candidate/us-house/lamb-mark/",
+          "agreement": "5/8"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Lamb says he supports law enforcement and opposes defunding police.",
+          "quote": "support law enforcement",
+          "sourceUrl": "https://marklamb.us/",
+          "agreement": "5/8"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Lamb supports ICE, stronger immigration enforcement and action against criminal networks.",
+          "quote": "ICE has an important role in immigration enforcement and criminal investigations. I believe eliminating the agency would weaken our ability to enforce immigration law and confront the criminal networks that exploit our country.",
+          "sourceUrl": "https://marklamb.us/post/you-cannot-secure-a-country-you-refuse-to-police",
+          "agreement": "7/8"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Lamb describes himself as a strong supporter of gun rights and Arizona's Stand Your Ground laws.",
+          "quote": "Nobody is a stronger supporter of Arizona’s Stand Your Ground laws, the 2nd Amendment and our God-given Constitutional rights than me.",
+          "sourceUrl": "https://marklamb.us/post/lamb-calls-for-retraction-by-arizona-attorney-general",
+          "agreement": "6/8"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Lamb says life begins at conception and opposes taxpayer funding for abortion providers.",
+          "quote": "I am unapologetically a believer that life begins at conception. Not one taxpayer dollar should reach the abortion industry, directly or through any pass-through.",
+          "sourceUrl": "https://www.azvoterguide.com/candidate/us-house/lamb-mark/",
+          "agreement": "4/8"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Lamb supports federal legislation reserving women's sports for biological females.",
+          "quote": "I believe women's sports should be protected for biological females, and I will support federal legislation that permanently preserves fairness and opportunity for female athletes.",
+          "sourceUrl": "https://marklamb.us/post/mark-lamb-protect-womens-sports",
+          "agreement": "4/8"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Lamb advocates expanding domestic energy production and reducing regulations that raise energy costs.",
+          "quote": "He advocated for expanding domestic energy production and reducing regulations that increase costs for American families.",
+          "sourceUrl": "https://marklamb.us/post/mark-lamb-chandler-republican-group-july-15-2026",
+          "agreement": "5/8"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Lamb supports voter-identification requirements and other election-administration changes intended to increase confidence.",
+          "quote": "Election integrity remains one of his highest priorities. Lamb supports voter identification requirements and reforms designed to improve confidence in Arizona elections.",
+          "sourceUrl": "https://marklamb.us/post/mark-lamb-steve-gruber-show-real-americas-voice-arizona",
+          "agreement": "7/8"
+        }
+      }
+    }
+  ],
+  "sources": "nurselee4az.com · fox10phoenix.com · marklamb.us · azvoterguide.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

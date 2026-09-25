@@ -1,0 +1,166 @@
+{
+  "office": "U.S. Representative",
+  "district": "MT District 1",
+  "division": "mt/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "AARON FLINT",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Flint calls for cutting taxes and making recent tax breaks on tips, overtime, and Social Security permanent.",
+          "quote": "We need to cut taxes, reduce regulations, and unleash domestic production.",
+          "sourceUrl": "https://flintformontana.com/issues/",
+          "agreement": "4/4"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Flint proposes cutting regulations and permitting costs to make it easier and faster to build homes.",
+          "quote": "Next, cut the red tape around building homes. Regulations add cost and time to projects.",
+          "sourceUrl": "https://projects.montanafreepress.org/election-guide-2026/candidates/aaron-flint/",
+          "agreement": "4/4"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Flint calls for ending federal support for what he describes as an immigration amnesty.",
+          "quote": "Defund the Biden administration amnesty so U.S. citizens aren’t footing the bill for illegal aliens.",
+          "sourceUrl": "https://dailyinterlake.com/news/2026/may/09/montana-needs-a-proven-fighter/",
+          "agreement": "3/4"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Flint says girls’ sports and locker rooms should exclude biological males.",
+          "quote": "My daughter shouldn’t lose her spot on the court to a boy or be forced to share a locker room with a man.",
+          "sourceUrl": "https://flintformontana.com/press-release/new-flint-ad-forstag-lobbied-to-put-men-in-girls-sports-and-bathrooms-thats-not-right-safe-or-fair/",
+          "agreement": "3/4"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Flint calls for expanded American energy production to provide abundant and affordable power.",
+          "quote": "Unleash American energy for abundant and affordable energy to power our homes and businesses.",
+          "sourceUrl": "https://flintformontana.com/issues/",
+          "agreement": "3/4"
+        }
+      }
+    },
+    {
+      "name": "SAM FORSTAG",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Forstag proposes a 5% tax on billion-dollar fortunes to finance public services without increasing debt.",
+          "quote": "Enact a Billionaire Tax of 5% on fortunes over $1 billion. This will help alleviate the unprecedented concentration of wealth that we’re seeing in this country, incentivize reinvestment of capital, and generate the revenue we need to invest in public services without going further into debt.",
+          "sourceUrl": "https://samformontana.com/policies/",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports a federal minimum wage of at least $15 indexed to inflation and passage of the PRO Act to strengthen organizing rights.",
+          "quote": "Raise the federal minimum wage to at least $15 per hour and fix it permanently by tying it to the rate of inflation.",
+          "sourceUrl": "https://samformontana.com/policies/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Forstag supports expanding Social Security benefits and eliminating the payroll tax cap to preserve the program's solvency.",
+          "quote": "Eliminating the Social Security payroll tax cap would mean that the top 6% of earners pay their fair share of Social Security payroll taxes just like the other 94% of us. That alone would make Social Security solvent for the next 75 years. Expand Social Security benefits for seniors who need it most.",
+          "sourceUrl": "https://samformontana.com/policies/",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He calls for large federal investments to build affordable homes and incentives for zoning reform and dense infill development.",
+          "quote": "Deliver significant federal investment in affordable housing that’s equal in scale to the housing crisis we’re facing. That means large-scale, targeted investments to build more homes in the places we need them, and deliver rentals and houses that Montanans can afford, in the places we need them.",
+          "sourceUrl": "https://samformontana.com/policies/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He explicitly says public funding should remain in public schools.",
+          "quote": "Make sure public dollars stay in public schools. Period.",
+          "sourceUrl": "https://samformontana.com/policies/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Forstag calls for comprehensive immigration reform providing accessible pathways to legal status and citizenship.",
+          "quote": "Both parties have failed to reform our immigration system to the point that legal pathways to citizenship have become near-impossible to navigate. We need sweeping, comprehensive reform that provides an achievable pathway to legal status and citizenship.",
+          "sourceUrl": "https://samformontana.com/policies/",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports codifying Roe v. Wade and increasing support for reproductive-health providers.",
+          "quote": "Protect access to abortion and reproductive health by codifying Roe v. Wade, expanding funding for family planning providers, and reversing Ryan Zinke’s Medicaid cuts that prevent Medicaid from being used with certain reproductive healthcare providers.",
+          "sourceUrl": "https://samformontana.com/policies/",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "Forstag lobbied against a Montana law that restricted participation on school sports teams according to biological sex at birth.",
+          "quote": "Forstag and the ACLU took the opposite position during the 2021 debate, arguing that excluding transgender girls from female athletic teams was discriminatory and harmful to transgender students.",
+          "sourceUrl": "https://montananewsroom.com/forstag-lobbied-against-montana-womens-sports-law/",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "As an ACLU legislative manager, he signed a letter urging the governor to veto restrictions on ballot collection and protect voting access.",
+          "quote": "A veto of House Bill 530 would send a strong message that you are willing to protect the right to vote and to free speech for our rural, Indigenous communities, and that end-runs around the public’s right to participate in law-making are not acceptable.",
+          "sourceUrl": "https://www.aclumontana.org/app/uploads/2020/11/hb_530_veto_letter1.pdf",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "NICK SHEEDY",
+      "party": "Libertarian",
+      "stances": {
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Sheedy said Congress should have a limited role in local health care and should improve access by reducing regulations that restrict the supply of providers.",
+          "quote": "I believe that the best way for Congress to improve access to healthcare generally would be to lower the regulatory burden, which artificially restricts the supply of healthcare providers.",
+          "sourceUrl": "https://projects.montanafreepress.org/election-guide-2026/candidates/nick-sheedy/",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "flintformontana.com · projects.montanafreepress.org · dailyinterlake.com · samformontana.com · montananewsroom.com · aclumontana.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

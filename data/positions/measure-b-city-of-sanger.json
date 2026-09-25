@@ -1,0 +1,41 @@
+{
+  "office": "Measure B",
+  "district": "City of Sanger",
+  "division": "ca/place-sanger",
+  "kind": "measure",
+  "summary": "A Yes vote imposes a transient occupancy tax on stays at hotels and other short-term lodging in the City of Sanger.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would raise Sanger’s transient occupancy tax from 4% to 12%, with the revenue intended for current city services and future development.",
+          "quote": "I think that these funds are important not just for the city and for the current services that we (provide), but for future development",
+          "sourceUrl": "https://midvalleytimes.com/article/city-council/2026/07/22/sanger-aims-to-modernize-local-operations/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "The No position opposes Measure B, which would raise Sanger’s hotel tax from 4% to 12%.",
+          "quote": "To match rates in cities like Fresno, Clovis, Kingsburg and Selma, staff has suggested raising the TOT to 12%.",
+          "sourceUrl": "https://midvalleytimes.com/article/city-council/2026/07/22/sanger-aims-to-modernize-local-operations/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "midvalleytimes.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

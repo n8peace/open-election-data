@@ -1,0 +1,41 @@
+{
+  "office": "Measure C",
+  "district": "City of Point Arena",
+  "division": "ca/place-point-arena",
+  "kind": "measure",
+  "summary": "A Yes vote increases the City of Point Arena's transient occupancy (lodging) tax from 12% to 14%, effective April 1, 2027, with no end date unless repealed.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote raises the city’s lodging tax from 12% to 14% starting April 1, 2027, generating more general-fund revenue.",
+          "quote": "Raises the city&#8217;s tax on hotel, inn and vacation rental stays from 12% to 14%, starting April 1, 2027.",
+          "sourceUrl": "https://mendovoice.com/2026/09/5-local-measures-on-mendocino-county-ballots-nov-3-what-each-one-does-and-costs/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote keeps the city’s lodging tax at 12%.",
+          "quote": "Raises the city&#8217;s tax on hotel, inn and vacation rental stays from 12% to 14%, starting April 1, 2027.",
+          "sourceUrl": "https://mendovoice.com/2026/09/5-local-measures-on-mendocino-county-ballots-nov-3-what-each-one-does-and-costs/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "mendovoice.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

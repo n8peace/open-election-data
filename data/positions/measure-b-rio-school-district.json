@@ -1,0 +1,58 @@
+{
+  "office": "Measure B",
+  "district": "Rio School District",
+  "division": "ca/school-rio",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Rio School District to issue $78 million in general obligation bonds, repaid by district property owners, to fund construction, repairs, and safety projects at district schools.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A Yes vote would approve Measure B, but the provided text does not state whether it would affect taxes or services.",
+          "quote": "Attached is information regarding Measure B that will be on the November 3rd ballot.",
+          "sourceUrl": "https://www.rioschools.org/latest-news",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A Yes vote would approve Measure B, but the provided text does not state whether it would affect school choice or district public schools.",
+          "quote": "Attached is information regarding Measure B that will be on the November 3rd ballot.",
+          "sourceUrl": "https://www.rioschools.org/latest-news",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A No vote would reject Measure B, but the provided text does not state what tax or service policy would remain.",
+          "quote": "Attached is information regarding Measure B that will be on the November 3rd ballot.",
+          "sourceUrl": "https://www.rioschools.org/latest-news",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A No vote would reject Measure B, but the provided text does not state what school policy would remain.",
+          "quote": "Attached is information regarding Measure B that will be on the November 3rd ballot.",
+          "sourceUrl": "https://www.rioschools.org/latest-news",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "rioschools.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

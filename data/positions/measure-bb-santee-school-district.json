@@ -1,0 +1,58 @@
+{
+  "office": "Measure BB",
+  "district": "Santee School District",
+  "division": "ca/school-santee",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Santee School District to issue $30,000,000 in general obligation bonds to repair and upgrade school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A yes vote supports authorizing the issuance of $30 million in bonds for the school district.",
+          "quote": "Measure BB, a $30 million bond proposal",
+          "sourceUrl": "https://www.sandiegouniontribune.com/2026/08/23/a-new-day-for-taxpayer-association-ballot-endorsements/",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote would approve a $30 million bond proposal for the Santee School District.",
+          "quote": "The email concluded that the association has signed the ballot argument for the district&#8217;s Measure BB, a $30 million bond proposal, &#8220;with no conditions.&#8221;",
+          "sourceUrl": "https://www.sandiegouniontribune.com/2026/08/23/a-new-day-for-taxpayer-association-ballot-endorsements/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A no vote opposes authorizing the issuance of $30 million in bonds for the school district.",
+          "quote": "Measure BB, a $30 million bond proposal",
+          "sourceUrl": "https://www.sandiegouniontribune.com/2026/08/23/a-new-day-for-taxpayer-association-ballot-endorsements/",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote would reject the $30 million bond proposal for the Santee School District.",
+          "quote": "The email concluded that the association has signed the ballot argument for the district&#8217;s Measure BB, a $30 million bond proposal, &#8220;with no conditions.&#8221;",
+          "sourceUrl": "https://www.sandiegouniontribune.com/2026/08/23/a-new-day-for-taxpayer-association-ballot-endorsements/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "sandiegouniontribune.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

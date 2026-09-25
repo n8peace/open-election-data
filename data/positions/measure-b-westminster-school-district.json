@@ -1,0 +1,58 @@
+{
+  "office": "Measure B",
+  "district": "Westminster School District",
+  "division": "ca/school-westminster",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Westminster School District to issue general obligation bonds, repaid by local property taxes, to fund classroom repairs and school safety, security, and facility improvements.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote authorizes bonds and the associated property-tax levy to fund school facility improvements.",
+          "quote": "levying $30 per $100,000 assessed value ($8,000,000 annually) while bonds are outstanding",
+          "sourceUrl": "https://www.wsdk8.us/departments/business-services/facilities-planning-mot/measure-b",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "A Yes vote provides funding for repairs, technology, safety improvements, and equipment at Westminster School District schools.",
+          "quote": "Measure B provides the funding to begin addressing the identified Westminster School District facilities and technology needs.",
+          "sourceUrl": "https://www.wsdk8.us/departments/business-services/facilities-planning-mot/measure-b",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote rejects the bond plan and does not authorize its associated property-tax levy.",
+          "quote": "levying $30 per $100,000 assessed value ($8,000,000 annually) while bonds are outstanding",
+          "sourceUrl": "https://www.wsdk8.us/departments/business-services/facilities-planning-mot/measure-b",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "A No vote rejects funding for the proposed improvements at Westminster School District schools.",
+          "quote": "Measure B provides the funding to begin addressing the identified Westminster School District facilities and technology needs.",
+          "sourceUrl": "https://www.wsdk8.us/departments/business-services/facilities-planning-mot/measure-b",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "wsdk8.us",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

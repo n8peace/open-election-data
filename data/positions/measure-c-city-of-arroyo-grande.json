@@ -1,0 +1,41 @@
+{
+  "office": "Measure C",
+  "district": "City of Arroyo Grande",
+  "division": "ca/place-arroyo-grande",
+  "kind": "measure",
+  "summary": "A Yes vote imposes a tax of up to 10% on the gross receipts of cannabis businesses operating in the city.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote enacts a tax of up to 10% on cannabis businesses operating in the city, potentially generating revenue for City services.",
+          "quote": "The measure would establish a tax of up to 10% of gross receipts on cannabis businesses operating in the City.",
+          "sourceUrl": "https://www.arroyogrande.org/913/Measure-C-26---Cannabis-Tax",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not enact the proposed cannabis business tax or generate this additional revenue for City services.",
+          "quote": "The measure would establish a tax of up to 10% of gross receipts on cannabis businesses operating in the City.",
+          "sourceUrl": "https://www.arroyogrande.org/913/Measure-C-26---Cannabis-Tax",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "arroyogrande.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

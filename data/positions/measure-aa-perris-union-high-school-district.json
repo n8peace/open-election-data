@@ -1,0 +1,50 @@
+{
+  "office": "Measure AA",
+  "district": "Perris Union High School District",
+  "division": "ca/school-perris-union-high",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes Perris Union High School District to issue $187 million in bonds for school facilities, repaid by a property tax estimated at $20 per $100,000 of assessed value.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "The campaign supports extending the existing property-tax rate to finance school improvements.",
+          "quote": "Measure AA would simply extend the current rate previously approved by voters at $20 per $100,000 of a property’s assessed (not market) value annually for so long as bonds are outstanding.",
+          "sourceUrl": "https://www.yesonmeasureaa.org/faq",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "The campaign supports locally controlled funding for facilities and instruction throughout Perris Union High School District.",
+          "quote": "Funds would be locally controlled and would benefit all local PUHSD schools.",
+          "sourceUrl": "https://www.yesonmeasureaa.org/faq",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "The No position rejects $187 million in bonds backed by a $20 levy per $100,000 of assessed value while the bonds remain outstanding.",
+          "quote": "authorizing $187,000,000 in bonds at legal rates, levying $20 per $100,000 assessed value (averaging $12 million annually) while bonds are outstanding",
+          "sourceUrl": "https://voteinfo.net/sites/g/files/aldnop371/files/2026-08/Measure%20AA-Perris%20Union%20High%20School%20District%20eng.pdf",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "yesonmeasureaa.org · voteinfo.net",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

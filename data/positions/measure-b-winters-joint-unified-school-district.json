@@ -1,0 +1,33 @@
+{
+  "office": "Measure B",
+  "district": "Winters Joint Unified School District",
+  "division": "ca/school-winters-joint-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Winters Joint Unified School District to issue up to $29.9 million in bonds to repair, modernize, and replace school facilities and systems.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote authorizes $29.9 million in school bonds and the property taxes needed to repay them.",
+          "quote": "A \"YES\" vote is a vote to authorize the District to issue up to $29,900,000 in general obligation bonds and to levy the property tax necessary to repay them.",
+          "sourceUrl": "https://elections.yolocounty.gov/415/Measure-B---Winters-Joint-Unified-School",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "elections.yolocounty.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,41 @@
+{
+  "office": "Measure B",
+  "district": "San Diego County",
+  "division": "ca/county-san-diego",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a half-cent countywide sales tax to fund Tijuana River sewage cleanup, wildfire prevention, emergency response, healthcare, food assistance, and childhood development services, with citizen oversight and independent audits.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would approve a new countywide half-cent sales tax to fund specified services.",
+          "quote": "A citizen’s initiative, Measure B asks voters to consider a countywide half-cent sales tax that would create a new local funding source for healthcare, childcare, nutrition and food security, Tijuana River environmental mitigation and public safety.",
+          "sourceUrl": "https://www.sdfoundation.org/news-events/sdf-news/san-diego-foundation-and-community-partners-launch-nonpartisan-voter-education-program-on-measure-b/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would reject the new sales tax and its proposed funding for those services.",
+          "quote": "A citizen’s initiative, Measure B asks voters to consider a countywide half-cent sales tax that would create a new local funding source for healthcare, childcare, nutrition and food security, Tijuana River environmental mitigation and public safety.",
+          "sourceUrl": "https://www.sdfoundation.org/news-events/sdf-news/san-diego-foundation-and-community-partners-launch-nonpartisan-voter-education-program-on-measure-b/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "sdfoundation.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

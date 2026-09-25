@@ -1,0 +1,78 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 67",
+  "division": "ca/sldl-67",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Mark Pulido",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "His campaign credits him with building housing while serving as an elected official.",
+          "quote": "As an elected official, Mark modernized schools, got funding for local education, increased the safety of our neighborhoods, built critical infrastructure and housing, and worked to create good, lasting jobs in our community.",
+          "sourceUrl": "https://www.markpulido.com/",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "His campaign says he modernized local schools and secured education funding as an elected official.",
+          "quote": "As an elected official, Mark modernized schools, got funding for local education, increased the safety of our neighborhoods, built critical infrastructure and housing, and worked to create good, lasting jobs in our community.",
+          "sourceUrl": "https://www.markpulido.com/",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "Pulido answered yes when asked whether some homelessness and mental-health responses should shift from law enforcement to trained social-service providers.",
+          "quote": "Will you support policies that shift public safety responses to trained social service providers for homelessness and mental health incidents?",
+          "sourceUrl": "https://aclucalaction.org/district/assembly-district-67/",
+          "agreement": "4/5"
+        },
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "strong",
+          "text": "Pulido supported greater investment in community programs while rejecting longer sentences and increased penalties.",
+          "quote": "Will you publicly advocate for greater investment in community-based programs and services and reject legislation that lengthens sentences and increases penalties?",
+          "sourceUrl": "https://aclucalaction.org/district/assembly-district-67/",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Pulido opposed improperly conducted ICE raids and supported rejecting expanded immigration detention while demanding oversight of existing facilities.",
+          "quote": "Will you denounce the expansion of immigration detention in California and demand oversight and accountability for the existing facilities?",
+          "sourceUrl": "https://aclucalaction.org/district/assembly-district-67/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Paulo Morales",
+      "party": "Republican",
+      "stances": {}
+    }
+  ],
+  "sources": "markpulido.com · aclucalaction.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

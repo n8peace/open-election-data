@@ -1,0 +1,87 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 66",
+  "division": "ca/sldl-66",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Sara Deen",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Deen supports streamlining permitting and reducing red tape to make building in local communities easier and less expensive.",
+          "quote": "Let’s tackle rising costs by ensuring accountability in the utility and insurance industries while streamlining permitting and reducing unnecessary red tape to make it easier and more affordable to start a business or build in our communities, while maintaining strong environmental and safety protections.",
+          "sourceUrl": "https://www.saradeenforca.com/why-im-running/",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Deen says her school-board work has focused on strengthening neighborhood public schools and retaining teachers.",
+          "quote": "As school board president, I’ve worked to strengthen neighborhood public schools, ensure safe learning environments, retain great teachers, and expand affordable pathways to college and future-ready careers.",
+          "sourceUrl": "https://www.saradeenforca.com/why-im-running/",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Deen stated she is agnostic regarding single-payer healthcare versus existing insurance models and favors compromise measures.",
+          "quote": "Sometimes you have to move on a compromise measure to do something good for the community. So today, where I sit, I’m agnostic to what we do moving forward.",
+          "sourceUrl": "https://www.dailybreeze.com/2026/09/10/south-bay-state-senate-assembly-candidates-address-concerns-of-local-businesses/",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Paul Seo",
+      "party": "Democratic",
+      "stances": {
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Seo supports increasing funding for police, deputy sheriffs, Highway Patrol officers, and prosecutors.",
+          "quote": "That's why in the State Assembly, Paul will partner with law enforcement and work to increase funding for more police, deputy sheriffs, prosecutors, peace officers and Highway Patrol officers.",
+          "sourceUrl": "https://www.paulseo.com/priorities",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Seo supports protecting access to legal abortion and says he supported California's constitutional abortion-rights measure.",
+          "quote": "Paul also believes that California must protect access to safe, legal abortion for all.",
+          "sourceUrl": "https://www.paulseo.com/priorities",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Seo supports universal health care and expanding Medicaid coverage for Californians who need it.",
+          "quote": "With Donald Trump gutting Medicaid funding for our most vulnerable, Paul will work in the State Assembly to help expand coverage for those who need it.",
+          "sourceUrl": "https://www.paulseo.com/priorities",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "saradeenforca.com · dailybreeze.com · paulseo.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}
