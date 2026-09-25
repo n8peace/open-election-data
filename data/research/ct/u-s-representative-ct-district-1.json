@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "CT District 1",
+  "division": "ct/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Luke Bronin",
+      "party": "Democratic Party"
+    },
+    {
+      "name": "Amy Chai",
+      "party": "Republican Party"
+    },
+    {
+      "name": "Mary L. Sanders",
+      "party": "Green Party"
+    }
+  ]
+}

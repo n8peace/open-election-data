@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "CT District 4",
+  "division": "ct/cd-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Michael Ted Goldstein",
+      "party": "Republican Party"
+    },
+    {
+      "name": "Jim Himes",
+      "party": "Democratic Party"
+    },
+    {
+      "name": "Benjamin Wesley",
+      "party": "Independent Party"
+    }
+  ]
+}

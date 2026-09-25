@@ -1,0 +1,191 @@
+{
+  "office": "State Senate",
+  "district": "CA District 24",
+  "division": "ca/sldu-24",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "John M. Erickson",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports allowing local congestion pricing to fund infrastructure while also offering competitive tax incentives to industries.",
+          "quote": "He believes we can address the perennial budget shortfall by addressing the growing gas tax funding shortages, which burden local cities who rely on those dollars to address local infrastructure issues, and allow for local counties and cities to create congestion pricing guidelines to directly fund needed infrastructure developments. He believes the state must look at job creation as well as job retention. This includes: introducing more competitive tax incentives; cutting red tape and streamlining, industry-specific permitting processes; investing more in future-facing infrastructure and industries, including education and workforce development.",
+          "sourceUrl": "https://www.johnerickson4senate.com/",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Erickson cited raising West Hollywood's minimum wage as part of his City Council record.",
+          "quote": "As a council member and former mayor, I created successful housing and homelessness programs, raised the minimum wage and generated a $31 million budget surplus that was reinvested into our community",
+          "sourceUrl": "https://beverlypress.com/2026/04/wehos-john-erickson-outlines-his-vision-for-the-24th-district/",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He supports incentives and statewide housing bonuses to accelerate approval of new housing projects.",
+          "quote": "He will support cities that utilize statewide housing bonuses and incentivize approval for new housing projects, such as community land trusts and projects that provide housing and comprehensive services for the homeless; fund statewide programs to LGBTQ+ organizations working towards building affordable housing, and work on intervention programming to stop the homelessness pipeline.",
+          "sourceUrl": "https://www.johnerickson4senate.com/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He cites his investments in public schools and promises additional state funding for public education.",
+          "quote": "John’s commitment to funding public education is evidenced by his leadership on the City Council, where he initiated historic investments in public schools and revamped the Grants in Schools program to fund critical arts, music, and library services.",
+          "sourceUrl": "https://www.johnerickson4senate.com/",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports a combination of community-based prevention, modern enforcement tools and collaboration with first responders.",
+          "quote": "Additionally, he will help small businesses get the resources they need to prevent theft and vandalism, but it also means investing in community-based approaches and modern tools that work in partnership with local cities, neighborhoods, and first responders.",
+          "sourceUrl": "https://www.johnerickson4senate.com/",
+          "agreement": "7/10"
+        },
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "strong",
+          "text": "He answered yes when asked whether he would invest in community programs and reject longer sentences and increased penalties.",
+          "quote": "Will you publicly advocate for greater investment in community-based programs and services and reject legislation that lengthens sentences and increases penalties?",
+          "sourceUrl": "https://aclucalaction.org/district/senate-district-24/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He calls for California to protect immigrant communities from ICE and serve as a safe haven.",
+          "quote": "John believes California must set an example for the rest of the country and say ICE OUT and make our state a safe haven for everyone—regardless of their religion, color of their skin, or who they chose to love.",
+          "sourceUrl": "https://www.johnerickson4senate.com/about-john",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He explicitly calls for greater investment in gun control.",
+          "quote": "For John, this means investing more in gun control and 21st-century crime prevention tools for first responders that can stop crimes in the first place and better protect people in their homes, neighborhoods, schools, places of worship, and workplaces.",
+          "sourceUrl": "https://www.johnerickson4senate.com/",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He worked through Planned Parenthood Los Angeles to protect reproductive freedom and make California a sanctuary for abortion access.",
+          "quote": "During his tenure at Planned Parenthood Los Angeles, John was instrumental in protecting access to healthcare and reproductive freedom for all. After the Dobbs decision, John was instrumental in helping California become a sanctuary state for reproductive freedom.",
+          "sourceUrl": "https://www.johnerickson4senate.com/about-john",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports protecting Medi-Cal and adopting a Medicare-for-All single-payer system.",
+          "quote": "He knows that protecting Medi-Cal access is one more factor that will help prevent future pandemics and homelessness, and supports a Medicare-for-All/Single Payer model of healthcare.",
+          "sourceUrl": "https://www.johnerickson4senate.com/",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He promises bold state action centered on clean energy, sustainable land use and environmental justice.",
+          "quote": "He will confront climate change—and the Trump administration’s rollbacks and attacks on California’s critical climate policies—with bold action that to ensure California leads with clean energy, sustainable land use, and wildfire recovery plans that center environmental justice and protect our most vulnerable.",
+          "sourceUrl": "https://www.johnerickson4senate.com/",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Brian Goldsmith",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Goldsmith proposes faster permitting, streamlined regulations, public land for housing, and expanded modular and manufactured construction.",
+          "quote": "Speed up permitting and streamline regulations so that building can start soon after financing is secured rather than languishing for years. It shouldn’t cost twice as much per square foot to build multifamily in California as it does in Texas.",
+          "sourceUrl": "https://www.briangoldsmith.com/issues",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Goldsmith supports increasing funding for both law enforcement and prevention-oriented mental-health and addiction services.",
+          "quote": "I believe we need to increase funding for state and local law enforcement while expanding effective mental health and addiction services that reduce repeat offenses.",
+          "sourceUrl": "https://us.headtopics.com/news/brian-goldsmith-sd-24-candidate-2026-primary-election-83032907",
+          "agreement": "3/3"
+        },
+        "sentencing": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Goldsmith supports rehabilitation for nonviolent offenders while holding repeat professional offenders accountable.",
+          "quote": "to get folks the mental health and drug treatment they need, to put nonviolent offenders on a path to rehabilitation, and to hold repeat professional criminals accountable.",
+          "sourceUrl": "https://www.briangoldsmith.com/issues",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Goldsmith calls for state and local laws protecting residents from federal immigration enforcement agencies such as ICE.",
+          "quote": "State and local governments should work together to write laws that protect our people from out of control enforcement agencies like ICE while, at the same time, working to deter crime and make people feel secure in their communities.",
+          "sourceUrl": "https://www.briangoldsmith.com/issues",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Goldsmith supports expanded background checks, red-flag laws, safe-storage measures, and restrictions on firearm access by domestic abusers.",
+          "quote": "To do this, we should expand background checks, red flag laws, programs that prevent domestic violence offenders from being able to purchase weapons; and we should incentivize safe storage programs and protocols.",
+          "sourceUrl": "https://www.briangoldsmith.com/issues",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Goldsmith supports legal protections for health-care providers who offer abortion care.",
+          "quote": "I support policies that provide legal protections for health care providers who offer abortion and gender-affirming care, safeguarding them from criminal penalties and threats to their safety.",
+          "sourceUrl": "https://us.headtopics.com/news/brian-goldsmith-sd-24-candidate-2026-primary-election-83032907",
+          "agreement": "2/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Goldsmith supports universal health care through a public option while allowing people to retain private insurance.",
+          "quote": "Continue to work toward universal health care, with a public option–CalCare for All Who Want It.",
+          "sourceUrl": "https://www.briangoldsmith.com/issues",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Goldsmith supports transitioning away from fossil fuels and expanding renewable energy and electric-vehicle adoption.",
+          "quote": "I believe fossil fuels should play an ever-smaller and diminishing role in our economy. Renewable energy is both cleaner and cheaper, and we should do everything politically and economically possible to transition away from fossil fuels.",
+          "sourceUrl": "https://us.headtopics.com/news/brian-goldsmith-sd-24-candidate-2026-primary-election-83032907",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "johnerickson4senate.com · beverlypress.com · aclucalaction.org · briangoldsmith.com · us.headtopics.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

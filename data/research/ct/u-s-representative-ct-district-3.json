@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "CT District 3",
+  "division": "ct/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Rosa L. DeLauro",
+      "party": "Democratic Party"
+    },
+    {
+      "name": "Thomas Egan",
+      "party": "Independent Party"
+    },
+    {
+      "name": "Christopher Lancia",
+      "party": "Republican Party"
+    }
+  ]
+}

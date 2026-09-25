@@ -1,0 +1,224 @@
+{
+  "office": "U.S. Representative",
+  "district": "CO District 8",
+  "division": "co/cd-8",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Gabe Evans",
+      "party": "Republican Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He voted for the One Big Beautiful Bill, which his office said avoided a large tax increase and cut taxes on tips and overtime.",
+          "quote": "Protects Coloradans from the largest tax increase in American history.",
+          "sourceUrl": "https://gabeevans.house.gov/media/press-releases/congressman-evans-votes-one-big-beautiful-bill-delivering-wins-co-08",
+          "agreement": "7/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "Evans defended reciprocal tariffs as a way to protect American producers and create Colorado jobs.",
+          "quote": "Reciprocal tariffs ensure free and fair trade for American producers, including energy producers",
+          "sourceUrl": "https://coloradotimesrecorder.com/2025/05/evans-claims-tariffs-would-benefit-local-industries-economists-disagree/69587/",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says Social Security benefits seniors earned should be preserved and supports making them tax-free.",
+          "quote": "We must protect Social Security and I support efforts to make Social Security tax-free.",
+          "sourceUrl": "https://gabeevans.house.gov/issues",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He says government should reduce regulations that inhibit affordable housing construction.",
+          "quote": "I am working to make homeownership an attainable dream for every Coloradan by reducing regulations that inhibit affordable housing.",
+          "sourceUrl": "https://gabeevans.house.gov/issues/economy-0",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He calls school choice a civil-rights issue and says children should not be trapped in underperforming schools because of their ZIP code.",
+          "quote": "School choice is one of the most important civil rights issues of our day.",
+          "sourceUrl": "https://gabeevans.house.gov/issues/education-and-parental-rights",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He advanced public-safety bills intended to strengthen law-enforcement coordination, intelligence-sharing and security resources.",
+          "quote": "As a former cop, I know that keeping our communities safe requires strong partnerships, timely intelligence-sharing, and making sure law enforcement has the tools they need to do their jobs.",
+          "sourceUrl": "https://gabeevans.house.gov/media/press-releases/congressman-gabe-evans-advances-three-homeland-security-and-public-safety",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He co-introduced legislation combining tougher border enforcement and E-Verify with earned legal status, Dreamer protections and new visa options.",
+          "quote": "The Dignity Act provides a practical, compassionate solution to the immigration crisis by securing the border, upholding the law, strengthening the workforce, and ensuring immigrants who have been in America long-term and are following the rules can earn legal status through accountability and contribution.",
+          "sourceUrl": "https://gabeevans.house.gov/media/press-releases/congressman-gabe-evans-introduces-immigration-reform-legislation",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He said further gun-control laws would not make schools safer and called for more school resource officers and physical security.",
+          "quote": "And so I know that continuing to pass gun control isn't going to actually make our schools safer.",
+          "sourceUrl": "https://www.cpr.org/2024/10/03/colorado-district-8-republican-candidate-gabe-evans-interview/",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "Evans identifies as pro-life and supports state-level abortion restrictions with exceptions, while opposing a national abortion ban.",
+          "quote": "I am pro-life. I believe the Supreme Court was very clear when it made its decision a couple of years ago. They said this is an issue for the states to decide. So in Congress, I would not support a national abortion ban. I think it’s important to have exceptions.",
+          "sourceUrl": "https://elcomerciodecolorado.com/gabe-evans-i-am-here-to-fight-for-our-families/",
+          "agreement": "4/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Evans voted for the Protection of Women and Girls in Sports Act, which applies sex-based eligibility rules to federally funded school athletics.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He supports free-market competition, portability and price transparency in health insurance.",
+          "quote": "This is also why I support free market policies, which will allow good competition and bring down costs.",
+          "sourceUrl": "https://gabeevans.house.gov/issues/healthcare",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supports increased domestic energy production, including drilling and the Keystone XL Pipeline, to lower costs and increase energy independence.",
+          "quote": "I support increasing domestic production of energy resources to ensure our energy independence and end our reliance on foreign countries.",
+          "sourceUrl": "https://gabeevans.house.gov/issues/energy",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supports voter-identification requirements and tighter checks intended to keep noncitizens off voter rolls.",
+          "quote": "Improvements can and should be made. For example, I support voter ID laws. And it is far too easy for non-citizens to end up on our voter rolls.",
+          "sourceUrl": "https://www.cpr.org/2024/10/14/vg-2024-8th-congressional-district-gabe-evans/",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Manny Rutinel",
+      "party": "Democratic Party",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He says money used for billionaire tax breaks should instead fund public-safety and community services.",
+          "quote": "The tax breaks for billionaires included in D.C. Republicans’ budget bill could have been spent on things Colorado communities actually need to stay safe.",
+          "sourceUrl": "https://static1.squarespace.com/static/648db2d70ac2fb3561c43086/t/6ab546bf1a170f6539a7b6b4/1790265023887/Manny%2BRutinel%2BPublic%2BSafety%2BPlan%2BSeptember%2B2026.pdf",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports raising the federal minimum wage and collective action by unions.",
+          "quote": "A strong middle class is essential for a healthy economy, and I’ll work to create good-paying jobs, raise the federal minimum wage, and ensure that all Americans have the opportunity to succeed.",
+          "sourceUrl": "https://www.mannyforcolorado.com/issues",
+          "agreement": "4/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He opposes tariffs because he says they increase grocery and housing costs.",
+          "quote": "Trump’s tariffs drive up the cost of everyday goods like groceries and housing.",
+          "sourceUrl": "https://www.mannyforcolorado.com/issues",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He pledges to oppose Social Security or Medicare cuts and any increase in the retirement age.",
+          "quote": "If anyone tries to cut Social Security or Medicare or raise the retirement age, I’ll stop them.",
+          "sourceUrl": "https://www.mannyforcolorado.com/issues",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He supports federal incentives for zoning changes that permit more affordable housing near transit.",
+          "quote": "Rutinel said Congress should provide incentives for municipalities that agree to change zoning to allow for more affordable housing units to be built near transit stations.",
+          "sourceUrl": "https://www.cpr.org/2026/05/29/manny-rutinel-shannon-bird-8th-district-debate/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports citizenship pathways for DREAMers and long-term immigrants while prioritizing enforcement against violent offenders.",
+          "quote": "And we should provide a pathway to citizenship for the immigrants who have been here the longest and groups like DREAMers, while making sure we protect undocumented workers from exploitation.",
+          "sourceUrl": "https://www.mannyforcolorado.com/issues",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He cosponsored enacted legislation restricting semiautomatic weapons and rapid-fire devices.",
+          "quote": "SB25-003, to restrict semiautomatic weapons and rapid-fire devices in Colorado.",
+          "sourceUrl": "https://www.mannyforcolorado.com/issues",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He says abortion decisions should be left to individuals rather than politicians.",
+          "quote": "When it comes to abortion, the government needs to respect Americans’ freedom to make our own decisions about our own families without interference from politicians or anyone else.",
+          "sourceUrl": "https://www.mannyforcolorado.com/issues",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "He supports a public insurance option and expanding Medicare coverage to vision and dental care.",
+          "quote": "Rutinel also supports a public health insurance option and agreed that Medicare needs more negotiating power. He added that Medicare plans should be expanded to include vision and dental coverage.",
+          "sourceUrl": "https://berthoudsurveyor.com/bird-and-rutinel-debate-for-democrat-nomination/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He praises Colorado's mail-ballot system and wants its approach shared with other jurisdictions.",
+          "quote": "He praised Colorado's mail-in voting system, saying it has increased voter participation.",
+          "sourceUrl": "https://www.cpr.org/2026/05/29/vg-2026-primary-election-8th-congressional-district-manny-rutinel/",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "gabeevans.house.gov · coloradotimesrecorder.com · cpr.org · elcomerciodecolorado.com · clerk.house.gov · static1.squarespace.com · mannyforcolorado.com · berthoudsurveyor.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

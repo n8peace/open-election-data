@@ -1,0 +1,223 @@
+{
+  "office": "State Senate",
+  "district": "CA District 22",
+  "division": "ca/sldu-22",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Susan Rubio",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Rubio introduced SB 805, which created funding intended to ensure workers at small nonprofit performing-arts organizations receive at least minimum wage.",
+          "quote": "In turn, the legislation would create a fund to pay them at least minimum wage",
+          "sourceUrl": "https://sd22.senate.ca.gov/news/kcrw-actor-danny-glover-sb-805-senator-susan-rubio-save-performing-arts",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Rubio joint-authored SB 6 to streamline housing production in commercially zoned areas and has pursued funding for affordable housing construction.",
+          "quote": "SB 6 is known as the Middle Class Housing Act of 2022 and is joint authored by Senator Rubio.",
+          "sourceUrl": "https://www.susanrubio.com/accomplishments/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Rubio voted for a state budget that increased funding for special education, community schools and teacher-development programs.",
+          "quote": "This budget protects Proposition 98 funding and makes significant investments in education, including $2.4 billion for special education, $1 billion for community schools, expanded support for students experiencing homelessness, and $500 million for teacher pipeline programs.",
+          "sourceUrl": "https://sd22.senate.ca.gov/news/senator-susan-rubio-statement-legislatures-2026-27-state-budget",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Rubio secured state-budget funding for community policing and police-department infrastructure in her district.",
+          "quote": "Projects include the establishment of a College of Health and Community Well-Being, creation of a center for small business innovation and entrepreneurship, strengthening of community policing, increased support for homelessness outreach, and safety enhancements for police departments in the region.",
+          "sourceUrl": "https://sd22.senate.ca.gov/news/groundbreaking-achievement-senator-susan-rubio-secures-over-12-million-transformative",
+          "agreement": "4/10"
+        },
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "lean",
+          "text": "Rubio introduced SB 672 to allow certain people sentenced to life without parole for crimes committed at age 25 or younger to receive parole consideration after 25 years.",
+          "quote": "for which they were sentenced to life without the possibility of parole eligible for parole after their 25th year of incarceration, except as specified.",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB672",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Rubio authored SB 841 to require a judicial warrant for immigration enforcement in nonpublic areas of shelters and crisis centers.",
+          "quote": "if enforcement needs to enter the private areas of a shelter, they should do what’s already required anywhere else - bring a warrant.",
+          "sourceUrl": "https://sd22.senate.ca.gov/senate-bill-841-frequently-asked-questions",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Rubio voted for SB 2, which tightened concealed-carry licensing requirements and restricted carrying firearms in specified locations.",
+          "quote": "Glazer, Gonzalez, Laird, Limón, McGuire, Menjivar, Min, Newman, Padilla, Portantino, Rubio, Skinner, Smallwood-Cuevas, Stern, Umberg, Wahab, Wiener",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240SB2",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Rubio coauthored SCA 10, the constitutional amendment protecting abortion and contraception rights in California.",
+          "quote": "SCA 10 (Coauthor) Reproductive Freedom. A constitutional amendment to explicitly provide for the fundamental constitutional right to abortion and contraception.",
+          "sourceUrl": "https://www.susanrubio.com/accomplishments/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Rubio coauthored AB 1955, which protects pupils from school policies requiring disclosure of their gender identity without consent.",
+          "quote": "This bill would prohibit school districts, county offices of education, charter schools, and the state special schools, and a member of the governing board or body of those educational entities, from enacting or enforcing any policy, rule, or administrative regulation that requires an employee or a contractor to disclose any information related to a pupil’s sexual orientation, gender identity, or gender expression to any other person without the pupil’s consent unless otherwise required by law, as provided.",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240AB1955",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Rubio voted for SB 770, which directed California to develop a framework for unified health-care financing with comprehensive benefits and no cost sharing for essential services.",
+          "quote": "Menjivar, Min, Newman, Padilla, Portantino, Roth, Rubio, Skinner, Smallwood-Cuevas, Stern, Umberg, Wahab, Wiener",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240SB770",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Rubio's campaign says she supported legislation advancing building and industrial decarbonization, offshore wind, solar, and energy storage.",
+          "quote": "supported bills focused on building decarbonization, industrial decarbonization, strategic energy reliability resources, off-shore wind infrastructure, equitable access to solar and storage systems",
+          "sourceUrl": "https://www.susanrubio.com/accomplishments/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Rubio voted for AB 37, which permanently mailed ballots to every active registered voter and expanded ballot drop-off access.",
+          "quote": "Limón, McGuire, Min, Newman, Pan, Portantino, Roth, Rubio, Skinner, Umberg, Wieckowski, Wiener",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220AB37",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Mike Netter",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Netter called for broad tax and fee reductions alongside lower government spending.",
+          "quote": "Less taxation, across the board, puts more money in people’s pockets. Fees, income taxes, and other of the many miscellaneous taxes we pay every day need to be reduced. Government needs to spend less and tax less.",
+          "sourceUrl": "https://us.headtopics.com/news/mike-netter-sd-22-candidate-2026-primary-election-83031129",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Netter proposed incentives for small builders and a streamlined 12-to-18-month approval and construction process on underused property.",
+          "quote": "Incentives need to be offered to the small builders to build on underutilized property. These properties need to have a streamlined system from design to building completion of 12-18 months.",
+          "sourceUrl": "https://us.headtopics.com/news/mike-netter-sd-22-candidate-2026-primary-election-83031129",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Netter marked support for using tax credits, vouchers, or education savings accounts for private and religious schools.",
+          "quote": "School Choice: Allowing the use of tax credits, vouchers, and/or education savings accounts to cover the cost of children attending the school of their parents’ choice, including private religious schools.",
+          "sourceUrl": "https://freedomvoterguide.com/candidates/mike-netter/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Netter proposed increasing annual police funding by approximately $1 billion to $3 billion and modernizing public-safety infrastructure.",
+          "quote": "We need to increase funding for our cops by roughly $1-3 billion a year and help modernize infrastructure.",
+          "sourceUrl": "https://us.headtopics.com/news/mike-netter-sd-22-candidate-2026-primary-election-83031129",
+          "agreement": "5/5"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "Netter said California has gone too far in reducing criminal sentences and penalties and called for repealing expanded early-parole eligibility.",
+          "quote": "The California Legislature has gone too far in sentence and penalty reform for convicted criminals.",
+          "sourceUrl": "https://us.headtopics.com/news/mike-netter-sd-22-candidate-2026-primary-election-83031129",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Netter said state and local authorities should cooperate with federal immigration enforcement and end sanctuary policies.",
+          "quote": "Local law enforcement must cooperate with the federal government. It’s the law. The illusion of sanctuary must end.",
+          "sourceUrl": "https://us.headtopics.com/news/mike-netter-sd-22-candidate-2026-primary-election-83031129",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Netter marked support for protecting the life of an unborn baby with a heartbeat.",
+          "quote": "Protecting Life: Protecting the right to life of an unborn baby with a beating heart.",
+          "sourceUrl": "https://freedomvoterguide.com/candidates/mike-netter/",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Netter marked support for allowing teachers and students to use pronouns corresponding to a person's sex rather than gender identity.",
+          "quote": "Free Speech at School: Protecting teachers and students from being forced to refer to a person by inaccurate pronouns that do not align with the person’s sex.",
+          "sourceUrl": "https://freedomvoterguide.com/candidates/mike-netter/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Netter emphasized reducing regulatory costs and increasing competition among independent medical practices as his approach to lowering health-care costs.",
+          "quote": "The best way to keep healthcare costs down is to create a better business environment so local doctors, particularly with smaller offices, face less associated regulatory fees and taxes, thus lowering overhead and generating more competition on the local level, especially in poor and underserved communities.",
+          "sourceUrl": "https://us.headtopics.com/news/mike-netter-sd-22-candidate-2026-primary-election-83031129",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Netter proposed increasing in-state oil production and reversing state penalties on oil companies to increase energy supply.",
+          "quote": "We need to focus on drilling domestically in California to increase supply while simultaneously achieving our climate goals.",
+          "sourceUrl": "https://us.headtopics.com/news/mike-netter-sd-22-candidate-2026-primary-election-83031129",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Netter called for ending permanent absentee-ballot status and more validation of voter eligibility.",
+          "quote": "We need to eliminate permanent absentee ballots. DO YOUR JOB and validate citizens",
+          "sourceUrl": "https://californiaglobe.com/fr/state-senate-candidate-mike-netter-its-time-to-undo-a-lot-of-bad-laws/",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "sd22.senate.ca.gov · susanrubio.com · leginfo.legislature.ca.gov · us.headtopics.com · freedomvoterguide.com · californiaglobe.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}
