@@ -1,0 +1,159 @@
+{
+  "office": "State Senate",
+  "district": "CA District 10",
+  "division": "ca/sldu-10",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Scott Sakakihara",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He supports asking ultra-wealthy Californians to pay more to fund schools, housing, health care, climate resilience, and the safety net.",
+          "quote": "I support asking the ultra-wealthy to pay more so California can invest in the things that actually create opportunity: schools, housing, healthcare, climate resilience, and the social safety net.",
+          "sourceUrl": "https://www.sunnyvaledems.org/Attachments_2/Sunnyvale%20Democratic%20Club%20State%20Senate%20D10%202026%20Endorsement%20-%20%20Candidate%20Responses%20to%20Written%20Questions.pdf",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He pledges to pursue family-supporting wages and stronger worker organizing rights.",
+          "quote": "Fight for family-supporting wages, stronger organizing rights, and an economy where growth actually reaches working families.",
+          "sourceUrl": "https://www.electscott.com/issues/issue-1",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He calls for substantially more housing, faster approvals, infill development, and transit-oriented construction.",
+          "quote": "Build far more housing at every level, especially infill and transit-oriented housing near jobs, schools, and transportation hubs.",
+          "sourceUrl": "https://www.electscott.com/issues/issue-1",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He supports strong public schools and universal preschool.",
+          "quote": "Seeing his wife’s experience as a public school teacher deepened his belief that every child should have access to strong public schools and universal preschool.",
+          "sourceUrl": "https://www.electscott.com/issues",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He says he increased police staffing while also hiring community service workers and pursuing community-oriented policing as a balanced approach.",
+          "quote": "Delivering real public safety: Scott helped hire both more cops and more community service workers, protected public safety funding, and fought for community-oriented policing to ensure a balanced public safety approach.",
+          "sourceUrl": "https://www.electscott.com/about",
+          "agreement": "5/5"
+        },
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "strong",
+          "text": "He answered yes to prioritizing crime-prevention solutions and rejecting legislation that lengthens sentences or increases penalties.",
+          "quote": "Will you publicly advocate for greater investment in community-based programs and services and reject legislation that lengthens sentences and increases penalties?",
+          "sourceUrl": "https://aclucalaction.org/district/senate-district-10/",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He pledges to strengthen sanctuary protections, prohibit local cooperation with abusive federal enforcement, and expand immigrant legal services.",
+          "quote": "Defend and strengthen sanctuary protections and prohibit local cooperation with abusive federal immigration enforcement.",
+          "sourceUrl": "https://www.electscott.com/issues/issue-2",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He pledges to strengthen gun-safety laws and keep guns away from dangerous people.",
+          "quote": "Keep guns out of dangerous hands and strengthen common-sense gun safety laws.",
+          "sourceUrl": "https://www.electscott.com/issues/protect-our-most-vulnerable-from-the-presidential-administration",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He strongly supports abortion rights and broader access to reproductive health care.",
+          "quote": "I strongly support reproductive freedom, including the right to abortion, contraception, fertility care, and the full range of reproductive healthcare.",
+          "sourceUrl": "https://www.sunnyvaledems.org/Attachments_2/Sunnyvale%20Democratic%20Club%20State%20Senate%20D10%202026%20Endorsement%20-%20%20Candidate%20Responses%20to%20Written%20Questions.pdf",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports strengthening Medi-Cal, expanding coverage, and moving toward universal health care, including possible single-payer financing.",
+          "quote": "Healthcare should be a right. To move toward universal, affordable coverage, California needs to keep strengthening Medi-Cal, protect the Affordable Care Act’s gains, expand primary and preventive care, invest in behavioral health, and confront the cost drivers that make care unaffordable—especially hospital pricing, prescription drug costs, and gaps in provider access.",
+          "sourceUrl": "https://www.sunnyvaledems.org/Attachments_2/Sunnyvale%20Democratic%20Club%20State%20Senate%20D10%202026%20Endorsement%20-%20%20Candidate%20Responses%20to%20Written%20Questions.pdf",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He pledges to strengthen emissions standards and oppose new fossil-fuel projects while supporting affected workers through the transition.",
+          "quote": "Oppose new fossil fuel projects that lock in more pollution and more climate harm, while supporting a just transition for workers and affected communities.",
+          "sourceUrl": "https://www.electscott.com/issues/lead-the-climate-future",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Linda R. Price",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Price says she would oppose new taxes and reduce taxes on families and small businesses.",
+          "quote": "Oppose new taxes and work to reduce the overall tax burden on families and small businesses",
+          "sourceUrl": "https://www.ballotready.org/people/linda-price",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Price supports expanding and streamlining housing while also respecting neighborhood character.",
+          "quote": "I'll work with local communities to expand housing opportunities while respecting neighborhood character, streamlining responsible development, and reducing unnecessary barriers that increase costs.",
+          "sourceUrl": "https://www.lindapriceforsenate.com/priorities",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Price supports law-enforcement partnerships and providing first responders with resources.",
+          "quote": "I support strong partnerships between law enforcement and our communities, holding criminals accountable, addressing homelessness with compassion and responsibility, and ensuring our first responders have the resources they need to keep our neighborhoods safe.",
+          "sourceUrl": "https://www.lindapriceforsenate.com/priorities",
+          "agreement": "10/10"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "Price calls for holding repeat offenders accountable and ending catch-and-release policies.",
+          "quote": "Holding repeat offenders accountable ending the cycle of catch-and-release policies that put communities at risk",
+          "sourceUrl": "https://www.ballotready.org/people/linda-price",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "sunnyvaledems.org · electscott.com · aclucalaction.org · ballotready.org · lindapriceforsenate.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

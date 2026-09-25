@@ -1,0 +1,41 @@
+{
+  "office": "Measure P",
+  "district": "City of Lemoore",
+  "division": "ca/place-lemoore",
+  "kind": "measure",
+  "summary": "A Yes vote raises the City of Lemoore's maximum transient occupancy (hotel) tax paid by hotel and vacation rental guests from 8% to 12%, providing revenue for general city services until ended by voters.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote supports increasing Lemoore’s transient-occupancy tax above its current 8% rate to fund municipal services.",
+          "quote": "The purpose of this report is to provide the City Council with background information and comparative data on Transient Occupancy Tax (TOT) rates in the region to support consideration of a potential increase to the City’s current TOT rate of 8%.",
+          "sourceUrl": "https://lemoore.com/wp-content/uploads/2026/01/Electronic-Agenda-Packet-01-20-2026-2.pdf",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "The No position opposes Measure P’s proposed City of Lemoore hotel-tax increase.",
+          "quote": "California faces a cost-of-living crisis and we cannot have any more tax hikes.",
+          "sourceUrl": "https://www.reformcalifornia.org/voter-guides/kings",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "lemoore.com · reformcalifornia.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

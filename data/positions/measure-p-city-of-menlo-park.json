@@ -1,0 +1,58 @@
+{
+  "office": "Measure P",
+  "district": "City of Menlo Park",
+  "division": "ca/place-menlo-park",
+  "kind": "measure",
+  "summary": "A Yes vote adopts an ordinance requiring voter approval before the City sells, leases, or otherwise disposes of downtown city-owned parking plaza land in ways that reduce public parking.",
+  "issues": [
+    "housing",
+    "transit"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "housing": {
+          "toward": "slower growth",
+          "strength": "lean",
+          "text": "A yes vote requires voter approval before the city can sell, lease, or repurpose downtown parking lots for uses such as housing.",
+          "quote": "The measure appearing before voters would prohibit the City of Menlo Park (the “City”) from selling, trading, leasing, donating, disposing, or otherwise conveying all or a portion of City-owned downtown Menlo Park parking lots for any reason that would affect or diminish the availability or convenience of parking, without voter approval, with certain exceptions.",
+          "sourceUrl": "https://inmenlo.com/2026/08/15/get-details-about-measure-p-the-downtown-parking-lot-ballot-measure/",
+          "agreement": "2/3"
+        },
+        "transit": {
+          "toward": "roads first",
+          "strength": "strong",
+          "text": "A yes vote requires voter approval before the city can convey or repurpose downtown parking lots in ways that diminish parking availability.",
+          "quote": "The measure appearing before voters would prohibit the City of Menlo Park (the “City”) from selling, trading, leasing, donating, disposing, or otherwise conveying all or a portion of City-owned downtown Menlo Park parking lots for any reason that would affect or diminish the availability or convenience of parking, without voter approval, with certain exceptions.",
+          "sourceUrl": "https://inmenlo.com/2026/08/15/get-details-about-measure-p-the-downtown-parking-lot-ballot-measure/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "A no vote allows the city to sell, lease, or redevelop downtown parking lots for housing without requiring voter approval.",
+          "quote": "The measure appearing before voters would prohibit the City of Menlo Park (the “City”) from selling, trading, leasing, donating, disposing, or otherwise conveying all or a portion of City-owned downtown Menlo Park parking lots for any reason that would affect or diminish the availability or convenience of parking, without voter approval, with certain exceptions.",
+          "sourceUrl": "https://inmenlo.com/2026/08/15/get-details-about-measure-p-the-downtown-parking-lot-ballot-measure/",
+          "agreement": "2/3"
+        },
+        "transit": {
+          "toward": "transit first",
+          "strength": "strong",
+          "text": "A no vote allows the city to convey or repurpose downtown parking lots without requiring voter approval.",
+          "quote": "The measure appearing before voters would prohibit the City of Menlo Park (the “City”) from selling, trading, leasing, donating, disposing, or otherwise conveying all or a portion of City-owned downtown Menlo Park parking lots for any reason that would affect or diminish the availability or convenience of parking, without voter approval, with certain exceptions.",
+          "sourceUrl": "https://inmenlo.com/2026/08/15/get-details-about-measure-p-the-downtown-parking-lot-ballot-measure/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "inmenlo.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

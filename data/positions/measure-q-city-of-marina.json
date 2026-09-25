@@ -1,0 +1,41 @@
+{
+  "office": "Measure Q",
+  "district": "City of Marina",
+  "division": "ca/place-marina",
+  "kind": "measure",
+  "summary": "A Yes vote establishes a 7% utility users' tax to fund city services, with an exemption for low-income residents.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would impose a 7% utility users tax to generate local funding for city services.",
+          "quote": "Measure Q: the City of Marina 911 Emergency, Public Safety, and Community Services Measure, asks voters to consider a 7% UUT, estimated to generate approximately $3.83 million annually for the City's General Fund",
+          "sourceUrl": "https://www.cityofmarina.org/m/NewsFlash/Home/Detail/1215",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would not impose the proposed 7% utility users tax.",
+          "quote": "Measure Q: the City of Marina 911 Emergency, Public Safety, and Community Services Measure, asks voters to consider a 7% UUT, estimated to generate approximately $3.83 million annually for the City's General Fund",
+          "sourceUrl": "https://www.cityofmarina.org/m/NewsFlash/Home/Detail/1215",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "cityofmarina.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

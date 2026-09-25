@@ -1,0 +1,41 @@
+{
+  "office": "Measure P",
+  "district": "Marin County",
+  "division": "ca/county-marin",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a countywide parcel tax of 5 cents per building square foot for fifteen years to fund child care and early childhood education programs and educator compensation.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A yes vote supports approving the proposed citizen-led parcel tax increase.",
+          "quote": "The Coalition of Sensible Taxpayers opposes citizen-led parcel tax increases because they are legal loopholes that increase tax burdens on communities. The loophole allows more and larger taxes to pass with less community support. There are two such measures on the ballot this fall.",
+          "sourceUrl": "https://maringop.org/ei/elections/endorsements/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A no vote opposes approving the proposed citizen-led parcel tax increase.",
+          "quote": "The Coalition of Sensible Taxpayers opposes citizen-led parcel tax increases because they are legal loopholes that increase tax burdens on communities. The loophole allows more and larger taxes to pass with less community support. There are two such measures on the ballot this fall.",
+          "sourceUrl": "https://maringop.org/ei/elections/endorsements/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "maringop.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

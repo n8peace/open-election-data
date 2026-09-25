@@ -1,0 +1,58 @@
+{
+  "office": "Measure P",
+  "district": "Alum Rock Union Elementary School District",
+  "division": "ca/school-alum-rock-union-elementary",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Alum Rock Union Elementary School District to issue $100 million in bonds.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A Yes vote's effect on taxes and services is not stated in the provided text.",
+          "quote": "MEASURE P Information - Alum Rock Union Elementary School District",
+          "sourceUrl": "https://www.arusd.org/departments/business-services/mot/bonds/measure-p-information",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A Yes vote's effect on school choice or district public schools is not stated in the provided text.",
+          "quote": "MEASURE P Information - Alum Rock Union Elementary School District",
+          "sourceUrl": "https://www.arusd.org/departments/business-services/mot/bonds/measure-p-information",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A No vote's effect on taxes and services is not stated in the provided text.",
+          "quote": "MEASURE P Information - Alum Rock Union Elementary School District",
+          "sourceUrl": "https://www.arusd.org/departments/business-services/mot/bonds/measure-p-information",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A No vote's effect on school choice or district public schools is not stated in the provided text.",
+          "quote": "MEASURE P Information - Alum Rock Union Elementary School District",
+          "sourceUrl": "https://www.arusd.org/departments/business-services/mot/bonds/measure-p-information",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "arusd.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,24 @@
+{
+  "office": "Measure O",
+  "district": "Old Adobe Union School District",
+  "division": "ca/school-old-adobe-union",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue $48,000,000 in bonds, levied at about $25 per $100,000 of assessed value while outstanding, to repair roofs, modernize classrooms, and make health, safety, and security improvements.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {}
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

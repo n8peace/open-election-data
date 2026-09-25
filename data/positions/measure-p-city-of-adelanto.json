@@ -1,0 +1,41 @@
+{
+  "office": "Measure P",
+  "district": "City of Adelanto",
+  "division": "ca/place-adelanto",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a City of Adelanto transactions and use (sales) tax.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "The Yes side supports a 1% transactions and use tax expected to raise about $3 million annually for streets, public safety, parks, homelessness response, and infrastructure.",
+          "quote": "paving streets and fixing potholes, fire protection, paramedic, and 911 response; law enforcement and crime prevention; keeping public areas/parks safe/clean; addressing homelessness; and repairing aging storm drains, pipes, bridges, and public areas by establishing a 1% transactions and use tax, providing approximately $3,000,000 annually until ended by voters, requiring audits, public spending disclosure, all money controlled locally, be adopted?",
+          "sourceUrl": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofAdelanto/RES_CityofAdelanto.pdf",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "The No position rejects Measure P’s proposed 1% sales tax for Adelanto city services.",
+          "quote": "A transactions tax is generally known as a sales tax. The sales tax is imposed on all retailers within the City of Adelanto at the rate of 1% (one percent) of the gross receipts of the retailer from the sale of all tangible personal property sold within the City.",
+          "sourceUrl": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofAdelanto/IA_CityofAdelanto.pdf",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "uploads.rov.sbcounty.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

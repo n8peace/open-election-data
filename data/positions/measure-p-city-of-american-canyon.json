@@ -1,0 +1,41 @@
+{
+  "office": "Measure P",
+  "district": "City of American Canyon",
+  "division": "ca/place-american-canyon",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a 1% general sales tax in American Canyon, with revenue going to the city's general fund for city services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote establishes a 1% sales tax that is expected to provide approximately $3.7 million annually for general City services.",
+          "quote": "by establishing a 1% sales tax, providing approximately $3,700,000 annually until ended by voters",
+          "sourceUrl": "https://www.americancanyon.gov/MeasureP",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not establish the proposed 1% sales tax increase, leaving the current sales tax rate in place.",
+          "quote": "by establishing a 1% sales tax, providing approximately $3,700,000 annually until ended by voters",
+          "sourceUrl": "https://www.americancanyon.gov/MeasureP",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "americancanyon.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

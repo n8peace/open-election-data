@@ -1,0 +1,41 @@
+{
+  "office": "Measure Q",
+  "district": "City of Half Moon Bay",
+  "division": "ca/place-half-moon-bay",
+  "kind": "measure",
+  "summary": "A Yes vote adopts Ordinance No. 2026-01, approving agreements with Mercy Housing California 110, L.P., including a 99-year ground lease of City land at $1 per year, to develop and operate a 40-unit affordable senior residential project for agricultural workers with a 2,653-square-foot community space at 535-555 Kelly Avenue.",
+  "issues": [
+    "housing"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "The Yes campaign supports allowing a 40-unit affordable housing project for senior agricultural workers to proceed.",
+          "quote": "A \"Yes\" vote confirms the City Council's approval of the ground lease and lets the project move forward as planned.",
+          "sourceUrl": "https://voteyeson555kelly.com/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "housing": {
+          "toward": "slower growth",
+          "strength": "strong",
+          "text": "A No vote would reject the ordinance authorizing agreements for an affordable housing development for senior agricultural workers.",
+          "quote": "A “NO” vote is a vote against Measure Q and against adopting Ordinance 2026-01.",
+          "sourceUrl": "https://smcacre.gov/system/files/2026-08/52-ENG-MQ-ImpartialAnalysis-Half-Moon-Bay-Housing_Redacted.pdf",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "voteyeson555kelly.com · smcacre.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,58 @@
+{
+  "office": "Measure P",
+  "district": "Meadows Union Elementary School District",
+  "division": "ca/school-meadows-union-elementary",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Meadows Union Elementary School District to issue $1.8 million in bonds, repaid by a property tax of about $20 per $100,000 of assessed value, to fund school facility repairs and improvements.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "A Yes vote authorizes the district to issue bonds and levy approximately $20 per $100,000 of assessed value while the bonds are outstanding.",
+          "quote": "issue $1,808,320 of bonds at legal rates, levy approximately $20/$100,000 of assessed value, generating approximately $131,755 annually while bonds are outstanding",
+          "sourceUrl": "https://kyma.com/election-candidates/imperial-county-measures/2026/08/19/imperial-county-measures/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote provides bond funding for improvements to Meadows Union Elementary School District facilities.",
+          "quote": "To upgrade facilities for energy efficiencies, upgrade/repair parking lots; construct a gymnasium and improve field lighting of athletic facilities",
+          "sourceUrl": "https://kyma.com/election-candidates/imperial-county-measures/2026/08/19/imperial-county-measures/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "A No vote does not authorize these bonds or the associated levy.",
+          "quote": "issue $1,808,320 of bonds at legal rates, levy approximately $20/$100,000 of assessed value, generating approximately $131,755 annually while bonds are outstanding",
+          "sourceUrl": "https://kyma.com/election-candidates/imperial-county-measures/2026/08/19/imperial-county-measures/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote does not provide this bond funding for district facility improvements.",
+          "quote": "To upgrade facilities for energy efficiencies, upgrade/repair parking lots; construct a gymnasium and improve field lighting of athletic facilities",
+          "sourceUrl": "https://kyma.com/election-candidates/imperial-county-measures/2026/08/19/imperial-county-measures/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "kyma.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

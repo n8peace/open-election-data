@@ -1,0 +1,41 @@
+{
+  "office": "Measure P",
+  "district": "City of King City",
+  "division": "ca/place-king",
+  "kind": "measure",
+  "summary": "A Yes vote reauthorizes the city's existing 1.5% transactions and use (sales) tax for general city services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote reauthorizes the 1.5¢ sales tax to provide approximately $3.6 million annually for King City services and public safety.",
+          "quote": "King City Public Safety, Local Services Measure. Shall the measure continuing King City’s locally controlled funding for general city services, such as maintaining 911 fire, medical, police response, gang/violent crime prevention/investigation, and King City’s financial stability; providing firefighter protective clothing/ breathing equipment; repairing streets/ potholes, by reauthorizing its sales tax at a rate of 1.5¢, providing approximately $3,600,000 annually until ended by voters; requiring audits, public disclosure, citizens’ oversight, all funds benefit King City residents, be adopted?",
+          "sourceUrl": "https://localnewsmatters.org/monterey-county-november-3-2026/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not reauthorize the 1.5¢ sales tax under this measure.",
+          "quote": "King City Public Safety, Local Services Measure. Shall the measure continuing King City’s locally controlled funding for general city services, such as maintaining 911 fire, medical, police response, gang/violent crime prevention/investigation, and King City’s financial stability; providing firefighter protective clothing/ breathing equipment; repairing streets/ potholes, by reauthorizing its sales tax at a rate of 1.5¢, providing approximately $3,600,000 annually until ended by voters; requiring audits, public disclosure, citizens’ oversight, all funds benefit King City residents, be adopted?",
+          "sourceUrl": "https://localnewsmatters.org/monterey-county-november-3-2026/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "localnewsmatters.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

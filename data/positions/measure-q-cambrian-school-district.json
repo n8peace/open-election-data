@@ -1,0 +1,58 @@
+{
+  "office": "Measure Q",
+  "district": "Cambrian School District",
+  "division": "ca/school-cambrian",
+  "kind": "measure",
+  "summary": "A Yes vote levies a $148 per parcel tax in the Cambrian School District for eight years.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote levies a $148-per-parcel annual tax for eight years and provides about $1,000,000 annually for district academic programs.",
+          "quote": "A \"YES\" vote APPROVES funding to protect the District's academic classroom programs and avoids cuts.",
+          "sourceUrl": "https://www.cambriansd.org/departments/business-services/parcel-tax/measure-q-2026-parcel-tax",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote provides local funding for core academic programs, teachers, and classroom instruction in Cambrian School District schools.",
+          "quote": "Measure Q is a local parcel tax on the November 3, 2026 ballot, seeking voter authorization to provide stable funding to protect core academic programs and prevent further budget reductions at CSD neighborhood schools.",
+          "sourceUrl": "https://www.cambriansd.org/departments/business-services/parcel-tax/measure-q-2026-parcel-tax",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote rejects the parcel tax and does not provide the measure's proposed funding for district programs.",
+          "quote": "A \"YES\" vote APPROVES funding to protect the District's academic classroom programs and avoids cuts.",
+          "sourceUrl": "https://www.cambriansd.org/departments/business-services/parcel-tax/measure-q-2026-parcel-tax",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote rejects the measure's funding, leaving district programs subject to the reductions identified by the school district.",
+          "quote": "Measure Q is a local parcel tax on the November 3, 2026 ballot, seeking voter authorization to provide stable funding to protect core academic programs and prevent further budget reductions at CSD neighborhood schools.",
+          "sourceUrl": "https://www.cambriansd.org/departments/business-services/parcel-tax/measure-q-2026-parcel-tax",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "cambriansd.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}
