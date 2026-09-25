@@ -1,0 +1,308 @@
+{
+  "office": "U.S. Representative",
+  "district": "AZ District 6",
+  "division": "az/cd-6",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "JoAnna Mendoza",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Mendoza supports a livable wage and the right of workers to unionize.",
+          "quote": "JoAnna also strongly supports the right to unionize and believes workers should be treated with dignity and have a fair shot at the American Dream.",
+          "sourceUrl": "https://www.joannamendoza.com/issues/economy/",
+          "agreement": "9/9"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Mendoza opposes tariffs that increase farmers’ and small businesses’ equipment and fertilizer costs.",
+          "quote": "Stability and consistency for farmers, also means stopping reckless tariffs that jack up prices on equipment and fertilizer and make it difficult for farmers and other small business owners to plan ahead.",
+          "sourceUrl": "https://www.joannamendoza.com/issues/environment/",
+          "agreement": "9/9"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Mendoza opposes Social Security benefit cuts and supports strengthening and potentially increasing benefits.",
+          "quote": "JoAnna will oppose any efforts to cut seniors’ hard-earned benefits. She strongly supports strengthening Social Security and exploring ways to increase benefits, especially for seniors living on fixed incomes.",
+          "sourceUrl": "https://www.joannamendoza.com/faq/",
+          "agreement": "9/9"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Mendoza opposes police-budget cuts while also supporting more crisis-response professionals and police accountability measures.",
+          "quote": "JoAnna does not support slashing police budgets, and she also believes that public safety is stronger when we invest in hiring more crisis response professionals, improve transparency, and build trust between law enforcement and the communities they serve.",
+          "sourceUrl": "https://www.joannamendoza.com/issues/immigration-border-security/",
+          "agreement": "7/9"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports stronger border enforcement and deporting violent criminals while also supporting legal pathways to citizenship and oversight of detention facilities.",
+          "quote": "In Congress, JoAnna will work with both parties to strengthen border security at ports of entry, deporting violent criminals, holding cartels accountable, and ensuring that immigration enforcement is professional, properly trained, and consistent with the law. JoAnna believes in a fair immigration system that reflects our values as Americans. She supports creating legal pathways to citizenship for people who work hard, follow the law, and contribute to their communities.",
+          "sourceUrl": "https://www.joannamendoza.com/issues/immigration-border-security/",
+          "agreement": "5/9"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Mendoza supports universal background checks, stronger firearm-storage requirements, and tighter regulation of ghost guns.",
+          "quote": "In Congress, she will support universal background checks, stronger safe storage requirements, and increased regulations on untraceable gun ghosts.",
+          "sourceUrl": "https://giffords.org/press-release/2025/08/giffords-pac-endorses-joanna-mendoza-for-congress-in-az-06/",
+          "agreement": "5/9"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "Mendoza opposed legislation barring transgender girls and women from teams matching their gender identity and reaffirmed that position in 2026.",
+          "quote": "I think legislation, like the one that you mentioned, it’s harmful, it’s toxic",
+          "sourceUrl": "https://americanjournalnews.com/ciscomani-ad-falsely-claims-mendoza-called-parents-toxic/",
+          "agreement": "3/9"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Mendoza opposes privatizing Medicare and supports expanding the benefits it covers.",
+          "quote": "She opposes privatizing Medicare, which would lead to higher prices and worse care for patients, and supports expanding coverage to include vision, hearing, and dental.",
+          "sourceUrl": "https://www.joannamendoza.com/faq/",
+          "agreement": "7/9"
+        }
+      }
+    },
+    {
+      "name": "Juan Ciscomani",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Ciscomani supports extending the 2017 federal tax cuts for families and businesses.",
+          "quote": "The 2017 Tax Cuts and Jobs Act (TCJA) lowered taxes and delivered real relief for families, workers, and small businesses in southeastern Arizona, and across the U.S.",
+          "sourceUrl": "https://ciscomani.house.gov/media/press-releases/ciscomani-stands-business-community-support-tax-cuts",
+          "agreement": "7/8"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Ciscomani cosponsored the National Right-to-Work Act, which would let employees refrain from joining or supporting unions.",
+          "quote": "To preserve and protect the free choice of individual employees to form, join, or assist labor organizations, or to refrain from such activities.",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/BILLS-119hr1232ih/html/BILLS-119hr1232ih.htm",
+          "agreement": "3/8"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Ciscomani supports reducing other federal spending while stating that he would not support cuts to Social Security or Medicare.",
+          "quote": "And let me be clear: I am committed to strengthening Medicare, Social Security, and benefits for veterans.",
+          "sourceUrl": "https://ciscomani.house.gov/media/op-eds/first-100-days",
+          "agreement": "5/8"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Ciscomani introduced legislation intended to expand the construction workforce, increase housing supply, and lower housing costs.",
+          "quote": "My bill will expand access to training programs at community colleges, junior colleges, and trade schools in the most in need parts of our country, to bolster the workforce of skilled construction workers, support high-demand, well-paying jobs for students, and increase the supply of housing units in order to make housing more affordable for everyone.",
+          "sourceUrl": "https://ciscomani.house.gov/media/press-releases/ciscomani-leads-effort-address-shortage-skilled-residential-construction-0",
+          "agreement": "5/8"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Ciscomani introduced legislation expanding facilities funding for charter schools and explicitly described it as support for school choice.",
+          "quote": "I’m proud to introduce this piece of legislation to show my support for school choice, and to help Arizona continue to excel in education.",
+          "sourceUrl": "https://ciscomani.house.gov/media/press-releases/ciscomani-introduces-legislation-enhance-quality-charter-schools",
+          "agreement": "5/8"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Ciscomani secured federal funding for police technology and equipment and has repeatedly advocated greater resources for law enforcement.",
+          "quote": "This targeted investment will help the Oro Valley Police Department better protect families, improve emergency response, and ensure officers have the modern tools they need to serve our community.",
+          "sourceUrl": "https://ciscomani.house.gov/media/press-releases/ciscomani-touts-preliminary-42-million-oro-valley-police-department-strengthen",
+          "agreement": "5/8"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Ciscomani calls border security his top priority and supports Remain in Mexico, stronger enforcement, and expanded authority for border officers.",
+          "quote": "I will work to reinstate commonsense policies that prioritize security, like Remain in Mexico, dismantle cartels and other criminal organizations, empower our Customs and Border Protection agents and officers to do their job, and enforce our immigration laws strongly and consistently.",
+          "sourceUrl": "https://ciscomani.house.gov/issues/border-security",
+          "agreement": "7/8"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "He defended Arizona's 15-week abortion limit while opposing the state's near-total 1864 ban and a national ban.",
+          "quote": "it respected women and the difficult decision of ending a pregnancy — one I will never personally experience and won’t pretend to understand.",
+          "sourceUrl": "https://rollcall.com/2024/04/09/arizona-abortion-ruling-highlights-policy-struggle-within-gop/",
+          "agreement": "4/8"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Ciscomani repeatedly voted for House bills requiring school-sports eligibility to be determined by reproductive biology and genetics at birth.",
+          "quote": "For the purposes of this subsection, sex shall be recognized based solely on a person’s reproductive biology and genetics at birth.",
+          "sourceUrl": "https://www.congress.gov/119/crec/2025/01/14/171/7/CREC-2025-01-14-house.pdf",
+          "agreement": "4/8"
+        },
+        "health": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Ciscomani has sought to expand Medicaid access for some disabled workers while also making free-market competition a stated health-care principle.",
+          "quote": "Access to quality health care while supporting free market competition is a bedrock principle of our health care system.",
+          "sourceUrl": "https://ciscomani.house.gov/media/op-eds/op-ed-new-medicare-policy-may-harm-patients-instead-fraudsters",
+          "agreement": "4/8"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Ciscomani emphasizes dependable, affordable energy, grid reliability, and preservation of energy-sector jobs.",
+          "quote": "Rural Arizona plays a critical role in our nation’s energy future, and these investments will help improve reliability, support good-paying jobs, and ensure families and businesses across Southern Arizona have access to dependable, affordable energy",
+          "sourceUrl": "https://ciscomani.house.gov/media/press-releases/us-representative-juan-ciscomani-attends-major-energy-reliability-announcement",
+          "agreement": "6/8"
+        }
+      }
+    },
+    {
+      "name": "Gary Swing",
+      "party": "Green",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Said people who can afford to pay more taxes should do so to provide relief for working families.",
+          "quote": "People who can afford to pay more taxes should do so in order to provide relief for working families.",
+          "sourceUrl": "https://ivoterguide.com/candidate/10972/race/30414/election/1455",
+          "agreement": "3/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "Agreed that the government should cut spending to reduce the national debt.",
+          "quote": "The government should cut spending in order to reduce the national debt.",
+          "sourceUrl": "https://ivoterguide.com/candidate/10972/race/30414/election/1455",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Swing supports substantially increasing equitable funding for public schools.",
+          "quote": "I support substantial, equitable increases in public school funding - paid for in part by cutting the bloated military budget and ending corporate welfare - so every student has access to well-paid teachers, safe facilities, and the tools they need to learn.",
+          "sourceUrl": "https://snapcoalition.org/initiatives/stance-on-science/candidates/az/gary-swing",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Swing supports freedom of migration and calls for abolishing ICE, closing immigrant detention camps, and dismantling the border wall.",
+          "quote": "I support freedom of travel and migration as a human right. Abolish ICE. Shut down immigrant internment camps. Dismantle the border wall.",
+          "sourceUrl": "https://www.azvoterguide.com/candidate/swing-gary/",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Swing calls reproductive choice a fundamental right and supports public funding for abortion and family planning.",
+          "quote": "Reproductive freedom of choice is a fundamental human right. I support public funding for family planning programs, contraception, and abortion as part of a Meicare for All universal health care system.",
+          "sourceUrl": "https://www.azvoterguide.com/candidate/swing-gary/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Disagreed that biological males should be excluded from women’s sports and spaces, saying the decisions should be left to the organizations involved.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison. Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/10972/race/30414/election/1455",
+          "agreement": "3/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Swing supports federal cannabis legalization and treating drug abuse as a health issue.",
+          "quote": "I oppose imprisonment for victimless crimes. I support federal legalization of cannabis. Treat drug abuse as a health problem, not a crime.",
+          "sourceUrl": "https://www.azvoterguide.com/candidate/swing-gary/",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Swing supports a national single-payer Medicare for All health insurance system.",
+          "quote": "Create a single payer \"Medicare for All\" national health insurance system.",
+          "sourceUrl": "https://theswingvote.wixsite.com/unity/post/swing-for-senate-campaign-platform",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Swing supports ending fossil-fuel and nuclear subsidies and converting to renewable energy sources.",
+          "quote": "Stop subsidizing fossil fuels and nuclear energy. No oil from tar sands or shale oil development. Support conservation and energy efficiency. Convert to solar, wind, small-scale hydroelectric power.",
+          "sourceUrl": "https://theswingvote.wixsite.com/unity/post/swing-for-senate-campaign-platform",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Agreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/10972/race/30414/election/1455",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Jereme Lance Peters",
+      "party": "Libertarian",
+      "stances": {
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Peters supported federal tax credits or scholarships for private-school, homeschool, or online education.",
+          "quote": "Providing federal tax credits or scholarships that allow parents to choose private schools, homeschool, or online programs for their children.",
+          "sourceUrl": "https://www.azvoterguide.com/candidate/peters-jereme-lance/",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Peters supported expanding federal enforcement to prevent illegal border crossings.",
+          "quote": "Expanding federal enforcement efforts to prevent illegal border crossings.",
+          "sourceUrl": "https://www.azvoterguide.com/candidate/peters-jereme-lance/",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Peters supported barring federal funding for organizations that perform, promote, or refer patients for abortions.",
+          "quote": "Prohibiting federal funds from directly or indirectly supporting organizations that perform, promote, or provide referrals for abortion.",
+          "sourceUrl": "https://www.azvoterguide.com/candidate/peters-jereme-lance/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "joannamendoza.com · giffords.org · americanjournalnews.com · ciscomani.house.gov · govinfo.gov · rollcall.com · congress.gov · ivoterguide.com · snapcoalition.org · azvoterguide.com · theswingvote.wixsite.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

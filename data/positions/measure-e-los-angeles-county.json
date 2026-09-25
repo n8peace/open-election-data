@@ -1,0 +1,58 @@
+{
+  "office": "Measure E",
+  "district": "Los Angeles County",
+  "division": "ca/county-los-angeles",
+  "kind": "measure",
+  "summary": "A Yes vote amends the Los Angeles County Charter to change the structure, independence, appointments, and duties of the County Ethics Commission, Office of Ethics Compliance, and Ethics Compliance Officer, and to continue the County's community investment and alternatives-to-incarceration commitment.",
+  "issues": [
+    "safety",
+    "sentencing"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "A Yes vote continues the county’s commitment to community investment and alternatives to incarceration in the county charter.",
+          "quote": "to continue uninterrupted the County&#8217;s commitment to community investment and alternatives to incarceration",
+          "sourceUrl": "https://www.dailynews.com/2026/08/31/endorsement-vote-no-on-los-angeles-county-measure-e/",
+          "agreement": "2/3"
+        },
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "lean",
+          "text": "A Yes vote continues the county’s commitment to alternatives to incarceration in the county charter.",
+          "quote": "to continue uninterrupted the County&#8217;s commitment to community investment and alternatives to incarceration",
+          "sourceUrl": "https://www.dailynews.com/2026/08/31/endorsement-vote-no-on-los-angeles-county-measure-e/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "A No vote does not continue that commitment through this charter amendment.",
+          "quote": "to continue uninterrupted the County&#8217;s commitment to community investment and alternatives to incarceration",
+          "sourceUrl": "https://www.dailynews.com/2026/08/31/endorsement-vote-no-on-los-angeles-county-measure-e/",
+          "agreement": "2/3"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "lean",
+          "text": "A No vote does not continue that commitment through this charter amendment.",
+          "quote": "to continue uninterrupted the County&#8217;s commitment to community investment and alternatives to incarceration",
+          "sourceUrl": "https://www.dailynews.com/2026/08/31/endorsement-vote-no-on-los-angeles-county-measure-e/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "dailynews.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

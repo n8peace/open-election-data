@@ -5,20 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Carrie Ann Buck",
-      "party": "REP"
-    },
-    {
-      "name": "Afzal \"Bobby\" Khan",
-      "party": "NP"
-    },
-    {
-      "name": "Steven \"Chap\" St. John",
-      "party": "NP"
-    },
-    {
-      "name": "Dina Titus",
+      "name": "Titus, Dina",
       "party": "DEM"
+    },
+    {
+      "name": "Khan, Afzal \"Bobby\"",
+      "party": "NPP"
     }
   ]
 }

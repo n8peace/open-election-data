@@ -1,0 +1,50 @@
+{
+  "office": "Measure D",
+  "district": "Tehachapi Unified School District",
+  "division": "ca/school-tehachapi-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Tehachapi Unified School District to issue $61 million in bonds for school facilities, repaid by property taxes estimated at $28.65 per $100,000 of assessed value per year.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote supports a $61 million local bond to finance school-facility improvements and obtain state matching funds.",
+          "quote": "Bond Measure D works in tandem with state matching grants (over $22 million) to maximize local taxpayer dollars, prioritizing essential modernization and reinvestment into existing facilities over broad campus expansion.",
+          "sourceUrl": "https://www.tehachapiusd.com/District-Information/Facilities-Master-Plan/index.html",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote supports directing local bond money and state matching funds to facilities across Tehachapi Unified School District campuses.",
+          "quote": "Securing local bond funds allows Tehachapi USD to unlock approximately $22.4 million in State Modernization matching grants.",
+          "sourceUrl": "https://www.tehachapiusd.com/District-Information/Facilities-Master-Plan/index.html",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote opposes the district's proposed $61 million general-obligation bond for school facilities.",
+          "quote": "Bond Measure D evaluates a $61 million local general obligation bond measure.",
+          "sourceUrl": "https://www.tehachapiusd.com/District-Information/Facilities-Master-Plan/index.html",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "tehachapiusd.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

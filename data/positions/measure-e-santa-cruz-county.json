@@ -1,0 +1,41 @@
+{
+  "office": "Measure E",
+  "district": "Santa Cruz County",
+  "division": "ca/county-santa-cruz",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a one-half percent transactions and use (sales) tax throughout the county, including its cities, for five years, with revenue going to the County General Fund for general government purposes.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote increases the sales tax by one-half percent for five years.",
+          "quote": "A “yes” vote on Measure “E” is a vote to approve a half-cent sales tax increase in the unincorporated area of the County and the incorporated cities for five years.",
+          "sourceUrl": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20E%20Impartial.pdf",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote keeps the sales tax rate at its current level.",
+          "quote": "A “yes” vote on Measure “E” is a vote to approve a half-cent sales tax increase in the unincorporated area of the County and the incorporated cities for five years.",
+          "sourceUrl": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20E%20Impartial.pdf",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "votescount.santacruzcountyca.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

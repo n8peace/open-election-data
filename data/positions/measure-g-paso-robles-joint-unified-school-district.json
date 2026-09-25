@@ -1,0 +1,58 @@
+{
+  "office": "Measure G",
+  "district": "Paso Robles Joint Unified School District",
+  "division": "ca/school-paso-robles-joint-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue up to $205 million in general obligation bonds for improvements at Paso Robles and Liberty high schools, repaid by a property tax on district property owners.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "A Yes vote would approve Measure G's school facilities bond, moving policy toward funding more district facilities.",
+          "quote": "The District previously approved placing a school facilities bond measure on the November ballot.",
+          "sourceUrl": "https://www.pasoschools.org/index.php?pageID=smartSiteFeed&psqFeed=true&articleID=89540175",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote would approve funding for the proposed improvements at Paso Robles High School and other district facilities described in the measure.",
+          "quote": "Construction of the project is contingent upon voter approval of Measure G in the November 2026 election.",
+          "sourceUrl": "https://www.pasoschools.org/index.php?pageID=smartSiteFeed&psqFeed=true&articleID=89540175",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "A No vote would reject Measure G's school facilities bond and would not approve the additional facilities funding described in the text.",
+          "quote": "The District previously approved placing a school facilities bond measure on the November ballot.",
+          "sourceUrl": "https://www.pasoschools.org/index.php?pageID=smartSiteFeed&psqFeed=true&articleID=89540175",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote would withhold approval for the proposed Measure G-funded district facilities improvements.",
+          "quote": "Construction of the project is contingent upon voter approval of Measure G in the November 2026 election.",
+          "sourceUrl": "https://www.pasoschools.org/index.php?pageID=smartSiteFeed&psqFeed=true&articleID=89540175",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "pasoschools.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

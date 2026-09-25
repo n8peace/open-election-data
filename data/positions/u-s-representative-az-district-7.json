@@ -1,0 +1,240 @@
+{
+  "office": "U.S. Representative",
+  "district": "AZ District 7",
+  "division": "az/cd-7",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Adelita Grijalva",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "She opposed legislation that cut health care, housing, education and other programs to finance tax cuts.",
+          "quote": "Trump’s big ugly bill is a historic betrayal of the middle class. It proves the Republican party is full of nothing but big lies and broken promises. They promised to help to lower costs and to help working families but their big priority bill does the exact opposite. It cuts health care, food and housing programs, public education, research – essentially every program that pulls Americans out of poverty in order to give a $5 trillion tax cut to their billionaire buddies.",
+          "sourceUrl": "https://www.kawc.org/news/2025-05-22/cd-7-candidate-adelita-grijalva-statement-on-passage-of-gop-tax-bill",
+          "agreement": "3/4"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "She signed a discharge petition seeking to terminate emergency tariffs imposed on Canada.",
+          "quote": "Discharge Petition No. 4 to terminate President Trump's use of national emergency authority to impose tariffs on Canada.",
+          "sourceUrl": "https://grijalva.house.gov/media/press-releases/representative-adelita-grijalva-sworn-in-to-united-state-house-of-representatives",
+          "agreement": "4/4"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She cosponsored the Social Security Expansion Act.",
+          "quote": "Social Security Expansion Act",
+          "sourceUrl": "https://grijalva.house.gov/media/press-releases/rep-adelita-s-grijalva-takes-record-legislative-action-on-week-one",
+          "agreement": "3/4"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She helped introduce legislation to repeal a federal private-school voucher tax credit and keep federal funds in public schools.",
+          "quote": "The federal government should not replicate this failed program on a national scale. The Keep Public Dollars in Public Schools Act will help ensure federal taxpayer dollars strengthen the public schools that serve the overwhelming majority of America's children, not subsidize privatization schemes rife with fraud.",
+          "sourceUrl": "https://grijalva.house.gov/media/press-releases/rep-grijalva-helps-introduce-keep-public-dollars-in-public-schools-act",
+          "agreement": "4/4"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "She supported investing in prevention services and alternatives to arrest, along with cross-training officers.",
+          "quote": "I strongly believe that an investment in prevention services, programs offered for an alternative to arrest and cross-training of officers would have a positive impact.",
+          "sourceUrl": "https://news.azpm.org/pimacountysupervisor.d5/",
+          "agreement": "3/4"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She called for comprehensive, humane immigration reform with pathways to citizenship.",
+          "quote": "The militarization of our communities is something that we have to fight against, and what I will fight for is comprehensive, humane immigration reform with pathways to citizenship",
+          "sourceUrl": "https://news.azpm.org/p/azpmnews/2025/8/26/226176-congressional-district-7-candidates-grijalva-and-butierez-debate-immigration-homelessness-and-foreign-policy/",
+          "agreement": "4/4"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She called for universal background checks, safe-storage laws and restrictions on ghost guns.",
+          "quote": "One of the first things I want to do is push universal background checks, safe storage laws — common sense, cracking down on ghost guns.",
+          "sourceUrl": "https://www.kgun9.com/news/community-inspired-journalism/marana/local-leaders-advocate-for-gun-violence-prevention",
+          "agreement": "3/4"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She voted to support legal abortion and said criminalizing abortion endangers patients and constitutes oppression.",
+          "quote": "Criminalizing abortion needlessly endangers the lives of women and menstruators,” she said at the meeting. “Make no mistake. Denying someone the choice to safely terminate their pregnancy is not about saving a possible life. It is a form of oppression.",
+          "sourceUrl": "https://www.arizonalist.org/sharon-bronson-adelita-grijalva-pima-supes-declare-abortion-reproductive-healthcare-a-basic-right/",
+          "agreement": "3/4"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "She criticized state restrictions excluding transgender student-athletes after the Supreme Court upheld such bans.",
+          "quote": "Transgender student-athletes make up a small fraction of young people in this country, yet Republicans have spent years turning one of the most vulnerable groups into a political scapegoat",
+          "sourceUrl": "https://cronkitenews.azpbs.org/2026/06/30/supreme-court-upholds-transgender-athletes-ban/",
+          "agreement": "4/4"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She cosponsored the Medicare for All Act, which would establish a single national public health plan.",
+          "quote": "Cosponsored Medicare for All — a single government-run health plan covering all Americans (H.R.3069)",
+          "sourceUrl": "https://yourreprecord.org/members/grijalva-adelita-s-az-7/",
+          "agreement": "3/4"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She opposed rolling back power-plant pollution rules and called for clean energy and stronger environmental protections.",
+          "quote": "Arizonans deserve clean air and lower utility bills – not handouts to the coal industry. We should be moving forward on clean energy and stronger protections, not turning back the clock.",
+          "sourceUrl": "https://grijalva.house.gov/media/press-releases/rep-grijalva-statement-on-epa-decision-to-roll-back-power-plant-emission-rules",
+          "agreement": "4/4"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She criticized restrictions on where and how citizens may vote as disenfranchising and confusing voters.",
+          "quote": "Policies that limit where and how people can vote—whether in Texas or Arizona—disenfranchise voters and create confusion at the polls",
+          "sourceUrl": "https://grijalva.house.gov/media/press-releases/grijalva-fontes-respond-to-polling-confusion-in-dallas-county-and-implications-for-voting",
+          "agreement": "4/4"
+        }
+      }
+    },
+    {
+      "name": "Daniel Francis Butierez Sr.",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Butierez pledges to cut taxes and simplify the tax code for small businesses.",
+          "quote": "Fight to cut taxes and make the tax code simpler for small businesses.",
+          "sourceUrl": "https://butierezforcongress.com/",
+          "agreement": "7/9"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "Butierez said tariffs are necessary because other countries have taken advantage of the United States.",
+          "quote": "It’s something that has to be done. We’ve been getting ripped off for far too long. They’ve been taking advantage of us",
+          "sourceUrl": "https://www.kgun9.com/news/local-news/republicans-running-for-congressional-district-7-debate",
+          "agreement": "4/9"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Butierez says Social Security and Medicare should be protected through dedicated funding outside general revenue.",
+          "quote": "Protect Social Security and Medicare through dedicated funding outside general revenue.",
+          "sourceUrl": "https://butierezforcongress.com/income-tax-reform-policy/",
+          "agreement": "3/9"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Butierez supports streamlined permitting and incentives for developers to construct affordable workforce housing.",
+          "quote": "Tackle the housing crisis by streamlining permitting processes for affordable housing projects and offering incentives for developers to build workforce housing.",
+          "sourceUrl": "https://butierezforcongress.com/economic-policy/",
+          "agreement": "4/9"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Butierez strongly endorsed vouchers, tax credits, charter schools, private schools and homeschooling.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools.",
+          "sourceUrl": "https://ivoterguide.com/candidate/59490/race/23391/election/1320",
+          "agreement": "9/9"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Butierez strongly disagreed with redirecting police funding to community programs.",
+          "quote": "I support redirecting funds from police departments to community programs.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/59490/race/23391/election/1320",
+          "agreement": "5/9"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Butierez advocates for securing the southern border and initiating deportations.",
+          "quote": "Secure our borders and begin deportation.",
+          "sourceUrl": "https://ivoterguide.com/candidate/59490/race/1124/election/1243",
+          "agreement": "5/9"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Asked what gun-ownership restrictions are needed for public safety, Butierez answered that none are needed.",
+          "quote": "None. Don't seem to see to many gun stores getting robbed.",
+          "sourceUrl": "https://ivoterguide.com/candidate/59490/race/23391/election/1320",
+          "agreement": "9/9"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Butierez said he opposes abortion, while elsewhere allowing exceptions and rejecting a federal role in limiting it.",
+          "quote": "I believe in the sanctity of life, so I'm not for the death sentence, for murder or anything like that, and I'm against abortion",
+          "sourceUrl": "https://www.kgun9.com/news/local-news/elections/grijalva-butierez-set-for-cd7-showdown-ahead-of-2024-election",
+          "agreement": "9/9"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Butierez strongly agreed that transgender women should be excluded from women’s sports and female-designated spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/59490/race/23391/election/1320",
+          "agreement": "9/9"
+        },
+        "cannabis": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Butierez opposed recreational legalization while supporting decriminalization, medical marijuana and state control of the issue.",
+          "quote": "I believe it [Marijuana Legalization] belongs to the States to decide",
+          "sourceUrl": "https://vote.norml.org/politicians/216966",
+          "agreement": "3/9"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Butierez favors a mix of renewable energy and fossil fuels intended to lower costs rather than urgent emissions-focused action.",
+          "quote": "This includes expanding renewable energy sources while maintaining a balanced approach to fossil fuels to lower costs for families and businesses.",
+          "sourceUrl": "https://butierezforcongress.com/economic-policy/",
+          "agreement": "7/9"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Butierez strongly disagrees that people should be allowed to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification.",
+          "sourceUrl": "https://ivoterguide.com/candidate/59490/race/1124/election/1243",
+          "agreement": "4/9"
+        }
+      }
+    }
+  ],
+  "sources": "kawc.org · grijalva.house.gov · news.azpm.org · kgun9.com · arizonalist.org · cronkitenews.azpbs.org · yourreprecord.org · butierezforcongress.com · ivoterguide.com · vote.norml.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,58 @@
+{
+  "office": "Measure C",
+  "district": "Santa Paula Unified School District",
+  "division": "ca/school-santa-paula-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Santa Paula Unified School District to issue $48.6 million in general obligation bonds, repaid by district property owners, to fund construction and repairs at district school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would approve the bond program and its associated property tax to fund school facility improvements.",
+          "quote": "The loan repayment comes from a tax on all taxable property (residential, commercial, agricultural, and industrial) located within SPUSD's boundaries.",
+          "sourceUrl": "https://www.santapaulausd.org/departments1/business-services/measure-c",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote authorizes bond funding to repair, upgrade, and modernize facilities across Santa Paula Unified School District schools.",
+          "quote": "This measure is intended to address the needs of the student population through modernization projects at the ten schools here at Santa Paula Unified School District.",
+          "sourceUrl": "https://www.santapaulausd.org/departments1/business-services/measure-c",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would not approve the bond program or its associated property tax.",
+          "quote": "The loan repayment comes from a tax on all taxable property (residential, commercial, agricultural, and industrial) located within SPUSD's boundaries.",
+          "sourceUrl": "https://www.santapaulausd.org/departments1/business-services/measure-c",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote rejects the issuance of bonds to fund facility upgrades across Santa Paula Unified School District schools.",
+          "quote": "This measure is intended to address the needs of the student population through modernization projects at the ten schools here at Santa Paula Unified School District.",
+          "sourceUrl": "https://www.santapaulausd.org/departments1/business-services/measure-c",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "santapaulausd.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

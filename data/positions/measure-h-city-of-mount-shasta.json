@@ -1,0 +1,41 @@
+{
+  "office": "Measure H",
+  "district": "City of Mount Shasta",
+  "division": "ca/place-mount-shasta",
+  "kind": "measure",
+  "summary": "A Yes vote adopts a one percent sales (transactions and use) tax in the City of Mount Shasta, providing approximately $1.5 million annually for general government use until ended by voters.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote raises the local sales tax to help maintain essential City services.",
+          "quote": "a one-cent local sales tax increase to help maintain essential City services.",
+          "sourceUrl": "https://www.siskiyou.news/category/mount-shasta/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not enact the proposed local sales tax increase.",
+          "quote": "a one-cent local sales tax increase to help maintain essential City services.",
+          "sourceUrl": "https://www.siskiyou.news/category/mount-shasta/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "siskiyou.news",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,58 @@
+{
+  "office": "Measure E",
+  "district": "Ferndale Unified School District",
+  "division": "ca/school-ferndale-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue up to $7,000,000 in general obligation bonds, repaid by a property tax, to construct, modernize, and equip career technical education facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A Yes vote would enact Measure E, but the text does not specify its effect on taxes or services.",
+          "quote": "Please attend to learn how Measure E will impact Ferndale High School if it passes.",
+          "sourceUrl": "https://www.ferndalek12.org/index.php?pageID=smartSiteFeed&psqFeed=true&articleID=84563662",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A Yes vote would enact Measure E, but the text does not specify its effect on district public schools or school choice.",
+          "quote": "Please attend to learn how Measure E will impact Ferndale High School if it passes.",
+          "sourceUrl": "https://www.ferndalek12.org/index.php?pageID=smartSiteFeed&psqFeed=true&articleID=84563662",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A No vote would not enact Measure E, but the text does not specify the resulting effect on taxes or services.",
+          "quote": "Please attend to learn how Measure E will impact Ferndale High School if it passes.",
+          "sourceUrl": "https://www.ferndalek12.org/index.php?pageID=smartSiteFeed&psqFeed=true&articleID=84563662",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A No vote would not enact Measure E, but the text does not specify the resulting effect on district public schools or school choice.",
+          "quote": "Please attend to learn how Measure E will impact Ferndale High School if it passes.",
+          "sourceUrl": "https://www.ferndalek12.org/index.php?pageID=smartSiteFeed&psqFeed=true&articleID=84563662",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "ferndalek12.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

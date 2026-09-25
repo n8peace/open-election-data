@@ -1,0 +1,41 @@
+{
+  "office": "Measure F",
+  "district": "City of Mountain View",
+  "division": "ca/place-mountain-view",
+  "kind": "measure",
+  "summary": "A Yes vote raises the City of Mountain View hotel (transient occupancy) tax from 10% to 15%.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote authorizes the City Council to increase the existing transient occupancy tax on hotel and short-term rental guests from 10% up to 15% to fund listed city services.",
+          "quote": "provide locally controlled funding for repairing potholes, streets and sidewalks, improving police, fire, and 911 emergency response services, supporting affordable housing, and adding new parks, and other general government services by authorizing City Council to increase the City of Mountain View&#x27;s existing Transient Occupancy Tax paid by hotel and short­term rental guests from 10% up to 15%",
+          "sourceUrl": "https://localnewsmatters.org/santa-clara-november-3-2026/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not authorize this transient occupancy tax increase or provide the measure's additional funding for city services.",
+          "quote": "provide locally controlled funding for repairing potholes, streets and sidewalks, improving police, fire, and 911 emergency response services, supporting affordable housing, and adding new parks, and other general government services by authorizing City Council to increase the City of Mountain View&#x27;s existing Transient Occupancy Tax paid by hotel and short­term rental guests from 10% up to 15%",
+          "sourceUrl": "https://localnewsmatters.org/santa-clara-november-3-2026/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "localnewsmatters.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

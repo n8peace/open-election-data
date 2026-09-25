@@ -1,0 +1,219 @@
+{
+  "office": "U.S. Senator",
+  "district": "MT",
+  "division": "mt/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "KURT ALME",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "His campaign says that as state revenue and budget director he cut income taxes and balanced budgets.",
+          "quote": "As a former Department of Revenue Director and Budget Director, Kurt balanced budgets to limit inflation and cut taxes to put money back into the pockets of Montanans – to make life more affordable.",
+          "sourceUrl": "https://almeforsenate.com/meet-kurt/",
+          "agreement": "7/8"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Alme supports increasing the housing supply by removing regulatory barriers to construction.",
+          "quote": "To increase homeownership, we need more housing. To increase housing supply, we must unleash small businesses, contractors, and communities by cutting red tape that ties up construction and prevents more homes from being built.",
+          "sourceUrl": "https://projects.montanafreepress.org/election-guide-2026/candidates/kurt-alme/",
+          "agreement": "8/8"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Alme calls for securing the border and using law enforcement against traffickers and cartels.",
+          "quote": "We need to keep the border secure, support law enforcement, prioritize prosecuting violent criminals, and investigate drug trafficking organizations all the way up to the cartels – so we can tear them out by their roots.",
+          "sourceUrl": "https://projects.montanafreepress.org/election-guide-2026/candidates/kurt-alme/",
+          "agreement": "7/8"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "Alme says defending Second Amendment rights is part of his conservative agenda.",
+          "quote": "Tonight, Montanans made clear that we believe in commonsense conservative policies to secure our borders, defend our Second Amendment rights, keep boys out of girls’ sports, take care of veterans, protect our public lands, and secure our elections",
+          "sourceUrl": "https://hagadonenewsnetwork.com/news/2026/jun/03/republican-kurt-alme-cruises-to-senate-primary-win-bankhead-gets-nod-from-dems/",
+          "agreement": "6/8"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Alme says boys should be kept out of girls’ sports.",
+          "quote": "Tonight, Montanans made clear that we believe in commonsense conservative policies to secure our borders, defend our Second Amendment rights, keep boys out of girls’ sports, take care of veterans, protect our public lands, and secure our elections",
+          "sourceUrl": "https://hagadonenewsnetwork.com/news/2026/jun/03/republican-kurt-alme-cruises-to-senate-primary-win-bankhead-gets-nod-from-dems/",
+          "agreement": "6/8"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Alme proposed patient choice, competition, telehealth and price transparency rather than subsidizing health insurance companies.",
+          "quote": "Rather than subsidizing health insurance companies with taxpayer dollars while their stock prices soar, we should invest in Montana providers.",
+          "sourceUrl": "https://projects.montanafreepress.org/election-guide-2026/candidates/kurt-alme/",
+          "agreement": "6/8"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Alme prioritizes lowering energy costs by expanding domestic energy production and reducing regulation.",
+          "quote": "The best way to reduce energy costs is to increase supply by unleashing all forms of American energy. Producing more energy not only reduces gas and utility bills for families and businesses, but also reduces the cost of goods on our shelves for all Montanans.",
+          "sourceUrl": "https://www.mtco-ops.com/the-race-for-u-s-senate/",
+          "agreement": "6/8"
+        }
+      }
+    },
+    {
+      "name": "ALANI BANKHEAD",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Her campaign proposes reducing permitting delays and using tax incentives to increase affordable-housing supply.",
+          "quote": "Cut needless permitting delays without gutting protections, paired with tax incentives for affordable-housing supply.",
+          "sourceUrl": "https://alaniformt.com/guide",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Bankhead advocates achieving universal health care coverage in steps, moving from expanding the ACA to Medicaid and Medicare for all.",
+          "quote": "Gets to universal coverage in steps: finish the ACA, then Medicaid for all, then Medicare for all, on a TRICARE-style model through your own doctor.",
+          "sourceUrl": "https://alaniformt.com/guide",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "KYLE AUSTIN",
+      "party": "Libertarian",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Austin said he would cut government spending, deregulate businesses, and lower taxes for everyone.",
+          "quote": "I plan to cut the fat, deregulation businesses and lower taxes for everyone.",
+          "sourceUrl": "https://projects.montanafreepress.org/election-guide-2026/candidates/kyle-austin/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Austin said he would reduce construction barriers that increase housing-development costs.",
+          "quote": "I would reduce the construction barriers that have been driving up the costs of construction.",
+          "sourceUrl": "https://projects.montanafreepress.org/election-guide-2026/candidates/kyle-austin/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Austin said immigration should be limited to people who follow the formal process and are accepted as U.S. citizens.",
+          "quote": "People who follow the process and get accepted as U.S Citizens",
+          "sourceUrl": "https://ivoterguide.com/candidate/61984/race/33278/election/1479",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Austin's campaign says he supports unrestricted access to bear arms.",
+          "quote": "Austin believes everyone American should un-restricted access to bear arms.",
+          "sourceUrl": "https://www.kyleaustinmt.com/platform",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "Austin said elective abortion should be allowed for rape or when the mother's life is at risk.",
+          "quote": "Rape, or a decision of life or death of the mother",
+          "sourceUrl": "https://ivoterguide.com/candidate/61984/race/33278/election/1479",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Austin strongly agreed that biological males should be excluded from women's sports and female-only spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/61984/race/33278/election/1479",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Austin supports requiring voters to show identification.",
+          "quote": "It's very simple just to show up and show your ID, and I don't see why anybody would fight that.",
+          "sourceUrl": "https://www.mtpr.org/montana-news/2026-05-06/q-a-kyle-austin-libertarian-u-s-senate-candidate",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "SETH BODNAR",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Bodnar opposed tax cuts for the wealthiest when paired with reduced health coverage and rural-hospital funding.",
+          "quote": "The recent budget bill, which passed on a partisan, party-line vote, will kick more than 30,000 Montanans off their healthcare and cause our rural hospitals to lose more than $5 billion in critical resources, all to pay for tax cuts to the wealthiest Americans.",
+          "sourceUrl": "https://projects.montanafreepress.org/election-guide-2026/candidates/seth-bodnar/",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Bodnar called for building more homes by cutting construction red tape, offering tax incentives and addressing supply constraints.",
+          "quote": "The answer is clear: we need to build more houses. We can start by cutting red tape, using incentives in the tax code, and fixing supply chain issues that make it harder to build new, affordable homes.",
+          "sourceUrl": "https://projects.montanafreepress.org/election-guide-2026/candidates/seth-bodnar/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Bodnar supports secure borders together with legal labor channels, an orderly immigration system and constitutional protections for everyone in the country.",
+          "quote": "Any nation needs secure borders; that's just common sense. We can build an immigration system that is secure, orderly, fair, and actually functional: One that works for Montana's farmers and ranchers who need reliable, legal labor, and that upholds the Constitutional protections that apply to everyone on American soil.",
+          "sourceUrl": "https://www.sethformontana.com/issues/safety-security-and-the-rule-of-law",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Bodnar pledged to vote for federal legislation codifying the protections of Roe v. Wade.",
+          "quote": "In the Senate, I will vote to codify the protections of Roe v. Wade.",
+          "sourceUrl": "https://www.sethformontana.com/news/dobbs-anniversary-seth-bodnar-commits-to-montanans-freedom-and-privacy",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Bodnar supports an all-of-the-above energy strategy focused on affordable electricity, jobs and energy independence.",
+          "quote": "Montana needs a true all-of-the-above energy strategy to keep electricity affordable for families and small businesses, fuel good-paying jobs across the state, and strengthen American energy independence and security.",
+          "sourceUrl": "https://www.sethformontana.com/issues/safety-security-and-the-rule-of-law",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "almeforsenate.com · projects.montanafreepress.org · hagadonenewsnetwork.com · mtco-ops.com · alaniformt.com · ivoterguide.com · kyleaustinmt.com · mtpr.org · sethformontana.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,119 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 71",
+  "division": "ca/sldl-71",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "JJ Galvez",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Galvez proposes freezing gas-tax increases while continuing to invest in public transportation.",
+          "quote": "Transportation: Freeze gas tax increases, invest in practical public transportation, and bring more jobs to Riverside County to reduce commuting times.",
+          "sourceUrl": "https://www.jjgalvez.com/priorities",
+          "agreement": "2/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Galvez supports incentives for developers to construct more affordable housing while curbing investor speculation.",
+          "quote": "Housing: Reduce the cost of construction materials (up 40% since 2020) with state-negotiated volume discounts, while giving developers incentives to build more affordable housing, and curbing speculation from private equity firms and foreign cash-based investors.",
+          "sourceUrl": "https://www.jjgalvez.com/priorities",
+          "agreement": "2/3"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "Galvez signed a pledge supporting expanded prevention, early intervention, youth mental-health services, and improved crisis response.",
+          "quote": "Promote wellness, prevention, and early intervention by expanding youth mental health services and advancing reasonable safeguards for artificial intelligence.",
+          "sourceUrl": "https://www.jjgalvez.com/news/mental-health-now",
+          "agreement": "2/3"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "Galvez's campaign says he supports gun-safety laws and received the Moms Demand Action Gun Sense Candidate distinction.",
+          "quote": "JJ, like all Californians, supports common sense laws to help keep our families, schools, and communities safe from gun violence, which has become the number one cause of death for children and teens in the U.S.",
+          "sourceUrl": "https://www.jjgalvez.com/news/gun-sense-candidate-632ta",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "Kate Sanchez",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Sanchez says she has never voted for a tax increase and highlights bills she sponsored to cut or suspend taxes.",
+          "quote": "That is why Kate has never voted for a tax increase and has authored and sponsored numerous pieces of legislation to reduce California's high cost of living.",
+          "sourceUrl": "https://www.sanchezforassembly.com/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "She identified funding law enforcement and prosecutors as a public-safety priority.",
+          "quote": "Public Safety – repeal (Prop 47, Prop 57) and stop (SB 300) pro-criminal laws and make sure D.A.s, law enforcement agencies, and fire have the resources they need to keep our families and communities safe.",
+          "sourceUrl": "https://www.scag.ca.gov/sites/default/files/2024-05/lcmc122022fullpacket.pdf",
+          "agreement": "5/5"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "Sanchez advocates keeping dangerous offenders incarcerated and sponsored legislation increasing penalties for repeat shoplifting.",
+          "quote": "Kate fiercely advocates for public safety and keeping dangerous criminals behind bars. That is why Kate has authored and sponsored numerous pieces of legislation to increase public safety and to keep our communities safe.",
+          "sourceUrl": "https://www.sanchezforassembly.com/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "She authored AB 324 to expand when California law-enforcement agencies may cooperate in immigration enforcement involving alleged or convicted sex traffickers.",
+          "quote": "This bill would additionally except, for purposes of the act, any California law enforcement agency performing any responsibilities under the scope of its jurisdiction regarding any person who is alleged to have violated, or who has been previously convicted of violating, specified provisions relating to sex trafficking.",
+          "sourceUrl": "https://calmatters.digitaldemocracy.org/bills/ca_202520260ab324",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "She authored AB 89 and argued that students should compete on sports teams corresponding to their sex.",
+          "quote": "Everyone gets to play sports on the team that aligns with your sex.",
+          "sourceUrl": "https://calmatters.digitaldemocracy.org/hearings/258817",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "She authored AB 1764 to facilitate using federal death records to cancel deceased voters' registrations.",
+          "quote": "SUMMARY: Authorizes the Secretary of State (SOS) to enter into an agreement with the federal Social Security Administration (SSA) to facilitate the availability of death statistics.",
+          "sourceUrl": "https://aelc.assembly.ca.gov/system/files/2026-04/ab-1764-sanchez-17761183440532616.pdf",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "jjgalvez.com · sanchezforassembly.com · scag.ca.gov · calmatters.digitaldemocracy.org · aelc.assembly.ca.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

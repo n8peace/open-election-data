@@ -1,0 +1,24 @@
+{
+  "office": "Measure E",
+  "district": "Center Joint Unified School District",
+  "division": "ca/school-center-joint-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes Center Joint Unified School District to issue $197,000,000 in bonds, repaid by a property tax of about $60 per $100,000 of assessed value, to replace roofs and pipes, upgrade classrooms and HVAC systems, and address enrollment growth.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {}
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

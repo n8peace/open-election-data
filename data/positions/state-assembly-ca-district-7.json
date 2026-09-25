@@ -1,0 +1,119 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 7",
+  "division": "ca/sldl-7",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Amy L. Slavensky",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Slavensky pledges to remove regulatory barriers and accelerate affordable-housing production.",
+          "quote": "On housing, I will work to cut red tape blocking housing production, provide rental subsidies to prevent homelessness, and speed up affordable housing production.",
+          "sourceUrl": "https://www.amyslavensky.com/",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Slavensky says she supports strong, well-resourced public schools.",
+          "quote": "I stand for strong, well-resourced public schools because I have witnessed for decades how education transforms lives.",
+          "sourceUrl": "https://www.amyslavensky.com/what-i-stand-for",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "Slavensky supports addressing homelessness through mental-health care, housing options and other stabilizing services rather than punishment.",
+          "quote": "Having lost my brother after years of homelessness, I believe we must treat people experiencing mental illness, trauma, and housing instability with humanity, while expanding mental health care, diverse housing options, and pathways to stability.",
+          "sourceUrl": "https://www.amyslavensky.com/what-i-stand-for",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Slavensky says she is committed to reproductive freedom and women's autonomy.",
+          "quote": "My own experiences with sexism, limited maternity protections, and pay inequity strengthened my commitment to advocating for women’s rights, reproductive freedom, and fair workplaces where women can grow and lead without barriers.",
+          "sourceUrl": "https://www.amyslavensky.com/what-i-stand-for",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Josh Hoover",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He says he will reduce spending, cut waste and fraud, and lower taxes.",
+          "quote": "I will continue fighting back against these efforts by pushing to reduce spending, cut waste and fraud in state government, and lower taxes.",
+          "sourceUrl": "https://hooverforassembly.com/issues",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He says he has streamlined construction projects and supported legislation to increase California's housing supply.",
+          "quote": "That’s why I have opposed unreasonable mandates, worked to streamline construction projects, and supported legislation to increase our housing supply so hard working Californians are able to afford a home in the Golden State.",
+          "sourceUrl": "https://hooverforassembly.com/issues",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He says public education should be improved by providing school choice and restoring local control.",
+          "quote": "I believe that we can fix our education system and better serve California families by putting students first, empowering parents, providing school choice, and restoring local control.",
+          "sourceUrl": "https://hooverforassembly.com/issues",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He says he has supported law enforcement and advocated for more school police officers.",
+          "quote": "During my time in the Legislature, I have supported law enforcement, advocated for more school police officers, and introduced Ryla’s Law to close loopholes that let child abusers out of jail early.",
+          "sourceUrl": "https://hooverforassembly.com/issues",
+          "agreement": "5/5"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "He calls for changing laws that permit early release and for closing loopholes that let child abusers leave jail early.",
+          "quote": "It is past time to restore accountability in our criminal justice system by reforming laws that have led to rampant retail theft and the early release of dangerous  criminals.",
+          "sourceUrl": "https://hooverforassembly.com/issues",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He says he has opposed energy mandates that he believes increase consumer costs and reduce choice.",
+          "quote": "I have also fought back against burdensome energy mandates that take away choices and increase costs for consumers.",
+          "sourceUrl": "https://hooverforassembly.com/issues",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "amyslavensky.com · hooverforassembly.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

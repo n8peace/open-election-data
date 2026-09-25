@@ -1,0 +1,41 @@
+{
+  "office": "Measure G",
+  "district": "City of Yreka",
+  "division": "ca/place-yreka",
+  "kind": "measure",
+  "summary": "A Yes vote raises the City of Yreka's transient occupancy (hotel) tax rate from 10% to 12% effective July 1, 2027, generating an estimated $245,000 annually for general city services until repealed or amended.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote supported a 0.25% sales-tax increase to service the construction loan for a new county jail.",
+          "quote": "To go toward the Siskiyou County General Fund and be used to pay for the servicing of the construction loan liability funding the construction of the new County jail, shall the County of Siskiyou enact a quarter-percent (0.25%) sales tax for the term of the construction loan for the benefit of the County General Fund and constructing the new County jail?",
+          "sourceUrl": "https://elections.cdn.sos.ca.gov/county-city-school-district-election-results/2016/county2016.pdf",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote opposed a quarter-percent sales tax intended to fund the county general fund and construction of a new jail.",
+          "quote": "shall the County of Siskiyou enact a quarter-percent (0.25%) sales tax for the term of the construction loan for the benefit of the County General Fund and constructing the new County jail?",
+          "sourceUrl": "https://elections.cdn.sos.ca.gov/county-city-school-district-election-results/2016/county2016.pdf",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "elections.cdn.sos.ca.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

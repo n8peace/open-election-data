@@ -1,0 +1,41 @@
+{
+  "office": "Measure E",
+  "district": "Solano County",
+  "division": "ca/county-solano",
+  "kind": "measure",
+  "summary": "A Yes vote raises Solano County's commercial wind turbine business license tax rate and extends the tax to commercial solar, battery energy storage, natural gas extraction facilities, and data centers, with annual inflation adjustments.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would update the county business license tax and increase taxes on certain businesses and energy facilities.",
+          "quote": "Measure E would update Solano county’s business license tax to include data centers taxed at $5 per square foot, commercial solar energy systems taxed at $0.00008 per kWh, battery energy storage systems taxed at $1.50 per MWh and it will raise the existing tax on commercial wind turbines from $0.00003 to $0.00008 per kWh.",
+          "sourceUrl": "https://www.vallejosun.com/special-coverage-november-2026-general-election-in-vallejo-and-benicia/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would leave the existing county business license tax unchanged.",
+          "quote": "Measure E would update Solano county’s business license tax to include data centers taxed at $5 per square foot, commercial solar energy systems taxed at $0.00008 per kWh, battery energy storage systems taxed at $1.50 per MWh and it will raise the existing tax on commercial wind turbines from $0.00003 to $0.00008 per kWh.",
+          "sourceUrl": "https://www.vallejosun.com/special-coverage-november-2026-general-election-in-vallejo-and-benicia/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "vallejosun.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

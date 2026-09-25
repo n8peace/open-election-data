@@ -1,0 +1,33 @@
+{
+  "office": "Measure C",
+  "district": "Los Banos Unified School District",
+  "division": "ca/school-los-banos-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue bonds repaid by property taxes within the district.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote supports funding district facility improvements through assessments on residential, commercial, and industrial property.",
+          "quote": "Yes, commercial, industrial, and residential property owners will be subject to assessment.",
+          "sourceUrl": "https://aptg.co/pYRnQC",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "aptg.co",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

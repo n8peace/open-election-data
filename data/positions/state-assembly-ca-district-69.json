@@ -1,0 +1,37 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 69",
+  "division": "ca/sldl-69",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Carolyn J. Essex",
+      "party": "Democratic",
+      "stances": {}
+    },
+    {
+      "name": "Josh Lowenthal",
+      "party": "Democratic",
+      "stances": {}
+    }
+  ],
+  "sources": "",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

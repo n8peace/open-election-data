@@ -1,0 +1,24 @@
+{
+  "office": "Measure E",
+  "district": "Lost Hills Union School District",
+  "division": "ca/school-lost-hills-union",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Lost Hills Union School District to issue $9 million in bonds for school facilities, repaid by property taxes estimated at $30 per $100,000 of assessed value per year.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {}
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

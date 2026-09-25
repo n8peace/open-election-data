@@ -1,0 +1,41 @@
+{
+  "office": "Measure H",
+  "district": "Solano County",
+  "division": "ca/county-solano",
+  "kind": "measure",
+  "summary": "A Yes vote increases Solano County's transient occupancy tax on overnight lodging in unincorporated areas from 5% to 12% of the total rent charged.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would increase the county transient occupancy tax from 5% to 12% for hotels and other temporary lodging facilities in unincorporated areas.",
+          "quote": "Measure H would increase Solano County’s transient occupancy tax from a rate of 5% to 12% of rents charged at hotels and other temporary lodging facilities in unincorporated areas of the county.",
+          "sourceUrl": "https://www.vallejosun.com/special-coverage-november-2026-general-election-in-vallejo-and-benicia/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would keep the county transient occupancy tax at 5% in those areas.",
+          "quote": "Measure H would increase Solano County’s transient occupancy tax from a rate of 5% to 12% of rents charged at hotels and other temporary lodging facilities in unincorporated areas of the county.",
+          "sourceUrl": "https://www.vallejosun.com/special-coverage-november-2026-general-election-in-vallejo-and-benicia/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "vallejosun.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

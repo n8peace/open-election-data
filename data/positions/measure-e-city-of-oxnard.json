@@ -1,0 +1,41 @@
+{
+  "office": "Measure E",
+  "district": "City of Oxnard",
+  "division": "ca/place-oxnard",
+  "kind": "measure",
+  "summary": "A Yes vote continues the City of Oxnard's existing half-cent sales tax at the current rate, providing about $20 million annually for general city services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "The provided text does not state what a Yes vote on Measure E does.",
+          "quote": "the city council has given its legal counsel approval to seek appellate review or relief in Douglas Partello versus Lourdes Lopez et al regarding the ballot question of Measure E for the November 3, 2026 election.",
+          "sourceUrl": "https://citizenportal.ai/articles/9681374/california/ventura-county/oxnard-city/oxnard-city-council-authorizes-appeal-in-measure-e-litigation",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "The provided text does not state what a No vote on Measure E does.",
+          "quote": "the city council has given its legal counsel approval to seek appellate review or relief in Douglas Partello versus Lourdes Lopez et al regarding the ballot question of Measure E for the November 3, 2026 election.",
+          "sourceUrl": "https://citizenportal.ai/articles/9681374/california/ventura-county/oxnard-city/oxnard-city-council-authorizes-appeal-in-measure-e-litigation",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "citizenportal.ai",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

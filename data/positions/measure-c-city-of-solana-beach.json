@@ -1,0 +1,41 @@
+{
+  "office": "Measure C",
+  "district": "City of Solana Beach",
+  "division": "ca/place-solana-beach",
+  "kind": "measure",
+  "summary": "A Yes vote increases the City of Solana Beach's transient occupancy (hotel/lodging) tax paid by visitors by one percent.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote supports increasing the hotel and lodging tax from 13% to 14%, generating an estimated $250,000 annually for general city purposes.",
+          "quote": "Currently, the City charges a 13% TOT. If approved, this Measure would increase the TOT rate by 1% for a total of 14% and would generate an estimated $250,000 per year in additional revenue.",
+          "sourceUrl": "https://cityofsolanabeach.ca.gov/sites/default/files/Solana%20Beach/City%20Clerk/Election%20Information/Measure/solana-beach-tot-impartial-analysis-8-13-26.pdf",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "The No position opposes Measure C, which would raise Solana Beach’s transient occupancy tax from 13% to 14%.",
+          "quote": "A “yes” vote favors the Measure. A “no” vote opposes the Measure.",
+          "sourceUrl": "https://www.cityofsolanabeach.ca.gov/sites/default/files/Solana%20Beach/City%20Clerk/Election%20Information/Measure/solana-beach-tot-impartial-analysis-8-13-26.pdf",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "cityofsolanabeach.ca.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

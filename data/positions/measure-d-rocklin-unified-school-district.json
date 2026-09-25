@@ -1,0 +1,58 @@
+{
+  "office": "Measure D",
+  "district": "Rocklin Unified School District",
+  "division": "ca/school-rocklin-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue $288,000,000 in bonds to renovate, modernize, and expand classrooms and school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "The provided text does not state what a Yes vote would do regarding taxes or services.",
+          "quote": "No on Measure D",
+          "sourceUrl": "https://goldmountaincanews.com/news/372691/no-on-measure-d/",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "The provided text does not state what a Yes vote would do regarding school choice or district public schools.",
+          "quote": "No on Measure D",
+          "sourceUrl": "https://goldmountaincanews.com/news/372691/no-on-measure-d/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "The provided text does not state what a No vote would do regarding taxes or services.",
+          "quote": "No on Measure D",
+          "sourceUrl": "https://goldmountaincanews.com/news/372691/no-on-measure-d/",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "The provided text does not state what a No vote would do regarding school choice or district public schools.",
+          "quote": "No on Measure D",
+          "sourceUrl": "https://goldmountaincanews.com/news/372691/no-on-measure-d/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "goldmountaincanews.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

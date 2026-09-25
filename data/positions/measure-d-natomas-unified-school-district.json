@@ -1,0 +1,58 @@
+{
+  "office": "Measure D",
+  "district": "Natomas Unified School District",
+  "division": "ca/school-natomas-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes Natomas Unified School District to issue $300,000,000 in bonds, repaid by a property tax of about $60 per $100,000 of assessed value, to repair and upgrade school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote authorizes up to $300 million in local bond funding for school facility improvements and expansion.",
+          "quote": "would authorize up to $300 million in locally controlled funding to repair aging schools, expand capacity for a growing community, and modernize classrooms and learning spaces",
+          "sourceUrl": "https://www.natomasunified.org/departments/facilities-and-strategic-planning/facilities-improvements-and-needs",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote provides bond funding for repairs, expansion, and modernization of Natomas Unified School District schools.",
+          "quote": "would authorize up to $300 million in locally controlled funding to repair aging schools, expand capacity for a growing community, and modernize classrooms and learning spaces",
+          "sourceUrl": "https://www.natomasunified.org/departments/facilities-and-strategic-planning/facilities-improvements-and-needs",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not authorize the Measure D bond funding for those school facility improvements.",
+          "quote": "would authorize up to $300 million in locally controlled funding to repair aging schools, expand capacity for a growing community, and modernize classrooms and learning spaces",
+          "sourceUrl": "https://www.natomasunified.org/departments/facilities-and-strategic-planning/facilities-improvements-and-needs",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote does not provide the Measure D bond funding for Natomas Unified School District schools.",
+          "quote": "would authorize up to $300 million in locally controlled funding to repair aging schools, expand capacity for a growing community, and modernize classrooms and learning spaces",
+          "sourceUrl": "https://www.natomasunified.org/departments/facilities-and-strategic-planning/facilities-improvements-and-needs",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "natomasunified.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

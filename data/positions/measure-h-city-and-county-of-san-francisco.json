@@ -1,0 +1,50 @@
+{
+  "office": "Measure H",
+  "district": "City and County of San Francisco",
+  "division": "ca/place-city-and-county-of-san-francisco",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a parcel tax to fund Muni public transit operations.",
+  "issues": [
+    "tax",
+    "transit"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Imposes a tiered parcel tax on residential and commercial properties to fund public transit operations.",
+          "quote": "If approved, the measure would establish a tiered parcel tax on commercial and residential properties to fund the agency, which is facing a massive deficit.",
+          "sourceUrl": "https://www.cbsnews.com/sanfrancisco/news/san-francisco-stronger-muni-for-all-parcel-tax-signatures-november-2026-ballot/",
+          "agreement": "2/3"
+        },
+        "transit": {
+          "toward": "transit first",
+          "strength": "strong",
+          "text": "Dedicates local parcel tax revenues to SFMTA public transit operations to avoid service reductions and fund transit expansion.",
+          "quote": "revenue from the parcel tax imposed by this measure is required to go to the SFMTA for transit operations expenses",
+          "sourceUrl": "https://growsf.org/voter-guide/san-francisco-voter-guide-november-2026-election/measures/prop-h/legal-text/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Opposes establishing a new annual parcel tax on San Francisco property to fund Muni transit operations.",
+          "quote": "Prop H would create a new annual tax on most property in San Francisco to fund Muni",
+          "sourceUrl": "https://growsf.org/voter-guide/san-francisco-voter-guide-november-2026-election/measures/prop-h/",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "cbsnews.com · growsf.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

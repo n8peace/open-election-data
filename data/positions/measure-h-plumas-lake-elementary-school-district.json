@@ -1,0 +1,58 @@
+{
+  "office": "Measure H",
+  "district": "Plumas Lake Elementary School District",
+  "division": "ca/school-plumas-lake-elementary",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Plumas Lake Elementary School District to issue $9,000,000 in general obligation bonds to construct and furnish a gymnasium at Plumas Lake Junior High School, repaid by a property tax levied at an estimated $12 per $100,000 of assessed valuation while the bonds are outstanding.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A Yes vote's effect on taxes or services cannot be determined from the provided text.",
+          "quote": "MEASURE H - PLUMAS LAKE ELEMENTARY SCHOOL DISTRICT",
+          "sourceUrl": "https://www.yuba.gov/departments/elections/upcoming_election.php",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A Yes vote's effect on school choice or district public-school funding cannot be determined from the provided text.",
+          "quote": "MEASURE H - PLUMAS LAKE ELEMENTARY SCHOOL DISTRICT",
+          "sourceUrl": "https://www.yuba.gov/departments/elections/upcoming_election.php",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A No vote's effect on taxes or services cannot be determined from the provided text.",
+          "quote": "MEASURE H - PLUMAS LAKE ELEMENTARY SCHOOL DISTRICT",
+          "sourceUrl": "https://www.yuba.gov/departments/elections/upcoming_election.php",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A No vote's effect on school choice or district public-school funding cannot be determined from the provided text.",
+          "quote": "MEASURE H - PLUMAS LAKE ELEMENTARY SCHOOL DISTRICT",
+          "sourceUrl": "https://www.yuba.gov/departments/elections/upcoming_election.php",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "yuba.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

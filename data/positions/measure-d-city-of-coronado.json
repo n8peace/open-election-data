@@ -1,0 +1,41 @@
+{
+  "office": "Measure D",
+  "district": "City of Coronado",
+  "division": "ca/place-coronado",
+  "kind": "measure",
+  "summary": "A Yes vote raises the allowed height for multi-family residential development in the R-4 zone from three stories and 35 feet to four stories and 42 feet.",
+  "issues": [
+    "housing"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "A Yes vote increases the R-4 multi-family height limit from three stories to four.",
+          "quote": "Measure D is another example of the tension between state requirements and local control. It asks voters whether to increase the R-4 multi-family height limit from three stories to four; I do not support that increase.",
+          "sourceUrl": "https://thecoronadonews.com/2026/09/qa-city-council-candidates-talk-housing-and-affordability/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "housing": {
+          "toward": "slower growth",
+          "strength": "strong",
+          "text": "A No vote keeps the R-4 multi-family height limit at three stories.",
+          "quote": "Measure D is another example of the tension between state requirements and local control. It asks voters whether to increase the R-4 multi-family height limit from three stories to four; I do not support that increase.",
+          "sourceUrl": "https://thecoronadonews.com/2026/09/qa-city-council-candidates-talk-housing-and-affordability/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "thecoronadonews.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,24 @@
+{
+  "office": "Measure G",
+  "district": "Los Molinos Unified School District",
+  "division": "ca/school-los-molinos-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue up to $9,800,000 in general obligation bonds for school facility projects, repaid by an ad valorem property tax estimated at $59 per $100,000 of assessed value.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {}
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,50 @@
+{
+  "office": "Measure G26",
+  "district": "Paso Robles Joint Unified School District",
+  "division": "ca/school-paso-robles-joint-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue $205 million in bonds for school facilities, repaid by a property tax of about $50 per $100,000 of assessed value.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A yes vote supports authorizing $205 million in bonds funded through local property tax levies to renovate and upgrade school facilities.",
+          "quote": "A “yes” vote on this measure is a vote in favor of the issuance of $205 million in general obligation bonds to be used for the purposes set forth in Measure G-26.",
+          "sourceUrl": "https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/elections-and-voting/current-elections/2026-11-04/voter-information-guides/ballot-type-8-november-3,-2026,-general-election-voter-information-guide",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A yes vote approves dedicated bond financing to construct, renovate, and modernize classrooms and facilities across the school district.",
+          "quote": "The bond measure will fund improvements to the District’s classrooms and facilities for the benefit of the District’s students in grades 9 through 12",
+          "sourceUrl": "https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/elections-and-voting/current-elections/2026-11-04/voter-information-guides/ballot-type-8-november-3,-2026,-general-election-voter-information-guide",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "The No side opposes Measure G-26's proposed $205 million bond, which would be repaid through an assessed-value property tax.",
+          "quote": "Opponents who filed a written ballot argument against the measure",
+          "sourceUrl": "https://www.sfgate.com/news/bayarea/article/monterey-co-school-districts-across-county-look-22447001.php",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "slocounty.ca.gov · sfgate.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

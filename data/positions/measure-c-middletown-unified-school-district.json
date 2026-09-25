@@ -1,0 +1,58 @@
+{
+  "office": "Measure C",
+  "district": "Middletown Unified School District",
+  "division": "ca/school-middletown-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue $38,000,000 in bonds, repaid by a property tax of about $49 per $100,000 of assessed value (about $2,155,000 annually) while the bonds are outstanding, to repair or replace roofs and heating/ventilation/air-conditioning systems and to construct or improve science, technology, engineering, arts, mathematics, agriculture, and career technical education…",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A Yes vote cannot be determined from the provided text to change taxes or services.",
+          "quote": "Middletown Unified School District - Bond Measure C",
+          "sourceUrl": "https://www.lakecountyca.gov/1964/November-3-2026-General-District-Election",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A Yes vote cannot be determined from the provided text to change school choice or district public-school funding.",
+          "quote": "Middletown Unified School District - Bond Measure C",
+          "sourceUrl": "https://www.lakecountyca.gov/1964/November-3-2026-General-District-Election",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A No vote cannot be determined from the provided text to change taxes or services.",
+          "quote": "Middletown Unified School District - Bond Measure C",
+          "sourceUrl": "https://www.lakecountyca.gov/1964/November-3-2026-General-District-Election",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A No vote cannot be determined from the provided text to change school choice or district public-school funding.",
+          "quote": "Middletown Unified School District - Bond Measure C",
+          "sourceUrl": "https://www.lakecountyca.gov/1964/November-3-2026-General-District-Election",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "lakecountyca.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

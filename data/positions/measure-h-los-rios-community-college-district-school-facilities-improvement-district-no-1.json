@@ -1,0 +1,58 @@
+{
+  "office": "Measure H",
+  "district": "Los Rios Community College District School Facilities Improvement District No. 1",
+  "division": "ca/school-los-rios-community-college-district-school-facilities-improvement-district-no-1",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes Los Rios Community College District School Facilities Improvement District No. 1 to issue $1,100,000,000 in bonds, repaid by a property tax of about $16.55 per $100,000 of assessed value, for job training and higher-education facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote authorizes new debt and a property-tax levy to fund district facilities, preventing an expected reduction in bond taxes.",
+          "quote": "Measure H would authorize new debt and a new property-tax levy.",
+          "sourceUrl": "https://www.elkgrovedailynews.com/los-rios-poorly-explained-measure-h-tax-claim-could-confuse-voters/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote authorizes up to $1.1 billion in bonds for Los Rios Community College District facilities.",
+          "quote": "Without a clearer explanation from Los Rios, an otherwise viable facilities measure could be vulnerable to defeat because of how it was presented rather than solely because of what it would fund.",
+          "sourceUrl": "https://www.elkgrovedailynews.com/los-rios-poorly-explained-measure-h-tax-claim-could-confuse-voters/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not authorize the new debt or levy, and existing bond taxes are expected to decline as older bonds are repaid.",
+          "quote": "Measure H would authorize new debt and a new property-tax levy.",
+          "sourceUrl": "https://www.elkgrovedailynews.com/los-rios-poorly-explained-measure-h-tax-claim-could-confuse-voters/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote does not authorize the new Measure H bonds for Los Rios Community College District facilities.",
+          "quote": "Without a clearer explanation from Los Rios, an otherwise viable facilities measure could be vulnerable to defeat because of how it was presented rather than solely because of what it would fund.",
+          "sourceUrl": "https://www.elkgrovedailynews.com/los-rios-poorly-explained-measure-h-tax-claim-could-confuse-voters/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "elkgrovedailynews.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

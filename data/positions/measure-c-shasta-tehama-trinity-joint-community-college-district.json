@@ -1,0 +1,58 @@
+{
+  "office": "Measure C",
+  "district": "Shasta-Tehama-Trinity Joint Community College District",
+  "division": "ca/school-shasta-tehama-trinity-joint-community-college-district",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue up to $129,630,000 in general obligation bonds for college facilities, classrooms, and equipment, repaid by an ad valorem property tax estimated at $7.76 per $100,000 of assessed value.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote authorizes a $129 million bond to fund expansions, remodels, and upgrades at Shasta College without increasing the property-tax rate for Shasta College bonds.",
+          "quote": "will expand and remodel college facilities through a series of capital projects and upgrades.",
+          "sourceUrl": "https://www.shastacollege.edu/news/story/shasta-college-places-bond-measure-c-on-november-ballot/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "A Yes vote funds facility improvements and educational programs at the public Shasta College district.",
+          "quote": "Bond Measure C will modernize 60-year-old buildings and facilities while expanding the college's ability to support public safety services for the region.",
+          "sourceUrl": "https://www.shastacollege.edu/news/story/shasta-college-places-bond-measure-c-on-november-ballot/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not authorize the bond measure or its proposed college facility projects.",
+          "quote": "will expand and remodel college facilities through a series of capital projects and upgrades.",
+          "sourceUrl": "https://www.shastacollege.edu/news/story/shasta-college-places-bond-measure-c-on-november-ballot/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "A No vote does not authorize the bond funding for Shasta College facilities and programs.",
+          "quote": "Bond Measure C will modernize 60-year-old buildings and facilities while expanding the college's ability to support public safety services for the region.",
+          "sourceUrl": "https://www.shastacollege.edu/news/story/shasta-college-places-bond-measure-c-on-november-ballot/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "shastacollege.edu",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

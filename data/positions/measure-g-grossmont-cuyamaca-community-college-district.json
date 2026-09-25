@@ -1,0 +1,58 @@
+{
+  "office": "Measure G",
+  "district": "Grossmont-Cuyamaca Community College District",
+  "division": "ca/school-grossmont-cuyamaca-community-college-district",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Grossmont-Cuyamaca Community College District to issue up to $624,000,000 in general obligation bonds to construct, repair, and equip college facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote authorizes a $624 million facilities bond projected not to increase current tax rates.",
+          "quote": "Measure G would generate an estimated $624 million, but is not projected to raise current tax rates.",
+          "sourceUrl": "https://www.gcccd.edu/about/bonds/index.php",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote provides local bond funding for facility and technology improvements at Grossmont and Cuyamaca colleges.",
+          "quote": "All funds raised would stay local to support District facility and technology improvements.",
+          "sourceUrl": "https://www.gcccd.edu/about/bonds/index.php",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not authorize the Measure G facilities bond or its additional funding for district projects.",
+          "quote": "Measure G would generate an estimated $624 million, but is not projected to raise current tax rates.",
+          "sourceUrl": "https://www.gcccd.edu/about/bonds/index.php",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote does not provide the Measure G bond funding for Grossmont and Cuyamaca college improvements.",
+          "quote": "All funds raised would stay local to support District facility and technology improvements.",
+          "sourceUrl": "https://www.gcccd.edu/about/bonds/index.php",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "gcccd.edu",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

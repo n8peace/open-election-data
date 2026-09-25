@@ -1,0 +1,41 @@
+{
+  "office": "Measure G",
+  "district": "City of Arcata",
+  "division": "ca/place-arcata",
+  "kind": "measure",
+  "summary": "A Yes vote continues the city's existing 0.75% sales (transactions and use) tax with no expiration date, estimated to generate about $2,800,000 per year for city services, until repealed by voters.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "The text does not specify what a Yes vote would do regarding taxes or services.",
+          "quote": "Receive a Staff Report Regarding Measure G from Assistant City Manager and Finance Director Tabatha Miller.",
+          "sourceUrl": "https://pub-arcata.escribemeetings.com/Meeting.aspx?Id=c673aaf4-79f2-4453-a1b3-d321da17a8ec&Agenda=Agenda&lang=English",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "The text does not specify what a No vote would do regarding taxes or services.",
+          "quote": "Receive a Staff Report Regarding Measure G from Assistant City Manager and Finance Director Tabatha Miller.",
+          "sourceUrl": "https://pub-arcata.escribemeetings.com/Meeting.aspx?Id=c673aaf4-79f2-4453-a1b3-d321da17a8ec&Agenda=Agenda&lang=English",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "pub-arcata.escribemeetings.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

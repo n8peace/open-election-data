@@ -1,0 +1,41 @@
+{
+  "office": "Measure G",
+  "district": "City and County of San Francisco",
+  "division": "ca/place-city-and-county-of-san-francisco",
+  "kind": "measure",
+  "summary": "A Yes vote allows private vehicles on the portion of the Great Highway within Sunset Dunes Park.",
+  "issues": [
+    "transit"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "transit": {
+          "toward": "roads first",
+          "strength": "strong",
+          "text": "Measure G would reopen the Great Highway to vehicle traffic on weekdays while keeping it car-free on weekends and holidays.",
+          "quote": "The Great Highway reopens to vehicle traffic Monday through Friday, while weekends and holidays remain a car-free park for recreation.",
+          "sourceUrl": "https://www.greathighwayforeveryone.com/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "transit": {
+          "toward": "transit first",
+          "strength": "strong",
+          "text": "The No on G campaign opposes reopening the Upper Great Highway to cars and supports preserving it as Sunset Dunes Park.",
+          "quote": "Vote NO on G to Save Sunset Dunes Park!",
+          "sourceUrl": "https://www.savesunsetdunes.org/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "greathighwayforeveryone.com · savesunsetdunes.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

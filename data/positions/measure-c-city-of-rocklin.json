@@ -1,0 +1,33 @@
+{
+  "office": "Measure C",
+  "district": "City of Rocklin",
+  "division": "ca/place-rocklin",
+  "kind": "measure",
+  "summary": "A Yes vote establishes a half-cent (0.5%) sales tax to fund city services including police, fire, and 911 emergency response.",
+  "issues": [
+    "tax",
+    "safety"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "The Yes side supports a half-cent sales-tax increase to fund public safety, parks, and other core city services.",
+          "quote": "A simple majority (50%+) vote is required for Measure C to pass. a “YES vote” supports the half cent sales tax increase proposal; a “NO vote” rejects the proposal.",
+          "sourceUrl": "https://www.rocklin.ca.gov/693/Measure-C",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "rocklin.ca.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

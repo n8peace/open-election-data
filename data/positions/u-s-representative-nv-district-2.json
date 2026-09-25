@@ -1,0 +1,230 @@
+{
+  "office": "U.S. Representative",
+  "district": "NV District 2",
+  "division": "nv/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Benitez-Thompson, Teresa F.",
+      "party": "DEM",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Benitez-Thompson stated that everyone should be allowed to organize and indicated support for federal legislation repealing right-to-work laws.",
+          "quote": "She indicated she would support repealing right to work laws through federal legislation.",
+          "sourceUrl": "https://thenevadaindependent.com/article/lawmaker-social-worker-pageant-queen-is-congress-next-for-teresa-benitez-thompson",
+          "agreement": "3/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "She says tariffs have raised consumer costs and trapped the country in costly trade wars.",
+          "quote": "The cost of groceries and household goods have increased. Families, small businesses and Nevada's tourist-based economy are feeling the negative effects and trying to figure out ways to absorb the extra cost. We are caught in costly trade wars with no relief in sight.",
+          "sourceUrl": "https://thenevadaindependent.com/es/article/where-do-the-candidates-in-northern-nevadas-2nd-congressional-district-stand-on-the-issues",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Her economic plan calls for building workforce housing that ordinary Nevadans can afford.",
+          "quote": "I am running on an integrated plan: restore hundreds of millions of tax dollars stripped from Nevada by Elon Musk and DOGE; develop strong regulations to prevent massive job layoffs due to AI; and build workforce housing that everyday Nevandans can afford.",
+          "sourceUrl": "https://electteresa.com/policy/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "She opposes mass deportation and calls for fair, efficient immigration reform with humane enforcement.",
+          "quote": "This is not how the country should carry on, with families being torn apart, and the legal process being undermined. Tackling immigration policy is a priority for me, and honestly, both parties have gotten it wrong. We are long overdue for fair and efficient reform with humane enforcement.",
+          "sourceUrl": "https://thenevadaindependent.com/es/article/where-do-the-candidates-in-northern-nevadas-2nd-congressional-district-stand-on-the-issues",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She supports federal legislation protecting reproductive freedom.",
+          "quote": "That means defending the Affordable Care Act, ensuring Medicaid covers mental and behavioral health issues, and protecting reproductive freedom through federal legislation.",
+          "sourceUrl": "https://electteresa.com/policy/",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports the Affordable Care Act and Medicaid and says she voted to establish Nevada’s public-option health plan.",
+          "quote": "I voted to create public-option healthcare program, which covers 10,000 people through the Battle Born State Plan; made sure you can’t be charged out of pocket cost for contraception and extended the period of time you can get a prescription for contraception; voted for measures to address Nevada’s high maternal mortality rates; and voted for a package of legislation to create transparency in drug pricing.",
+          "sourceUrl": "https://electteresa.com/policy/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She opposes the SAVE Act and supports expanded mail and early voting, automatic registration, and same-day registration.",
+          "quote": "That means opposing the SAVE Act and every other effort to institute onerous barriers to voter registration. It means expanding, not restricting, mail voting and early voting.",
+          "sourceUrl": "https://electteresa.com/policy/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Flippo, David",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Flippo promises federal tax cuts and opposes raising federal tax rates.",
+          "quote": "Deliver tax cuts that put money back in your pocket.",
+          "sourceUrl": "https://flippo4nv.com/issues/",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "Flippo described tariffs as a tool for countering unfair international economic practices and creating a fairer marketplace.",
+          "quote": "Tariffs have been a tool to bring other countries into line to build a fair global marketplace.",
+          "sourceUrl": "https://thenevadaindependent.com/es/article/where-do-the-candidates-in-northern-nevadas-2nd-congressional-district-stand-on-the-issues",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Flippo opposes raising the Social Security retirement age and supports protecting benefits from taxation.",
+          "quote": "“We should not raise the retirement age,” Flippo wrote before referencing a new tax break in last year's One Big Beautiful Bill Act . “We should protect no tax on Social Security!”",
+          "sourceUrl": "https://thenevadaindependent.com/article/where-do-the-candidates-in-northern-nevadas-2nd-congressional-district-stand-on-the-issues",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Flippo supports transferring federal land to Nevada to increase the housing supply.",
+          "quote": "Flippo said he supports the majority of the lands bills and will work with the governor to return federal land to the state to help create more housing supply.",
+          "sourceUrl": "https://thenevadaindependent.com/es/article/where-do-the-candidates-in-northern-nevadas-2nd-congressional-district-stand-on-the-issues",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Flippo supports school choice and directing education funding according to students' enrollment choices.",
+          "quote": "I am an advocate for school choice where the money follows the child.",
+          "sourceUrl": "https://ivoterguide.com/candidate/66760/race/2147/election/1109",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Flippo supports tougher sentencing for violent and repeat offenders.",
+          "quote": "Enact tough sentencing for violent and repeat offenders.",
+          "sourceUrl": "https://flippo4nv.com/issues/",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Flippo supports deportations, ending catch-and-release, and ending sanctuary policies.",
+          "quote": "Deport illegal aliens. Americans do not reward people for breaking our laws.",
+          "sourceUrl": "https://flippo4nv.com/issues/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Flippo says no additional gun restrictions are needed and that some existing gun laws should be repealed.",
+          "quote": "None. Law-abiding Americans should face no additional restrictions, and many current gun laws that burden responsible citizens should be repealed.",
+          "sourceUrl": "https://ivoterguide.com/candidate/66760/race/26386/election/1400",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Flippo supports allowing abortion only in very narrow circumstances, principally to save the mother's life and possibly in cases of rape or incest.",
+          "quote": "Abortion should be allowed only in the narrowest possible circumstances, principally to save the life of the mother, and perhaps in cases of rape or incest.",
+          "sourceUrl": "https://ivoterguide.com/candidate/66760/race/26386/election/1400",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Flippo supports excluding transgender women and girls from female sports, locker rooms, and restrooms.",
+          "quote": "Men do not belong in girls’ sports, locker rooms, or restrooms.",
+          "sourceUrl": "https://flippo4nv.com/issues/",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Flippo opposes reinstating Affordable Care Act premium subsidies and has called the law a disaster.",
+          "quote": "Obamacare was a disaster for the American people, specifically Nevadans",
+          "sourceUrl": "https://thenevadaindependent.com/es/article/where-do-the-candidates-in-northern-nevadas-2nd-congressional-district-stand-on-the-issues",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Flippo supports expanding domestic energy production to reduce gasoline and electricity prices.",
+          "quote": "Unleash American energy production to lower gas and electricity bills.",
+          "sourceUrl": "https://flippo4nv.com/issues/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Flippo supports the SAVE Act, voter identification, and proof-of-citizenship requirements.",
+          "quote": "Pass the SAVE Act. The overwhelming majority of Americans agree that voter ID and proof of citizenship is a must.",
+          "sourceUrl": "https://flippo4nv.com/issues/",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Chapman, Lynn",
+      "party": "IAP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Chapman opposed raising property taxes and argued that Nevada should not overtax residents.",
+          "quote": "This is the wrong time to even consider raising taxes on families and raising property taxes.",
+          "sourceUrl": "https://archive.leg.state.nv.us/Session/82nd2023/Minutes/Senate/RED/Final/786.pdf",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Chapman opposed legislation restricting firearms at certain businesses and argued that additional laws targeting lawful gun owners were not the answer.",
+          "quote": "More laws like this targeting legal gun owners is not the answer. Please oppose Senate Bill 452.",
+          "sourceUrl": "https://archive.leg.state.nv.us/Session/81st2021/Minutes/Senate/JUD/Final/1328.pdf",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Chapman criticized a resolution supporting Roe and Casey, saying it protected women's abortion rights without protecting children's rights.",
+          "quote": "I am very saddened that a child's rights are never protected.",
+          "sourceUrl": "https://archive.leg.state.nv.us/Session/79th2017/Minutes/Assembly/LOE/Final/532.pdf",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "thenevadaindependent.com · electteresa.com · flippo4nv.com · ivoterguide.com · archive.leg.state.nv.us",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

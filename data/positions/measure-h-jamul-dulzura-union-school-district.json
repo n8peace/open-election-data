@@ -1,0 +1,33 @@
+{
+  "office": "Measure H",
+  "district": "Jamul-Dulzura Union School District",
+  "division": "ca/school-jamul-dulzura-union",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes bonds to repair and modernize school facilities in the Jamul-Dulzura Union School District.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {}
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Opposes Measure H to prevent a property tax increase for the Jamul-Dulzura Union School District.",
+          "quote": "Imposes a new costly property tax despite massive levels of wasteful spending, giving government workers massive salary hikes and pension spikes, and awarding contracts to political supporters without fair and open competition.",
+          "sourceUrl": "https://www.reformcalifornia.org/voter-guides/san-diego",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "reformcalifornia.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

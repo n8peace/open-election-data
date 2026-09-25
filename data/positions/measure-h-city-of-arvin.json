@@ -1,0 +1,41 @@
+{
+  "office": "Measure H",
+  "district": "City of Arvin",
+  "division": "ca/place-arvin",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a 1% transactions and use (sales) tax in the City of Arvin for general city services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote supports a new 1% local sales tax to fund general city services, including public safety, roads, parks, and youth and senior services.",
+          "quote": "On November 3, 2026, City of Arvin voters will vote on a proposed one-percent local transactions and use tax, commonly called a local sales tax. If approved, the measure would add one cent to each taxable dollar spent in Arvin and is estimated to generate approximately $2.35 million annually for general City services.",
+          "sourceUrl": "https://arvinmeasureh.com/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would block Arvin's proposed 1% sales tax from taking effect.",
+          "quote": "A \"no\" vote would prevent the proposed tax from taking effect. It would not eliminate an existing Arvin tax.",
+          "sourceUrl": "https://arvinmeasureh.com/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "arvinmeasureh.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

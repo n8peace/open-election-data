@@ -120,7 +120,9 @@ async function main() {
       const district = m.jurisdiction;
       const key = contestKey(office, district);
       const issues = await mapMeasureIssues('California', { number: letter(m), title: m.title, summary: m.summary }, `${m.jurisdiction} Measure ${letter(m)}`);
-      const input = { office, district, division, kind: 'measure', summary: m.summary, issues, sourceUrl: a.sourceUrl ?? b.sourceUrl, choices: [{ name: 'Yes' }, { name: 'No' }] };
+      // Research files allow 400 characters; keep the first sentence of a long summary.
+      const summary = m.summary.length <= 400 ? m.summary : (m.summary.split(/(?<=\.)\s/)[0].slice(0, 400));
+      const input = { office, district, division, kind: 'measure', summary, issues, sourceUrl: a.sourceUrl ?? b.sourceUrl, choices: [{ name: 'Yes' }, { name: 'No' }] };
       await writeFile(path.join(dir, `${key}.json`), JSON.stringify(input, null, 2) + '\n');
       if (!issues.length && !existing.has(key)) {
         // Still shown on the ballot with its summary, just without a match.

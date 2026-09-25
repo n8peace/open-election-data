@@ -1,0 +1,41 @@
+{
+  "office": "Measure G",
+  "district": "City of Twentynine Palms",
+  "division": "ca/place-twentynine-palms",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a City of Twentynine Palms transactions and use (sales) tax.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote supports a 1% sales tax expected to raise about $2 million annually for essential city services and facilities.",
+          "quote": "Measure G asks voters to choose whether or not to approve a 1% sales tax, which would provide approximately $2 million annually, until ended by voters.",
+          "sourceUrl": "https://www.ci.twentynine-palms.ca.us/measure-g",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "The No position opposes Measure G’s proposed 1% sales tax for city services.",
+          "quote": "Measure G asks voters to choose whether or not to approve a 1% sales tax, which would provide approximately $2 million annually, until ended by voters.",
+          "sourceUrl": "https://www.ci.twentynine-palms.ca.us/measure-g",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "ci.twentynine-palms.ca.us",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,41 @@
+{
+  "office": "Measure D",
+  "district": "City of Fortuna",
+  "division": "ca/place-fortuna",
+  "kind": "measure",
+  "summary": "A Yes vote enacts an additional 0.75% city sales (transactions and use) tax beginning April 1, 2027, estimated to generate about $1,800,000 per year for general city services until repealed by voters.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote raises the sales tax to fund essential city services and increases city revenue.",
+          "quote": "If passed, the ballot measure would raise Fortuna’s sales tax to 1.5 cents — the same rate as Arcata and Eureka — to fund essential services, increasing city revenue by $1.8 million annually.",
+          "sourceUrl": "https://lostcoastoutpost.com/2026/aug/18/fortuna-city-council-selects-chamber-commerce-helm/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not enact the proposed sales tax increase.",
+          "quote": "If passed, the ballot measure would raise Fortuna’s sales tax to 1.5 cents — the same rate as Arcata and Eureka — to fund essential services, increasing city revenue by $1.8 million annually.",
+          "sourceUrl": "https://lostcoastoutpost.com/2026/aug/18/fortuna-city-council-selects-chamber-commerce-helm/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "lostcoastoutpost.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

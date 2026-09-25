@@ -1,0 +1,41 @@
+{
+  "office": "Measure G",
+  "district": "City of Los Alamitos",
+  "division": "ca/place-los-alamitos",
+  "kind": "measure",
+  "summary": "A Yes vote increases the City of Los Alamitos transient occupancy (hotel) tax from 8% to 12%.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote raises the transient occupancy tax from 8 percent to 12 percent.",
+          "quote": "The City Council voted June 15 to ask voters to raise the transient occupancy tax from 8 percent to 12 percent",
+          "sourceUrl": "https://losalledger.org/november-2026-final-field-four-seats-off-ballot",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not raise the transient occupancy tax from 8 percent to 12 percent.",
+          "quote": "The City Council voted June 15 to ask voters to raise the transient occupancy tax from 8 percent to 12 percent",
+          "sourceUrl": "https://losalledger.org/november-2026-final-field-four-seats-off-ballot",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "losalledger.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

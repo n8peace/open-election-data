@@ -1,0 +1,41 @@
+{
+  "office": "Measure H",
+  "district": "County of Sonoma",
+  "division": "ca/county-sonoma",
+  "kind": "measure",
+  "summary": "A Yes vote continues an existing one-eighth-cent (0.125%) countywide special sales tax, providing about $15.5 million annually until ended by voters, to fund regional and neighborhood parks, water supply and habitat protection, wildfire risk reduction, and trails, with community oversight and annual audits.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote extends the Measure M sales tax to continue funding parks and park improvements.",
+          "quote": "This measure extends the Measure M sales tax, which was passed by voters in 2018 and sunsets in 2029.",
+          "sourceUrl": "https://www.bikesonoma.org/our-work/advocacy/bike-the-vote/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not extend the Measure M sales tax beyond its scheduled 2029 sunset.",
+          "quote": "This measure extends the Measure M sales tax, which was passed by voters in 2018 and sunsets in 2029.",
+          "sourceUrl": "https://www.bikesonoma.org/our-work/advocacy/bike-the-vote/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "bikesonoma.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

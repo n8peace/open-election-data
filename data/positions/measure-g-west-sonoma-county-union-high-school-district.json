@@ -1,0 +1,33 @@
+{
+  "office": "Measure G",
+  "district": "West Sonoma County Union High School District",
+  "division": "ca/school-west-sonoma-county-union-high",
+  "kind": "measure",
+  "summary": "A Yes vote renews the district's $79-per-parcel tax for eight years, raising about $1,950,000 annually for the district, with an exemption available to seniors.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Measure G would provide locally controlled funding for educational programs and services in the West Sonoma County Union High School District.",
+          "quote": "The measure provides locally controlled funding to support educational programs and services for students in the district.",
+          "sourceUrl": "https://sonomademocrats.org/2026-local-ballot-measure-endorsements/",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "sonomademocrats.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

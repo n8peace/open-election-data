@@ -1,0 +1,110 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 74",
+  "division": "ca/sldl-74",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Sergio Farias",
+      "party": "Democratic",
+      "stances": {}
+    },
+    {
+      "name": "Laurie Davies",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Davies said she supports lowering taxes and preserving Proposition 13.",
+          "quote": "As your Assemblywoman, I have and will continue to support policies that: lower taxes; preserve Proposition 13;",
+          "sourceUrl": "https://ocvote.gov/fileadmin/user_upload/elections/PRI2022/vig/Complete_VIG.pdf",
+          "agreement": "9/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Davies twice voted against AB 1228, which established a higher minimum wage for fast-food workers.",
+          "quote": "Noes Alanis, Megan Dahle, Davies, Dixon, Essayli, Flora, Vince Fong, Gallagher, Hoover, Lackey, Mathis, Jim Patterson, Joe Patterson, Sanchez, Ta, Waldron, Wallis",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1228",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Davies introduced AB 1786 to require transfer options for certain low-performing public-school students.",
+          "quote": "This bill would require a school district of residence to also approve an intradistrict transfer request for a low-performing pupil",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220AB1786",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Davies opposes defunding the police and supports maintaining enough trained and equipped police in every community.",
+          "quote": "I oppose ‘Defunding the Police.’ I believe we need to do what it takes to have enough well-trained, properly equipped police in every community.",
+          "sourceUrl": "https://www.daviesforca.com/issues",
+          "agreement": "6/10"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "Davies said she supports stopping the early release of convicted felons.",
+          "quote": "promote safe neighborhoods and parks; resolve the homelessness crisis; and stop the early release of convicted felons.",
+          "sourceUrl": "https://ocvote.gov/fileadmin/user_upload/elections/PRI2022/vig/Complete_VIG.pdf",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "Davies voted against SCA 10, which proposed a state constitutional right to reproductive freedom.",
+          "quote": "Noes Bigelow, Choi, Cunningham, Megan Dahle, Davies, Flora, Fong, Gallagher, Kiley, Lackey, Mathis, Nguyen, Patterson, Seyarto, Smith, Voepel, Waldron",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SCA10",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Davies voted against advancing AB 1400, the Guaranteed Health Care for All single-payer proposal.",
+          "quote": "Ayes Bryan, Calderon, Gabriel, Holden, Levine, McCarty, Mullin, Quirk, Luz Rivas, Robert Rivas, Stone Noes Bigelow, Davies, Fong",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220AB1400",
+          "agreement": "4/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Davies said gasoline should be made more affordable and opposed regulations she blamed for higher prices.",
+          "quote": "The fact is we need to be making gasoline more affordable and all these rules and regulations are the reason gas is $1 more expensive here in California than anywhere else in the nation.",
+          "sourceUrl": "https://www.daviesforca.com/attack-responses",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "Davies voted against SB 1174, which prohibited local governments from requiring voter identification.",
+          "quote": "Noes Alanis, Chen, Megan Dahle, Davies, Dixon, Essayli, Gallagher, Hoover, Lackey, Mathis, Jim Patterson, Joe Patterson, Sanchez, Ta, Waldron, Wallis",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240SB1174",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "ocvote.gov · leginfo.legislature.ca.gov · daviesforca.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

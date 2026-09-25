@@ -1,0 +1,42 @@
+{
+  "office": "Measure E",
+  "district": "Waugh School District",
+  "division": "ca/school-waugh",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue $16,000,000 in bonds, levied at about $30 per $100,000 of assessed value while outstanding, to modernize classrooms and facilities and make health, safety, and security improvements.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would authorize up to $16 million in school bonds repaid through property-tax levies.",
+          "quote": "This measure will authorize bonds of up to $16 million, repaid through levies of $30 per $100,000 of assessed valuation on land parcels within the district.",
+          "sourceUrl": "https://www.northbayop.org/voterguide",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "The No position opposes authorizing $16 million in school bonds repaid through property-tax levies of $30 per $100,000 of assessed value.",
+          "quote": "This measure will authorize bonds of up to $16 million, repaid through levies of $30 per $100,000 of assessed valuation on land parcels within the district.",
+          "sourceUrl": "https://www.northbayop.org/voterguide",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "northbayop.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

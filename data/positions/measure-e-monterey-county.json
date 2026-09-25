@@ -1,0 +1,41 @@
+{
+  "office": "Measure E",
+  "district": "Monterey County",
+  "division": "ca/county-monterey",
+  "kind": "measure",
+  "summary": "A Yes vote increases the transient occupancy tax paid by hotel and short-term lodging guests in the unincorporated area of the county from 10.5% to 12.5%.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote increases the County of Monterey transient occupancy tax on hotel and lodging guests in the unincorporated area from 10.5% to 12.5% to fund county services.",
+          "quote": "To fund critical County of Monterey services, including programs to improve street, water and sewer infrastructure maintenance; repair potholes; enhance emergency services; update libraries, parks and recreation facilities; improve healthcare and job development programs; and reduce homelessness, shall the County of Monterey increase its existing Transient Occupancy Tax paid only by hotel/lodging guests in the unincorporated area from 10.5% to 12.5% providing approximately $7,600,000 annually to be spent locally, until ended by voters?",
+          "sourceUrl": "https://localnewsmatters.org/monterey-county-november-3-2026/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not increase the County of Monterey transient occupancy tax under this measure.",
+          "quote": "To fund critical County of Monterey services, including programs to improve street, water and sewer infrastructure maintenance; repair potholes; enhance emergency services; update libraries, parks and recreation facilities; improve healthcare and job development programs; and reduce homelessness, shall the County of Monterey increase its existing Transient Occupancy Tax paid only by hotel/lodging guests in the unincorporated area from 10.5% to 12.5% providing approximately $7,600,000 annually to be spent locally, until ended by voters?",
+          "sourceUrl": "https://localnewsmatters.org/monterey-county-november-3-2026/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "localnewsmatters.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

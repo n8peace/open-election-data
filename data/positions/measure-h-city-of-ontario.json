@@ -1,0 +1,32 @@
+{
+  "office": "Measure H",
+  "district": "City of Ontario",
+  "division": "ca/place-ontario",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a City of Ontario transactions and use (sales) tax.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would establish a half-cent sales tax to fund public safety, street repairs, homelessness programs, affordable housing, and other city services.",
+          "quote": "To maintain fire, paramedic, police, 911 response, anti-gang programs; respond to property crimes, thefts, burglaries; clean and maintain public areas; repair streets/potholes; address homelessness; increase access to affordable housing for seniors/families/individuals; retain/attract local businesses; for general City services; shall the measure establishing a half-cent sales tax providing approximately $32,500,000 annually until ended by voters; requiring audits, spending disclosure, funds locally controlled, be adopted?",
+          "sourceUrl": "https://www.ontarioca.gov/government/management-services/communications-community-relations/measure-h-ontario-public-safety",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "ontarioca.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

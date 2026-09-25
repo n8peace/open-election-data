@@ -1,0 +1,58 @@
+{
+  "office": "Measure C",
+  "district": "Summerville Elementary School District",
+  "division": "ca/school-summerville-elementary",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Summerville Elementary School District to issue up to $3.4 million in general obligation bonds, repaid by a property tax estimated at $30 per $100,000 of assessed value, to repair and upgrade facilities at its Tuolumne campus, including roofs, heating and cooling systems, fire safety and alarm systems, and plumbing, sewer, and electrical lines, with independent audits…",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would authorize a bond that costs homeowners in the school district $30 per $100,000 of assessed value and funds campus improvements.",
+          "quote": "The money would be spent on campus improvements and cost homeowners in the school district $30 per $100,000 of assessed value.",
+          "sourceUrl": "https://mymotherlode.com/news/local/11053531/measure-c-bond-measure-proposed-for-summerville-elementary.html",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote would fund repairs and improvements at Summerville Elementary School, a district public school.",
+          "quote": "Money would go to repairs and improvements identified in the school’s Facilities Master Plan.",
+          "sourceUrl": "https://mymotherlode.com/news/local/11053531/measure-c-bond-measure-proposed-for-summerville-elementary.html",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would not authorize this bond or its associated cost for campus improvements.",
+          "quote": "The money would be spent on campus improvements and cost homeowners in the school district $30 per $100,000 of assessed value.",
+          "sourceUrl": "https://mymotherlode.com/news/local/11053531/measure-c-bond-measure-proposed-for-summerville-elementary.html",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote would not authorize this bond funding for improvements at Summerville Elementary School.",
+          "quote": "Money would go to repairs and improvements identified in the school’s Facilities Master Plan.",
+          "sourceUrl": "https://mymotherlode.com/news/local/11053531/measure-c-bond-measure-proposed-for-summerville-elementary.html",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "mymotherlode.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}
