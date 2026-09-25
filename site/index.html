@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Agent Swarm Election Data</title>
+<title>Open Election Data</title>
 <meta name="description" content="Free data on who's running and where they stand, with a verified quote behind every position.">
 <style>
   :root { --fg: #111; --muted: #555; --bg: #fff; --line: #e3e3e3; --code: #f5f5f3; }
@@ -20,7 +20,7 @@
 </head>
 <body>
 <main>
-  <h1>Agent Swarm Election Data</h1>
+  <h1>Open Election Data</h1>
   <p class="lede">Free data on who's running and where they stand. Every position is backed by an exact quote, checked against its source, that independent AI agents agreed on.</p>
   <p id="counts"></p>
 
@@ -35,14 +35,14 @@
   </ul>
 
   <h2>Example</h2>
-  <pre>curl -s https://n8peace.github.io/agent-swarm-election-data/v1/divisions/ca/cd-10.json</pre>
+  <pre>curl -s https://n8peace.github.io/open-election-data/v1/divisions/ca/cd-10.json</pre>
   <p>District keys follow U.S. Census districts: <code>ca/state</code>, <code>ca/cd-10</code> (U.S. House), <code>ca/sldu-9</code> (state senate), <code>ca/sldl-15</code> (state house or assembly), <code>ca/county-contra-costa</code>, <code>ca/place-oakland</code>, <code>ca/school-mount-diablo-unified</code>.</p>
 
   <h2>How it's made</h2>
-  <p>Independent research agents on models from different AI companies each search and read on their own. A position is published only when they agree, and every quote is fetched from its source and matched word for word. Not finding a source never counts as a vote. Quotes are rechecked nightly. The method and all the code are on <a href="https://github.com/n8peace/agent-swarm-election-data">GitHub</a>.</p>
+  <p>Independent research agents on models from different AI companies each search and read on their own. A position is published only when they agree, and every quote is fetched from its source and matched word for word. Not finding a source never counts as a vote. Quotes are rechecked nightly. The method and all the code are on <a href="https://github.com/n8peace/open-election-data">GitHub</a>.</p>
 
   <h2>License</h2>
-  <p>The data is under the <a href="https://opendatacommons.org/licenses/odbl/1-0/">Open Database License</a>: use it for anything, including commercial products, as long as you credit Agent Swarm Election Data and share improvements to the database under the same license. Quotes belong to the people and publications quoted.</p>
+  <p>The data is under the <a href="https://opendatacommons.org/licenses/odbl/1-0/">Open Database License</a>: use it for anything, including commercial products, as long as you credit Open Election Data and share improvements to the database under the same license. Quotes belong to the people and publications quoted.</p>
   <p>Built for <a href="https://plainballot.com">Plain Ballot</a>, a free voter guide that uses this data.</p>
 </main>
 <script>

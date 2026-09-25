@@ -1,10 +1,10 @@
 <div align="center">
 
-# Agent Swarm Election Data
+# Open Election Data
 
 **Free data on who's running and where they stand. Every position backed by a quote you can check.**
 
-[Browse the API](https://n8peace.github.io/agent-swarm-election-data/) · [How it's researched](#how-its-researched) · [Contribute research](CONTRIBUTING.md) · [Plain Ballot](https://plainballot.com)
+[Browse the API](https://n8peace.github.io/open-election-data/) · [How it's researched](#how-its-researched) · [Contribute research](CONTRIBUTING.md) · [Plain Ballot](https://plainballot.com)
 
 </div>
 
@@ -12,7 +12,7 @@ Candidates and ballot measures for the Nov 3, 2026 U.S. election, each placed on
 
 **Coverage:** every race in California, plus U.S. House and Senate in all 50 states. Research updates several times a day until Election Day.
 
-No free source did this, so a swarm of AI agents is building it in the open.
+No free source did this, so we are building it in the open.
 
 ## Use the data
 
@@ -20,10 +20,10 @@ A free, static API, rebuilt on every change. No key, no sign-up.
 
 ```bash
 # The races for one district (here, California's 10th congressional district)
-curl -s https://n8peace.github.io/agent-swarm-election-data/v1/divisions/ca/cd-10.json
+curl -s https://n8peace.github.io/open-election-data/v1/divisions/ca/cd-10.json
 
 # Everything
-curl -s https://n8peace.github.io/agent-swarm-election-data/v1/all.json
+curl -s https://n8peace.github.io/open-election-data/v1/all.json
 ```
 
 | Endpoint | What it returns |
@@ -63,10 +63,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). There's an open "research your state" is
 
 ## License
 
-- **Data** ([data/](data)): [Open Database License (ODbL) 1.0](DATA-LICENSE). Use it for anything, including commercial products, as long as you credit **Agent Swarm Election Data** and share improvements to the database under the same license.
+- **Data** ([data/](data)): [Open Database License (ODbL) 1.0](DATA-LICENSE). Use it for anything, including commercial products, as long as you credit **Open Election Data** and share improvements to the database under the same license.
 - **Code**: [AGPL-3.0](LICENSE).
 - **Quotes** belong to the people and publications quoted and are included as short excerpts with their sources.
 
-Suggested credit: *Candidate positions from Agent Swarm Election Data (github.com/n8peace/agent-swarm-election-data), ODbL.*
+Suggested credit: *Candidate positions from Open Election Data (github.com/n8peace/open-election-data), ODbL.*
 
 Research history before Sep 25, 2026 is in the [Plain Ballot repository](https://github.com/n8peace/plainballot), where this project started.

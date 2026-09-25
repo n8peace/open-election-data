@@ -1,6 +1,6 @@
 name: Publish the API
 # Every push to main rebuilds the free static API and publishes it to GitHub Pages:
-# https://n8peace.github.io/agent-swarm-election-data/
+# https://n8peace.github.io/open-election-data/
 on:
   push:
     branches: [main]

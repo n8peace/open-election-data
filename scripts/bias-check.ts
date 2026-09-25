@@ -32,7 +32,7 @@ const Finding = z.object({
 });
 const Review = z.object({ findings: z.array(Finding) });
 
-const INSTRUCTIONS = `You review changes to Agent Swarm Election Data, open nonpartisan data on candidates and their positions (used by the Plain Ballot voter guide). Your only job is to find partisan or ideological bias the change would introduce. You are not reviewing code quality.
+const INSTRUCTIONS = `You review changes to Open Election Data, open nonpartisan data on candidates and their positions (used by the Plain Ballot voter guide). Your only job is to find partisan or ideological bias the change would introduce. You are not reviewing code quality.
 
 Flag only real problems, in these categories:
 - wording: text framed the way one side's opponents would describe it, instead of how its own supporters would. Each end of a dial must read as its own supporters would say it.

@@ -1,15 +1,15 @@
 {
-  "name": "agent-swarm-election-data",
+  "name": "open-election-data",
   "version": "0.1.0",
   "private": true,
   "description": "Free data on who's running and where they stand, researched by independent AI agents that have to agree. Every position backed by a verified quote.",
-  "homepage": "https://n8peace.github.io/agent-swarm-election-data/",
+  "homepage": "https://n8peace.github.io/open-election-data/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/n8peace/agent-swarm-election-data.git"
+    "url": "git+https://github.com/n8peace/open-election-data.git"
   },
   "bugs": {
-    "url": "https://github.com/n8peace/agent-swarm-election-data/issues"
+    "url": "https://github.com/n8peace/open-election-data/issues"
   },
   "license": "SEE LICENSE IN README.md",
   "engines": {

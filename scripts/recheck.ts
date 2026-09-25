@@ -16,7 +16,7 @@ import { researchWithConsensus } from '../lib/research/run';
 
 interface ReportBlock { contestId: string; office: string; district?: string; candidate?: string; issue: string; sourceUrl?: string }
 
-const REPO = process.env.GITHUB_REPOSITORY || 'n8peace/agent-swarm-election-data';
+const REPO = process.env.GITHUB_REPOSITORY || 'n8peace/open-election-data';
 
 async function readIssue(n: number): Promise<ReportBlock> {
   const res = await fetch(`https://api.github.com/repos/${REPO}/issues/${n}`, {

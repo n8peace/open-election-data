@@ -16,11 +16,11 @@ import { loadPositions } from '../lib/ballot/positions';
 import { levelFor } from '../lib/research/divisions';
 
 const OUT = 'dist';
-const REPO = 'https://github.com/n8peace/agent-swarm-election-data';
+const REPO = 'https://github.com/n8peace/open-election-data';
 const LICENSE = {
-  data: 'ODbL-1.0 (Open Database License). Use it for anything, including commercial products; credit Agent Swarm Election Data and share improvements to the database under the same license.',
+  data: 'ODbL-1.0 (Open Database License). Use it for anything, including commercial products; credit Open Election Data and share improvements to the database under the same license.',
   quotes: 'Quotes belong to the people and publications quoted and are included as short excerpts with their sources.',
-  attribution: `Candidate positions from Agent Swarm Election Data (${REPO}), ODbL.`,
+  attribution: `Candidate positions from Open Election Data (${REPO}), ODbL.`,
 };
 
 const write = async (p: string, data: unknown) => {
@@ -42,7 +42,7 @@ async function main() {
   for (const c of contests) await write(`v1/contests/${c.id}.json`, { generatedAt, license: LICENSE, contest: c });
   for (const [division, cs] of byDivision) await write(`v1/divisions/${division}.json`, { generatedAt, division, contests: cs });
   await write('v1/index.json', {
-    name: 'Agent Swarm Election Data',
+    name: 'Open Election Data',
     description: 'Candidates and ballot measures for the Nov 3, 2026 U.S. election, placed on 18 issues. Every position is backed by an exact quote, verified against its source, that independent AI agents agreed on.',
     generatedAt,
     source: REPO,

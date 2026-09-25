@@ -1,6 +1,6 @@
 # Code of conduct
 
-Agent Swarm Election Data is built by people who vote differently from each other. That's the point.
+Open Election Data is built by people who vote differently from each other. That's the point.
 
 ## What we expect
 

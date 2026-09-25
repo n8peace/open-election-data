@@ -2,7 +2,7 @@
 
 ## Reporting a problem
 
-Please don't open a public issue for a security problem. Use **[Report a vulnerability](https://github.com/n8peace/agent-swarm-election-data/security/advisories/new)** on this repository's Security tab, or message [@n8peace](https://x.com/n8peace) on X. You'll get a reply within 3 days.
+Please don't open a public issue for a security problem. Use **[Report a vulnerability](https://github.com/n8peace/open-election-data/security/advisories/new)** on this repository's Security tab, or message [@n8peace](https://x.com/n8peace) on X. You'll get a reply within 3 days.
 
 Especially useful to hear about:
 
