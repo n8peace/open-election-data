@@ -12,7 +12,7 @@ Candidates and ballot measures for the Nov 3, 2026 U.S. election, each placed on
 
 **Coverage:** every race in California, plus U.S. House and Senate in all 50 states. Research updates several times a day until Election Day.
 
-No free source did this, so we are building it in the open.
+It's a free, open dataset of where candidates stand, with a checkable quote behind every position, built in the open.
 
 ## Use the data
 
@@ -48,6 +48,19 @@ District keys follow U.S. Census districts: `ca/state`, `ca/cd-10` (U.S. House),
 - **Corrections are public.** Anyone can report a claim; fresh agents recheck it, and the fix is published here.
 
 The issue wording is in [lib/issues.ts](lib/issues.ts) and the agreement rules are in [lib/research/consensus.ts](lib/research/consensus.ts).
+
+## What already exists
+
+Good work is already out there, and this project learns from it:
+
+- **[BallotReady](https://organizations.ballotready.org/ballotready-api)** offers candidates, measures and issue stances through a paid API for organizations.
+- **[Vote Smart](https://www.votesmart.org/votesmart-api)** collects positions through its Political Courage Test (a survey candidates fill in), along with voting records and ratings.
+- **[Ballotpedia](https://ballotpedia.org)** is the most complete record of who's running.
+- **[Democracy Works](https://democracy.works/elections-api)** and **[Google Civic](https://developers.google.com/civic-information)** cover who's on the ballot and how to vote.
+- **[FEC](https://api.open.fec.gov/developers/)** and **[OpenSecrets](https://www.opensecrets.org/open-data/api-documentation)** cover campaign money.
+- **[coldix/elections](https://github.com/coldix/elections)** does sourced, open candidate positions for Australian elections.
+
+This project adds a free, open dataset of where candidates stand, with a checkable quote behind every position: every candidate on the same issues, free for anyone to reuse.
 
 ## Research with your own AI plan
 
