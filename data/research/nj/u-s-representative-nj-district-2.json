@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "NJ District 2",
+  "division": "nj/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "JEFF VAN DREW",
+      "party": "Republican"
+    },
+    {
+      "name": "ZACK MULLOCK",
+      "party": "Democratic"
+    },
+    {
+      "name": "RAMON MORA JR.",
+      "party": "INDEPENDENT"
+    }
+  ]
+}

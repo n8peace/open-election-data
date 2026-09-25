@@ -1,0 +1,28 @@
+{
+  "office": "U.S. Representative",
+  "district": "NE District 03",
+  "division": "ne/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Adrian Smith",
+      "party": "Republican"
+    },
+    {
+      "name": "Becky Kelly Stille",
+      "party": "Democratic"
+    },
+    {
+      "name": "David J. Else",
+      "party": "Legal Marijuana NOW"
+    },
+    {
+      "name": "Macey Budke",
+      "party": "Nebraska Working People"
+    },
+    {
+      "name": "Mark Cohen",
+      "party": "By Petition"
+    }
+  ]
+}

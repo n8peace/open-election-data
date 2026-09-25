@@ -1,0 +1,54 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 78",
+  "division": "ca/sldl-78",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Chris Ward",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Ward supports funding affordable housing, reducing regulatory barriers and increasing housing supply.",
+          "quote": "California’s housing crisis can only be solved with one thing: housing. I will work to secure funding from Sacramento to scale up affordable housing projects, cut red tape to build more middle-income homes, work to fund local projects for mixed-use buildings and smart growth, and simultaneously work to ensure that quality of life in our neighborhoods is maintained while housing supply increases.",
+          "sourceUrl": "https://voteforward.com/issues-1",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Ward called for California to continue leading on greenhouse-gas reductions in response to climate threats.",
+          "quote": "California needs a plan to protect ourselves from these threats and to continue our leadership in greenhouse reduction.",
+          "sourceUrl": "https://voteforward.com/issues-1",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Payton Galvez",
+      "party": "Republican",
+      "stances": {}
+    }
+  ],
+  "sources": "voteforward.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

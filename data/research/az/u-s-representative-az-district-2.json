@@ -5,12 +5,16 @@
   "kind": "candidate",
   "choices": [
     {
+      "name": "Curtis Goodwin",
+      "party": "Libertarian"
+    },
+    {
       "name": "Eli Crane",
       "party": "Republican"
     },
     {
-      "name": "Curtis Goodwin",
-      "party": "Libertarian"
+      "name": "Jonathan Nez",
+      "party": "Democratic"
     }
   ]
 }

@@ -5,20 +5,20 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "JoAnna Mendoza",
-      "party": "Democratic"
-    },
-    {
-      "name": "Juan Ciscomani",
-      "party": "Republican"
-    },
-    {
       "name": "Gary Swing",
       "party": "Green"
     },
     {
       "name": "Jereme Lance Peters",
       "party": "Libertarian"
+    },
+    {
+      "name": "JoAnna Mendoza",
+      "party": "Democratic"
+    },
+    {
+      "name": "Juan Ciscomani",
+      "party": "Republican"
     }
   ]
 }

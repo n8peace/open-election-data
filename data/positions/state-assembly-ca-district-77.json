@@ -1,0 +1,87 @@
+{
+  "office": "State Assembly",
+  "district": "CA District 77",
+  "division": "ca/sldl-77",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Tasha Boerner",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She said California must build multiple kinds of housing and cited laws she authored to ease construction of starter and affordable homes.",
+          "quote": "California has to build more housing — apartments, starter homes, shelter beds, supportive housing and multifamily housing — while respecting the character of existing communities.",
+          "sourceUrl": "https://losangelesmovinginsider.com/qa-meet-tasha-boerner-candidate-for-california-state-assembly-district-77/",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "She helped obtain additional funding for San Diego County firefighters and law enforcement.",
+          "quote": "She has helped secure new funding for San Diego County firefighters and law enforcement.",
+          "sourceUrl": "https://tashaboerner.com/issues",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Boerner co-authored Proposition 1 to enshrine abortion rights and contraception in the California Constitution.",
+          "quote": "I co-authored Proposition 1 , which would enshrine reproductive rights in the California Constitution. Proposition 1 is an essential step to protect the right to abortion health care and birth control",
+          "sourceUrl": "https://www.sandiegouniontribune.com/2022/09/20/nov-2022-election-qa-with-tasha-boerner-horvath-california-state-assembly-district-77-candidate/",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "She introduced legislation to preserve Medi-Cal enrollment and called for expanding preventive, primary and mental-health care.",
+          "quote": "I introduced AB 2201, the Protecting Medi-Cal Coverage for Californians Act, to streamline Medi-Cal eligibility and reduce wrongful terminations. We should also expand prevention, primary care and mental health treatment, because it makes good moral and fiscal sense.",
+          "sourceUrl": "https://losangelesmovinginsider.com/qa-meet-tasha-boerner-candidate-for-california-state-assembly-district-77/",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She committed to a renewable-energy transition and advocated investments in clean-energy production and climate-resilience infrastructure.",
+          "quote": "I am committed to transitioning to renewable energy and ensuring cleaner air and water for future generations.",
+          "sourceUrl": "https://losangelesmovinginsider.com/qa-meet-tasha-boerner-candidate-for-california-state-assembly-district-77/",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Trinity Hannaway",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Hannaway condemned proposed tax increases as harmful to working Californians.",
+          "quote": "Whether it’s skyrocketing taxes, burdensome regulations, or outright attacks on personal freedoms, these bills are not just misguided—they are a direct assault on the rights, wallets, and futures of hardworking Californians.",
+          "sourceUrl": "https://www.reformcalifornia.org/news/reform-california-releases-list-of-25-worst-bills-in-2025",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "losangelesmovinginsider.com · tashaboerner.com · sandiegouniontribune.com · reformcalifornia.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

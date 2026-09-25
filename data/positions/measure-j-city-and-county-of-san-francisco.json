@@ -1,0 +1,32 @@
+{
+  "office": "Measure J",
+  "district": "City and County of San Francisco",
+  "division": "ca/place-city-and-county-of-san-francisco",
+  "kind": "measure",
+  "summary": "A Yes vote removes the foreclosure exemption from the real property transfer tax.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {}
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "The No side opposes ending the transfer-tax exemption for foreclosures on commercial properties and large residential buildings.",
+          "quote": "If you vote NO, you do not want to make these changes.",
+          "sourceUrl": "https://lwvsf.org/procon",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "lwvsf.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

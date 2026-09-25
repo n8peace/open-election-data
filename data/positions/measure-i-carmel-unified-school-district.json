@@ -1,0 +1,58 @@
+{
+  "office": "Measure I",
+  "district": "Carmel Unified School District",
+  "division": "ca/school-carmel-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the district to issue $250 million in bonds for school facilities, repaid by a property tax of about $36 per $100,000 of assessed value.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote authorizes $250,000,000 in bonds and a property-tax levy averaging $17,700,000 annually while the bonds are outstanding to fund improvements for Carmel Unified School District.",
+          "quote": "To update local schools, replace aging roofs, failing heating, cooling, ventilation, plumbing, electrical and sewer with efficient systems; improve student/ school safety; repair/ replace old buildings and aging portables with permanent classrooms; update classrooms/playgrounds; improve disability access; shall Carmel Unified School District&#x27;s measure be adopted, authorizing $250,000,000 in bonds at legal rates, levying $36 per $100,000 of assessed value, averaging $17,700,000 annually while bonds are outstanding, with independent oversight/ audits, no money for salaries, exclusively for CUSD?",
+          "sourceUrl": "https://localnewsmatters.org/monterey-county-november-3-2026/",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote provides bond funding exclusively for facilities and safety improvements in Carmel Unified School District schools.",
+          "quote": "To update local schools, replace aging roofs, failing heating, cooling, ventilation, plumbing, electrical and sewer with efficient systems; improve student/ school safety; repair/ replace old buildings and aging portables with permanent classrooms; update classrooms/playgrounds; improve disability access; shall Carmel Unified School District&#x27;s measure be adopted, authorizing $250,000,000 in bonds at legal rates, levying $36 per $100,000 of assessed value, averaging $17,700,000 annually while bonds are outstanding, with independent oversight/ audits, no money for salaries, exclusively for CUSD?",
+          "sourceUrl": "https://localnewsmatters.org/monterey-county-november-3-2026/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not authorize these bonds or their associated property-tax levy.",
+          "quote": "To update local schools, replace aging roofs, failing heating, cooling, ventilation, plumbing, electrical and sewer with efficient systems; improve student/ school safety; repair/ replace old buildings and aging portables with permanent classrooms; update classrooms/playgrounds; improve disability access; shall Carmel Unified School District&#x27;s measure be adopted, authorizing $250,000,000 in bonds at legal rates, levying $36 per $100,000 of assessed value, averaging $17,700,000 annually while bonds are outstanding, with independent oversight/ audits, no money for salaries, exclusively for CUSD?",
+          "sourceUrl": "https://localnewsmatters.org/monterey-county-november-3-2026/",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote does not provide the measure's bond funding for Carmel Unified School District schools.",
+          "quote": "To update local schools, replace aging roofs, failing heating, cooling, ventilation, plumbing, electrical and sewer with efficient systems; improve student/ school safety; repair/ replace old buildings and aging portables with permanent classrooms; update classrooms/playgrounds; improve disability access; shall Carmel Unified School District&#x27;s measure be adopted, authorizing $250,000,000 in bonds at legal rates, levying $36 per $100,000 of assessed value, averaging $17,700,000 annually while bonds are outstanding, with independent oversight/ audits, no money for salaries, exclusively for CUSD?",
+          "sourceUrl": "https://localnewsmatters.org/monterey-county-november-3-2026/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "localnewsmatters.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

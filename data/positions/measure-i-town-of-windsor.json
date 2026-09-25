@@ -1,0 +1,41 @@
+{
+  "office": "Measure I",
+  "district": "Town of Windsor",
+  "division": "ca/place-windsor",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a 1% transactions and use (sales) tax projected to raise about $5.7 million annually for the town's general fund and municipal services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote establishes a 1% local sales tax expected to generate approximately $5.7 million annually for Town services and general government use.",
+          "quote": "To provide funding for the Town of Windsor to maintain essential local services, such as repairing potholes and maintaining streets; neighborhood police patrols / emergency response / traffic enforcement; preserving parks / community events; disaster preparedness and fire prevention &mdash; removing brush / flammable fuels, and for general government use; shall the measure establishing a 1% sales tax, providing approximately $5,700,000 annually until ended by voters, requiring independent audits, citizen oversight, and all funds remaining in Windsor under local control, be adopted?",
+          "sourceUrl": "https://www.townofwindsor.ca.gov/SalesTax",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not establish the proposed 1% local sales tax, leaving the Town without that additional revenue.",
+          "quote": "To provide funding for the Town of Windsor to maintain essential local services, such as repairing potholes and maintaining streets; neighborhood police patrols / emergency response / traffic enforcement; preserving parks / community events; disaster preparedness and fire prevention &mdash; removing brush / flammable fuels, and for general government use; shall the measure establishing a 1% sales tax, providing approximately $5,700,000 annually until ended by voters, requiring independent audits, citizen oversight, and all funds remaining in Windsor under local control, be adopted?",
+          "sourceUrl": "https://www.townofwindsor.ca.gov/SalesTax",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "townofwindsor.ca.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

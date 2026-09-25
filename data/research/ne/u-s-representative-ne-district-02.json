@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "NE District 02",
+  "division": "ne/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Brinker Harding",
+      "party": "Republican"
+    },
+    {
+      "name": "Denise Powell",
+      "party": "Democratic"
+    },
+    {
+      "name": "Eric Michael Foreman",
+      "party": "Libertarian"
+    }
+  ]
+}

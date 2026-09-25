@@ -1,0 +1,41 @@
+{
+  "office": "Measure I",
+  "district": "City of Eureka",
+  "division": "ca/place-eureka",
+  "kind": "measure",
+  "summary": "A Yes vote raises the city's transient occupancy (hotel lodging) tax from 10% to 12%, projected to generate about $700,000 per year.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Measure I's supporters advocate raising Eureka's hotel tax from 10% to 12% to fund essential city services.",
+          "quote": "A YES vote on Measure I is a vote to support the quality of life in Eureka while ensuring that visitors help pay for the services they use.",
+          "sourceUrl": "https://humboldtgov.org/DocumentCenter/View/156833/Measure-I---City-of-Eureka-Tax-Measure",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would reject Measure I’s proposed two-percentage-point increase in Eureka’s transient occupancy tax.",
+          "quote": "A “no” vote is a vote against the enactment of a 2% increase in the City’s Transient Occupancy Tax.",
+          "sourceUrl": "https://humboldtgov.org/DocumentCenter/View/156833/Measure-I---City-of-Eureka-Tax-Measure",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "humboldtgov.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

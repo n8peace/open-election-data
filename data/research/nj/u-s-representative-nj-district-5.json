@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "NJ District 5",
+  "division": "nj/cd-5",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "JOSH GOTTHEIMER",
+      "party": "Democratic"
+    },
+    {
+      "name": "SEAN KIRRANE",
+      "party": "Republican"
+    },
+    {
+      "name": "ADAM RUEDA",
+      "party": "HUMANE SUSTAINABLE FUTURE"
+    }
+  ]
+}

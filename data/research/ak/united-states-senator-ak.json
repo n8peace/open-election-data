@@ -1,0 +1,24 @@
+{
+  "office": "United States Senator",
+  "district": "AK",
+  "division": "ak/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Heikes, Gerald L.",
+      "party": "Registered Republican"
+    },
+    {
+      "name": "Peltola, Mary",
+      "party": "Registered Democrat"
+    },
+    {
+      "name": "Sullivan, Dan S.",
+      "party": "Registered Republican"
+    },
+    {
+      "name": "Sullivan, Daniel J. Jr.",
+      "party": "Registered Republican"
+    }
+  ]
+}

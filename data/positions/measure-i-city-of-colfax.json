@@ -1,0 +1,41 @@
+{
+  "office": "Measure I",
+  "district": "City of Colfax",
+  "division": "ca/place-colfax",
+  "kind": "measure",
+  "summary": "A Yes vote adopts a 1% transactions and use (sales) tax to fund construction, maintenance, and repair of streets, sidewalks, and other infrastructure.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Measure I would impose a 1% sales tax dedicated to repairing and maintaining Colfax streets, sidewalks, and related infrastructure.",
+          "quote": "This measure proposes a 1 percent special sales tax. By law, the City can only use the revenue to repair and maintain City streets and sidewalks.",
+          "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-I_9-10-2026.pdf",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "The No position opposes Measure I’s proposed 1% sales tax for streets, sidewalks, drainage, sewers, and related administration.",
+          "quote": "Shall the measure to fund construction, improvement, maintenance, repair, and replacement of streets, sidewalks, and other infrastructure within the public right-of-way, including drainage and sewers, and administration of the measure, by adopting a 1% transactions and use (sales) tax providing approximately $1,864,000 annually until ended by voters, with independent audits, public spending disclosure, and a citizen oversight committee, and all funds spent locally, be adopted?",
+          "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-I_9-10-2026.pdf",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "placercountyelections.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

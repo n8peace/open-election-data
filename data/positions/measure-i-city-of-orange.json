@@ -1,0 +1,41 @@
+{
+  "office": "Measure I",
+  "district": "City of Orange",
+  "division": "ca/place-orange",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a one-cent (1%) transactions and use (sales) tax in the City of Orange for 13 years to fund general city services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote approves the 13-year, 1% sales tax increase to fund city finances and services.",
+          "quote": "At last week’s meeting, City Manager Jarad Hildenbrand said if the tax increases are approved the city would prioritize strengthening Orange’s finances by rebuilding reserves and paying down obligations and liabilities.",
+          "sourceUrl": "https://voiceofoc.org/2026/09/orange-explores-what-to-do-if-sales-tax-proposal-fails-in-november/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote rejects the sales tax increase, leaving the city to address its financial challenges within existing revenues.",
+          "quote": "At last week’s meeting, City Manager Jarad Hildenbrand said if the tax increases are approved the city would prioritize strengthening Orange’s finances by rebuilding reserves and paying down obligations and liabilities.",
+          "sourceUrl": "https://voiceofoc.org/2026/09/orange-explores-what-to-do-if-sales-tax-proposal-fails-in-november/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "voiceofoc.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,32 @@
+{
+  "office": "Measure I",
+  "district": "City and County of San Francisco",
+  "division": "ca/place-city-and-county-of-san-francisco",
+  "kind": "measure",
+  "summary": "A Yes vote changes the city's real property transfer tax.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Yes on Measure I supports preserving the existing luxury-real-estate transfer tax and dedicating its revenue to affordable housing, rent relief, eviction protection, and related programs.",
+          "quote": "Protects the luxury real estate transfer tax increase that voters passed with 2020’s Proposition I, which applies to the sale of real estate in excess of $10 million.",
+          "sourceUrl": "https://www.fairhousingsf.com/press/june-11-2026-affordable-housing-gathers-steam",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "fairhousingsf.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

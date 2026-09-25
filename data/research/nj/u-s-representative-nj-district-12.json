@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Representative",
+  "district": "NJ District 12",
+  "division": "nj/cd-12",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "ADAM HAMAWY",
+      "party": "Democratic"
+    },
+    {
+      "name": "GREGG MELE",
+      "party": "Republican"
+    },
+    {
+      "name": "ANDRES JINETE",
+      "party": "Green Party"
+    },
+    {
+      "name": "WINSTON JORDAN",
+      "party": "GET MONEY OUT"
+    }
+  ]
+}

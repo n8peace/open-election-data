@@ -1,0 +1,58 @@
+{
+  "office": "Measure I",
+  "district": "Hemet Unified School District",
+  "division": "ca/school-hemet-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes Hemet Unified School District to issue $225 million in bonds for school facilities, repaid by a property tax estimated at $50 per $100,000 of assessed value.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote authorizes $225 million in bonds and levies approximately $50 per $100,000 of assessed value while the bonds are outstanding.",
+          "quote": "To repair and upgrade aging classrooms, science labs, career technology and school facilities to support college/career readiness in math, science, technology, arts, engineering, skilled trades; fix deteriorating roofs, plumbing, electrical systems; and improve school safety, security, air conditioning systems; shall Hemet Unified School District’s rate-extension measure be adopted, authorizing $225,000,000 in bonds at legal rates, levying approximately $50 per $100,000 assessed value ($16,000,000 annually) while bonds are outstanding, with citizen oversight and independent audits?",
+          "sourceUrl": "https://caltax.org/2026/09/04/court-of-appeal-orders-change-to-impermissibly-misleading-language-in-school-bonds-ballot-title-and-question/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote authorizes bonds to repair, upgrade, and improve Hemet Unified School District facilities.",
+          "quote": "To repair and upgrade aging classrooms, science labs, career technology and school facilities to support college/career readiness in math, science, technology, arts, engineering, skilled trades; fix deteriorating roofs, plumbing, electrical systems; and improve school safety, security, air conditioning systems; shall Hemet Unified School District’s rate-extension measure be adopted, authorizing $225,000,000 in bonds at legal rates, levying approximately $50 per $100,000 assessed value ($16,000,000 annually) while bonds are outstanding, with citizen oversight and independent audits?",
+          "sourceUrl": "https://caltax.org/2026/09/04/court-of-appeal-orders-change-to-impermissibly-misleading-language-in-school-bonds-ballot-title-and-question/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not authorize the proposed bonds or their associated levy.",
+          "quote": "To repair and upgrade aging classrooms, science labs, career technology and school facilities to support college/career readiness in math, science, technology, arts, engineering, skilled trades; fix deteriorating roofs, plumbing, electrical systems; and improve school safety, security, air conditioning systems; shall Hemet Unified School District’s rate-extension measure be adopted, authorizing $225,000,000 in bonds at legal rates, levying approximately $50 per $100,000 assessed value ($16,000,000 annually) while bonds are outstanding, with citizen oversight and independent audits?",
+          "sourceUrl": "https://caltax.org/2026/09/04/court-of-appeal-orders-change-to-impermissibly-misleading-language-in-school-bonds-ballot-title-and-question/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote does not authorize the proposed bonds for Hemet Unified School District facilities.",
+          "quote": "To repair and upgrade aging classrooms, science labs, career technology and school facilities to support college/career readiness in math, science, technology, arts, engineering, skilled trades; fix deteriorating roofs, plumbing, electrical systems; and improve school safety, security, air conditioning systems; shall Hemet Unified School District’s rate-extension measure be adopted, authorizing $225,000,000 in bonds at legal rates, levying approximately $50 per $100,000 assessed value ($16,000,000 annually) while bonds are outstanding, with citizen oversight and independent audits?",
+          "sourceUrl": "https://caltax.org/2026/09/04/court-of-appeal-orders-change-to-impermissibly-misleading-language-in-school-bonds-ballot-title-and-question/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "caltax.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}
