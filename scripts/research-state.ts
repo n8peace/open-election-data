@@ -71,7 +71,15 @@ async function listContests(state: string, level: Exclude<Level, 'measures'>) {
       return listViaGateway(state, level, backend === 'codex' ? 'gateway:anthropic/claude-haiku-4.5' : undefined);
     }
   };
-  const lists = await Promise.all([read('claude-code'), read('codex')]);
+  // A reader that found nothing is not a vote against: set it aside and ask another.
+  let lists = (await Promise.all([read('claude-code'), read('codex')])).filter((l) => l.contests.length);
+  let tieBreaker = 'gateway:google/gemini-3.8-flash';
+  if (lists.length < 2) {
+    const extra = await listViaGateway(state, level, tieBreaker).catch(() => null);
+    tieBreaker = 'gateway:anthropic/claude-haiku-4.5';
+    if (extra?.contests.length) lists.push(extra);
+  }
+  if (lists.length < 2) { console.log(`  ${level}: fewer than two readers found the candidate list; skipped for now`); return []; }
   // Several statewide offices share a division, so the office name is part of the key.
   const key = (c: { office: string; district?: string }) => `${divisionFor(state, c.office, c.district) ?? contestKey(c.office, c.district)}|${canonicalOffice(c.office)}`;
   const tally = (ls: z.infer<typeof Contests>[]) => {
@@ -96,9 +104,9 @@ async function listContests(state: string, level: Exclude<Level, 'measures'>) {
   };
   let { agreed, unsettled } = tally(lists);
   // Readers disagree: a third reader on a different model breaks the tie (2 of 3 decide).
-  if (unsettled.length) {
+  if (unsettled.length && lists.length === 2) {
     console.log(`  ${unsettled.length} contests disagree; asking a third reader`);
-    const third = await listViaGateway(state, level, 'gateway:google/gemini-3.8-flash').catch(() => null);
+    const third = await listViaGateway(state, level, tieBreaker).catch(() => null);
     if (third) {
       const all = tally([...lists, third]);
       const settled = all.agreed.filter((c) => unsettled.includes(key(c)));
