@@ -1,0 +1,229 @@
+{
+  "office": "U.S. Representative",
+  "district": "CO District 4",
+  "division": "co/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Douglas Mangeris",
+      "party": "Libertarian Party",
+      "stances": {}
+    },
+    {
+      "name": "Eileen Laubacher",
+      "party": "Democratic Party",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Laubacher calls for ending tariffs that raise prices on fuel, farm inputs, groceries, and other goods.",
+          "quote": "End tariffs that are increasing the price of fuel, fertilizer, equipment, groceries, and everyday goods",
+          "sourceUrl": "https://www.eileenforcolorado.com/platform",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She calls for balancing the budget while avoiding debt crises that threaten Social Security and Medicare.",
+          "quote": "Balance the budget responsibly - no more reckless spending sprees or manufactured debt crises that threaten Social Security and Medicare.",
+          "sourceUrl": "https://www.ballotready.org/people/eileen-laubacher",
+          "agreement": "2/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She said she would have supported a federal law intended to increase housing supply and address regulatory barriers.",
+          "quote": "She added she would have supported the housing reform bill titled The 21st Century ROAD to Housing bill that became law.",
+          "sourceUrl": "https://www.cpr.org/2026/09/25/vg-2026-eileen-laubacher-voter-guide/",
+          "agreement": "2/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Laubacher proposes providing law enforcement and other first responders with additional training, technology, and equipment.",
+          "quote": "Equip first responders, firefighters, EMTs, and law enforcement with the training, technology, and resources to respond quickly and effectively",
+          "sourceUrl": "https://www.eileenforcolorado.com/platform",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Laubacher supports both securing the border and creating a pathway to citizenship for hardworking immigrants.",
+          "quote": "Americans deserve a stable, functioning, and reliable immigration system – and we must have a secure border. Our immigration system should also provide a pathway to citizenship for hardworking people who want to contribute to our economy.",
+          "sourceUrl": "https://www.eileenforcolorado.com/platform",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Laubacher pledges to protect access to abortion, IVF, and birth control.",
+          "quote": "Protecting women's access to abortion, IVF, and birth control",
+          "sourceUrl": "https://www.linkedin.com/posts/eileen-laubacher_in-congress-i-vow-to-fight-every-day-to-activity-7408914237609115648-5G1o",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Laubacher supports reversing Medicaid cuts that she says threaten rural hospitals and underserved communities.",
+          "quote": "Reverse the Medicaid cuts supported by Lauren Boebert that threaten rural hospitals and disproportionately affect communities where access to care is already limited",
+          "sourceUrl": "https://www.eileenforcolorado.com/platform",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Laubacher supports an all-of-the-above energy mix that includes clean, traditional, and alternative sources produced in Colorado.",
+          "quote": "Power America’s future with energy produced right here in Colorado with an all-of-the-above approach that includes clean, traditional, and alternative sources",
+          "sourceUrl": "https://www.eileenforcolorado.com/platform",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "Lauren Boebert",
+      "party": "Republican Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Boebert opposes tax increases and supports making the Tax Cuts and Jobs Act permanent.",
+          "quote": "I support making the Tax Cuts and Jobs Act permanent to prevent an unnecessary tax hike on the American people and job creators in 2025.",
+          "sourceUrl": "https://boebert.house.gov/issues/taxes-and-spending",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "Boebert said she opposes raising the federal minimum wage.",
+          "quote": "On the federal minimum wage — which has been $7.25 since 2009 — Boebert said she is against raising it.",
+          "sourceUrl": "https://www.koaa.com/americavotes/lauren-boebert-trisha-calvarese-discuss-economy-veterans-issues-during-first-debate-in-cd-4-race",
+          "agreement": "6/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "Boebert supported President Trump's proposed tariffs while saying agricultural producers should be protected from harm.",
+          "quote": "I support President Trump’s effort to level the playing field with the entire word, and I’m working with his administration to ensure that tariffs don’t harm [agricultural] producers",
+          "sourceUrl": "https://www.cpr.org/2025/04/03/what-colorado-lawmakers-think-of-trumps-tariffs/",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Boebert's office said she supported balancing the budget without cutting Social Security or Medicare.",
+          "quote": "Boebert’s press secretary Jake Settle said the congresswoman supports the House Freedom Caucus’ plan to balance the budget without cutting Social Security or Medicare.",
+          "sourceUrl": "https://www.durangoherald.com/articles/news/back-off-our-benefits-campaign-travels-through-durango/",
+          "agreement": "3/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Boebert said she supports affordable-housing proposals and co-sponsored legislation to create housing on U.S. Forest Service land.",
+          "quote": "Outside of that, I'm supportive of creative ideas to support affordable housing like Rep. Joe Neguse's bill that I've co-sponsored to create housing options on U.S. Forest lands.",
+          "sourceUrl": "https://www.cpr.org/2024/10/14/vg-2024-4th-congressional-district-lauren-boebert/",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Boebert describes herself as a strong advocate for school choice.",
+          "quote": "I am a strong advocate of school choice because a student's academic success should not be a function of their zip code.",
+          "sourceUrl": "https://boebert.house.gov/issues",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Boebert calls for proper funding for police.",
+          "quote": "We need to provide proper funding for our police.",
+          "sourceUrl": "https://boebert.house.gov/issues/back-blue",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Boebert supports building a border wall and deporting undocumented immigrants, including longtime residents and Dreamers.",
+          "quote": "Illegal aliens that are in America should be deported. DACA is an unlawful amnesty program that was never authorized by Congress.",
+          "sourceUrl": "https://www.cpr.org/2024/10/14/vg-2024-4th-congressional-district-lauren-boebert/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Boebert opposes gun buybacks, firearm registries and restrictions on common private transfers.",
+          "quote": "I oppose gun grabs, mandatory gun buybacks, the creation of a national firearm registry, the criminalization of common transfers of firearms between family members and neighbors",
+          "sourceUrl": "https://boebert.house.gov/issues",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Boebert says life begins at conception and pledges to defend unborn life.",
+          "quote": "As a mother of four children, I believe that life begins at conception, and I will always defend life.",
+          "sourceUrl": "https://boebert.house.gov/issues",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Boebert introduced a resolution recognizing a biologically female swimmer rather than a transgender competitor as the rightful women's-event winner.",
+          "quote": "I will keep working to save women’s sports from woke ideology threatening to strip women of a level playing field.",
+          "sourceUrl": "https://boebert.house.gov/media/press-releases/rep-boebert-introduces-resolution-honoring-fastest-female-swimmer-ncaa",
+          "agreement": "10/10"
+        },
+        "cannabis": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Boebert criticized Colorado's experience with legalization but supported changing federal banking regulations affecting cannabis businesses.",
+          "quote": "Republican Colorado Rep. Lauren Boebert said while she does not like the direction Colorado has gone since cannabis was first legalized, regulations on banking need to be changed.",
+          "sourceUrl": "https://www.cpr.org/2025/12/18/change-to-federal-weed-cannabis-marijuana-law-regulations/",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Boebert supports marketplace competition, health savings accounts and expanded patient choice.",
+          "quote": "I support healthcare reforms that encourage marketplace competition, expand access to health savings accounts, increase patient choices, safeguard individuals with pre-existing conditions, expand telehealth, and increase care in rural America.",
+          "sourceUrl": "https://boebert.house.gov/issues/health",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Boebert opposes limits on new oil and gas production on public lands, arguing that such limits raise energy prices.",
+          "quote": "Absolutely not. The Obama and Biden Regimes both did this and each time their anti-energy actions helped cause gas prices to soar which exacerbated economic downturns and recessions.",
+          "sourceUrl": "https://www.cpr.org/2024/10/14/vg-2024-4th-congressional-district-lauren-boebert/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Boebert supports voter-roll maintenance, the SAVE Act and one-day in-person voting.",
+          "quote": "There are a number of things we can do to improve election integrity in Colorado, including the cleaning and maintenance of our voter rolls as well as increasing the number of participating poll workers and poll watchers.",
+          "sourceUrl": "https://www.cpr.org/2024/10/14/vg-2024-4th-congressional-district-lauren-boebert/",
+          "agreement": "9/10"
+        }
+      }
+    }
+  ],
+  "sources": "eileenforcolorado.com · ballotready.org · cpr.org · linkedin.com · boebert.house.gov · koaa.com · durangoherald.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,215 @@
+{
+  "office": "State Senate",
+  "district": "CA District 2",
+  "division": "ca/sldu-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Damon Connolly",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Connolly voted for AB 1228, which established a $20 hourly minimum wage for fast-food employees and authorized future increases.",
+          "quote": "Addis, Aguiar-Curry, Arambula, Bains, Bauer-Kahan, Bennett, Berman, Boerner, Bonta, Bryan, Calderon, Wendy Carrillo, Cervantes, Connolly",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1228",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Connolly says he has worked to prioritize new housing near downtowns and major transit corridors while preserving open space.",
+          "quote": "In the State Assembly, he has worked to ensure that state housing requirements recognize the value of open space in Northern California and prioritize new homes, especially affordable, near our downtowns and major transit corridors.",
+          "sourceUrl": "https://www.damonconnolly.com/issues",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "Connolly answered yes when asked whether public-safety responses to homelessness and mental-health incidents should shift to trained social-service providers.",
+          "quote": "Will you support policies that shift public safety responses to trained social service providers for homelessness and mental health incidents?",
+          "sourceUrl": "https://aclucalaction.org/district/senate-district-2/",
+          "agreement": "7/10"
+        },
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "strong",
+          "text": "Connolly answered yes to favoring crime-prevention solutions over longer sentences and making more low-level offenses felonies.",
+          "quote": "Do you agree with crime prevention solutions over increasing sentences and classifying more low level crimes as felonies?",
+          "sourceUrl": "https://aclucalaction.org/district/senate-district-2/",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Connolly authored AB 419, which strengthened protections for students and families against school-based immigration enforcement and disclosure.",
+          "quote": "AB 419, Connolly. Educational equity: immigration enforcement. Existing law prohibits, except as required by state or federal law or as required to administer a state or federally supported educational program, school officials and employees of a local educational agency from collecting information or documents regarding citizenship or immigration status of pupils or their family members.",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB419",
+          "agreement": "3/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Connolly repeatedly voted for AB 1263, which expanded restrictions and penalties concerning unlawfully manufactured ghost guns.",
+          "quote": "Addis, Aguiar-Curry, Ahrens, Alanis, Alvarez, Arambula, Ávila Farías, Bains, Bauer-Kahan, Bennett, Berman, Boerner, Bonta, Bryan, Calderon, Caloza, Carrillo, Connolly",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1263",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Connolly supports state funding and broad legal protection for people seeking abortion services, including those coming from outside California.",
+          "quote": "In the Assembly, Damon has been an advocate for more resources to make abortions as affordable as possible, for people from any state, country, or territory, and supports policies that give the state the broadest possible latitude to protect people in our state seeking reproductive health services.",
+          "sourceUrl": "https://www.damonconnolly.com/issues",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Connolly voted for AB 1955, which protects students' gender-identity information and bars mandatory-outing policies in schools.",
+          "quote": "Addis, Aguiar-Curry, Alvarez, Arambula, Bains, Bauer-Kahan, Bennett, Berman, Boerner, Bonta, Bryan, Calderon, Juan Carrillo, Wendy Carrillo, Cervantes, Connolly",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1955",
+          "agreement": "7/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "Connolly voted for AB 1775, which expanded regulated cannabis-consumption businesses by allowing food sales and performances at licensed lounges.",
+          "quote": "Addis, Aguiar-Curry, Alanis, Alvarez, Arambula, Bauer-Kahan, Bennett, Berman, Boerner, Bonta, Bryan, Calderon, Juan Carrillo, Wendy Carrillo, Chen, Connolly",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1775",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Connolly supports CalCare, broader Medicaid eligibility, exchange subsidies and prescription-drug price controls.",
+          "quote": "He supports CalCare, expanding Medicaid eligibility to all lower income California residents, additional subsidies to make healthcare more affordable on the Covered California state exchange, price transparency in health care billing, and prescription drug price controls.",
+          "sourceUrl": "https://www.damonconnolly.com/issues",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Connolly authored local climate plans and helped establish community clean-energy programs in Marin and Sonoma counties.",
+          "quote": "Earlier in his career, Damon authored San Rafael’s Climate Change Action Plan when he was Vice Mayor (the first adopted in Marin County), updated Marin County’s Climate Change Action Plan, co-founded Marin Clean Energy (MCE), and helped start Sonoma Clean Power.",
+          "sourceUrl": "https://www.damonconnolly.com/issues",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Connolly answered yes when asked whether he would strengthen California's state voting-rights laws.",
+          "quote": "Will you support strengthening California’s state voting rights laws?",
+          "sourceUrl": "https://aclucalaction.org/district/senate-district-2/",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Tief Gibbs",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Gibbs supports lower taxes, balanced budgets, and restrained government spending.",
+          "quote": "Tief supports fiscal responsibility, which means lower taxes, balanced budgets, and prudent government spending.",
+          "sourceUrl": "https://tief4senate.org/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Gibbs strongly agreed that school choice should include vouchers, tax credits, charter schools, private schools, and homeschooling.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/78188/race/1231/election/1078",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Gibbs supports law-enforcement agencies and tough-on-crime policies.",
+          "quote": "She stands behind tough-on-crime policies and supports law enforcement agencies.",
+          "sourceUrl": "https://tief4senate.org/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Gibbs calls for secure borders and cooperation with federal immigration enforcement.",
+          "quote": "Immigration enforcement is crucial to her, calling for secure borders, and cooperation with Federal Law Enforcement of immigration laws.",
+          "sourceUrl": "https://tief4senate.org/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Gibbs said she does not think additional restrictions on gun ownership are needed.",
+          "quote": "The second amendment pretty much says it all so I don’t think we need to restrict anything.",
+          "sourceUrl": "https://ivoterguide.com/candidate/78188/race/1231/election/1078",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Gibbs identifies pro-life policies as a significant priority.",
+          "quote": "Tief places significant emphasis on traditional values, pro-life policies, and religious freedom.",
+          "sourceUrl": "https://tief4senate.org/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Gibbs strongly agreed that transgender women should be excluded from women’s sports and female-designated spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/78188/race/1231/election/1078",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Gibbs supported a basic national public insurance option while also retaining a robust private insurance system.",
+          "quote": "Work towards a national insurance option to provide bare-bones healthcare while keeping a flourishing private insurance sys",
+          "sourceUrl": "https://ivoterguide.com/candidate/78188/race/1231/election/1078",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Gibbs supports expanding oil drilling to reduce energy costs and increase energy independence.",
+          "quote": "More oil drilling to lower energy costs and achieve true energy independence.",
+          "sourceUrl": "https://tief4senate.org/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Gibbs strongly disagreed that people should be permitted to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/78188/race/1231/election/1078",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "leginfo.legislature.ca.gov · damonconnolly.com · aclucalaction.org · tief4senate.org · ivoterguide.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}
