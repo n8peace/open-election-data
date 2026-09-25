@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "CO District 5",
+  "division": "co/cd-5",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Christopher Mitchell",
+      "party": "American Constitution Party"
+    },
+    {
+      "name": "Jeff Crank",
+      "party": "Republican Party"
+    },
+    {
+      "name": "Jessica Killin",
+      "party": "Democratic Party"
+    }
+  ]
+}

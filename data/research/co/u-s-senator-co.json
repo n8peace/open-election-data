@@ -1,0 +1,32 @@
+{
+  "office": "U.S. Senator",
+  "district": "CO",
+  "division": "co/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Adam Withrow",
+      "party": "Unity Party"
+    },
+    {
+      "name": "Blake Huber",
+      "party": "Libertarian Party"
+    },
+    {
+      "name": "Bob Chew",
+      "party": "Forward Party"
+    },
+    {
+      "name": "Christopher Baum",
+      "party": "Approval Voting Party"
+    },
+    {
+      "name": "John Hickenlooper",
+      "party": "Democratic Party"
+    },
+    {
+      "name": "Mark Baisley",
+      "party": "Republican Party"
+    }
+  ]
+}

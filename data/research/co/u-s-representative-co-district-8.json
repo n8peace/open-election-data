@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "CO District 8",
+  "division": "co/cd-8",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Gabe Evans",
+      "party": "Republican Party"
+    },
+    {
+      "name": "Manny Rutinel",
+      "party": "Democratic Party"
+    }
+  ]
+}

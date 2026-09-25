@@ -1,0 +1,41 @@
+{
+  "office": "Measure T",
+  "district": "City of Fowler",
+  "division": "ca/place-fowler",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a City of Fowler transactions and use (sales) tax.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "A Yes vote would enact the City of Fowler transactions and use tax.",
+          "quote": "City of Fowler Transactions & Use Tax Measure",
+          "sourceUrl": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "A No vote would not enact the City of Fowler transactions and use tax.",
+          "quote": "City of Fowler Transactions & Use Tax Measure",
+          "sourceUrl": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "fresnocountyca.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

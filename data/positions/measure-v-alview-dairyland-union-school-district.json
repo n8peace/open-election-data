@@ -1,0 +1,42 @@
+{
+  "office": "Measure V",
+  "district": "Alview-Dairyland Union School District",
+  "division": "ca/school-alview-dairyland-union",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Alview-Dairyland Union School District to issue general obligation bonds repaid by district property taxes.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote would authorize a bond for the Alview-Dairyland Union School District.",
+          "quote": "Measure V-Alview-Dairyland Union School District Bond",
+          "sourceUrl": "https://votemadera.com/candidate-campaign-information/general-election-november-3-2026/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote would reject the bond for the Alview-Dairyland Union School District.",
+          "quote": "Measure V-Alview-Dairyland Union School District Bond",
+          "sourceUrl": "https://votemadera.com/candidate-campaign-information/general-election-november-3-2026/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "votemadera.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

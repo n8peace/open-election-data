@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Congress",
+  "district": "AR District 01",
+  "division": "ar/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Steve G. Parsons",
+      "party": "Libertarian"
+    },
+    {
+      "name": "Terri Yarbrough Green",
+      "party": "Democratic"
+    },
+    {
+      "name": "Congressman Rick Crawford",
+      "party": "Republican"
+    }
+  ]
+}

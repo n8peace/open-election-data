@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "CO District 2",
+  "division": "co/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Gaylon Kent",
+      "party": "Libertarian Party"
+    },
+    {
+      "name": "Joe Neguse",
+      "party": "Democratic Party"
+    },
+    {
+      "name": "Kelley Anne Dennison",
+      "party": "Republican Party"
+    }
+  ]
+}

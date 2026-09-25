@@ -1,0 +1,58 @@
+{
+  "office": "Measure U",
+  "district": "Escalon Unified School District",
+  "division": "ca/school-escalon-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes Escalon Unified School District to issue up to $26 million in general obligation bonds to repair and modernize school facilities, with citizen oversight and annual audits.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would authorize $26 million in school bonds repaid by an estimated levy of $18 per $100,000 of assessed value.",
+          "quote": "shall Escalon Unified School District’s measure authorizing $26,000,000 in bonds at legal rates be adopted, levying approximately $18 per $100,000 assessed value ($1,700,000 annually) while bonds are outstanding, with independent audits, citizen oversight and all money locally controlled?",
+          "sourceUrl": "https://www.sjgov.org/docs/default-source/registrar-of-voters-documents/elections/gubernatorial-general-election-2026/candidate-services/notice-of-a-measure-u_eng_final.pdf?sfvrsn=5600c7b7_6",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "The Yes campaign supports dedicating Measure U revenue to Escalon Unified School District facilities and safety improvements.",
+          "quote": "ALL FUNDS STAY LOCAL, dedicated to Escalon schools.",
+          "sourceUrl": "https://www.sjgov.org/docs/default-source/registrar-of-voters-documents/elections/gubernatorial-general-election-2026/candidate-services/notice-of-argument-in-favor-measure-u.pdf?sfvrsn=8bc75483_3",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would reject Measure U's proposed $26 million bond and the property-tax levies used to repay it.",
+          "quote": "If Measure U is approved, and bonds are authorized and sold, the principal thereof and interest thereon shall be payable from the proceeds of tax levies made upon the taxable property in the District.",
+          "sourceUrl": "https://www.sjgov.org/docs/default-source/registrar-of-voters-documents/elections/gubernatorial-general-election-2026/candidate-services/measure-u-impartial-analysis---english.pdf?sfvrsn=e2447b4f_3",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "A No vote would reject bond funding for modernizing, constructing, rehabilitating, or replacing Escalon Unified School District facilities.",
+          "quote": "The issuance and sale of such general obligation bonds would be for the modernization, acquisition, construction/reconstruction, rehabilitation, and/or replacement of school facilities of the District, including the furnishing and equipping of school facilities.",
+          "sourceUrl": "https://www.sjgov.org/docs/default-source/registrar-of-voters-documents/elections/gubernatorial-general-election-2026/candidate-services/measure-u-impartial-analysis---english.pdf?sfvrsn=e2447b4f_3",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "sjgov.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

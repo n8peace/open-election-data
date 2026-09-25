@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Representative",
+  "district": "CO District 3",
+  "division": "co/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Clifton Brown",
+      "party": "Unaffiliated"
+    },
+    {
+      "name": "Cory Robertson",
+      "party": "Libertarian Party"
+    },
+    {
+      "name": "Dwayne L. Romero",
+      "party": "Democratic Party"
+    },
+    {
+      "name": "Jeff Hurd",
+      "party": "Republican Party"
+    }
+  ]
+}

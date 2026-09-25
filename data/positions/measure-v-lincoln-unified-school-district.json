@@ -1,0 +1,50 @@
+{
+  "office": "Measure V",
+  "district": "Lincoln Unified School District",
+  "division": "ca/school-lincoln-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes Lincoln Unified School District to issue up to $79 million in general obligation bonds to fund school facility repairs and safety improvements, with citizen oversight and annual audits.",
+  "issues": [
+    "schools",
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A yes vote would authorize bonds to improve Lincoln Unified School District classrooms and facilities.",
+          "quote": "The issuance and sale of such general obligation bonds would be to modernize, replace, renovate, expand, construct, acquire, equip, furnish and otherwise improve the classrooms and school facilities of the District.",
+          "sourceUrl": "https://www.sjgov.org/docs/default-source/registrar-of-voters-documents/elections/gubernatorial-general-election-2026/candidate-services/measure-v-impartial-analysis---english.pdf?sfvrsn=6f2dcbe1_3",
+          "agreement": "3/3"
+        },
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A yes vote would authorize up to $79 million in school-facility bonds repaid through property-tax levies.",
+          "quote": "If Measure V is approved, and bonds are authorized and sold, the principal thereof and interest thereon shall be payable from the proceeds of tax levies made upon the taxable property in the District.",
+          "sourceUrl": "https://www.sjgov.org/docs/default-source/registrar-of-voters-documents/elections/gubernatorial-general-election-2026/candidate-services/measure-v-impartial-analysis---english.pdf?sfvrsn=6f2dcbe1_3",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "The No position opposes Measure V’s authorization of up to $79 million in school bonds repaid through property-tax levies.",
+          "quote": "If Measure V is approved, and bonds are authorized and sold, the principal thereof and interest thereon shall be payable from the proceeds of tax levies made upon the taxable property in the District.",
+          "sourceUrl": "https://www.sjgov.org/docs/default-source/registrar-of-voters-documents/elections/gubernatorial-general-election-2026/candidate-services/measure-v-impartial-analysis---english.pdf?sfvrsn=6f2dcbe1_3",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "sjgov.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Congress",
+  "district": "AR District 03",
+  "division": "ar/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Robb Ryerse",
+      "party": "Democratic"
+    },
+    {
+      "name": "Bobby Wilson",
+      "party": "Libertarian"
+    },
+    {
+      "name": "Congressman Steve Womack",
+      "party": "Republican"
+    }
+  ]
+}

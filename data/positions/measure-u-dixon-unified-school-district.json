@@ -1,0 +1,50 @@
+{
+  "office": "Measure U",
+  "district": "Dixon Unified School District",
+  "division": "ca/school-dixon-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes Dixon Unified School District to issue $49,000,000 in bonds, repaid by a property tax of about $30 per $100,000 of assessed value, to repair and upgrade classrooms, labs and school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote authorizes a $49 million school bond funded by a property-tax levy for facility repairs and upgrades.",
+          "quote": "Shall Dixon Unified School District’s measure authorizing $49,000,000 in bonds at legal rates be adopted, levying approximately $30 per $100,000 assessed value ($3,000,000 annually) while bonds are outstanding, with citizen oversight, independent audits, and all money locally controlled?",
+          "sourceUrl": "https://www.dixonusd.org/bond-information/",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote funds Dixon Unified School District facilities and technology improvements across its seven campuses.",
+          "quote": "A “YES” vote approves funding for the District’s facilities plan; a “NO” vote rejects the plan.",
+          "sourceUrl": "https://www.dixonusd.org/bond-information/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "The No campaign opposes the proposed $49 million bond and argues that the district should perform routine upkeep rather than repeatedly seek new bond funding.",
+          "quote": "Instead of routine upkeep, the District repeatedly returns to voters with large bond measures to fix problems that should never have been allowed to deteriorate this far.",
+          "sourceUrl": "https://content.solanocounty.gov/sites/default/files/2026-08/Measure_U_-_Argument_Against_Redacted.pdf",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "dixonusd.org · content.solanocounty.gov",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

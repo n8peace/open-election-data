@@ -1,0 +1,41 @@
+{
+  "office": "Measure U",
+  "district": "Town of Ross",
+  "division": "ca/place-ross",
+  "kind": "measure",
+  "summary": "A Yes vote continues the town's paramedic services special tax for four years at up to $107.50 per residential unit or per 1,000 square feet of developed nonresidential property, adjustable up to $4.00 per year.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote extends and increases property taxes for paramedic services for four years.",
+          "quote": "Eight jurisdictions in central Marin County are asking voters to approve a four-year extension and increase of taxes for paramedic services.",
+          "sourceUrl": "https://www.jems.com/ems-management/ems-recruitment-retention/ca-voters-consider-paramedic-tax-extensions/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote rejects the proposed four-year extension and increase of property taxes for paramedic services.",
+          "quote": "Eight jurisdictions in central Marin County are asking voters to approve a four-year extension and increase of taxes for paramedic services.",
+          "sourceUrl": "https://www.jems.com/ems-management/ems-recruitment-retention/ca-voters-consider-paramedic-tax-extensions/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "jems.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

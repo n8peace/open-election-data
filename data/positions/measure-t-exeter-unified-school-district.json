@@ -1,0 +1,24 @@
+{
+  "office": "Measure T",
+  "district": "Exeter Unified School District",
+  "division": "ca/school-exeter-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes a property tax within the Exeter Unified School District to fund school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {}
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

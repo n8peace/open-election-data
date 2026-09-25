@@ -1,0 +1,58 @@
+{
+  "office": "Measure T",
+  "district": "Lodi Unified School District",
+  "division": "ca/school-lodi-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes Lodi Unified School District to issue up to $195 million in general obligation bonds to repair and upgrade school facilities, with citizen oversight and annual audits.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "A Yes vote continues the Measure K bond tax rate to fund school and classroom repair and construction.",
+          "quote": "Measure T is designed as a tax rate extension and continuation of Lodi Unified School District's Measure K bond, which expires in 2029 when all bonds of Measure K will be paid and no longer outstanding.",
+          "sourceUrl": "https://www.lodiusd.net/about/2026-bond-information",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote provides bond funding for repair and construction at Lodi Unified School District schools.",
+          "quote": "Measure T will be used strictly for school and classroom repair and construction purposes, in accordance with California law.",
+          "sourceUrl": "https://www.lodiusd.net/about/2026-bond-information",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "A No vote does not continue the Measure K bond tax rate after the existing bonds expire.",
+          "quote": "Measure T is designed as a tax rate extension and continuation of Lodi Unified School District's Measure K bond, which expires in 2029 when all bonds of Measure K will be paid and no longer outstanding.",
+          "sourceUrl": "https://www.lodiusd.net/about/2026-bond-information",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote does not provide the Measure T bond funding for those district school projects.",
+          "quote": "Measure T will be used strictly for school and classroom repair and construction purposes, in accordance with California law.",
+          "sourceUrl": "https://www.lodiusd.net/about/2026-bond-information",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "lodiusd.net",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

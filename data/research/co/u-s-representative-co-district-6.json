@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "CO District 6",
+  "division": "co/cd-6",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Jason Clark",
+      "party": "Republican Party"
+    },
+    {
+      "name": "Jason Crow",
+      "party": "Democratic Party"
+    }
+  ]
+}

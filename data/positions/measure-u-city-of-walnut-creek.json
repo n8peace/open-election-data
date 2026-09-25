@@ -1,0 +1,32 @@
+{
+  "office": "Measure U",
+  "district": "City of Walnut Creek",
+  "division": "ca/place-walnut-creek",
+  "kind": "measure",
+  "summary": "A Yes vote rezones a 2.4-acre site in Walnut Creek to allow senior housing and mixed-use commercial development.",
+  "issues": [
+    "housing"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Measure U would rezone a 2.4-acre office site near Walnut Creek BART to permit roughly 235–240 senior homes.",
+          "quote": "Measure U would rezone it for senior housing instead, while still allowing ground-floor shops and services.",
+          "sourceUrl": "https://www.wcseniorhousing.org/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "wcseniorhousing.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

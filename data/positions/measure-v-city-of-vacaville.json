@@ -1,0 +1,41 @@
+{
+  "office": "Measure V",
+  "district": "City of Vacaville",
+  "division": "ca/place-vacaville",
+  "kind": "measure",
+  "summary": "A Yes vote establishes an additional one-cent sales tax in the City of Vacaville, until ended by voters, for general city services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would raise Vacaville's sales tax by 1% and generate additional city revenue for services.",
+          "quote": "The Vacaville City Council voted 7-0 on Tuesday to place a 1% sales tax increase on November's ballot.",
+          "sourceUrl": "https://www.cbsnews.com/sacramento/news/vacaville-sales-tax-measure-november-ballot/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would not enact the 1% sales tax increase, leaving the current sales tax rate unchanged.",
+          "quote": "The Vacaville City Council voted 7-0 on Tuesday to place a 1% sales tax increase on November's ballot.",
+          "sourceUrl": "https://www.cbsnews.com/sacramento/news/vacaville-sales-tax-measure-november-ballot/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "cbsnews.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

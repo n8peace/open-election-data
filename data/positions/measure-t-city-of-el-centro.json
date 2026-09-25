@@ -1,0 +1,41 @@
+{
+  "office": "Measure T",
+  "district": "City of El Centro",
+  "division": "ca/place-el-centro",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a 0.5% City of El Centro sales tax, estimated to raise about $8.4 million annually for public safety, homelessness response, business retention, youth recreation, and city services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote increases the local sales tax by one-half cent and generates revenue for the City's General Fund and services.",
+          "quote": "Measure T asks voters to consider a &frac12;-cent local sales tax increase, which would adjust El Centro's total sales tax rate from 8.25% to 8.75% and generate approximately $8.4 million annually for the City's General Fund.",
+          "sourceUrl": "https://www.cityofelcentro.org/m/newsflash/Home/Detail/98",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not enact the proposed sales tax increase, leaving the current sales tax rate in place.",
+          "quote": "Measure T asks voters to consider a &frac12;-cent local sales tax increase, which would adjust El Centro's total sales tax rate from 8.25% to 8.75% and generate approximately $8.4 million annually for the City's General Fund.",
+          "sourceUrl": "https://www.cityofelcentro.org/m/newsflash/Home/Detail/98",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "cityofelcentro.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,28 @@
+{
+  "office": "U.S. Representative",
+  "district": "CO District 7",
+  "division": "co/cd-7",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Brittany Pettersen",
+      "party": "Democratic Party"
+    },
+    {
+      "name": "Dan \"Kilo\" Sallis",
+      "party": "Libertarian Party"
+    },
+    {
+      "name": "Lawrence Kyle Clark",
+      "party": "American Constitution Party"
+    },
+    {
+      "name": "Joe Krzeczkowski",
+      "party": "Unaffiliated"
+    },
+    {
+      "name": "Susan Hall",
+      "party": "Unity Party"
+    }
+  ]
+}

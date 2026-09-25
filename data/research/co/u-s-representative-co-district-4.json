@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "CO District 4",
+  "division": "co/cd-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Douglas Mangeris",
+      "party": "Libertarian Party"
+    },
+    {
+      "name": "Eileen Laubacher",
+      "party": "Democratic Party"
+    },
+    {
+      "name": "Lauren Boebert",
+      "party": "Republican Party"
+    }
+  ]
+}

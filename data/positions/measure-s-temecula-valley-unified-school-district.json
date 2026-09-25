@@ -1,0 +1,50 @@
+{
+  "office": "Measure S",
+  "district": "Temecula Valley Unified School District",
+  "division": "ca/school-temecula-valley-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes Temecula Valley Unified School District to issue $215 million in bonds for school facilities, repaid by a property tax estimated at $20 per $100,000 of assessed value.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "The campaign supports a $215 million bond costing $20 per $100,000 of assessed home value to repair and upgrade Temecula schools.",
+          "quote": "Measure S will generate $215 million at $20 per $100,000 of the assessed home value to provide locally controlled funding to repair and upgrade Temecula Schools.",
+          "sourceUrl": "https://www.successfultemeculaschools.org/faq",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "The campaign says all Measure S funding would be reserved for Temecula schools.",
+          "quote": "Yes. All Measure S funding can only be used to support Temecula schools. No funds can be taken by the State or used for any other purpose.",
+          "sourceUrl": "https://www.successfultemeculaschools.org/faq",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "The No position opposes Measure S, which would levy an annual property tax to repay $215 million in school bonds.",
+          "quote": "authorizing $215,000,000 in bonds at legal interest rates, levying approximately $20 per $100,000 assessed value (averaging $13,000,000) annually",
+          "sourceUrl": "https://voteinfo.net/sites/g/files/aldnop371/files/2026-08/Measure%20S-Temecula%20Valley%20USD%20-eng.pdf",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "successfultemeculaschools.org · voteinfo.net",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

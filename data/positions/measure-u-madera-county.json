@@ -1,0 +1,41 @@
+{
+  "office": "Measure U",
+  "district": "Madera County",
+  "division": "ca/county-madera",
+  "kind": "measure",
+  "summary": "A Yes vote increases the transient occupancy (hotel) tax charged on lodging stays in the unincorporated area of Madera County.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote increases the county transient occupancy tax.",
+          "quote": "Measure U-Madera County-Transient Occupancy Tax (TOT) Increase",
+          "sourceUrl": "https://votemadera.com/candidate-campaign-information/general-election-november-3-2026/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not enact the proposed transient occupancy tax increase.",
+          "quote": "Measure U-Madera County-Transient Occupancy Tax (TOT) Increase",
+          "sourceUrl": "https://votemadera.com/candidate-campaign-information/general-election-november-3-2026/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "votemadera.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Representative",
+  "district": "CO District 1",
+  "division": "co/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Chad Humphrey",
+      "party": "Libertarian Party"
+    },
+    {
+      "name": "Christy Peterson",
+      "party": "Republican Party"
+    },
+    {
+      "name": "Melat Kiros",
+      "party": "Democratic Party"
+    },
+    {
+      "name": "Shimon Blau",
+      "party": "Unaffiliated"
+    }
+  ]
+}
