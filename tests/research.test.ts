@@ -109,5 +109,6 @@ describe('waiting for a plan to reset', () => {
     expect(msUntilReset('ERROR: ... or try again at 4:33 AM.', now)).toBe(94 * 60 * 1000);
     expect(msUntilReset('ERROR: ... try again at 1:00 AM.', now)).toBe((22 * 60 + 1) * 60 * 1000);
     expect(msUntilReset('Claude Code returned no result', now)).toBe(20 * 60 * 1000);
+    expect(msUntilReset('try again at Oct 2nd, 2026 7:22 AM.', now)).toBe(new Date(2026, 9, 2, 7, 23).getTime() - now.getTime());
   });
 });

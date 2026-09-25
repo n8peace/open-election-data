@@ -19,7 +19,13 @@ export const researchModels = () => ((isNight() && process.env.RESEARCH_MODELS_N
 export const claudePlanAllowed = () => researchModels().includes('claude-code');
 export const RESEARCH_MODELS = researchModels();
 
-export const modelFor = (run: number) => { const m = researchModels(); return m[run % m.length]; };
+/** Plans that are out of usage for hours (e.g. a weekly limit): skipped until the process restarts. */
+const outOfUsage = new Set<string>();
+export const modelFor = (run: number) => {
+  const all = researchModels();
+  const m = all.filter((b) => !outOfUsage.has(b));
+  return (m.length ? m : all)[run % (m.length || all.length)];
+};
 
 const SourceList = z.object({
   sources: z.array(z.object({ url: z.string(), issues: z.array(z.string()) })),
@@ -58,6 +64,12 @@ export const listModel = () => process.env.LIST_MODEL || (process.env.RESEARCH_F
 
 /** From "try again at 4:33 AM" in a plan's limit message, or 20 minutes if it doesn't say. */
 export function msUntilReset(msg: string, now = new Date()): number {
+  // "try again at Oct 2nd, 2026 7:22 AM"
+  const d = /try again at ([A-Z][a-z]{2,8}) (\d{1,2})(?:st|nd|rd|th)?, (\d{4}) (\d{1,2}):(\d{2})\s*(AM|PM)/i.exec(msg);
+  if (d) {
+    const at = new Date(`${d[1]} ${d[2]}, ${d[3]} ${d[4]}:${d[5]} ${d[6].toUpperCase()}`);
+    if (!Number.isNaN(at.getTime())) return Math.max(60_000, at.getTime() - now.getTime() + 60_000);
+  }
   const m = /try again at (\d{1,2}):(\d{2})\s*(AM|PM)/i.exec(msg);
   if (!m) return 20 * 60 * 1000;
   const at = new Date(now);
@@ -80,6 +92,12 @@ export async function runAgent(opts: { name: string; office: string; issues: Iss
         const msg = (e as Error).message;
         if (!/usage limit|limit reached|rate limit|returned no result/i.test(msg)) return {};
         const ms = msUntilReset(msg);
+        // Out for hours: stop using that plan and let the others carry on, if there are others.
+        if (ms > 3 * 60 * 60 * 1000 && researchModels().some((b) => b !== backend && !outOfUsage.has(b))) {
+          outOfUsage.add(backend);
+          console.log(`    ${backend} is out of usage for ${Math.round(ms / 3600000)} hours; continuing without it`);
+          return runAgent(opts);
+        }
         console.log(`    ${backend} is out of usage; waiting ${Math.round(ms / 60000)} min for it to reset`);
         await new Promise((r) => setTimeout(r, ms));
         return runAgent(opts);
