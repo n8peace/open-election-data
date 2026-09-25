@@ -27,7 +27,7 @@ jobs:
       - run: npm ci
       - run: npm run check:research -- --offline
       - run: npm run build:api
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: dist
       - id: deploy
