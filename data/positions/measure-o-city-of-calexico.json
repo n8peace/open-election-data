@@ -1,0 +1,58 @@
+{
+  "office": "Measure O",
+  "district": "City of Calexico",
+  "division": "ca/place-calexico",
+  "kind": "measure",
+  "summary": "A Yes vote enacts a City of Calexico sales tax of 0.5%, increasing to 1% on October 1, 2030, with revenue directed to public safety and city services.",
+  "issues": [
+    "tax",
+    "safety"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote levies a special sales tax to fund and maintain public safety services in Calexico.",
+          "quote": "Measure O City of Calexico Public Safety Sales Tax: Shall the measure to maintain and enhance public safety services in the City of Calexico, including police protection, fire suppression, emergency medical response, disaster preparedness and related operations, by levying a special sales tax initially at ½%, adjusting to 1% on October 1, 2030, for 20 years providing approximately $4,000,000 annually (at 1/2%) and $8,000,000 annually (at 1%), subject to annual audits, public reporting, citizens’ committee oversight, with all funds in Calexico, be adopted?",
+          "sourceUrl": "https://kyma.com/election-candidates/imperial-county-measures/2026/08/19/imperial-county-measures/",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "A Yes vote provides additional funding for police protection and other public safety services.",
+          "quote": "Shall the measure to maintain and enhance public safety services in the City of Calexico, including police protection, fire suppression, emergency medical response, disaster preparedness and related operations",
+          "sourceUrl": "https://kyma.com/election-candidates/imperial-county-measures/2026/08/19/imperial-county-measures/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not levy the special sales tax authorized by Measure O.",
+          "quote": "Measure O City of Calexico Public Safety Sales Tax: Shall the measure to maintain and enhance public safety services in the City of Calexico, including police protection, fire suppression, emergency medical response, disaster preparedness and related operations, by levying a special sales tax initially at ½%, adjusting to 1% on October 1, 2030, for 20 years providing approximately $4,000,000 annually (at 1/2%) and $8,000,000 annually (at 1%), subject to annual audits, public reporting, citizens’ committee oversight, with all funds in Calexico, be adopted?",
+          "sourceUrl": "https://kyma.com/election-candidates/imperial-county-measures/2026/08/19/imperial-county-measures/",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "A No vote does not provide the additional funding for police protection and other public safety services authorized by Measure O.",
+          "quote": "Shall the measure to maintain and enhance public safety services in the City of Calexico, including police protection, fire suppression, emergency medical response, disaster preparedness and related operations",
+          "sourceUrl": "https://kyma.com/election-candidates/imperial-county-measures/2026/08/19/imperial-county-measures/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "kyma.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

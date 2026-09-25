@@ -1,0 +1,41 @@
+{
+  "office": "Measure N",
+  "district": "City of Santa Ana",
+  "division": "ca/place-santa-ana",
+  "kind": "measure",
+  "summary": "A Yes vote continues the City of Santa Ana's existing 1.5% transactions and use (sales) tax at its current rate to fund general city services.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote makes the sales tax permanent instead of allowing its scheduled sunsets.",
+          "quote": "seeks to make permanent a sales tax that was initially pitched to voters as temporary.",
+          "sourceUrl": "https://www.ocregister.com/2026/09/07/endorsement-vote-no-on-measure-n-in-santa-ana/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote leaves the existing sales tax reductions and termination schedule in place.",
+          "quote": "seeks to make permanent a sales tax that was initially pitched to voters as temporary.",
+          "sourceUrl": "https://www.ocregister.com/2026/09/07/endorsement-vote-no-on-measure-n-in-santa-ana/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "ocregister.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

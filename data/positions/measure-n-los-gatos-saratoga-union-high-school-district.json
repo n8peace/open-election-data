@@ -1,0 +1,58 @@
+{
+  "office": "Measure N",
+  "district": "Los Gatos-Saratoga Union High School District",
+  "division": "ca/school-los-gatos-saratoga-union-high",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Los Gatos-Saratoga Union High School District to issue $321 million in bonds.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote authorizes bonds and the associated property-tax levy to fund improvements at Los Gatos High School and Saratoga High School.",
+          "quote": "levying approximately $30 per $100,000 assessed value ($23,000,000 annually) while bonds are outstanding",
+          "sourceUrl": "https://localnewsmatters.org/santa-clara-november-3-2026/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "A Yes vote provides bond funding for facilities and educational spaces in the district's public high schools.",
+          "quote": "To maintain quality academic facilities at Los Gatos High School and Saratoga High School",
+          "sourceUrl": "https://localnewsmatters.org/santa-clara-november-3-2026/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote rejects the proposed bonds and associated property-tax levy.",
+          "quote": "levying approximately $30 per $100,000 assessed value ($23,000,000 annually) while bonds are outstanding",
+          "sourceUrl": "https://localnewsmatters.org/santa-clara-november-3-2026/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "A No vote rejects the proposed bond funding for the district's public high schools.",
+          "quote": "To maintain quality academic facilities at Los Gatos High School and Saratoga High School",
+          "sourceUrl": "https://localnewsmatters.org/santa-clara-november-3-2026/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "localnewsmatters.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

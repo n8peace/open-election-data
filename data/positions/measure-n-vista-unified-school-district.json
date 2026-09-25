@@ -1,0 +1,58 @@
+{
+  "office": "Measure N",
+  "district": "Vista Unified School District",
+  "division": "ca/school-vista-unified",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the Vista Unified School District to issue up to $543,000,000 in general obligation bonds to repair and upgrade classrooms, science labs, and school facilities.",
+  "issues": [
+    "tax",
+    "schools"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A Yes vote cannot be determined from the provided text to change taxes or services.",
+          "quote": " for the Evaluation of Climate Action Implementation Choices (2017) ",
+          "sourceUrl": "https://sdtaxpayers.org/policyreports",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A Yes vote cannot be determined from the provided text to change funding for district public schools or expand school choice.",
+          "quote": " for the Evaluation of Climate Action Implementation Choices (2017) ",
+          "sourceUrl": "https://sdtaxpayers.org/policyreports",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A No vote cannot be determined from the provided text to change taxes or services.",
+          "quote": " for the Evaluation of Climate Action Implementation Choices (2017) ",
+          "sourceUrl": "https://sdtaxpayers.org/policyreports",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A No vote cannot be determined from the provided text to change funding for district public schools or expand school choice.",
+          "quote": " for the Evaluation of Climate Action Implementation Choices (2017) ",
+          "sourceUrl": "https://sdtaxpayers.org/policyreports",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "sdtaxpayers.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

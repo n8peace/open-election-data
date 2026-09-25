@@ -1,0 +1,41 @@
+{
+  "office": "Measure N",
+  "district": "Town of Portola Valley",
+  "division": "ca/place-portola-valley",
+  "kind": "measure",
+  "summary": "A Yes vote makes Portola Valley a charter town and enacts a real property transfer tax of $10 per $1,000 of a property's sale price.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote establishes a real property transfer tax to provide revenue for municipal services.",
+          "quote": "If approved, Measure N would establish a tax of $10 per $1,000 of a property’s sale price.",
+          "sourceUrl": "https://www.almanacnews.com/portola-valley/2026/08/27/measure-n-asks-voters-to-make-portola-valley-a-charter-town/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote does not establish the proposed real property transfer tax.",
+          "quote": "If approved, Measure N would establish a tax of $10 per $1,000 of a property’s sale price.",
+          "sourceUrl": "https://www.almanacnews.com/portola-valley/2026/08/27/measure-n-asks-voters-to-make-portola-valley-a-charter-town/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "almanacnews.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

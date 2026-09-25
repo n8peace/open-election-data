@@ -1,0 +1,41 @@
+{
+  "office": "Measure O",
+  "district": "City of East Palo Alto",
+  "division": "ca/place-east-palo-alto",
+  "kind": "measure",
+  "summary": "A Yes vote authorizes the City to issue up to $125 million in general obligation bonds, repaid by a property tax, to finance a civic center, water and stormwater infrastructure, and recreational and park facilities.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A Yes vote authorizes the measure described as a bond measure, but the provided text does not state its tax or service effects.",
+          "quote": "Measure O—City of East Palo Alto: Bond Measure",
+          "sourceUrl": "https://my.lwv.org/california/south-san-mateo-county/event/zoom-pros-cons-presentation-local-measures",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "A No vote does not authorize the measure described as a bond measure, but the provided text does not state its tax or service effects.",
+          "quote": "Measure O—City of East Palo Alto: Bond Measure",
+          "sourceUrl": "https://my.lwv.org/california/south-san-mateo-county/event/zoom-pros-cons-presentation-local-measures",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "my.lwv.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

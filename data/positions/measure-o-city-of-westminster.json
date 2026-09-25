@@ -1,0 +1,32 @@
+{
+  "office": "Measure O",
+  "district": "City of Westminster",
+  "division": "ca/place-westminster",
+  "kind": "measure",
+  "summary": "A Yes vote increases the City of Westminster transient occupancy (hotel) tax from 8% to 12%.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A yes vote supports increasing Westminster's transient occupancy tax from 8% to 12%, generating an estimated $452,000 annually for city services.",
+          "quote": "A measure to increase the TOT rate to 12% from the existing 8% rate would be estimated to generate approximately $452 thousand.",
+          "sourceUrl": "https://westminsterca.legistar.com/LegislationDetail.aspx?ID=8150323&GUID=E60DC276-AAFF-4135-A5FC-C92F4A1DCAC0",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {}
+    }
+  ],
+  "sources": "westminsterca.legistar.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

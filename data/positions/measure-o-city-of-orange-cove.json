@@ -1,0 +1,41 @@
+{
+  "office": "Measure O",
+  "district": "City of Orange Cove",
+  "division": "ca/place-orange-cove",
+  "kind": "measure",
+  "summary": "A Yes vote imposes a special parcel tax on property in the City of Orange Cove.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote would approve a parcel tax to fund police, parks, and recreation services.",
+          "quote": "Unlike Measure O, which solely funded public safety, the parcel tax would fund both police department services and parks and recreation services.",
+          "sourceUrl": "https://midvalleytimes.com/article/news/2026/06/16/orange-cove-brings-back-special-tax-for-police-parks/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote would reject the parcel tax and leave the city without this additional revenue for those services.",
+          "quote": "Unlike Measure O, which solely funded public safety, the parcel tax would fund both police department services and parks and recreation services.",
+          "sourceUrl": "https://midvalleytimes.com/article/news/2026/06/16/orange-cove-brings-back-special-tax-for-police-parks/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "midvalleytimes.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

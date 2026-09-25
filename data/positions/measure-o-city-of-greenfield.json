@@ -1,0 +1,41 @@
+{
+  "office": "Measure O",
+  "district": "City of Greenfield",
+  "division": "ca/place-greenfield",
+  "kind": "measure",
+  "summary": "A Yes vote continues the city's existing 0.75% transactions and use (sales) tax, which is otherwise set to expire March 31, 2033.",
+  "issues": [
+    "tax"
+  ],
+  "choices": [
+    {
+      "name": "Yes",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote re-enacts a 0.75 percent sales tax to fund public safety, youth recreation, code enforcement, and other essential services.",
+          "quote": "To continue to enhance the health, safety and welfare of Greenfield, through strengthened public safety; increased youth recreation programs; continuance of code enforcement services; and other essential services, shall the City of Greenfield re-enact a voter approved 0.75 percent sales tax",
+          "sourceUrl": "https://localnewsmatters.org/monterey-county-november-3-2026/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "No",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "A No vote rejects re-enactment of the 0.75 percent sales tax.",
+          "quote": "To continue to enhance the health, safety and welfare of Greenfield, through strengthened public safety; increased youth recreation programs; continuance of code enforcement services; and other essential services, shall the City of Greenfield re-enact a voter approved 0.75 percent sales tax",
+          "sourceUrl": "https://localnewsmatters.org/monterey-county-november-3-2026/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "localnewsmatters.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}
