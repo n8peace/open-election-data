@@ -22,8 +22,13 @@ jobs:
       - run: npm test
       - name: Research file schema is up to date
         run: npm run schema && git diff --exit-code data/positions.schema.json
-      - name: Every file is valid, and quotes in changed files are on their source pages
+      - name: Every file is valid
+        run: npm run check:research -- --offline
+      # Research pushed by maintainers was verified when it was written (some sites show
+      # GitHub's servers a different page, so rechecking here gives false alarms).
+      # Contributors' pull requests are checked online, for the files they change.
+      - name: Quotes in changed files are on their source pages (pull requests)
+        if: github.event_name == 'pull_request'
         run: |
-          BASE=${{ github.event.pull_request.base.sha || github.event.before }}
-          CHANGED=$(git diff --name-only --diff-filter=AM "$BASE" HEAD -- data/positions | grep '\.json$' || true)
-          if [ -n "$CHANGED" ]; then npm run check:research -- $CHANGED; else npm run check:research -- --offline; fi
+          CHANGED=$(git diff --name-only --diff-filter=AM "${{ github.event.pull_request.base.sha }}" HEAD -- data/positions | grep '\.json$' || true)
+          if [ -n "$CHANGED" ]; then npm run check:research -- $CHANGED; fi
