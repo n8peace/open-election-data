@@ -53,6 +53,9 @@ Search, then read pages to confirm they actually state positions. Return up to 6
   return [...new Set([...(opts.seedUrls ?? []), ...urls])].slice(0, 6);
 }
 
+/** The API model for reading lists (candidates, measures): LIST_MODEL, or a paid RESEARCH_FALLBACK, or GPT-5.6 Terra. */
+export const listModel = () => process.env.LIST_MODEL || (process.env.RESEARCH_FALLBACK && process.env.RESEARCH_FALLBACK !== 'wait' ? process.env.RESEARCH_FALLBACK : 'gateway:openai/gpt-5.6-terra');
+
 /** From "try again at 4:33 AM" in a plan's limit message, or 20 minutes if it doesn't say. */
 export function msUntilReset(msg: string, now = new Date()): number {
   const m = /try again at (\d{1,2}):(\d{2})\s*(AM|PM)/i.exec(msg);

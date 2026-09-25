@@ -20,7 +20,7 @@ import { z } from 'zod';
 import { contestKey, nameKey, POSITIONS_DIR } from '../lib/ballot/positions';
 import { gateway, generateText, isStepCount, Output } from 'ai';
 import { runCli } from '../lib/research/backends';
-import { claudePlanAllowed } from '../lib/research/agent';
+import { claudePlanAllowed, listModel } from '../lib/research/agent';
 import { ISSUE_IDS, sideGuide } from '../lib/issues';
 import { canonicalOffice, divisionFor, levelFor, type Level } from '../lib/research/divisions';
 
@@ -48,7 +48,7 @@ Reply with ONLY this JSON, no other text:
 }
 
 /** Reads the list with an API model and web search, when a subscription is out of usage. */
-async function listViaGateway(state: string, level: Exclude<Level, 'measures'>, model = process.env.RESEARCH_FALLBACK || 'gateway:openai/gpt-5.6-terra'): Promise<z.infer<typeof Contests>> {
+async function listViaGateway(state: string, level: Exclude<Level, 'measures'>, model = listModel()): Promise<z.infer<typeof Contests>> {
   const { output } = await generateText({
     model: model.replace(/^gateway:/, ''),
     abortSignal: AbortSignal.timeout(10 * 60 * 1000),
@@ -157,7 +157,7 @@ async function listMeasures(state: string) {
       console.log(`  ${backend} unavailable for measures (${(e as Error).message.slice(0, 80)}); reading via the API instead`);
       try {
         const { output } = await generateText({
-          model: (process.env.RESEARCH_FALLBACK || 'gateway:openai/gpt-5.6-terra').replace(/^gateway:/, ''),
+          model: (listModel()).replace(/^gateway:/, ''),
           abortSignal: AbortSignal.timeout(10 * 60 * 1000),
           tools: { web_search: gateway.tools.perplexitySearch({ maxResults: 5, maxTokensPerPage: 2048, maxTokens: 12000, country: 'US' }) },
           stopWhen: isStepCount(8),
