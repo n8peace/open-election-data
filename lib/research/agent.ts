@@ -53,6 +53,16 @@ Search, then read pages to confirm they actually state positions. Return up to 6
   return [...new Set([...(opts.seedUrls ?? []), ...urls])].slice(0, 6);
 }
 
+/** From "try again at 4:33 AM" in a plan's limit message, or 20 minutes if it doesn't say. */
+export function msUntilReset(msg: string, now = new Date()): number {
+  const m = /try again at (\d{1,2}):(\d{2})\s*(AM|PM)/i.exec(msg);
+  if (!m) return 20 * 60 * 1000;
+  const at = new Date(now);
+  at.setHours((Number(m[1]) % 12) + (m[3].toUpperCase() === 'PM' ? 12 : 0), Number(m[2]) + 1, 0, 0);
+  if (at <= now) at.setDate(at.getDate() + 1);
+  return at.getTime() - now.getTime();
+}
+
 /** Runs one full agent: its own search, its own reading, verified quotes only. */
 export async function runAgent(opts: { name: string; office: string; issues: IssueId[]; run: number; isMeasure?: boolean; seedUrls?: string[] }): Promise<AgentResult> {
   const backend = modelFor(opts.run);
@@ -60,8 +70,18 @@ export async function runAgent(opts: { name: string; office: string; issues: Iss
     try {
       return await runCliAgent(backend, opts);
     } catch (e) {
-      // Subscription out of usage (or CLI trouble): keep going on the API fallback.
       const fallback = process.env.RESEARCH_FALLBACK || 'gateway:openai/gpt-5.6-luna';
+      // RESEARCH_FALLBACK=wait: never pay. When a plan is out of usage, wait for it to
+      // reset and try again; other CLI trouble counts as finding nothing (never a vote).
+      if (fallback === 'wait') {
+        const msg = (e as Error).message;
+        if (!/usage limit|limit reached|rate limit|returned no result/i.test(msg)) return {};
+        const ms = msUntilReset(msg);
+        console.log(`    ${backend} is out of usage; waiting ${Math.round(ms / 60000)} min for it to reset`);
+        await new Promise((r) => setTimeout(r, ms));
+        return runAgent(opts);
+      }
+      // Subscription out of usage (or CLI trouble): keep going on the API fallback.
       console.log(`    ${backend} unavailable (${(e as Error).message.slice(0, 80)}); using ${fallback}`);
       return runGatewayAgent(fallback.replace(/^gateway:/, ''), opts);
     }

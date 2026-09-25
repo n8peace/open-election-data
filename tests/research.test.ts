@@ -101,3 +101,13 @@ describe('at-large House seats', () => {
     expect(divisionFor('WY', 'U.S. Representative', 'At-Large')).toBe('wy/cd-at-large');
   });
 });
+
+describe('waiting for a plan to reset', () => {
+  it('reads the reset time from the limit message', async () => {
+    const { msUntilReset } = await import('../lib/research/agent');
+    const now = new Date(2026, 8, 25, 3, 0);
+    expect(msUntilReset('ERROR: ... or try again at 4:33 AM.', now)).toBe(94 * 60 * 1000);
+    expect(msUntilReset('ERROR: ... try again at 1:00 AM.', now)).toBe((22 * 60 + 1) * 60 * 1000);
+    expect(msUntilReset('Claude Code returned no result', now)).toBe(20 * 60 * 1000);
+  });
+});
