@@ -1,0 +1,318 @@
+{
+  "office": "U.S. Representative",
+  "district": "CO District 5",
+  "division": "co/cd-5",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Christopher Mitchell",
+      "party": "American Constitution Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He said he would extend the Trump-era tax cuts, eliminate taxes on tips and Social Security benefits, and oppose wealth and unrealized-gains taxes.",
+          "quote": "I will work in Congress to extend the Trump-era tax cuts, pass the \"No Tax on Tips Act,\" pass a \"No Tax on Social Security Benefits Act,\" and achieve U.S. Energy Dominance. I will actively oppose Wealth Tax and Unrealized Gains Tax policies.",
+          "sourceUrl": "https://ivoterguide.com/candidate/61057/race/90/election/1232?culture=en-us",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He agreed that the government should cut spending to reduce the national debt.",
+          "quote": "The government should cut spending in order to reduce the national debt. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/61057/race/32762/election/1475",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "slower growth",
+          "strength": "strong",
+          "text": "He opposed placing new multifamily housing in established single-family neighborhoods without greater deference to existing zoning plans.",
+          "quote": "I oppose all efforts to “infill” or “shoehorn” new multi-family units into traditionally single-family residential areas without more consideration placed on the original zoning intent, or Master Plan.",
+          "sourceUrl": "https://www.cpr.org/2023/03/17/colorado-springs-mayoral-candidate-questionnaire-christopher-mitchell/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He strongly supported vouchers, tax credits, charter schools, private schools, and home schools.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/61057/race/90/election/1232?culture=en-us",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He strongly opposed redirecting police funding to community programs.",
+          "quote": "I support redirecting funds from police departments to community programs. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/61057/race/90/election/1232?culture=en-us",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "His campaign calls for stronger borders, defunding sanctuary cities, and deporting all immigrants who are in the country illegally.",
+          "quote": "Drive and introduce legislation to fortify and secure U.S. Sovereign Borders, while concurrently defunding sanctuary cities and deporting all illegal  immigrants, without exception.",
+          "sourceUrl": "https://patriotcowboyrevolution.com/about-christopher",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He called gun ownership a civil right and opposed all laws restricting guns or ammunition.",
+          "quote": "I oppose attempts to prohibit ownership of guns by law-abiding citizens and stand against all laws that restrict guns or ammunition.",
+          "sourceUrl": "https://ivoterguide.com/candidate/61057/race/32762/election/1475",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He said he opposes abortion in every form and for every reason, without exceptions.",
+          "quote": "I believe all human beings have God-given legal personhood from fertilization to natural death, without exception. I am against abortion in any form, for any reason.",
+          "sourceUrl": "https://ivoterguide.com/candidate/61057/race/32762/election/1475",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He strongly opposed allowing biological males to participate in women's sports or enter women's spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/61057/race/32762/election/1475",
+          "agreement": "5/5"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "In a 2023 municipal questionnaire, he opposed legalizing recreational marijuana in Colorado Springs.",
+          "quote": "Do you support the legalization of recreational marijuana in Colorado Springs? No.",
+          "sourceUrl": "https://www.cpr.org/2023/03/17/colorado-springs-mayoral-candidate-questionnaire-christopher-mitchell/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He called for abolishing taxpayer-funded health care and gradually phasing out Medicaid and Medicare for future generations.",
+          "quote": "Taxpayer funded health care should be abolished in all forms, and Medicaid and Medicare should be defunded (gradually phased out for upcoming generations).",
+          "sourceUrl": "https://ivoterguide.com/candidate/61057/race/32762/election/1475",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He pledged to end green-energy funding, expand natural-gas production, and support nuclear and geothermal energy.",
+          "quote": "To focus on Fiscal Responsibility, I will vote for the Trump-Vance Administration initiative to terminate all Green New Scam funding, and concurrently, enhancing the production of natural gas, and its derivatives, such as Liquefied Natural Gas (LNG).",
+          "sourceUrl": "https://patriotcowboyrevolution.com/about-christopher",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supported requiring proof of citizenship to register and government-issued photo identification to vote in federal elections.",
+          "quote": "I support the Safeguard American Voter Eligibility (SAVE) America Act, which would require documentary proof of U.S. citizenship to register to vote and government-issued photo identification to cast a ballot in federal elections.",
+          "sourceUrl": "https://ivoterguide.com/candidate/61057/race/32762/election/1475",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Jeff Crank",
+      "party": "Republican Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Crank voted for legislation extending tax cuts and said it would strengthen the economy.",
+          "quote": "This bill will deliver for the American people by securing our borders, extending tax cuts, unleashing American energy, and making our nation stronger than ever before.",
+          "sourceUrl": "https://crank.house.gov/media/press-releases/rep-crank-votes-one-big-beautiful-bill",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Crank said he generally opposes tariffs because consumers ultimately pay them through higher prices.",
+          "quote": "I generally oppose tariffs on foreign goods because those tariffs end up being paid by the American consumer in the form of higher prices.",
+          "sourceUrl": "https://www.cpr.org/2024/10/14/vg-2024-5th-congressional-district-jeff-crank/",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "Crank said Social Security and Medicare growth must be addressed while protecting current recipients and considering different arrangements for future beneficiaries.",
+          "quote": "But then there's a whole host of things like social security and Medicare and other things that are on autopilot. They just keep growing and we do have to address that.",
+          "sourceUrl": "https://www.cpr.org/2024/10/09/colorado-district-5-candidate-republican-jeff-crank-interview/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Crank said he is working to reduce construction regulations that raise housing costs.",
+          "quote": "That is why I am leading efforts to cut burdensome home construction regulations in Colorado and across the country that unnecessarily raise the costs of construction and home prices.",
+          "sourceUrl": "https://krdo.com/2026-u-s-house-of-representatives/2026/06/15/jeff-crank-2/",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "Crank joined an amicus brief defending a federal tax-credit scholarship program covering public, private secular and religious schools.",
+          "quote": "Congress enacted ECCA to provide choices to families and to advance religious liberty, not religious discrimination.",
+          "sourceUrl": "https://www.cruz.senate.gov/newsroom/press-releases/sens-cruz-lankford-file-amicus-brief-defending-religious-liberty-in-supreme-court-school-choice-case",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Crank secured proposed federal funding for a new rescue vehicle used by the El Paso County Sheriff's Office.",
+          "quote": "The purchase of the new vehicle will ensure our community does not lose this critical capability.",
+          "sourceUrl": "https://crank.house.gov/media/press-releases/rep-crank-secures-critical-funding-projects-colorados-fifth-district",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Crank voted for the Laken Riley Act and said people covered by it should be detained and deported.",
+          "quote": "This act will ensure that illegal aliens, such as Laken Riley’s murderer, are detained and deported before they have the opportunity to commit heinous crimes.",
+          "sourceUrl": "https://crank.house.gov/media/press-releases/house-passes-laken-riley-act",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Crank opposed waiting periods, magazine limits, assault-weapons bans, firearm taxes, and other gun restrictions.",
+          "quote": "I oppose waiting periods, magazine limits, so-called “assault” weapons bans, additional taxes on ammunition or firearms, and other forms of gun control.",
+          "sourceUrl": "https://krdo.com/2024-voter-guide/2024-congressional-races/2024/09/13/jeff-crank/",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Crank said he would support a federal abortion ban containing exceptions for rape, incest, and the mother's life.",
+          "quote": "If legislation is put forward in Congress that bans abortion but has an exception for rape, incest or life of the mother, I will support such legislation.",
+          "sourceUrl": "https://gazette.com/2024/06/07/2024-primary-election-voter-guide-radio-personality-and-gop-state-chair-in-hard-fought-race-to-replace-state-rep-lamborn/",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Crank voted to bar federally funded elementary and middle schools from socially transitioning children without parental approval and to block federal funding for gender-identity instruction.",
+          "quote": "The Stopping Indoctrination and Protecting Kids Act ensures parental consent remains at the forefront of our children’s lives by prohibiting federally funded elementary or middle schools from socially transitioning a child—such as changing their name, pronouns, or bathroom access—without parental approval.",
+          "sourceUrl": "https://crank.house.gov/media/press-releases/rep-crank-votes-end-radical-ideology-schools",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Crank voted against extending enhanced Affordable Care Act subsidies and called for greater competition and consumer choice.",
+          "quote": "Congress needs to focus on real reforms that lower costs, improve and expand competition so consumers have real choices.",
+          "sourceUrl": "https://crank.house.gov/media/press-releases/congress-cannot-keep-writing-blank-check-obamacare-rep-crank-votes-against-aca",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Crank called for loosening restrictions on oil and gas production on federal public lands.",
+          "quote": "The federal government should loosen restrictions on oil and gas production on public lands.",
+          "sourceUrl": "https://www.cpr.org/2024/10/14/vg-2024-5th-congressional-district-jeff-crank/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Crank advocated nationwide voter-identification requirements, proof of citizenship for registration, signature verification, and voter-roll maintenance.",
+          "quote": "First, we should institute voter ID laws in every state. You should not be able to cast a vote without a valid government ID.",
+          "sourceUrl": "https://www.cpr.org/2024/10/14/vg-2024-5th-congressional-district-jeff-crank/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Jessica Killin",
+      "party": "Democratic Party",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Killin supports cutting middle-class taxes while raising the tax burden on wealthy people and large corporations.",
+          "quote": "Make giant corporations and the very wealthy pay their fair share of taxes while cutting taxes for the middle class",
+          "sourceUrl": "https://www.killinforcolorado.com/priorities",
+          "agreement": "2/3"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Killin wants to end tariffs she considers irrational and harmful to Colorado consumers and businesses.",
+          "quote": "End irrational tariffs that are raising prices and creating uncertainty for hardworking Coloradans",
+          "sourceUrl": "https://www.killinforcolorado.com/priorities",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Killin pledges to protect Medicare from further cuts while strengthening the program's finances.",
+          "quote": "Protect Medicare from further cuts and ensure the long-term financial stability of the program",
+          "sourceUrl": "https://www.killinforcolorado.com/priorities",
+          "agreement": "3/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Killin supports incentives to increase the supply of housing, especially entry-level homes.",
+          "quote": "I would work to lower our housing costs by creating incentives that will increase supply, especially entry-level housing, in the Pikes Peak region and improve access for first-time home buyers.",
+          "sourceUrl": "https://krdo.com/2026-u-s-house-of-representatives/2026/06/18/jessica-killin/",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Killin supports securing the border and deporting violent criminals while creating legal status for law-abiding immigrants.",
+          "quote": "Congress must focus on actually fixing the problem by securing our border, deporting violent criminals, and providing law-abiding immigrants a pathway to legal status.",
+          "sourceUrl": "https://www.cpr.org/2026/05/29/vg-2026-primary-election-5th-congressional-district-jessica-killin/",
+          "agreement": "2/3"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "Killin supports gun-safety restrictions intended to keep firearms away from dangerous people while respecting responsible ownership.",
+          "quote": "Jessica also supports commonsense gun safety measures that respect the rights of responsible gun owners while helping keep firearms out of dangerous hands.",
+          "sourceUrl": "https://giffords.org/candidates/jessica-killin/",
+          "agreement": "2/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Killin supports reversing Medicaid cuts that would reduce public health coverage.",
+          "quote": "Repeal Medicaid cuts that will kick hundreds of thousands in our state off health care and force all Colorado families to pay more",
+          "sourceUrl": "https://www.killinforcolorado.com/priorities",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Killin prioritizes reducing energy costs through investment in more affordable production.",
+          "quote": "Lower energy costs by investing in more affordable energy production",
+          "sourceUrl": "https://www.killinforcolorado.com/priorities",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "ivoterguide.com · cpr.org · patriotcowboyrevolution.com · crank.house.gov · krdo.com · cruz.senate.gov · gazette.com · killinforcolorado.com · giffords.org",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}

@@ -1,0 +1,204 @@
+{
+  "office": "U.S. Representative",
+  "district": "CO District 1",
+  "division": "co/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Chad Humphrey",
+      "party": "Libertarian Party",
+      "stances": {
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "Humphrey supports securing the border and enforcing immigration law while also calling for legal immigration to be fixed.",
+          "quote": "A nation should know who is entering its borders.\n\nSecure the border. Enforce the law. Fix legal immigration.\n\nCongress has had decades to do all three.",
+          "sourceUrl": "https://liberty4the1st.com/faq",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Christy Peterson",
+      "party": "Republican Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Peterson said she supports keeping taxes low for everyone.",
+          "quote": "I’m a Conservative that believes in our God-given freedoms, Republican Principles, preserving our American freedoms, allowing free markets, keeping low taxes for all, boosting a strong U.S. economy, peace through strength, opportunity for all, while standing up for everyday Americans",
+          "sourceUrl": "https://www.coloradopolitics.com/2026/07/02/meet-the-colorado-republican-running-against-melat-kiros-for-cd1/",
+          "agreement": "2/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Peterson said she supports fully funding police.",
+          "quote": "I back supporting and FULL 100% FUNDING our POLICE.",
+          "sourceUrl": "https://www.ballotready.org/people/christy-peterson",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Peterson said people who entered the country illegally and committed crimes must be returned to their home countries.",
+          "quote": "Criminal offenders who have entered illegally must return to their country. The crime from illegals is unfair to citizens, allow such is just as bad.",
+          "sourceUrl": "https://www.ballotready.org/people/christy-peterson",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Peterson supports protecting the Second Amendment and the right to bear arms without infringement.",
+          "quote": "Yes to protecting the 2nd amendment; right to bear arms without infringement.",
+          "sourceUrl": "https://www.ballotready.org/people/christy-peterson",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Peterson called for in-person Election Day voting with citizenship identification, paper ballots and hand counts, and said mail ballots attract fraud.",
+          "quote": "Mail in ballots attract fraud, phone voting will not be secure. Voting must return to same day, in person, American citizen ID provided, paper ballot and hand count.",
+          "sourceUrl": "https://www.ballotready.org/people/christy-peterson",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Melat Kiros",
+      "party": "Democratic Party",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Kiros supports raising the corporate tax rate above 50%.",
+          "quote": "tax rate should be raised back above 50%.",
+          "sourceUrl": "https://www.kirosforco.com/priorities-pdf-final.pdf",
+          "agreement": "2/3"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Kiros supports unions, collective bargaining and raising the federal minimum wage to a living wage.",
+          "quote": "worker deserves a union and I believe in",
+          "sourceUrl": "https://www.kirosforco.com/priorities-pdf-final.pdf",
+          "agreement": "2/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Kiros supports zoning and permitting reform to accelerate construction, along with publicly built social housing.",
+          "quote": "She supports zoning and permitting reform to speed up housing construction.",
+          "sourceUrl": "https://coloradosun.com/2026/05/29/diana-degette-melat-kiros-wanda-james-colorado-primary-election-issue-guide/",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Kiros calls for investing in public schools and paying teachers a living wage.",
+          "quote": "need to invest in public schools, pay teachers",
+          "sourceUrl": "https://www.kirosforco.com/priorities-pdf-final.pdf",
+          "agreement": "2/3"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "Kiros emphasizes housing, mental-health care, violence prevention, community emergency response and restorative justice over arrest-based approaches.",
+          "quote": "cannot arrest our way out of poverty or",
+          "sourceUrl": "https://www.ballotready.org/people/melat-kiros",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Kiros wants to abolish ICE and replace it with a humane immigration system offering accessible pathways to citizenship.",
+          "quote": "replace it with a humane, accountable immigration system focused on genuine public safety",
+          "sourceUrl": "https://www.kirosforco.com/priorities-2",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Kiros supports universal background checks, red-flag laws and bans on assault weapons and high-capacity magazines.",
+          "quote": "the foundation of any serious gun safety system.",
+          "sourceUrl": "https://www.ballotready.org/people/melat-kiros",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Kiros supports codifying a federal right to abortion and protecting access to reproductive care.",
+          "quote": "to abortion in federal law and protecting access",
+          "sourceUrl": "https://www.ballotready.org/people/melat-kiros",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Kiros supports passing Medicare for All.",
+          "quote": "No one should suffer or go bankrupt because they can’t afford healthcare.",
+          "sourceUrl": "https://www.kirosforco.com/priorities-2",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Kiros supports fully funding renewable energy and transitioning to a zero-emissions power grid.",
+          "quote": "Fully funding renewable energy development and transitioning to a zero-emissions energy grid.",
+          "sourceUrl": "https://www.ballotready.org/people/melat-kiros",
+          "agreement": "2/3"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Kiros supports the John Lewis Voting Rights Act.",
+          "quote": "Kiros also emphasized voting rights, namely supporting the John Lewis Voting Rights Act",
+          "sourceUrl": "https://www.cpr.org/2026/09/25/vg-2026-melat-kiros-voter-guide/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "Shimon Blau",
+      "party": "Unaffiliated",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Blau said he favors lower taxes for everyone and opposes tax increases.",
+          "quote": "I believe in lower taxes for everyone. I'm not in favor of raising taxes.",
+          "sourceUrl": "https://www.iheart.com/podcast/759-the-ross-kaminsky-show-20710514/episode/8-13-26-interview-independent-congressional-candidate-shimon-341063564/",
+          "agreement": "2/3"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Blau supports both securing the border and making legal immigration faster and more efficient.",
+          "quote": "Secure our borders while building a faster, more efficient legal immigration system. Honest problem solving, not slogans.",
+          "sourceUrl": "https://blauforcongress.com/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "liberty4the1st.com · coloradopolitics.com · ballotready.org · kirosforco.com · coloradosun.com · cpr.org · iheart.com · blauforcongress.com",
+  "checkedAt": "2026-09-25",
+  "reviewed": false
+}
