@@ -1,0 +1,152 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 3",
+  "division": "ny/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Thomas R. Suozzi",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Suozzi pledges to reduce Long Islanders' tax burden and restore the full federal SALT deduction.",
+          "quote": "restore the full State and Local Tax (SALT) deduction",
+          "sourceUrl": "https://suozziforcongress.com/",
+          "agreement": "3/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Suozzi says Social Security's promise must not be broken and pushes to protect and strengthen the program.",
+          "quote": "We cannot allow the promise of Social Security to be broken.",
+          "sourceUrl": "https://suozzi.house.gov/media/press-releases/suozzi-introduces-bipartisan-legislation-secure-long-term-social-security",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "His campaign frames public-safety policy around intervention and prevention reforms.",
+          "quote": "Bringing down crime through common sense reforms centered on intervention and prevention so that people feel safe.",
+          "sourceUrl": "https://suozziforcongress.com/",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Suozzi co-chairs a task force seeking bipartisan comprehensive reform that pairs stronger border security with modernized legal immigration.",
+          "quote": "This task force will advocate for commonsense, bipartisan compromise to achieve much-needed and long-overdue comprehensive immigration reform.",
+          "sourceUrl": "https://suozzi.house.gov/media/press-releases/suozzi-appointed-co-chair-democrats-border-security-task-force",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Suozzi backs passing commonsense gun safety legislation, including background checks.",
+          "quote": "I am anxious to roll up my sleeves and get back to work to ensure the passage of long-overdue commonsense gun safety legislation.",
+          "sourceUrl": "https://giffords.org/press-release/2024/01/congressman-tom-suozzi-endorsed-in-new-york-special-election/",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Suozzi says he will fight to defend a woman's right to make her own healthcare decisions.",
+          "quote": "Tom will always fight to defend a woman's right to make her own healthcare decisions.",
+          "sourceUrl": "https://suozziforcongress.com/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Suozzi said he does not think transgender girls should play in girls' sports.",
+          "quote": "I don't think biological boys should be playing in girls' sports",
+          "sourceUrl": "https://www.cityandstateny.com/politics/2024/11/suozzi-says-democrats-lost-votes-supporting-biological-boys-playing-girls-sports-teams/400930/",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Suozzi co-sponsored a bipartisan bill to extend Affordable Care Act premium subsidies and prevent premium spikes.",
+          "quote": "This bill is a commonsense compromise that prevents devastating premium spikes, in some cases, thousands of dollars a month.",
+          "sourceUrl": "https://suozzi.house.gov/media/press-releases/suozzi-bacon-hurd-gottheimer-introduce-bipartisan-bill-avert-healthcare",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Suozzi calls climate change real and says it requires bold solutions.",
+          "quote": "Climate change is real and requires bold solutions to leave a healthier and more sustainable world behind for future generations.",
+          "sourceUrl": "https://suozziforcongress.com/",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Michael J. LiPetri Jr",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "LiPetri supports eliminating taxes on tips, overtime, and Social Security and ending the SALT cap.",
+          "quote": "Supports eliminating taxes on tips, overtime, and Social Security.",
+          "sourceUrl": "https://www.branch.vote/races/2026-new-york-primary-election-ny-state-us-representative-ny-congressional-3-r/candidates/michael-j-lipetri-jr",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "During the \"Defund the Police\" period he was the only Long Island state legislator to vote against all anti-police bills.",
+          "quote": "Mike was the only state legislator from Long Island to vote against ALL anti-police bills.",
+          "sourceUrl": "https://www.huntingtongop.org/mike_lipetri_for_congress",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He pledges to secure the border and create a merit-based legal immigration system.",
+          "quote": "securing our border and implementing a merit-based legal immigration system",
+          "sourceUrl": "https://www.huntingtongop.org/mike_lipetri_for_congress",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "LiPetri says biological men should not compete in female sports or use female facilities.",
+          "quote": "Biological men should never compete in female sports or use female locker rooms or bathrooms - it's common sense",
+          "sourceUrl": "https://www.mikelipetriforcongress.com/",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "LiPetri frames health care around the patient-doctor relationship rather than insurers and government bureaucrats.",
+          "quote": "restore the bond between patients and their doctors, not insurance companies and bureaucrats",
+          "sourceUrl": "https://www.mikelipetriforcongress.com/",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "suozziforcongress.com · suozzi.house.gov · giffords.org · cityandstateny.com · branch.vote · huntingtongop.org · mikelipetriforcongress.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
