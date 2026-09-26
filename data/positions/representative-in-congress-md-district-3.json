@@ -1,0 +1,184 @@
+{
+  "office": "Representative in Congress",
+  "district": "MD District 3",
+  "division": "md/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Sarah Elfreth",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Her campaign says she has worked to build more housing as part of her affordability agenda.",
+          "quote": "She has fought to expand access to affordable child care, reduce the burden of student loans, build more housing, and rollback BG&E utility rate increases.",
+          "sourceUrl": "https://elfrethformaryland.com/issues/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She co-sponsored legislation to keep public funds in public schools and protect the Department of Education.",
+          "quote": "Elfreth remains a steadfast supporter of public education in Washington, co-sponsoring the Keep Public Funds in Public Schools Act and the Department of Education Protection Act.",
+          "sourceUrl": "https://elfreth.house.gov/media/press-releases/elfreth-gathers-education-roundtable-local-leaders",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports expanded background checks, an assault-weapons ban, action against ghost guns, and removal of illegal firearms.",
+          "quote": "She is committed to expanding background checks, banning assault weapons, cracking down on ghost guns, and removing illegal firearms in our communities.",
+          "sourceUrl": "https://elfreth.house.gov/issues/gun-violence-prevention",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She supports codifying Roe protections and says abortion decisions should remain between patients and doctors.",
+          "quote": "She believes that health care decisions should be made between you and your doctor – not extreme elected officials or judges.",
+          "sourceUrl": "https://elfrethformaryland.com/issues/",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "She voted against legislation that would withhold federal funds from schools allowing transgender girls and women to participate in girls’ and women’s sports.",
+          "quote": "WASHINGTON, DC – Today, Congresswoman Sarah Elfreth (MD-03) voted against H.R. 28, the “Child Predator Empowerment Act.”",
+          "sourceUrl": "https://elfreth.house.gov/media/press-releases/elfreth-opposes-overreaching-child-surveillance-bill",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She co-sponsored Medicare for All and opposed cuts to Medicaid and the Affordable Care Act.",
+          "quote": "A cosponsor of Medicare for All, Sarah is committed to building a health care system that doesn’t leave anyone behind.",
+          "sourceUrl": "https://elfrethformaryland.com/issues/",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She supports federal action against climate change and a transition to a clean-energy economy.",
+          "quote": "As the Vice Ranking Member of the Natural Resources Committee, Congresswoman Elfreth is determined to combat the climate crisis by leading meaningful action in environmental restoration and protection and moving America toward a clean energy economy.",
+          "sourceUrl": "https://elfreth.house.gov/issues/environment",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Berney Flowers",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Flowers strongly opposed making higher earners pay more taxes to fund relief for working families.",
+          "quote": "I strongly disagree. The idea that we should punish people simply because they’ve succeeded and can ‘afford’ to pay more is not only unfair—it’s counterproductive and hurts the very working families we’re trying to help.",
+          "sourceUrl": "https://ivoterguide.com/candidate/62321/race/27193/election/1410",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Flowers supports cutting federal spending and means-testing entitlements while preserving Social Security and Medicare for those who earned them.",
+          "quote": "Reform Entitlements and Entitlement Spending for Long-Term Solvency. -- We must protect Social Security and Medicare for those who earned them while modernizing the programs to prevent insolvency. This includes means-testing where appropriate.",
+          "sourceUrl": "https://ivoterguide.com/candidate/62321/race/27193/election/1410",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Flowers pledged to pursue school choice and vouchers that let parents direct education funding.",
+          "quote": "On my first day in Congress, I will fight for School Choice & Vouchers so parents can choose the best education for their children.",
+          "sourceUrl": "https://assets.nationbuilder.com/lwvmaryland/pages/4884/attachments/original/1673310462/2022_Primary_Election_print_edition.pdf?1673310462=",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Flowers pledged to ensure police officers have the resources they need to protect communities.",
+          "quote": "Our police officers are heroes. Berney will ensure they have the resources and respect they need to keep our communities safe.",
+          "sourceUrl": "https://www.ballotready.org/people/berney-flowers-6c8707ae-39be-49d9-bd6d-dcd2bf2d6b44",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Flowers supports legal immigration but opposes sanctuary policies and favors detaining and removing people who are in the country illegally.",
+          "quote": "Sanctuary policies deliberately obstruct federal law enforcement from doing its job: detaining and removing individuals who are here illegally.",
+          "sourceUrl": "https://ivoterguide.com/candidate/62321/race/27193/election/1410",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Flowers said few additional restrictions on lawful gun owners are needed or constitutional.",
+          "quote": "I believe very few additional restrictions on law-abiding citizens are needed or constitutional.",
+          "sourceUrl": "https://ivoterguide.com/candidate/62321/race/27193/election/1410",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Flowers said elective abortion should generally be limited, with exceptions for rape, incest, and the mother's life.",
+          "quote": "My position is that elective abortion should be limited, with clear protections for the life of the mother and in cases of rape or incest.",
+          "sourceUrl": "https://ivoterguide.com/candidate/62321/race/27193/election/1410",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Flowers said transgender women should not participate in women's sports or use women-only private spaces.",
+          "quote": "I agree 100%: Biological males should not be allowed to participate in women’s sports or occupy biological women’s private spaces—bathrooms, locker rooms, sorority houses, women’s shelters, or prisons.",
+          "sourceUrl": "https://ivoterguide.com/candidate/62321/race/27193/election/1410",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Flowers favors market-driven health-care reforms while retaining and restructuring Medicare and Medicaid.",
+          "quote": "Government should not be the sole provider or the dominant player in healthcare. My view is rooted in patient-centered, market-driven reform",
+          "sourceUrl": "https://ivoterguide.com/candidate/62321/race/27193/election/1410",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Flowers supports expanding domestic energy production to strengthen the economy and reduce reliance on foreign oil.",
+          "quote": "America should never be at the mercy of foreign oil. Berney supports unleashing domestic energy production to fuel our economy and secure our future.",
+          "sourceUrl": "https://flowersformaryland.com/",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Flowers supports photo-identification requirements for voting.",
+          "quote": "People should be required to show photo identification to vote. Secure, verifiable elections are the foundation of our republic, and common-sense safeguards like photo ID protect everyone’s vote from being diluted or stolen.",
+          "sourceUrl": "https://ivoterguide.com/candidate/62321/race/27193/election/1410",
+          "agreement": "6/10"
+        }
+      }
+    }
+  ],
+  "sources": "elfrethformaryland.com · elfreth.house.gov · ivoterguide.com · assets.nationbuilder.com · ballotready.org · flowersformaryland.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

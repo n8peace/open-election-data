@@ -1,0 +1,192 @@
+{
+  "office": "Representative in Congress",
+  "district": "MD District 2",
+  "division": "md/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "John \"Johnny O\" Olszewski, Jr.",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He opposed a budget that paired tax breaks for the wealthy with cuts to programs serving working families.",
+          "quote": "And when Republicans advanced a budget that handed massive tax breaks to the ultra-wealthy while threatening cuts to the very programs working families depend on, Johnny O forcefully opposed it — standing firmly on the side of middle-class Marylanders.",
+          "sourceUrl": "https://gojohnnyo.com/priorities/",
+          "agreement": "3/3"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He says he is pushing for higher wages and defending workers’ rights.",
+          "quote": "He’s pushing for higher wages, affordable healthcare, and strong, fully funded public schools that prepare every child for success.",
+          "sourceUrl": "https://gojohnnyo.com/priorities/",
+          "agreement": "3/3"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He calls for ending tariffs that he says increase consumer prices.",
+          "quote": "He’s pushing to extend critical health-insurance tax credits, end the reckless Trump-era tariffs that are driving up prices, rein in prescription drug costs, expand the housing supply, and cut utility bills.",
+          "sourceUrl": "https://gojohnnyo.com/priorities/",
+          "agreement": "2/3"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says he will defend Medicare and Social Security and protect them from cuts.",
+          "quote": "Johnny O has been a steadfast defender of workers’ rights and the essential programs middle-class families count on, including SNAP to combat food insecurity, Medicare to keep healthcare affordable for seniors, and Social Security to protect workers’ retirement security.",
+          "sourceUrl": "https://gojohnnyo.com/priorities/",
+          "agreement": "3/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He supports expanding the housing supply and converting vacant or underused buildings into affordable homes.",
+          "quote": "He’s also leading efforts to convert vacant and underused buildings into affordable homes, and he supports common-sense steps like tax incentives for first-time homebuyers, expanded access to small-dollar mortgages, and reducing tariffs on construction materials.",
+          "sourceUrl": "https://gojohnnyo.com/priorities/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "As county executive, he invested in public-school construction and now opposes reductions in federal support for public schools.",
+          "quote": "As Baltimore County Executive, he delivered record investments in new school construction and created near-universal free community college for county residents. Now, he’s standing up to extreme efforts to dismantle the Department of Education and gut federal support for special education and schools in low-income communities.",
+          "sourceUrl": "https://gojohnnyo.com/priorities/",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He described a mixed public-safety strategy combining increased police funding with investments in recreation, employment and mental health.",
+          "quote": "We've spent tens of millions of dollars more in public safety in supporting our police department, but we also recognized that crime can also be fought by investing in recs and parks, workforce development and mental health",
+          "sourceUrl": "https://www.cbsnews.com/baltimore/news/incumbent-johnny-olszewski-prioritizing-schools-public-safety-in-run-for-baltimore-county-executive/",
+          "agreement": "2/3"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports comprehensive immigration reform with protections for DREAMers and a pathway to citizenship, alongside border security.",
+          "quote": "We need to pass comprehensive immigration reform that protects DREAMers who came to America as children, extends a pathway to citizenship for those who have paid their taxes and helped build a better Maryland, and secures our border in a responsible and effective manner.",
+          "sourceUrl": "https://assets.nationbuilder.com/lwvmaryland/pages/5234/attachments/original/1711990024/2024_Carroll_Co_VG_-_Primary_Election_Final_version.pdf?1711990024=",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He supports universal background checks, closing background-check loopholes and red-flag laws.",
+          "quote": "I support common sense gun safety legislation, including universal background checks, closing loopholes in the background check system, and implementing red flag laws.",
+          "sourceUrl": "https://assets.nationbuilder.com/lwvmaryland/pages/5234/attachments/original/1711990024/2024_Carroll_Co_VG_-_Primary_Election_Final_version.pdf?1711990024=",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supported Maryland’s Abortion Care Access Act and legal efforts challenging an abortion ban.",
+          "quote": "Here in Maryland in 2022, we were proud to advocate for and in addition to submitting a letter of support for HB937, the Abortion Care Access Act, I testified alongside advocates and the bill sponsor (and Senate President) Bill Ferguson.",
+          "sourceUrl": "https://www.reproductivejusticemaryland.org/post/maryland-congressional-candidates-reproductive-justice-scores-revealed",
+          "agreement": "2/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "He supports protecting Medicare and Medicaid from cuts and expanding health-care access in underserved communities.",
+          "quote": "He fought to extend Affordable Care Act tax credits that help keep premiums down, while protecting core programs like Medicare and Medicaid from cuts. He’s also working to expand access in underserved communities and safeguard reproductive healthcare.",
+          "sourceUrl": "https://gojohnnyo.com/priorities/",
+          "agreement": "2/3"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He supports large-scale renewable-energy investments and policies intended to cut carbon emissions substantially.",
+          "quote": "Instead, Johnny O backs strategic, large-scale investments in renewable energy: deploying solar, wind and other clean-energy technologies not only to dramatically cut carbon emissions, but also to create thousands of good-paying, sustainable jobs — boosting communities while protecting the planet.",
+          "sourceUrl": "https://gojohnnyo.com/priorities/",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He supports automatic voter registration, early voting and mail-in ballots.",
+          "quote": "In Congress, I will be a strong advocate for federal legislation to expand voting access, including automatic voter registration, early voting, and mail-in ballots.",
+          "sourceUrl": "https://assets.nationbuilder.com/lwvmaryland/pages/5234/attachments/original/1711990024/2024_Carroll_Co_VG_-_Primary_Election_Final_version.pdf?1711990024=",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Dave Wallace",
+      "party": "Republican",
+      "stances": {
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "Wallace supports allowing younger workers to invest their Social Security funds in 401(k) accounts rather than preserving the program unchanged.",
+          "quote": "Dave Wallace will fight for younger people’s right to invest their Social Security in 401Ks.",
+          "sourceUrl": "https://davewallace.us/",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Wallace pledged to provide police and first responders with additional resources and equipment.",
+          "quote": "He will vote to give them the resources and equipment they need to protect us from criminals both foreign and domestic.",
+          "sourceUrl": "https://davewallace.us/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "Wallace described keeping and bearing arms as a clear constitutional right.",
+          "quote": "The Second Amendment is clear. It’s the Right of the people to keep and bear arms.",
+          "sourceUrl": "https://assets.nationbuilder.com/lwvmaryland/pages/4884/attachments/original/1673310462/2022_Primary_Election_print_edition.pdf?1673310462=",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "Wallace said the Hyde Amendment should remain in place to bar federal abortion funding.",
+          "quote": "I believe we maintain the Hyde Amendment to prevent federal money from funding abortion.",
+          "sourceUrl": "https://assets.nationbuilder.com/lwvmaryland/pages/4884/attachments/original/1673310462/2022_Primary_Election_print_edition.pdf?1673310462=",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Wallace supported customizable private insurance plans and privatizing Medicaid and Veterans Affairs health care.",
+          "quote": "Medicaid &VA healthcare needs to be privatized to assure good healthcare for poor.",
+          "sourceUrl": "https://assets.nationbuilder.com/lwvmaryland/pages/4884/attachments/original/1673310462/2022_Primary_Election_print_edition.pdf?1673310462=",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Wallace pledged to lower fuel prices and support domestic energy sources, including Maryland natural gas.",
+          "quote": "Dave Wallace will fight for lower gas prices and make America Energy Independent again.",
+          "sourceUrl": "https://davewallace.us/",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "gojohnnyo.com · cbsnews.com · assets.nationbuilder.com · reproductivejusticemaryland.org · davewallace.us",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

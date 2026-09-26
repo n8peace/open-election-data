@@ -1,0 +1,184 @@
+{
+  "office": "Representative in Congress",
+  "district": "MD District 1",
+  "division": "md/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Dan Schwartz",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports raising the federal minimum wage and protecting workers’ right to unionize.",
+          "quote": "Raise the federal minimum wage so that Maryland taxpayers are no longer subsidizing out-of-state businesses who refuse to pay their employees living wages.",
+          "sourceUrl": "https://schwartzforcongress.com/policy/",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He supports ending tariffs that he says increase costs for Maryland families and businesses.",
+          "quote": "Support our farmers, small businesses and families by ending the costly tariffs Rep. Harris supported. Repealing unnecessary tariffs will save American families $5000 a year.",
+          "sourceUrl": "https://schwartzforcongress.com/policy/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He supports reversing cuts to Medicare and other benefit programs.",
+          "quote": "Repeal cruel cuts to Medicaid, Medicare, long-term care programs, SNAP, and community grants that hit MD-1 hard.",
+          "sourceUrl": "https://schwartzforcongress.com/policy/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "He supports bipartisan reform protecting asylum seekers while securing the border and focusing enforcement on people who committed crimes.",
+          "quote": "Pass bipartisan immigration reform legislation that protects asylum seekers and secures our borders. Hold ICE/Border Patrol accountable to the same police procedures as other law enforcement agencies. Focus immigration enforcement on those who have committed crimes.",
+          "sourceUrl": "https://schwartzforcongress.com/policy/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports codifying Roe v. Wade in federal law.",
+          "quote": "Codify Roe vs. Wade in Federal law so women across the country can access the care available in Maryland.",
+          "sourceUrl": "https://schwartzforcongress.com/policy/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports reversing Medicaid and Medicare cuts and adding public-option plans to Affordable Care Act marketplaces.",
+          "quote": "Protect and improve the Affordable Care Act (ACA) which helps Maryland families access healthcare. Allow public option plans in the ACA marketplace to drive competition.",
+          "sourceUrl": "https://schwartzforcongress.com/policy/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Andy Harris",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Harris advocates lowering corporate taxes and simplifying the tax code to promote business growth.",
+          "quote": "Lowering the corporate tax rate will keep large businesses from sending jobs overseas, and a simpler tax code would allow small businesses to save money and grow.",
+          "sourceUrl": "https://harris.house.gov/issues/economy",
+          "agreement": "3/3"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "Harris opposed raising the federal minimum wage to $15, arguing it would raise costs and eliminate jobs.",
+          "quote": "The minimum wage is not a living wage, and all this increase will do is raise costs and force struggling businesses to cut additional positions to stay afloat.",
+          "sourceUrl": "https://harris.house.gov/media/press-releases/harris-alarmed-over-cbo-report-15-minimum-wage",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Harris supports charter schools and vouchers that allow low-income families to enroll children in private schools.",
+          "quote": "Children should not be subjected to a poor-quality education because of their home address, which is why I am a strong proponent of school choice.",
+          "sourceUrl": "https://harris.house.gov/issues/education",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Harris supported federal grants for police communications, investigative technology, protective equipment and other enforcement tools.",
+          "quote": "These grants will help law enforcement agencies across Maryland's First District invest in the equipment officers use every day—from communications systems and investigative technology to emergency response equipment and protective gear—so they can better protect the people and communities of Maryland's First District.",
+          "sourceUrl": "https://harris.house.gov/media/press-releases/congressman-harris-announces-more-91000-marylands-first-district-law",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Harris voted for legislation funding a border wall, additional agents, detention facilities, removals, and an end to catch-and-release.",
+          "quote": "Securing our southern border is a top legislative priority for me and one of the issues the American people sent us back to Washington to solve.",
+          "sourceUrl": "https://harris.house.gov/media/press-releases/congressman-harris-votes-yes-secure-border-act-2023",
+          "agreement": "2/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Harris emphasizes the right of law-abiding citizens to possess firearms and the importance of armed self-defense.",
+          "quote": "The Second amendment guarantees the right of law-abiding citizens to keep and bear arms.",
+          "sourceUrl": "https://assets.nationbuilder.com/lwvmaryland/pages/5234/attachments/original/1712681879/2024_Harford_VG_Primary.pdf?1712681879=",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Harris cosponsored legislation that would prohibit abortions when a fetal heartbeat is detectable.",
+          "quote": "To amend title 18, United States Code, to prohibit abortion in cases where a fetal heartbeat is detectable.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-118hr175ih",
+          "agreement": "3/3"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Harris opposed allowing transgender women and girls to compete in female school sports.",
+          "quote": "This change in policy would decimate the current level playing field in female sports, and violate the long- and hard-fought-for rights of women.",
+          "sourceUrl": "https://harris.house.gov/media/press-releases/harris-reacts-education-secretarys-support-transgender-boys-girls-sports",
+          "agreement": "3/3"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "strong",
+          "text": "Harris opposed marijuana legalization and sponsored a spending restriction intended to block Washington, D.C.'s legalization law.",
+          "quote": "The last thing you need is to legalize marijuana",
+          "sourceUrl": "https://www.cbsnews.com/baltimore/news/congressional-controversy-in-d-c-s-marijuana-legalization-bill/",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Harris supports interstate insurance purchasing and private-market competition rather than government-directed coverage.",
+          "quote": "Everyone should be able to purchase insurance across state lines – competition always provides the best possible product at the lowest possible price.",
+          "sourceUrl": "https://harris.house.gov/issues/health",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Harris supports eventual development of alternative energy but favors continued use of large U.S. natural-gas reserves in the meantime.",
+          "quote": "Until then we should take advantage of our huge natural gas reserves, which are an environmentally-friendly way of producing energy.",
+          "sourceUrl": "https://assets.nationbuilder.com/lwvmaryland/pages/5234/attachments/original/1712681879/2024_Harford_VG_Primary.pdf?1712681879=",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Harris supports voter-identification requirements, signature verification for mail ballots and auditable paper ballots.",
+          "quote": "We must ensure the integrity of our elections by requiring voter ID and signature verification of mail-in ballots.",
+          "sourceUrl": "https://assets.nationbuilder.com/lwvmaryland/pages/5234/attachments/original/1712681879/2024_Harford_VG_Primary.pdf?1712681879=",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "schwartzforcongress.com · harris.house.gov · assets.nationbuilder.com · govinfo.gov · cbsnews.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
