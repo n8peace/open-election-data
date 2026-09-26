@@ -1,0 +1,106 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 15",
+  "division": "ny/cd-15",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Ritchie Torres",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Torres voted for the PRO Act and celebrated its strengthening of unions and workers' right to organize.",
+          "quote": "The PRO Act would preempt the Orwellian right-to-work laws so that union organizing is given the freedom to flourish everywhere in the United States.",
+          "sourceUrl": "https://ritchietorres.house.gov/posts/congressman-torres-votes-to-pass-the-protecting-the-right-to-organize-act",
+          "agreement": "3/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Torres has repeatedly attacked Trump's tariffs as a tax that harms American manufacturing and consumers.",
+          "quote": "The Trump tariff regime is a triple tax on American manufacturing: a U.S. tax on the components, a U.S. tax on the end product, and a retaliatory foreign tax on American exports.",
+          "sourceUrl": "https://ritchietorres.house.gov/posts/rep-ritchie-torres-recognized-as-a-top-congressional-leader-on-promoting-trade-combatting-trumps-tariffs-by-the-center-for-new-liberalism",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Torres introduced legislation to protect seniors' access to traditional Medicare and defends the program's role.",
+          "quote": "Medicare is how millions of seniors and retirees are able to go to the doctor, get the care they need, and live decent, dignified, and healthy lives.",
+          "sourceUrl": "https://ritchietorres.house.gov/posts/u-s-reps-torres-malliotakis-introduce-bipartisan-legislation-protecting-rights-ofseniors-to-access-traditional-medicare-coverage",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Introducing the ASAP Housing Act, Torres argued the way to lower housing costs is to expand the supply of housing.",
+          "quote": "The best way to cap the cost of housing is to uncap the volume of housing.",
+          "sourceUrl": "https://ritchietorres.house.gov/posts/congressman-ritchie-torres-introduces-the-accelerated-supply-of-affordable-production-housing-act-asap-housing-act",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Torres condemned ICE deportations and fought the removal of a DACA beneficiary from his district.",
+          "quote": "the vile anti-immigrant ideology of Donald Trump remains dominant at ICE, which is a soulless deportation machine that separates families and savages communities without regard for the human cost.",
+          "sourceUrl": "https://ritchietorres.house.gov/posts/statement-from-congressman-torres-concerning-the-imminent-deportation-of-javier-castillo-maradiaga",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Torres introduced federal legislation banning ghost guns and expanding gun-free school zones to curb gun violence.",
+          "quote": "We do not have to live in a world where Americans and especially children routinely fall victim to mass murder in the very places where they're supposed to be safe.",
+          "sourceUrl": "https://ritchietorres.house.gov/posts/u-s-rep-ritchie-torres-announces-federal-legislation-banning-ghost-guns-expanding-gun-free-school-zones",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Torres says he will fight in Congress to protect the right to abortion.",
+          "quote": "I believe in the right to choose how a person controls their own body, and will fight in Congress to ensure that right isn't eroded.",
+          "sourceUrl": "https://reproductivefreedomforall.org/news/naral-pro-choice-america-endorses-torres/",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Torres said he backs universal health care including the availability of Medicare for all.",
+          "quote": "I support Universal Healthcare including the availability of Medicare for all.",
+          "sourceUrl": "https://jimowles.org/news/candidate-answers-to-joldc-ritchie-torres-for-us-congress-ny-15",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Torres frames expanding electric-vehicle infrastructure as part of combating the climate crisis.",
+          "quote": "As we work to electrify the streets of New York City and combat the climate crisis",
+          "sourceUrl": "https://ritchietorres.house.gov/posts/u-s-rep-ritchie-torres-announces-substantial-new-investments-in-electric-vehicle-charging-infrastructure-coming-to-the-bronx",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "ritchietorres.house.gov · reproductivefreedomforall.org · jimowles.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

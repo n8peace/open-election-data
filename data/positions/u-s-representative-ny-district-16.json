@@ -1,0 +1,114 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 16",
+  "division": "ny/cd-16",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "George S. Latimer",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Latimer opposed the House Republican budget's tax cuts, framing them as giveaways to billionaires paid for by cutting Medicare and food aid.",
+          "quote": "This plan would hand $7 trillion in tax giveaways to billionaires while cutting Medicare and SNAP benefits for working-and-middle class families",
+          "sourceUrl": "https://latimer.house.gov/issues/taxes",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Latimer says he will protect workers' right to collectively bargain.",
+          "quote": "protect the right for workers to collectively bargain",
+          "sourceUrl": "https://latimerforny.com/priorities/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Latimer pledges to protect Medicare and Social Security and opposes privatizing them.",
+          "quote": "protect Medicare and Social Security from being dismantled",
+          "sourceUrl": "https://latimerforny.com/priorities/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Latimer favors incentivizing construction of more affordable housing units.",
+          "quote": "incentivizing the construction of affordable housing units",
+          "sourceUrl": "https://latimerforny.com/priorities/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Latimer supports faster work permits and a path to citizenship for immigrants.",
+          "quote": "accelerating work permits for immigrants to contribute to our economy while creating a fair and accessible path to citizenship",
+          "sourceUrl": "https://latimerforny.com/priorities/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Latimer backs an assault weapons ban and universal background checks.",
+          "quote": "advocating for common-sense gun reform including an assault weapons ban",
+          "sourceUrl": "https://latimerforny.com/priorities/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Latimer supports protecting reproductive freedom and opposes a national abortion ban.",
+          "quote": "protecting reproductive freedoms and believes it is a vested right",
+          "sourceUrl": "https://latimerforny.com/priorities/",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "He voted against the Republican budget, warning its Medicaid cuts would put over 196,000 district residents at risk of losing coverage.",
+          "quote": "The cuts needed for these tax breaks will mean over 196,000 residents in my district are at risk of losing Medicaid coverage.",
+          "sourceUrl": "https://latimer.house.gov/media/press-releases/rep-latimers-statement-reckless-republican-budget-plan-house-passage",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Latimer supports the Green New Deal and shifting from fossil fuels to renewable energy.",
+          "quote": "investing in renewable energy sources to transition away from fossil fuels",
+          "sourceUrl": "https://latimerforny.com/priorities/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Latimer supports expanding voting access through early voting and mail-in ballots.",
+          "quote": "expanding voting access through initiatives such as early voting, mail-in ballots",
+          "sourceUrl": "https://latimerforny.com/priorities/",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "latimer.house.gov · latimerforny.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

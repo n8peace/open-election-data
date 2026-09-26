@@ -1,0 +1,106 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 19",
+  "division": "ny/cd-19",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Josh Riley",
+      "party": "Democratic",
+      "stances": {
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Riley pledges never to cut Social Security or Medicare and to expand Medicare benefits.",
+          "quote": "Josh will never cut a penny from Social Security or Medicare.",
+          "sourceUrl": "https://joshrileyforcongress.com/policy-positions/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Riley wants to lower housing costs by surging new construction and barring Wall Street investors from buying homes.",
+          "quote": "Driving down the cost of housing by surging construction and banning Wall Street investors from buying up homes",
+          "sourceUrl": "https://joshrileyforcongress.com/policy-positions/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Riley opposes efforts to dismantle the Department of Education and strip funding from local public schools.",
+          "quote": "Blocking extreme efforts to dismantle the Department of Education and strip funding from our local schools",
+          "sourceUrl": "https://joshrileyforcongress.com/policy-positions/",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Riley calls the southern border a disaster and wants more border agents to secure it, while also saying he supports legal immigration.",
+          "quote": "The Southern Border is an absolute disaster, and Joe Biden, Marc Molinaro, and Washington politicians from both parties have failed us",
+          "sourceUrl": "https://joshrileyforcongress.com/policy-positions/",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Riley supports universal background checks to close loopholes and keep guns from dangerous individuals.",
+          "quote": "Fighting for universal background checks to close dangerous loopholes and keep weapons out of the hands of individuals who pose a danger",
+          "sourceUrl": "https://joshrileyforcongress.com/policy-positions/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Riley says abortion is a woman's decision and pledges to protect the right to choose in Congress.",
+          "quote": "I've fought for a woman's right to choose, and I'll do the same in Congress.",
+          "sourceUrl": "https://joshrileyforcongress.com/press/release-on-abortion-the-choice-is-clear/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Riley calls healthcare a civil right and supports expanding Medicare benefits and drug-price negotiation.",
+          "quote": "Josh believes that healthcare should be a civil right in America, not something that bankrupts so many American families.",
+          "sourceUrl": "https://joshrileyforcongress.com/policy-positions/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Riley supports protecting the EPA's authority to regulate greenhouse gases and combat climate change.",
+          "quote": "Protecting the EPA's ability to regulate greenhouse gases and combat climate change",
+          "sourceUrl": "https://joshrileyforcongress.com/policy-positions/",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Riley wants to restore the Voting Rights Act and ensure every voter can be heard.",
+          "quote": "restore the Voting Rights Act and guarantee that every voter can have their voice heard",
+          "sourceUrl": "https://joshrileyforcongress.com/policy-positions/",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "joshrileyforcongress.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

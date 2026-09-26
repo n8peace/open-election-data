@@ -1,0 +1,106 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 14",
+  "division": "ny/cd-14",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Ocasio-Cortez has proposed higher marginal tax rates on the very wealthy, saying the rich should pay more to fund programs like the Green New Deal.",
+          "quote": "People are going to have to start paying their fair share in taxes.",
+          "sourceUrl": "https://www.paramountpressexpress.com/cbs-news-and-stations/shows/60-minutes/releases/?view=51703-congresswoman-ocasio-cortez-tells-60-minutes-70-percent-tax-rates-on-the-very-rich-would-help-pay-for-green-new-deal-to-combat-climate-change",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She backs a federal jobs guarantee with a livable wage and has campaigned to raise the minimum wage.",
+          "quote": "Alexandria endorses a Federal Jobs Guarantee, because anyone who is willing and able to work shouldn't struggle to find employment.",
+          "sourceUrl": "https://www.ocasiocortez.com/issues",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She supports large-scale construction of new public and affordable housing to make housing available to everyone.",
+          "quote": "We must take action to provide stable, affordable housing to everyone, once and for all.",
+          "sourceUrl": "https://www.ocasiocortez.com/issues",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "She favors investing in social supports rather than incarceration.",
+          "quote": "Instead of investing in mass incarceration, we need to invest in the most vulnerable members of our society.",
+          "sourceUrl": "https://www.ocasiocortez.com/issues",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She calls for legal status for undocumented immigrants and abolishing ICE.",
+          "quote": "It is past time to make undocumented individuals full members of the country they call their home and abolish ICE.",
+          "sourceUrl": "https://www.ocasiocortez.com/issues",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports universal background checks and an assault weapons ban.",
+          "quote": "Congresswoman Ocasio-Cortez is a strong supporter of gun reform legislation.",
+          "sourceUrl": "https://ocasio-cortez.house.gov/legislation/gun-reform",
+          "agreement": "3/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "She supports federally legalizing marijuana and decriminalizing drug use.",
+          "quote": "Marijuana should be legalized, and drug consumption should be decriminalized.",
+          "sourceUrl": "https://www.newsweek.com/joe-biden-comes-out-against-legalizing-weed-says-its-potentially-gateway-drugalexandria-1472297",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She is a lead supporter of Medicare for All to guarantee everyone health care.",
+          "quote": "In a modern, moral society, no one should be too poor to get the care they need.",
+          "sourceUrl": "https://www.ocasiocortez.com/issues",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "As a Green New Deal author, she calls for a rapid transition to renewable and clean energy.",
+          "quote": "Now is the right time to create millions of jobs transitioning to renewable and clean energy.",
+          "sourceUrl": "https://www.ocasiocortez.com/issues",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "paramountpressexpress.com · ocasiocortez.com · ocasio-cortez.house.gov · newsweek.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

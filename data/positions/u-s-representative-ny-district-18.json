@@ -1,0 +1,98 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 18",
+  "division": "ny/cd-18",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Pat Ryan",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Ryan says he stands with labor and cosponsors the PRO Act to strengthen workers' right to organize.",
+          "quote": "I'm proud to always stand with my friends in labor and cosponsor the Protecting the Right to Organize (PRO) Act, the Postal Supervisors and Managers Fairness Act, and the Strengthening Supply Chains Through Truck Driver Incentives Act.",
+          "sourceUrl": "https://patryan.house.gov/issues/economy-works-all",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Ryan pledges to protect Social Security and Medicare and opposes cuts to them.",
+          "quote": "Social Security represents a sacred promise to our seniors.",
+          "sourceUrl": "https://patryan.house.gov/media/press-releases/congressman-pat-ryan-leads-hudson-valley-seniors-community-speak-out-protect",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Ryan cosponsors an assault weapons ban and supports universal background checks and red flag laws.",
+          "quote": "As a combat veteran I know the weapons I carried in war have no place on our streets or in our schools.",
+          "sourceUrl": "https://patryan.house.gov/media/press-releases/congressman-pat-ryan-hosts-roundtable-discussion-hudson-valley-gun-violence",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Ryan opposes abortion bans and defends the right to make reproductive decisions.",
+          "quote": "When the government tries to tell women what to do with their bodies, when the government tries to tell people and families how to make these personal decisions with lifelong consequences in every dimension, that's not who we are as a country.",
+          "sourceUrl": "https://www.newsweek.com/exclusive-congressman-elect-pat-ryan-abortion-ban-this-unacceptable-1737870",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Ryan champions the Equality Act to end discrimination against the LGBTQ+ community, which extends protections based on gender identity.",
+          "quote": "including the Equality Act to end discrimination against the LGTBQ+ community.",
+          "sourceUrl": "https://patryan.house.gov/issues/freedom-all",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Ryan defends Medicare and its power to negotiate lower drug prices for seniors.",
+          "quote": "Hudson Valley seniors have earned their Medicare coverage; they shouldn't have to break the bank just to pay for the medications they rely on",
+          "sourceUrl": "https://patryan.house.gov/media/press-releases/congressman-pat-ryan-announces-lower-prices-drugs-negotiated-medicare",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Ryan opposes rolling back environmental protections and backs clean-energy investment against polluters.",
+          "quote": "Yet this week, far-right Republicans passed a series of bills that will gut union jobs and boost profits for the very corporate polluters destroying our environment.",
+          "sourceUrl": "https://patryan.house.gov/media/press-releases/congressman-pat-ryan-fights-back-against-house-gops-pro-pollution-anti-union",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Ryan says he is fighting to ensure every American can vote freely and easily.",
+          "quote": "Voting is our most sacred duty, crucial to sustaining our democracy. I'm fighting to ensure that every American can freely and easily exercise that right.",
+          "sourceUrl": "https://patryan.house.gov/issues/freedom-all",
+          "agreement": "7/10"
+        }
+      }
+    }
+  ],
+  "sources": "patryan.house.gov · newsweek.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
