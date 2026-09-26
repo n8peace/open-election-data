@@ -1,0 +1,230 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 11",
+  "division": "fl/cd-11",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Ralph Groves",
+      "party": "LPF",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Groves calls for reducing federal taxes to stimulate the economy.",
+          "quote": "In Washington, Ralph Groves will uphold Social Security and Medicare, and will call for reduction of Federal taxes to stimulate the economy.",
+          "sourceUrl": "https://www.grovesforcongress.com/my-mission",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Groves says he would uphold Social Security and Medicare while addressing the deficit through economic growth.",
+          "quote": "In Washington, Ralph Groves will uphold Social Security and Medicare, and will call for reduction of Federal taxes to stimulate the economy.",
+          "sourceUrl": "https://www.grovesforcongress.com/my-mission",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Groves supports offering parents vouchers, homeschooling, and other educational options.",
+          "quote": "In addition, a broad range of options should be available to parents, including a voucher system and homeschooling.",
+          "sourceUrl": "https://www.grovesforcongress.com/my-mission",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Groves advocates increasing legal immigration through simpler and more reasonable processes.",
+          "quote": "He believes in simplified, reasonable immigration processes to enhance legal, regulated immigration.",
+          "sourceUrl": "https://www.grovesforcongress.com/my-mission",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Groves opposes expanding gun-purchase background checks, arguing that criminals would evade them.",
+          "quote": "Expanded background checks will not keep guns out of the hands of criminals and gang members; in any case, such checks will be inexact as not all records about people are available to adjudicators.",
+          "sourceUrl": "https://www.grovesforcongress.com/position-papers",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Groves urged Florida senators to support legislation specifically because it would curtail abortion funding.",
+          "quote": "Ralph Groves, 2026 Candidate of the Libertarian Party of Florida for the 11th Congressional District, urges Senators Rick Scott and Ashley Moody to vote in favor of H.R. 1 (The One Big Beautiful Bill) in particular because it curtails funding for abortions.",
+          "sourceUrl": "https://www.grovesforcongress.com/press-releases",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Groves supports increasing fossil-fuel production to reduce transportation and product costs and expects a slow transition to green energy.",
+          "quote": "An increase in fossil fuel output will lower costs of transport and prices of all products based on petrochemicals. Transition to “green energy” will take decades to accomplish.",
+          "sourceUrl": "https://www.grovesforcongress.com/my-mission",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "James Pericola",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Pericola proposes eliminating federal income taxes for people earning under $100,000 and cutting taxes for middle-class families.",
+          "quote": "Work to eliminate income taxes for those making less than $100,000 a year and cut taxes for middle-class families.",
+          "sourceUrl": "https://jamespericola.com/",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He opposes broad tariffs because he says they raise consumer costs.",
+          "quote": "including broad tariffs that function as a tax on many of the goods people buy every day.",
+          "sourceUrl": "https://floridapolitics.com/archives/813913-james-pericola-dems-need-to-give-people-something-to-vote-for-not-just-someone-to-vote-against/",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He opposes cutting or privatizing Social Security and Medicare.",
+          "quote": "Oppose any cuts or privatization of Social Security and Medicare, and push to let Medicare negotiate lower prescription drug costs for seniors.",
+          "sourceUrl": "https://jamespericola.com/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He supports expanding the supply of affordable housing as part of his cost-of-living agenda.",
+          "quote": "expanding the supply of affordable housing, and cracking down on price gouging and anti-competitive practices that leave consumers with fewer choices and higher prices.",
+          "sourceUrl": "https://floridapolitics.com/archives/813913-james-pericola-dems-need-to-give-people-something-to-vote-for-not-just-someone-to-vote-against/",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He says federal education funding should strengthen public schools rather than be diverted elsewhere.",
+          "quote": "Federal funding should strengthen public schools, not divert resources away from them.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=71841195&party=Dem",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports an earned path to citizenship for long-term residents and more timely immigration adjudication.",
+          "quote": "We should build a system that resolves claims fairly and promptly and create a rigorous, earned path to citizenship for long-term residents",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=71841195&party=Dem",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports restoring Medicaid funding and protecting the Affordable Care Act.",
+          "quote": "We need to restore Medicaid funding, protect the Affordable Care Act, and lower the cost of prescription drugs and medical care.",
+          "sourceUrl": "https://www.orangeobserver.com/news/2026/aug/05/meet-11th-congressional-district-democratic-candidate-james-pericola/",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He says required citizenship documents should be free and easy for eligible voters to obtain.",
+          "quote": "If such a requirement became law, I would fight to ensure that every necessary document is free and easy to obtain.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=71841195&party=Dem",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Joe Strada",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Strada says Washington should cut waste and bureaucracy before asking taxpayers for more money.",
+          "quote": "Cut waste, fraud, and bloated bureaucracy before Washington asks taxpayers for another dime.",
+          "sourceUrl": "https://votestrada.com/priorities",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Strada promises to preserve Social Security payments and protect earned benefits.",
+          "quote": "Social Security is the promise we made to you, and I promise you we will keep that promise. You will get your check.",
+          "sourceUrl": "https://www.wintergardenvox.com/articles/where-do-republican-candidates-for-congressional-district-11-stand-on-issues-voxpopuli-went-to-wildwood-to-find-out",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Strada supports allowing families to choose among public, charter, private, and home schools.",
+          "quote": "Empower families with the freedom to choose the school, public, charter, private, or homeschool, that fits their child best.",
+          "sourceUrl": "https://votestrada.com/priorities",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Strada supports law enforcement and tougher punishment for violent offenders.",
+          "quote": "Back law enforcement, punish violent offenders, and make communities safe again.",
+          "sourceUrl": "https://votestrada.com/priorities",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Strada supports completing the border wall and stopping unauthorized border crossings.",
+          "quote": "Finish the wall, restore order, stop illegal crossings, and put American citizens first.",
+          "sourceUrl": "https://votestrada.com/priorities",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Strada pledges to defend the constitutional right to keep and bear arms.",
+          "quote": "Protect freedom of speech, religious liberty, due process, and the right to keep and bear arms.",
+          "sourceUrl": "https://votestrada.com/priorities",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Strada prioritizes lower energy costs, energy independence, and protection of American workers.",
+          "quote": "Lower costs, restore energy independence, and stop punishing American workers and families.",
+          "sourceUrl": "https://votestrada.com/priorities",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Strada supports voter identification, voter-roll maintenance, and paper-ballot accountability.",
+          "quote": "Support voter ID, clean voter rolls, paper ballot accountability, and election integrity.",
+          "sourceUrl": "https://votestrada.com/priorities",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "grovesforcongress.com · jamespericola.com · floridapolitics.com · onyourballot.vote411.org · orangeobserver.com · votestrada.com · wintergardenvox.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

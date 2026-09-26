@@ -1,0 +1,208 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 9",
+  "division": "fl/cd-9",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Dan Green",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Green said taxes should not be raised.",
+          "quote": "I don't think we should be raising taxes.",
+          "sourceUrl": "https://ivoterguide.com/candidate/77073",
+          "agreement": "3/3"
+        },
+        "housing": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Green supports expanding affordable housing construction and streamlining regulatory reviews but also campaigns against overdevelopment.",
+          "quote": "I am a strong supporter of the recently passed federal housing legislation called the 21st Century ROAD to Housing Act which streamlined regulatory reviews, expanded affordable housing construction, and facilitates greater home ownership. The next step is to make sure it is implemented aggressively to provide Americans with greater affordable housing options.",
+          "sourceUrl": "https://www.wesh.com/article/us-congressional-district-9-republican-questionnaire/73272540",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Green said existing restrictions on gun ownership are already excessive.",
+          "quote": "What restrictions on gun ownership are needed to protect public safety?\n\nWe have too many restrictions.",
+          "sourceUrl": "https://ivoterguide.com/candidate/77073",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Green said elective abortion should be allowed only in cases of rape, incest, or danger to the mother's life.",
+          "quote": "In case of rape, incent, and life of the mother.",
+          "sourceUrl": "https://ivoterguide.com/candidate/77073",
+          "agreement": "3/3"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Green strongly agreed that transgender women should not participate in women's sports or use designated women's spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/77073",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Green said private insurance should be the primary source of coverage while allowing fiscally responsible government relief.",
+          "quote": "I believe we should strive for private insurance to be the primary means through which Americans receive healthcare coverage and that the government should provide relief as well but in a fiscally responsible manner.",
+          "sourceUrl": "https://ivoterguide.com/candidate/77073",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Green's campaign says he would work to lower fuel prices and other living costs.",
+          "quote": "Dan Green and President Trump will do everything necessary to lower fuel costs, groceries, and the ever rising cost of living.",
+          "sourceUrl": "https://dangreenfl.com/",
+          "agreement": "2/3"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Green supports requiring proof of citizenship and identification in federal elections.",
+          "quote": "Green supports requiring proof of citizenship and identification for federal elections, citing his experience assisting with the 2000 Florida recount.",
+          "sourceUrl": "https://www.sebastiandaily.com/business/navy-veteran-dan-green-courts-indian-river-voters-in-district-9-primary-94900/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Darren Soto",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Soto opposed cuts to Medicaid, the ACA, and SNAP that he said financed tax breaks for billionaires.",
+          "quote": "We saw record cuts to the ACA, Medicaid, and SNAP, as well as $4 trillion added to the National Debt in the Big Ugly Law—all to pay for billionaire tax breaks we can’t afford.",
+          "sourceUrl": "https://www.darrensoto.com/healthcare",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Soto opposes increased tariffs because he says they raise consumer costs.",
+          "quote": "Darren opposes increased tariffs and other policies that are increasing the cost of groceries, gasoline, and healthcare.",
+          "sourceUrl": "https://www.darrensoto.com/jobs-and-economy",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Soto supports protecting Social Security benefits and financing the program by removing its income cap.",
+          "quote": "That’s why he supports the Social Security 2100 Act and similar legislation that would scrap the income cap, currently at $184,500, and fully fund Social Security to 2100 and beyond.",
+          "sourceUrl": "https://www.darrensoto.com/protect-social-security",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Soto voted for legislation that streamlines affordable-housing projects and encourages more inclusive zoning.",
+          "quote": "This new law restricts institutional investors from buying up single-family homes, streamlines small affordable housing projects, encourages more inclusive zoning, improves VA and First-Time Home Buyer Programs, and includes manufactured homes in HUD programs.",
+          "sourceUrl": "https://www.darrensoto.com/affordable-housing",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He supports federal funding for programs administered through states, local districts, and underserved schools.",
+          "quote": "Education is primarily administered by States and local districts, but the Federal government should promote equal opportunity, and fund programs such as Head Start, special education, English language learners (ELL) and as well as schools in underserved communities.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020287",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Soto supports pathways to citizenship or residency for Dreamers, TPS recipients, and farmworkers alongside border security.",
+          "quote": "In Congress, Darren has supported bipartisan comprehensive immigration reform including border security and a pathway to citizenship or residency for Dreamers, TPS recipients, and farmworkers.",
+          "sourceUrl": "https://www.darrensoto.com/immigration-reform",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Soto voted for the Bipartisan Safer Communities Act, describing it as gun-safety reform intended to reduce violence.",
+          "quote": "He voted for the Bipartisan Safer Communities Act to address gun violence, the first gun safety reform in over 30 years.",
+          "sourceUrl": "https://soto.house.gov/about",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Soto supports establishing a federal right to abortion and has cosponsored legislation protecting abortion access.",
+          "quote": "The right to abortion is a fundamental right—one that must be safeguarded in federal law.",
+          "sourceUrl": "https://soto.house.gov/services/know-your-reproductive-rights-access-care",
+          "agreement": "3/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "He described legislation targeting LGBTQ+ students as harmful and pledged to advocate for and affirm those students' needs.",
+          "quote": "In these turbulent times, LGBTQ+ students need advocates, and we will continue to collaborate with the Biden-Harris Administration to affirm and amplify their needs.",
+          "sourceUrl": "https://myemail.constantcontact.com/Standing-with-Central-Florida-students.html?aid=peeEgMrBav0&soid=1134671990281",
+          "agreement": "3/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Soto voted for federal cannabis descheduling, legalization, and taxation through the MORE Act.",
+          "quote": "Voted FOR the MORE Act H.R.3617 in 2022, which provides for federal descheduling, legalization, and taxation of cannabis at the federal level, with community reinvestment and a focus on equity.",
+          "sourceUrl": "https://www.mpp.org/assets/pdf/takeaction/election-central1/voter-guides/mpp-scorecard-us-congress-and-incumbents-2024.pdf?v=1752570194",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Soto opposes cuts to Medicare, Medicaid, and the Affordable Care Act.",
+          "quote": "Darren will protect our healthcare. He is fighting recent cuts to Medicare, Medicaid, and the ACA in Congress that are driving up your healthcare costs.",
+          "sourceUrl": "https://www.darrensoto.com/healthcare",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Soto voted for tax incentives intended to reduce carbon emissions by 40 percent by 2030.",
+          "quote": "The law also allocated $400 billion in tax incentives to reduce carbon emissions by 40% by 2030, which is the largest investment to combat climate change in U.S. history.",
+          "sourceUrl": "https://soto.house.gov/about",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He voted against citizenship-documentation requirements that he said could prevent eligible citizens from registering to vote.",
+          "quote": "I oppose unnecessary documentation requirements that could prevent eligible citizens from voting, which is why I voted against the SAVE Act in 2025. If such requirements do become law, certified documents should be provided free of charge, with accessible assistance and alternative verification procedures for voters whose records are missing or contain a former name.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020287",
+          "agreement": "6/10"
+        }
+      }
+    }
+  ],
+  "sources": "ivoterguide.com · wesh.com · dangreenfl.com · sebastiandaily.com · darrensoto.com · onyourballot.vote411.org · soto.house.gov · myemail.constantcontact.com · mpp.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

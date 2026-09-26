@@ -1,0 +1,200 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 8",
+  "division": "fl/cd-8",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Mike Haridopolos",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He supports extending the 2017 tax cuts and further reducing individual and corporate taxes.",
+          "quote": "We can do this by extending the 2017 tax cuts and reducing taxes further especially to reshore jobs lost due to past policies.",
+          "sourceUrl": "https://haridopolos.house.gov/issues/tax-reform-and-economy",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He said Social Security and Medicare benefits should remain unchanged and described them as promises that must be protected.",
+          "quote": "Let me be crystal clear: There are NO changes to Social Security or Medicare benefits. These are promises made to the American people, and we’re protecting them.",
+          "sourceUrl": "https://haridopolos.house.gov/media/in-the-news/congressman-haridopolos-one-big-beautiful-bill-win-florida-families-workers",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He voted for legislation intended to expand housing supply and has advocated addressing regulatory delays and outdated zoning rules.",
+          "quote": "As part of this effort, Haridopolos voted in favor of the Housing for the 21st Century Act, a pro-growth bill aimed at expanding housing supply, modernizing federal housing programs, and strengthening community banks’ ability to finance new construction.",
+          "sourceUrl": "https://haridopolos.house.gov/media/press-releases/rep-haridopolos-advances-housing-affordability-agenda-financial-services",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "He voted for four District of Columbia crime bills, including one restoring police pursuit authority.",
+          "quote": "H.R. 5143 - District of Columbia Policing Protection Act: Restores police authority to pursue fleeing suspects and improves real-time public safety alerts.",
+          "sourceUrl": "https://haridopolos.house.gov/media/press-releases/haridopolos-votes-strengthen-law-and-order-washington-dc",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He voted to fund additional border barriers and personnel for DHS, Customs and Border Protection, and ICE.",
+          "quote": "Permanently securing the Southern Border: Fully funds the president’s border security agenda, including resources to finish the wall and increase manpower at DHS, CBP, and ICE.",
+          "sourceUrl": "https://haridopolos.house.gov/media/press-releases/congressman-haridopolos-votes-pass-one-big-beautiful-bill-delivering-real",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "His campaign says he consistently defends Second Amendment rights and will protect the right to bear arms in Congress.",
+          "quote": "Additionally, Mike has always been a staunch defender of our Second Amendment rights, carrying an A rating from the NRA from his service in the Florida Legislature. Mike will always protect our right to bear arms in Congress.",
+          "sourceUrl": "https://www.mike4congress.com/issues",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He said abortion should generally be prohibited after 15 weeks, with exceptions for rape, incest, human trafficking, and danger to the mother's life.",
+          "quote": "During a recent debate with Kennedy on WESH-TV, Haridopolos said he draws the line on abortions after 15 weeks of pregnancy.",
+          "sourceUrl": "https://www.yahoo.com/news/republican-haridopolos-democrat-kennedy-face-090206180.html",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He advocates greater competition and consumer choice in health care while protecting Medicare.",
+          "quote": "I am fighting to lower costs by increasing transparency, expanding competition, strengthening doctor-patient relationships, and giving Americans more choices in their care.",
+          "sourceUrl": "https://haridopolos.house.gov/issues/health-care",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He voted to prevent unilateral federal bans on fracking, citing domestic production, jobs, and lower consumer costs.",
+          "quote": "Washington, D.C. – On Friday, Congressman Mike Haridopolos (FL-08) joined House Republicans in passing the Protecting American Energy Production Act, which will restore America’s energy dominance, create jobs, and lower families' costs.",
+          "sourceUrl": "https://haridopolos.house.gov/media/press-releases/congressman-mike-haridopolos-votes-yes-protecting-american-energy-production",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He co-sponsored legislation establishing photo identification and proof-of-citizenship requirements for federal elections.",
+          "quote": "Requiring photo ID and proof of citizenship is a common-sense step to restoring trust in our elections.",
+          "sourceUrl": "https://haridopolos.house.gov/media/press-releases/house-passes-legislation-restore-election-integrity",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Jennifer Jenkins",
+      "party": "DEM",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Jenkins says she will oppose tariffs that increase the cost of everyday goods.",
+          "quote": "Oppose reckless tariffs that drive up the cost of everyday goods.",
+          "sourceUrl": "https://jenkinsforfl.com/priorities/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Jenkins identifies protecting Social Security and Medicare as a reason she is running for Congress.",
+          "quote": "I’m running for affordability, public education, protecting Social Security and Medicare, defending reproductive freedom, and lowering costs for working families.",
+          "sourceUrl": "https://politicalemails.org/messages/2414919",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Jenkins supports federal funding for public schools, higher educator pay, disability services, and efforts to address teacher shortages.",
+          "quote": "Raise teacher pay and strengthen our public schools. I will fight for federal legislation that helps states raise educator salaries, fully funds our commitments to students with disabilities, and addresses the teacher shortage.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72940817",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Jenkins supports expanding legal immigration pathways and offering Dreamers and qualifying long-term undocumented residents an earned path to legal status and citizenship.",
+          "quote": "We should invest in border security and faster asylum processing, expand legal pathways for workers and families, and give Dreamers and long-term undocumented residents who work, pay taxes, and follow the law an earned pathway to legal status and citizenship.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72940817",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Jenkins called for universal background checks, red-flag laws, and firearm safe-storage requirements.",
+          "quote": "I’ve had enough. I’m starting a petition in support of universal background checks, red flag laws, and safe storage requirements.",
+          "sourceUrl": "https://www.politicalemails.org/messages/2001730",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Jenkins says defending reproductive freedom is a central purpose of her congressional campaign.",
+          "quote": "I’m running for affordability, public education, protecting Social Security and Medicare, defending reproductive freedom, and lowering costs for working families.",
+          "sourceUrl": "https://politicalemails.org/messages/2414919",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "As a school-board member, Jenkins sought a gubernatorial veto of Florida legislation banning transgender students from participating in sports consistent with their gender identity.",
+          "quote": "Board member Jenkins asked if the Board would consider writing a letter to Governor DeSantis asking him to veto SB 1028; part of which is a ban on trans sports.",
+          "sourceUrl": "https://agenda.brevardschools.org/publishing/may-25-2021-school-board-meeting/minutes.html",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Jenkins pledges to expand Medicaid so more Floridians receive coverage without relying on emergency care or incurring medical debt.",
+          "quote": "Expand Medicaid so Floridians aren’t forced into emergency care or medical debt.",
+          "sourceUrl": "https://jenkinsforfl.com/priorities/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Jenkins supports reducing climate pollution while investing in clean energy, grid improvements, and resilient infrastructure.",
+          "quote": "Protecting our economy requires both reducing the pollution driving climate change and preparing our communities for impacts we are already experiencing.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72940817",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Jenkins opposes ending voting by mail and supports federal voting-rights legislation.",
+          "quote": "Donald Trump and MAGA want to END Vote-by-Mail.",
+          "sourceUrl": "https://www.politicalemails.org/messages/2337785",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "haridopolos.house.gov · mike4congress.com · yahoo.com · jenkinsforfl.com · politicalemails.org · onyourballot.vote411.org · agenda.brevardschools.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

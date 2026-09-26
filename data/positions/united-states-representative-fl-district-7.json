@@ -1,0 +1,254 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 7",
+  "division": "fl/cd-7",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Bale Dalton",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Dalton said he would oppose a proposed property-tax cut because it could undermine public safety, roads, and storm preparation, while also supporting targeted tax relief for working families.",
+          "quote": "I will vote no on the governor’s proposal to slash property taxes. While I support tax relief for working families, this proposal would imperil our ability to fund public safety, maintain our roads, and prepare for storms.",
+          "sourceUrl": "https://oviedocommunitynews.org/profile/bale-dalton/",
+          "agreement": "4/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Dalton supports raising the federal minimum wage and passing the PRO Act to strengthen labor unions.",
+          "quote": "With prices rising, wages also need to keep up – which is why I support raising the federal minimum wage and passing the PRO Act, so labor unions can advocate for workers in a changing economy.",
+          "sourceUrl": "https://baledalton.com/priorities/",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Dalton calls for reversing the administration’s tariffs, which he says have raised consumer costs.",
+          "quote": "We need to stop the bleeding, by reversing health care premium hikes and illegal, unpredictable tariffs.",
+          "sourceUrl": "https://baledalton.com/priorities/",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Dalton supports protecting Social Security and Medicare while addressing government waste and the national debt.",
+          "quote": "We need to elect members of Congress who will restore funding to Medicaid, reverse premium cuts, and protect Social Security and Medicare for generations to come.",
+          "sourceUrl": "https://baledalton.com/priorities/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Dalton says Congress should enable construction of more housing at all income levels to increase supply.",
+          "quote": "While we absolutely need to enable the creation of more housing at all income levels in order to increase supply, we also should ban Wall Street speculators from buying up single-family homes, which further reduces options for families and drives up costs for everyone else.",
+          "sourceUrl": "https://baledalton.com/priorities/",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Dalton says police departments should be fully funded and adequately equipped.",
+          "quote": "We must ensure that our police departments are fully funded and have the resources they need to do their job well.",
+          "sourceUrl": "https://baledalton.com/priorities/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Dalton supports both stronger border security and a pathway to citizenship for Dreamers.",
+          "quote": "I support a comprehensive approach to immigration that secures our border and provides a pathway to citizenship for Dreamers.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020285",
+          "agreement": "3/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "Giffords says Dalton would support expanded background checks, closing the Charleston loophole, and federal red-flag laws.",
+          "quote": "In office, he’ll be a tireless advocate for expanding background checks, closing the Charleston loophole, and implementing federal red flag laws like the ones that have already proved successful in Florida.",
+          "sourceUrl": "https://giffords.org/candidates/bale-dalton/",
+          "agreement": "4/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Dalton supports codifying Roe v. Wade protections in federal law.",
+          "quote": "That’s why I support codifying Roe into federal law, to put these decisions back where they belong – with patients.",
+          "sourceUrl": "https://baledalton.com/priorities/",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Dalton supports restoring Medicaid funding and building on the Affordable Care Act.",
+          "quote": "We need to build on the Affordable Care Act to lower premiums, deductibles, and surprise medical bills that keep hardworking families from seeking care.",
+          "sourceUrl": "https://baledalton.com/priorities/",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Dalton supports an all-of-the-above energy policy aimed at energy independence and lower consumer costs.",
+          "quote": "Endorsing an all-of-the-above energy policy means strengthening our nation’s energy independence and reducing our need for foreign oil and Chinese solar while also lowering costs for American consumers.",
+          "sourceUrl": "https://baledalton.com/priorities/",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "Christopher Dennison",
+      "party": "LPF",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Dennison supported a larger homestead property-tax exemption and said governments should budget better rather than keep the money.",
+          "quote": "Because the money goes back to the homeowner, and the government needs to learn how to spend their money better and budget better",
+          "sourceUrl": "https://oviedocommunitynews.org/2026/08/12/how-rep-cory-mills-and-his-challengers-will-vote-on-property-tax-reform/",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Dennison supports a stronger border and deporting applicants who fail background checks while also proposing an easier legal process and probationary path to citizenship.",
+          "quote": "We need to do thorough background checks for anyone who wishes to apply for citizenship and once they pass they should be allowed to immediately start the process of becoming a citizen. If they fail the background test, they should be deported immediately.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020285",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Dennison favors market-based climate solutions and opposes large government mandates or spending that he says would hinder economic growth.",
+          "quote": "Free markets, innovation, and property rights offer the most effective solutions for addressing climate change issues, rather than large-scale government mandates or spending, which can stifle economic growth and individual liberty.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020285",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "Dennison supports applying Florida's voting requirements nationwide while making any required documents free.",
+          "quote": "I believe the country should have the same voting requirement as Florida. If those documents are required then they should be able to be obtained for free for the purposes of voting.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020285",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Ryan Elijah",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Elijah says taxes should be lowered for all families and rejects higher taxes on families that can afford them.",
+          "quote": "We should seek to lower taxes for all families, but every family should pay their share of taxes, not be penalized for their own success or prosperity.",
+          "sourceUrl": "https://ivoterguide.com/candidate/78497/race/28516/election/1431",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Elijah supports cutting discretionary spending because he considers the national debt unsustainable.",
+          "quote": "Absolutely, we need to get government spending under control, specifically discretionary spending. The current national debt is not sustainable and must be addressed.",
+          "sourceUrl": "https://ivoterguide.com/candidate/78497/race/28516/election/1431",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Elijah supports school choice, parental control, and curriculum transparency.",
+          "quote": "That’s why he champions parental rights and school choice, empowering families to make the best decisions for their kids and have transparency on curriculum.",
+          "sourceUrl": "https://elijahforcongress.com/issues.html",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Elijah supports legislation protecting law enforcement and tougher penalties for attacks on officers.",
+          "quote": "Ryan is a strong defender of law enforcement and deeply understands the daily challenges officers face. He will strongly support legislation that protects law enforcement, including tougher penalties for assaulting or shooting officers.",
+          "sourceUrl": "https://elijahforcongress.com/issues.html",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Elijah calls for securing the border and opposing measures that weaken immigration enforcement.",
+          "quote": "We must continue to secure our borders and oppose any measures that weaken enforcement or prioritize non-citizens over American safety.",
+          "sourceUrl": "https://elijahforcongress.com/issues.html",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Elijah says existing gun rights should be protected and current background checks are sufficient for public safety.",
+          "quote": "We must continue to protect existing gun rights and defend the Second Amendment. Mental health services and the current required background checks protect public safety.",
+          "sourceUrl": "https://ivoterguide.com/candidate/78497/race/28516/election/1431",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Elijah opposes taxpayer funding for abortion providers, including through Medicaid and Title X.",
+          "quote": "Abortion providers should not receive any taxpayer dollars including those associated with Medicaid and Title X funds.",
+          "sourceUrl": "https://ivoterguide.com/candidate/78497/race/28516/election/1431",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Elijah says women's sports should be limited to biological women.",
+          "quote": "Of course not. Women’s sports are for biological women only.",
+          "sourceUrl": "https://ivoterguide.com/candidate/78497/race/28516/election/1431",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Elijah selected a mixed system in which government-funded insurance is available to everyone who wants it alongside private options.",
+          "quote": "Healthcare insurance funded by the government should be available for all who want it, along with private healthcare options.",
+          "sourceUrl": "https://ivoterguide.com/candidate/78497/race/28516/election/1431",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Elijah supports energy independence and lower gasoline prices as a way to reduce costs throughout the economy.",
+          "quote": "Congress must continue driving down costs for American families by keeping taxes low and achieving American energy independence. Lower gas prices are critical to our economy because they reduce costs for families, businesses, and everything we buy.",
+          "sourceUrl": "https://elijahforcongress.com/issues.html",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Elijah supports requiring photo identification to vote.",
+          "quote": "We must have secure and fair elections and providing a photo identification is a basic and needed requirement in that mission.",
+          "sourceUrl": "https://ivoterguide.com/candidate/78497/race/28516/election/1431",
+          "agreement": "9/10"
+        }
+      }
+    }
+  ],
+  "sources": "oviedocommunitynews.org · baledalton.com · onyourballot.vote411.org · giffords.org · ivoterguide.com · elijahforcongress.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
