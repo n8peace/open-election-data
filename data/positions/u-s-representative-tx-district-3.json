@@ -1,0 +1,232 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 3",
+  "division": "tx/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Keith Self",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Self says he will lower taxes, cut spending, and reduce the size of government.",
+          "quote": "Congressman Self will continue working to lower taxes, cut wasteful spending and reduce the size of government in order to grow our economy and stifle inflation.",
+          "sourceUrl": "https://keithself.com/issues/",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "Self praised President Trump's steel and aluminum tariffs as a way to counter unfair foreign competition.",
+          "quote": "President Trump KEEPS HIS PROMISES! @realDonaldTrump is delivering on his promise to rebalance trade from unfair foreign competition. In the Golden Age, we are building a stronger America.",
+          "sourceUrl": "https://www.presidency.ucsb.edu/documents/white-house-press-release-industry-lawmakers-applaud-president-trumps-section-232-tariffs",
+          "agreement": "3/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Self introduced a bill requiring legislation that raises spending or cuts revenue to produce savings worth twice its budgetary cost.",
+          "quote": "The Super PAYGO Act restores a simple principle: if Congress wants to create new spending, it must produce even greater savings elsewhere. The days of treating deficit spending as business as usual must come to an end.",
+          "sourceUrl": "https://keithself.house.gov/media/press-releases/congressman-keith-self-introduces-bill-strengthen-fiscal-discipline-and-rein",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Self strongly supports vouchers, charter schools, private schools, homeschooling, and other forms of school choice.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools.",
+          "sourceUrl": "https://ivoterguide.com/candidate/59848/race/6561/election/1079",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Self strongly opposes redirecting police funding to community programs.",
+          "quote": "I support redirecting funds from police departments to community programs. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/59848/race/6561/election/1079",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Self calls for enforcing immigration laws, increasing resources for immigration agents, and expanding physical border barriers.",
+          "quote": "Enforcing existing laws, providing more resources to immigration agents, and expanding physical barriers are essential actions we must take to end the border crisis.",
+          "sourceUrl": "https://keithself.house.gov/issues/border-security-immigration",
+          "agreement": "3/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Self says he will oppose efforts to restrict gun ownership and self-defense rights.",
+          "quote": "Keith understands that gun ownership and self-defense are foundational to the American way of life, and he will fight all efforts by the left to curtail our Constitutional rights.",
+          "sourceUrl": "https://keithself.com/issues/",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Self presents protecting unborn life as a central part of his record.",
+          "quote": "National and Texas right to life groups support Keith Self because of his leadership on protecting the unborn.",
+          "sourceUrl": "https://keithself.com/issues/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Self co-sponsored legislation defining sex in federally funded athletics according to reproductive biology and genetics at birth.",
+          "quote": "To amend the Education Amendments of 1972 to provide that for purposes of determining compliance with title IX of such Act in athletics, sex shall be recognized based solely on a person’s reproductive biology and genetics at birth.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr28ih",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Self led efforts to preserve access to short-term private health-insurance plans by reversing federal restrictions on them.",
+          "quote": "These insurance plans are designed to provide Americans with temporary, limited, and affordable health coverage while they search for more permanent solutions.",
+          "sourceUrl": "https://keithself.house.gov/issues/health-care",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Self supports photo-identification requirements, state control of elections, and paper trails for voting machines.",
+          "quote": "Keith believes that elections must remain under state control, he supports election integrity laws such as requiring a photo ID to vote, and he insists that all future voting machines include a paper trail.",
+          "sourceUrl": "https://keithself.com/issues/",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Evan Hunt",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Hunt said tax advantages for the ultra-rich should be redirected toward public education, health care, child care, and small businesses.",
+          "quote": "If we actually wanted to balance the budget and grow the economy, we’d stop giving the ultra-rich a free ride… and redirect that money into the things that create real opportunity—public education, healthcare, childcare, small businesses.",
+          "sourceUrl": "https://tx3dnews.com/keith-self-budget-bill-vote-evan-hunt-backlash/",
+          "agreement": "6/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Hunt supports raising the federal minimum wage and has endorsed a $17 hourly floor indexed to inflation.",
+          "quote": "On the minimum wage, Hunt supported an increase, stating that if adjusted for 1980s inflation, it would be about $23 today.",
+          "sourceUrl": "https://tx3dnews.com/evan-hunt-energizes-congressional-bid-tx03/",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Hunt opposes tariffs and trade wars that reduce demand for American products and raise consumer costs.",
+          "quote": "I support Fair Trade, but not the way it’s been implemented. Tariffs don’t work if your customers are so upset that they stop buying American products.",
+          "sourceUrl": "https://www.electevanhunt.com/",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Hunt promises to oppose Social Security benefit cuts and preserve the program for current and future retirees.",
+          "quote": "Social Security is a promise, not a political bargaining chip. I’ll fight any attempt to cut benefits and work to keep the program strong for our current and future retirees.",
+          "sourceUrl": "https://www.electevanhunt.com/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Hunt supports incentives to construct more homes affordable to low- and middle-income households.",
+          "quote": "We need to incentivize construction of low-income and middle-income homes,” Hunt said. “We have private equity buying up neighborhoods and driving the price up.",
+          "sourceUrl": "https://tx3dnews.com/evan-hunt-virtual-town-hall-tx03/",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Hunt opposes vouchers and says public-school funding should not be redirected to private institutions.",
+          "quote": "I’m firmly against voucher initiatives which will inevitably harm public schools, especially in districts like Plano ISD, Frisco ISD, and Allen ISD, which already face financial challenges due to the state’s recapture system.",
+          "sourceUrl": "https://www.electevanhunt.com/",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Hunt proposed redirecting ICE bonus and detention-center funding to local and state police as the population grows.",
+          "quote": "The majority of funding being used for bonuses and massive detention centers should be transitioned to local and state police",
+          "sourceUrl": "https://tx3dnews.com/evan-hunt-says-gop-left-collin-county-in-play/",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Hunt supports stronger border enforcement and deporting undocumented criminals while also expanding legal immigration and earned pathways.",
+          "quote": "I support immigration reform that protects our borders, streamlines legal immigration, and gives law-abiding immigrants a path to earn their place. I do not endorse illegal migration or criminal activity. I support strong borders, safe streets, and efficient deportations of undocumented criminals.",
+          "sourceUrl": "https://www.electevanhunt.com/",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "Hunt supports restoring abortion exceptions for rape, incest, and medical emergencies and says women should make their own bodily decisions.",
+          "quote": "Women should be able to make their own choices about their bodies.",
+          "sourceUrl": "https://tx3dnews.com/evan-hunt-energizes-congressional-bid-tx03/",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "Hunt said his community was not ready for transgender girls on girls’ sports teams, while favoring local school-district control of the issue.",
+          "quote": "I don’t think our community is ready for trans girls to be on girls sports teams",
+          "sourceUrl": "https://tx3dnews.com/evan-hunt-defines-campaign-tx03-town-hall/",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Hunt advocates a stronger public health-insurance option similar to Medicare for All.",
+          "quote": "Hunt advocated for a stronger public healthcare option similar to Medicare for All while criticizing consolidation within the healthcare industry.",
+          "sourceUrl": "https://tx3dnews.com/evan-hunt-virtual-town-hall-tx03/",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Hunt supports major climate action through clean-energy incentives but opposes mandates that could substantially increase family costs or impose unrealistic business timelines.",
+          "quote": "Yes. I believe we need a serious plan to address climate change, but it has to be balanced and realistic. I do not support rigid, one-size-fits-all mandates that risk driving up costs for families or forcing businesses into unrealistic timelines.",
+          "sourceUrl": "https://www.lonestarleft.com/p/meet-the-candidates-evan-hunt-for",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Hunt supports restoring Voting Rights Act protections and opposes the SAVE Act because he says it would create additional voting barriers.",
+          "quote": "Hunt also voiced support for restoring Voting Rights Act protections and criticized the federal SAVE Act, arguing it could create additional barriers for voters.",
+          "sourceUrl": "https://tx3dnews.com/evan-hunt-virtual-town-hall-tx03/",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "keithself.com · presidency.ucsb.edu · keithself.house.gov · ivoterguide.com · govinfo.gov · tx3dnews.com · electevanhunt.com · lonestarleft.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

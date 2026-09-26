@@ -1,0 +1,96 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 9",
+  "division": "tx/cd-9",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Alex Mealer",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Mealer says she will cut taxes and unnecessary regulations so families keep more of their earnings and businesses can grow.",
+          "quote": "I will fight to cut taxes and unnecessary regulations, create good-paying jobs, and lower the cost of living so families can keep more of what they earn and businesses can thrive.",
+          "sourceUrl": "https://alexandramealer.com/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Mealer pledges full support for federal law-enforcement partners to improve public safety.",
+          "quote": "The war on law enforcement must end and I am committed to fully supporting our federal partners to make our cities safe again – everyone has a right to be safe in their neighborhood",
+          "sourceUrl": "https://alexandramealer.com/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Mealer says she will enforce immigration laws and provide law enforcement with federal resources to secure the border.",
+          "quote": "In Congress, I will fight to restore law and order at the border, enforce our immigration laws, and ensure law enforcement have the federal resources they need to protect Texas families.",
+          "sourceUrl": "https://alexandramealer.com/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Mealer described herself as pro-life and said she supports states such as Texas adopting stronger anti-abortion measures.",
+          "quote": "I understand that this is a state’s rights issue and will continue to support states like Texas having very different and very stronger pro-life measures than that of other states.",
+          "sourceUrl": "https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/05/13/in-heated-congressional-race-in-houston--alex-mealer-pushes-herself-as-trump-s-choice",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Mealer says she will seek rules excluding transgender women from women’s sports and locker rooms.",
+          "quote": "In Congress, I will fight to protect girls’ sports and keep biological men out of women’s locker rooms.",
+          "sourceUrl": "https://alexandramealer.com/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Mealer pledges to expand domestic energy production to lower fuel and electricity prices and protect energy security.",
+          "quote": "I will fight to expand domestic energy production to drive down gas and electricity prices and make our country energy secure and dominant.",
+          "sourceUrl": "https://alexandramealer.com/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Leticia Gutierrez",
+      "party": "DEM",
+      "stances": {
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Gutierrez says she has spent 15 years advocating for immigrant communities to live safely and with dignity.",
+          "quote": "If you have fought for our children's health in the shadow of industry, if you have fought for our immigrant community to live in safety and with dignity, then you know me. I have been in this fight for 15 years. I have advocated, organized, and marched right alongside you.",
+          "sourceUrl": "https://www.leticiaforcongress.com/",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "alexandramealer.com · spectrumlocalnews.com · leticiaforcongress.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

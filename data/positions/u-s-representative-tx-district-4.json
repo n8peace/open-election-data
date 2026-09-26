@@ -1,0 +1,120 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 4",
+  "division": "tx/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Pat Fallon",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Fallon voted for the 2025 reconciliation bill and praised its extension of the 2017 tax cuts for families and businesses.",
+          "quote": "By extending President Trump’s 2017 tax cuts for working families and businesses, the American economy now has the increased certainty it needs to continue to grow.",
+          "sourceUrl": "https://fallon.house.gov/news/documentsingle.aspx?DocumentID=1608",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "Fallon supported voucher programs allowing public funds to be used for private-school enrollment.",
+          "quote": "Supported school voucher programs that allow parents to use public funds to enroll their children in schools beyond their local options, including private schools.",
+          "sourceUrl": "https://www.branch.vote/races/2026-texas-general-election-tx-state-us-representative-tx-congressional-4/candidates/pat-fallon",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Fallon voted for increased Border Patrol and ICE funding and endorsed continued deportations of immigrants in the country illegally who commit crimes.",
+          "quote": "With the bill’s dramatic increase in funding for Border Patrol and ICE, federal law enforcement now has the resources needed to fully secure our borders and continue to deport criminal illegal aliens.",
+          "sourceUrl": "https://fallon.house.gov/news/documentsingle.aspx?DocumentID=1608",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Fallon led a letter seeking to allow lawful firearm carrying on Army Corps of Engineers land under state law.",
+          "quote": "American citizens deserve to exercise their God-given Second Amendment rights without arbitrary federal restrictions.",
+          "sourceUrl": "https://fallon.house.gov/news/documentsingle.aspx?DocumentID=1662",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Fallon's campaign identifies him as anti-abortion and says he co-authored Texas HB 2 to restrict abortion.",
+          "quote": "Co-authored HB 2 to protect life and defeat pro-abortion Wendy Davis",
+          "sourceUrl": "https://www.fallonforcongress.com/about/",
+          "agreement": "4/5"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "Fallon voted against the MORE Act, which would have removed marijuana from federal controlled-substance schedules.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Fallon called for prioritizing natural gas, oil and coal as dependable energy sources.",
+          "quote": "The U.S. needs prioritize dependable sources of energy like natural gas, oil, and coal to power our nation and protect our national security.",
+          "sourceUrl": "https://fallon.house.gov/news/documentsingle.aspx?DocumentID=1594",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Fallon endorsed universal voter identification, primarily in-person voting and regular voter-roll maintenance.",
+          "quote": "At the state level I fully support, universal voter ID, in-person voting for all except those with verifiable physical disabilities, regular monitoring and updating of the voter rolls to keep them current",
+          "sourceUrl": "https://ivoterguide.com/candidate/3173/race/6562/election/871",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Jason Pearce",
+      "party": "DEM",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Pearce supports raising the minimum wage, ending subminimum tipped wages, protecting overtime and guaranteeing paid family leave.",
+          "quote": "Raise the minimum wage, end sub-minimum tipped wages, protect overtime pay, and guarantee paid family leave.",
+          "sourceUrl": "https://www.ballotready.org/people/jason-pearce",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Pearce supports universal background checks, waiting periods and free firearm-safety training.",
+          "quote": "Universal background checks, reasonable waiting periods, and free safety training—protecting rights and lives.",
+          "sourceUrl": "https://www.ballotready.org/people/jason-pearce",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "fallon.house.gov · branch.vote · fallonforcongress.com · clerk.house.gov · ivoterguide.com · ballotready.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

@@ -1,0 +1,269 @@
+{
+  "office": "U.S. Senator",
+  "district": "TX",
+  "division": "tx/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Ken Paxton",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Paxton says he will cut taxes and reduce government spending.",
+          "quote": "Ken Paxton is a strong fiscal conservative who will fight to cut taxes",
+          "sourceUrl": "https://www.kenpaxton.com/issues",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Paxton sued to block a $15 minimum wage requirement for federal contractors and argued that the increase would harm jobs and the economy.",
+          "quote": "President Biden has chosen to ignore the Constitution, federal law, and all evidence showing the adverse effects of imposing a much higher minimum wage for federal contractors",
+          "sourceUrl": "https://www.texasattorneygeneral.gov/news/releases/paxton-sues-biden-admin-unconstitutional-illegal-minimum-wage-hike-federal-contractors",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Paxton praised Texas's universal school-choice law and pledged to defend it.",
+          "quote": "This universal school choice bill is a historic step in ensuring that students will have the freedom to seek the educational option",
+          "sourceUrl": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-celebrates-school-choice-texans-and-vows-defend-new-law",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Paxton sued Dallas officials to compel increased funding for the city's police department.",
+          "quote": "I filed this lawsuit to ensure that the City of Dallas fully funds law enforcement, upholds public safety, and is accountable to its constituents",
+          "sourceUrl": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-sues-city-dallas-officials-insufficiently-funding-dallas-police",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Paxton signed an agreement enabling his office to assist federal immigration authorities with mass deportations.",
+          "quote": "becoming the first Texas law enforcement entity to formally assist with and facilitate the mass deportation of illegal aliens during President Donald Trump’s second term",
+          "sourceUrl": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-becomes-first-texas-law-enforcement-official-sign-agreement-help-0",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Paxton obtained an injunction against a federal rule regulating private firearm sales and pledged to resist restrictions on gun rights.",
+          "quote": "The Second Amendment is a cornerstone of American freedom, and I will never allow it to be undermined by unlawful federal overreach",
+          "sourceUrl": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-legal-victory-protect-gun-owners-federal-overreach-blocking",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Paxton repeatedly defended Texas's six-week abortion ban and pledged to protect unborn life.",
+          "quote": "I will continue to fight tirelessly for the rights of the unborn",
+          "sourceUrl": "https://www.texasattorneygeneral.gov/news/releases/paxton-defends-sb8-saving-thousands-lives-process",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Paxton investigated school districts accused of allowing students classified as male at birth to participate in girls' sports.",
+          "quote": "trying to undermine girls’ athletics by letting boys compete should know that there will be consequences for all unlawful activity",
+          "sourceUrl": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-continues-fight-protect-girls-sports-texas-and-announces-investigation",
+          "agreement": "4/5"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "strong",
+          "text": "Paxton sued Dallas to block a voter-approved measure decriminalizing marijuana offenses and limiting police enforcement.",
+          "quote": "Attorney General Ken Paxton sued the City of Dallas and local officials for adopting a city charter amendment that would illegally decriminalize marijuana-related offenses",
+          "sourceUrl": "https://oag.state.tx.us/news/releases/attorney-general-ken-paxton-sues-city-dallas-ballot-measure-prohibiting-police-enforcing-marijuana",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Paxton led a multistate challenge to federal clean-energy rules that he said would increase energy costs and reduce reliability.",
+          "quote": "I am proud to lead this coalition to stop his unlawful ‘energy transition’ scheme that would drive up energy costs and reduce reliability",
+          "sourceUrl": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-leads-19-state-coalition-challenging-federal-government-overstepping",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Paxton has defended identification requirements for mail ballots and other provisions of Texas's election law.",
+          "quote": "Across multiple appeals, Attorney General Paxton has successfully defended different provisions of SB 1 in the Fifth Circuit. The provisions challenged in this case require voters casting ballots by mail to provide an identification number or Social Security number that matches state records.",
+          "sourceUrl": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-paxton-secures-legal-victory-upholding-id-requirements-mail-ballots-and-other",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "James Talarico",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He supports funding programs such as SNAP instead of tax cuts for wealthy people and proposes higher taxes on billionaires and corporations.",
+          "quote": "16 million children are about to go hungry because DC Republicans refuse to fund SNAP. If they can spend $3 trillion on tax cuts for rich people, they can afford to feed hungry kids.",
+          "sourceUrl": "https://jamestalarico.com/issue/taxes-cost-of-living/",
+          "agreement": "9/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports a $15 federal minimum wage, expanded overtime eligibility, and stronger union-organizing rights.",
+          "quote": "Raise the federal minimum wage to $15 an hour, expand overtime eligibility, and incentivize CEOs to pay fair wages by creating a special tax on corporations that pay their top executives more than 250 times their median worker’s salary.",
+          "sourceUrl": "https://jamestalarico.com/issue/labor-business/",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He proposes removing regulatory barriers to construction and has backed measures intended to increase the supply of apartments and condominiums.",
+          "quote": "repeal outdated red tape that hinders the construction of housing",
+          "sourceUrl": "https://jamestalarico.com/issue/taxes-cost-of-living/",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He opposes private-school vouchers and says public funding should remain with neighborhood public schools.",
+          "quote": "Reject the voucher scams being pushed by billionaire mega-donors that defund public schools to subsidize private education for the wealthiest Americans.",
+          "sourceUrl": "https://jamestalarico.com/issue/public-education/",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports resources for law enforcement while also funding mental health care, housing, addiction treatment, and youth services to prevent crime.",
+          "quote": "Public safety means ensuring law enforcement has the resources to investigate and prosecute crime. It means passing commonsense gun safety laws to keep firearms out of the hands of criminals. And it means listening to police chiefs when they tell us we will all be safer when we fund programs like mental health care, housing support, addiction treatment, and youth services to prevent crime before it happens.",
+          "sourceUrl": "https://jamestalarico.com/issue/public-safety-justice/",
+          "agreement": "9/10"
+        },
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "lean",
+          "text": "He supports directing law enforcement away from low-level marijuana offenses and expunging marijuana arrest records.",
+          "quote": "Ensure law enforcement is focused on going after violent crime and not low-level marijuana offenses, expunge criminal arrest records related to marijuana use",
+          "sourceUrl": "https://jamestalarico.com/issue/public-safety-justice/",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Talarico supports citizenship pathways for long-term undocumented residents, spouses, and DREAMers, plus temporary work permits for some recent arrivals.",
+          "quote": "Create pathways to legalization for certain undocumented immigrants: Create a path to citizenship for the immigrants who have been here the longest and certain groups like spouses and DREAMers, while allowing those who recently arrived to apply for temporary work permits if they are filling a job that will help lower costs for Americans.",
+          "sourceUrl": "https://jamestalarico.com/issue/immigration-border-security/",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He supports universal background checks, secure-storage requirements, and a higher purchasing age for certain semiautomatic rifles.",
+          "quote": "Establish universal background checks for gun sales, prioritize the prosecution of firearms traffickers who are illegally flooding our communities with guns that get into the hands of criminals, require firearms to be securely stored around children in the home, and raise the age to purchase semi-automatic rifles with certain military-style features like high-capacity magazines.",
+          "sourceUrl": "https://jamestalarico.com/issue/public-safety-justice/",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports codifying Roe v. Wade and protecting access to contraception and IVF.",
+          "quote": "Codify Roe v. Wade and protect access to contraception and IVF so that families can get the reproductive care they need and so that women are no longer dying needlessly due to Texas’ dangerous abortion ban.",
+          "sourceUrl": "https://jamestalarico.com/issue/health-care/",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He conditionally opposes transgender athletes competing in girls’ sports when he believes safety or fairness is endangered, rather than endorsing a blanket rule.",
+          "quote": "I oppose trans athletes playing in girls’ sports if it endangers safety or fairness",
+          "sourceUrl": "https://www.texastribune.org/2026/09/22/james-talarico-trans-climate-policy-changes-election-2026/",
+          "agreement": "6/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "He filed legislation to legalize cannabis, expunge past marijuana convictions, and tax its sale.",
+          "quote": "I’ve filed legislation to legalize cannabis, expunge past marijuana convictions, and use the new tax revenue to fund early childhood education.",
+          "sourceUrl": "https://jamestalarico.com/issue/freedom-family-faith/",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports allowing Americans of any age to join Medicare as a nonprofit public insurance option.",
+          "quote": "Allow every American — regardless of their age — to join Medicare: Provide an affordable not-for-profit health care option for every American, while also bringing down costs for those who don’t participate by increasing competition with private insurance.",
+          "sourceUrl": "https://jamestalarico.com/issue/health-care/",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He prioritizes reliable, affordable energy while diversifying production and retaining an energy workforce that includes oil, gas, wind, and solar jobs.",
+          "quote": "Make energy more available, reliable, and affordable in Texas: Reinstate federal tax credits, loans, and other tools that diversify energy production and accelerate renewable energy development; streamline permitting processes for energy projects without compromising environmental protections; and make gasoline more affordable by investing in pipeline fortification and building supply chains for critical minerals and transformers.",
+          "sourceUrl": "https://jamestalarico.com/issue/energy-environment/",
+          "agreement": "6/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He supports the John Lewis Voting Rights Advancement Act and removing barriers to voter registration and ballot access.",
+          "quote": "Pass the John Lewis Voting Rights Advancement Act to remove unnecessary barriers to registering to vote and casting a ballot.",
+          "sourceUrl": "https://jamestalarico.com/issue/corruption-democracy/",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Ted Brown",
+      "party": "LIB",
+      "stances": {
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Brown supports free movement and an Ellis Island-style system admitting immigrants after criminal-record and disease checks.",
+          "quote": "That means the free movement of people across international borders, with an Ellis-Island-style immigration system where foreigners are welcome to come here but must be checked for a criminal record and communicable diseases before being let in.",
+          "sourceUrl": "https://tedbrown.org/website/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Brown supports a federal law protecting abortion access nationwide.",
+          "quote": "I support a federal law to protect access to abortions nationwide, since so many red states (like Texas) want to limit women’s personal choices.",
+          "sourceUrl": "https://www.fortbendlibraries.gov/media/3620",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Brown opposes climate proposals he says would damage Western economies, favoring an unsubsidized energy market and additional nuclear power.",
+          "quote": "Instead, the proposals want to damage Western economies while ignoring China’s major emissions. We need a free market in energy, without government subsidies or controls.",
+          "sourceUrl": "https://www.fortbendlibraries.gov/media/3620",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "kenpaxton.com · texasattorneygeneral.gov · oag.state.tx.us · jamestalarico.com · texastribune.org · tedbrown.org · fortbendlibraries.gov",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

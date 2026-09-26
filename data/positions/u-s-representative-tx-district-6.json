@@ -1,0 +1,176 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 6",
+  "division": "tx/cd-6",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jake Ellzey",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Ellzey says low taxes promote growth and supports cutting government spending and streamlining the tax code.",
+          "quote": "I am a pro-growth conservative who believes that low taxes and regulations lead to greater opportunity and job growth.",
+          "sourceUrl": "https://ellzey.house.gov/economy-jobs",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Ellzey voted for a 2025 spending bill that reduced nondefense spending without cutting Social Security or Medicare.",
+          "quote": "It also maintains funding for all critical government functions, such as border defense, infrastructure projects, biomedical research, and more, without any cuts to Social Security, Medicare, and Medicaid, regardless of what you have been told.",
+          "sourceUrl": "https://ellzey.house.gov/2025/3/house-passes-government-funding-the-continuing-appropriations-and-extensions-act",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Ellzey has backed increased Border Patrol funding, additional border barriers, biometric collection and tighter asylum rules.",
+          "quote": "Cosponsored HR 8355, Closing Loopholes and Ending Asylum Abuse Act of 2022, which eliminates the Asylum claim loophole by requiring all claims be made outside the United States and exclude those who entered the country illegally.",
+          "sourceUrl": "https://ellzey.house.gov/border-security",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Ellzey voted for the 2023 Protection of Women and Girls in Sports Act, which based school-sports eligibility on biological sex at birth.",
+          "quote": "The bill asserts that sex is determined by an individual’s biological sex at birth, thereby excluding transgender women from competing in female sports categories.",
+          "sourceUrl": "https://repbio.org/roll-call-votes/118-1-190/",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Ellzey supports expanding domestic energy production, including pipelines and drilling and mining permits on federal land.",
+          "quote": "While in Congress, I will support policies and initiatives that regain our energy independence and reassert ourselves as the world leader in energy production.",
+          "sourceUrl": "https://ellzey.house.gov/energy",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Ellzey voted for the SAVE Act requiring proof of citizenship for federal voter registration and enabling voter-roll checks for noncitizens.",
+          "quote": "Proof of citizenship is not optional. It is fundamental. The SAVE Act ensures that only American citizens decide American elections.",
+          "sourceUrl": "https://ellzey.house.gov/2026/2/congressman-jake-ellzey-votes-to-strengthen-election-integrity-with-save-act",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Danny Minton",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Minton supports raising taxes on billionaires and large corporations while expanding support for working families and small businesses.",
+          "quote": "Yes. Tax policy should support working families, like expanding the Child Tax Credit, helping people start small businesses, and making first-time homeownership possible. We don’t need more corporate welfare for West Texas billionaires. We need a tax code that rewards work, not wealth.",
+          "sourceUrl": "https://www.lonestarleft.com/p/meet-the-candidates-danny-minton",
+          "agreement": "3/3"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Minton supports a federal minimum wage of $17 per hour indexed to inflation.",
+          "quote": "Yes. If tax policy adjusts for inflation, workers’ wages should too. Ellis and Johnson Counties are booming because families are getting priced out of places like Irving and Arlington, while hedge funds buy up starter homes in cash.",
+          "sourceUrl": "https://www.lonestarleft.com/p/meet-the-candidates-danny-minton",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Minton describes defending Social Security and Medicare as part of what being a Texas Democrat means to him.",
+          "quote": "Being a Texas Democrat means fighting for big, bold programs, like the Voting Rights Act, Civil Rights Act, Social Security, and Medicare.",
+          "sourceUrl": "https://www.lonestarleft.com/p/meet-the-candidates-danny-minton",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Minton supports public schools and wants school vouchers prohibited nationwide.",
+          "quote": "And school vouchers made illegal nationwide, before public education is sold off piece by piece. This isn’t about “local control.” It’s about control, period.",
+          "sourceUrl": "https://www.dannyfortexas.com/priorities",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Minton proposes redirecting ICE funding to local and state law enforcement and, where appropriate, Border Patrol.",
+          "quote": "I would go further: ICE should be abolished or significantly reduced, and its budget redirected to local and state law enforcement and, where appropriate, to Border Patrol.",
+          "sourceUrl": "https://www.lonestarleft.com/p/meet-the-candidates-danny-minton",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Minton supports abolishing or substantially reducing ICE and making immigration policy humane and consistent with the country's immigrant heritage.",
+          "quote": "Our immigration system must be humane, constitutional, and reflective of our values as a nation of immigrants",
+          "sourceUrl": "https://www.lonestarleft.com/p/meet-the-candidates-danny-minton",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Minton says Roe v. Wade should be reinstated.",
+          "quote": "Abortion / Contraception We must reinstate Roe v. Wade.",
+          "sourceUrl": "https://www.ballotready.org/people/danny-minton",
+          "agreement": "3/3"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "Minton says THC should be studied further and made legal for people who need it.",
+          "quote": "THC is an important product for many people. It must be better studied and made legal for purchase for those who need it.",
+          "sourceUrl": "https://weedvoter.com/candidate/danny-minton/",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Minton supports universal affordable health care and points to Medicare and the VA as effective public systems.",
+          "quote": "Universal, affordable healthcare actually works. We see it in systems like Medicare and the VA. Lower costs. Better outcomes. Less paperwork.",
+          "sourceUrl": "https://www.dannyfortexas.com/priorities",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Minton supports large-scale federal climate action including incentives for rooftop solar and resilient energy.",
+          "quote": "Climate action should empower working families, through tax incentives for rooftop solar in fast-growing communities like Mansfield and Midlothian, resilient energy options when the grid fails, and support for farmers and rural landowners so they don’t have to sell their water rights to West Texas billionaires.",
+          "sourceUrl": "https://www.lonestarleft.com/p/meet-the-candidates-danny-minton",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Minton supports secure elections with easy access to the ballot.",
+          "quote": "We deserve fair map, secure elections, and easy access to the ballot.",
+          "sourceUrl": "https://www.dannyfortexas.com/priorities",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "ellzey.house.gov · repbio.org · lonestarleft.com · dannyfortexas.com · ballotready.org · weedvoter.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
