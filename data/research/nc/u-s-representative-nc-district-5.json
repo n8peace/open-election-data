@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "NC District 5",
+  "division": "nc/cd-5",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Virginia Foxx",
+      "party": "REP"
+    },
+    {
+      "name": "Robert B. Luffman",
+      "party": "LIB"
+    },
+    {
+      "name": "Chuck Hubbard",
+      "party": "DEM"
+    }
+  ]
+}

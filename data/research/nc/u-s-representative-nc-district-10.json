@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "NC District 10",
+  "division": "nc/cd-10",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Steven Feldman",
+      "party": "LIB"
+    },
+    {
+      "name": "Ashley Bell",
+      "party": "DEM"
+    },
+    {
+      "name": "Pat Harrigan",
+      "party": "REP"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Senate",
+  "district": "NC",
+  "division": "nc/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Michael Dublin",
+      "party": "GRE"
+    },
+    {
+      "name": "Roy Cooper",
+      "party": "DEM"
+    },
+    {
+      "name": "Michael Whatley",
+      "party": "REP"
+    },
+    {
+      "name": "Shannon W. Bray",
+      "party": "LIB"
+    }
+  ]
+}

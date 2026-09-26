@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "NC District 12",
+  "division": "nc/cd-12",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Jack Codiga",
+      "party": "REP"
+    },
+    {
+      "name": "Alma S. Adams",
+      "party": "DEM"
+    }
+  ]
+}

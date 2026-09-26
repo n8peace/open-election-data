@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "NC District 6",
+  "division": "nc/cd-6",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Addison McDowell",
+      "party": "REP"
+    },
+    {
+      "name": "Cyril Jefferson",
+      "party": "DEM"
+    }
+  ]
+}

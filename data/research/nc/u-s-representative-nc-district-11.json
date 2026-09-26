@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "NC District 11",
+  "division": "nc/cd-11",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Jennifer Capps Balkcom",
+      "party": "REP"
+    },
+    {
+      "name": "Jamie Ager",
+      "party": "DEM"
+    },
+    {
+      "name": "Travis Groo",
+      "party": "LIB"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "NC District 4",
+  "division": "nc/cd-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Valerie P. Foushee",
+      "party": "DEM"
+    },
+    {
+      "name": "Guy Meilleur",
+      "party": "LIB"
+    },
+    {
+      "name": "Mahesh (Max) Ganorkar",
+      "party": "REP"
+    }
+  ]
+}

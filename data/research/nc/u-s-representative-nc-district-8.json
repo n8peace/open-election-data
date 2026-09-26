@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "NC District 8",
+  "division": "nc/cd-8",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Bo Whitehead",
+      "party": "GRE"
+    },
+    {
+      "name": "Colby Watson",
+      "party": "DEM"
+    },
+    {
+      "name": "Mark Harris",
+      "party": "REP"
+    }
+  ]
+}

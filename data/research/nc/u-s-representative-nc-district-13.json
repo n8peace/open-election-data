@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "NC District 13",
+  "division": "nc/cd-13",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Paul Barringer",
+      "party": "DEM"
+    },
+    {
+      "name": "Steven Swinton",
+      "party": "LIB"
+    },
+    {
+      "name": "Brad Knott",
+      "party": "REP"
+    }
+  ]
+}

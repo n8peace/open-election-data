@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "NC District 9",
+  "division": "nc/cd-9",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Richard N. Ojeda II",
+      "party": "DEM"
+    },
+    {
+      "name": "Richard Hudson",
+      "party": "REP"
+    }
+  ]
+}
