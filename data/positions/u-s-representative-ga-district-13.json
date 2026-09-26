@@ -1,0 +1,176 @@
+{
+  "office": "U.S. Representative",
+  "district": "GA District 13",
+  "division": "ga/cd-13",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jonathan Chavez",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Chavez says he would lower taxes on working families and pursue fair-tax options.",
+          "quote": "Lower the tax burden on working families. Incentivize small business growth and suburban job creation. Smart deregulation that protects consumers while unleashing innovation. Explore fair tax options that keep Georgia competitive.",
+          "sourceUrl": "https://jonathanchavezforcongress.com/issues/",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "In a 2022 candidate questionnaire, Chavez agreed that government spending should be cut to reduce the national debt.",
+          "quote": "The government should cut spending in order to reduce the national debt.\n\nAgree",
+          "sourceUrl": "https://ivoterguide.com/candidate/64924/race/4006/election/961",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Chavez supports loosening regulations that restrict home construction.",
+          "quote": "Wants to loosen the regulatory requirements on building homes.",
+          "sourceUrl": "https://www.branch.vote/races/2024-georgia-primary-election-ga-state-us-representative-ga-13-r/candidates/jonathan-chavez",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Chavez strongly disagreed with redirecting police funding to mental-health and community programs.",
+          "quote": "I support redirecting funds from police departments to mental health and community programs.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/64924/race/4006/election/961",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Chavez says immigrants should use legal citizenship channels and that sanctuary protections should have strict screening requirements.",
+          "quote": "People who come through the legal means to gain citizenship to the U.S. should be allowed. Sanctuary should be provisional and have strict guidelines for screening to make sure we are not harboring possible threats to American citizens.",
+          "sourceUrl": "https://ivoterguide.com/candidate/64924/race/4006/election/961",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Chavez said no additional gun-ownership restrictions are needed and argued that lawful concealed-carry owners can protect the public.",
+          "quote": "None. Most criminal acts are performed by criminals who obtain guns illegally. Most law abiding gun owners are extremely conscientious of the law and do not pose a threat to public safety. If anything, have concealed carry gun owners who are law abiding citizens would help PROTECT the public.",
+          "sourceUrl": "https://ivoterguide.com/candidate/64924/race/4006/election/961",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Chavez said elective abortion should not be allowed and favored attempting delivery when the mother's life is in danger.",
+          "quote": "None. If at some point the mother would be considered in danger, however no current situations like this have arose, there should be an attempt made to deliver the baby and keep the baby in the NICU. This gives the baby a fighting chance to live and the circumstances are up to God and his will.",
+          "sourceUrl": "https://ivoterguide.com/candidate/64924/race/4006/election/961",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Chavez supports Medicaid expansion while also advocating market-driven health-care reforms and repeal of Obamacare.",
+          "quote": "Healthcare Access: Expand affordable options—Medicaid expansion and rural telehealth—so care is closer and costs are lower.",
+          "sourceUrl": "https://jonathanchavezforcongress.com/",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Chavez selected the position that stricter environmental rules cost jobs and hurt the economy.",
+          "quote": "A) Stricter environmental laws and regulations cost too many jobs and hurt the economy.",
+          "sourceUrl": "https://ivoterguide.com/candidate/64924/race/4006/election/961",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Chavez proposed requiring voter identification and limiting mail-in voting.",
+          "quote": "To make sure that only people who are legally able to vote, can vote. Require an ID and limit mail-in voting.",
+          "sourceUrl": "https://ivoterguide.com/candidate/64924/race/4006/election/961",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Jasmine Clark",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Clark proposes repealing the Trump tax cuts and raising taxes on wealthy people and corporations to fund public programs.",
+          "quote": "The first step to building a more just economy is to repeal the Trump tax cuts and make the wealthy and big corporations pay their fair share so we can fund programs that actually help people get ahead.",
+          "sourceUrl": "https://www.ballotready.org/people/jasmine-clark",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Clark supports raising the minimum wage and protecting workers' ability to organize unions.",
+          "quote": "We need to make things easier and lower costs so everyone has a chance to get ahead. This means raising wages–we’re long overdue for increasing the minimum wage so paychecks keep up with the actual cost of living for working people so your paycheck can go further.",
+          "sourceUrl": "https://www.ballotready.org/people/jasmine-clark",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Clark opposes diverting public-school funding to private and charter schools and calls for fully funding public schools.",
+          "quote": "As a college educator and a mother of two public school students, I know firsthand that education is under attack by Republicans trying to politicize our schools and divert funding to unaccountable private and charter schools.",
+          "sourceUrl": "https://www.jasmine4ga.com/agenda",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Clark opposed the Trump administration's immigration crackdown and called for dismantling ICE.",
+          "quote": "On immigration, candidates all stood strong against the Trump administration’s immigration crackdown. Kimes and Clark have both called for the total dismantling of ICE.",
+          "sourceUrl": "https://www.gpb.org/news/2026/05/04/candidates-in-crowded-race-for-metro-atlanta-district-are-now-battling-for-open",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Clark supports assault-weapon and bump-stock bans, comprehensive background checks and safe-storage laws.",
+          "quote": "I’ll push for a real assault weapon and bump stock ban, comprehensive background checks and safe storage laws, and legislation to hold gun manufacturers and groups like the NRA accountable for their actions.",
+          "sourceUrl": "https://www.ballotready.org/people/jasmine-clark",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Clark says she would codify a right to privacy in medical decisions, including abortion and contraception.",
+          "quote": "In Congress, I will work to codify the right to privacy in medical decisions.",
+          "sourceUrl": "https://www.ballotready.org/people/jasmine-clark",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Clark pledges to co-sponsor the John Lewis Voting Rights Act to protect voter access.",
+          "quote": "In Congress, I’d co-sponsor the John Lewis Voting Rights Act and be a national voice for all Georgians who want their voices heard.",
+          "sourceUrl": "https://www.ballotready.org/people/jasmine-clark",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "jonathanchavezforcongress.com · ivoterguide.com · branch.vote · ballotready.org · jasmine4ga.com · gpb.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

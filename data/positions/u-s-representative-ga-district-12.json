@@ -1,0 +1,208 @@
+{
+  "office": "U.S. Representative",
+  "district": "GA District 12",
+  "division": "ga/cd-12",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Rick Allen",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Allen supported tax reforms that lowered individual, corporate, and small-business tax rates.",
+          "quote": "Specifically, this plan provides relief and simplification for families by doubling the standard deduction, lowering both the individual and corporate rates, eliminating special-interest deductions that increase rates and complicate Americans’ taxes, and reducing the tax rate on the hard-earned business income of Main Street job creators.",
+          "sourceUrl": "https://allen.house.gov/issues/issue/?IssueID=14889",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "Allen opposed a federally mandated $15 minimum wage and argued wages should rise through labor-market conditions and economic growth.",
+          "quote": "The last thing we need are more one-size-fits-all Washington mandates that could lead to jobs lost, cut hours for workers or automation, and ultimately shut the doors of our nation’s small businesses.",
+          "sourceUrl": "https://allen.house.gov/news/email/show.aspx?ID=7ONIVP35GSUILYY7MC7JPO2YNQ",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "Allen urged federal trade remedies against subsidized Chinese golf-cart imports to protect domestic manufacturers and jobs.",
+          "quote": "If the U.S. industry is not provided with the trade relief it so desperately needs, hundreds of U.S. manufacturing jobs could be lost.",
+          "sourceUrl": "https://allen.house.gov/news/documentsingle.aspx?DocumentID=6812",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Allen says Congress should maintain steady funding for Social Security and Medicare for current and future beneficiaries.",
+          "quote": "Let me be clear: I’m fighting to protect Medicare and Social Security for our seniors.",
+          "sourceUrl": "https://rickwallen.com/issues/protecting-medicare/",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Allen opposed federal building requirements that he said could stall new construction and worsen the housing shortage.",
+          "quote": "We urge you to reconsider this course of action and to focus on policies that promote housing affordability and availability without imposing onerous federal mandates.",
+          "sourceUrl": "https://allen.house.gov/uploadedfiles/fhfa_letter.pdf",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Allen introduced legislation offering federal tax credits for donations to scholarship funds and describes himself as a longtime school-choice supporter.",
+          "quote": "Building on this notion, I have also been a vocal supporter of school choice throughout my tenure in Congress.",
+          "sourceUrl": "https://allen.house.gov/issues/issue/?IssueID=14890",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Allen opposed defunding police and cosponsored legislation providing law-enforcement agencies $500 million for body cameras and related improvements.",
+          "quote": "Additionally, state and local law enforcement agencies would be provided $500 million to equip all officers with body cameras, improve their use, and store and retain footage. I commend Senator Scott and Congressman Stauber for working on a bill that offers real solutions and brings us one step closer to justice for all, and I’m proud to be a cosponsor of the Justice Act.",
+          "sourceUrl": "https://allen.house.gov/news/documentsingle.aspx?DocumentID=4438",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Allen supported the Secure the Border Act, including detention, removal, border-wall construction, and a Remain-in-Mexico policy.",
+          "quote": "H.R. 2 ends “catch and release” by ensuring that the only options for those who illegally cross the border are detainment until their immigration court proceedings, removal, or a Remain-in-Mexico type program is implemented.",
+          "sourceUrl": "https://allen.house.gov/news/documentsingle.aspx?DocumentID=5777",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Allen voted against universal-background-check and extended-review legislation and pledged to protect gun ownership rights.",
+          "quote": "Studies show mass background checks won’t do anything to address gun violence or keep criminals from obtaining an illegal firearm, and these bills will only make it harder for Americans to protect themselves.",
+          "sourceUrl": "https://allen.house.gov/news/documentsingle.aspx?DocumentID=4641",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Allen praised the Dobbs decision overturning Roe and pledged to uphold what he calls the sanctity of life.",
+          "quote": "I applaud the Supreme Court's decision. In the decades since Roe v. Wade, more than 62 million innocent lives have been lost to abortion.",
+          "sourceUrl": "https://allen.house.gov/news/documentsingle.aspx?DocumentID=5099",
+          "agreement": "10/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "Allen voted against federal cannabis descheduling, legalization, and taxation in the 2022 MORE Act.",
+          "quote": "Voted AGAINST the MORE Act H.R.3617 in 2022, which provides for federal descheduling, legalization, and taxation of cannabis at the federal level, with community reinvestment and a focus on equity.",
+          "sourceUrl": "https://www.mpp.org/takeaction/election-central1/voter-guides/mpp-scorecard-us-congress-and-incumbents-2024/",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Allen championed association health plans and argues that private insurers and employers should compete to lower costs.",
+          "quote": "As a small business owner, I was fortunate to be able to offer my employees private health insurance without having to send them to the ACA exchange and I understand how much employers want to be able to offer their employees quality healthcare coverage at a low cost.",
+          "sourceUrl": "https://allen.house.gov/news/documentsingle.aspx?DocumentID=5790",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Allen supported expanding domestic oil and gas production and streamlining permits to lower energy prices.",
+          "quote": "The United States is home to some of the largest reserves of oil and natural gas anywhere in the world. The Lower Energy Costs Act will allow us to tap into these resources so we can drive down the cost of energy and combat the out-of-control inflation that has devastated the American family.",
+          "sourceUrl": "https://allen.house.gov/news/documentsingle.aspx?DocumentID=5629",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Allen supported federal photo-identification and proof-of-citizenship requirements and removing noncitizens from voter rolls.",
+          "quote": "The SAVE America Act is a commonsense effort to ensure American citizens decide American elections by requiring a valid ID to vote. It's that simple.",
+          "sourceUrl": "https://allen.house.gov/news/documentsingle.aspx?DocumentID=7098",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Ceretta Smith",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Smith says she has spent 25 years advocating for labor rights and fair pay and pledges to protect workers’ freedom to organize.",
+          "quote": "For twenty-five years, I stood on the front lines for labor, civil, and human rights because every Georgian deserves dignity, fair pay, and opportunity, no matter their ZIP code.",
+          "sourceUrl": "https://cerettaforga.com/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Smith proposes preserving and building affordable homes while pairing job growth with housing for workers.",
+          "quote": "Affordable options: preserve and build units people can afford. Jobs + housing: pair growth with places workers can live.",
+          "sourceUrl": "https://cerettaforga.com/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Smith says every child deserves a strong public school and calls for fair funding, improved facilities, and better educator pay.",
+          "quote": "Every child in GA-12 deserves a great public school.",
+          "sourceUrl": "https://cerettaforga.com/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "Smith proposes improving public safety through mental-health and youth-support services.",
+          "quote": "Safer streets and schools: better mental health and youth support services.",
+          "sourceUrl": "https://cerettaforga.com/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "Smith calls for reducing gun proliferation through what she describes as common-sense safety measures.",
+          "quote": "Reduce gun violence: address the proliferation of guns with common-sense safety.",
+          "sourceUrl": "https://cerettaforga.com/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Smith says civil, human, and reproductive rights should be defended.",
+          "quote": "Defend rights: civil, human, and reproductive rights. Learn more",
+          "sourceUrl": "https://www.ballotready.org/people/ceretta-smith",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Smith opposes using unsupported fraud claims to restrict ballots and calls for strengthening voting access.",
+          "quote": "We should be strengthening access, transparency, and trust in our elections and not undermining them.",
+          "sourceUrl": "https://www.50501ga.org/candidates/ceretta-smith-candidate-for-congress-district-12",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "allen.house.gov · rickwallen.com · mpp.org · cerettaforga.com · ballotready.org · 50501ga.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

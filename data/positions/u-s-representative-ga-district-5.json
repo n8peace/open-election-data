@@ -1,0 +1,130 @@
+{
+  "office": "U.S. Representative",
+  "district": "GA District 5",
+  "division": "ga/cd-5",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Nikema Williams",
+      "party": "Democrat",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Williams supports raising tax rates on the wealthiest individuals and largest corporations to finance expanded public programs and services.",
+          "quote": "Congresswoman Williams also supports restoring fairness in the tax system – raising rates on the wealthiest individuals and the biggest corporations, many of whom currently pay little to no federal income tax – to help pay for this legislation.",
+          "sourceUrl": "https://nikemawilliams.house.gov/posts/congresswoman-nikema-williams-votes-to-advance-president-bidens-transformative-agenda",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Williams voted for the PRO Act and said she supports stronger organizing rights and union protections for workers.",
+          "quote": "As a former union member, I know what it is like to have union protections in the workplace. I want that same on-the-job peace for workers everywhere. I am proud to support the bill and stand with workers in my district and across the country.",
+          "sourceUrl": "https://nikemawilliams.house.gov/posts/congresswoman-nikema-williams-passes-the-pro-act",
+          "agreement": "4/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Williams criticized tariffs and the broader trade war for increasing costs faced by families.",
+          "quote": "As Trump’s trade war, tariffs, and inaction on affordability strain family budgets, Republicans are choosing to cut SNAP benefits that keep people fed while shortchanging the very institutions that help communities build a path forward.",
+          "sourceUrl": "https://nikemawilliams.house.gov/posts/congresswoman-nikema-williams-statement-on-republican-farm-bill",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Williams helped secure a $40 million federal investment to build additional affordable housing in Atlanta.",
+          "quote": "Today, Congresswoman Williams and Senators Ossoff and Warnock are delivering a historic $40 million investment — secured with bipartisan support in Congress — to build more affordable housing units in the City of Atlanta.",
+          "sourceUrl": "https://nikemawilliams.house.gov/posts/congresswoman-nikema-williams-senators-ossoff-warnock-deliver-resources-to-revitalize-atlantas-bowen-homes-neighborhood",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She voted for the American Rescue Plan, which provided $926.5 million for school systems in the Fifth District.",
+          "quote": "The American Rescue Plan also includes $684.9 million in support for local governments, and $926.5 million in support for school systems within the Fifth District.",
+          "sourceUrl": "https://nikemawilliams.house.gov/posts/congresswoman-nikema-williams-secures-billions-in-covid-relief-for-5th-district",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Williams repeatedly introduced legislation removing higher-education and federal-aid barriers for DACA recipients.",
+          "quote": "Dreamers are our neighbors, colleagues, and classmates and they strengthen our country. I am committed to doing all I can for Dreamers, including unlocking higher education, so they can achieve the promise of America. Introducing the Higher Education Dream Act with Congressman Gallego will help Dreamers access and afford higher education.",
+          "sourceUrl": "https://nikemawilliams.house.gov/posts/congresswoman-nikema-williams-and-congressman-ruben-gallego-introduce-legislation-to-increase-higher-education-access-for-dreamers",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Williams voted for red-flag orders and a broader package including background checks, safe-storage rules and restrictions on high-capacity magazines.",
+          "quote": "We can help prevent other people from living through that horror by keeping guns away from people who pose a threat to themselves or others. Today’s vote builds on the life-saving gun safety package I helped pass yesterday. The House of Representatives did its job to save lives with these commonsense gun safety bills. Now the Senate must act quickly to pass this legislation.",
+          "sourceUrl": "https://nikemawilliams.house.gov/posts/congresswoman-nikema-williams-votes-to-empower-communities-to-prevent-gun-violence-through-extreme-risk-protection-orders",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Williams introduced a resolution declaring reproductive freedom a human right and condemning state abortion bans.",
+          "quote": "Abortion bans are extremely dangerous—and, in some cases, deadly—in Georgia, a state already reeling from a maternal health crisis, and across the country. Without reproductive freedom, we are not truly free. This resolution affirms that reproductive freedom is a fundamental human right under United States law, and that state abortion bans violate federal law and endanger the lives of women.",
+          "sourceUrl": "https://nikemawilliams.house.gov/posts/congresswoman-nikema-williams-introduces-resolution-declaring-abortion-as-a-human-right-2",
+          "agreement": "5/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Williams voted for the MORE Act to end federal marijuana prohibition and expunge prior convictions.",
+          "quote": "Decriminalizing marijuana is a step toward criminal justice reform and racial justice. Black and brown people suffer most from our federal marijuana policies and are disproportionately jailed and arrested for marijuana-related offenses. The MORE Act will help right some of these injustices while reinvesting in communities that were harmed by our misguided federal marijuana laws.",
+          "sourceUrl": "https://nikemawilliams.house.gov/posts/congresswoman-nikema-williams-votes-to-decriminalize-marijuana-at-the-federal-level",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Williams introduced legislation increasing the federal Medicaid contribution for maternal health services so states could expand care.",
+          "quote": "Raising the federal match for maternal care will give states the resources they need to expand care and save lives. As Republicans threaten devastating Medicaid cuts, this legislation is a clear statement: we must invest in care, not cruelty.",
+          "sourceUrl": "https://nikemawilliams.house.gov/posts/congresswoman-nikema-williams-introduces-legislation-incentivizing-better-maternal-care-covered-by-medicaid",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Williams voted for the Inflation Reduction Act, including its large climate investment and projected reduction in carbon pollution.",
+          "quote": "Deliver America’s largest-ever climate investment: supporting domestic energy production, creating nine million good-paying union jobs and reducing carbon pollution by roughly 40 percent this decade.",
+          "sourceUrl": "https://nikemawilliams.house.gov/posts/congresswoman-nikema-williams-votes-to-pass-the-inflation-reduction-act",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Williams introduced legislation allowing residents of federally subsidized housing to register while completing housing documents.",
+          "quote": "The Our Homes, Our Votes Act gives people the option to register to vote as they fill out their housing documents. Congress should always work to make it easier to vote, not harder.",
+          "sourceUrl": "https://nikemawilliams.house.gov/posts/congresswoman-nikema-williams-introduces-our-homes-our-votes-act",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "nikemawilliams.house.gov",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
