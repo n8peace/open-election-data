@@ -1,0 +1,208 @@
+{
+  "office": "U.S. Representative",
+  "district": "GA District 8",
+  "division": "ga/cd-8",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Austin Scott",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Scott voted for the 2025 One Big Beautiful Bill Act and described its tax reductions as historic relief for workers, families, farmers, and small businesses.",
+          "quote": "This legislation delivers historic tax relief for workers, middle-class families, farmers, and small businesses.",
+          "sourceUrl": "https://austinscott.house.gov/2025/7/rep-scott-applauds-final-passage-of-the-one-big-beautiful-bill-act",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Scott voted against the 2019 Raise the Wage Act.",
+          "quote": "Vote Question: On Passage Raise the Wage Act Vote Type: Recorded Vote Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "Scott endorsed slowing Medicare spending growth and giving future beneficiaries subsidies to purchase approved private plans.",
+          "quote": "In the future, beneficiaries will receive a premium subsidy from the government to purchase a Medicare-approved health plan of their choice.",
+          "sourceUrl": "https://austinscott.house.gov/healthcare",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Scott voted to reauthorize the District of Columbia's opportunity-scholarship program.",
+          "quote": "Voted YES on reauthorizing the DC opportunity scholarship program.",
+          "sourceUrl": "https://www.ontheissues.org/ga/Austin_Scott.htm",
+          "agreement": "3/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Scott requested millions of dollars for law-enforcement training facilities, firearms equipment, police vehicles, and related public-safety infrastructure.",
+          "quote": "Provides a $3,827,990 investment for a Comprehensive Training Complex, designed to train law enforcement in high-intensity drills and stage multi-agency exercises.",
+          "sourceUrl": "https://austinscott.house.gov/fiscal-year-2027-appropriations",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Scott calls for securing the border, removing immigrants who are in the country illegally, and enforcing existing laws before other immigration reforms.",
+          "quote": "We must first secure our borders, remove the illegal immigrants currently in our country and enforce our existing immigration laws before we attempt to implement any type of immigration reform.",
+          "sourceUrl": "https://austinscott.house.gov/immigration",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Scott opposes additional gun-control laws and says he will continue protecting the right to keep and bear arms.",
+          "quote": "I will continue to support and protect our rights afforded under the Second amendment which allows us to secure the safety of our homes and families.",
+          "sourceUrl": "https://austinscott.house.gov/second-amendment",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Scott identifies as pro-life, says life begins at conception, and has supported and sponsored legislation restricting abortion and funding for abortion providers.",
+          "quote": "I am proud to be pro-life and am committed to protecting the lives of the unborn.",
+          "sourceUrl": "https://austinscott.house.gov/abortion",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Scott cosponsored H.R. 28, which would base Title IX athletic eligibility solely on reproductive biology and genetics at birth.",
+          "quote": "To amend the Education Amendments of 1972 to provide that for purposes of determining compliance with title IX of such Act in athletics, sex shall be recognized based solely on a person’s reproductive biology and genetics at birth.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr28ih",
+          "agreement": "6/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "Scott voted against the 2022 MORE Act, which would have federally descheduled and decriminalized cannabis.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Scott supports market-based health reforms, voted to repeal the Affordable Care Act, and favors competition among approved insurance plans.",
+          "quote": "The American people deserve common sense, market-based reforms that lower costs, increase access to more affordable care, and give citizens more control over their health care decisions.",
+          "sourceUrl": "https://austinscott.house.gov/healthcare",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Scott supports affordable energy and increased domestic production of oil, natural gas, and coal.",
+          "quote": "We must develop an energy supply that is reliable, protected, and affordable.",
+          "sourceUrl": "https://austinscott.house.gov/energy",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Scott supports identification requirements for mail ballots and opposes federal mandates for universal mail voting, ballot harvesting, and same-day registration.",
+          "quote": "They create more opportunities for Georgians to vote and better secure elections by requiring identification for mail-in ballots, just as you have to show an ID to vote in-person in Georgia.",
+          "sourceUrl": "https://austinscott.house.gov/2021/6/rep-austin-scott-statement-doj-suing-georgia-over-election-reforms",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Kelly Esti",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Esti said tax dollars should protect communities and opposed further tax cuts for businesses and individuals he said do not need them.",
+          "quote": "We must protect our communities with our tax dollars and not continue to provide tax cuts to businesses and individuals who don’t need them.",
+          "sourceUrl": "https://www.linkedin.com/posts/dr-kelly-esti-56476916_hello-all-i-just-want-to-say-i-am-full-activity-7412883510186819584-6m18",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Esti signed an agreement committing his campaign to a fair process for recognizing its workers’ union.",
+          "quote": "Campaigns for U.S. Congress, Governor, Lieutenant Governor, and State Congress across the nation have signed the Card Check Agreement and committed to a fair and prompt process to recognize their workers’ union.",
+          "sourceUrl": "https://www.campaignworkersguild.com/union-wave-signers",
+          "agreement": "3/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Esti opposes tariffs, describing them as barriers for small businesses and a tax on Americans.",
+          "quote": "protecting small businesses from unnecessary barriers like tariffs which is nothing but a tax on the American people",
+          "sourceUrl": "https://www.linkedin.com/posts/dr-kelly-esti-56476916_hello-all-i-just-want-to-say-i-am-full-activity-7412883510186819584-6m18",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Esti supports immigration reform that includes a pathway to citizenship.",
+          "quote": "immigration reform that includes a pathway to citizenship!",
+          "sourceUrl": "https://www.linkedin.com/posts/dr-kelly-esti-56476916_hello-all-i-just-want-to-say-i-am-full-activity-7412883510186819584-6m18",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Esti said he is running to preserve and strengthen access to abortion.",
+          "quote": "erosion of civil rights and basic freedoms like perserving & strengthening the right to vote & access to abortion",
+          "sourceUrl": "https://www.linkedin.com/posts/dr-kelly-esti-56476916_hello-all-i-just-want-to-say-i-am-full-activity-7412883510186819584-6m18",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Esti supports strengthening federal health programs and funding rural clinics and hospitals.",
+          "quote": "As your congressman, my role is to strengthen federal health programs, support funding for rural clinics and hospitals, and work with agencies to improve access to essential services throughout the district.",
+          "sourceUrl": "https://www.kellyesti4congress.com/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Esti supports allowing communities to adopt renewable energy when it lowers their long-term costs.",
+          "quote": "As renewable energy, like solar and wind, becomes more affordable nationwide, communities should have the option to explore these alternatives if they believe they will reduce long‑term costs.",
+          "sourceUrl": "https://www.kellyesti4congress.com/",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Esti said he is running to preserve and strengthen the right to vote.",
+          "quote": "erosion of civil rights and basic freedoms like perserving & strengthening the right to vote & access to abortion",
+          "sourceUrl": "https://www.linkedin.com/posts/dr-kelly-esti-56476916_hello-all-i-just-want-to-say-i-am-full-activity-7412883510186819584-6m18",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "austinscott.house.gov · clerk.house.gov · ontheissues.org · govinfo.gov · linkedin.com · campaignworkersguild.com · kellyesti4congress.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

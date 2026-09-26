@@ -1,0 +1,152 @@
+{
+  "office": "U.S. Representative",
+  "district": "GA District 11",
+  "division": "ga/cd-11",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "John Cowan",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Cowan calls for tax relief for families and small businesses.",
+          "quote": "Get real results on affordability by delivering meaningful tax relief for families and small businesses, investing in American workers, and strengthening domestic industries — not selling our future to foreign adversaries.",
+          "sourceUrl": "https://cowanforcongress.com/issues.html",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Cowan supports securing the border, enforcing existing laws and ending policies that reward unlawful entry.",
+          "quote": "We must secure the border, enforce existing laws, and end policies that reward illegal entry. Reform the legal system to work faster for those who follow the rules — but American jobs, wages, and security always come first.",
+          "sourceUrl": "https://ivoterguide.com/candidate/53002/race/26941/election/1409",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Cowan opposes new gun restrictions for law-abiding citizens and favors prosecuting violent offenders and investing in mental-health intervention.",
+          "quote": "I am a strong defender of the Second Amendment and do not support new restrictions on the gun ownership rights of law-abiding citizens.",
+          "sourceUrl": "https://ivoterguide.com/candidate/53002/race/26941/election/1409",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Cowan identifies as pro-life, supports legal protection for human life and opposes elective late-term abortion while allowing exceptions for rape, incest and the mother’s life.",
+          "quote": "I am pro-life and believe in protecting the sanctity of human life. I also believe there are circumstances for exceptions — including when the life of the mother is at risk, in cases of rape, and in cases of incest.",
+          "sourceUrl": "https://ivoterguide.com/candidate/53002/race/26941/election/1409",
+          "agreement": "3/3"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Cowan strongly agreed that biological males should be excluded from women’s sports and female-only spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/53002/race/26941/election/1409",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Cowan supports retaining Medicare and Medicaid while relying on market competition rather than expanding government-funded coverage.",
+          "quote": "Medicaid and Medicare serve an important role as a safety net, but the answer to our healthcare challenges is more competition and less government, not the other way around. I support market-based reforms that lower costs, expand choices, and put patients back in charge of their own care.",
+          "sourceUrl": "https://ivoterguide.com/candidate/53002/race/26941/election/1409",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Cowan supports an all-of-the-above, market-led energy policy focused on cutting regulation and keeping energy affordable.",
+          "quote": "Unleash American energy — all of the above. The federal government needs to stop picking winners and losers. Cut the red tape, let the market work, and keep energy affordable for Georgia families.",
+          "sourceUrl": "https://ivoterguide.com/candidate/53002/race/26941/election/1409",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Cowan supports citizenship verification, election-security measures and greater ballot-counting transparency.",
+          "quote": "Require proof of citizenship to vote, secure our election infrastructure, and demand full transparency in how ballots are cast and counted — make it easy to vote and impossible to cheat.",
+          "sourceUrl": "https://www.cowanforcongress.com/issues.html",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "Chris Harden",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Harden supports middle-class tax relief while requiring large corporations and wealthy Americans to contribute more.",
+          "quote": "Working families should not pay a higher effective tax rate than multinational corporations. Chris will fight for middle-class tax relief while ensuring that large corporations and the wealthiest Americans contribute their fair share.",
+          "sourceUrl": "https://www.electharden.com/",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Harden supports raising the minimum wage so full-time work can provide a stable living.",
+          "quote": "He also supports raising the minimum wage so a full day’s work pays for a full day’s living.",
+          "sourceUrl": "https://www.electharden.com/",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Harden said tariffs should be stopped because they increase consumer costs.",
+          "quote": "You know, one of the things, obviously we need to stop the tariffs, but we also need to end these forever wars.",
+          "sourceUrl": "https://www.pbs.org/video/georgia-congressional-district-11-democrats-atlanta-press-club-debate-bzexio/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Harden says he would protect and strengthen Medicare and Medicaid while reducing patients’ costs.",
+          "quote": "He will work to protect and strengthen Medicare and Medicaid, cap out-of-pocket costs for life-saving medications, expand access to mental health services, and improve rural access to care.",
+          "sourceUrl": "https://www.electharden.com/",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Harden supports strong public schools and investment in public education and workforce programs.",
+          "quote": "Every child deserves a quality public education, and every adult deserves a real path to economic opportunity. Chris supports strong public schools, career and technical education, apprenticeship programs, workforce training, and affordable routes to higher education.",
+          "sourceUrl": "https://www.electharden.com/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Harden calls reproductive freedom a fundamental right and supports access to abortion and other reproductive care.",
+          "quote": "Chris believes reproductive freedom is a fundamental right. Women in Georgia’s 11th District should have access to the full range of reproductive healthcare, including contraception, fertility treatment, maternal and prenatal care, and abortion care.",
+          "sourceUrl": "https://www.electharden.com/",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "cowanforcongress.com · ivoterguide.com · electharden.com · pbs.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

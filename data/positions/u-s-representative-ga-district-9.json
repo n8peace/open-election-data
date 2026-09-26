@@ -1,0 +1,168 @@
+{
+  "office": "U.S. Representative",
+  "district": "GA District 9",
+  "division": "ga/cd-9",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Andrew Clyde",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Clyde voted for the One Big Beautiful Bill and highlighted its tax cuts.",
+          "quote": "I proudly voted for this monumental legislation to deliver everything from historic tax cuts to critical border security for Northeast Georgians.",
+          "sourceUrl": "https://clyde.house.gov/news/documentsingle.aspx?DocumentID=3267",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Clyde introduced legislation blocking Medicaid funding for gun-violence-prevention programs and contrasted those programs with supporting law enforcement.",
+          "quote": "Rather than supporting law enforcement and empowering lawful gun owners, liberal states are determined to divert federal Medicaid dollars to fund false ‘violence prevention’ programs.",
+          "sourceUrl": "https://clyde.house.gov/news/documentsingle.aspx?DocumentID=2825",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Clyde introduced legislation to end Temporary Protected Status and make current recipients eligible for deportation.",
+          "quote": "It’s time for Congress to close this amnesty loophole once and for all by fully repealing TPS and sending all TPS holders out of the country.",
+          "sourceUrl": "https://clyde.house.gov/news/documentsingle.aspx?DocumentID=3552",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Clyde promises to oppose every bill or effort that would restrict Second Amendment rights.",
+          "quote": "I will oppose all bills and efforts that seek to limit or restrict this right in any way, no matter the circumstances.",
+          "sourceUrl": "https://clyde.house.gov/issues/issue/?IssueID=14894",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Clyde says abortion should be abolished except when the mother's life is at risk.",
+          "quote": "Secondly, I believe that life begins at the moment of conception, and thus, abortions should be abolished entirely, except in the rare instances when the life of the mother is at risk.",
+          "sourceUrl": "https://clyde.house.gov/issues/issue/?IssueID=14892",
+          "agreement": "5/5"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "Clyde described marijuana legalization as a very dangerous path.",
+          "quote": "I think it is a very, very dangerous path to go down, the legalization of marijuana.",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/CHRG-117hhrg44984/pdf/CHRG-117hhrg44984.pdf",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Clyde introduced legislation limiting EPA authority over vehicle and electricity regulations that he said raise costs and threaten reliable energy.",
+          "quote": "Unelected Washington bureaucrats should never have the power to dictate what kind of car Americans drive or how our country produces electricity.",
+          "sourceUrl": "https://clyde.house.gov/news/documentsingle.aspx?DocumentID=3658",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Clyde voted for legislation requiring proof of U.S. citizenship to register for federal elections.",
+          "quote": "The SAVE Act, which passed the House with bipartisan support in July, would safeguard our elections by requiring proof of U.S. citizenship to register to vote in federal elections.",
+          "sourceUrl": "https://clyde.house.gov/news/documentsingle.aspx?DocumentID=2729",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Caitlyn Gegen",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Gegen supports raising the federal minimum wage.",
+          "quote": "She also supports raising the minimum wage and increasing antitrust enforcement.",
+          "sourceUrl": "https://nowgeorgia.com/gegen-pitches-progressive-platform-systemic-change-in-9th-district-race/",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Gegen calls for expanding government-supported housing and increasing housing supply.",
+          "quote": "On housing, she called for expanding government-supported housing and increasing supply, while also backing federal legislation aimed at improving affordability.",
+          "sourceUrl": "https://nowgeorgia.com/gegen-pitches-progressive-platform-systemic-change-in-9th-district-race/",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Gegen supports abolishing ICE, transferring its responsibilities to other agencies, and treating immigration as a human-rights concern.",
+          "quote": "On immigration, Gegen said she supports abolishing U.S. Immigration and Customs Enforcement, arguing its responsibilities could be handled by other federal agencies.",
+          "sourceUrl": "https://nowgeorgia.com/gegen-pitches-progressive-platform-systemic-change-in-9th-district-race/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Gegen supports universal background checks and mandatory firearm-safety training.",
+          "quote": "She said policies such as universal background checks and mandatory safety training would help reduce risks.",
+          "sourceUrl": "https://nowgeorgia.com/gegen-pitches-progressive-platform-systemic-change-in-9th-district-race/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Gegen calls for overturning the Dobbs decision and restoring reproductive rights.",
+          "quote": "This cruel legislation has directly led to the deaths of many women across Georgia, and the Dobbs decision has to be overturned, so that women can have the right to their body and their reproductive future back.",
+          "sourceUrl": "https://www.jejunemagazine.com/home/caitlyn-gegen-georgias-9th-congressional-district",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Gegen supports restoring Affordable Care Act subsidies and moving toward Medicare for All with medical, mental, dental, and vision coverage.",
+          "quote": "She called for restoring subsidies under the Affordable Care Act and moving toward a Medicare for All system that includes mental, dental and vision coverage.",
+          "sourceUrl": "https://nowgeorgia.com/gegen-pitches-progressive-platform-systemic-change-in-9th-district-race/",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Gegen said advancing renewable-energy initiatives would benefit her district and country.",
+          "quote": "I believe the government providing universal healthcare, advancing renewable energy initiatives, and tackling systemic causes of inequality will directly benefit the people in my district and in my country.",
+          "sourceUrl": "https://www.jejunemagazine.com/home/caitlyn-gegen-georgias-9th-congressional-district",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Gegen says she would defend voting rights and reinvigorate the Voting Rights Act.",
+          "quote": "I will fight to defend civil rights, bodily autonomy, LGBTQ rights, and voting rights.",
+          "sourceUrl": "https://www.ballotready.org/people/caitlyn-gegen",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "clyde.house.gov · govinfo.gov · nowgeorgia.com · jejunemagazine.com · ballotready.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
