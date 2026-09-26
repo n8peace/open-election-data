@@ -1,0 +1,112 @@
+{
+  "office": "U.S. Representative",
+  "district": "IL District 10",
+  "division": "il/cd-10",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Brad Schneider",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Schneider says he has been outspoken that the federal minimum wage, then $7.25, needs to rise.",
+          "quote": "I've been very outspoken that the minimum wage needs to rise.",
+          "sourceUrl": "https://www.cbsnews.com/amp/chicago/news/congressman-brad-schnieder-favors-raising-federal-minimum-wage/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Schneider says he will defend Medicare and oppose privatizing Social Security or turning Medicare into a voucher system.",
+          "quote": "I will defend the Medicare guarantee so that no senior will ever have to choose between heating their homes and maintaining their health.",
+          "sourceUrl": "https://schneider.house.gov/issues/seniors",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Schneider supports comprehensive immigration reform with a pathway to citizenship and protections for DREAMers.",
+          "quote": "It is essential that we enact comprehensive immigration reform that secures our border and includes a pathway to citizenship for those here illegally.",
+          "sourceUrl": "https://schneider.house.gov/issues/immigration-reform",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Schneider says he voted to codify Roe and will fight for a woman's right to choose.",
+          "quote": "I'm proud of my vote to codify Roe and deliver the promise of safe health care to the next generation.",
+          "sourceUrl": "https://schneider.house.gov/media/press-releases/schneider-statement-scotus-decision-overturning-roe-v-wade",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Schneider says health care is a right, supports the Affordable Care Act and opposes repealing it.",
+          "quote": "Access to affordable, quality health care is our right, not a privilege reserved for only a few.",
+          "sourceUrl": "https://schneider.house.gov/issues/health-care",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Schneider calls climate change a grave threat and warns that failing to act will damage the planet.",
+          "quote": "Climate change is a grave threat to the ecological and environmental health of our nation and planet.",
+          "sourceUrl": "https://schneider.house.gov/issues",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Schneider says he supports legislation to strengthen the Voting Rights Act against discriminatory election laws.",
+          "quote": "I support legislation that would strengthen the Voting Rights Act by creating new pathways to challenge discriminatory election laws",
+          "sourceUrl": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/brad-schneider-illinois-primary-10th-congressional-district",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Carl Lambrecht",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Lambrecht called for cutting the gas tax and reducing the number of taxing bodies to lower costs.",
+          "quote": "Cut the gas tax in half. This only the start.",
+          "sourceUrl": "https://chicago.suntimes.com/candidate-questionnaires/carl-lambrecht-illinois-house-58th-district",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Lambrecht opposed state subsidies for an electric-vehicle battery plant and payments to electric car buyers.",
+          "quote": "Stop giving money to China to build a battery factory in Illinois. Stop giving $7,500 to buyers of electric cars.",
+          "sourceUrl": "https://chicago.suntimes.com/candidate-questionnaires/carl-lambrecht-illinois-house-58th-district",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "cbsnews.com · schneider.house.gov · chicago.suntimes.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

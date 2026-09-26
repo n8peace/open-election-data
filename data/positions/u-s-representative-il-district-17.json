@@ -1,0 +1,128 @@
+{
+  "office": "U.S. Representative",
+  "district": "IL District 17",
+  "division": "il/cd-17",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Eric Sorensen",
+      "party": "Democratic",
+      "stances": {
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Sorensen says he is working to protect and expand Social Security benefits and to safeguard the stability of Medicare.",
+          "quote": "I'm working to protect and expand Social Security benefits for seniors to ensure they can maintain a good quality of life.",
+          "sourceUrl": "https://sorensen.house.gov/issues",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Sorensen says the country needs to invest in public schools, students, teachers and staff.",
+          "quote": "We need to invest in our public schools, students, teachers, and volunteers",
+          "sourceUrl": "https://sorensen.house.gov/issues",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Sorensen says he is working to invest more in local law enforcement for training, recruitment and retention.",
+          "quote": "invest more into local law enforcement agencies to support their training needs, help them better retain and recruit officers",
+          "sourceUrl": "https://sorensen.house.gov/issues/public-safety",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Sorensen supports an assault weapons ban and cosponsored gun-safety legislation, saying military-style weapons do not belong on the streets.",
+          "quote": "Military-style assault weapons, capable of killing dozens of people in minutes, do not belong on our streets.",
+          "sourceUrl": "https://sorensen.house.gov/media/press-releases/congressman-sorensen-supports-assault-weapons-ban-amidst-political-and-gun",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Sorensen says abortion decisions should be made between a person and their doctor rather than by lawmakers.",
+          "quote": "I believe that reproductive health care decisions should be made between an individual and their doctor – not lawmakers.",
+          "sourceUrl": "https://sorensen.house.gov/issues",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Sorensen says he is working to make health care more affordable and accessible and advocates for Medicare stability and lower drug costs.",
+          "quote": "I believe everyone has the right to be healthy, which is why I'm working in Congress to make health care more affordable, accessible, and efficient.",
+          "sourceUrl": "https://sorensen.house.gov/issues",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Sorensen says the climate is changing and calls for protecting homes and farms while investing in clean power sources.",
+          "quote": "and other adverse weather events while investing in clean power sources",
+          "sourceUrl": "https://sorensen.house.gov/issues",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Dillan S. Vancil",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Vancil says he would push to eliminate federal income taxes on the first $25,000 of income for individuals and $50,000 for married couples.",
+          "quote": "I will push to eliminate federal income taxes on the first 25,000 dollars of income for individuals and 50,000 dollars for married couples",
+          "sourceUrl": "https://www.shawlocal.com/sauk-valley/2026/02/18/2026-election-questionnaire-dillan-vancil-us-house-of-representatives-17th-district/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "Vancil says Social Security and Medicare need responsible changes to address their long-term finances rather than continuing as they are.",
+          "quote": "We absolutely need to make responsible changes to Social Security and Medicare",
+          "sourceUrl": "https://www.shawlocal.com/sauk-valley/2026/02/18/2026-election-questionnaire-dillan-vancil-us-house-of-representatives-17th-district/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "Vancil called for stronger border security, while also saying he wants to make legal immigration easier for skilled workers.",
+          "quote": "We need to get serious about border security so no future administration can repeat what we saw under the Biden administration",
+          "sourceUrl": "https://www.shawlocal.com/sauk-valley/2026/02/18/2026-election-questionnaire-dillan-vancil-us-house-of-representatives-17th-district/",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Vancil calls for reversing restrictions on baseload power, resuming coal use, expanding natural gas, and investing in nuclear to lower energy costs.",
+          "quote": "That means reversing the war on reliable baseload power and letting us start burning coal again, expanding natural gas, and investing in safe nuclear",
+          "sourceUrl": "https://www.shawlocal.com/sauk-valley/2026/02/18/2026-election-questionnaire-dillan-vancil-us-house-of-representatives-17th-district/",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "sorensen.house.gov · shawlocal.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

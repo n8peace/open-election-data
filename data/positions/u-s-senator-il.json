@@ -1,0 +1,135 @@
+{
+  "office": "U.S. Senator",
+  "district": "IL",
+  "division": "il/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Juliana Stratton",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Stratton calls for a middle-class tax cut funded by raising taxes on people earning more than $1 million a year, alongside expanded programs like Medicare for All.",
+          "quote": "Passing a Tax Cut for the Middle Class, Paid for with a Tax Increase on those Making More than a Million Dollars a Year",
+          "sourceUrl": "https://www.julianastratton.com/issues",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Stratton supports raising the federal minimum wage to $25 an hour, saying the current $7.25 is not a living wage.",
+          "quote": "PASS A FEDERAL $25 LIVING WAGE. Americans know that $7.25 an hour isn't a living wage.",
+          "sourceUrl": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/juliana-stratton-illinois-primary-united-states-senate",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Stratton calls for abolishing ICE and supports a pathway to citizenship and stronger protections for immigrants.",
+          "quote": "ICE must be abolished. It is out of control and beyond reform.",
+          "sourceUrl": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/juliana-stratton-illinois-primary-united-states-senate",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Stratton touts banning assault weapons and campaigns on passing common-sense gun safety laws.",
+          "quote": "We've raised the minimum wage, protected reproductive freedom, banned assault weapons, invested in our education, rebuilt roads and bridges, created thousands of jobs, and the list goes on.",
+          "sourceUrl": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/juliana-stratton-illinois-primary-united-states-senate",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Stratton campaigns on restoring Roe v. Wade protections and lists protecting reproductive freedom among her accomplishments.",
+          "quote": "We've raised the minimum wage, protected reproductive freedom, banned assault weapons, invested in our education, rebuilt roads and bridges, created thousands of jobs, and the list goes on.",
+          "sourceUrl": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/juliana-stratton-illinois-primary-united-states-senate",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Stratton supports Medicare for All to guarantee every American access to health care.",
+          "quote": "That's why I support Medicare for All. We must act and ensure every single American has access to the healthcare they deserve.",
+          "sourceUrl": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/juliana-stratton-illinois-primary-united-states-senate",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Stratton says she would support the John Lewis Voting Rights Act to restore and strengthen voter protections.",
+          "quote": "I would proudly support the John Lewis Voting Rights Act to restore and strengthen voter protections, ensuring our democracy represents all Americans.",
+          "sourceUrl": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/juliana-stratton-illinois-primary-united-states-senate",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Don Tracy",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Tracy's campaign platform calls for cutting spending and letting families keep more of their earnings.",
+          "quote": "Cut wasteful spending, improve efficiency, and help families keep more of what they earn.",
+          "sourceUrl": "https://dontracyforil.com/lower-the-cost-of-living/",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Tracy says he backs law enforcement and holding violent criminals accountable.",
+          "quote": "Support law enforcement, hold violent criminals accountable, and put public safety first.",
+          "sourceUrl": "https://dontracyforil.com/defend/",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Tracy calls for securing the border and enforcing immigration law while welcoming legal immigrants who follow the rules.",
+          "quote": "Secure the border. Enforce the law. Welcome legal immigrants who play by the rules.",
+          "sourceUrl": "https://www.shawlocal.com/news/election/2026/09/22/2026-election-questionnaire-don-tracy-united-states-senate/",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Tracy calls for price transparency and more competition to reduce health care costs.",
+          "quote": "Promote price transparency, more competition, and reforms that help reduce insurance and prescription costs.",
+          "sourceUrl": "https://dontracyforil.com/lower-the-cost-of-living/",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Tracy calls for an energy policy that uses available sources and lowers household costs.",
+          "quote": "Support a reasonable energy policy that uses available energy sources, protects reliability, and reduces household costs.",
+          "sourceUrl": "https://dontracyforil.com/lower-the-cost-of-living/",
+          "agreement": "9/10"
+        }
+      }
+    }
+  ],
+  "sources": "julianastratton.com · chicago.suntimes.com · dontracyforil.com · shawlocal.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
