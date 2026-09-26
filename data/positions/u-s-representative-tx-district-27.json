@@ -1,0 +1,152 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 27",
+  "division": "tx/cd-27",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Michael Cloud",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Cloud supported legislation featuring major tax cuts and said those cuts would strengthen the economy and help families.",
+          "quote": "The tax cuts that were going to reinvigorate the American economy and help families on one side and then had us figuring out how to pay for it… and advance a number of our agenda items on the other side.",
+          "sourceUrl": "https://cloud.house.gov/posts/rep-michael-cloud-reflects-on-trumps-one-big-beautiful-bill",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Cloud voted against the 2019 Raise the Wage Act, which would have increased the federal minimum wage.",
+          "quote": "Jul 18, 2019, 12:01 PM | 116th Congress, 1st Session\n\nVote Question: On Passage\n\nRaise the Wage Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "Cloud's campaign says parents should have educational choices for their children.",
+          "quote": "We need to free teachers to teach instead of just teaching toward a standardized test and provide parents educational choices for their children where every child regardless of where they live, or their economic status can get a great education.",
+          "sourceUrl": "https://www.cloudforcongress.com/vision/education/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Cloud introduced legislation that would fund training and equipment for local police participating in federal immigration enforcement.",
+          "quote": "Provide funding to help agencies train officers, use necessary equipment, and enforce the program.",
+          "sourceUrl": "https://cloud.house.gov/posts/release-cloud-bill-would-empower-local-police-in-immigration-enforcement-supporting-trumps-border-security-efforts",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Cloud introduced legislation to expand local-police cooperation with ICE and assist deportations.",
+          "quote": "This bill will expand and protect the 287(g) program, empowering local law enforcement to partner with ICE and assist the Trump Administration in removing illegal immigrants from our streets.",
+          "sourceUrl": "https://cloud.house.gov/posts/release-cloud-bill-would-empower-local-police-in-immigration-enforcement-supporting-trumps-border-security-efforts",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Cloud introduced legislation barring emergency declarations from being used to impose federal gun restrictions.",
+          "quote": "We must steward this window of opportunity to re-secure these rights for the American people and ensure no administration can use emergency declarations as a backdoor for unconstitutional gun control.",
+          "sourceUrl": "https://cloud.house.gov/posts/release-cloud-introduces-bill-to-prevent-federal-gun-control-through-emergency-declarations",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Cloud's campaign says he believes life begins at conception and wants abortion ultimately made illegal.",
+          "quote": "He will also do everything in his power to make abortion as rare as possible, until the day where it can be illegal to destroy human life.",
+          "sourceUrl": "https://www.cloudforcongress.com/vision/pro-life/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Cloud's campaign calls for repealing the Affordable Care Act and adopting a market-oriented health-care system.",
+          "quote": "Obamacare must be repealed, and healthcare must be driven by a market-oriented approach that brings down costs and expands access to quality care.",
+          "sourceUrl": "https://www.cloudforcongress.com/vision/health-care/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Cloud supports expanded domestic energy production and opposes climate policies that he says increase energy prices.",
+          "quote": "The recent price drop under President Trump is what happens when America embraces energy independence instead of bowing to climate radicals and foreign competitors.",
+          "sourceUrl": "https://cloud.house.gov/posts/lower-gas-prices-arent-luck-trumps-energy-policies-are-fueling-american-independence",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Cloud supported legislation requiring proof of citizenship for federal voter registration and criticized efforts to weaken voter-ID laws.",
+          "quote": "The American people deserve to have confidence in the integrity of their elections, and it is imperative that we uphold the rule of law and ensure that every vote cast is a legal one.",
+          "sourceUrl": "https://cloud.house.gov/posts/release-rep-cloud-votes-to-secure-americas-elections",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Tanya Lloyd",
+      "party": "DEM",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Lloyd supports raising the federal minimum wage and indexing it to inflation.",
+          "quote": "I support raising the minimum wage (and indexing it to inflation) to ensure that any Texan working a full-time job can actually afford to live in the community where they work.",
+          "sourceUrl": "https://www.lonestarleft.com/p/meet-the-candidates-tanya-lloyd-for",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Lloyd opposed a Texas voucher proposal because she said it would divert needed funding from public schools.",
+          "quote": "The voucher program will only weaken public schools by taking away much needed funds.",
+          "sourceUrl": "https://capitol.texas.gov/tlodocs/88R/publiccomments/Meetings/C4002023051508001/InputItems/65834ed4-0748-4cb2-a8e5-61469b2c9119.pdf",
+          "agreement": "4/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Lloyd supports codifying Roe v. Wade and protecting access to abortion and reproductive healthcare.",
+          "quote": "I am committed to codifying Roe v. Wade into federal law, ensuring that everyone has protected access to abortion and reproductive healthcare, free from political interference or state-level restrictions.",
+          "sourceUrl": "https://www.tanyafortx27.com/issues",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Lloyd supports a government-funded single-payer healthcare system providing comprehensive coverage to everyone.",
+          "quote": "I fully support a government-funded, single-payer healthcare system that guarantees comprehensive care—including safe, legal abortion and the full spectrum of reproductive rights—for every person in America.",
+          "sourceUrl": "https://www.tanyafortx27.com/issues",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "cloud.house.gov · clerk.house.gov · cloudforcongress.com · lonestarleft.com · capitol.texas.gov · tanyafortx27.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

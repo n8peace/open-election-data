@@ -1,0 +1,117 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 34",
+  "division": "tx/cd-34",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Eric Flores",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Flores says he would provide tax relief and reduce regulatory burdens for small businesses.",
+          "quote": "I'll fight for tax relief and reduced regulatory burdens for small business owners",
+          "sourceUrl": "https://www.ericflores.com/priorities",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Flores says he would oppose cuts to seniors’ earned retirement benefits and keep them aligned with living costs.",
+          "quote": "I'll oppose any effort to cut those earned benefits, fight to ensure they keep pace with the true cost of living",
+          "sourceUrl": "https://www.ericflores.com/priorities",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Flores says he would ensure local law enforcement has the resources and support needed to keep communities safe.",
+          "quote": "in Congress, I will fight to make sure they have the resources and support they need to keep our communities safe.",
+          "sourceUrl": "https://www.ericflores.com/_files/ugd/514376_4362a153e2b94d0eb9ddc6df154581c8.pdf",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Flores calls for stopping illegal crossings and denying taxpayer-funded health care to undocumented immigrants.",
+          "quote": "We need to stop illegal crossings, stop fentanyl and gun trafficking, and stop illegals from taking advantage of taxpayer-funded healthcare.",
+          "sourceUrl": "https://www.ericflores.com/_files/ugd/514376_f7a72e2680ba4050b2bffc66a9f447c3.pdf",
+          "agreement": "3/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Flores says he would defend existing energy jobs.",
+          "quote": "This race is about putting America First, securing our border, defending our energy jobs, and fighting for our values without apology!",
+          "sourceUrl": "https://capitolinside.com/tex1219x.html",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Flores' campaign supports requiring proof of U.S. citizenship to register for federal elections.",
+          "quote": "The SAVE Act simply ensures that only eligible United States citizens vote in federal elections. That is not extreme. That is basic accountability.",
+          "sourceUrl": "https://www.ericflores.com/_files/ugd/514376_144ea2c58cba497091c95c15bcdc6cd4.pdf",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Eddie Espinoza",
+      "party": "GRE",
+      "stances": {
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Espinoza calls for expanding Medicare to eliminate premiums and copays and add vision, hearing, dental, and prescription coverage.",
+          "quote": "Improve and expand Medicare for All, with no co-pays or premiums, including free vision care, hearing aids, dental, and prescriptions.",
+          "sourceUrl": "https://espinoza4tx.com/priorities/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "His campaign lists common-sense gun control as a priority and highlights a Moms Demand Action Gun Sense Candidate distinction.",
+          "quote": "Common Sense Gun Control\n\n2026 Moms Demand Action Gun Sense Candidate distinction",
+          "sourceUrl": "https://espinoza4tx.com/priorities/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Espinoza supports Medicare for All without premiums or copays and with expanded benefits.",
+          "quote": "Improve and expand Medicare for All, with no co-pays or premiums, including free vision care, hearing aids, dental, and prescriptions.",
+          "sourceUrl": "https://espinoza4tx.com/priorities/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Chris Royal",
+      "party": "LIB",
+      "stances": {}
+    }
+  ],
+  "sources": "ericflores.com · capitolinside.com · espinoza4tx.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

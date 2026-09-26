@@ -1,0 +1,191 @@
+{
+  "office": "State Senate",
+  "district": "CA District 40",
+  "division": "ca/sldu-40",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Mara Elliott",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Elliott said she was probably against Proposition 40's billionaire tax after reconsidering her earlier support.",
+          "quote": "I am standing probably against it. I think that we need to look at something that is a more comprehensive approach to a very difficult problem.",
+          "sourceUrl": "https://www.nbcsandiego.com/news/local/can-this-democrat-strengthen-the-supermajority-in-sacramento/4066029/",
+          "agreement": "6/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Elliott supported, negotiated and drafted San Diego's first citywide Project Labor Agreement.",
+          "quote": "Supported the effort to get the City’s first citywide Project Labor Agreement signed",
+          "sourceUrl": "https://maraelliott.com/accomplishments/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Elliott said she supports as much development as can be built safely, with particular concern about wildfire-prone areas.",
+          "quote": "I support as much as is safely possible, and I want to say it has to be safe, because we're starting to encroach into areas where wildfires are prevalent.",
+          "sourceUrl": "https://www.nbcsandiego.com/news/local/can-this-democrat-strengthen-the-supermajority-in-sacramento/4066029/",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "Elliott proposes working with law enforcement while investing in behavioral-health support and gun-violence prevention.",
+          "quote": "Work with law enforcement to keep our community safe by protecting seniors, investing in behavioral health support, keeping schools safe from gun violence, and fighting for victims of domestic violence and other crimes",
+          "sourceUrl": "https://maraelliott.com/priorities/",
+          "agreement": "7/10"
+        },
+        "sentencing": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Elliott supports Proposition 36 while also advocating treatment for addiction and severe mental illness instead of incarceration.",
+          "quote": "Securing resources to support Prop 36 and to get drug addicts treatment they need",
+          "sourceUrl": "https://maraelliott.com/priorities/",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Elliott called the Trump administration’s travel ban unconstitutional and urged San Diego to support the legal challenge against it.",
+          "quote": "That is not constitutional, and San Diego is a very welcoming city.",
+          "sourceUrl": "https://zengersmag.blogspot.com/2017/06/",
+          "agreement": "6/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Elliott authored a safe-firearm-storage ordinance and created a unit to implement California's red-flag laws.",
+          "quote": "Authored the Safe Storage of Firearms Ordinance, which has been adopted by other jurisdictions throughout the State",
+          "sourceUrl": "https://maraelliott.com/accomplishments/",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Elliott helped amend San Diego's buffer-zone ordinance to protect access to reproductive health care.",
+          "quote": "Drafted and facilitated the adoption of significant amendments to the City’s buffer zone ordinance to protect those seeking reproductive healthcare, as well as access to K-12 schools and places of worship",
+          "sourceUrl": "https://maraelliott.com/accomplishments/",
+          "agreement": "10/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Elliott said that if voters legalized marijuana, she would implement taxation and regulation while restricting access by minors and impaired driving.",
+          "quote": "If California voters legalize marijuana, I’ll work closely with city officials and law enforcement to implement measures that regulate, tax and control marijuana.",
+          "sourceUrl": "https://www.kpbs.org/news/public-safety/2016/05/26/san-diego-city-attorney-candidates-issues",
+          "agreement": "3/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "CalBike reported that Elliott would shift transportation investments toward public transit and community-selected projects that reduce emissions and air pollution.",
+          "quote": "She would work to empower the communities most impacted by pollution to choose their own goals, strategies, and projects to reduce greenhouse gas emissions and local air pollution.",
+          "sourceUrl": "https://www.calbike.org/calbikes-2026-primary-election-endorsements/",
+          "agreement": "6/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Elliott firmly opposed a California ballot measure that would impose stricter voter-identification requirements.",
+          "quote": "Absolutely I do. It's a solution with no problem that needs to be solved.",
+          "sourceUrl": "https://www.nbcsandiego.com/news/local/can-this-democrat-strengthen-the-supermajority-in-sacramento/4066029/",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Kristie Bruce-Lane",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Bruce-Lane pledges to reduce the tax burden, protect Proposition 13, and oppose new state fees and taxes.",
+          "quote": "I am fiscally conservative and will fight to eliminate wasteful spending and reduce our tax burden.",
+          "sourceUrl": "https://www.kristiebrucelane.com/issues/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Bruce-Lane called for cheaper construction, faster permitting, lower fees, and fewer regulations to address the housing shortage.",
+          "quote": "We need to make it cheaper for builders to build, shorter timelines for permitting approvals, reduction of fees and continue to cut regulations.",
+          "sourceUrl": "https://thecoastnews.com/experience-working-on-issues-interview-with-kristie-bruce-lane-76th-district-candidate/",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Bruce-Lane combines enforcement-oriented policies with support for youth-prevention and reentry-rehabilitation programs.",
+          "quote": "I successfully fought on the frontlines to keep Sexually Violent Predators away from our children and out of our communities and I will fight for your safety in Sacramento. I support prevention programs for our at-risk youth as well rehabilitation programs for those re-entering our communities.",
+          "sourceUrl": "https://www.kristiebrucelane.com/issues/",
+          "agreement": "6/10"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "lean",
+          "text": "Bruce-Lane supports reversing policies she calls soft on crime and increasing criminal penalties as a deterrent.",
+          "quote": "Kristie Bruce-Lane’s approach focuses on reversing what she calls \"soft-on-crime\" policies and increasing penalties to deter criminal activity.",
+          "sourceUrl": "https://www.kpbs.org/news/politics/2026/04/27/2026-primary-election-california-senate-races-explainer-district-32-anza-borrego-districts-38-40-in-north-county",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Bruce-Lane calls for repealing California's sanctuary-state law, cross-deputizing local officers for federal enforcement, and deploying the National Guard to the border.",
+          "quote": "We must immediately repeal the Sanctuary State law (SB 54, 2017) and end taxpayer-funded handouts to illegal immigrants for welfare, healthcare, housing, travel, and other services!",
+          "sourceUrl": "https://www.kristiebrucelane.com/issues/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Bruce-Lane says she is committed to defending Second Amendment rights against state restrictions.",
+          "quote": "Our constitutional rights are under constant attack in Sacramento, and I’m committed to standing firm in defense of the Second Amendment and the freedoms that make California — and America — strong.",
+          "sourceUrl": "https://www.kristiebrucelane.com/san-diego-county-gun-owners-pac-unanimously-endorses-kristie-bruce-lane-for-state-senate/",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Bruce-Lane supports developing alternative energy but says traditional energy sources should not be excluded.",
+          "quote": "I believe there is a balanced approach and need to continue to explore and develop alternative sources of energy, but not at the exclusion of traditional sources",
+          "sourceUrl": "https://thecoastnews.com/experience-working-on-issues-interview-with-kristie-bruce-lane-76th-district-candidate/",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Bruce-Lane co-chaired an initiative requiring voter identification, citizenship verification, and voter-roll maintenance.",
+          "quote": "Voters across the political spectrum want secure elections, accurate voter rolls, and confidence that every legal vote counts.",
+          "sourceUrl": "https://www.kristiebrucelane.com/ca-voter-id-initiative-submits-1-3-million-signatures-to-appear-on-november-2026-ballot/",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "nbcsandiego.com · maraelliott.com · zengersmag.blogspot.com · kpbs.org · calbike.org · kristiebrucelane.com · thecoastnews.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

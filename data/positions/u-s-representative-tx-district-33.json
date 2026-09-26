@@ -1,0 +1,146 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 33",
+  "division": "tx/cd-33",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Colin Allred",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He proposes increasing Social Security contributions from the wealthiest Americans to extend the program and expand benefits.",
+          "quote": "The Solution: Pass the Social Security Expansion Act — extend solvency 75 years, require the wealthiest Americans to pay in at the same rate as everyone else, and expand benefits by $2,400 a year for every senior.",
+          "sourceUrl": "https://colinallred.com/wp-content/uploads/2026/04/Allred-Affordability-Plan-.pdf",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Allred said he would fight for a $15 federal minimum wage and previously voted for it.",
+          "quote": "Yes. \"I'm running for Senate to fight for $15/hr.\" In 2019 voted to raise the federal minimum wage to $15 per hour.",
+          "sourceUrl": "https://naacp.org/resources/texas-voter-guide",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He proposes repealing broad tariffs while retaining targeted national-security exceptions.",
+          "quote": "The Solution: Repeal Trump’s tariffs with targeted exceptions for national security and reassert the constitutional authority of Congress over trade policy.",
+          "sourceUrl": "https://colinallred.com/wp-content/uploads/2026/04/Allred-Affordability-Plan-.pdf",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He proposes extending Social Security's solvency while increasing benefits by $2,400 annually.",
+          "quote": "The Solution: Pass the Social Security Expansion Act — extend solvency 75 years, require the wealthiest Americans to pay in at the same rate as everyone else, and expand benefits by $2,400 a year for every senior.",
+          "sourceUrl": "https://colinallred.com/wp-content/uploads/2026/04/Allred-Affordability-Plan-.pdf",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He proposes tax credits and federal housing reforms intended to spur construction of more affordable and rural homes.",
+          "quote": "The Solution: Expand the Low-Income Housing Tax Credit to spur construction of affordable housing. Provide a refundable tax credit for first-time homebuyers. Reform the Rural Housing Service to help small towns build more homes.",
+          "sourceUrl": "https://colinallred.com/wp-content/uploads/2026/04/Allred-Affordability-Plan-.pdf",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He said public schools need more investment and criticized vouchers for diverting their funding to private schools.",
+          "quote": "In Texas, we have not invested enough in public education, period.",
+          "sourceUrl": "https://inthesetimes.com/article/colin-allred-nfl-pete-sessions-texas-32-primary-progressive",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "His campaign says he delivered federal funding that included money for law enforcement.",
+          "quote": "In Congress Colin delivered real results, including over $135 million in federal dollars for critical public transportation, health care, affordable housing and law enforcement – all within the 33rd Congressional District.",
+          "sourceUrl": "https://colinallred.com/",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He proposes legal pathways and protections, including citizenship opportunities for Dreamers, TPS holders and qualifying undocumented immigrants.",
+          "quote": "Abolishing a broken system is not enough. Colin is fighting for comprehensive immigration reform that creates legal pathways, protects the people already woven into our communities, and manages the border with both order and humanity.",
+          "sourceUrl": "https://colinallred.com/wp-content/uploads/2026/04/Allred_Immigration_Plan.pdf",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He supports universal background checks, red-flag laws, a higher purchase age for semi-automatic weapons and banning their future sale.",
+          "quote": "Like Gutierrez, Allred backs universal background checks, red flag laws and raising the minimum age to buy semi-automatic weapons to 21. He also supports banning the future sale of such weapons.",
+          "sourceUrl": "https://www.tpr.org/government-politics/2023-08-09/democrats-colin-allred-roland-gutierrez-draw-distinctions-on-key-issues-ahead-of-2024-election?_amp=true",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He pledged to restore abortion rights and codify Roe v. Wade nationally.",
+          "quote": "He said that, if elected, he would, “restore a woman's right to choose,” and “make Roe v. Wade the law of the land again.”",
+          "sourceUrl": "https://www.tpr.org/news/2024-10-22/to-win-in-texas-u-s-senate-candidate-colin-allred-aims-to-appeal-to-both-democrats-and-moderates?_amp=true",
+          "agreement": "5/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Allred voted for legislation that would federally deschedule, legalize and tax cannabis.",
+          "quote": "Voted FOR the MORE Act H.R.3617 in 2022, which provides for federal descheduling, legalization, and taxation of cannabis at the federal level, with community reinvestment and a focus on equity.",
+          "sourceUrl": "https://www.mpp.org/assets/pdf/takeaction/election-central1/voter-guides/mpp-scorecard-us-congress-and-incumbents-2024.pdf?v=1770339416",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports a Medicare public option and has advocated for expanded Medicaid and Affordable Care Act subsidies.",
+          "quote": "Allred does not support a single-payer insurance plan but supports other initiatives in his party to expand access to health care, including the creation of a public option to buy Medicare if there are no other affordable alternatives.",
+          "sourceUrl": "https://www.tpr.org/government-politics/2023-08-09/democrats-colin-allred-roland-gutierrez-draw-distinctions-on-key-issues-ahead-of-2024-election?_amp=true",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He proposes restoring renewable power while also maintaining Texas's overall energy production and emphasizing lower utility costs and job protection.",
+          "quote": "The Solution: Reverse Trump’s cuts to renewable power and eliminate costly energy tariffs. Keep Texas #1 in energy production.",
+          "sourceUrl": "https://colinallred.com/wp-content/uploads/2026/04/Allred-Affordability-Plan-.pdf",
+          "agreement": "6/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He opposes stricter voter-ID and citizenship-document requirements and promises to pursue expanded federal voting protections.",
+          "quote": "Should this bill come to pass, federal elections would require voter ID at the polls and proof of citizenship to even register to vote. But here’s the thing: more than 21 million Americans don’t have access to the documents needed to meet these heinous requirements.",
+          "sourceUrl": "https://colinallred.substack.com/p/your-voting-rights-are-under-attack",
+          "agreement": "9/10"
+        }
+      }
+    }
+  ],
+  "sources": "colinallred.com · naacp.org · inthesetimes.com · tpr.org · mpp.org · colinallred.substack.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

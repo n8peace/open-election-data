@@ -1,0 +1,138 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 37",
+  "division": "tx/cd-37",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Greg Casar",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Casar says the ultra-rich should pay more in taxes to support schools, roads, and community services.",
+          "quote": "Congress must ensure that the ultra rich pay their fair share in taxes and contribute to the schools, roads, and community services that we all use.",
+          "sourceUrl": "https://casar.house.gov/issues",
+          "agreement": "3/3"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Casar co-sponsored the PRO Act and said workers deserve unions that can protect their rights and hold employers accountable.",
+          "quote": "Especially in a right-to-work-for-less state like Texas, workers deserve a union to protect their rights, create safer workplaces, and hold exploitative employers accountable.",
+          "sourceUrl": "https://casar.house.gov/media/press-releases/news-congressman-greg-casar-co-sponsors-pro-act-hr-20",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Casar has called for defending Social Security and Medicare and supports legislation to expand Social Security benefits.",
+          "quote": "We're already seeing the chaos being caused by the Republican conference, and I know that folks in Texas want to see us defend baseline programs like Social Security and Medicare and continue to chip away against Texas abortion ban.",
+          "sourceUrl": "https://casar.house.gov/media/in-the-news/kut-905-austins-npr-station-greg-casar-prioritizing-housing-health-care-and",
+          "agreement": "3/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Casar supports repealing the federal cap that prevents a net increase in public-housing units.",
+          "quote": "That’s why I support repealing the Faircloth Amendment, which prohibits a net increase in the amount of public housing units.",
+          "sourceUrl": "https://casar.house.gov/issues/housing",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Casar opposes school vouchers and has sponsored federal funding for public schools.",
+          "quote": "Furthermore, top Texas officials are advocating for a school voucher scam that would make matters worse for students and teachers.",
+          "sourceUrl": "https://casar.house.gov/media/press-releases/news-congressman-greg-casar-calls-reduced-school-closures-more-time-save-san",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "Casar crafted an Austin plan that shifted police funding toward violence prevention and alternative public-safety programs.",
+          "quote": "These immediate cuts would include eliminating funding from three planned police cadet classes and reallocating funds to areas like violence prevention, food access and abortion access programs.",
+          "sourceUrl": "https://www.texastribune.org/2020/08/13/austin-city-council-cut-police-budget-defund/",
+          "agreement": "2/3"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Casar introduced a resolution supporting more legal migration pathways and a roadmap to citizenship.",
+          "quote": "We should create more legal pathways for migration and citizenship, while also changing the failed U.S. policies that cause displacement abroad and force people to flee their home countries",
+          "sourceUrl": "https://casar.house.gov/media/press-releases/news-casar-colleagues-introduce-migration-stability-resolution",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Casar supports an assault-weapons ban, expanded background checks, and a federal gun-violence-prevention office.",
+          "quote": "I support legislation to ban assault weapons, expand background checks, and establish a federal Office of Gun Violence Prevention.",
+          "sourceUrl": "https://casar.house.gov/issues/gun-violence",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Casar is an original co-sponsor of the Women's Health Protection Act to restore abortion rights.",
+          "quote": "Casar is an original co-sponsor of the Women’s Health Protection Act to restore abortion rights to all Texans, the PRO Act to expand worker rights, and Medicare For All to win health care as a basic right.",
+          "sourceUrl": "https://www.casarforcongress.com/about",
+          "agreement": "3/3"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Casar opposed legislation imposing birth-sex-based school-sports rules and publicly defended transgender athletes' participation.",
+          "quote": "And so, like any other athlete, trans athletes sometimes win, sometimes they lose.",
+          "sourceUrl": "https://docs.house.gov/meetings/GO/GO27/20231205/116641/HHRG-118-GO27-Transcript-20231205.pdf",
+          "agreement": "2/3"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "As an Austin council member, Casar led a proposal to effectively end arrests and fines for low-level marijuana possession.",
+          "quote": "If there’s no intent to sell or distribute, we’re not going to mess with it,” said Greg Casar, the lead sponsor of the proposal.",
+          "sourceUrl": "https://www.texastribune.org/2020/01/10/marijuana-weed-austin-texas-decriminalize/",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Casar is an original co-sponsor of Medicare for All and describes health care as a basic right.",
+          "quote": "Casar is an original co-sponsor of the Women’s Health Protection Act to restore abortion rights to all Texans, the PRO Act to expand worker rights, and Medicare For All to win health care as a basic right.",
+          "sourceUrl": "https://www.casarforcongress.com/about",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Casar co-sponsors the Green New Deal and supports expanding clean-energy employment while assisting fossil-fuel workers through the transition.",
+          "quote": "I’m a proud co-sponsor of the Green New Deal and similar legislation to create good union jobs in clean energy and protect communities harmed by pollution and natural disasters.",
+          "sourceUrl": "https://casar.house.gov/issues/climate",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "casar.house.gov · texastribune.org · casarforcongress.com · docs.house.gov",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
