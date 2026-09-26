@@ -1,0 +1,232 @@
+{
+  "office": "U.S. Representative",
+  "district": "IN District 8",
+  "division": "in/cd-8",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Mary Allen",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Allen supports a wealth tax and restoring the corporate tax rate after its 2017 cut.",
+          "quote": "Allen: endorses Warren’s two-cent-on-the-dollar wealth tax framework; supports raising the corporate rate from its 2017 cut; draws on her city council work reviewing tax abatements and says we should only reward businesses that offer living wages",
+          "sourceUrl": "https://www.progressiveindiana.net/p/indianas-8th-congressional-district",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Allen supports an inflation-indexed national minimum wage and protecting workers' right to unionize.",
+          "quote": "Ensuring your paycheck covers your basic needs through a national minimum wage tied to inflation.",
+          "sourceUrl": "https://www.maryallenforcongress.com/priorities",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Allen proposes removing tariffs from food and other essential goods.",
+          "quote": "Making your groceries more affordable by removing tariffs on food and other essentials and stopping corporate price hikes.",
+          "sourceUrl": "https://www.maryallenforcongress.com/priorities",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Allen rules out raising the Social Security retirement age and supports lifting the payroll-tax cap to sustain the program.",
+          "quote": "Allen: calls it non-negotiable; rules out raising the retirement age; supports lifting the payroll cap and taxing wealthy investment income more aggressively",
+          "sourceUrl": "https://www.progressiveindiana.net/p/indianas-8th-congressional-district",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Allen supports investing in additional homes for working families and expanding affordable-housing programs.",
+          "quote": "Making homeownership more affordable through investments that build homes for working families, not luxury condos.",
+          "sourceUrl": "https://www.maryallenforcongress.com/priorities",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Allen calls for full funding of public schools and continued federal support through the Department of Education.",
+          "quote": "Full funding for our schools so that all students can receive a high-quality education.",
+          "sourceUrl": "https://www.maryallenforcongress.com/priorities",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Allen supports pathways to legal entry and citizenship, keeping families together and protecting due process.",
+          "quote": "Prioritizing immigration reform that is smart and humane, protecting current residents while providing pathways to entry and citizenship for those seeking to become Americans.",
+          "sourceUrl": "https://www.maryallenforcongress.com/priorities",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Allen answered yes when asked whether she supports a federal assault-weapons ban.",
+          "quote": "Federal assault weapons ban: Rector — Yes / Zeigler — Yes / Allen — Yes",
+          "sourceUrl": "https://www.progressiveindiana.net/p/indianas-8th-congressional-district",
+          "agreement": "9/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Allen answered yes when asked whether recreational cannabis should be legalized federally.",
+          "quote": "Federal legalization of recreational cannabis: Rector — Yes / Zeigler — Yes / Allen — Yes",
+          "sourceUrl": "https://www.progressiveindiana.net/p/indianas-8th-congressional-district",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Allen supports preserving ACA subsidies while moving toward Medicare for All or a single-payer system.",
+          "quote": "Allen: supports a transitional approach — ACA subsidies as a near-term Band-Aid, moving toward Medicare for all or a single-payer system",
+          "sourceUrl": "https://www.progressiveindiana.net/p/indianas-8th-congressional-district",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Allen supports stricter pollution enforcement and investment in wind, solar and modern electric-grid infrastructure while also emphasizing lower energy costs.",
+          "quote": "Lower energy costs, diversify our energy supply, and create thousands of local, clean-energy jobs by investing in wind, solar, and modern grid infrastructure.",
+          "sourceUrl": "https://www.maryallenforcongress.com/priorities",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Allen opposed the SAVE Act as an unnecessary attempt to restrict voter access.",
+          "quote": "We're making up a problem or a solution to a problem that doesn’t exist.",
+          "sourceUrl": "https://news.wnin.org/2026-04-13/congressional-candidates-take-questions",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Mark Messmer",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Messmer supported the One Big Beautiful Bill and called for additional tax cuts for families and businesses.",
+          "quote": "The One Big Beautiful Bill prevented the largest tax increase in history from crushing hard-working Americans, while making many pro-growth tax policies permanent for all families and businesses",
+          "sourceUrl": "https://messmer.house.gov/news/documentsingle.aspx?DocumentID=325",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Messmer joined a congressional letter seeking to freeze the federally required wage for H-2A agricultural workers at its January 2023 level.",
+          "quote": "we request that the Fiscal Year 2026 appropriations bill prohibit funds from being used to implement a wage larger than the January 2023 wage rate or otherwise freeze the H-2A wage rates at January 2023 levels",
+          "sourceUrl": "https://messmer.house.gov/news/documentsingle.aspx?DocumentID=68",
+          "agreement": "4/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Messmer said long-term tariffs and resulting retaliation could harm agriculture and the broader economy, while allowing that tariffs might be useful temporarily in negotiations.",
+          "quote": "I don’t know that long-term tariffs are going to be helpful with the retaliatory tariffs",
+          "sourceUrl": "https://www.14news.com/2025/03/05/rep-mark-messmer-agrees-with-trump-except-tariffs/",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Messmer supported an Indiana budget that increased K-12 funding while expanding school-choice programs.",
+          "quote": "At nearly half of the overall budget, K-12 funding received a historic $2.9 billion increase over the next two years while expanding school choice for families.",
+          "sourceUrl": "https://www.indianasenaterepublicans.com/messmer-report-passing-another-balanced-budget",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Messmer praised deploying National Guard troops to assist local police with crime enforcement in Washington, D.C.",
+          "quote": "These dedicated public servants are helping to return law and order to a place where the crime crisis had become uncontrollable.",
+          "sourceUrl": "https://messmer.house.gov/news/documentsingle.aspx?DocumentID=186",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Messmer co-sponsored and defended an Indiana law prohibiting the tracking of firearm purchases through merchant-category codes.",
+          "quote": "Hoosiers have a constitutional right to bear arms, and I believe House Enrolled Act 1084 will help uphold that right.",
+          "sourceUrl": "https://www.indianasenaterepublicans.com/messmer-report-defending-second-amendment-privacy",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Messmer said he opposes abortion in most cases and introduced legislation penalizing the nonconsensual administration of abortion-inducing drugs.",
+          "quote": "I am against abortion in most cases, but it is unconscionable to even consider tricking a woman into killing her unborn baby",
+          "sourceUrl": "https://messmer.house.gov/news/documentsingle.aspx?DocumentID=193",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Messmer cosponsored legislation defining sex biologically and barring males from female amateur athletic competitions.",
+          "quote": "Arizona, Mr. Messmer, Mr. Bost, Mr. Van Orden, Mr. Carter of Texas, Mr. Timmons, and Mr. Gosar) introduced the following bill; which was referred to the Committee on the Judiciary",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/BILLS-119hr1028ih/html/BILLS-119hr1028ih.htm",
+          "agreement": "4/5"
+        },
+        "cannabis": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Messmer expressed reservations about full legalization while remaining open to regulated medical marijuana and reduced penalties for small-scale possession.",
+          "quote": "Fully legalizing marijuana is going to be difficult at the state level as long as the federal government considers it a Class 1 controlled substance. I would be open to listening to the debate on regulated medical marijuana use.",
+          "sourceUrl": "https://duboiscountyfreepress.com/qa-with-state-senate-district-48-candidates-mark-messmer-and-jeff-hill/",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Messmer advocated allowing insurance purchases across state lines to increase competition and the number of carriers.",
+          "quote": "Why not change the rules that would allow me to buy insurance across State lines to bring more competition and more carriers into our markets?",
+          "sourceUrl": "https://www.congress.gov/112/chrg/CHRG-112hhrg66714/CHRG-112hhrg66714.pdf",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Messmer supported keeping Indiana coal plants operating to preserve grid reliability, coal jobs and lower electricity costs.",
+          "quote": "Continued coal production will protect the energy grid and prevent electricity blackouts, while also providing lower energy costs, especially during extreme weather conditions.",
+          "sourceUrl": "https://messmer.house.gov/news/documentsingle.aspx?DocumentID=203",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Messmer supported federal photo-identification, citizenship-verification and voter-roll-check requirements.",
+          "quote": "Strengthening voter ID and citizenship verification standards through the SAVE America Act will protect the integrity of future federal elections.",
+          "sourceUrl": "https://messmer.house.gov/news/documentsingle.aspx?DocumentID=207",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "progressiveindiana.net · maryallenforcongress.com · news.wnin.org · messmer.house.gov · 14news.com · indianasenaterepublicans.com · govinfo.gov · duboiscountyfreepress.com · congress.gov",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

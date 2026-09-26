@@ -1,0 +1,198 @@
+{
+  "office": "U.S. Representative",
+  "district": "IN District 7",
+  "division": "in/cd-7",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "André Carson",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Carson supported the PRO Act, which would strengthen union organizing and collective bargaining rights.",
+          "quote": "The PRO Act restores fairness to the economy by strengthening the federal law that protects workers’ right to join a union and bargain for higher pay, better benefits, and safer workplaces.",
+          "sourceUrl": "https://democrats-edworkforce.house.gov/media/press-releases/03/05/2025/bipartisan-labor-leaders-introduce-bill-to-protect-workers-right-to-organize",
+          "agreement": "4/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "His campaign says he is acting to block President Trump's tariffs because he believes they would damage the economy.",
+          "quote": "Congressman Carson is acting to ensure President Trump cannot implement these tariffs, which will decimate the American economy.",
+          "sourceUrl": "https://andrecarson.com/on-the-issues/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Carson supports additional federal funding to expand the supply of affordable housing.",
+          "quote": "I strongly support more federal resources to expand the supply of affordable housing, and more resources to fight housing insecurity, temporary housing and other critical services, including wrap-around services to prevent homelessness.",
+          "sourceUrl": "https://carson.house.gov/issues/housing",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Carson advocates increased federal support for public schools and additional resources for teachers and students.",
+          "quote": "I will continue working to improve education policies, advocate for increased federal support for public schools, and fight for policies that provide every student with a safe, healthy, and enriching learning environment.",
+          "sourceUrl": "https://andrecarson.com/static_block/on-the-issues/",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Carson supports funding both police hiring and community resources intended to prevent crime.",
+          "quote": "resources to prevent them from resorting to crime",
+          "sourceUrl": "https://andrecarson.com/on-the-issues/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Carson supports a pathway to citizenship, expanded legal visas and protections for immigrant families.",
+          "quote": "The creation of a rigorous path to citizenship for these individuals, as well as the expansion of legal visa programs, would keep families together and be in keeping with America's values.",
+          "sourceUrl": "https://carson.house.gov/issues/immigration",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Carson cosponsored the Bipartisan Background Checks Act of 2025, which would require a background check for every firearm sale.",
+          "quote": "To require a background check for every firearm sale.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr18ih",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Carson says reproductive-health decisions should remain between a woman and her doctor.",
+          "quote": "Decisions about health care should be between a woman and her doctor—not politicians.",
+          "sourceUrl": "https://carson.house.gov/issues/womens-issues",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Carson has consistently opposed Medicaid cuts and supports preserving and strengthening Medicare.",
+          "quote": "Congressman Carson has consistently voted NO on Republican attempts to slash Medicaid, and he will continue to hold the line to save this vital program.",
+          "sourceUrl": "https://andrecarson.com/on-the-issues/",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Carson calls for bold action to reduce emissions and accelerate the transition to clean energy.",
+          "quote": "We must take bold, science-driven action to reduce emissions and transition to sustainable energy solutions that power our economy while protecting future generations.",
+          "sourceUrl": "https://andrecarson.com/static_block/on-the-issues/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Carson supports federal voting-rights legislation intended to make voting easier.",
+          "quote": "Through legislation like the For the People Act and the John Lewis Voting Rights Restoration Act, Rep. Carson seeks to make voting easier, not harder.",
+          "sourceUrl": "https://carson.house.gov/rep-carsons-priorities",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "James M Sceniak",
+      "party": "Libertarian",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Sceniak supports removing trade barriers and repealing the Jones Act to lower prices.",
+          "quote": "we need to remove barriers to trade that cause prices to rise.",
+          "sourceUrl": "https://www.theindianalawyer.com/articles/james-sceniak-congress-needs-to-get-out-of-the-way-cut-waste",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Sceniak supports balancing the budget through spending cuts and allowing workers to redirect part of their Social Security taxes into personal accounts.",
+          "quote": "For retirees, I believe in the CATO 6.2% plan for Social Security, which allows you to redirect your half of Social Security taxes into personal accounts that will grow at a much greater rate of return than the meager returns granted by the current system.",
+          "sourceUrl": "https://www.ibj.com/articles/james-sceniak-congress-needs-to-get-out-of-the-way-cut-waste",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Sceniak opposes restrictions on gun ownership and emphasizes mental-health services as a response to violence.",
+          "quote": "\"Shall not be infringed\" is self-explanatory. I will always support the civil rights of people to defend their family, person and property.",
+          "sourceUrl": "https://www.yahoo.com/news/where-indiana-senate-candidates-stand-090650821.html",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "Sceniak describes himself as personally pro-life but opposes banning or criminalizing abortion and favors reducing it through social support and contraception.",
+          "quote": "I consider myself personally pro-life, but banning and criminalizing does not work. Abortions will still be performed and often with greater risk, thus losing more lives.",
+          "sourceUrl": "https://www.yahoo.com/news/where-indiana-senate-candidates-stand-090650821.html",
+          "agreement": "4/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Sceniak supports decriminalizing cannabis and treating drug abuse as a medical rather than criminal issue.",
+          "quote": "Yes. Cannabis usage and possession has no victim, therefore it should not be a crime. The drug war has wasted countless taxpayer resources.",
+          "sourceUrl": "https://www.yahoo.com/news/where-indiana-senate-candidates-stand-090650821.html",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Sceniak favors opening health-care markets and using competition rather than government intervention to lower medical costs.",
+          "quote": "THIS IS AN ISSUE, REAL ISSUE WE HAVE TO LOOK AT IN WASHINGTON, DC AND DO THAT BY OPENING THE MARKET AND LOOKING AT PATIENT SYSTEM MAKING MEDICINE MORE COMPETITIVE LIKE AMERICAN DREAM COMPETITION BREEDS A HEALTHY GROUND WHERE WE CAN BRING DOWN COSTS WHEN WE HAVE THAT COMPETITION WE WILL HAVE THAT COST NATURALLY DECREASED.",
+          "sourceUrl": "https://www.pbs.org/video/2022-us-senate-debate-tlmpiu/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Patrick McAuley",
+      "party": "Republican",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "McAuley pledges to expand the housing supply and convert vacant properties to productive use.",
+          "quote": "Too many Indianapolis residents face rising rents, limited options, and visible homelessness. Patrick will fight to expand housing supply, convert vacant properties into productive use, and support practical pathways off the street through partnerships and federal resources.",
+          "sourceUrl": "https://mcauleyforthe7th.com/issues/",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "McAuley supports stronger community-police relationships and having more officers live and work in the precincts they serve.",
+          "quote": "Families want to feel safe in their neighborhoods. Patrick will push for stronger community-police relationships, more officers living and working in the same precincts, and targeted resources that reduce crime without empty rhetoric.",
+          "sourceUrl": "https://mcauleyforthe7th.com/issues/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "democrats-edworkforce.house.gov · andrecarson.com · carson.house.gov · govinfo.gov · theindianalawyer.com · ibj.com · yahoo.com · pbs.org · mcauleyforthe7th.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

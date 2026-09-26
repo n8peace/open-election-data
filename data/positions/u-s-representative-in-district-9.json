@@ -1,0 +1,294 @@
+{
+  "office": "U.S. Representative",
+  "district": "IN District 9",
+  "division": "in/cd-9",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Brad A. Meyer",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Meyer supports higher wages and restoring workers' collective-bargaining power.",
+          "quote": "He is fighting for higher wages, fair taxes, and restoring the collective bargaining power that built the middle class.",
+          "sourceUrl": "https://bradmeyer.org/",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Meyer calls for ending tariffs that raise costs for manufacturers and retailers.",
+          "quote": "End tariffs that punish small manufacturers and retailers",
+          "sourceUrl": "https://bradmeyer.org/brads-faqs/",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Meyer says Social Security must be protected and proposes raising the FICA tax cap to strengthen it.",
+          "quote": "Social Security must be protected so people can count on it when they need it.",
+          "sourceUrl": "https://bradmeyer.org/economic-policy/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Meyer says he would build more homes while rolling back tariffs that increase development costs.",
+          "quote": "I would rollback on the tariffs that make groceries and home development expensive and build more homes.",
+          "sourceUrl": "https://www.wfyi.org/statewide/2026-09-23/2026-voter-guide-indianas-9th-congressional-district",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Meyer promises to defend public education and preserve federal support for public schools and students.",
+          "quote": "We must keep the promise of public education alive for every child across this country.",
+          "sourceUrl": "https://bradmeyer.org/education-policy/",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "Meyer proposes moving mental-health crisis responses from jails to treatment.",
+          "quote": "shift mental health response from jails to treatment-based care.",
+          "sourceUrl": "https://bradmeyer.org/economic-policy/",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Meyer supports legal pathways for undocumented immigrants alongside secure and humane border enforcement.",
+          "quote": "A successful path recognizes the potential for undocumented immigrants to become contributing members of the American story through legal pathways.",
+          "sourceUrl": "https://bradmeyer.org/immigration-policy/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Meyer supports universal background checks, red-flag laws, and restrictions for people on terrorist watch lists.",
+          "quote": "universal background checks, red-flag laws, and preventing gun purchases",
+          "sourceUrl": "https://bradmeyer.org/brads-faqs/",
+          "agreement": "4/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Meyer says reproductive medical decisions should be made by women and their doctors rather than politicians.",
+          "quote": "I trust women and their doctors—not politicians—to make",
+          "sourceUrl": "https://bradmeyer.org/brads-faqs/",
+          "agreement": "10/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "Meyer supports decriminalizing marijuana and focusing enforcement on drugs causing greater harm.",
+          "quote": "I also believe that we should decriminalize marijuana",
+          "sourceUrl": "https://www.washingtoncountytimes.com/post/election-2026-district-9-congressional-candidate-brad-meyer",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Meyer supports Medicare for All to guarantee coverage for every resident.",
+          "quote": "By building on programs like Medicare, we can guarantee coverage",
+          "sourceUrl": "https://bradmeyer.org/health-care-policy/",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Meyer endorses achieving net-zero carbon emissions by 2035 and accelerating renewable energy.",
+          "quote": "The United States has committed to achieving net-zero carbon emissions by 2035.",
+          "sourceUrl": "https://bradmeyer.org/environmental-policy/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Meyer supports expanded early voting, protected vote-by-mail access, and adequate polling places.",
+          "quote": "Instead, we should expand early voting, protect vote by mail, and ensure adequate polling places so every citizen can participate.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=71928748",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Tonya L. Hudson",
+      "party": "Libertarian",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Hudson pledges to reduce the tax burden and advocates replacing the IRS with a sales-tax-based system.",
+          "quote": "I will stand with you to reduce the tax burden.",
+          "sourceUrl": "https://tonyaforcongress.com/issues-2/",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Hudson proposes increasing Social Security funding by lifting the payroll-tax cap while ending federal income taxes on seniors' benefits.",
+          "quote": "If elected to Congress, I will have that debate and work on a solution to increase the amount of funds going into OASI.",
+          "sourceUrl": "https://tonyaforcongress.com/rollitback/",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Hudson supports stronger border security alongside streamlined legal processing and more efficient ports of entry.",
+          "quote": "If elected to Congress, I will promote and support legislation to update and streamline the processing system and make for more efficient ports of entry.",
+          "sourceUrl": "https://tonyaforcongress.com/rollitback/",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "Hudson said elective abortion should be permitted in medical circumstances where lives are in danger.",
+          "quote": "Under medical circumstances where the lives are in danger, this difficult decision should be made between the patient and her doctor.",
+          "sourceUrl": "https://ivoterguide.com/candidate/94233/race/30592/election/1456",
+          "agreement": "5/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Hudson supports federal marijuana legalization and says she would sponsor legislation similar to the MORE Act.",
+          "quote": "The old laws criminalizing the use of a plant (marijuana) in Indiana should be reversed. If elected to Congress, I would sponsor or co-sponsor a federal bill like the MORE Act.",
+          "sourceUrl": "https://tonyaforcongress.com/rollitback/",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Hudson selected a questionnaire option retaining Medicare and Medicaid but opposing additional taxpayer-funded health programs.",
+          "quote": "C) Medicaid and Medicare should remain available, but no other taxpayer-funded programs are necessary.",
+          "sourceUrl": "https://ivoterguide.com/candidate/94233/race/30592/election/1456",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Hudson says lowering fuel prices would help reduce grocery costs.",
+          "quote": "Reducing the price of fuel will help keep grocery costs down.",
+          "sourceUrl": "https://www.wfyi.org/statewide/2026-09-23/2026-voter-guide-indianas-9th-congressional-district",
+          "agreement": "3/10"
+        }
+      }
+    },
+    {
+      "name": "Erin Houchin",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Houchin says the government takes too much money from taxpayers and campaigns on cutting taxes.",
+          "quote": "Erin believes our government takes too much of your money, and spends too much.",
+          "sourceUrl": "https://www.erinhouchin.com/issues",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "Houchin defended President Trump's tariffs as necessary to protect workers and improve U.S. trade terms.",
+          "quote": "The tariffs imparted by President Trump are proving necessary to ensure fair trade, protect American workers, and reduce trade deficits by bringing other nations to the negotiating table.",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/CREC-2025-09-17/pdf/CREC-2025-09-17.pdf",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Houchin led legislation intended to increase manufactured-housing supply by repealing federal efficiency regulations.",
+          "quote": "The Affordable HOMES Act takes a practical approach by cutting red tape and regulations that contribute to pricing American families out of owning a home, which will increase supply and lower costs.",
+          "sourceUrl": "https://houchin.house.gov/media/press-releases/house-passes-houchins-affordable-homes-act-cut-red-tape-and-lower-housing",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Houchin says law-enforcement officers should receive the resources, support, and compensation needed to do their jobs.",
+          "quote": "Erin will always fight to ensure our officers have the necessary resources to do their jobs effectively and safely, and they have the support and compensation they deserve.",
+          "sourceUrl": "https://www.erinhouchin.com/issues",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Houchin supports completing the border wall, backing enforcement, and deporting immigrants who are in the country illegally and have committed crimes.",
+          "quote": "She fully supports President Trump’s efforts to restore border security—by backing law enforcement, finishing the wall, and deporting criminal illegal aliens to protect American communities.",
+          "sourceUrl": "https://www.erinhouchin.com/issues",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Houchin describes herself as a firm defender of the constitutional right to own and carry firearms.",
+          "quote": "Erin is a firm believer that the Second Amendment is one of our most important freedoms, and she understands the importance of protecting our constitutional right to bear arms.",
+          "sourceUrl": "https://www.erinhouchin.com/issues",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Houchin identifies as pro-life and supports prohibiting late-term abortions while providing resources for mothers.",
+          "quote": "Erin is pro-life and always has been. She has been a steadfast leader in the fight for the unborn, consistently advocating for the prohibition of late-term abortions, and resources and care for mothers in need.",
+          "sourceUrl": "https://www.erinhouchin.com/issues",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Houchin said students should participate in school sports according to their biological sex.",
+          "quote": "We are only saying that, out of fairness and safety for women and girls, students participate in sports according to their biological sex.",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/CREC-2023-04-18/pdf/CREC-2023-04-18.pdf",
+          "agreement": "5/5"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "Houchin said she opposed marijuana legalization while it remained federally illegal and pending additional research.",
+          "quote": "Until the full effects of “medical” marijuana use are studied by reliable organizations, and as long as it remains federally illegal, I support our various law enforcement agencies and police officers who oppose legalization.",
+          "sourceUrl": "https://vote.norml.org/politicians/149614",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Houchin supports expanding coal, natural gas, and nuclear power to increase capacity and keep electricity affordable.",
+          "quote": "To protect ratepayers, we must expand all-of-the-above domestic energy—including coal, natural gas, and nuclear—to increase grid capacity and keep power affordable.",
+          "sourceUrl": "https://www.wfyi.org/statewide/2026-09-23/2026-voter-guide-indianas-9th-congressional-district",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Houchin cosponsored and supported legislation requiring proof of citizenship to register and photo identification to vote in federal elections.",
+          "quote": "The SAVE America Act ensures that only American citizens are voting in American elections. Requiring proof of citizenship and voter ID strengthens trust in our system and ensures that our elections are fair and secure.",
+          "sourceUrl": "https://houchin.house.gov/media/press-releases/rep-erin-houchin-statement-house-passage-save-america-act",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "bradmeyer.org · wfyi.org · washingtoncountytimes.com · onyourballot.vote411.org · tonyaforcongress.com · ivoterguide.com · erinhouchin.com · govinfo.gov · houchin.house.gov · vote.norml.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
