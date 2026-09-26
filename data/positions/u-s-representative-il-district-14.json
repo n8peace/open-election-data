@@ -1,0 +1,160 @@
+{
+  "office": "U.S. Representative",
+  "district": "IL District 14",
+  "division": "il/cd-14",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Lauren Underwood",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Underwood wants to end tax breaks for billionaires to raise revenue for family affordability programs.",
+          "quote": "Tax reform should put working families and small businesses first, and ending the Big Ugly Bill's tax giveaways to billionaires will provide the revenue Illinois families need for greater economic security.",
+          "sourceUrl": "https://www.shawlocal.com/news/election/2026/09/25/2026-election-questionnaire-lauren-underwood-us-house-of-representatives-14th-district/",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Underwood called the Trump administration's tariffs a failure that raises costs for American consumers.",
+          "quote": "Donald Trump's tariff policy has been a complete failure, driving up costs for Americans",
+          "sourceUrl": "https://www.shawlocal.com/news/election/2026/09/25/2026-election-questionnaire-lauren-underwood-us-house-of-representatives-14th-district/",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Underwood opposes cuts to Social Security and Medicare and backs expanding benefits through Social Security 2100.",
+          "quote": "We must protect and defend Social Security and Medicare. These critical earned benefits are the foundation of America's retirement system.",
+          "sourceUrl": "https://www.shawlocal.com/news/election/2026/09/25/2026-election-questionnaire-lauren-underwood-us-house-of-representatives-14th-district/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Underwood supports comprehensive immigration reform with pathways to citizenship and opposes mass deportations.",
+          "quote": "mass deportations, ineffective border walls, and unspeakable cruelty are not a comprehensive solution.",
+          "sourceUrl": "https://www.shawlocal.com/news/election/2026/09/25/2026-election-questionnaire-lauren-underwood-us-house-of-representatives-14th-district/",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Underwood supports reaching a 100% clean energy economy by 2050 and voted for the Inflation Reduction Act's climate investments.",
+          "quote": "Lauren believes we must achieve a 100% clean energy economy by 2050.",
+          "sourceUrl": "https://underwoodforcongress.com/climate-change/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Underwood supports the Freedom to Vote Act and John Lewis Voting Rights Advancement Act to expand voting access.",
+          "quote": "I support the swift passage of the John Lewis Voting Rights Advancement Act and the Freedom to Vote Act, two essential bills to restore our voting rights.",
+          "sourceUrl": "https://www.shawlocal.com/news/election/2026/09/25/2026-election-questionnaire-lauren-underwood-us-house-of-representatives-14th-district/",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "James T. Marter",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Marter calls for reducing tax rates for all taxpayers, flattening income and capital-gains rates, and eliminating the estate tax.",
+          "quote": "Rates for all taxpayers reduced, flatten the rates on income and capital gains, eliminate the Death tax",
+          "sourceUrl": "https://ivoterguide.com/candidate/27946/race/1355/election/890?culture=en-us",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Marter calls for free market principles and says government should not pick industry winners.",
+          "quote": "We need free market principles and smart trade policy.",
+          "sourceUrl": "https://marter4congress.us/issues/",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Marter said the border should be closed to those entering illegally and secured against cartels and traffickers.",
+          "quote": "The border should be closed to illegals, secure from foreign criminal cartels, gangbangers, and human traffickers.",
+          "sourceUrl": "https://www.shawlocal.com/kendall-county-now/2026/02/03/2026-election-questionnaire-jim-marter-us-house-of-representatives-14th-district/",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Marter opposes new gun-control measures, describing them as an assault on Second Amendment rights.",
+          "quote": "gun-grabbing policies which assault our 2nd Amendment rights",
+          "sourceUrl": "https://chicago.suntimes.com/candidate-questionnaires/james-t-marter-illinois-14th-congressional-district",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Marter identifies as pro-life and says the unborn child must be protected.",
+          "quote": "The Child in the mothers womb is the most innocent and vulnerable LIFE and must be protected.",
+          "sourceUrl": "https://ivoterguide.com/candidate/27946/race/1355/election/890?culture=en-us",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "Marter states people were created male and female and opposes special protections based on gender identity.",
+          "quote": "God made them Make and Female. There should be no special protections beyond the same protections afforded to all citizens.",
+          "sourceUrl": "https://ivoterguide.com/candidate/27946/race/1355/election/890?culture=en-us",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Marter opposes the Affordable Care Act, favoring a free-market approach to health care.",
+          "quote": "Obamacare was a government imposed tax increase that raised costs, limited options and replaced the free market.",
+          "sourceUrl": "https://marter4congress.us/",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Marter wants to reverse Biden-era energy policies and boost domestic energy production.",
+          "quote": "Dismantle the Biden policies that have robbed us of our energy independence and bring American energy back",
+          "sourceUrl": "https://chicago.suntimes.com/2024/2/9/24056524/james-t-jim-marter-illinois-14th-congressional-district",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "Marter says elections need stronger protection against meddling, criminal activity and abuse.",
+          "quote": "dramatically better protection from foreign and domestic meddling, criminal activity and abuse",
+          "sourceUrl": "https://marter4congress.us/issues/",
+          "agreement": "6/10"
+        }
+      }
+    }
+  ],
+  "sources": "shawlocal.com · underwoodforcongress.com · ivoterguide.com · marter4congress.us · chicago.suntimes.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
