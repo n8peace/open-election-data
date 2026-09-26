@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "IL District 13",
+  "division": "il/cd-13",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Nikki Budzinski",
+      "party": "Democratic"
+    },
+    {
+      "name": "Jeff Wilson",
+      "party": "Republican"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "IL District 15",
+  "division": "il/cd-15",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Mary E. Miller",
+      "party": "Republican"
+    },
+    {
+      "name": "Jennifer Todd",
+      "party": "Democratic"
+    }
+  ]
+}

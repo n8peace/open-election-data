@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "IL District 10",
+  "division": "il/cd-10",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Brad Schneider",
+      "party": "Democratic"
+    },
+    {
+      "name": "Carl Lambrecht",
+      "party": "Republican"
+    }
+  ]
+}

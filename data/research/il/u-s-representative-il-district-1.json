@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "IL District 1",
+  "division": "il/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Jonathan L. Jackson",
+      "party": "Democratic"
+    },
+    {
+      "name": "Christian Maxwell",
+      "party": "Republican"
+    }
+  ]
+}

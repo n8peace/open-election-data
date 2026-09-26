@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "IL District 12",
+  "division": "il/cd-12",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Mike Bost",
+      "party": "Republican"
+    },
+    {
+      "name": "Julie Fortier",
+      "party": "Democratic"
+    }
+  ]
+}

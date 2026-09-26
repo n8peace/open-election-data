@@ -1,0 +1,168 @@
+{
+  "office": "U.S. Representative",
+  "district": "PA District 10",
+  "division": "pa/cd-10",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Scott Perry",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Perry calls for making the tax code fairer and simpler to boost jobs and paychecks, and says the government cannot keep spending money it does not have.",
+          "quote": "Congress needs to keep prioritizing efforts to make the tax code fairer and simpler, in the hopes of creating quality, family-sustaining jobs and bigger paychecks for every American.",
+          "sourceUrl": "https://perry.house.gov/issues/issue/?IssueID=119134",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Perry says the first step in immigration reform must be securing the borders.",
+          "quote": "The first step in the immigration reform process must be to secure our borders, period.",
+          "sourceUrl": "https://perry.house.gov/issues/issue/?IssueID=111013",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Perry describes himself as a staunch defender of Second Amendment rights for all citizens.",
+          "quote": "The Second Amendment is a Constitutional right guaranteed to all American citizens.",
+          "sourceUrl": "https://perry.house.gov/issues/issue/?IssueID=119138",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Perry supports the Supreme Court decision returning abortion policy to the states and describes abortion as the termination of innocent lives.",
+          "quote": "The U.S. Supreme Court ensured that states can now make decisions regarding abortion - the termination of innocent lives - and I support the court's decision.",
+          "sourceUrl": "https://perry.house.gov/issues/issue/?IssueID=119211",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Perry opposes government-run health care and supported repealing and replacing the Affordable Care Act.",
+          "quote": "the ACA failed in its core mission to decrease health care costs, which is why I supported its repeal and replacement.",
+          "sourceUrl": "https://perry.house.gov/issues/issue/?IssueID=119137",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Perry backs an all-of-the-above energy approach and opposes costly new energy regulations he says would hurt jobs.",
+          "quote": "I won't support efforts to impose costly new energy regulations that will stifle job creation.",
+          "sourceUrl": "https://perry.house.gov/issues/issue/?IssueID=119136",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Janelle Stelson",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Stelson favors tax breaks for the middle class rather than the wealthy and supports raising taxes on billionaires and large corporations.",
+          "quote": "tax breaks for the hard-working middle class, not billionaires",
+          "sourceUrl": "https://janellestelson.com/priorities/",
+          "agreement": "3/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Stelson calls Pennsylvania's $7.25 minimum wage outrageous and says it must be raised to at least $15 an hour.",
+          "quote": "The minimum wage of $7.25 in Pennsylvania is outrageous; it's lower than that of any surrounding state, including West Virginia",
+          "sourceUrl": "https://docs.google.com/document/d/e/2PACX-1vTw-HUgME5Qnv6wYK5VuudY51sQBbsBqy-7_7w1vWxXb4yl3aruSRfe7wtnVzFfw_8tmCfXHex8yvoL/pub",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "She says she would repeal existing tariffs, describing them as taxes that raise costs.",
+          "quote": "I will repeal these tariff taxes that are increasing costs",
+          "sourceUrl": "https://janellestelson.com/priorities/",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Stelson pledges to protect Social Security benefits that seniors have earned.",
+          "quote": "You earned your Social Security, and I will always fight to protect it.",
+          "sourceUrl": "https://janellestelson.com/priorities/",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Stelson's housing plan calls for cutting regulations to make building homes faster and easier.",
+          "quote": "Cut Red Tape to Make it Faster and Easier to Build Homes",
+          "sourceUrl": "https://janellestelson.com/priorities/",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Stelson praises public schools as the foundation of communities and the country.",
+          "quote": "Quality public schools are the bedrock of our communities and the foundation of America.",
+          "sourceUrl": "https://janellestelson.com/priorities/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Stelson calls for securing the southern border and more border agents while also supporting a pathway to citizenship for Dreamers and long-term workers.",
+          "quote": "We have a broken immigration system and must secure our Southern border.",
+          "sourceUrl": "https://docs.google.com/document/d/e/2PACX-1vTw-HUgME5Qnv6wYK5VuudY51sQBbsBqy-7_7w1vWxXb4yl3aruSRfe7wtnVzFfw_8tmCfXHex8yvoL/pub",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Stelson says everyone buying a gun should pass a background check and dangerous weapons should be kept from criminals and the dangerously mentally ill.",
+          "quote": "Everyone who purchases a gun needs to pass a background check.",
+          "sourceUrl": "https://docs.google.com/document/d/e/2PACX-1vTw-HUgME5Qnv6wYK5VuudY51sQBbsBqy-7_7w1vWxXb4yl3aruSRfe7wtnVzFfw_8tmCfXHex8yvoL/pub",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Stelson says she will fight to restore the abortion protections that existed under Roe v. Wade.",
+          "quote": "In Congress, I will fight to ensure the protections guaranteed under Roe are once again the law of the land.",
+          "sourceUrl": "https://docs.google.com/document/d/e/2PACX-1vTw-HUgME5Qnv6wYK5VuudY51sQBbsBqy-7_7w1vWxXb4yl3aruSRfe7wtnVzFfw_8tmCfXHex8yvoL/pub",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Stelson supports letting the government negotiate prescription drug prices to lower costs.",
+          "quote": "I support lowering the price of prescription drugs by allowing the government to negotiate prices.",
+          "sourceUrl": "https://janellestelson.com/priorities/",
+          "agreement": "8/10"
+        }
+      }
+    }
+  ],
+  "sources": "perry.house.gov · janellestelson.com · docs.google.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

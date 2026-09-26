@@ -1,0 +1,98 @@
+{
+  "office": "U.S. Representative",
+  "district": "PA District 15",
+  "division": "pa/cd-15",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Ray Bilger",
+      "party": "Democratic",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Bilger wants tariff authority returned to Congress and criticizes trade wars that raise costs for farmers.",
+          "quote": "Bring tariff decisions back to Congress, because farmers shouldn't have to pay for trade wars they had no vote in.",
+          "sourceUrl": "https://bilgerforcongress.com/priorities",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Bilger lists defending Medicare and Medicaid among his healthcare priorities.",
+          "quote": "That means protecting affordable insurance coverage, lowering prescription drug costs, defending Medicare and Medicaid, strengthening rural hospitals and healthcare providers, and addressing the severe shortage of medical professionals in rural Pennsylvania.",
+          "sourceUrl": "https://bilgerforcongress.com/priorities",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Bilger frames public education as an investment to be funded rather than a cost to cut.",
+          "quote": "A strong education system is not an expense to be minimized. It is an investment in Pennsylvania's children, its workforce, and the future of its communities.",
+          "sourceUrl": "https://bilgerforcongress.com/priorities",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Bilger calls for both securing the border and creating legal pathways while clearing backlogs.",
+          "quote": "Fixing that system means securing the border, creating workable legal pathways, and clearing the backlogs that leave people in limbo for years.",
+          "sourceUrl": "https://bilgerforcongress.com/priorities",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "Bilger, a gun owner, supports background checks that keep guns from criminals while protecting law-abiding owners.",
+          "quote": "Background checks should work the way they are supposed to: keeping guns out of the hands of criminals and people who pose a danger to themselves or others, while never punishing law-abiding citizens for doing things right.",
+          "sourceUrl": "https://bilgerforcongress.com/priorities",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Bilger says abortion access should be protected from political interference and that reproductive healthcare should be available to all.",
+          "quote": "Every Pennsylvanian should have access to reproductive healthcare, including abortion, without political interference.",
+          "sourceUrl": "https://bilgerforcongress.com/priorities",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Bilger calls for defending Medicare and Medicaid and lowering prescription drug costs to make care more affordable.",
+          "quote": "That means protecting affordable insurance coverage, lowering prescription drug costs, defending Medicare and Medicaid, strengthening rural hospitals and healthcare providers, and addressing the severe shortage of medical professionals in rural Pennsylvania.",
+          "sourceUrl": "https://bilgerforcongress.com/priorities",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Bilger emphasizes protecting Pennsylvania's energy workers and the communities that depend on the industry.",
+          "quote": "Keeping it that way means protecting the workers who produce it, the communities that support it, and the families who depend on it.",
+          "sourceUrl": "https://bilgerforcongress.com/priorities",
+          "agreement": "3/10"
+        }
+      }
+    }
+  ],
+  "sources": "bilgerforcongress.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

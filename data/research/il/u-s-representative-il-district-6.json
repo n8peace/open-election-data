@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "IL District 6",
+  "division": "il/cd-6",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Sean Casten",
+      "party": "Democratic"
+    },
+    {
+      "name": "Niki Conforti",
+      "party": "Republican"
+    }
+  ]
+}

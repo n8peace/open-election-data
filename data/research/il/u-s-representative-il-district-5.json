@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "IL District 5",
+  "division": "il/cd-5",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Mike Quigley",
+      "party": "Democratic"
+    },
+    {
+      "name": "Tommy Hanson",
+      "party": "Republican"
+    }
+  ]
+}

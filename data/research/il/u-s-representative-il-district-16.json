@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "IL District 16",
+  "division": "il/cd-16",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Darin LaHood",
+      "party": "Republican"
+    },
+    {
+      "name": "Paul Nolley",
+      "party": "Democratic"
+    }
+  ]
+}

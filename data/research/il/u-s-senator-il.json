@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Senator",
+  "district": "IL",
+  "division": "il/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Juliana Stratton",
+      "party": "Democratic"
+    },
+    {
+      "name": "Don Tracy",
+      "party": "Republican"
+    }
+  ]
+}
