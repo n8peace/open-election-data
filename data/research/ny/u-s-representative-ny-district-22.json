@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 22",
+  "division": "ny/cd-22",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "John W. Mannion",
+      "party": "Democratic"
+    },
+    {
+      "name": "Kailee Buller",
+      "party": "Republican"
+    }
+  ]
+}

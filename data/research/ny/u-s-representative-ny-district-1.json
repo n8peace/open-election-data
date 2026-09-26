@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 1",
+  "division": "ny/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Christopher J. Gallant",
+      "party": "Democratic"
+    },
+    {
+      "name": "Nicholas J. Lalota",
+      "party": "Republican"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 2",
+  "division": "ny/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Patrick Halpin",
+      "party": "Democratic"
+    },
+    {
+      "name": "Andrew R. Garbarino",
+      "party": "Republican"
+    }
+  ]
+}

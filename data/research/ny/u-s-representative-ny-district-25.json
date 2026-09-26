@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 25",
+  "division": "ny/cd-25",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Joseph D. Morelle",
+      "party": "Democratic"
+    },
+    {
+      "name": "Virginia E. McIntyre",
+      "party": "Republican"
+    }
+  ]
+}

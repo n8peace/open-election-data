@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 5",
+  "division": "ny/cd-5",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Gregory W. Meeks",
+      "party": "Democratic"
+    },
+    {
+      "name": "George Marsh",
+      "party": "Republican"
+    }
+  ]
+}

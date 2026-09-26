@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 20",
+  "division": "ny/cd-20",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Paul D. Tonko",
+      "party": "Democratic"
+    },
+    {
+      "name": "Ralph F. Ambrosio",
+      "party": "Republican"
+    }
+  ]
+}

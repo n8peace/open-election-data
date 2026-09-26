@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 3",
+  "division": "ny/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Thomas R. Suozzi",
+      "party": "Democratic"
+    },
+    {
+      "name": "Michael J. LiPetri Jr",
+      "party": "Republican"
+    }
+  ]
+}

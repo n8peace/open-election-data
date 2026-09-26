@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 21",
+  "division": "ny/cd-21",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Blake Gendebien",
+      "party": "Democratic"
+    },
+    {
+      "name": "Anthony Constantino",
+      "party": "Republican"
+    }
+  ]
+}
