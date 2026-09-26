@@ -1,0 +1,20 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 13",
+  "division": "fl/cd-13",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Tony D'Arrigo",
+      "party": "NPA"
+    },
+    {
+      "name": "Leela Gray",
+      "party": "DEM"
+    },
+    {
+      "name": "Anna Paulina Luna",
+      "party": "REP"
+    }
+  ]
+}

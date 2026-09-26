@@ -1,0 +1,144 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 2",
+  "division": "fl/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Amanda Marie Green",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Green proposes removing the cap on Social Security contributions so higher earners pay more into the program.",
+          "quote": "Amanda will work to shore up Social Security by removing the cap on contributions so that everyone pays their fair share into the program.",
+          "sourceUrl": "https://www.amgforcongress.com/top-priorities",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Green supports workers' right to organize and sides with union members in labor disputes.",
+          "quote": "She will always stand up for working families and their right to organize, standing with union members against corporate interests.",
+          "sourceUrl": "https://www.amgforcongress.com/top-priorities",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Green opposes tariffs, describing them as taxes that raise families' living costs.",
+          "quote": "In Congress, Amanda will fight to lower the cost of basic living expenses by taking on corporate price-gouging, fighting illegal tariff taxes, expanding access to affordable housing and healthcare, and investing in cheaper energy options.",
+          "sourceUrl": "https://www.amgforcongress.com/top-priorities",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Green would preserve Social Security by raising contributions from higher earners and would expand Medicare.",
+          "quote": "Amanda will work to shore up Social Security by removing the cap on contributions so that everyone pays their fair share into the program. She will work to expand Medicare, and as the daughter and granddaughter of military veterans, defend the benefits our veterans earned through their service.",
+          "sourceUrl": "https://www.amgforcongress.com/top-priorities",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Green pledges stronger federal investment in public schools, educators, Head Start, and early-childhood education.",
+          "quote": "Amanda will fight for strong federal investments in public schools, teachers, and education professionals, including expanding access to Head Start and early childhood education along with investing in workforce and technical training programs.",
+          "sourceUrl": "https://www.amgforcongress.com/top-priorities",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Green says women's fundamental freedoms include making their own health-care decisions.",
+          "quote": "protecting the fundamental freedoms that women deserve, including the freedom to make their own health care decisions.",
+          "sourceUrl": "https://floridapolitics.com/archives/802680-a-doyenne-of-democratic-womens-politics-lines-up-behind-amanda-marie-green-in-cd-2/",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Green pledges to protect and strengthen Medicare and Medicaid while expanding affordable health-care access.",
+          "quote": "Amanda will fight to expand access to affordable healthcare that provides a basic standard of care to ALL Americans, protect and strengthen Medicare and Medicaid, reverse cuts that gutted rural healthcare, and use a seat on the House Agriculture Committee to bring rural development resources home to improve access to medical services across North Florida.",
+          "sourceUrl": "https://www.amgforcongress.com/top-priorities",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Green supports federal voting-rights protections, vote-by-mail, early voting, and making Election Day a federal holiday.",
+          "quote": "Amanda will fight to restore and strengthen federal voting-rights protections, protect access to vote-by-mail and early voting, support making Election Day a federal holiday, and oppose partisan and racial gerrymandering that allows politicians to choose their voters instead of voters choosing their representatives.",
+          "sourceUrl": "https://www.amgforcongress.com/top-priorities",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Austin Rogers",
+      "party": "REP",
+      "stances": {
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "Rogers blamed globalized trade policies for lost manufacturing jobs and said trade policy should prioritize American workers and manufacturers.",
+          "quote": "For 30 years, the American worker has paid the price of policies of failed globalism. Manufacturing jobs were shipped overseas and working families were left behind.",
+          "sourceUrl": "https://rogersforflorida.com/issues/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Rogers pledged to codify strong border-security policies so future administrations could not reverse them.",
+          "quote": "In Congress, Austin will work alongside President Trump and Republican leaders to codify strong border security policies into law so that our border remains secure — and that no future administration can undo these protections that keep our nation safe.",
+          "sourceUrl": "https://rogersforflorida.com/issues/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Rogers pledged to oppose gun-control measures and protect the rights of lawful gun owners.",
+          "quote": "Austin will stand firmly against any radical gun control agenda pursued by the Radical Left and work to protect the rights of law-abiding gun owners.",
+          "sourceUrl": "https://rogersforflorida.com/issues/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Rogers described himself as pro-life from conception and pledged to support policies protecting unborn life.",
+          "quote": "Austin believes that life is sacred and is 100% pro life from conception. He will always stand for the sanctity of life and support pro life policies that protect the unborn.",
+          "sourceUrl": "https://rogersforflorida.com/issues/",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Rogers said biological males should not participate in women's sports.",
+          "quote": "Austin believes that biological men have no business participating in women’s sports.",
+          "sourceUrl": "https://rogersforflorida.com/issues/",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "amgforcongress.com · floridapolitics.com · rogersforflorida.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

@@ -1,0 +1,20 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 21",
+  "division": "fl/cd-21",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Alexander Cooke",
+      "party": "NPA"
+    },
+    {
+      "name": "James T. Martin",
+      "party": "DEM"
+    },
+    {
+      "name": "Brian Mast",
+      "party": "REP"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 18",
+  "division": "fl/cd-18",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Scott Franklin",
+      "party": "REP"
+    },
+    {
+      "name": "Curtis Gibson",
+      "party": "DEM"
+    },
+    {
+      "name": "Deva Simmons",
+      "party": "NPA"
+    }
+  ]
+}

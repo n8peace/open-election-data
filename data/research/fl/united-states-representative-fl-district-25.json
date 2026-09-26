@@ -1,0 +1,20 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 25",
+  "division": "fl/cd-25",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Peter Jassenoff",
+      "party": "LPF"
+    },
+    {
+      "name": "Jared Moskowitz",
+      "party": "DEM"
+    },
+    {
+      "name": "Scott Singer",
+      "party": "REP"
+    }
+  ]
+}

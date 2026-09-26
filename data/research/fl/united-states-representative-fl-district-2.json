@@ -1,0 +1,16 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 2",
+  "division": "fl/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Amanda Marie Green",
+      "party": "DEM"
+    },
+    {
+      "name": "Austin Rogers",
+      "party": "REP"
+    }
+  ]
+}

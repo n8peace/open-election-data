@@ -1,0 +1,20 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 19",
+  "division": "fl/cd-19",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Victor Arias",
+      "party": "DEM"
+    },
+    {
+      "name": "Seth Haskin",
+      "party": "NPA"
+    },
+    {
+      "name": "Jim Schwartzel",
+      "party": "REP"
+    }
+  ]
+}

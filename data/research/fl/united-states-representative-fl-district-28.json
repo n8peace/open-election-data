@@ -1,0 +1,20 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 28",
+  "division": "fl/cd-28",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Phil \"Felipe\" Ehr",
+      "party": "DEM"
+    },
+    {
+      "name": "Carlos A. Gimenez",
+      "party": "REP"
+    },
+    {
+      "name": "Eddy Rojas",
+      "party": "NPA"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 11",
+  "division": "fl/cd-11",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Ralph Groves",
+      "party": "LPF"
+    },
+    {
+      "name": "James Pericola",
+      "party": "DEM"
+    },
+    {
+      "name": "Joe Strada",
+      "party": "REP"
+    }
+  ]
+}

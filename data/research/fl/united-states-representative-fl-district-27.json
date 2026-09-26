@@ -1,0 +1,16 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 27",
+  "division": "fl/cd-27",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Eliott Rodriguez",
+      "party": "DEM"
+    },
+    {
+      "name": "Maria Elvira Salazar",
+      "party": "REP"
+    }
+  ]
+}

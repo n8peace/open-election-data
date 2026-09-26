@@ -1,0 +1,20 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 26",
+  "division": "fl/cd-26",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Mario Diaz-Balart",
+      "party": "REP"
+    },
+    {
+      "name": "Nicole Locklin",
+      "party": "DEM"
+    },
+    {
+      "name": "Deborah Ann Meidinger Hosey",
+      "party": "NPA"
+    }
+  ]
+}

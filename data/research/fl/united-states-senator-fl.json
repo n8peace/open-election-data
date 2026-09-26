@@ -1,0 +1,20 @@
+{
+  "office": "United States Senator",
+  "district": "FL",
+  "division": "fl/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Neil J. Gillespie",
+      "party": "NPA"
+    },
+    {
+      "name": "Ashley Moody",
+      "party": "REP"
+    },
+    {
+      "name": "Angie Nixon",
+      "party": "DEM"
+    }
+  ]
+}

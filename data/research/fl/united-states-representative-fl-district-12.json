@@ -1,0 +1,20 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 12",
+  "division": "fl/cd-12",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Gus Michael Bilirakis",
+      "party": "REP"
+    },
+    {
+      "name": "Kimberly Overman",
+      "party": "DEM"
+    },
+    {
+      "name": "Branden Scrivener",
+      "party": "NPA"
+    }
+  ]
+}

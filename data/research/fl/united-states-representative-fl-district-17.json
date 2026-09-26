@@ -1,0 +1,20 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 17",
+  "division": "fl/cd-17",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Matthew Montavon",
+      "party": "DEM"
+    },
+    {
+      "name": "Michael J. Quirk",
+      "party": "NPA"
+    },
+    {
+      "name": "Greg Steube",
+      "party": "REP"
+    }
+  ]
+}

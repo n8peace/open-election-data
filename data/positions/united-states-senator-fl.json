@@ -1,0 +1,190 @@
+{
+  "office": "United States Senator",
+  "district": "FL",
+  "division": "fl/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Neil J. Gillespie",
+      "party": "NPA",
+      "stances": {
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "Gillespie said he would support the Second Amendment in the Senate while also expressing concern about gun violence.",
+          "quote": "As a United States Senator I will support the Second Amendment. That said, I am concerned with gun violence in our Great County.",
+          "sourceUrl": "https://www.scribd.com/document/1071614410/Neil-Gillespie-Supports-the-Second-Amendment",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Gillespie proposes national health coverage that allows people to opt out.",
+          "quote": "I propose national health coverage, with the ability to opt-out.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020323",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Ashley Moody",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Moody supported tax exemptions for Social Security income, tips, and overtime and said she would continue pursuing tax cuts.",
+          "quote": "That is why I supported no tax on Social Security, no tax on tips, and no tax on overtime.",
+          "sourceUrl": "https://www.moody.senate.gov/press-releases/video-senator-moody-celebrates-no-tax-on-social-security-tips-and-overtime-ahead-of-anniversary-of-largest-tax-cut-in-u-s-history/",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "Moody voted against a Senate resolution that would have terminated the national emergency used to impose global tariffs.",
+          "quote": "A joint resolution terminating the national emergency declared to impose global tariffs.",
+          "sourceUrl": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00600.htm",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Moody supported the Educational Choice for Children Act and promoted expanding educational choice nationwide.",
+          "quote": "As a proud supporter of The Educational Choice for Children Act, which is now law, we are empowering parents by supporting educational freedom across the country.",
+          "sourceUrl": "https://www.moody.senate.gov/press-releases/video-release-as-co-chair-of-national-school-choice-week-senator-moody-promotes-educational-freedom-in-america-touts-success-in-floridas-model/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Moody advanced a package of pro-law-enforcement bills and called for more training, tools, staffing, and resources for officers.",
+          "quote": "I will continue fighting for comprehensive legislation that provides training and tools, supports officers’ mental health, delivers resources needed for them to do their job and keeps our communities safe.",
+          "sourceUrl": "https://www.moody.senate.gov/press-releases/during-ashley-moodys-first-police-week-as-a-u-s-senator-judiciary-committee-passes-largest-pro-law-enforcement-package-in-15-years/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Moody introduced legislation requiring removal proceedings to conclude within 15 days for immigrants who have been ordered removed.",
+          "quote": "This legislation is critical to build upon those early successes and allow for the prompt removal of aliens who have already been ordered removed.",
+          "sourceUrl": "https://www.moody.senate.gov/press-releases/senators-ashley-moody-marsha-blackburn-and-colleagues-introduce-bill-backed-by-white-house-to-expedite-removal-of-illegal-aliens-from-united-states/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Moody cosponsored legislation recognizing concealed-carry privileges across state lines and described existing barriers as arbitrary.",
+          "quote": "This commonsense legislation will cut down arbitrary barriers and uphold Americans’ rights to keep and bear arms.",
+          "sourceUrl": "https://www.moody.senate.gov/press-releases/news-release-senator-moody-fights-for-americans-second-amendment-rights-cosponsors-concealed-carry-reciprocity-bill/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Moody introduced legislation imposing federal penalties for transporting a minor across state lines to evade parental-consent or notification requirements for an abortion.",
+          "quote": "This legislation would make it a federal offense to knowingly transport a minor across state lines without complying with parental consent and notification laws.",
+          "sourceUrl": "https://www.moody.senate.gov/press-releases/news-release-senator-moody-introduces-child-interstate-abortion-notification-act-to-empower-parents-and-strengthen-accountability/",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Moody cosponsored legislation defining sex under Title IX as biological sex and barring athletes assigned male at birth from women’s school sports.",
+          "quote": "Male athletes have no business competing in women’s sports, and it’s mindboggling that in 2026 we must pass legislation to protect meaningful opportunity for girls to compete.",
+          "sourceUrl": "https://www.moody.senate.gov/press-releases/senator-moody-teams-up-with-female-athletes-in-nationwide-call-to-protect-womens-sports/",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Moody supported rolling back federal emissions and refrigerant rules that she said increased costs and harmed businesses and jobs.",
+          "quote": "For years—as both Florida’s Attorney General and now as U.S. Senator—I have fought back against these harmful, ultra-progressive policies that drive up costs, hurt businesses, and undermine economic growth.",
+          "sourceUrl": "https://www.moody.senate.gov/press-releases/video-release-senator-moody-joins-president-trump-and-epa-administrator-zeldin-to-roll-back-harmful-biden-era-energy-restrictions/",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Moody urged passage of the SAVE America Act to require identification for voting.",
+          "quote": "And I rise to say that we have to pass, without delay, the Save America Act. This would require ID to vote.",
+          "sourceUrl": "https://www.moody.senate.gov/press-releases/video-release-senator-moody-works-to-secure-elections-with-save-america-act/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Angie Nixon",
+      "party": "DEM",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supports the PRO Act, stronger unions, and an inflation-indexed federal living wage.",
+          "quote": "Raising the federal minimum wage to a real living wage, indexed to inflation, for every worker, including immigrant and incarcerated workers.",
+          "sourceUrl": "https://angienixon.com/priorities/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports fully funding public K-12 schools and increasing teacher pay.",
+          "quote": "Fully funding public K-12 schools and increased teacher wages",
+          "sourceUrl": "https://angienixon.com/priorities/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "She supports demilitarizing policing and shifting investment toward community safety, violence prevention, and crisis response.",
+          "quote": "Demilitarizing policing and investing in community-based public safety, violence prevention and crisis response",
+          "sourceUrl": "https://angienixon.com/priorities/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "She offered an amendment requiring firearm training before purchasing a firearm or carrying one in public.",
+          "quote": "Must complete firearm training to purchase a firearm or carry a firearm in public.",
+          "sourceUrl": "https://www.flsenate.gov/Session/Bill/2023/543/Amendment/423327/PDF",
+          "agreement": "3/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "She opposes excluding transgender girls and women from girls’ and women’s sports and pledges to defend transgender people’s equal participation.",
+          "quote": "To trans kids, their parents, and to trans folks everywhere: I see you, I support you, and I will never stop fighting for your right to exist freely, openly and equally.",
+          "sourceUrl": "https://angienixon.com/u-s-senate-candidate-angie-nixon-responds-to-scotus-ruling-allowing-states-to-bar-transgender-girls-from-girls-sports/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports Medicare for All without premiums, deductibles, copays, or surprise bills.",
+          "quote": "Medicare for All that covers every person in America — free at the point of service, with no premiums, no deductibles, no copays, and no surprise bills.",
+          "sourceUrl": "https://angienixon.com/priorities/",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "scribd.com · onyourballot.vote411.org · moody.senate.gov · senate.gov · angienixon.com · flsenate.gov",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

@@ -1,0 +1,20 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 3",
+  "division": "fl/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Kat Cammack",
+      "party": "REP"
+    },
+    {
+      "name": "Seth Harp",
+      "party": "DEM"
+    },
+    {
+      "name": "Mike Klein",
+      "party": "NPA"
+    }
+  ]
+}

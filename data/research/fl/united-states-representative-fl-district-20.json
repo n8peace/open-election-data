@@ -1,0 +1,20 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 20",
+  "division": "fl/cd-20",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Brent Andersen",
+      "party": "REP"
+    },
+    {
+      "name": "Kedner Maxime",
+      "party": "IND"
+    },
+    {
+      "name": "Debbie Wasserman Schultz",
+      "party": "DEM"
+    }
+  ]
+}

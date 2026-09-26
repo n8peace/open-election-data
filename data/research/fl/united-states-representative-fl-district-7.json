@@ -1,0 +1,20 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 7",
+  "division": "fl/cd-7",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Bale Dalton",
+      "party": "DEM"
+    },
+    {
+      "name": "Christopher Dennison",
+      "party": "LPF"
+    },
+    {
+      "name": "Ryan Elijah",
+      "party": "REP"
+    }
+  ]
+}

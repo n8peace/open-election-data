@@ -1,0 +1,20 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 16",
+  "division": "fl/cd-16",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Mark Davis",
+      "party": "NPA"
+    },
+    {
+      "name": "Sydney Gruters",
+      "party": "REP"
+    },
+    {
+      "name": "Kelly Kirschner",
+      "party": "DEM"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 9",
+  "division": "fl/cd-9",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Dan Green",
+      "party": "REP"
+    },
+    {
+      "name": "Darren Soto",
+      "party": "DEM"
+    }
+  ]
+}

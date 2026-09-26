@@ -1,0 +1,135 @@
+{
+  "office": "State Senate",
+  "district": "CA District 6",
+  "division": "ca/sldu-6",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Sean Frame",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Frame says wages should track local living costs and represents education workers in union bargaining.",
+          "quote": "Sean wants homes built where people work, so the teacher in your child's classroom is not driving two hours each way to get there, and wages that track what it actually costs to live here.",
+          "sourceUrl": "https://www.seanframe.com/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Frame calls for constructing affordable housing at scale and preventing additional homelessness.",
+          "quote": "We must construct affordable housing at scale, and prevent more people from falling into homelessness.",
+          "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/06022026/CSQ/06022026_SD6.pdf",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Frame proposes redirecting district spending from high administrator salaries into classrooms and additional aides.",
+          "quote": "Bring the floor up, bring the ceiling down, and the difference lands in the classroom. A school can hire more aides when the principal is not making $300,000.",
+          "sourceUrl": "https://www.seanframe.com/",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Frame pledges to pursue a California single-payer health-care system.",
+          "quote": "I will work to pass single payer healthcare in California because it costs less and will provide more.",
+          "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/06022026/CSQ/06022026_SD6.pdf",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Frame calls for rapidly building solar and energy-storage capacity with union labor rather than delaying climate action.",
+          "quote": "Solar and storage are the least expensive power California can build, we can build it at scale, and China is doing exactly that while we argue about it. Every year we wait, is costing US money and handing the next economy to somebody else.",
+          "sourceUrl": "https://www.seanframe.com/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Roger Niello",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Niello criticized California's 2026 budget for creating multiple new taxes and increasing costs for consumers.",
+          "quote": "This so-called budget is frankly delusional, borrowing from the future, and creates multiple new taxes.",
+          "sourceUrl": "https://sr06.senate.ca.gov/content/senate-budget-vice-chair-roger-niello-reacts-governor-newsoms-fake-balanced-budget",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Niello introduced SB 1259 to accelerate judicial review and limit injunctions and settlements affecting major housing and other projects.",
+          "quote": "The timeline for challenges and appellate review will be limited to 365 days for all major commercial, housing, and public works projects over $25 million dollars where it can be shown that these projects will help address longstanding critical needs in the project areas.",
+          "sourceUrl": "https://sr06.senate.ca.gov/bill/sb-1259-california-environmental-quality-act-judicial-review",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Niello opposed AB 84 and publicly supported preserving charter-school and flexible-learning options for families.",
+          "quote": "School choice is an important issue for me and our community.",
+          "sourceUrl": "https://sr06.senate.ca.gov/sites/sr06.senate.ca.gov/files/CHM_2007-25-2025.pdf",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Niello said traffic violations should be addressed with more street enforcement and severe consequences rather than vehicle speed-limiting technology.",
+          "quote": "The solution is more law enforcement on our streets with severe consequences to those who show complete disregard for traffic laws.",
+          "sourceUrl": "https://sr06.senate.ca.gov/content/senator-niello-newsletter-january-2024",
+          "agreement": "5/5"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "Niello introduced SB 316 to increase penalties for repeat theft offenders and called for laws imposing stronger consequences.",
+          "quote": "Until we strengthen laws that will result in lawbreakers facing real consequences, Californians are going to continue to see horrible scenes of store lootings occur",
+          "sourceUrl": "https://sr06.senate.ca.gov/content/crimeafornia-governor-sends-more-resources-combat-self-made-crisis",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Niello voted against SB 770, which directed the state to pursue a unified health-care financing framework potentially including a single-payer system.",
+          "quote": "NOES: Alvarado-Gil, Dahle, Grove, Jones, Nguyen, Niello, Ochoa Bogh, Seyarto, Wilk",
+          "sourceUrl": "https://sfa.senate.ca.gov/sites/sfa.senate.ca.gov/files/packet/trp_091423_0.pdf",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Niello argued that California should emphasize climate adaptation because its emissions policies impose substantial fuel, utility, and public costs with little global effect.",
+          "quote": "For all the resources we dedicate to reducing greenhouse gas emissions—higher fuel prices, rising utility bills, and billions in state spending—the actual effect on global climate change is negligible",
+          "sourceUrl": "https://sr06.senate.ca.gov/content/budget-spotlight-05022025",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "seanframe.com · placercountyelections.gov · sr06.senate.ca.gov · sfa.senate.ca.gov",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

@@ -1,0 +1,16 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 22",
+  "division": "fl/cd-22",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Casey Askar",
+      "party": "REP"
+    },
+    {
+      "name": "Pia Dandiya",
+      "party": "DEM"
+    }
+  ]
+}

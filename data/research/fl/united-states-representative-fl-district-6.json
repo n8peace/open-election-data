@@ -1,0 +1,24 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 6",
+  "division": "fl/cd-6",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Randy Fine",
+      "party": "REP"
+    },
+    {
+      "name": "Michael Gist",
+      "party": "NPA"
+    },
+    {
+      "name": "Andrew Parrott",
+      "party": "LPF"
+    },
+    {
+      "name": "Eric Yonce",
+      "party": "DEM"
+    }
+  ]
+}

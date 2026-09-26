@@ -1,0 +1,16 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 5",
+  "division": "fl/cd-5",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Rachel Grage",
+      "party": "DEM"
+    },
+    {
+      "name": "John H. Rutherford",
+      "party": "REP"
+    }
+  ]
+}

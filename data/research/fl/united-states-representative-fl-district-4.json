@@ -1,0 +1,24 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 4",
+  "division": "fl/cd-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Aaron Bean",
+      "party": "REP"
+    },
+    {
+      "name": "LaShonda \"L.J.\" Holloway",
+      "party": "DEM"
+    },
+    {
+      "name": "Todd Schaefer",
+      "party": "NPA"
+    },
+    {
+      "name": "Mike Sell",
+      "party": "FFP"
+    }
+  ]
+}

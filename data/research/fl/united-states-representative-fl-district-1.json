@@ -1,0 +1,20 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 1",
+  "division": "fl/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Tyler L. Davis",
+      "party": "NPA"
+    },
+    {
+      "name": "Jimmy Patronis",
+      "party": "REP"
+    },
+    {
+      "name": "Gay Valimont",
+      "party": "DEM"
+    }
+  ]
+}

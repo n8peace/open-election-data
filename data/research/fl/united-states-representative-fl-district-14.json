@@ -1,0 +1,20 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 14",
+  "division": "fl/cd-14",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Mike Beltran",
+      "party": "REP"
+    },
+    {
+      "name": "Kathy Castor",
+      "party": "DEM"
+    },
+    {
+      "name": "Brian Lambert",
+      "party": "LPF"
+    }
+  ]
+}

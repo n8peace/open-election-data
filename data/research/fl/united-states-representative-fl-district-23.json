@@ -1,0 +1,16 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 23",
+  "division": "fl/cd-23",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Deborah Adeimy",
+      "party": "REP"
+    },
+    {
+      "name": "Lois Frankel",
+      "party": "DEM"
+    }
+  ]
+}

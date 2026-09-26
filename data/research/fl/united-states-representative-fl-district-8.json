@@ -1,0 +1,16 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 8",
+  "division": "fl/cd-8",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Mike Haridopolos",
+      "party": "REP"
+    },
+    {
+      "name": "Jennifer Jenkins",
+      "party": "DEM"
+    }
+  ]
+}
