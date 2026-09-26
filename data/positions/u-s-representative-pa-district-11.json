@@ -1,0 +1,168 @@
+{
+  "office": "U.S. Representative",
+  "district": "PA District 11",
+  "division": "pa/cd-11",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Lloyd Smucker",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "As a Ways and Means Committee member, Smucker champions cutting taxes and extended the 2017 tax cuts through the reconciliation bill.",
+          "quote": "As a member of the Ways and Means Committee, Rep. Smucker is committed to advancing pro-growth tax policies that will strengthen the American economy and provide additional opportunities for hardworking Americans.",
+          "sourceUrl": "https://smucker.house.gov/issues/tax-reform",
+          "agreement": "9/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "Smucker voted against the PRO Act, objecting that it would repeal right-to-work laws and compel union contributions.",
+          "quote": "What's worse, this bill repeals every right-to work law in the nation, forcing millions of Americans to contribute to a union they do not want or need.",
+          "sourceUrl": "https://smucker.house.gov/media/press-releases/smucker-votes-against-pro-act-radical-union-boss-wish-list",
+          "agreement": "3/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Smucker has pushed to reduce the national debt and deficit, warning that debt-servicing costs are consuming national resources.",
+          "quote": "The cost of servicing our debt is already consuming resources that could be used to grow our economy, strengthen our national security, and improve Americans' lives.",
+          "sourceUrl": "https://smucker.house.gov/issues/budget",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Smucker backed a budget resolution he framed as funding police and border enforcement to protect communities.",
+          "quote": "Republicans have consistently voted to support our troops, fund border patrol, and pay our law enforcement officers who put their lives on the line every single day to protect our communities.",
+          "sourceUrl": "https://smucker.house.gov/media/press-releases/smucker-supports-budget-resolution",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Smucker has voted for stronger border security and enforcement of immigration laws.",
+          "quote": "I voted to pay our troops, reduce government spending, secure our border, and create a bipartisan fiscal commission which I believe is a critical step to addressing America's $33 trillion in debt.",
+          "sourceUrl": "https://smucker.house.gov/issues/immigration",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Smucker opposed federal gun-control legislation, citing concern it would infringe on law-abiding gun owners' rights.",
+          "quote": "I opposed the legislation because I have deep concerns it would infringe upon the constitutional rights of hundreds of thousands of law-abiding gun owners in Pennsylvania's 11th Congressional District.",
+          "sourceUrl": "https://smucker.house.gov/media/press-releases/rep-smucker-statement-senate-gun-control-legislation",
+          "agreement": "5/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Smucker describes himself as pro-life and says he has consistently voted for anti-abortion legislation.",
+          "quote": "Congressman Smucker believes that all life is sacred and has always voted for pro-life legislation.",
+          "sourceUrl": "https://smucker.house.gov/issues/values",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Smucker voted for the Protection of Women and Girls in Sports Act and said transgender women should not compete in women's sports.",
+          "quote": "I don't think biological men should compete in women's sports",
+          "sourceUrl": "https://lancasteronline.com/news/politics/lloyd-smucker-votes-to-ban-trans-athletes-from-female-sports-bill-s-future-in-senate/article_0a79fb5c-d38c-11ef-bdb3-03f3cc70b4a5.html",
+          "agreement": "6/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "Smucker says marijuana should go through FDA approval rather than be broadly legalized, and opposed federal legalization bills.",
+          "quote": "Marijuana should be treated like other drugs that receive market approval through the FDA.",
+          "sourceUrl": "https://smucker.house.gov/media/press-releases/smucker-cosponsors-medical-marijuana-research-act",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Smucker supports repealing the Affordable Care Act and returning health-care regulation to the states.",
+          "quote": "The bill repeals the Affordable Care Act and returns regulatory power to the states—where it belongs—so that governors can run state-specific programs instead of a top-down, one-size-fits-all approach.",
+          "sourceUrl": "https://smucker.house.gov/issues/health",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Smucker promotes expanded natural gas production, citing its economic and national-security importance.",
+          "quote": "The letter emphasizes the importance of natural gas to our nation's economy and national security, as well as highlights the environmental benefits of the clean energy source.",
+          "sourceUrl": "https://smucker.house.gov/issues/energy",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Smucker voted for the SAVE America Act, which would require proof of citizenship and a valid ID to vote.",
+          "quote": "The SAVE America Act requires voters to provide proof of citizenship and present a valid ID to cast their ballot.",
+          "sourceUrl": "https://smucker.house.gov/media/press-releases/smucker-votes-pass-save-america-act",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Nancy Mannion",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Mannion says making everyone pay a fair share of taxes will fund schools, communities, and quality of life.",
+          "quote": "Ensuring everyone pays their fair share of taxes will benefit our schools, communities, and quality of life.",
+          "sourceUrl": "https://www.nancymannion.com/Platform/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Mannion lists fighting for strong public education among her campaign priorities.",
+          "quote": "Nancy is deeply concerned about the welfare of her community and will fight for affordable healthcare, strong public education, workforce development and to protect voting rights, as well as other issues.",
+          "sourceUrl": "https://www.nancymannion.com/",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Mannion backs affordable healthcare for all, including children, and lower prescription costs.",
+          "quote": "Nancy will work to make sure you can get healthcare that doesn't come with huge medical bills or sky-high prescription costs.",
+          "sourceUrl": "https://www.nancymannion.com/Priorities/",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Mannion says she will fight to protect voting rights.",
+          "quote": "Nancy is deeply concerned about the welfare of her community and will fight for affordable healthcare, strong public education, workforce development and to protect voting rights, as well as other issues.",
+          "sourceUrl": "https://www.nancymannion.com/",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "smucker.house.gov · lancasteronline.com · nancymannion.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

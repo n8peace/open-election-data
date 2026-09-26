@@ -1,0 +1,160 @@
+{
+  "office": "U.S. Representative",
+  "district": "PA District 4",
+  "division": "pa/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Madeleine Dean",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Dean opposes large tax cuts for the wealthy and backs public investment in services like education and health care.",
+          "quote": "She opposes massive tax cuts for the wealthy –– especially when they come at the expense of the American people.",
+          "sourceUrl": "https://mad4pa.com/issues/economy/",
+          "agreement": "6/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Dean, a co-sponsor of the Raise the Wage Act, says the federal minimum wage should rise from $7.25.",
+          "quote": "I have long believed that the $7.25 minimum wage is inadequate",
+          "sourceUrl": "https://citizenportal.ai/articles/7545632/Pennsylvania/School-Districts/Jenkintown-SD/Dean-tells-Jenkintown-audience-she-backs-a-path-to-15-minimum-wage-and-targeted-help-for-small-businesses",
+          "agreement": "7/10"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Dean supports fair, targeted tariffs against bad actors like China but warns that broad, erratic tariffs act as a tax on families and risk a harmful trade war.",
+          "quote": "We need to craft our tariffs and trade regulations so that first and foremost they are fair to American businesses and workers.",
+          "sourceUrl": "https://mad4pa.com/issues/trade-and-tariffs/",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Dean says she works to protect and expand Medicare and Social Security.",
+          "quote": "She backs ACA expansion, permanent premium subsidies, protection for pre-existing conditions, lower prescription drug costs, and efforts to protect and expand Medicare and Social Security.",
+          "sourceUrl": "https://www.cityandstatepa.com/prediction-markets/candidates/madeleine-dean",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Dean's education platform focuses on affordable public education for all with no support for vouchers or school choice.",
+          "quote": "Rep. Dean supports high-quality, equitable, affordable education for all.",
+          "sourceUrl": "https://dean.house.gov/education",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "Dean backs police accountability measures and alternatives to incarceration such as drug and veterans courts.",
+          "quote": "mandates reporting of police use of force, prohibits racial and religious profiling, bans chokeholds, and mandates use of police body cameras",
+          "sourceUrl": "https://mad4pa.com/issues/racial-equity/",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Dean supports a strong legal immigration system and humane treatment of those seeking citizenship.",
+          "quote": "Madeleine supports a strong legal immigration system and humane treatment for anyone seeking citizenship.",
+          "sourceUrl": "https://mad4pa.com/issues/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Dean calls gun violence a public health crisis and has championed universal background checks and related restrictions.",
+          "quote": "Gun violence rates in America are hundreds of times higher than in other industrialized countries",
+          "sourceUrl": "https://dean.house.gov/gun-violence-prevention",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Dean calls reproductive health a fundamental right and vows to protect against attacks on Roe v. Wade.",
+          "quote": "She believes safe, accessible, quality reproductive health is a fundamental right and need of our communities.",
+          "sourceUrl": "https://mad4pa.com/issues/womens-issues/",
+          "agreement": "9/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Dean says it is past time to legalize marijuana and expunge past nonviolent marijuana convictions.",
+          "quote": "It's past time to legalize marijuana, release those behind bars for nonviolent marijuana convictions, and expunge past marijuana convictions.",
+          "sourceUrl": "https://vote.norml.org/politicians/136484",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Dean defends the Affordable Care Act and Medicaid expansion and supports universal, affordable health care.",
+          "quote": "The Affordable Care Act (ACA) and Medicaid expansion have meant health coverage for tens of millions of Americans",
+          "sourceUrl": "https://dean.house.gov/health",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Dean backs investments in renewable energy and rejoining global climate agreements to cut greenhouse gas emissions.",
+          "quote": "Rep. Dean supports legislation to boost America's investments in renewable energy, fund green infrastructure, and reengage in global agreements to combat climate change.",
+          "sourceUrl": "https://dean.house.gov/environment",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Dean cosponsored the For the People Act to expand voting opportunities and opposes state voter-suppression efforts.",
+          "quote": "H.R. 1 would expand opportunities for voting, tamp down on dark money, fight back against gerrymandering, and tighten ethics rules for government employees.",
+          "sourceUrl": "https://dean.house.gov/ethics-and-good-government",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Aurora Stuski",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Stuski campaigns on limited government and reducing the tax burden on homeowners, pledging to fight inflationary spending and help families get ahead.",
+          "quote": "Fight inflationary spending, support small businesses, and make it easier for families to get ahead.",
+          "sourceUrl": "https://aurora4pa.com/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Stuski says she will support police and prosecute violent crime to protect neighborhoods and schools.",
+          "quote": "Back law enforcement, prosecute violent crime, and protect neighborhoods and our local schools.",
+          "sourceUrl": "https://aurora4pa.com/",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "mad4pa.com · citizenportal.ai · cityandstatepa.com · dean.house.gov · vote.norml.org · aurora4pa.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
