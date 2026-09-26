@@ -1,0 +1,106 @@
+{
+  "office": "U.S. Representative",
+  "district": "IL District 11",
+  "division": "il/cd-11",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Bill Foster",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Foster opposed the Republican tax plan, objecting to tax cuts for corporations and the wealthy while services and Medicare would be cut.",
+          "quote": "I opposed the Republican tax plan because it will raise taxes on middle class families in Illinois, slash Medicare by 25 billion dollars next year, and pass on trillions of additional debt for our children to pay – all in order to provide massive permanent tax breaks for large corporations and the very wealthy.",
+          "sourceUrl": "https://foster.house.gov/media/press-releases/foster-statement-on-passage-of-gop-tax-plan",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Foster supports raising the federal minimum wage and strengthening union rights.",
+          "quote": "I support the PRO Act, which protects the right to form a union, and the Raise the Wage Act, to raise the minimum wage.",
+          "sourceUrl": "https://patch.com/illinois/naperville/election-2024-bill-foster-u-s-congress-11th-district",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Foster voted against a Republican funding plan that he said would reduce access to Social Security and cut veterans' health care and assistance programs.",
+          "quote": "Today, I voted against Republicans' plan to reduce access to Social Security, reduce funding for veterans' health care, slash infrastructure investments, and cut nutrition and rent assistance for families who need it most.",
+          "sourceUrl": "https://foster.house.gov/media/press-releases/foster-statement-continuing-resolution-vote",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Foster supports comprehensive immigration reform including a pathway to citizenship.",
+          "quote": "Our current immigration system is broken, and I support comprehensive immigration reform to modernize it, including a strict but fair pathway to citizenship.",
+          "sourceUrl": "https://foster.house.gov/issues",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Foster co-sponsored legislation to require universal background checks for gun purchases.",
+          "quote": "I co-sponsored the Bipartisan Background Checks Act, which would establish universal background checks",
+          "sourceUrl": "https://www.shawlocal.com/news/election/2024/10/01/2024-election-questionnaire-bill-foster-us-congress-11th-district/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Foster says he will fight to defend abortion access and codify Roe's protections into law.",
+          "quote": "As long as I have a vote in Congress, I'll fight to defend women's bodily autonomy and the right for every American to access reproductive health care.",
+          "sourceUrl": "https://foster.house.gov/issues/reproductive-rights",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Foster backs letting Medicare negotiate drug prices and wants to broaden that policy.",
+          "quote": "I was also proud to support measures to allow Medicare to negotiate drug prices as part of the Inflation Reduction Act, and I will continue to support broadening the scope of this policy to include more and more drugs.",
+          "sourceUrl": "https://patch.com/illinois/naperville/election-2024-bill-foster-u-s-congress-11th-district",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Foster says climate change is real and man-made and supports policies to reduce greenhouse gas emissions.",
+          "quote": "I support sound economic policies that reduce greenhouse gas emissions and protect our environment for the next generation.",
+          "sourceUrl": "https://foster.house.gov/issues/energy-and-environment",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Foster says the federal government must stand against efforts to disenfranchise voters.",
+          "quote": "There has been an alarming increase in attempts to disenfranchise voters in states across the country, and the federal government has a duty to stand against those anti-democratic efforts.",
+          "sourceUrl": "https://foster.house.gov/issues",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "foster.house.gov · patch.com · shawlocal.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
