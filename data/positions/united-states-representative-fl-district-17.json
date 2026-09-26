@@ -1,0 +1,302 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 17",
+  "division": "fl/cd-17",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Matthew Montavon",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Montavon supports taxing more earnings and capital gains to help sustain Social Security benefits.",
+          "quote": "I support raising the tax cap on earnings and taxing all income, including capital gains.",
+          "sourceUrl": "https://www.montavonforcongress.com/platform",
+          "agreement": "3/3"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Montavon's campaign calls for raising the federal minimum wage and supporting organized labor.",
+          "quote": "Raising the federal minimum wage, closing the wage gap, and championing organized labor.",
+          "sourceUrl": "https://www.montavonforcongress.com/events-calendar/ftmyers-campaign-kickoff",
+          "agreement": "3/3"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Montavon says the United States should end Trump-era tariffs to reduce consumer prices.",
+          "quote": "We must end Trump’s tariffs and senseless war in Iran to bring down prices.",
+          "sourceUrl": "https://www.montavonforcongress.com/news/election-2026-democratic-primary",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Montavon pledges to protect Social Security and rejects raising the retirement age.",
+          "quote": "I do not and will never support raising the retirement age!",
+          "sourceUrl": "https://www.montavonforcongress.com/platform",
+          "agreement": "3/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Montavon supports increasing the housing supply and limiting corporate ownership of homes.",
+          "quote": "Actions to add housing stock and limit corporate ownership of private homes as in the recent bill is a good idea.",
+          "sourceUrl": "https://www.montavonforcongress.com/news/election-2026-democratic-primary",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Montavon says public schools should receive greater support and strengthening.",
+          "quote": "Public school education needs to be supported and strengthened.",
+          "sourceUrl": "https://www.montavonforcongress.com/platform",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Montavon supports green cards or a path to citizenship for established immigrants.",
+          "quote": "We need a humane immigration system. Give long term productive immigrants green cards or a path to citizenship.",
+          "sourceUrl": "https://www.montavonforcongress.com/news/election-2026-democratic-primary",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Montavon supports an assault-weapons ban, universal background checks, licensing, safety requirements and expanded red-flag laws.",
+          "quote": "Congress must ban civilian use of assault weapons, require universal and comprehensive background checks, support state licensing, enact gun safety laws, and enforce and expand red flag laws.",
+          "sourceUrl": "https://www.montavonforcongress.com/platform",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Montavon supports federal protection of accessible and affordable abortion and other reproductive health care.",
+          "quote": "Congress should ensure that birth control, abortion, and comprehensive reproductive health care are accessible and affordable for all women.",
+          "sourceUrl": "https://www.montavonforcongress.com/platform",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Montavon supports universal health care and limits on private insurers' profits.",
+          "quote": "We need to move to universal health care and limit private health insurance companies’ profits for a more productive and less expensive system.",
+          "sourceUrl": "https://www.montavonforcongress.com/news/election-2026-democratic-primary",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Montavon's campaign calls for urgent climate action and stronger federal environmental protections.",
+          "quote": "Strengthening federal protections for FL-17’s fragile waterways, Gulf Coast, wetlands, and natural resources, paired with urgent climate action.",
+          "sourceUrl": "https://www.montavonforcongress.com/events-calendar/ftmyers-campaign-kickoff",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Montavon supports automatic voter registration and the John Lewis Voting Rights Act.",
+          "quote": "My democracy reform plan starts with automatic voter registration and the John Lewis Voting Rights Act, which protects voters and requires transparency when states change election rules.",
+          "sourceUrl": "https://www.montavonforcongress.com/news/election-2026-democratic-primary",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Michael J. Quirk",
+      "party": "NPA",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Quirk would require the highest earners to contribute to Social Security on all their earnings to protect benefits.",
+          "quote": "Protect Social Security and Medicare: no benefit cuts and no retirement-age increases for current and near-retirees, and the highest earners pay in on every dollar they earn, the way most workers already do",
+          "sourceUrl": "https://www.michaelquirkforcongress.com/issues",
+          "agreement": "2/3"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Quirk supports restoring open trade with Canada and Mexico and opposes blanket tariffs as a cost on families.",
+          "quote": "End grocery-tax tariffs: restore open trade with Canada and Mexico; blanket tariffs are a tax families pay at the register",
+          "sourceUrl": "https://www.michaelquirkforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Quirk opposes Social Security and Medicare benefit cuts and retirement-age increases for current and near-retirees.",
+          "quote": "Protect Social Security and Medicare: no benefit cuts and no retirement-age increases for current and near-retirees, and the highest earners pay in on every dollar they earn, the way most workers already do",
+          "sourceUrl": "https://www.michaelquirkforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Quirk combines support for a secure border with support for a more predictable legal immigration process.",
+          "quote": "Secure the border, because a country that can’t control who and what crosses it isn’t a serious country. Fix legal immigration so it works on predictable timelines for people who follow the rules.",
+          "sourceUrl": "https://www.michaelquirkforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Quirk firmly supports the Second Amendment and says a gun ban would not solve school shootings.",
+          "quote": "Second Amendment: I support it. Full stop. That’s not a door slamming. Ask me about school shootings and I’ll give you a straight answer. I don’t think a ban fixes that, and reaching a struggling kid might.",
+          "sourceUrl": "https://www.michaelquirkforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Quirk says reproductive decisions belong to a woman and her doctor and that he would oppose a national abortion ban.",
+          "quote": "I won’t legislate against anyone’s reproductive choices, and I would vote against a national abortion ban.",
+          "sourceUrl": "https://www.michaelquirkforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Quirk says women's sports should be limited to biological women.",
+          "quote": "I also draw lines, and one of mine is that women’s sports should remain for biological women.",
+          "sourceUrl": "https://www.michaelquirkforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Quirk supports opening party primaries to all voters and using ranked-choice voting in general elections.",
+          "quote": "Open party primaries to all voters: you pay for the primaries; you get to vote in them.",
+          "sourceUrl": "https://www.michaelquirkforcongress.com/issues",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Greg Steube",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Steube says he supports lower taxes and making the Trump tax cuts permanent.",
+          "quote": "I am committed to conservative leadership for a stronger economy that will support working families, lower taxes, and promote investment in America. This includes making the Trump Tax Cuts permanent.",
+          "sourceUrl": "https://steube.house.gov/issues/ways-means/",
+          "agreement": "7/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "Steube introduced legislation imposing a 10% tariff on all imports and higher minimum tariffs on many Chinese goods.",
+          "quote": "The Secure Trade Act establishes a new 10% tariff on all imports, in addition to any existing tariffs.",
+          "sourceUrl": "https://steube.house.gov/press-releases/reps-steube-and-golden-introduce-secure-trade-act/",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Steube says he will protect the Social Security and Medicare benefits earned by current and near retirees.",
+          "quote": "In our oversight duties of Social Security and Medicare, I will always fight to ensure our Seniors who are retired or nearing retirement are afforded the benefits that they paid into.",
+          "sourceUrl": "https://steube.house.gov/issues/ways-means/",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Steube backed a federal grant for police technology and other law-enforcement staffing and equipment.",
+          "quote": "Funds may be used to hire law enforcement officers and support personnel and to purchase technology and equipment.",
+          "sourceUrl": "https://steube.house.gov/press-releases/rep-steube-backs-north-port-police-departments-application-for-federal-public-safety-grant/",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Steube supports completing the border wall and enforcing immigration law against unlawful crossings.",
+          "quote": "We must secure the border by completing the wall, and we must actually enforce the law so that illegal aliens are not rewarded for illegally crossing the border.",
+          "sourceUrl": "https://steube.house.gov/issues/border-immigration/",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Steube says he supports gun-rights legislation and opposes measures that restrict the right to possess firearms for self-defense.",
+          "quote": "Throughout my tenure in Congress, I have supported legislation that protects our God-given right to self-defense, and I oppose any efforts that infringe upon these rights and violate the Constitution.",
+          "sourceUrl": "https://steube.house.gov/issues/second-amendment/",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Steube supports state restrictions protecting unborn life and opposes taxpayer funding for abortion.",
+          "quote": "I am a staunch defender of the right to life, and I am pleased that many states have sought to protect this right after the Supreme Court correctly decided that the Constitution did not prohibit states from acting to protect the lives of the unborn.",
+          "sourceUrl": "https://steube.house.gov/issues/life-values/",
+          "agreement": "7/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Steube sponsored legislation limiting federally funded women’s sports programs to athletes who are biologically female.",
+          "quote": "The Protection of Women and Girls in Sports Act ensures that only biological females compete against other biological females in women’s sports programs operated, sponsored, or facilitated by recipients of federal funding.",
+          "sourceUrl": "https://steube.house.gov/press-releases/steubes-protection-of-women-and-girls-in-sports-act-passes-u-s-house-in-bipartisan-vote/",
+          "agreement": "6/10"
+        },
+        "cannabis": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Steube repeatedly proposed moving marijuana from Schedule I to Schedule III for medical research rather than either retaining its current classification or fully legalizing it.",
+          "quote": "My Marijuana 1-to-3 Act will deliver exactly what President Trump has requested: legislation that moves marijuana from Schedule I to Schedule III under the Controlled Substances Act.",
+          "sourceUrl": "https://steube.house.gov/press-releases/rep-steube-trump-is-right-time-to-reschedule-marijuana/",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Steube introduced legislation allowing lower-income people to choose directly funded health savings accounts instead of exchange cost-sharing subsidies.",
+          "quote": "The Affordable Care and Comprehensive Economic Support through Savings (ACCESS) Act empowers individuals by giving them the option to receive direct contributions to an HSA instead of relying on reduced cost-sharing under government-controlled health insurance exchanges.",
+          "sourceUrl": "https://steube.house.gov/press-releases/steube-cammack-reintroduce-the-access-act/",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Steube supports increased domestic energy production and opposes electric-vehicle mandates and related federal spending.",
+          "quote": "I am fighting for policies in Congress that reduce dependency on foreign nations, increase domestic energy production, and other means to make energy more affordable for Americans.",
+          "sourceUrl": "https://steube.house.gov/issues/energy/",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Steube voted against the For the People Act and specifically opposed eliminating voter-identification requirements.",
+          "quote": "Americans do not want their tax dollars going to fund political contributions and, after the election integrity issues we faced in the presidential election, the last thing we should be doing is ending requirements for voter identification.",
+          "sourceUrl": "https://steube.house.gov/press-releases/steube-votes-against-unconstitutional-democrat-plan-to-federalize-elections-and-threaten-free-speech/",
+          "agreement": "7/10"
+        }
+      }
+    }
+  ],
+  "sources": "montavonforcongress.com · michaelquirkforcongress.com · steube.house.gov",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

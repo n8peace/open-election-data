@@ -1,0 +1,173 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 16",
+  "division": "fl/cd-16",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Mark Davis",
+      "party": "NPA",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Davis supports taxing billionaires while providing single-payer health care and free public college and trade school.",
+          "quote": "Taxing billionaires...because if you can afford a rocket ship, you can afford to pay your fair share",
+          "sourceUrl": "https://markdavisforcongress.com/more-about-why",
+          "agreement": "3/3"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Davis says tariffs worsen the financial pressures facing working families.",
+          "quote": "Tariffs are just gasoline on that fire. So, the line is simple: the so-called “economic revival” is a mirage.",
+          "sourceUrl": "https://markdavisforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Davis supports using federal resources to fund public schools and programs for disadvantaged students.",
+          "quote": "In K-12, federal resources should help communities properly fund public schools, special education, school meals and programs serving disadvantaged students.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=71841210&party=Dem",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Davis supports easier legal immigration, a pathway to legal status for undocumented residents and replacing ICE with a system focused on lawful processing rather than mass deportation.",
+          "quote": "I support comprehensive immigration reform that makes it easier to come here legally and creates a realistic pathway to legal status for the millions of undocumented people already living, working, paying taxes and raising families in our communities.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=71841210&party=Dem",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Davis calls for common-sense gun laws and criticizes unregulated firearms in communities.",
+          "quote": "Common-sense gun laws...so our kids stop becoming targets",
+          "sourceUrl": "https://markdavisforcongress.com/more-about-why",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Davis supports protecting reproductive freedom in federal law.",
+          "quote": "Women’s rights and reproductive freedom...protected in federal law",
+          "sourceUrl": "https://markdavisforcongress.com/more-about-why",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Davis supports single-payer universal health care and rejects the current employer-based, profit-driven system.",
+          "quote": "Single-payer healthcare...so you don’t lose everything just because you got sick",
+          "sourceUrl": "https://markdavisforcongress.com/more-about-why",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Davis says climate change is an economic threat and supports investment in clean energy and resilient infrastructure.",
+          "quote": "We need to invest in clean energy, strengthen our infrastructure, protect our coastline and make communities more resilient while creating good paying American jobs in the process.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=71841210&party=Dem",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Davis opposes documentary barriers that could prevent eligible citizens from registering or voting.",
+          "quote": "I oppose creating unnecessary barriers between American citizens and the ballot box. American citizens have a constitutional right to vote, and the government should not create a system where someone effectively loses that right because they cannot afford or easily obtain a particular document.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=71841210&party=Dem",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Sydney Gruters",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Gruters says she will cut taxes to reduce costs for working families.",
+          "quote": "Sydney is ready to cut taxes and fight rising costs so working families can afford gas, groceries, and everyday essentials.",
+          "sourceUrl": "https://grutersforcongress.com/",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Gruters pledges to protect Social Security and Medicare benefits.",
+          "quote": "Sydney will strengthen veterans’ benefits and protect Social Security and Medicare so seniors and those who served can retire with security and peace of mind.",
+          "sourceUrl": "https://grutersforcongress.com/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "slower growth",
+          "strength": "strong",
+          "text": "Gruters says she will curb overdevelopment while seeking to keep homeownership affordable.",
+          "quote": "Sydney will fight to curb overdevelopment and keep homeownership within reach for working families.",
+          "sourceUrl": "https://grutersforcongress.com/",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Gruters supports stronger border enforcement while also calling for a streamlined legal immigration system.",
+          "quote": "I support President Trump’s efforts to secure our borders and enforce the rule of law, because every family deserves to feel safe at home. I also believe we must improve and streamline our legal immigration system so that those following the law are not buried in red tape, making it nearly impossible to navigate for business owners and individuals alike.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72691228",
+          "agreement": "5/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Gruters said she would always defend unborn life in Congress.",
+          "quote": "In Congress, I will always stand up for religious liberty, defend the unborn, protect our children, and fight for the conservative values that make America the greatest country in the world.",
+          "sourceUrl": "https://floridapolitics.com/archives/802844-sydney-gruters-earns-faith-based-conservative-backing-in-cd-16-race/",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Gruters opposes government-run health care and calls for reducing government spending and expansion.",
+          "quote": "I do not want the government taking over my healthcare",
+          "sourceUrl": "https://www.wusf.org/politics-issues/2026-09-24/candidates-to-replace-vern-buchanan-in-congress-spar-in-an-online-forum",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Gruters supports the SAVE Act and requiring identification to vote in every U.S. election.",
+          "quote": "I do support having to show voter ID. That's common sense.",
+          "sourceUrl": "https://www.wusf.org/politics-issues/2026-09-24/candidates-to-replace-vern-buchanan-in-congress-spar-in-an-online-forum",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Kelly Kirschner",
+      "party": "DEM",
+      "stances": {}
+    }
+  ],
+  "sources": "markdavisforcongress.com · onyourballot.vote411.org · grutersforcongress.com · floridapolitics.com · wusf.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
