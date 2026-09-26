@@ -1,0 +1,251 @@
+{
+  "office": "U.S. Senate",
+  "district": "NC",
+  "division": "nc/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Michael Dublin",
+      "party": "GRE",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Dublin supports taxing wealthy people to fund basic public needs.",
+          "quote": "I support taxing the rich their fair share to invest in the basic needs of all people.",
+          "sourceUrl": "https://www.dublinforcongress.com/platform",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Dublin opposes cuts to Social Security, Medicare, and Medicaid and supports increasing their benefits.",
+          "quote": "I stand for a guaranteed pension for all and will stand against any cuts to Social Security, Medicare, or Medicaid. I support substantially increasing these benefits.",
+          "sourceUrl": "https://www.dublinforcongress.com/platform",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Dublin supports greatly expanding publicly owned affordable housing.",
+          "quote": "I support a massive expansion of publicly owned, permanently affordable housing. I stand for universal rent control and an end to the criminalization of homelessness.",
+          "sourceUrl": "https://www.dublinforcongress.com/platform",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Dublin supports increasing public-school funding and ending school privatization.",
+          "quote": "I support free public education beginning in Pre-k, increasing public school funding, ending the privatization of schools, and free childcare which will help meet the needs of young children.",
+          "sourceUrl": "https://www.ncearlyeducationcoalition.org/wp-content/uploads/2024/09/Dublin-2024-Congressional-Questionnaire.docx.pdf",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "Dublin supports demilitarizing police and funding mental-health and conflict-resolution professionals in community policing.",
+          "quote": "I support demilitarization of the police and stand for community-based policing that utilizes fully funded mental health professionals and conflict resolution counselors.",
+          "sourceUrl": "https://www.dublinforcongress.com/platform",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Dublin supports abolishing ICE, ending detention and deportations, and legalizing the status of undocumented immigrants.",
+          "quote": "I support abolishing ICE and getting rid of immigrant detention centers and deportations. I stand for immediate, unconditional legalization and equal rights for all undocumented immigrants.",
+          "sourceUrl": "https://www.dublinforcongress.com/platform",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Dublin supports universal publicly provided health care that is free at the point of service.",
+          "quote": "I support Medicaid for All. I believe healthcare is a human right. I support Universal Healthcare, free at the point of service, for all.",
+          "sourceUrl": "https://www.northcarolinahealthnews.org/govpack_profiles/michael-dublin/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Dublin says he would end voter suppression and gerrymandering as part of democratic reform.",
+          "quote": "Get big money out of politics. Overturn Citizens United, end gerrymandering and voter suppression, and build a democracy truly of, by, and for the people.",
+          "sourceUrl": "https://www.dublinforcongress.com/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Roy Cooper",
+      "party": "DEM",
+      "stances": {}
+    },
+    {
+      "name": "Michael Whatley",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Whatley pledged to preserve tax cuts and help North Carolina families keep more of their earnings.",
+          "quote": "While Cooper has spent his entire career trying to raise taxes, I will fight for North Carolina families to make more and keep more of their hard-earned money",
+          "sourceUrl": "https://michaelwhatley.com/michael-whatley-hosts-no-tax-on-overtime-roundtable-in-greensboro/",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Whatley endorsed allowing education funding to follow students to public, private, charter or home schools.",
+          "quote": "The dollars should follow students, whether it is to a public school, a private school, a charter school, or homeschooling",
+          "sourceUrl": "https://www.wxii12.com/article/whatley-mcmahon-education-tax-credit-high-point/70685516",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Whatley supports securing the border and carrying out large-scale deportations of immigrants he describes as criminal and unlawfully present.",
+          "quote": "In contrast, I am 100% supportive of President Trump securing the border and deporting the millions of criminal illegal aliens that Joe Biden and Roy Cooper allowed into this country.",
+          "sourceUrl": "https://michaelwhatley.com/issues/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Whatley says he will defend Second Amendment rights, without specifying particular gun policies.",
+          "quote": "From defending Second Amendment rights, to protecting life, supporting our law enforcement, and keeping radical woke ideology out of schools, I will fight night and day against the Left’s agenda.",
+          "sourceUrl": "https://michaelwhatley.com/issues/",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Whatley condemned allowing transgender girls to participate in girls' sports.",
+          "quote": "Cooper raised taxes, released thousands of violent criminals into our communities and put boys in girls’ sports. He is way too extreme for North Carolina.",
+          "sourceUrl": "https://michaelwhatley.com/vice-president-jd-vance-and-michael-whatley-slam-roy-coopers-far-left-record-at-rally-in-greensboro/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Whatley backed the 2025 budget law whose Medicaid provisions were projected to reduce public coverage, although he has not offered a detailed health-care plan.",
+          "quote": "Today is a huge win for all Americans!",
+          "sourceUrl": "https://ncarolinaindependent.com/health-care/how-north-carolinas-senate-candidates-differ-on-rising-healthcare-costs/",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Whatley calls for expanding American energy production to lower costs, create jobs and pursue energy independence.",
+          "quote": "By practicing fiscal responsibility and unleashing American energy, we can empower American workers, create good-paying jobs, achieve energy independence, and build lasting prosperity for every American.",
+          "sourceUrl": "https://michaelwhatley.com/issues/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Shannon W. Bray",
+      "party": "LIB",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Bray says federal taxes and spending are too high and that North Carolinians should keep more of their earnings.",
+          "quote": "Washington spends too much, taxes too much, and delivers too little. Shannon Bray believes North Carolinians deserve to keep more of what they earn and pass opportunity—not debt—to the next generation.",
+          "sourceUrl": "https://www.shannonbray.us/_issues_economy",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Bray criticized raising the minimum wage as a policy that makes manufacturing more difficult and costs jobs.",
+          "quote": "He has supported policies that have made it more difficult for manufacturers to operate in North Carolina, such as raising the minimum wage and increasing environmental regulations.",
+          "sourceUrl": "https://www.shannonbray.us/coopereco",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "Bray said the budget must be brought under control and that Social Security and Medicare may need overhauls, while opposing changes that burden beneficiaries.",
+          "quote": "The budget is blown, and it needs to be reeled in but I do not believe this should come at the expense of the people but these programs may need overhauls.",
+          "sourceUrl": "https://indyweek.com/news/politics/elections/candidate-questionnaire-shannon-bray-us-senator/",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Bray calls for building more housing by removing artificial restrictions that constrain supply.",
+          "quote": "Before subsidizing a scarce good, remove artificial restrictions preventing more of it from being produced.\n\nFor housing:\n\nBuild more housing.",
+          "sourceUrl": "https://www.shannonbray.us/republicans_democrats_and_economics_what_actually_works",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "Bray supports school choice and allowing families to move between schools they select.",
+          "quote": "School choice allows people to go in and out of schools that they choose. So if we accept school choice, it doesn’t matter how the discourse on what gets taught in schools plays out.",
+          "sourceUrl": "https://www.carolinajournal.com/meet-the-only-two-third-party-candidates-running-for-nc-governor-so-far/",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Bray supports both enforcing existing immigration laws and streamlining lawful immigration.",
+          "quote": "America needs secure borders and a fair, legal immigration system.",
+          "sourceUrl": "https://www.shannonbray.us/_issues_immigration",
+          "agreement": "3/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Bray opposes new gun restrictions as unconstitutional.",
+          "quote": "Introducing new gun laws is unconstitutional; this is not debatable.",
+          "sourceUrl": "https://www.shannonbray.us/guns_and_social_media",
+          "agreement": "5/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Bray supports legalizing personal cultivation of cannabis.",
+          "quote": "I believe it should be legal for folks to grow pot for personal consumption",
+          "sourceUrl": "https://www.shannonbray.us/shannon_bray_issues_statement",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Bray favors patient-directed care, health savings accounts, state-led solutions and repeal of federal mandates.",
+          "quote": "Healthcare decisions should be made by patients and doctors—not Washington.",
+          "sourceUrl": "https://www.shannonbray.us/_issues_healthcare",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Bray prioritizes affordable and reliable energy and opposes mandates that raise household bills.",
+          "quote": "Families shouldn’t pay higher bills because of political mandates.",
+          "sourceUrl": "https://www.shannonbray.us/_issues_energy",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "dublinforcongress.com · ncearlyeducationcoalition.org · northcarolinahealthnews.org · michaelwhatley.com · wxii12.com · ncarolinaindependent.com · shannonbray.us · indyweek.com · carolinajournal.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

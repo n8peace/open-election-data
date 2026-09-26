@@ -1,0 +1,342 @@
+{
+  "office": "U.S. Representative",
+  "district": "NC District 4",
+  "division": "nc/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Valerie P. Foushee",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Foushee supports higher taxes on corporations and high-income earners alongside expanded tax credits for health care, housing, and child care.",
+          "quote": "Foushee supports a progressive tax system that provides relief for middle and low-income families while increasing taxes on large corporations and high-income earners.",
+          "sourceUrl": "https://valeriefoushee.com/issues/",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Foushee supports raising the federal minimum wage and strengthening unions.",
+          "quote": "an advocate for legislation that will raise the federal minimum wage and ease access to affordable credit for first-time homeowners and small business owners.",
+          "sourceUrl": "https://foushee.house.gov/issues/jobs-and-the-economy",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Foushee says she is opposing the Trump administration's tariffs as part of her effort to lower consumer costs.",
+          "quote": "In Congress, she is standing up to Trump’s tariffs and taking on corporate price gouging that drives up costs.",
+          "sourceUrl": "https://valeriefoushee.com/issues/",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Foushee pledges to oppose cuts to Social Security and Medicare benefits.",
+          "quote": "She will never let Trump and Republicans cut seniors’ benefits.",
+          "sourceUrl": "https://valeriefoushee.com/issues/",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Foushee praised a federal plan to increase housing supply and encourage states and municipalities to change zoning and land-use regulations.",
+          "quote": "increase the supply of housing, incentivizes states and municipalities to change their zoning and land-use regulations",
+          "sourceUrl": "https://indyweek.com/news/politics/elections/candidate-questionnaire-valerie-foushee-us-house-4/",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Foushee cosponsored legislation to repeal the federal tax credit for donations supporting private-school scholarships.",
+          "quote": "To amend the Internal Revenue Code of 1986 to repeal the tax credit for contributions of individuals to scholarship granting organizations, and for other purposes.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr9289ih",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "Foushee called for increased funding for community-based violence-intervention programs in streets, hospitals, and schools.",
+          "quote": "Community-based violence intervention programs, on the streets, in hospitals, and in schools, are critical to ending gun violence and should be better funded.",
+          "sourceUrl": "https://indyweek.com/news/politics/elections/candidate-questionnaire-valerie-foushee-us-house-4/",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Foushee supports a pathway to citizenship for DACA recipients and Dreamers and reforms to the visa system.",
+          "quote": "I believe we must ease the pathway to citizenship for DACA recipients and Dreamers, update our antiquated visa lottery structure",
+          "sourceUrl": "https://foushee.house.gov/issues/immigration",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Foushee supports an assault-weapons ban, universal background checks, safe-storage requirements, and limits on high-capacity magazines.",
+          "quote": "to reinstate the federal assault weapons ban and advance important gun safety measures such as enforcing background checks on gun sales.",
+          "sourceUrl": "https://foushee.house.gov/issues/gun-violence-prevention",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Foushee says she is committed to restoring abortion rights and protecting personal reproductive decisions.",
+          "quote": "I am committed to restoring the fundamental right to an abortion and making sure everyone has the freedom to make the best and safest decision",
+          "sourceUrl": "https://foushee.house.gov/issues/reproductive-rights",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Foushee voted against a bill that would have required federally funded school athletics to recognize sex solely from reproductive biology and genetics at birth.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2023192",
+          "agreement": "4/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "As a North Carolina senator, Foushee was a primary sponsor of legislation to legalize and regulate adult cannabis.",
+          "quote": "The use of cannabis should be legal for persons 21 years of age or older and",
+          "sourceUrl": "https://webservices.ncleg.gov/ViewBillDocument/2021/2671/0/DRS45339-MLf-61A",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Foushee calls health care a human right and is an original cosponsor of Medicare for All legislation.",
+          "quote": "Healthcare is a human right, but far too many people in our country are victims of a broken healthcare system and are unable to afford necessary care.",
+          "sourceUrl": "https://foushee.house.gov/issues/healthcare",
+          "agreement": "3/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Foushee supports moving away from fossil fuels, meeting climate goals, and the Green New Deal.",
+          "quote": "move the United States away from our dependence on fossil fuels while meeting our climate goals and achieving true energy independence.",
+          "sourceUrl": "https://foushee.house.gov/issues/energy-and-the-environment",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Guy Meilleur",
+      "party": "LIB",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He says departmental budget cuts and oversight savings should reduce taxes.",
+          "quote": "The savings will reduce taxes, and the deficit. Our grandchildren will thank us!",
+          "sourceUrl": "https://guy4nc.org/",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "He opposes state government determining what employers must pay.",
+          "quote": "For someone in Raleigh to tell employers in Murphy or Manteo or Morrisville what to pay their employees is overreach.",
+          "sourceUrl": "https://indyweek.com/news/politics/elections/candidate-questionnaire-guy-meilleur-house/",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "He says departmental savings should be used to reduce the federal deficit.",
+          "quote": "The savings will reduce taxes, and the deficit. Our grandchildren will thank us!",
+          "sourceUrl": "https://guy4nc.org/",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He supports loosening zoning restrictions to expand lower-cost housing choices.",
+          "quote": "Zoning should not get in the way of housing choices.",
+          "sourceUrl": "https://indyweek.com/news/politics/elections/candidate-questionnaire-guy-meilleur-house/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He supports fully funding scholarships that families can use for private schools.",
+          "quote": "Expand and fully fund the North Carolina Opportunity Scholarship program, allowing greater access for all families, including those who lack the financial means to enroll their students in a private school.",
+          "sourceUrl": "https://guy4nc.org/priorities/smarter-education/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "Meilleur conditionally supports federal-local immigration enforcement when officials will not hand over people guilty of serious crimes after their sentences.",
+          "quote": "Only if local officials are not cooperating on handing over those guilty of serious crimes, after time is served.",
+          "sourceUrl": "https://guy4nc.org/campaign-news/guy-meilleurs-immigration-stance-see-his-2026-numbersusa-survey/",
+          "agreement": "3/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He supports higher age limits and stronger background checks for more powerful firearms.",
+          "quote": "More powerful weapons should require higher age limits and stronger background checks.",
+          "sourceUrl": "https://indyweek.com/news/politics/elections/candidate-questionnaire-guy-meilleur-house/",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "He argues that arbitrary gestational benchmarks should not determine abortion law and opposes arbitrary government power over people's bodies.",
+          "quote": "Arbitrary benchmarks are a poor basis for legislation.",
+          "sourceUrl": "https://indyweek.com/news/politics/elections/candidate-questionnaire-guy-meilleur-house/",
+          "agreement": "10/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "He supports allowing cannabis production and regulating legal cannabis activity.",
+          "quote": "Government needs to get out of the way of production, and profit from reasonable regulation of other cannabis activity, as other states do.",
+          "sourceUrl": "https://indyweek.com/news/politics/elections/candidate-questionnaire-guy-meilleur-house/",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He advocates a market-driven health-care system modeled on Singapore.",
+          "quote": "We can emulate Singapore’s market-driven health care system and stop feeding Big Pharma, and making millionaires out of fraudsters.",
+          "sourceUrl": "https://guy4nc.org/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He supports retaining early voting, same-day registration, and mail voting.",
+          "quote": "The 2020 schedule for early voting, same day registration, and mail-in voting should remain.",
+          "sourceUrl": "https://assets.nationbuilder.com/durhampa/pages/4664/attachments/original/1648042986/meilleur_NCHouse_questionnaire.pdf?1648042986=",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Mahesh (Max) Ganorkar",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Ganorkar says working families should keep more of their earnings and proposes eliminating several federal taxes.",
+          "quote": "If you believe working families should keep more of their hard-earned money, I’m your candidate. Common sense tells us higher taxes drive jobs and businesses away—leaving fewer opportunities and greater hardship behind.",
+          "sourceUrl": "https://maxforcongress.com/issues",
+          "agreement": "4/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Ganorkar opposes tariffs and protectionism because he says their costs fall on consumers.",
+          "quote": "I am not in favor of tariffs at all. I was never in favor of tariffs. I am not in favor of protectionism either.",
+          "sourceUrl": "https://www.pbs.org/video/mahesh-ganorkar-republican-candidate-for-ncs-4th-congressional-district-xiojuf/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Ganorkar proposes reducing construction regulations and increasing the housing supply and homeownership opportunities.",
+          "quote": "Reduce unnecessary regulations and costs that inflate home construction prices. Promote policies that increase housing supply and homeownership opportunities.",
+          "sourceUrl": "https://maxforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Ganorkar supports privatization, school vouchers, and expanded private and vocational schooling.",
+          "quote": "I believe expanding school choice and privatizing education would create more opportunities for students by encouraging schools that cater to different talents, career paths, and learning styles instead of a one-size-fits-all system.",
+          "sourceUrl": "https://maxforcongress.com/issues",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Ganorkar strongly opposed redirecting police funding to community programs.",
+          "quote": "I support redirecting funds from police departments to community programs.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/60135/race/11232/election/1090",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Ganorkar combines rule-of-law and assimilation requirements with a proposed legal, vetted seasonal-worker pathway.",
+          "quote": "By vetting seasonal workers through U.S. embassies, businesses can fill temporary labor needs legally, temp-immigrant workers are protected from exploitation, and participants return to their home countries once the work is complete.",
+          "sourceUrl": "https://maxforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Ganorkar calls for nationwide constitutional carry and opposes restrictions on armed, law-abiding citizens.",
+          "quote": "Common sense tells us when criminals and unstable individuals are armed, law-abiding citizens must have the right to protect themselves — without unnecessary restrictions.",
+          "sourceUrl": "https://maxforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "Ganorkar personally opposes abortion but says families and medical professionals should decide in cases of rape, incest, or danger to the mother's life.",
+          "quote": "My faith discourages abortion, and personally I do not support it; however, in tragic cases such as rape, incest, or when a mother’s life is at risk, I believe these decisions should remain within the family, guided by medical professionals.",
+          "sourceUrl": "https://maxforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Ganorkar strongly agreed that biological males should be excluded from women's sports and designated women's spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/60135/race/11232/election/1090",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Ganorkar proposes publicly supplied vouchers for purchasing private insurance, interstate competition, and reduced reliance on government health programs.",
+          "quote": "Americans should be able to purchase insurance from anywhere in the country to increase competition and lower costs.",
+          "sourceUrl": "https://maxforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Ganorkar proposes eliminating energy taxes to reduce living costs.",
+          "quote": "Eliminate taxes on energy and food to bring down costs of living.",
+          "sourceUrl": "https://maxforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Ganorkar strongly opposed allowing people to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/60135/race/11232/election/1090",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "valeriefoushee.com · foushee.house.gov · indyweek.com · govinfo.gov · clerk.house.gov · webservices.ncleg.gov · guy4nc.org · assets.nationbuilder.com · maxforcongress.com · pbs.org · ivoterguide.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

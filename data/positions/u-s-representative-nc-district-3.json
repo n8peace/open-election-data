@@ -1,0 +1,230 @@
+{
+  "office": "U.S. Representative",
+  "district": "NC District 3",
+  "division": "nc/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Daniel Cavender",
+      "party": "LIB",
+      "stances": {
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Cavender identified Constitutional Carry as one of his two most important campaign issues.",
+          "quote": "According to a Ballotpedia candidate survey from 2024, Cavender's two most important campaign issues are “recreational marijuana legalization and Constitutional Carry.”",
+          "sourceUrl": "https://www.theelectionhub.org/mecklenburg-county/daniel-cavender/2026-general/north-carolina",
+          "agreement": "3/3"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Cavender identified recreational marijuana legalization as one of his two most important campaign issues.",
+          "quote": "According to a Ballotpedia candidate survey from 2024, Cavender's two most important campaign issues are “recreational marijuana legalization and Constitutional Carry.”",
+          "sourceUrl": "https://www.theelectionhub.org/mecklenburg-county/daniel-cavender/2026-general/north-carolina",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Raymond Smith",
+      "party": "DEM",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Smith was a primary sponsor of legislation establishing a $15 hourly minimum for noncertified public-school employees.",
+          "quote": "AN ACT TO REQUIRE THE HOURLY RATE OF THE MINIMUM SALARY FOR NONCERTIFIED PUBLIC SCHOOL EMPLOYEES TO BE AT LEAST FIFTEEN DOLLARS PER HOUR.",
+          "sourceUrl": "https://www.ncleg.gov/Sessions/2021/Bills/House/PDF/H5v1.pdf",
+          "agreement": "7/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Smith called tariffs damaging to working people and said he would end tariffs imposed without congressional approval.",
+          "quote": "Those tariffs were not approved by Congress, and under no circumstances will I sit there and let them continue.",
+          "sourceUrl": "https://video.wnpt.org/video/raymond-smith-jr-democratic-candidate-for-ncs-3rd-congressional-district-fwbnvx/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Smith opposed using state tax dollars for private-school vouchers and advocated fully funding public education.",
+          "quote": "However, when it comes to using state tax dollars to fund private education, that is not my idea of school choice.",
+          "sourceUrl": "https://video.wnpt.org/video/raymond-smith-jr-democratic-candidate-for-ncs-3rd-congressional-district-fwbnvx/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "Smith voted against legislation repealing North Carolina’s pistol-purchase-permit requirement.",
+          "quote": "Noes (Democrat) Ager; Alston; Autry; A. Baker; Ball; Belk; Brockman; Brown; Butler; Carney; Clemmons; Cooper-Suggs; Cunningham; Dahle; Everitt; Farkas; Fisher; Gailliard; Garrison; Gill; Graham; Harris; Harrison; Hawkins; Hunt; Hunter; Hurtado; Insko; John; A. Jones; Lofton; Logan; Lucas; Majeed; Martin; Meyer; Morey; Pierce; Quick; Reives; Richardson; Roberson; K. Smith; R. Smith; Terry; Turner; von Haefen",
+          "sourceUrl": "https://www.ncleg.gov/Legislation/Votes/RollCallVoteTranscript/2021/H/190",
+          "agreement": "6/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Smith was a primary sponsor of legislation to legalize and regulate adult cannabis in North Carolina.",
+          "quote": "AN ACT TO LEGALIZE AND REGULATE THE SALE, POSSESSION, AND USE OF CANNABIS IN NORTH CAROLINA.",
+          "sourceUrl": "https://www.ncleg.gov/Sessions/2021/Bills/House/PDF/H576v1.pdf",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Smith cosponsored legislation establishing automatic and online voter registration.",
+          "quote": "House Bill 887 Automatic and Online Voter Registration. 2021-2022 Session",
+          "sourceUrl": "https://www.ncleg.gov/BillLookUp/2021/H887",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Greg Murphy",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Murphy says he helped write and pass the Working Families Tax Cut, including tax exemptions and larger deductions and credits.",
+          "quote": "That’s why, as a senior member of the House Ways and Means Committee, I helped write and pass the Working Families Tax Cut into law, the largest middle-class tax cut in decades.",
+          "sourceUrl": "https://murphy4congress.com/issues/improving-the-economy/",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "Murphy offered an amendment to remove proposed federal minimum-wage increases.",
+          "quote": "Murphy Strikes federal minimum wage increases under Section 2101.",
+          "sourceUrl": "https://edworkforce.house.gov/calendar/eventsingle.aspx?EventID=407172",
+          "agreement": "7/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "Murphy defended tariffs as an economic tool for confronting China and compelling other countries to change their trade practices.",
+          "quote": "The president really only has two options to try to defeat this. One is economically through tariffs or some other means, and two is militarily, which we don't want to do.",
+          "sourceUrl": "https://transcripts.cnn.com/show/cnc/date/2025-04-09/segment/09",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Murphy introduced a bill to repeal the Social Security retirement earnings test so working early retirees would not have benefits reduced.",
+          "quote": "Current law unnecessarily complicates seniors' right to access the benefits they paid into for the entirety of their careers and must be done away with.",
+          "sourceUrl": "https://murphy.house.gov/media/press-releases/murphy-introduces-senior-citizens-freedom-work-act-0",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Murphy supported legislation intended to increase housing supply by cutting regulatory barriers that slow homebuilding.",
+          "quote": "However, this goal has become unattainable for so many due to skyrocketing costs and overwhelmingly insufficient supply.",
+          "sourceUrl": "https://murphy.house.gov/media/press-releases/murphy-applauds-passage-historic-bipartisan-housing-affordability-bill",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Murphy explicitly supports expanding school choice across public, private, charter, online and home-school options.",
+          "quote": "For this reason, I am ardently in favor of expanding school choice to give parents the freedom to choose the best educational path for their children.",
+          "sourceUrl": "https://murphy.house.gov/issues/education",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Murphy requested federal funding to upgrade East Carolina University Police Department dispatch, arrest-reporting, data-sharing, and related systems.",
+          "quote": "upgrade dispatch software (including mapping, analytics, and GIS integration), incident and arrest reporting tools, barcoding equipment, a cloud-based data sharing network",
+          "sourceUrl": "https://murphy.house.gov/services/funding-requests/public-disclosure-fy26-community-project-funding-requests",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Murphy supports Trump's border actions, stronger enforcement and preventing people who entered illegally from remaining in the country.",
+          "quote": "I support President Trump’s actions to secure our borders. We must enforce our laws and crack down on these abuses.",
+          "sourceUrl": "https://murphy4congress.com/issues/securing-the-border/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "Murphy applauded legislation barring the VA from sending veterans' information to the FBI for gun-background-check purposes without a judge's consent.",
+          "quote": "Protects veterans’ 2nd Amendment rights by preventing the VA from sending veterans’ information to the Federal Bureau of Investigation without a judge’s consent.",
+          "sourceUrl": "https://murphy.house.gov/media/press-releases/murphy-applauds-passage-fy27-military-construction-veteran-affairs",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Murphy's campaign described him as a longstanding supporter of protecting unborn life.",
+          "quote": "As a devout Christian and staunch believer of the unalienable right to life for all, Dr. Murphy is a proud supporter of pro-life issues.",
+          "sourceUrl": "https://www.northcarolinahealthnews.org/govpack_profiles/gregory-murphy/",
+          "agreement": "5/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Murphy voted for legislation requiring federally funded school athletics to determine sex from reproductive biology and genetics at birth.",
+          "quote": "sex shall be recognized based solely on a person’s reproductive biology and genetics at birth",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/CREC-2025-01-14/pdf/CREC-2025-01-14-house.pdf",
+          "agreement": "7/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "Murphy opposed federal cannabis decriminalization, voted against the MORE Act and characterized marijuana as a gateway drug.",
+          "quote": "LEGALIZING WEED WOULD CREATE REVENUE BUT AT WHAT COST? DO WE LEGALIZE COCAINE? MARIJUANA IS A GATEWAY DRUG.",
+          "sourceUrl": "https://vote.norml.org/politicians/166135",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Murphy introduced legislation integrating direct drug purchases with existing insurance cost-sharing and said competition would lower costs.",
+          "quote": "By making this possible, we are putting patients first and promoting competition to drive down costs further.",
+          "sourceUrl": "https://murphy.house.gov/media/press-releases/murphy-introduces-legislation-lower-out-pocket-costs-drugs",
+          "agreement": "3/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Murphy supports an all-of-the-above energy strategy centered on abundant, inexpensive and reliable domestic energy.",
+          "quote": "America possesses immense natural resources that enable us to produce cheap, reliable, and clean energy.",
+          "sourceUrl": "https://murphy.house.gov/issues/energy",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Murphy supported a federal photo-identification requirement for voting and described identification as necessary for election confidence.",
+          "quote": "We require photo identification to open a bank account or purchase alcohol; it should be requisite to vote in federal elections, a sacred exercise in our democracy.",
+          "sourceUrl": "https://murphy.house.gov/media/press-releases/murphy-applauds-passage-congressional-stock-trading-ban-voter-id",
+          "agreement": "8/10"
+        }
+      }
+    }
+  ],
+  "sources": "theelectionhub.org · ncleg.gov · video.wnpt.org · murphy4congress.com · edworkforce.house.gov · transcripts.cnn.com · murphy.house.gov · northcarolinahealthnews.org · govinfo.gov · vote.norml.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
