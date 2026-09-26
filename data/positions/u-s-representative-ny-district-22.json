@@ -1,0 +1,160 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 22",
+  "division": "ny/cd-22",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "John W. Mannion",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Mannion says the wealthiest Americans should pay more so government can keep investing in communities.",
+          "quote": "The wealthiest Americans in the billionaire class should pay their fair share in taxes so the federal government can continue to invest in our communities.",
+          "sourceUrl": "https://www.mannionforny.com/on-the-issues/affordability/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Mannion voted against the GOP budget bill, opposing its cuts to health care and food assistance.",
+          "quote": "it will take away food assistance from kids and seniors, strip health care from the disabled and most vulnerable, and saddle the nation with trillions of dollars of new debt.",
+          "sourceUrl": "https://mannion.house.gov/media/press-releases/statement-representative-mannion-ny-22-gops-budget-reconciliation-bill",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Mannion calls for increasing federal funding for public schools rather than diverting it.",
+          "quote": "Increasing federal funding for public schools to reduce class sizes, improve facilities, and provide essential resources for students and teachers.",
+          "sourceUrl": "https://www.mannionforny.com/on-the-issues/education/",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Mannion refuses to approve added ICE funding and demands guardrails on enforcement.",
+          "quote": "I won't rubberstamp billions of additional taxpayers' dollars to reinforce ICE",
+          "sourceUrl": "https://mannion.house.gov/media/press-releases/statement-representative-john-w-mannion-1",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Mannion backs enhanced background-check legislation to tighten gun laws.",
+          "quote": "John is supporting legislation like the Enhanced Background Checks Act of 2025 to provide common sense measures to reform our gun laws.",
+          "sourceUrl": "https://www.mannionforny.com/on-the-issues/public-safety/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Mannion supports a universal public health insurance option and expanding Medicare and Medicaid.",
+          "quote": "There should be a universal public healthcare option.",
+          "sourceUrl": "https://www.mannionforny.com/on-the-issues/healthcare/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Mannion supports continued reductions in greenhouse gas emissions and a transition to renewable energy.",
+          "quote": "Continuing American leadership in reducing greenhouse gas emissions and protecting communities from severe weather events.",
+          "sourceUrl": "https://www.mannionforny.com/on-the-issues/the-environment/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Mannion opposed the SAVE Act, defending mail-in voting and disputing claims of noncitizen voting.",
+          "quote": "It's about ending mail-in ballots. The president has voted by mail. American citizens are the ones voting in these elections.",
+          "sourceUrl": "https://www.waer.org/news/2026-03-17/rep-mannion-calls-save-america-act-a-voter-suppression-bill",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Kailee Buller",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Buller, a self-described fiscal conservative, argues New York's high taxes are driving residents and revenue out and calls for lowering the tax burden.",
+          "quote": "New York State is the highest taxed state in the nation and as a result has lost over 500,000 residents and over $10 billion in tax revenue in just one year alone.",
+          "sourceUrl": "https://kaileebuller.com/",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Buller says Social Security and Medicare benefits earned by seniors who paid in must be honored.",
+          "quote": "Central New York seniors have spent their entire working lives paying into these programs — and they have earned every dollar of those benefits.",
+          "sourceUrl": "https://kaileebuller.com/",
+          "agreement": "3/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Buller supports encouraging development and cutting regulations to make homeownership more attainable for first-time buyers.",
+          "quote": "She supports policies that encourage responsible development, cut unnecessary regulations, and make it easier for first-time buyers to enter the market.",
+          "sourceUrl": "https://kaileebuller.com/",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Buller backs law enforcement and opposes cashless bail and efforts to defund the police.",
+          "quote": "Kailee strongly opposes cashless bail policies and any effort to defund the police.",
+          "sourceUrl": "https://kaileebuller.com/",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Buller calls for comprehensive immigration reform with legal farm-labor pathways while insisting criminals be removed, a mixed position.",
+          "quote": "We need to make sure that the labor that we bring in is legitimate but also that those who are criminals are out of our country.",
+          "sourceUrl": "https://cnycentral.com/news/local/republican-candidate-kailee-buller-ready-to-take-on-democrat-john-mannion-this-november",
+          "agreement": "2/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Buller favors market-oriented health reforms, including expanding Health Savings Accounts and competition to lower costs.",
+          "quote": "Expansion of Health Savings Accounts (HSAs) which will give families more control over their",
+          "sourceUrl": "https://kaileebuller.com/",
+          "agreement": "2/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Buller wants to repeal state climate mandates and pursue an all-of-the-above energy approach to lower prices and protect reliability.",
+          "quote": "she supports repealing those costly climate mandates and advancing an all-of-the-above energy policy",
+          "sourceUrl": "https://kaileebuller.com/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "mannionforny.com · mannion.house.gov · waer.org · kaileebuller.com · cnycentral.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

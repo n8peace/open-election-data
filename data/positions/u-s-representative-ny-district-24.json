@@ -1,0 +1,208 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 24",
+  "division": "ny/cd-24",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Alissa J. Ellman",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Ellman criticized tax breaks for billionaires and large corporations as coming at the expense of the middle class.",
+          "quote": "give more tax breaks to billionaires and billion-dollar companies on the backs of the middle class",
+          "sourceUrl": "https://rochesterbeacon.com/2025/09/04/the-emerging-battle-for-district-24/",
+          "agreement": "3/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Ellman supports passing the PRO Act to protect union organizing and end right-to-work laws.",
+          "quote": "passing the PRO Act to protect workers who are organizing a union, to end right to work laws",
+          "sourceUrl": "https://www.ellmanforcongress.com/priorities",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Ellman said the Social Security retirement age should be lowered for people in physically demanding jobs.",
+          "quote": "We should be moving that Social Security age down for those people",
+          "sourceUrl": "https://www.thenation.com/article/politics/progressive-populism-rural-voters-democrats/",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Ellman calls for expanding the Low-Income Housing Tax Credit to create and preserve affordable housing.",
+          "quote": "Expanding the Low-Income Housing Tax Credit to help create and preserve affordable housing.",
+          "sourceUrl": "https://www.ellmanforcongress.com/priorities",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Ellman uses welcoming language on immigration, saying there is room in the country for everyone who wants to call it home.",
+          "quote": "She believes there is room in this country for everyone who wants to call it home.",
+          "sourceUrl": "https://www.ellmanforcongress.com/priorities",
+          "agreement": "3/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Ellman says she has long supported reproductive freedom.",
+          "quote": "Alissa has long supported LGBTQ+ rights, reproductive freedom, and equal rights for all Americans.",
+          "sourceUrl": "https://www.ellmanforcongress.com/priorities",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Ellman says she has long supported LGBTQ+ rights and equal rights for all Americans.",
+          "quote": "Alissa has long supported LGBTQ+ rights, reproductive freedom, and equal rights for",
+          "sourceUrl": "https://www.ellmanforcongress.com/priorities",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Ellman proposes expanding Medicare, starting by covering people who do physical labor down to age 45.",
+          "quote": "Why don't we take Medicare for All and initially cover everybody who does physical labor, expand Medicare for those people down to age 45",
+          "sourceUrl": "https://www.thenation.com/article/politics/progressive-populism-rural-voters-democrats/",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Claudia Tenney",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Tenney touts being the only New York Republican to vote for both of Trump's major tax-cut laws.",
+          "quote": "I am the only New York Republican who voted for both of President Trump's landmark tax bills: the Tax Cuts and Jobs Act (TCJA) in 2017 and H.R. 1, the Working Families Tax Cuts.",
+          "sourceUrl": "https://tenney.house.gov/issues/tax-plan",
+          "agreement": "4/5"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "Tenney voted to enforce U.S. trade laws against Chinese solar imports, opposing a tariff waiver she said floods the market with unfairly traded products.",
+          "quote": "By allowing Chinese solar product manufacturers to flood our economy with unfairly traded products, Biden's rule undermines our trade laws and the principle of fair competition.",
+          "sourceUrl": "https://tenney.house.gov/media/press-releases/congresswoman-tenney-votes-defend-american-manufacturers-and-uphold-us-trade",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Tenney introduced legislation reaffirming her commitment to preserving and strengthening Social Security benefits.",
+          "quote": "By reintroducing this legislation today, it highlights my advocacy and continued focus on safeguarding, preserving, and strengthening Social Security benefits for our seniors, retirees, and future generations.",
+          "sourceUrl": "https://tenney.house.gov/media/press-releases/congresswoman-tenney-leads-legislation-reaffirming-her-commitment-protecting",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Tenney introduced the bipartisan Rental Housing Investment Act to expand housing supply through tax incentives for new construction.",
+          "quote": "The federal tax code should encourage the construction of more housing, not stand in the way.",
+          "sourceUrl": "https://tenney.house.gov/media/press-releases/congresswoman-tenney-introduces-bipartisan-rental-housing-investment-act",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Tenney co-introduced the High-Quality Charter Schools Act to expand charter schools through a tax credit, framing it as expanding school choice.",
+          "quote": "The High-Quality Charter Schools Act provides a tax credit for charitable donations that will develop and expand the number of charter schools to provide even more students access to affordable school choice options.",
+          "sourceUrl": "https://kiley.house.gov/posts/representatives-kiley-tenney-introduce-the-high-quality-charter-schools-act-to-boost-school-choice",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Tenney released a Law Enforcement Plan pledging to support police and ensure they have resources and protections.",
+          "quote": "I will always Back the Blue and fight to ensure these heroes have the resources, protections, and respect they deserve.",
+          "sourceUrl": "https://tenney.house.gov/media/press-releases/congresswoman-tenney-releases-2025-law-enforcement-plan",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Tenney's border security plan calls for deporting criminal illegal aliens and cracking down on illegal border crossings.",
+          "quote": "Any illegal alien who flees our immigration authorities or injures them during their evasion should immediately be deported",
+          "sourceUrl": "https://tenney.house.gov/issues/border-security-plan",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Tenney opposed the 2022 Democratic gun-control package, framing new firearm restrictions as infringements on Second Amendment and due-process rights.",
+          "quote": "Instead of knee-jerk reactions that undermine due process and infringe on our Second Amendment, there are commonsense steps Congress can take now to address the problem.",
+          "sourceUrl": "https://tenney.house.gov/media/press-releases/congresswoman-tenneys-statement-partisan-gun-control-package",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Tenney describes herself as pro-life, framing the right to life as fundamental in a statement supporting pro-life legislation.",
+          "quote": "The right to life is among the most basic and fundamental rights of our self-governing Constitutional Republic,",
+          "sourceUrl": "https://tenney.house.gov/media/press-releases/congresswoman-tenneys-statement-following-passage-pro-life-legislation",
+          "agreement": "3/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Tenney voted for the Protection of Women and Girls in Sports Act, which bars transgender women from women's sports based on sex at birth.",
+          "quote": "By passing this bill, we are protecting opportunities for female athletes to train, compete, and thrive.",
+          "sourceUrl": "https://tenney.house.gov/media/press-releases/congresswoman-tenney-votes-legislation-protecting-women-and-girls-sports",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Tenney opposes a government-run health system, favoring a market-based approach over expanding public coverage.",
+          "quote": "New Yorkers deserve a health care system that is sustainable and transparent, not one distorted by politicians' radical attempts to force New Yorkers into a one-size-fits-all, government-controlled health care system.",
+          "sourceUrl": "https://tenney.house.gov/media/press-releases/congresswoman-tenney-sets-record-straight-one-big-beautiful-bill-ends-medicaid",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Tenney's energy plan prioritizes lowering costs and boosting domestic energy production over climate mandates.",
+          "quote": "My Energy and Environment Plan takes a practical approach that lowers costs, unleashes American energy production, strengthens our grid, and protects the beautiful natural resources that make Upstate and Western New York such a special place to live.",
+          "sourceUrl": "https://tenney.house.gov/media/press-releases/congresswoman-tenney-releases-2026-energy-and-environment-plan-lower-costs-and",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "As chair of the House Election Integrity Caucus, Tenney's plan pushes voter ID, citizenship verification, and cleaner voter rolls.",
+          "quote": "I remain committed to protecting the sacred right of American citizens to vote and advancing commonsense reforms that make it easy to vote and hard to cheat.",
+          "sourceUrl": "https://tenney.house.gov/media/press-releases/congresswoman-tenney-unveils-her-2026-make-voting-great-again-plan-strengthen",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "rochesterbeacon.com · ellmanforcongress.com · thenation.com · tenney.house.gov · kiley.house.gov",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

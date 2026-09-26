@@ -1,0 +1,120 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 25",
+  "division": "ny/cd-25",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Joseph D. Morelle",
+      "party": "Democratic",
+      "stances": {
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Morelle says he works to protect Social Security and Medicare and opposes cuts to them.",
+          "quote": "That's why I fight every day in Congress to protect the future of Social Security and Medicare, which so many older adults rely on.",
+          "sourceUrl": "https://morelle.house.gov/issues/supporting-older-americans",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Morelle frames investing in public schools as a direct investment in children's futures.",
+          "quote": "By investing in our schools, we are directly investing in the future of our children.",
+          "sourceUrl": "https://morelle.house.gov/issues/educating-our-future",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Morelle backs legislation to restrict expansion of ICE and CBP detention facilities without local input.",
+          "quote": "prevent the federal government from constructing or operating new ICE or Customs and Border Patrol (CBP) detention facilities without public transparency, community input, and approval from state and local leaders.",
+          "sourceUrl": "https://morelle.house.gov/Issues/ExecutiveOrders",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Morelle supports banning assault weapons, universal background checks, and banning high-capacity magazines.",
+          "quote": "I'm proud to support numerous pieces of legislation to keep families safe from gun violence, including measures to ban assault weapons, enact universal background checks, ban the sale of high-capacity magazines, reduce gun theft and trafficking, and more.",
+          "sourceUrl": "https://morelle.house.gov/issues/enacting-common-sense-gun-reform",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Morelle says he is fighting to enshrine the right to reproductive care into federal law.",
+          "quote": "I'm fighting to enshrine the right to reproductive care into federal law and continue to passionately advocate for women's health freedom, pay equity, maternal care, and more.",
+          "sourceUrl": "https://morelle.house.gov/issues/protecting-womens-rights",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Morelle calls health care a fundamental right and fought to protect the Affordable Care Act.",
+          "quote": "When efforts were made to roll back the Affordable Care Act, Joe fought to protect it and the care millions of Americans depend on.",
+          "sourceUrl": "https://www.votemorelle.com/fixing-healthcare",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Morelle calls climate change an existential threat and urges bold investments to protect the planet.",
+          "quote": "The effects of climate change pose an existential threat to our environment as we know it. We need bold investments to secure the long-term health and vitality of our planet before it's too late.",
+          "sourceUrl": "https://morelle.house.gov/issues/protecting-our-environment",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Morelle says every eligible voter deserves to have their voice heard free from intimidation.",
+          "quote": "Every eligible voter deserves the chance to have their voice heard, free from intimidation, and have confidence our election systems will remain protected from interference.",
+          "sourceUrl": "https://morelle.house.gov/issues/Election-Security",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Virginia E. McIntyre",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "She campaigns on cutting taxes and waste, and touts backing tax reductions for seniors and veterans.",
+          "quote": "Supported tax reductions for seniors and veterans.",
+          "sourceUrl": "https://www.opencampaign.com/politicians-in-united-states/203118/virginia-mcintyre/issue-positions",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports a mix of community policing and prevention programs to reduce violence.",
+          "quote": "Support community policing, prevention programs, and strong partnerships that reduce violence and build trust.",
+          "sourceUrl": "https://www.opencampaign.com/politicians-in-united-states/203118/virginia-mcintyre/issue-positions",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "morelle.house.gov · votemorelle.com · opencampaign.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
