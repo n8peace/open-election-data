@@ -1,0 +1,114 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 11",
+  "division": "tx/cd-11",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "August Pfluger",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Pfluger voted for and promoted the 2025 tax law, saying Americans deserve lower taxes and less government.",
+          "quote": "I am of the camp that Americans deserve lower taxes and less government in their lives, and at the heart of the Working Families Tax Cut are critical tax reforms that deliver on that belief.",
+          "sourceUrl": "https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=2563",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "Pfluger endorsed raising tariffs on China to 125 percent as leverage for U.S. workers and manufacturers.",
+          "quote": "President Trump's decision to raise tariffs on China to 125% sends a clear message: the era of China taking advantage of American workers and businesses is over.",
+          "sourceUrl": "https://www.legistorm.com/stormfeed/view_rss/5423627/office/1834/title/statement-from-chairman-august-pfluger-on-president-trump039s-china-tariffs-announcement.html",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Pfluger voted for the Limit, Save, Grow Act to reduce spending while making no cuts to Medicare or Social Security.",
+          "quote": "Protects funding of our national defense and makes no cuts to Medicare or Social Security",
+          "sourceUrl": "https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=846",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Pfluger promoted a federal tax-credit provision supporting donations to school-choice scholarship funds.",
+          "quote": "This legislation also supports school choice by encouraging donations to scholarship funds, which will expand educational opportunities for every child in Texas, regardless of their ZIP code.",
+          "sourceUrl": "https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=2563",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Pfluger introduced a bill authorizing $61 million annually for three years to reimburse local law enforcement supporting Secret Service missions.",
+          "quote": "The Secret Service-Local Law Enforcement Partnership Act of 2025 ensures that when these officers step up to support protective missions, they are fairly reimbursed for their time and resources.",
+          "sourceUrl": "https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=2848",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Pfluger pledged to support anti-abortion policies and protect unborn life.",
+          "quote": "I will do everything in my power to protect and defend the unborn.",
+          "sourceUrl": "https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=415",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Pfluger voted for legislation defining sex in school athletics by genetics at birth.",
+          "quote": "The Protection of Women and Girls in Sports will prevent schools from allowing biological men to compete in women’s sports by defining sex in an athletic competition by genetics at birth.",
+          "sourceUrl": "https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=2235",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Pfluger backed health savings accounts and allowing consumers to buy coverage across state lines.",
+          "quote": "And we should do more as a Republican Conference, including creating Trump Health Freedom Accounts and allowing Americans to shop for coverage across state lines.",
+          "sourceUrl": "https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=2710",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Pfluger promoted repeal of the natural-gas tax to preserve energy jobs, increase domestic production, and lower costs.",
+          "quote": "This legislation also eliminates the natural gas tax – delivering certainty to American energy producers, preserving energy jobs, and incentivizing domestic production that will ultimately lead to lower costs for American consumers.",
+          "sourceUrl": "https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=2563",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Pfluger voted for the SAVE America Act, requiring proof of citizenship to register and government-issued identification to vote.",
+          "quote": "Number one, it requires you to register to vote and to prove your citizenship, and then when you go and vote, it requires you to provide a government-issued ID.",
+          "sourceUrl": "https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=2794",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "pfluger.house.gov · legistorm.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

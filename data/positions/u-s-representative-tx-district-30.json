@@ -1,0 +1,33 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 30",
+  "division": "tx/cd-30",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Everett Jackson",
+      "party": "REP",
+      "stances": {}
+    }
+  ],
+  "sources": "",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

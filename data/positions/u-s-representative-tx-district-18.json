@@ -1,0 +1,130 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 18",
+  "division": "tx/cd-18",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Christian Menefee",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Menefee supports raising taxes on billionaires and large corporations to fund expanded public programs.",
+          "quote": "He’ll also work to fix the tax code so that billionaires and large corporations pay their fair share, and we can finally afford a country that works for everyone, not just the people at the top.",
+          "sourceUrl": "https://christianmenefee.com/issue/affordability-and-the-american-dream/",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Menefee supports a $15 federal minimum wage, stronger unions, paid family leave, and workers’ organizing rights.",
+          "quote": "In Congress, he’ll fight to expand paid family leave, raise the minimum wage, and ensure workers have access to training programs that open doors to better opportunities. Christian knows that strong unions build strong communities, and he’ll always stand up for the people who power our economy.",
+          "sourceUrl": "https://christianmenefee.com/issue/standing-up-for-workers/",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Menefee co-sponsored legislation requiring refunds of tariffs collected under emergency-powers authority.",
+          "quote": "To require the Commissioner of U.S. Customs and Border Protection to refund tariffs collected under the International Emergency Economic Powers Act, and for other purposes.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr7736ih",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Menefee says he would make it easier to build affordable homes and provide down-payment assistance.",
+          "quote": "Make it easier to build homes that the average person can afford",
+          "sourceUrl": "https://christianmenefee.com/issue/affordability-and-the-american-dream/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Menefee pledges to fully fund public education, raise teacher pay, and invest in high-need schools.",
+          "quote": "In Congress, he’ll fight to fully fund public education, raise teacher pay, and expand Pell Grants so every student can afford college or career training.",
+          "sourceUrl": "https://christianmenefee.com/issue/protecting-and-strengthening-public-education/",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "Menefee emphasizes mental-health care, substance-abuse treatment, job training, and reentry programs over tougher sentencing.",
+          "quote": "Real public safety means investing in mental health care, substance abuse treatment, and protections for survivors of domestic violence—not just tougher sentences.",
+          "sourceUrl": "https://christianmenefee.com/issue/criminal-justice-reform/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Menefee supports a path to citizenship, DACA protections, family unity, fair visa and refugee policies, and faster asylum processing.",
+          "quote": "That means protecting families, ending cruel policies like family separation, and creating a path to citizenship.",
+          "sourceUrl": "https://christianmenefee.com/issue/fixing-our-broken-immigration-system/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Menefee supports an assault-weapons ban, tighter background checks, magazine limits, and a bump-stock ban.",
+          "quote": "In Congress, Christian will fight to ban assault weapons, close background check loopholes, and limit high-capacity magazines.",
+          "sourceUrl": "https://christianmenefee.com/issue/ending-gun-violence-and-saving-lives/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Menefee supports restoring federal abortion rights, protecting contraception and IVF, and blocking a national abortion ban.",
+          "quote": "In Congress, Christian will fight to restore abortion rights, defend contraception and IVF, and block a national abortion ban.",
+          "sourceUrl": "https://christianmenefee.com/issue/protecting-abortion-rights-reproductive-healthcare/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Menefee supports Medicare for All while expanding Medicare and strengthening Medicaid.",
+          "quote": "In Congress, he will fight to guarantee access to care by expanding Medicare, strengthening Medicaid, and ensuring coverage includes dental, vision, and hearing.",
+          "sourceUrl": "https://christianmenefee.com/issue/guaranteeing-access-to-healthcare/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Menefee supports tougher environmental protections, stronger pollution enforcement, and preserving the Inflation Reduction Act’s environmental policies.",
+          "quote": "In Congress, he’ll fight for tougher environmental protections, hold bad actors accountable, and push for federal funds to clean up contaminated sites. He’ll also work to stop Trump’s efforts to dismantle the EPA and defend progress made through the Inflation Reduction Act.",
+          "sourceUrl": "https://christianmenefee.com/issue/fighting-for-clean-air-water/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Menefee supports automatic and same-day voter registration and federal voting-rights legislation.",
+          "quote": "He’ll push for automatic and same-day registration, tougher campaign finance laws, and an end to gerrymandering that locks communities out of power.",
+          "sourceUrl": "https://christianmenefee.com/issue/defending-our-democracy/",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "christianmenefee.com · govinfo.gov",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

@@ -1,0 +1,119 @@
+{
+  "office": "State Senate",
+  "district": "CA District 4",
+  "division": "ca/sldu-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jaron Brandon",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Brandon says he approved every housing project considered during his county tenure, including 56 affordable units.",
+          "quote": "Approved every housing project, including initiating a partnership with the Stanislaus Regional Housing Authority (SRHA) for 56 approved affordable units",
+          "sourceUrl": "https://votejaron.com/about/",
+          "agreement": "4/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Brandon says he campaigned as pro-cannabis and introduced a county legalization proposal for dispensaries and cultivation.",
+          "quote": "I ran and won with a public pro-cannabis position and introduced legalization to the board for dispensaries and connected in-county cultivation.",
+          "sourceUrl": "https://www.canorml.org/cal-norml-election-guide-2026/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Alexandra Duarte",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Duarte supports cutting state taxes and reducing fraud and abuse in California's budget.",
+          "quote": "Alexandra supports cutting taxes and cutting fraud and abuse from California's budget.",
+          "sourceUrl": "https://www.alexandraforsenate.com/issues",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Duarte supports increased investment in law enforcement to address crime.",
+          "quote": "Alexandra believes that shoplifting is a crime, that criminals belong in jail, and that we need to invest more in our law enforcement to make sure that happens.",
+          "sourceUrl": "https://www.alexandraforsenate.com/issues",
+          "agreement": "5/5"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "Duarte supports stricter criminal sentences to keep dangerous offenders incarcerated.",
+          "quote": "Alexandra also supports stricter sentencing to keep dangerous criminals off our streets.",
+          "sourceUrl": "https://www.alexandraforsenate.com/issues",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Duarte pledges to close the border and end California's sanctuary policies.",
+          "quote": "I will shut the border. End Sanctuary laws. Protect our daughters.",
+          "sourceUrl": "https://www.placercountyelections.gov/Uploads/documents/06022026/CSQ/06022026_SD4.pdf",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Duarte supports making firearm permits, ammunition, and guns easier to obtain.",
+          "quote": "Alexandra will protect our God-given 2nd Amendment rights, making permits more available, ammo cheaper, and guns easier to buy.",
+          "sourceUrl": "https://www.ballotready.org/people/alexandra-duarte",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Duarte opposes allowing transgender girls and women to participate in girls' and women's sports.",
+          "quote": "Schools should not be able to hide their radical agendas from parents, and biological males do NOT belong in women’s and girls’ sports.",
+          "sourceUrl": "https://www.ballotready.org/people/alexandra-duarte",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Duarte supports expanding oil drilling and employment in the oil industry.",
+          "quote": "It’s time to drill, baby, drill, and let our oilmen get to work.",
+          "sourceUrl": "https://www.ballotready.org/people/alexandra-duarte",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Duarte supports voter identification requirements, election audits, and voter-roll reviews.",
+          "quote": "Alexandra will fight for voter ID, real election audits, and clean voter rolls.",
+          "sourceUrl": "https://www.ballotready.org/people/alexandra-duarte",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "votejaron.com · canorml.org · alexandraforsenate.com · placercountyelections.gov · ballotready.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

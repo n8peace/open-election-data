@@ -1,0 +1,122 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 12",
+  "division": "tx/cd-12",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Craig Goldman",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Goldman says Americans are overtaxed and has supported property, income, franchise and federal tax cuts.",
+          "quote": "Americans are overtaxed, and I will support any efforts to return more of their hard-earned money back to them",
+          "sourceUrl": "https://www.craiggoldman.org/issues/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Goldman said Congress would not cut Medicare or Social Security, while seeking administrative efficiencies.",
+          "quote": "we're not going to cut Medicaid, we're not going to cut Medicare, we're not going to cut Social Security.",
+          "sourceUrl": "https://fortworthreport.org/2025/05/14/north-texas-health-leaders-say-medicaid-cuts-could-jeopardize-care-for-vulnerable-clients/",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Goldman supported legislation providing public funds for private-school tuition and later backed educational savings accounts.",
+          "quote": "Goldman, who supported legislation that would have allowed parents to receive public money to subsidize private school tuition",
+          "sourceUrl": "https://www.texastribune.org/2024/04/20/craig-goldman-john-oshea-texas-12th-congressional-district-debate/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Goldman authored legislation preventing large cities from defunding police and backed mandatory incarceration for traffickers.",
+          "quote": "I also authored the bill to stop large cities from defunding their police departments and passed a law to combat human trafficking",
+          "sourceUrl": "https://www.craiggoldman.org/issues/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Goldman supported state laws permitting arrests and deportations and voted for billions of dollars in border enforcement funding.",
+          "quote": "I voted for the toughest border security laws of any state, including the ability to arrest and deport illegals.",
+          "sourceUrl": "https://www.craiggoldman.org/issues/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Goldman pledged to protect gun rights after supporting open carry, campus carry and permitless carry legislation.",
+          "quote": "As a member of Congress, I will continue to fiercely protect your Second Amendment rights and freedoms.",
+          "sourceUrl": "https://www.craiggoldman.org/issues/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Goldman supported Texas's heartbeat abortion restriction and voted to defund abortion providers.",
+          "quote": "The Texas Heartbeat bill, which I supported, stated that if a heartbeat was detected then an abortion could not occur.",
+          "sourceUrl": "https://www.craiggoldman.org/issues/",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Goldman voted to restrict women's collegiate sports participation according to sex at birth.",
+          "quote": "In 2023, I voted for the Save Women’s Sports Act, which extends that protection to women’s sports at the collegiate level.",
+          "sourceUrl": "https://www.craiggoldman.org/issues/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Goldman supports retaining Medicare and Medicaid but opposes establishing additional taxpayer-funded health programs.",
+          "quote": "C) Medicaid and Medicare should remain available, but no other taxpayer-funded programs are necessary.",
+          "sourceUrl": "https://ivoterguide.com/candidate/3166/race/6569/election/1214",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Goldman supported restoring oil and gas leasing while repealing green-energy subsidies and mandates.",
+          "quote": "Restores onshore oil and gas lease sales to increase energy production",
+          "sourceUrl": "https://craiggoldman.house.gov/issues/onebigbeautifulbill",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Goldman says he passed Texas legislation targeting ballot harvesting and will continue pursuing ballot-security measures in Congress.",
+          "quote": "As a State Representative, I passed the strongest election integrity bill in Texas history. This legislation works to end illegal ballot harvesting",
+          "sourceUrl": "https://www.craiggoldman.org/issues/",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "craiggoldman.org · fortworthreport.org · texastribune.org · ivoterguide.com · craiggoldman.house.gov",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

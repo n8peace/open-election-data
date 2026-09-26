@@ -1,0 +1,151 @@
+{
+  "office": "State Senate",
+  "district": "CA District 38",
+  "division": "ca/sldu-38",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Catherine S. Blakespear",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "She voted for AB 1228, legislation establishing minimum-wage standards for fast-food workers.",
+          "quote": "Allen, Alvarado-Gil, Archuleta, Ashby, Atkins, Becker, Blakespear, Bradford, Caballero, Cortese",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1228",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She advocates prosecuting violence and gun crimes while also investing in mental-health, addiction-treatment and crime-prevention programs.",
+          "quote": "Public safety means feeling safe, and it starts with stopping crime before it happens and ensuring violence and gun crimes are prosecuted to the fullest extent. I’ll keep working shoulder-to-shoulder with law enforcement while investing in mental health services, addiction treatment, and programs that reduce homelessness and crime before they start.",
+          "sourceUrl": "https://catherineblakespear.com/",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "She called for secure borders while supporting amnesty for undocumented immigrants who work, obey the law and contribute to their communities.",
+          "quote": "We should be working to secure our borders‚ invest in order and public safety‚ and create a path to amnesty for those who are hardworking‚ good people.",
+          "sourceUrl": "https://sd38.senate.ca.gov/news/concerns-about-ice-other-news-sen-blakespear",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She called for reinstating a national assault-weapons ban.",
+          "quote": "We had a national assault weapons ban from 1994-2004 and we could have one again. We should demand it.",
+          "sourceUrl": "https://sd38.senate.ca.gov/news/keeping-politics-nonviolent-other-news-sen-blakespear",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Her official Senate biography describes her as consistently supportive of abortion rights.",
+          "quote": "Catherine has been a champion of women’s reproductive rights since before entering public life.  Catherine is proud to have been 100% pro-choice, 100% of the time.",
+          "sourceUrl": "https://democrats.senate.ca.gov/senator/blakespear",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "She voted for AB 1955, which protects LGBTQ students’ gender-identity privacy and bars mandatory outing policies in schools.",
+          "quote": "Allen, Archuleta, Ashby, Atkins, Becker, Blakespear, Bradford, Caballero, Cortese, Dodd, Durazo, Eggman",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1955",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "She voted for and praised a state budget that maintained planned funding increases for Medi-Cal.",
+          "quote": "It maintains previously planned program increases for schools, higher education, CalWORKs and SSI/SSP grants, Medi-Cal and more.",
+          "sourceUrl": "https://sd38.senate.ca.gov/news/news-senator-blakespear-july-2023",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She says accelerating the transition to clean energy and fighting climate change are central goals of her public service.",
+          "quote": "It’s been my mission in public service to accelerate our transition to clean energy, fight climate change, and safeguard our natural resources for generations to come.",
+          "sourceUrl": "https://catherineblakespear.com/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "She voted for SB 1174, which prohibited local governments from imposing voter-identification requirements beyond state or federal law.",
+          "quote": "Archuleta, aye. Ashby, aye. Atkins, aye. Becker, aye. Blakespear, aye. Bradford, aye. Caballero, aye. Cortese, aye.",
+          "sourceUrl": "https://calmatters.digitaldemocracy.org/hearings/257988",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Laura Bassett",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Bassett says California should stop imposing new taxes and fees and let residents keep more of their earnings.",
+          "quote": "That means stopping unnecessary new taxes and fees and letting people keep more of what they earn.",
+          "sourceUrl": "https://www.bassettforca.com/issues",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Bassett says housing supply should increase by reducing fees, regulations and other barriers to construction.",
+          "quote": "Excessive fees and regulations have made building new homes far more expensive, slowing construction and driving up the price of every home and every rent check.",
+          "sourceUrl": "https://www.bassettforca.com/issues",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Bassett says law enforcement and prosecutors need stronger support, adequate resources, and effective enforcement tools.",
+          "quote": "Law enforcement officers and prosecutors play a crucial role in maintaining order, and they need clear laws, strong support, and the right tools to respond effectively when crime occurs.",
+          "sourceUrl": "https://www.bassettforca.com/issues",
+          "agreement": "10/10"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "Bassett supports funding Proposition 36 and strengthening penalties for serious drug and firearm offenses and consequences for repeat offenders.",
+          "quote": "Voters overwhelmingly approved Proposition 36 to strengthen penalties for serious drug and firearm offenses and ensure repeat offenders face appropriate consequences.",
+          "sourceUrl": "https://www.bassettforca.com/issues",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Bassett says she would reduce regulatory barriers that she believes increase energy costs.",
+          "quote": "As a legislator, I would focus on cutting wasteful spending, opposing new taxes, and reducing regulatory barriers that drive up housing and energy costs so people can keep more of what they earn.",
+          "sourceUrl": "https://www.ocregister.com/2026/05/06/laura-bassett-sd-38-candidate-2026-primary-election-questionnaire/",
+          "agreement": "4/10"
+        }
+      }
+    }
+  ],
+  "sources": "leginfo.legislature.ca.gov · catherineblakespear.com · sd38.senate.ca.gov · democrats.senate.ca.gov · calmatters.digitaldemocracy.org · bassettforca.com · ocregister.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

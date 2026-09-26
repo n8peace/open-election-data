@@ -1,0 +1,106 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 25",
+  "division": "tx/cd-25",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Roger Williams",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Williams says he will consistently fight to lower taxes and leave more money with workers and families.",
+          "quote": "The bottom line is that you know how to spend your money better than the government does. I will always fight for hardworking families and workers to have certainty for the future and to put more money back into your pockets.",
+          "sourceUrl": "https://williams.house.gov/issues",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Williams voted against the 2019 Raise the Wage Act.",
+          "quote": "Vote Question: On Passage Raise the Wage Act Vote Type: Recorded Vote Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Williams said he voted against a plan that would have protected five million undocumented immigrants from deportation.",
+          "quote": "A vote for the Department of Homeland Security (DHS) Appropriations Act for Fiscal Year 2015 was a vote for President Barack Obama's plan to protect five million undocumented immigrants from deportation.",
+          "sourceUrl": "https://williams.house.gov/media-center/columns/why-i-voted-against-obama-s-plan-for-amnesty",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Williams explicitly opposes universal background checks, assault-weapons bans, buybacks and red-flag laws.",
+          "quote": "That's why I proudly oppose all government regulations that infringe upon your rights and oppose universal background checks, buy-backs, assault weapons bans, and red flag laws.",
+          "sourceUrl": "https://williams.house.gov/issues/second-amendment",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Williams says life begins at conception and cites votes to defund Planned Parenthood and restrict federal abortion funding.",
+          "quote": "Life is a precious gift that begins at conception, and during my time in Congress, I've worked to protect the most vulnerable among us, voting at every opportunity to defund Planned Parenthood and prevent federal funds from being used in the barbaric act of abortion.",
+          "sourceUrl": "https://williams.house.gov/issues/pro-life",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Williams voted for the Protection of Women and Girls in Sports Act in 2025.",
+          "quote": "Vote Question: On Passage Protection of Women and Girls in Sports Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "3/5"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "Williams voted against the 2022 MORE Act, which would have federally decriminalized and descheduled cannabis.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Williams supports domestic oil and gas production and an all-of-the-above energy policy.",
+          "quote": "I will continue supporting domestic oil and gas producers, as well as an all above energy approach, so that we do not depend on foreign countries for our energy.",
+          "sourceUrl": "https://williams.house.gov/issues",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Williams voted for the Safeguard American Voter Eligibility Act in 2024.",
+          "quote": "Vote Question: On Passage Safeguard American Voter Eligibility Act Vote Type: Recorded Vote Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2024345",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "williams.house.gov · clerk.house.gov",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
