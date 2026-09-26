@@ -1,0 +1,326 @@
+{
+  "office": "U.S. Representative",
+  "district": "NC District 11",
+  "division": "nc/cd-11",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jennifer Capps Balkcom",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She called for eliminating North Carolina's individual income tax and phasing out its corporate tax.",
+          "quote": "I would like to see the complete elimination of the individual income tax in North Carolina and a full transition to a consumption tax. I also support current legislative action to completely phasing-out North Carolina's corporate tax.",
+          "sourceUrl": "https://ivoterguide.com/candidate/65059/race/11207/election/946",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "She said she did not favor raising the minimum wage at the present time.",
+          "quote": "I am not in favor of raising the minimum wage at the present time.",
+          "sourceUrl": "https://ivoterguide.com/candidate/65059/race/24674/election/1371",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "She strongly agreed that state education funding should follow students to public, private, or home schools.",
+          "quote": "The state should fund education by allowing dollars to follow the child through programs which protect parents' freedom to choose their child's school – public, private, or homeschool.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/65059/race/11207/election/1206",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "She strongly disagreed with redirecting police funding to mental-health and community programs.",
+          "quote": "I support redirecting funds from police departments to mental health and community programs.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/65059/race/11207/election/946",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "She emphasized secure borders and requiring immigration to proceed through legal channels.",
+          "quote": "I believe in secure borders. For me, we have to do it the right way. We have to do it the legal way.",
+          "sourceUrl": "https://www.whkp.com/news/congressional-candidte-ager-balkcom-held-thursday-night-at-blue-ridge-community-college",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "She opposed new restrictions on gun ownership and called instead for enforcing existing laws.",
+          "quote": "I am not in favor of new gun ownership restrictions. We need to enforce existing laws.",
+          "sourceUrl": "https://ivoterguide.com/candidate/65059/race/24674/election/1371",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "She said intentional abortion is never medically necessary and endorsed legal protection for human life from conception.",
+          "quote": "Abortion is never medically necessary: there is never a situation in the law or in the ethical practice of medicine where a pre-born child’s life need be destroyed by intentional abortion, including for the purpose of saving the life of the mother.",
+          "sourceUrl": "https://ivoterguide.com/candidate/65059/race/24674/election/1371",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "She strongly agreed that biological males should be excluded from women's sports and other designated women's spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/65059/race/24674/election/1371",
+          "agreement": "4/5"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "strong",
+          "text": "She answered no when asked whether North Carolina should legalize marijuana for medical use.",
+          "quote": "Response to 2024 NC Family Voter question Should the N.C. General Assembly legalize the use of marijuana for medical purposes? NO",
+          "sourceUrl": "https://vote.norml.org/politicians/202758",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "She favored free-market health-care solutions, retaining Medicare and Medicaid while opposing Medicaid expansion.",
+          "quote": "While I am a small-goverment, constitutional conservative who prefers free-market solutions (including in healthcare) I believe that it is unrealistic to think that Medicare and Medicaid will be defunded, so I would choose option C. I do believe that Medicaid and Medicare can be reformed to lower cost and increase outcomes. I do not support Medicaid expansion in North Carolina to cover childless, able-bodied adults.",
+          "sourceUrl": "https://ivoterguide.com/candidate/65059/race/11207/election/946",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "She strongly disagreed that human-caused climate change requires urgent political action.",
+          "quote": "Man-made climate change is a global threat and requires urgent political action.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/65059/race/24674/election/1371",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "She strongly disagreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/65059/race/24674/election/1371",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Jamie Ager",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Ager supports higher taxes on people at the top while offering targeted tax relief to working people.",
+          "quote": "I’ll push both parties to reform the tax code so the folks at the top pay their fair share. And I’ll support reforms that help working people, like no tax on tips — real tips, not bonuses for CEOs.",
+          "sourceUrl": "https://agerforcongress.com/platform",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He criticized retaliatory tariffs for harming farms and said tariff policy should be more strategic.",
+          "quote": "To me, those tariffs had the unintended consequence of retaliatory tariffs that devastated so many farms and the only thing to do then was bail them out, which was not a good outcome, not a good scenario. So, we gotta be more strategic with how we do these things",
+          "sourceUrl": "https://www.whkp.com/news/congressional-candidte-ager-balkcom-held-thursday-night-at-blue-ridge-community-college",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says he would maintain robust Medicaid, Medicare, and Social Security benefits.",
+          "quote": "I’ll support robust Medicaid, Medicare, and Social Security so the folks most at risk in our communities have the support they need.",
+          "sourceUrl": "https://agerforcongress.com/platform",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He says more homes are needed for owners and renters and supports buyer-assistance programs.",
+          "quote": "We need more housing for owners and renters. I’ll support programs for first time home buyers and public service employees like teachers, firefighters, and first responders.",
+          "sourceUrl": "https://agerforcongress.com/platform",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports both increased law-enforcement pay and training and programs addressing the root causes of crime.",
+          "quote": "We must invest in better pay and training for our law enforcement officers, as well as programs that help tackle the root causes of crime.",
+          "sourceUrl": "https://agerforcongress.com/platform",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports protections for Dreamers, citizenship pathways, family unity, and border security.",
+          "quote": "We must pass real immigration reform that provides protection for Dreamers, establishes clear pathways for citizenship while keeping families together, and properly secures our border.",
+          "sourceUrl": "https://www.wsoctv.com/news/local/political-beat-candidate-guide-house-representatives-district-11/7ERKEUDZJZDKFCMTLZ2HKMDVYI/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "He said he generally would not push hard on Second Amendment measures and instead emphasized mental-health funding.",
+          "quote": "“I’m generally not going to push too hard on Second Amendment stuff,” he said. “But when there’s gun violence and then you say we need to focus on mental health, and then you go defund mental health — that’s inconsistent,” he said.",
+          "sourceUrl": "https://smokymountainnews.com/archived/archived-news/jamie-ager-enters-nc-11-race-with-message-of-rural-roots-business-acumen/",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "He described himself as pro-choice and pro-family while emphasizing support for families after birth.",
+          "quote": "He called himself “pro-choice and pro-family,” but emphasized the need to support families after children are born.",
+          "sourceUrl": "https://smokymountainnews.com/archived/archived-news/jamie-ager-enters-nc-11-race-with-message-of-rural-roots-business-acumen/",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Ager says people he describes as men should not compete in women's sports.",
+          "quote": "When people ask me if men should play women’s sports, I’ve got a one-word answer and that’s no",
+          "sourceUrl": "https://www.hendersonvillelightning.com/four-seasons-politics/15963-in-a-closely-watched-11th-district-democrats-regard-ager-as-their-best-shot-in-years.html",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He says he would create a public insurance option to make health coverage affordable.",
+          "quote": "I’ll push for a public option so everyone has access to quality affordable health care.",
+          "sourceUrl": "https://agerforcongress.com/platform",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Ager supports renewable energy but says his priority is whichever energy sources are cheapest and best for families.",
+          "quote": "I won’t let partisan politics get in the way of supporting whatever energy is cheapest and best for our families.",
+          "sourceUrl": "https://cleanenergy.org/news/jamie-ager-on-climate-energy-where-the-candidates-stand/",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "Travis Groo",
+      "party": "LIB",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Groo proposed abolishing federal income and capital-gains taxes.",
+          "quote": "Day one: abolish all income taxes. Day two: abolish all capital gains taxes. Day three: audit the fed.",
+          "sourceUrl": "https://www.lpnc.org/travis_groo_us_house_nc_district_11",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "Groo said politicians should not establish a minimum wage.",
+          "quote": "I don't believe there should be a minimum wage set by politicians.",
+          "sourceUrl": "https://ivoterguide.com/candidate/53642/race/17438/election/1206",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Groo characterized tariffs as taxes paid by Americans.",
+          "quote": "Tariffs are taxes that Americas pay. It’s affecting everything. Inflation is just another tax.",
+          "sourceUrl": "https://www.lpnc.org/travis_groo_us_house_nc_district_11",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Groo said Medicare and Medicaid should be defunded rather than preserved in their current form.",
+          "quote": "Taxpayer funded health care should be abolished in all forms, and Medicaid and Medicare should be defunded.",
+          "sourceUrl": "https://ivoterguide.com/candidate/53642/race/17438/election/1206",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Groo advocated zoning that accommodates townhomes, duplexes, triplexes, and tiny homes.",
+          "quote": "As the Town continues to grow it’s vital to accommodate various housing options, including townhomes, duplexes, triplexes, and tiny homes. If our zoning regulations enable builders and owners to be creative with their property, supply and demand will be in better balance.",
+          "sourceUrl": "https://www.lpnc.org/groo23",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Groo advocated letting education funding follow students and expanding North Carolina's Opportunity Scholarship voucher program to all families.",
+          "quote": "I’d like to see a more capitalistic approach to our education system, and expand the North Carolina's Opportunity Scholarship Program to all families.",
+          "sourceUrl": "https://www.lpnc.org/school_choice_travis_groo",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "In 2020, Groo said anyone should be able to immigrate and called for reforming the immigration system.",
+          "quote": "Anyone. We desperately need to reform our immigration system",
+          "sourceUrl": "https://ivoterguide.com/candidate/53642/race/11234/election/763",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Groo said no restrictions on gun ownership are needed for public safety.",
+          "quote": "ZERO. The public should be able to protect themselves with guns without restrictions.",
+          "sourceUrl": "https://ivoterguide.com/candidate/53642/race/11234/election/763",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "Groo said government should stay out of personal abortion decisions, while also describing abortion as immoral and opposing taxpayer funding.",
+          "quote": "Government should have no say in personal decisions, and should not be involved at all.",
+          "sourceUrl": "https://ivoterguide.com/candidate/53642/race/11234/election/763",
+          "agreement": "5/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Groo strongly agreed that public high-school athletes should compete according to gender identity rather than biological sex.",
+          "quote": "I support allowing public high school students to participate in athletic competition based on the gender with which they identify instead of biological sex. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/53642/race/11234/election/763",
+          "agreement": "8/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Groo strongly agreed with legalizing recreational marijuana.",
+          "quote": "I support the legalization of recreational marijuana. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/53642/race/11234/election/763",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Groo previously advocated defunding Medicaid and Medicare but later signed a platform calling for Medicaid coverage for qualifying breast-cancer patients.",
+          "quote": "Groo rejected government intervention in health care and advocated for defunding Medicaid and Medicare. But this year she signed the National Breast Cancer Coalition's",
+          "sourceUrl": "https://enlacelatinonc.org/en/Candidates-for-the-United-States-House-of-Representatives--District-11/",
+          "agreement": "7/10"
+        }
+      }
+    }
+  ],
+  "sources": "ivoterguide.com · whkp.com · vote.norml.org · agerforcongress.com · wsoctv.com · smokymountainnews.com · hendersonvillelightning.com · cleanenergy.org · lpnc.org · enlacelatinonc.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

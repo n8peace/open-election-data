@@ -1,0 +1,246 @@
+{
+  "office": "U.S. Representative",
+  "district": "NC District 10",
+  "division": "nc/cd-10",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Steven Feldman",
+      "party": "LIB",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Feldman favors a simplified flat and sales tax system with minimal rates, a poverty-level rebate, and no other taxes.",
+          "quote": "A simpler system, with minimal rates and no deductions, would promote confidence by being more transparent.",
+          "sourceUrl": "https://www.stevefeldmanforcongress.com/my-positions",
+          "agreement": "9/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He says competition for workers and fewer federal regulations would raise wages.",
+          "quote": "Increasing the availability of jobs that creates competition for workers would help increase wages.",
+          "sourceUrl": "https://ncearlyeducationcoalition.org/wp-content/uploads/2024/09/Feldman-2024-Congressional-Questionnaire.docx.pdf",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He calls for spending cuts, debt reduction, and changes to Social Security and Medicare eligibility.",
+          "quote": "The government must spend less and pay down the debt.",
+          "sourceUrl": "https://www.stevefeldmanforcongress.com/my-positions",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He says government regulations restrict needed housing construction and contribute to high prices.",
+          "quote": "Where we have a housing crisis, we should be asking to what extent our government regulations limit the housing construction needed to house people and bring down prices.",
+          "sourceUrl": "https://www.lpnc.org/feldman26",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "He answered that he supports expanding charter schools, vouchers, homeschooling, and other school-choice options.",
+          "quote": "Do you support expanding school choice options, including charter schools, vouchers, and homeschooling, to give parents and students more control over their education?\nSupport",
+          "sourceUrl": "https://www.lpnc.org/liberty_survey_2024_steve_feldman",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "He strongly supports ending mandatory minimums for nonviolent offenses and emphasizing rehabilitation over incarceration.",
+          "quote": "Do you support reforming the criminal justice system by ending mandatory minimum sentences for non-violent offenses and emphasizing rehabilitation over incarceration?\nStrongly Support",
+          "sourceUrl": "https://www.lpnc.org/liberty_survey_2024_steve_feldman",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He strongly supports making it easier for nonviolent immigrants to live and work legally without unnecessary restrictions.",
+          "quote": "Do you support policies that make it easier for non-violent immigrants to live and work in North Carolina legally, without unnecessary government restrictions?\nStrongly Support",
+          "sourceUrl": "https://www.lpnc.org/liberty_survey_2024_steve_feldman",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "Feldman supported opposing new state-level gun-control measures, although he did not support repealing all existing laws.",
+          "quote": "opposing any new state-level gun control measures? Support",
+          "sourceUrl": "https://www.lpnc.org/liberty_survey_2024_steve_feldman",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He opposes forcing women to give birth in every circumstance while also saying fetal rights must be considered.",
+          "quote": "I agree with the pro-Choice position that the government should not be in the business of forcing women to give birth, at all times, in all situations. I agree with the pro-Life position that the rights of the fetus must also be considered;",
+          "sourceUrl": "https://www.stevefeldmanforcongress.com/my-positions",
+          "agreement": "10/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "He strongly supports decriminalizing cannabis and reducing penalties for nonviolent, victimless offenses.",
+          "quote": "Do you support the decriminalization of cannabis and other measures that reduce penalties for non-violent, victimless crimes?\nStrongly Support",
+          "sourceUrl": "https://www.lpnc.org/liberty_survey_2024_steve_feldman",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He favors market-based health care, competition, high-deductible plans, and health savings accounts.",
+          "quote": "My preference is to encourage market-based care. Markets give people incentives to choose lower cost options, create competition that would reduce health care prices, and give providers incentives to improve quality.",
+          "sourceUrl": "https://www.stevefeldmanforcongress.com/my-positions",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "He supports voter-ID requirements provided eligible voters can easily obtain identification.",
+          "quote": "Libertarians don’t care for government ID’s, but I personally believe that requiring a voter ID is entirely reasonable, if we make sure that all eligible voters are given or can easily obtain an ID.",
+          "sourceUrl": "https://www.stevefeldmanforcongress.com/my-positions",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Ashley Bell",
+      "party": "DEM",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Bell said the minimum wage should rise with inflation.",
+          "quote": "I also think that increasing the minimum wage to keep up with inflation would also help that.",
+          "sourceUrl": "https://www.pbs.org/video/ashley-bell-democratic-candidate-for-ncs-10th-congressional-district-1d75oc/",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Bell called the administration's tariffs unnecessary and said its decisions should be rolled back.",
+          "quote": "So the tariffs that were, you know, completely unnecessary and have damaged our relationships with other trade partners.",
+          "sourceUrl": "https://www.pbs.org/video/ashley-bell-democratic-candidate-for-ncs-10th-congressional-district-1d75oc/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Bell listed protecting Social Security among her affordability priorities.",
+          "quote": "Affordability: Lower drug and child care costs, expand housing supply, protect Social Security, support fair wages.",
+          "sourceUrl": "https://www.wbtv.com/2026/02/17/2026-primary-election-north-carolina-10th-congressional-district-candidates-answer-questions-about-stances-plans/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Bell called for building more affordable housing and subsidizing qualifying builders.",
+          "quote": "More safe, affordable housing should be built, and builders who are willing to do so should receive subsidies if they meet requirements on timelines and quality.",
+          "sourceUrl": "https://www.wsoctv.com/news/local/political-beat-candidate-guide-house-representatives-district-10/T7WLZYEQQBB7FNEAUF5IOE73LM/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Bell says public schools should be fully funded and teachers should receive better pay.",
+          "quote": "Ashley wants public schools fully funded and teachers paid what they're worth.",
+          "sourceUrl": "https://www.ashleybellforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Bell supports abolishing ICE, replacing it with a new enforcement agency and establishing a pathway to citizenship for law-abiding immigrants.",
+          "quote": "Furthermore, a pathway to citizenship must be established for law-abiding, hardworking, tax paying immigrants who contribute to our society",
+          "sourceUrl": "https://www.wsoctv.com/news/local/political-beat-candidate-guide-house-representatives-district-10/T7WLZYEQQBB7FNEAUF5IOE73LM/",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "Bell supports what her campaign calls common-sense gun reform while also supporting the Second Amendment.",
+          "quote": "Common sense gun reform. Supporting the Second Amendment and opposing gun violence aren’t in conflict.",
+          "sourceUrl": "https://www.ashleybellforcongress.com/issues",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Bell's campaign published a proposed bill that would codify the right to choose.",
+          "quote": "Returns the right to choose what happens to one's own body, and codifies this into law so it can never be stolen again.",
+          "sourceUrl": "https://www.ashleybellforcongress.com/draft-bills",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Bell explicitly proposed a Medicare for All system.",
+          "quote": "I would propose that we have a Medicare for all system.",
+          "sourceUrl": "https://www.pbs.org/video/ashley-bell-democratic-candidate-for-ncs-10th-congressional-district-1d75oc/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Bell supports the Green New Deal, clean-energy employment, pollution reduction, and expanded public transit.",
+          "quote": "Green New Deal. More clean energy jobs, less pollution, and expanded public transit.",
+          "sourceUrl": "https://www.ashleybellforcongress.com/issues",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Pat Harrigan",
+      "party": "REP",
+      "stances": {
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "Harrigan signed a bipartisan letter urging federal action against solar imports that avoided existing U.S. duties.",
+          "quote": "This duty evasion and tax fraud is harming U.S. energy manufacturers and placing them at a clear competitive disadvantage,",
+          "sourceUrl": "https://harrigan.house.gov/media/in-the-news/reuters-us-lawmakers-seek-crackdown-solar-imports-they-say-dodge-duties",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Harrigan calls for immediate school-choice options for parents while states reform public schools.",
+          "quote": "We must give parents school-choice options today while elected officials at the state level revamp our public school systems.",
+          "sourceUrl": "https://www.harriganforcongressnc.com/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Harrigan supports additional policy and investment to ensure police departments are adequately resourced.",
+          "quote": "And it is implemented by promoting policy and investment that adequately resources our police—not by defunding the police.",
+          "sourceUrl": "https://www.harriganforcongressnc.com/",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "stevefeldmanforcongress.com · ncearlyeducationcoalition.org · lpnc.org · pbs.org · wbtv.com · wsoctv.com · ashleybellforcongress.com · harrigan.house.gov · harriganforcongressnc.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

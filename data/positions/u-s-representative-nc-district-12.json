@@ -1,0 +1,224 @@
+{
+  "office": "U.S. Representative",
+  "district": "NC District 12",
+  "division": "nc/cd-12",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jack Codiga",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Codiga supports abolishing federal income and property taxes and replacing them with consumption-based taxes and tariffs.",
+          "quote": "Property tax & the income tax should be abolished (not so fun fact, the 16th Amendment had to be passed to allow for an income tax - let’s repeal it!).",
+          "sourceUrl": "https://ihatepolitics.com/pages/platform",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "Codiga supports tariffs as part of a consumption-based tax system while also saying trade generally creates wealth.",
+          "quote": "America should adopt simpler, consumption-based taxes and tariffs.",
+          "sourceUrl": "https://ihatepolitics.com/pages/platform",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Codiga proposes phasing out Social Security, government health care and other welfare programs as part of reducing government spending and dependency.",
+          "quote": "This means we must reform and phase out all welfare programs, including Social Security (the godfather of all Ponzi schemes), government healthcare, and government-backed mortgages.",
+          "sourceUrl": "https://ihatepolitics.com/pages/platform",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Codiga supports sharply limiting zoning restrictions to infrastructure and pollution concerns.",
+          "quote": "Zoning should be limited to genuine infrastructure or pollution concerns.",
+          "sourceUrl": "https://ihatepolitics.com/pages/platform",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Codiga supports deporting violent offenders and people who exploit government programs, while allowing some assimilated immigrants a path to legal residency.",
+          "quote": "A serious immigration policy should begin with deporting violent criminals and those who exploit government programs.",
+          "sourceUrl": "https://www.wsoctv.com/news/local/political-beat-candidate-guide-house-representatives-district-12/YJR7JHQWZJB65LDXEMX5B7QMFA/",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Codiga opposes burdensome state requirements for carrying firearms and says gun ownership should be available to most people.",
+          "quote": "States should not create burdensome legal hurdles just to carry a firearm.",
+          "sourceUrl": "https://ihatepolitics.com/pages/platform",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Codiga says legal protection for unborn life should apply in every state from conception.",
+          "quote": "Since life begins at conception, the right to life is a fundamental right that should be protected under the law in every state.",
+          "sourceUrl": "https://ihatepolitics.com/pages/platform",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Codiga strongly agreed that biological males should be excluded from women’s sports and sex-specific spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90011/race/24501/election/1371",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Codiga supports market competition, price transparency and consumer choice instead of expanded government health-care programs.",
+          "quote": "We must eliminate administrative bloat and expose healthcare to real market forces like price transparency and competition.",
+          "sourceUrl": "https://ihatepolitics.com/pages/platform",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Alma S. Adams",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Adams opposes cutting public benefits and services to finance tax breaks for the wealthy.",
+          "quote": "After 100 days under President Trump, his term can only be defined by economic hardship, divisive, partisan politics, and letting millions suffer for bigger tax breaks for billionaires",
+          "sourceUrl": "https://adams.house.gov/media-center/press-releases/rep-adams-statement-president-trumps-first-100-days-immense-harm",
+          "agreement": "3/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Adams introduced legislation establishing a permanent minimum wage for federal contract workers that would rise to $25 per hour.",
+          "quote": "legislation establishing a permanent, predictable minimum wage for workers employed through federal contracts.",
+          "sourceUrl": "https://adams.house.gov/media-center/press-releases/rep-adams-introduces-bill-set-standard-wages-federal-contractors",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Adams's office criticized President Trump's tariffs for increasing costs for ordinary Americans.",
+          "quote": "This legislation comes at a crucial time, as President Donald Trump’s tariffs and economic policies are driving up costs for everyday Americans.",
+          "sourceUrl": "https://adams.house.gov/media-center/press-releases/reps-adams-takano-and-sen-sanders-reintroduce-restoring-overtime-pay",
+          "agreement": "8/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Adams said Social Security must not be undermined and described it as a lifeline for seniors and other beneficiaries.",
+          "quote": "Social Security is a lifeline for millions of Americans—seniors, widows, children, disabled workers—and we cannot and will not let it be undermined.",
+          "sourceUrl": "https://adams.house.gov/media-center/press-releases/rep-adams-statement-scotus-granting-doge-access-social-security",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Adams introduced a bill to expand affordable-housing construction by financing early development work on land owned by faith-based organizations.",
+          "quote": "a bill that would help expand the affordable housing supply by addressing a critical early-stage financing gap",
+          "sourceUrl": "https://adams.house.gov/media-center/press-releases/rep-adams-introduces-bill-support-faith-based-organizations-development",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Adams opposes school vouchers and says public schools should receive the funding they need.",
+          "quote": "Adams opposes any school voucher program. She will always fight for public schools",
+          "sourceUrl": "https://almaadamsforcongress.com/issues/",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "Adams's community-project funding page supported a civilian violence-prevention team for calls that may not require police.",
+          "quote": "The City of Charlotte recently created a violence and crime prevention team comprised of civilian responders.",
+          "sourceUrl": "https://adams.house.gov/fiscal-year-2024-community-project-funding-award-projections",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Adams helped introduce legislation providing legal counsel and case-management protections to children and other vulnerable people in immigration proceedings.",
+          "quote": "new legislation to protect children and other vulnerable groups in immigration proceedings by ensuring access to counsel, legal orientation programs, and case management services.",
+          "sourceUrl": "https://adams.house.gov/media-center/press-releases/congresswoman-adams-other-house-democrats-introduce-fair-day-court-kids",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Adams supports an assault-weapons ban, closing the gun-show loophole, and requiring firearm background checks.",
+          "quote": "ban certain high-powered assault weapons, close the gun show loophole, require background checks",
+          "sourceUrl": "https://almaadamsforcongress.com/issues/",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Adams filed a brief seeking continued access to mifepristone and described abortion as health care.",
+          "quote": "Women deserve healthcare, and abortion care is healthcare. This lower court decision cannot stand.",
+          "sourceUrl": "https://adams.house.gov/media-center/press-releases/rep-adams-urges-supreme-court-maintain-access-mifepristone-louisiana-v",
+          "agreement": "10/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Adams voted for the MORE Act, which would federally deschedule, legalize, and tax cannabis.",
+          "quote": "Voted FOR the MORE Act H.R.3617 in 2022, which provides for federal descheduling, legalization, and taxation of cannabis at the federal level",
+          "sourceUrl": "https://www.mpp.org/assets/pdf/takeaction/election-central1/voter-guides/mpp-scorecard-us-congress-and-incumbents-2024.pdf?v=1752570194",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Adams introduced legislation expanding Medicare and Medicaid coverage for community-health-worker services.",
+          "quote": "legislation that would improve Medicare coverage for community health worker services and encourage states to cover these services under their Medicaid programs.",
+          "sourceUrl": "https://adams.house.gov/media-center/press-releases/reps-adams-ruiz-sen-blunt-rochester-introduce-bill-expand-access",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Adams introduced legislation using federal conservation funds to help farms transition to more climate-friendly production systems.",
+          "quote": "The IACA would use existing agricultural conservation funds to support farmers transitioning from concentrated animal feeding operations (CAFOs) to more sustainable and humane production systems.",
+          "sourceUrl": "https://adams.house.gov/media-center/press-releases/reps-adams-mcgovern-sen-booker-introduce-climate-smart-farm-conversion",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Adams supports strengthened voting-rights protections and elections without unnecessary barriers to eligible voters.",
+          "quote": "Every eligible voter deserves an equal opportunity to participate in our elections, free from discrimination, intimidation, or unnecessary barriers.",
+          "sourceUrl": "https://adams.house.gov/media-center/press-releases/rep-adams-legacy-john-lewis",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "ihatepolitics.com · wsoctv.com · ivoterguide.com · adams.house.gov · almaadamsforcongress.com · mpp.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
