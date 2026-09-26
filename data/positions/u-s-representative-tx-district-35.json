@@ -1,0 +1,160 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 35",
+  "division": "tx/cd-35",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Carlos De La Cruz",
+      "party": "REP",
+      "stances": {
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "De La Cruz says federal spending should be cut without reducing retirees' earned benefits.",
+          "quote": "First, we have to cut spending without compromising the benefits our retirees earned and depend on.",
+          "sourceUrl": "https://sanantonioreport.org/profile/carlos-de-la-cruz-2026-candidate-for-texas-35th-congressional-district/",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "De La Cruz promises to provide law-enforcement officers with the resources needed to protect communities and restore order.",
+          "quote": "I'll make sure our officers have the resources they need to protect our families and restore law and order.",
+          "sourceUrl": "https://www.carlosforcongress.com/mission",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "De La Cruz supports increasing border infrastructure, personnel, technology and legal authority while pursuing cartels.",
+          "quote": "That means finishing the job on border security: the infrastructure, personnel, technology, and legal authority for border officials to do their work without Washington tying their hands.",
+          "sourceUrl": "https://sanantonioreport.org/profile/carlos-de-la-cruz-2026-candidate-for-texas-35th-congressional-district/",
+          "agreement": "2/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He opposed abortion access and framed his position around protecting human life and giving every child a chance.",
+          "quote": "Standing up for the dignity of human life. Every child deserves a chance.",
+          "sourceUrl": "https://www.branch.vote/races/2026-texas-primary-election-tx-state-us-representative-tx-congressional-35-r/candidates/carlos-de-la-cruz",
+          "agreement": "2/3"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "De La Cruz says he would oppose transgender women participating in women's and girls' sports.",
+          "quote": "I'll always stand with parents, and I'll fight to keep biological men out of our daughters' sports.",
+          "sourceUrl": "https://www.carlosforcongress.com/mission",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "De La Cruz favors market competition, pricing transparency and more coverage options over greater government control of health care.",
+          "quote": "We need more competition, not more government control.",
+          "sourceUrl": "https://sanantonioreport.org/profile/carlos-de-la-cruz-2026-candidate-for-texas-35th-congressional-district/",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "De La Cruz supports rolling back environmental regulations to lower energy prices and protect Texas jobs.",
+          "quote": "Energy independence means lower prices, stronger national security, and more good-paying Texas jobs.",
+          "sourceUrl": "https://www.carlosforcongress.com/mission",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Johnny C. Garcia",
+      "party": "DEM",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Garcia says tariffs should end because they raise consumer prices.",
+          "quote": "We need to end reckless tariffs that have driven up the price of everything from coffee to tomatoes to appliances.",
+          "sourceUrl": "https://www.votejohnnygarcia.com/general-5",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Garcia pledges to protect Social Security and Medicare from cuts.",
+          "quote": "I’ll always fight for Social Security and Medicare and oppose any cuts to these critical programs.",
+          "sourceUrl": "https://www.votejohnnygarcia.com/general-5",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Garcia supports speeding home construction and lowering construction-material costs.",
+          "quote": "I’ll crackdown on big private equity companies buying up homes, make sure home construction is efficient and fast here in Texas, and find ways to drive down the costs of the materials needed for construction so that new homes are more affordable.",
+          "sourceUrl": "https://www.votejohnnygarcia.com/general-5",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Garcia supports fully funding public schools and investing in teachers and classroom resources.",
+          "quote": "I support fully funded public schools, investment in teachers, updated classroom resources, and affordable pathways to college, apprenticeships, and vocational training, so every student can succeed without crushing debt.",
+          "sourceUrl": "https://sanantonioreport.org/profile/johnny-garcia-2026-candidate-for-texas-35th-congressional-district/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Garcia supports additional police resources alongside youth programs, mental-health services and community partnerships.",
+          "quote": "I support giving officers the training, resources, and mental health support they need, while ensuring transparency and clear oversight. I believe in tackling crime at its roots through youth programs, mental health services, and community partnerships that create safer neighborhoods.",
+          "sourceUrl": "https://sanantonioreport.org/profile/johnny-garcia-2026-candidate-for-texas-35th-congressional-district/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Garcia combines support for border security and a criminal-focused ICE mission with pathways to citizenship and work visas.",
+          "quote": "We should make sure that Border Patrol has what they need to keep our border secure and ICE should be focused on criminals and held to the same standard as police. We need comprehensive immigration reform that includes border security, pathways to citizenship, and work visas that meet our economy’s needs.",
+          "sourceUrl": "https://www.votejohnnygarcia.com/general-5",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Garcia stated during debates that he was adamantly pro-choice.",
+          "quote": "He said he was adamantly pro-choice, and he wouldn’t accept ICE attacking and dividing his community.",
+          "sourceUrl": "https://www.texasobserver.org/35th-congressional-district-runoff-johnny-garcia/",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Garcia supports strengthening the Affordable Care Act and expanding Medicaid.",
+          "quote": "Congress must pass legislation strengthening the Affordable Care Act, expanding Medicaid, lowering prescription drug costs, and increasing mental health services so that no one is forced to choose between their health and their financial stability.",
+          "sourceUrl": "https://sanantonioreport.org/profile/johnny-garcia-2026-candidate-for-texas-35th-congressional-district/",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "sanantonioreport.org · carlosforcongress.com · branch.vote · votejohnnygarcia.com · texasobserver.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

@@ -1,0 +1,216 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 21",
+  "division": "tx/cd-21",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Mark Teixeira",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Teixeira strongly disagreed that people who can afford higher taxes should pay more to provide relief for working families.",
+          "quote": "People who can afford to pay more taxes should do so in order to provide relief for working families.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/89444/race/23547/election/1343",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Teixeira strongly agreed that the government should cut spending to reduce the national debt.",
+          "quote": "The government should cut spending in order to reduce the national debt.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/89444/race/23547/election/1343",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Teixeira described himself as a strong advocate for empowering parents through school choice.",
+          "quote": "I’ve been a strong advocate for empowering parents through school choice.",
+          "sourceUrl": "https://sanantonioreport.org/profile/mark-teixeira-2026-candidate-for-texas-21st-congressional-district/",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Teixeira pledged to support police, secure communities and hold violent offenders accountable.",
+          "quote": "Back the blue, secure communities, and hold violent criminals accountable — stop politically correct soft-on-crime policies.",
+          "sourceUrl": "https://teixeiraforcongress.com/issues/",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Teixeira called for securing the southern border, deporting people in the country illegally and combating cartels.",
+          "quote": "Fully secure the southern border, deport illegal aliens, and crush the cartels to keep Texans safe.",
+          "sourceUrl": "https://teixeiraforcongress.com/issues/",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Teixeira said no restrictions on gun ownership are needed and described himself as a strong Second Amendment defender.",
+          "quote": "No restrictions. I’m a proud gun owner and strong defender of the 2nd Amendment.",
+          "sourceUrl": "https://ivoterguide.com/candidate/89444/race/23547/election/1343",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Teixeira said human life merits legal protection from conception and that elective abortion should be allowed only when the mother's life is threatened.",
+          "quote": "Human life deserves legal protection from conception until natural death.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/89444/race/23547/election/1343",
+          "agreement": "3/3"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Teixeira strongly agreed that biological males should be excluded from women's sports and designated women's spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/89444/race/23547/election/1343",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Teixeira called for opening insurance markets, increasing competition and allowing patients to choose their plans.",
+          "quote": "I also believe that we need to open up insurance markets, increase competition, and let patients choose the insurance plan that is best for them.",
+          "sourceUrl": "https://sanantonioreport.org/profile/mark-teixeira-2026-candidate-for-texas-21st-congressional-district/",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Teixeira proposed expanding Texas oil, gas and nuclear energy production to lower household costs.",
+          "quote": "Unleash Texas oil, gas, and nuclear to restore U.S. energy dominance and drive down costs for families.",
+          "sourceUrl": "https://teixeiraforcongress.com/issues/",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Teixeira strongly disagreed that people should be permitted to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/89444/race/23547/election/1343",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Kristin Hook",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Hook calls for taxing wealthy people while giving low- and middle-income earners a tax break.",
+          "quote": "Our tax code must be reformed to tax the rich and give low- and middle-income earners a break.",
+          "sourceUrl": "https://www.lonestarleft.com/p/meet-the-candidates-dr-kristin-hook",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Hook supports raising the minimum wage, reducing income inequality and strengthening workers’ organizing rights.",
+          "quote": "Thus, I support protecting Social Security and Medicare, raising the minimum wage, addressing income inequality, paid family and sick leave and access to affordable childcare and eldercare, making billionaires and big corporations pay their fair share in taxes, empowering workers’ rights to organize, and bolstering the lifeblood of our community — our small business owners.",
+          "sourceUrl": "https://sanantonioreport.org/profile/kristin-hook-2024-candidate-for-21st-congressional-district/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Hook supports strengthening Medicare, Medicaid and Social Security so people can retire with financial security.",
+          "quote": "I support raising the federal minimum wage, unrigging our tax code so the wealthy pay their fair share, and strengthening Medicare, Medicaid, and Social Security so everyone can live and retire in dignity.",
+          "sourceUrl": "https://sanantonioreport.org/profile/kristin-hook-2026-candidate-for-texas-21st-congressional-district/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Hook says increasing the supply of affordable housing is part of her plan to reduce living costs and inflation.",
+          "quote": "That means building more affordable housing, expanding child care and health care supply, allowing Medicare to negotiate drug prices, and cracking down on corporate price gouging and monopolies.",
+          "sourceUrl": "https://sanantonioreport.org/profile/kristin-hook-2026-candidate-for-texas-21st-congressional-district/",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Hook says she will strengthen public schools and workforce-training programs.",
+          "quote": "Finally, I will protect civil and human rights, strengthen public schools and workforce training programs, and safeguard our environment and clean water so every Texan has a fair shot to thrive on a liveable, healthy planet.",
+          "sourceUrl": "https://sanantonioreport.org/profile/kristin-hook-2026-candidate-for-texas-21st-congressional-district/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Hook supports a path to citizenship or legal status, especially for Dreamers and people with Temporary Protected Status.",
+          "quote": "Providing a path to citizenship or legal status for undocumented immigrants, particularly for Dreamers or those who have Temporary Protected Status.",
+          "sourceUrl": "https://sanantonioreport.org/profile/kristin-hook-2026-candidate-for-texas-21st-congressional-district/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Hook opposed Texas legislation that would lower the age for carrying handguns and called for gun-safety measures.",
+          "quote": "I support common sense measures to reduce gun violence — not reckless rollbacks like this bill that endanger Texans. VOTE NO!",
+          "sourceUrl": "https://capitol.texas.gov/tlodocs/89R/publiccomments/billhistory/HB02470H.pdf",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Hook says reproductive health decisions should be made by individuals rather than the government.",
+          "quote": "As a woman, I believe we should have the freedom to make our own reproductive healthcare decisions, not our government.",
+          "sourceUrl": "https://sanantonioreport.org/profile/kristin-hook-2024-candidate-for-21st-congressional-district/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Hook supports universal publicly funded health care.",
+          "quote": "Yes. I am fighting for universal healthcare. Lack of access to healthcare is not only a moral issue, but it is also an economic issue.",
+          "sourceUrl": "https://www.lonestarleft.com/p/meet-the-candidates-dr-kristin-hook",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Hook supports large-scale federal climate action, clean-energy investment and stronger pollution controls.",
+          "quote": "I support bold, large-scale federal climate action, including funding and strengthening key federal agencies and the scientific workforce. A comprehensive plan must include advancing clean energy technologies, investments, and incentives. We must pass legislation to hold companies that pollute accountable and protect public and wild lands.",
+          "sourceUrl": "https://www.lonestarleft.com/p/meet-the-candidates-dr-kristin-hook",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Hook supports protecting early voting, voting by mail and expanded polling locations and hours.",
+          "quote": "Make it easier to vote – including protecting early voting periods, voting by mail, and expanded locations and hours.",
+          "sourceUrl": "https://www.ballotready.org/people/kristin-hook",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "ivoterguide.com · sanantonioreport.org · teixeiraforcongress.com · lonestarleft.com · capitol.texas.gov · ballotready.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

@@ -1,0 +1,176 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 29",
+  "division": "tx/cd-29",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Martha Fierro",
+      "party": "REP",
+      "stances": {
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Fierro calls for expanding school choice and empowering parents to select educational options.",
+          "quote": "Expand educational freedom and strengthen family values. Empower parents with school choice, defend parental rights, and protect the values that make Texas strong.",
+          "sourceUrl": "https://www.fierrofortexas.com/",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Fierro supports law enforcement and public-safety investment alongside neighborhood and community programs.",
+          "quote": "Investing in public safety and supporting our brave responders to ensure our neighborhoods remain secure.",
+          "sourceUrl": "https://www.fierrofortexas.com/meet-martha",
+          "agreement": "2/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Fierro supports Border Patrol and policies intended to stop illegal border crossings and human trafficking.",
+          "quote": "Support Border Patrol and stop policies that encourage illegal crossings and human trafficking.",
+          "sourceUrl": "https://www.fierrofortexas.com/",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Fierro says she mobilized religious leaders and families to advocate for Texas's abortion-restricting Heartbeat legislation.",
+          "quote": "She mobilized students, pastors, and parents to testify before the Texas State Board of Education on curriculum matters and helped activate worship leaders and families across Texas to advocate in support of the Texas Heartbeat legislation.",
+          "sourceUrl": "https://www.fierrofortexas.com/meet-martha",
+          "agreement": "3/3"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "Fierro says she supported grassroots efforts focused on protecting girls' sports.",
+          "quote": "Martha has also supported grassroots efforts to protect girls’ sports and uphold faith expression in schools.",
+          "sourceUrl": "https://www.fierrofortexas.com/meet-martha",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Fierro favors greater competition and patient choice in health care while opposing government mandates.",
+          "quote": "By raising competition, expanding access, and protecting patient choice — not imposing government mandates — we can ensure families and seniors get the care they need at prices they can afford.",
+          "sourceUrl": "https://www.fierrofortexas.com/",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Fierro supports oil and natural gas, Texas control over energy decisions, and grid policies intended to lower bills.",
+          "quote": "Protect Texas energy independence — keep energy decisions in Texas, support oil and natural gas, and strengthen grid reliability to lower bills.",
+          "sourceUrl": "https://www.fierrofortexas.com/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Sylvia Garcia",
+      "party": "DEM",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Garcia’s campaign says she is fighting to raise wages and supports organized labor.",
+          "quote": "She is fighting to raise wages, expand access to jobs with real benefits, and strengthen career paths that keep our children and grandchildren here in Houston.",
+          "sourceUrl": "https://www.sylviaforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Garcia’s campaign says Trump’s tariffs raise consumer costs and that she confronted the Treasury secretary about their effect on working families.",
+          "quote": "While the Trump tariffs make life too expensive, Garcia has always worked to make life more affordable for all Houstonians - lowering the price of insulin and other prescription drugs and helping build more affordable housing.",
+          "sourceUrl": "https://www.sylviaforcongress.com/media",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Garcia’s campaign pledges to protect Social Security and Medicare and lists her cosponsorship of the Social Security 2100 Act.",
+          "quote": "While Trump and MAGA threaten Social Security and Medicare, Garcia will continue to keep our promises to seniors.",
+          "sourceUrl": "https://www.sylviaforcongress.com/media",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Garcia supports expanding the supply of affordable housing and assistance for first-time homebuyers.",
+          "quote": "From helping first-time homebuyers to expanding the number of affordable housing units, Sylvia is fighting to ensure that every family has a safe, stable, and affordable place to call home.",
+          "sourceUrl": "https://www.sylviaforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Garcia has opposed vouchers that move students and funding away from public schools.",
+          "quote": "Oppose vouchers for students to leave public schools.",
+          "sourceUrl": "https://www.ontheissues.org/tx/Sylvia_Garcia.htm",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Garcia has sponsored legislation creating a citizenship pathway for Dreamers and supports expanding Temporary Protected Status.",
+          "quote": "As the lead sponsor of the Dream and Promise Act, she has championed legislation that creates a pathway to citizenship for Dreamers.",
+          "sourceUrl": "https://www.sylviaforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Garcia supports the Women’s Health Protection Act to protect access to abortion and other reproductive care.",
+          "quote": "She believes the Supreme Court’s decision to overturn Roe v. Wade was a historic failure, and she is fighting to pass the Women’s Health Protection Act to safeguard access to safe, legal healthcare, abortion, and IVF.",
+          "sourceUrl": "https://www.sylviaforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Garcia voted for and later cosponsored legislation to federally deschedule, legalize, and tax cannabis.",
+          "quote": "Voted FOR the MORE Act H.R.3617 in 2022, which provides for federal descheduling, legalization, and\ntaxation of cannabis at the federal level, with community reinvestment and a focus on equity.",
+          "sourceUrl": "https://www.mpp.org/assets/pdf/takeaction/election-central1/voter-guides/mpp-scorecard-us-congress-and-incumbents-2024.pdf?v=1752570194",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Garcia celebrated passage of the Inflation Reduction Act and its large federal investment in climate and clean energy.",
+          "quote": "This law not only makes a massive $370 billion climate and energy investment nationwide, but it could generate up to 5 million new clean energy jobs across America.",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/CREC-2022-09-19/pdf/CREC-2022-09-19-pt1-PgH7946.pdf",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Garcia voted for the John Lewis Voting Rights Advancement Act and called for elections accessible to all eligible voters.",
+          "quote": "We will continue working until our elections are free, fair, and accessible to all eligible voters.",
+          "sourceUrl": "https://sylviagarcia.house.gov/media/press-releases/congresswoman-sylvia-r-garcia-votes-pass-john-r-lewis-voting-rights-advancement",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "fierrofortexas.com · sylviaforcongress.com · ontheissues.org · mpp.org · govinfo.gov · sylviagarcia.house.gov",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
