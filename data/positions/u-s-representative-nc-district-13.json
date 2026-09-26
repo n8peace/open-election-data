@@ -1,0 +1,189 @@
+{
+  "office": "U.S. Representative",
+  "district": "NC District 13",
+  "division": "nc/cd-13",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Paul Barringer",
+      "party": "DEM",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Barringer opposes broad tariffs as costly to consumers and rural businesses while allowing targeted enforcement against unfair trade practices.",
+          "quote": "While targeted trade enforcement has a role in addressing unfair practices, broad tariffs function like a tax on consumers, especially hurting farmers, small manufacturers, and rural communities who rely on affordable materials and access to international markets.",
+          "sourceUrl": "https://paulbarringer.com/priorities",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Barringer supports resources for police as well as rehabilitation and reentry programs.",
+          "quote": "I strongly support law enforcement and the vital role police officers play in keeping our communities safe. I believe in ensuring officers have the resources and respect they need to do their jobs. At the same time, I believe in second chances and compassion. Supporting the police and supporting rehabilitation are not opposing values—they’re both essential to a just and safe society.",
+          "sourceUrl": "https://paulbarringer.com/priorities",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Barringer supports stronger border enforcement alongside modernization of legal immigration and clearer lawful pathways.",
+          "quote": "Border security is a basic function of government, and we need smart, effective enforcement to stop illegal crossings, drug trafficking, and exploitation. At the same time, we need to modernize our legal immigration system to meet workforce needs—especially in agriculture, health care, and tech—and to ensure people who play by the rules have a clear path forward.",
+          "sourceUrl": "https://paulbarringer.com/priorities",
+          "agreement": "6/10"
+        },
+        "guns": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Barringer supports gun-ownership rights, enforcement of existing laws, and bipartisan measures to keep guns from dangerous people.",
+          "quote": "We need to enforce the laws already on the books, while also working together—across party lines—to find common-sense solutions that reduce gun violence, keep guns out of the hands of dangerous individuals, and protect both our rights and our communities.",
+          "sourceUrl": "https://paulbarringer.com/priorities",
+          "agreement": "4/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Barringer says the law should not obstruct reproductive health decisions made by a woman and her doctor.",
+          "quote": "However, the law should not be an impediment to a woman making the health care choices she needs to make with her doctor.",
+          "sourceUrl": "https://paulbarringer.com/priorities",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Barringer supports continuing Medicare and Medicaid and has pledged to oppose Medicaid eligibility reductions.",
+          "quote": "The reason we have programs like Medicare and Medicaid in the first place is because the market fails to cover the needs of seniors, low-income families, and those with disabilities. It’s our responsibility to continue supporting these vital programs to ensure these individuals can get the care they need.",
+          "sourceUrl": "https://paulbarringer.com/priorities",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "Steven Swinton",
+      "party": "LIB",
+      "stances": {}
+    },
+    {
+      "name": "Brad Knott",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Knott voted for the 2025 reconciliation law and praised its tax cuts for workers and businesses.",
+          "quote": "For the working men and women of North Carolina and around the country, the tax code is now in your favor: no taxes on tips, social security, or overtime, and full expensing of factory and equipment reinvestment.",
+          "sourceUrl": "https://knott.house.gov/media/press-releases/knott-votes-pass-president-trumps-one-big-beautiful-bill",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "Knott voted against a resolution terminating the emergency used to impose tariffs on Canadian goods.",
+          "quote": "Relating to a national emergency by the President on February 1, 2025",
+          "sourceUrl": "https://clerk.house.gov/Votes/202665",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Knott voted for H.R. 6644, legislation described in the Congressional Record as increasing the U.S. housing supply.",
+          "quote": "The unfinished business is the vote on the motion to suspend the rules and concur in the Senate amendment to the House amendment to the Senate amendment to the bill (H.R. 6644), a bill to increase the supply of housing in America, and for other purposes, on which the yeas and nays were ordered.",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/CREC-2026-06-23/pdf/CREC-2026-06-23-pt1-PgH4192-4.pdf",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Knott says he supports school choice so parents can move children from public schools they consider failing.",
+          "quote": "I support school choice so parents can get their children out of failing schools and into schools that will provide the education their children need.",
+          "sourceUrl": "https://www.bradknott.com/priorities",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Knott requested $240,000 for license-plate-reader cameras intended to improve law-enforcement effectiveness and officer safety.",
+          "quote": "The Town of Smithfield would utilize funding to purchase and position 20 new License Plate Reader cameras in high traffic areas, local park access points and high crime locations will assist in minimizing crime, improve the effectiveness of law enforcement, increasing officer safety, and other strategic priorities to include perpetrator apprehension.",
+          "sourceUrl": "https://knott.house.gov/issues/community-project-funding-requests-fy26",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Knott supports completing the border wall, enforcing immigration law and imprisoning and deporting unauthorized immigrants who commit felonies.",
+          "quote": "We must secure the border, finish the wall, and enforce the law. Those who break our immigration laws must face real consequences as a deterrence or the flood will never end.",
+          "sourceUrl": "https://www.bradknott.com/priorities",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Knott opposes new gun restrictions and says the government should enforce existing firearm laws instead.",
+          "quote": "We need to enforce the gun laws we have, not pass new ones that target the law-abiding rather than criminals.",
+          "sourceUrl": "https://www.bradknott.com/priorities",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Knott identifies as pro-life, supports the Dobbs decision and favors state laws protecting unborn life.",
+          "quote": "The Dobbs decision properly overruled Roe v. Wade, returning authority over abortion to the states. I’m pro-life. I support state laws protecting the unborn.",
+          "sourceUrl": "https://www.bradknott.com/priorities",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Knott voted for H.R. 28, which defined Title IX school-sports eligibility according to reproductive biology and genetics at birth.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He said competition would reduce health-care costs and proposed expanding private insurance options.",
+          "quote": "The only way to reduce health care costs is competition.",
+          "sourceUrl": "https://ivoterguide.com/candidate/78079/race/1745/election/1090",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He rejected urgent net-zero policies and supported continued use of fossil fuels alongside other energy sources.",
+          "quote": "We need fossil fuels for the foreseeable future.",
+          "sourceUrl": "https://ivoterguide.com/candidate/78079/race/1745/election/1090",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Knott voted for the SAVE America Act, which requires documentary proof of citizenship for federal voter registration and imposes voter-identification requirements.",
+          "quote": "SEC. 2. ENSURING ONLY CITIZENS ARE REGISTERED TO VOTE IN ELECTIONS FOR FEDERAL OFFICE.",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/CREC-2026-02-11/pdf/CREC-2026-02-11-house.pdf",
+          "agreement": "9/10"
+        }
+      }
+    }
+  ],
+  "sources": "paulbarringer.com · knott.house.gov · clerk.house.gov · govinfo.gov · bradknott.com · ivoterguide.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "IN District 7",
+  "division": "in/cd-7",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "André Carson",
+      "party": "Democratic"
+    },
+    {
+      "name": "James M Sceniak",
+      "party": "Libertarian"
+    },
+    {
+      "name": "Patrick McAuley",
+      "party": "Republican"
+    }
+  ]
+}

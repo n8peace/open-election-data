@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "IN District 4",
+  "division": "in/cd-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Drew Cox",
+      "party": "Democratic"
+    },
+    {
+      "name": "Jim Baird",
+      "party": "Republican"
+    }
+  ]
+}

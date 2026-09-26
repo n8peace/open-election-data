@@ -1,0 +1,216 @@
+{
+  "office": "U.S. Representative",
+  "district": "NC District 2",
+  "division": "nc/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Eugene F. Douglass",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Douglass called for lower taxes and a major reduction in the federal government's size.",
+          "quote": "Lower taxes, huge decrease in the size of the federal government. It should be designed to protect the USA from outside forces, and to regulate interstate commerce.",
+          "sourceUrl": "https://ivoterguide.com/candidate/77427/race/1734/election/1090?culture=en-us",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He says the federal government must stop adding to the national debt.",
+          "quote": "You cannot keep adding to a $40 trillion pile while claiming to be serious.",
+          "sourceUrl": "https://efdouglass.substack.com/p/pbs-north-carolina-interviewed-me",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He wrote that he wants more houses, along with lower taxes and less federal duplication.",
+          "quote": "lower taxes; more houses; a federal government that stops duplicating Raleigh.",
+          "sourceUrl": "https://efdouglass.substack.com/p/the-real-cost-of-blue-governance",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He supports school choice through vouchers, tax credits, charter schools, private schools, and home schools.",
+          "quote": "I support school choice, including voucher programs, tax credits",
+          "sourceUrl": "https://ivoterguide.com/candidate/77427/race/1734/election/1090?culture=en-us",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Douglass strongly disagreed with redirecting police-department funding to community programs.",
+          "quote": "I support redirecting funds from police departments to community programs.",
+          "sourceUrl": "https://ivoterguide.com/candidate/77427/race/1734/election/1090?culture=en-us",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He opposes illegal immigration and links stronger enforcement to preventing trafficking.",
+          "quote": "I am against illegal immigration that facilitates drug/slave/servants/sex trafficking across our borders.",
+          "sourceUrl": "https://efdouglass.substack.com/p/declaration-of-candidacy-for-us-congress",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Douglass supports prohibiting elective abortions after detection of a fetal heartbeat and advocates a constitutional Human Life Amendment.",
+          "quote": "I support North Carolina’s authority and duty to prohibit elective abortions after a fetal heartbeat is detected, with such children placed for adoption with heterosexual married couples to ensure stable family environments.",
+          "sourceUrl": "https://efdouglass.substack.com/p/i-am-officially-the-republican-nominee",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He opposes allowing transgender women to compete in women's sports or use women's facilities.",
+          "quote": "Such policies fail to protect women and raise concerns about allowing men into high school, college, and university facilities used by daughters.",
+          "sourceUrl": "https://efdouglass.substack.com/p/i-am-officially-the-republican-nominee",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Douglass selected the position that Medicare and Medicaid should remain but no additional taxpayer-funded health programs are needed.",
+          "quote": "Medicaid and Medicare should remain available, but no other taxpayer-funded programs are necessary.",
+          "sourceUrl": "https://ivoterguide.com/candidate/77427/race/1734/election/1090?culture=en-us",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He prioritizes a reliable generation mix intended to keep electricity rates low.",
+          "quote": "a reliable generation mix already allow North Carolina customers to achieve effective rates well below 12 cents per kilowatt-hour.",
+          "sourceUrl": "https://efdouglass.substack.com/p/nc-state-trains-nuclear-engineers",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He strongly disagreed that people should be allowed to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/77427/race/1734/election/1090?culture=en-us",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Deborah K. Ross",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Ross voted against a budget plan that paired tax breaks for wealthy Americans with cuts to health care and food assistance.",
+          "quote": "Their budget is so cruel and so extreme that it will strip children and seniors of their health care and food assistance in order to pay for tax breaks for the wealthiest Americans.",
+          "sourceUrl": "https://ross.house.gov/2025/5/congresswoman-ross-votes-against-gop-tax-scam",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Ross says she supported raising the minimum wage, sponsored paid-sick-leave legislation, and supports workers and unions.",
+          "quote": "As a state legislator during the Great Recession, I advocated for an earned income tax credit aimed at returning tax dollars to working families, supported raising the minimum wage, and sponsored paid sick leave legislation.",
+          "sourceUrl": "https://deborahross.com/priorities/supporting-our-economy-and-workers/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Ross pledges to protect Social Security and Medicare benefits and opposes converting Medicare into a voucher program.",
+          "quote": "Our seniors have paid into Social Security and Medicare over a lifetime of hard work, and I won’t stop fighting to protect these hard-earned benefits.",
+          "sourceUrl": "https://deborahross.com/priorities/retiring-with-dignity/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Ross secured federal funding to construct affordable apartments and supports additional housing aid and development.",
+          "quote": "To help meet this growing need, I secured $2 million in federal funding to support construction of an apartment community in Raleigh designed to end homelessness for over 100 Wake County families and individuals as well as $1 million to support youth transitioning out of foster care.",
+          "sourceUrl": "https://deborahross.com/priorities/affordable-housing/",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Ross urged the Education Department to release $8.1 million in approved funding for Wake County Public Schools.",
+          "quote": "We urge the Department to immediately release all withheld funds, including the approximately $8.1 million owed to Wake County Public Schools, and restore the trust and stability that our public education system urgently needs.",
+          "sourceUrl": "https://ross.house.gov/2025/7/ross-foushee-call-on-department-of-education-to-release-8-1-million-owed-to-wake-county-schools",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Ross secured funding for both law-enforcement equipment and community-based violence-intervention services.",
+          "quote": "This legislation funds critical investments in local law enforcement, community safety, violence prevention, climate resilience, and more.",
+          "sourceUrl": "https://ross.house.gov/press-releases?id=F4E6AEF1-F158-48A0-BD42-9FD994CDD74F",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Ross supports comprehensive reform with a pathway to citizenship, protection from deportation for Dreamers, and added border security.",
+          "quote": "In Congress, I am committed to passing comprehensive immigration reform to keep families together, enhance border security, provide a fair pathway to citizenship, and meet our nation’s economic needs.",
+          "sourceUrl": "https://deborahross.com/priorities/comprehensive-immigration-reform/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Ross voted for legislation expanding background checks for buyers under 21 and supporting state crisis-intervention orders.",
+          "quote": "Enhanced Background Checks for People Under 21: Requires an investigative period to review juvenile and mental health records, including checks with state databases and local law enforcement, for buyers under 21 years of age, creating an enhanced, longer background check of up to ten days.",
+          "sourceUrl": "https://ross.house.gov/2022/6/congresswoman-ross-votes-historic-bipartisan-gun-violence-prevention-package",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Ross says abortion decisions should remain between a woman and her doctor and supports restoring Roe protections in federal law.",
+          "quote": "I am committed to ensuring that reproductive health is – and always will be – a private matter between a woman and her doctor. I won’t stop fighting until the protections of Roe are enshrined in law.",
+          "sourceUrl": "https://deborahross.com/priorities/women-and-families/",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Ross advocated Medicaid expansion and voted for federal incentives that helped North Carolina expand the program.",
+          "quote": "For more than 10 years in the General Assembly, I fought to pass Medicaid expansion. I am grateful that after more than a decade, North Carolina finally became the 40th state to expand Medicaid, delivering life-saving health care to 600,000 North Carolinians.",
+          "sourceUrl": "https://deborahross.com/priorities/access-to-affordable-health-care/",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Ross supports regulatory incentives to cut utility emissions, clean-energy investment, electric vehicles, and restrictions on fossil-fuel development.",
+          "quote": "Specifically, Congress should revisit a proposal passed by the House as part of an earlier version of the IRA to incentivize utilities to reduce emissions through a set of regulatory carrots and sticks.",
+          "sourceUrl": "https://deborahross.com/priorities/combating-climate-change/",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "ivoterguide.com · efdouglass.substack.com · ross.house.gov · deborahross.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

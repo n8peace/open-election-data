@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Senate",
+  "district": "MA",
+  "division": "ma/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Edward J. Markey",
+      "party": "Democratic"
+    },
+    {
+      "name": "John Deaton",
+      "party": "Republican"
+    },
+    {
+      "name": "Shiva Ayyadurai",
+      "party": "Independent"
+    },
+    {
+      "name": "Joe Tache",
+      "party": "Socialism and Liberation"
+    }
+  ]
+}
