@@ -1,0 +1,200 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 16",
+  "division": "tx/cd-16",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Adam Bauman",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Bauman says El Paso property taxes are too high and pledges to work with local leaders to make them more affordable.",
+          "quote": "I am committed to working with local leaders to make our property taxes more affordable for everyone in our community.",
+          "sourceUrl": "https://www.adambaumanforcongress.com/",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Bauman supports preserving Social Security and opposes raising the minimum eligibility age, while allowing for unspecified changes to sustain the program.",
+          "quote": "I fully support enacting changes that will ensure Social Security remains in place, however, raising the minimum age limit to receive these benefits is not one of them.",
+          "sourceUrl": "https://www.adambaumanforcongress.com/",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "Bauman emphasizes border security and supports Customs and Border Protection efforts to prevent criminals and narcotics from entering El Paso.",
+          "quote": "I am committed to supporting the Custom's and Border Protection mission to protect our border and keep El Paso safe.",
+          "sourceUrl": "https://www.adambaumanforcongress.com/",
+          "agreement": "3/3"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Bauman says transgender women should not compete in women's sports or use women's restrooms.",
+          "quote": "Biological men have no business competing in women's sports and should not be allowed to use the women's restroom.",
+          "sourceUrl": "https://www.adambaumanforcongress.com/",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Bauman favors reducing private insurance premiums without federal subsidies.",
+          "quote": "I am committed to working with other leaders to find a solution that will reduce the cost of insurance premiums and make insurance more affordable without the federal government subsidizing these costs.",
+          "sourceUrl": "https://www.adambaumanforcongress.com/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "Veronica Escobar",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Escobar opposes tax cuts for wealthy people when they come at the expense of health care, education, and infrastructure.",
+          "quote": "Congresswoman Escobar has continued to fight against tax cuts that benefit the ultra-wealthy at the expense of essential programs like healthcare, education, and infrastructure.",
+          "sourceUrl": "https://escobar.house.gov/issues/economy/",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supports legislation that would raise the federal minimum wage to $17 by 2030.",
+          "quote": "Raise the Wage Act: This legislation would gradually raise the minimum wage to $17 by 2030 and give roughly 22 million Americans a long-overdue raise.",
+          "sourceUrl": "https://escobar.house.gov/issues/economy/",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "She opposed granting broad tariff authority, saying its use had harmed consumers, businesses, and relationships with allies.",
+          "quote": "At a time when this President has repeatedly failed to use America’s leverage to push back on Russia and has instead used tariff authority in ways that have harmed American consumers, businesses, and our relationships with longstanding allies, Congress should be strengthening its oversight.",
+          "sourceUrl": "https://escobar.house.gov/news/documentsingle.aspx?DocumentID=3350",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Escobar voted for a debt-limit agreement that protected retirement and health benefits and publicly praised the protection of Social Security and Medicaid.",
+          "quote": "I'm proud of the President's steadfast leadership in avoiding a Republican default, protecting critical benefits Americans have earned like Social Security and Medicaid, and safeguarding the historic investments of the Inflation Reduction Act and Bipartisan Infrastructure Law.",
+          "sourceUrl": "https://escobar.house.gov/news/documentsingle.aspx?DocumentID=1264",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She supports expanding tax-credit financing for nearly two million new affordable homes.",
+          "quote": "Affordable Housing Credit Improvement Act of 2025: This legislation would support the financing of nearly two million new affordable homes across the country by increasing the number of credits allocated to each state by 50 percent for the next two years and making the temporary 12.5 percent increase secured in 2018 permanent.",
+          "sourceUrl": "https://escobar.house.gov/issues/economy/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "She supports investing in public schools from prekindergarten through college.",
+          "quote": "I believe every child deserves access to a strong public education, no matter their zip code. That’s why I’m working to invest in our schools—from pre-K through college—so students have the tools they need to succeed.",
+          "sourceUrl": "https://veronicaescobar.com/issues/",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She secured funding for a police body-camera program and a mental-health crisis intervention team, combining law-enforcement support with an alternative response.",
+          "quote": "Specifically, the Committee approved $525,000 in federal funding for the El Paso Police Department (EPPD) Body-Worn Camera program, and $2,015,185 to fund the El Paso County Crisis Intervention Team.",
+          "sourceUrl": "https://escobar.house.gov/news/documentsingle.aspx?DocumentID=741",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Her Dignity Act would create legal status for long-term undocumented immigrants, protect Dreamers, and expand legal pathways.",
+          "quote": "The Dignity Act creates a pathway to legal status for long-term undocumented immigrants, protects Dreamers, expands legal pathways for workers and families, and improves how we process asylum claims.",
+          "sourceUrl": "https://veronicaescobar.com/issues/",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports universal background checks and an assault-weapons ban and voted for the Bipartisan Safer Communities Act.",
+          "quote": "Common-sense gun violence prevention, such as requiring universal background checks and banning assault weapons, has been a top priority for Congresswoman Escobar.",
+          "sourceUrl": "https://escobar.house.gov/issues/issue/?IssueID=15508",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Escobar reintroduced legislation to establish a federal right to abortion and reverse state restrictions.",
+          "quote": "Today, on the third anniversary of the Dobbs decision, Congresswoman Veronica Escobar (TX-16) alongside Reps. Judy Chu (CA-28), Lois Frankel (FL-22), and Ayanna Pressley (MA-07) reintroduced the Women's Health Protection Act, a critical bill to restore the right to abortion nationwide and stop extremist abortion bans across the country.",
+          "sourceUrl": "https://escobar.house.gov/news/documentsingle.aspx?DocumentID=1886",
+          "agreement": "7/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Escobar voted against legislation requiring school athletic eligibility to be based on reproductive biology and genetics at birth.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2023192",
+          "agreement": "5/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "Escobar voted for the MORE Act, which would decriminalize and deschedule cannabis federally.",
+          "quote": "Roll Call 107 | Bill Number: H. R. 3617",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports Medicare for All as a universal public health-insurance program.",
+          "quote": "I believe healthcare is a human right. That’s why I support Medicare for All to guarantee every American has access to comprehensive, affordable care.",
+          "sourceUrl": "https://veronicaescobar.com/issues/",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Escobar calls for urgent climate action and supports transitioning to clean energy through major federal investment.",
+          "quote": "Climate change is real and we must act urgently to find solutions to this threat. I proudly served on the Select Committee on the Climate Crisis, and helped secure our nation’s largest investment in addressing climate change in history through the Inflation Reduction Act.",
+          "sourceUrl": "https://escobar.house.gov/issues/issue/?IssueID=15490",
+          "agreement": "6/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She says voting should be simple, secure, and accessible to every eligible voter.",
+          "quote": "I believe voting should be simple, secure, and accessible to every eligible American.",
+          "sourceUrl": "https://veronicaescobar.com/issues/",
+          "agreement": "8/10"
+        }
+      }
+    }
+  ],
+  "sources": "adambaumanforcongress.com · escobar.house.gov · veronicaescobar.com · clerk.house.gov",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

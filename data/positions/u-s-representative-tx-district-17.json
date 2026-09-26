@@ -1,0 +1,168 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 17",
+  "division": "tx/cd-17",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Pete Sessions",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Sessions says he helped spur economic growth by lowering taxes and reducing federal regulation.",
+          "quote": "As a congressman from Texas, Pete is proud of the role he played to spur economic growth by lowering taxes, keep America safe by rebuilding the military, and encourage domestic energy production by reducing the burden of federal regulations.",
+          "sourceUrl": "https://www.petesessions.com/why/",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Sessions introduced legislation exempting some employees from a federal minimum-wage increase when their employers increased health-insurance coverage.",
+          "quote": "To provide that employees of employers who provide certain increases in health insurance coverage will not be covered by an increase in the Federal minimum wage.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-106hr3409ih",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Sessions’s campaign platform explicitly calls for ensuring the country’s future through school choice.",
+          "quote": "Ensure the American future with school choice and a renewed commitment to basic research in science and technology.",
+          "sourceUrl": "https://www.petesessions.com/positiveplatform/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Sessions says he will support law enforcement and oppose efforts to reduce police funding.",
+          "quote": "I will advocate for law enforcement and work against efforts to defund our police force.",
+          "sourceUrl": "https://sessions.house.gov/issues",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Sessions says he wholeheartedly supports a southern border wall and stronger immigration enforcement.",
+          "quote": "Solving our immigration crisis involves more than just building the wall on the southern border, which I wholeheartedly support.",
+          "sourceUrl": "https://www.petesessions.com/issues/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Sessions’s campaign highlights his congressional gun-rights voting record and NRA endorsement.",
+          "quote": "Pete is a lifetime member of the Texas Rifle Association and maintained a solid “A” rating from the NRA for his votes in Congress.",
+          "sourceUrl": "https://www.petesessions.com/issues/",
+          "agreement": "3/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "Sessions said women’s sports should be limited to biological women and exclude biological men.",
+          "quote": "Women need to compete with biological women and men should not be included in there.",
+          "sourceUrl": "https://www.kwtx.com/2021/07/15/full-interview-congressman-pete-sessions/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Casey Shepard",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Shepard supports fully funding SNAP and school meal programs.",
+          "quote": "Strengthen support for families by fully funding SNAP and school breakfast and lunch programs.",
+          "sourceUrl": "https://caseyshepardforcongress.com/caseys-vision",
+          "agreement": "2/3"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Shepard supports raising the federal minimum wage to a livable level.",
+          "quote": "Raising the federal minimum wage to a livable standard",
+          "sourceUrl": "https://indivisiblewaco.wixsite.com/tmk-2026/post/casey-shepard",
+          "agreement": "3/3"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Shepard calls for ending tariffs that increase food and construction-material prices.",
+          "quote": "Rebuild global food stability by restoring the USAID Food Program and ending tariffs that raise food prices.",
+          "sourceUrl": "https://caseyshepardforcongress.com/caseys-vision",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Shepard supports restoring support for Medicare, without addressing Social Security or debt tradeoffs.",
+          "quote": "Restore support for Medicaid and Medicare to ensure seniors, families, and people with disabilities receive the care they need.",
+          "sourceUrl": "https://caseyshepardforcongress.com/caseys-vision",
+          "agreement": "3/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Shepard supports tax incentives for new affordable-housing development.",
+          "quote": "Encourage new housing development by offering tax incentives that make it easier to build affordable homes.",
+          "sourceUrl": "https://caseyshepardforcongress.com/caseys-vision",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Shepard supports updating immigration policy so trained foreign medical workers can serve communities legally.",
+          "quote": "Grow and support the health‑care workforce by recognizing nurse practitioners and other providers as professionals eligible for federal student aid, and by updating immigration policy so more trained medical workers can legally serve our communities.",
+          "sourceUrl": "https://caseyshepardforcongress.com/caseys-vision",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Shepard supports bodily autonomy and access to abortion care.",
+          "quote": "Protecting bodily autonomy and access to abortion care",
+          "sourceUrl": "https://indivisiblewaco.wixsite.com/tmk-2026/post/casey-shepard",
+          "agreement": "2/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Shepard supports strengthening Medicare, Medicaid, and other publicly funded health-care support.",
+          "quote": "Restore support for Medicaid and Medicare to ensure seniors, families, and people with disabilities receive the care they need.",
+          "sourceUrl": "https://caseyshepardforcongress.com/caseys-vision",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Shepard supports expanding voting access and participation.",
+          "quote": "Expanding voting access and increasing Democratic participation at every level",
+          "sourceUrl": "https://indivisiblewaco.wixsite.com/tmk-2026/post/casey-shepard",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "petesessions.com · govinfo.gov · sessions.house.gov · kwtx.com · caseyshepardforcongress.com · indivisiblewaco.wixsite.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

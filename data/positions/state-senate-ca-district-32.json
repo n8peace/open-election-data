@@ -1,0 +1,215 @@
+{
+  "office": "State Senate",
+  "district": "CA District 32",
+  "division": "ca/sldu-32",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Tiffanie Tate",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Tate supports taxing the wealthiest Californians to fund essential services while opposing broad tax increases on working families.",
+          "quote": "We should not impose more taxes on working-class families, who already struggle to meet their basic needs. Instead, I believe in raising taxes on our state’s wealthiest taxpayers –– such as multimillionaires and billionaires –– to fund essential services in the short term, while making investments that will pay off in the long term.",
+          "sourceUrl": "https://losangelesmovinginsider.com/qa-meet-dr-tiffanie-tate-candidate-for-california-state-senate-district-32/",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Tate says she would work with labor unions to seek better wages and benefits.",
+          "quote": "One reason for our high cost of living is that wages haven’t kept pace with inflation. To fix this, I plan to collaborate with labor unions to fight for better wages and benefits across the board.",
+          "sourceUrl": "https://losangelesmovinginsider.com/qa-meet-dr-tiffanie-tate-candidate-for-california-state-senate-district-32/",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Tate supports building more affordable housing and accelerating project approvals by reducing bureaucratic delays.",
+          "quote": "If I’m elected to the State Senate, fixing our housing shortage would be one of my top priorities. To improve housing access and prevent homelessness, I would first push to build more affordable housing across California. We need to make sure developments can be approved quickly and built efficiently –– instead of being delayed by bureaucracy and red tape.",
+          "sourceUrl": "https://losangelesmovinginsider.com/qa-meet-dr-tiffanie-tate-candidate-for-california-state-senate-district-32/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Tate says her first priority would be fully funding and strengthening public education.",
+          "quote": "Once elected, my first priority will be fully funding and strengthening our public education system. I will advocate to increase investments in school infrastructure, raise wages for teachers and staff and invest in student mental health and job training services.",
+          "sourceUrl": "https://losangelesmovinginsider.com/qa-meet-dr-tiffanie-tate-candidate-for-california-state-senate-district-32/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Tate opposes immigration enforcement in schools and places of worship and pledges to protect immigrants' rights.",
+          "quote": "I staunchly oppose ICE’s invasion into places of worship and schools. Once elected, I pledge to fight to keep masked ICE agents out of California. Immigrants make our state great, and they should never live in fear.",
+          "sourceUrl": "https://losangelesmovinginsider.com/qa-meet-dr-tiffanie-tate-candidate-for-california-state-senate-district-32/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "Tate supports background checks and firearm-buyback programs while also affirming the right to bear arms.",
+          "quote": "I support common sense firearm safety, including background checks",
+          "sourceUrl": "https://www.votedrtate.com/issues",
+          "agreement": "4/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Tate supports abortion access and says reproductive decisions should remain between patients and physicians.",
+          "quote": "I believe a woman has the right to choose what happens to her body, just as a man has the right to choose what happens to his body. I have had the privilege of serving as an advisor and board-certified OB-GYN to numerous families for 20+ years, as such, it is imperative that medical decisions be made between the patient and the physician, and not the government.",
+          "sourceUrl": "https://www.votedrtate.com/issues",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Tate supports expanding Medi-Cal eligibility and reversing cuts to immigrant health coverage.",
+          "quote": "I believe in expanding eligibility requirements for Medi-Cal so that more Californians in need can qualify for premium tax credits to help lower monthly premium costs. Moreover, I will work to hold pharmaceutical companies and insurance companies accountable for spiking the price of healthcare and unfairly denying claims. Additionally, I would vote to reverse the governor’s cuts to immigrant healthcare coverage.",
+          "sourceUrl": "https://losangelesmovinginsider.com/qa-meet-dr-tiffanie-tate-candidate-for-california-state-senate-district-32/",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Tate supports transitioning to fully clean energy and phasing out oil- and natural-gas-fired power plants.",
+          "quote": "Combating the impacts of climate change is a core issue of mine. I believe we need to transition to 100% clean energy by building large-scale solar, wind and battery developments. In the meantime, we must work to phase out oil and natural gas plants so Californians can breathe cleaner, safer air.",
+          "sourceUrl": "https://losangelesmovinginsider.com/qa-meet-dr-tiffanie-tate-candidate-for-california-state-senate-district-32/",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Tate opposes voter suppression and supports federal legislation intended to protect and expand voting access.",
+          "quote": "Every citizen has the right to vote without intimidation or hardship. I oppose voter suppression of all kinds. I support the John R. Lewis Voting Rights Advancement Act and the Freedom to Vote Act.",
+          "sourceUrl": "https://www.votedrtate.com/issues",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Kelly Seyarto",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Seyarto pledged to oppose California's tax-and-spend approach and stand up for taxpayers.",
+          "quote": "I am committed to going to Sacramento and standing up for taxpayers, and I want to help end the tax and spend culture that has politicians using Californian’s wallets as their personal ATM.",
+          "sourceUrl": "https://seyartoforsenate.com/issues/",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "He criticized the hospital-worker minimum-wage increase as part of new spending he called unacceptable.",
+          "quote": "The recent healthcare bills signed by the Governor raised the minimum wage for hospital workers, resulting in a $2 billion increase for the state (which the Governor did NOT include in his current budget proposal), and expanded Medi-Cal coverage for undocumented immigrants projected to cost taxpayers over $4 billion a year. This is simply unacceptable.",
+          "sourceUrl": "https://sr32.senate.ca.gov/content/state-spending-out-control-0",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He said California should expand housing, but through local-government cooperation rather than state overrides of local zoning authority.",
+          "quote": "California must continue to expand housing, but this goal should be pursued in partnership with local governments, not by overriding their authority with one-size-fits-all mandates.",
+          "sourceUrl": "https://sr32.senate.ca.gov/sites/sr32.senate.ca.gov/files/SB-79%20Veto%20Letter.pdf",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "He described AB 84's restrictions and authorization cap on nonclassroom-based charter schools as threatening their operations.",
+          "quote": "AB 84 (Muratsuchi) imposes new restrictions and requirements for charter schools, adding stricter audits and funding-determination thresholds, tighter contracting and authorizer oversight, and a cap that limits small districts’ ability to authorize non-classroom based charter schools, threatening their operations.",
+          "sourceUrl": "https://sr32.senate.ca.gov/content/legislative-update-end-session-0",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He called for overturning laws that restrict law enforcement's ability to act.",
+          "quote": "We need to overturn policies and laws that restrict law enforcement’s ability to deal with people who choose to operate outside of the laws that every other law abiding citizen must follow.",
+          "sourceUrl": "https://seyartoforsenate.com/issues/",
+          "agreement": "10/10"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "He criticized decriminalization and the release of dangerous offenders and called for reversing those policies.",
+          "quote": "Too many legislators in Sacramento either don’t get it or don’t care that their policies to decriminalize criminal behavior and release dangerous offenders have caused crime rates to skyrocket, contributed to the homeless crisis and made every community in our state less safe.",
+          "sourceUrl": "https://seyartoforsenate.com/issues/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "Seyarto voted against SJR 9, which condemned mass immigration raids and supported expanded legal services and protections for people affected by enforcement.",
+          "quote": "Alvarado-Gil, Choi, Dahle, Grove, Jones, Niello, Ochoa Bogh, Seyarto, Strickland, Valladares",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SJR9",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He asked the governor to veto AB 1127, arguing that its firearm-sales restriction would not stop gun crime.",
+          "quote": "AB-1127 will not stop gun crime. Converting a firearm to fully automatic is already illegal under both state and federal law.",
+          "sourceUrl": "https://sr32.senate.ca.gov/sites/sr32.senate.ca.gov/files/AB-1127%20Veto%20Letter.pdf",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "He voted against SB 233, which temporarily authorized qualified Arizona physicians to provide abortion-related care to Arizona patients in California.",
+          "quote": "Dahle, Grove, Jones, Nguyen, Niello, Ochoa Bogh, Seyarto, Wilk",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240SB233",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He criticized expanding Medi-Cal coverage to undocumented immigrants as part of spending he called unacceptable.",
+          "quote": "The recent healthcare bills signed by the Governor raised the minimum wage for hospital workers, resulting in a $2 billion increase for the state (which the Governor did NOT include in his current budget proposal), and expanded Medi-Cal coverage for undocumented immigrants projected to cost taxpayers over $4 billion a year. This is simply unacceptable.",
+          "sourceUrl": "https://sr32.senate.ca.gov/content/state-spending-out-control-0",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He identified affordable energy as a priority while opposing a state budget he said would raise household costs.",
+          "quote": "Families want lower costs, safer communities, better roads, affordable energy, and a government that lives within its means.",
+          "sourceUrl": "https://sr32.senate.ca.gov/content/californias-budget-more-spending-higher-costs-taxpayers",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He requested a veto of SB 1174, which prohibited local governments from requiring voter identification in local elections.",
+          "quote": "SB 1174 (Min) prohibits cities and/or counties from requiring voters to show identification before voting in a local election.",
+          "sourceUrl": "https://sr32.senate.ca.gov/content/legislative-update-end-session",
+          "agreement": "8/10"
+        }
+      }
+    }
+  ],
+  "sources": "losangelesmovinginsider.com · votedrtate.com · seyartoforsenate.com · sr32.senate.ca.gov · leginfo.legislature.ca.gov",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

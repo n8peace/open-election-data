@@ -1,0 +1,104 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 10",
+  "division": "tx/cd-10",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Chris Gober",
+      "party": "REP",
+      "stances": {
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Gober’s campaign calls for empowering Texas law enforcement to combat drugs, violence, and gangs.",
+          "quote": "Crush the cartels by helping President Trump secure our border and empowering Texas law enforcement to halt the invasion of drugs, violence, and gangs into our community.",
+          "sourceUrl": "https://chrisgober.com/",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Gober’s campaign calls for securing the border and using law enforcement against cross-border cartels and gangs.",
+          "quote": "Crush the cartels by helping President Trump secure our border and empowering Texas law enforcement to halt the invasion of drugs, violence, and gangs into our community.",
+          "sourceUrl": "https://chrisgober.com/",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Gober strongly agreed that physically or socially transitioning a child to the opposite sex constitutes child abuse.",
+          "quote": "Attempts to physically or socially transition a child to the opposite sex constitute child abuse.",
+          "sourceUrl": "https://ivoterguide.com/candidate/89398/race/23536/election/1343",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Caitlin Rourk",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Rourk said tax reform should close loopholes and ensure wealthy Americans and large corporations pay their fair share.",
+          "quote": "Yes, making the tax code work for working families will require closing loopholes and ensuring the wealthiest Americans and large corporations pay their fair share.",
+          "sourceUrl": "https://www.lonestarleft.com/p/meet-the-candidates-caitlin-rourk?action=share",
+          "agreement": "3/3"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Rourk supports raising the federal minimum wage and indexing it to the cost of living.",
+          "quote": "I support raising and indexing the federal minimum wage so it better reflects the cost of living and the economic realities facing working families.",
+          "sourceUrl": "https://www.lonestarleft.com/p/meet-the-candidates-caitlin-rourk?action=share",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Rourk pledges to support public schools, special-education programs, student services and technical education.",
+          "quote": "In Congress, I’ll fight for public schools and programs like IDEA, expand mental health and safety resources, and invest in technical education and training that give Central Texas kids the skills and opportunities to thrive in the jobs of tomorrow.",
+          "sourceUrl": "https://www.ballotready.org/people/caitlin-rourk-1f6b5cbb-fd4b-48a4-afab-67399b876245",
+          "agreement": "2/3"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "Rourk said government should not overreach into personal choices or reproductive rights.",
+          "quote": "without letting the government overreach into our businesses, our personal choices, or our health and reproductive rights.",
+          "sourceUrl": "https://battlegroundvote.com/texas/caitlin-rourk",
+          "agreement": "2/3"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Rourk supports federal legislation to expand and protect voting rights.",
+          "quote": "Yes, I support expanding and protecting voting rights through federal law.",
+          "sourceUrl": "https://www.lonestarleft.com/p/meet-the-candidates-caitlin-rourk?action=share",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "chrisgober.com · ivoterguide.com · lonestarleft.com · ballotready.org · battlegroundvote.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

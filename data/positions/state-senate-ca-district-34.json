@@ -1,0 +1,143 @@
+{
+  "office": "State Senate",
+  "district": "CA District 34",
+  "division": "ca/sldu-34",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Avelino Valencia",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Valencia voted for SB 525, which established higher minimum-wage schedules for covered health-care workers.",
+          "quote": "Blanca Rubio, Santiago, Schiavo, Soria, Ting, Valencia, Villapudua, Ward, Weber, Wicks, Wilson, Wood, Zbur, Robert Rivas",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240SB525",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Valencia's campaign says he has fought to improve public schools and provide students with programs and support.",
+          "quote": "As our Assemblymember, he’s been fighting to improve public schools and ensure our kids have the programs and support they need.",
+          "sourceUrl": "https://www.avelinovalencia.com/",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Valencia authored AB 1483 to close a loophole allowing private gun transactions to bypass California's waiting period.",
+          "quote": "Eliminate a gun purchase loophole that allows private party transactions to bypass the state’s mandated waiting period. (AB 1483)",
+          "sourceUrl": "https://www.avelinovalencia.com/about/",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "Valencia voted for AB 352, which protects abortion-related medical information from disclosure to out-of-state authorities.",
+          "quote": "Blanca Rubio, Santiago, Schiavo, Soria, Ting, Valencia, Villapudua, Wallis, Ward, Weber, Wicks, Wilson, Wood, Zbur, Robert Rivas",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB352",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Valencia voted for AB 1955, which bars schools from requiring disclosure of a student's gender identity without the student's consent.",
+          "quote": "Blanca Rubio, Santiago, Schiavo, Soria, Ting, Valencia, Villapudua, Ward, Weber, Wicks, Wilson, Wood, Zbur, Robert Rivas",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1955",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Rhonda Shader",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Shader says she would lower corporate and individual tax rates, targeting a 25 percent rate.",
+          "quote": "High corporate and individual tax rates hinder job creation. Rhonda will work to overhaul the tax code, reducing rates to a competitive 25%.",
+          "sourceUrl": "https://shaderforsenate.com/issues/",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "Shader said she opposes government-mandated pay and expects labor-market retention pressures to raise wages.",
+          "quote": "I am NOT supportive of mandating what people get paid. I believe the market will cause that to get better when they have trouble with retention.",
+          "sourceUrl": "https://www.childrennow.org/news/rhonda-shader/",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Shader called affordable-housing construction important and advocated reducing regulatory obstacles to homebuilding.",
+          "quote": "Building more affordable housing projects is important, but I believe the state of California passes laws and regulations that many times causes slower development of affordable housing projects. We need to incentivize home building and not make it harder.",
+          "sourceUrl": "https://us.headtopics.com/news/rhonda-shader-sd-34-candidate-2026-primary-election-83052442",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Shader supports allowing education funding to follow students and expanding access to charter schools.",
+          "quote": "Rhonda will support policies that let education funding follow the student, giving parents more options, including charter schools.",
+          "sourceUrl": "https://shaderforsenate.com/issues/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Shader promises to fully fund and staff local law-enforcement agencies and oppose police defunding.",
+          "quote": "I will support fully funding and staffing our local law enforcement agencies, restore respect for the men and women in uniform who put their lives on the line every day, and oppose any effort to defund or demoralize our police.",
+          "sourceUrl": "https://shaderforsenate.com/issues/",
+          "agreement": "5/5"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "Shader pledges to repeal provisions of Proposition 47 and impose consequences on repeat offenders.",
+          "quote": "I will fight to repeal the most damaging provisions of Prop 47, hold repeat offenders accountable with real consequences, and ensure prosecutors are working for victims, not criminals.",
+          "sourceUrl": "https://shaderforsenate.com/issues/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Shader supports private insurance purchasing pools and allowing plans to be bought across state lines.",
+          "quote": "Rhonda will promote innovative healthcare solutions, such as allowing small businesses and individuals to pool resources for better insurance rates and purchase plans across state lines.",
+          "sourceUrl": "https://shaderforsenate.com/issues/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Shader supports dismantling cap-and-trade because she says its costs are passed on to consumers.",
+          "quote": "I would support the dismantling of the cap-and-trade program that is making all our transportation, utilities, and businesses pass this cost on to consumers.",
+          "sourceUrl": "https://us.headtopics.com/news/rhonda-shader-sd-34-candidate-2026-primary-election-83052442",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "leginfo.legislature.ca.gov · avelinovalencia.com · shaderforsenate.com · childrennow.org · us.headtopics.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
