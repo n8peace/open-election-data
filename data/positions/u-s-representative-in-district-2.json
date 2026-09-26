@@ -1,0 +1,142 @@
+{
+  "office": "U.S. Representative",
+  "district": "IN District 2",
+  "division": "in/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jamee Decio",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Decio proposed taxing billionaires while restoring Medicaid coverage and introducing healthcare for all Americans.",
+          "quote": "On day one, I will sponsor a bill to eliminate tariffs, raise the minimum wage to a living wage, tax billionaires, and reinstate Medicaid for those who were cut off by my opponent who wants the elderly and the disabled be required to work. I would also introduce healthcare for all Americans.",
+          "sourceUrl": "https://www.wfyi.org/statewide/2026-09-21/2026-voter-guide-indianas-2nd-congressional-district",
+          "agreement": "3/3"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Decio proposes a federal minimum wage tied to local living costs and adjusted annually for inflation.",
+          "quote": "Propose a federal minimum wage tied directly to the local cost of living and automatically adjusted annually for inflation. This ensures hard work pays the bills and pumps local dollars back into our neighborhood economies.",
+          "sourceUrl": "https://decioforcongress.com/policies/the-economy/",
+          "agreement": "3/3"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Decio calls for rolling back tariffs and trade wars that she says raise prices and harm farms and businesses.",
+          "quote": "Roll back the reckless, inflationary tariffs and trade wars that disrupt supply chains, drive up grocery prices, jeopardize family farms, and stymie American business growth.",
+          "sourceUrl": "https://decioforcongress.com/policies/the-economy/",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Decio pledges to protect Social Security and Medicaid and opposes cutting coverage to finance tax breaks.",
+          "quote": "Jamee Decio will fight to protect Medicaid and Social Security for Hoosier families and seniors who depend on them, and oppose any attempt to cut coverage to fund tax breaks for corporations and the wealthy.",
+          "sourceUrl": "https://decioforcongress.com/",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Decio supports work visas for labor-shortage industries and a pathway to citizenship for qualifying immigrants.",
+          "quote": "This includes establishing a safe, secure, and simple visa system that allows immigrants to work in areas with critical labor shortages, while also providing a clear pathway to citizenship for people who have contributed to our communities, paid taxes, and have no felony convictions.",
+          "sourceUrl": "https://decioforcongress.com/policies/immigration/",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Decio proposes universal basic healthcare coverage while retaining optional private plans for additional services.",
+          "quote": "This would mean everyone would have a basic level of guaranteed healthcare access, while still having the option to choose private plans for additional services.",
+          "sourceUrl": "https://decioforcongress.com/policies/healthcare/",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Decio proposes using the Strategic Petroleum Reserve and diplomacy to lower and stabilize fuel prices.",
+          "quote": "Deploy the Strategic Petroleum Reserve to immediately lower consumer costs, while using tough diplomacy to restore safe passage through the Strait of Hormuz and stabilize global energy markets.",
+          "sourceUrl": "https://decioforcongress.com/policies/the-economy/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "William Eric Henry",
+      "party": "Libertarian",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Henry says he would reduce federal taxes and regulatory burdens on businesses.",
+          "quote": "First, we need to reduce the federal regulatory and tax burdens that make it more expensive to employ people and operate a business.",
+          "sourceUrl": "https://www.wfyi.org/statewide/2026-09-21/2026-voter-guide-indianas-2nd-congressional-district",
+          "agreement": "4/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Henry called for ending trade conflicts as part of his affordability agenda.",
+          "quote": "First and foremost, we need to end our global wars and trade conflicts and instead attack our more than $40 trillion in national debt and associated interest.",
+          "sourceUrl": "https://www.wfyi.org/statewide/2026-09-21/2026-voter-guide-indianas-2nd-congressional-district",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Henry says reducing the national debt and balancing the federal budget should be a top priority.",
+          "quote": "First and foremost, we need to end our global wars and trade conflicts and instead attack our more than $40 trillion in national debt and associated interest.",
+          "sourceUrl": "https://www.wfyi.org/statewide/2026-09-21/2026-voter-guide-indianas-2nd-congressional-district",
+          "agreement": "4/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Henry supports ending federal cannabis prohibition and expunging federal cannabis records.",
+          "quote": "End federal cannabis prohibition and expunge all federal cannabis records",
+          "sourceUrl": "https://www.williamhenry.us/issues.html",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Rudy Yakym",
+      "party": "Republican",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Yakym voted for legislation intended to lower housing costs by expanding supply.",
+          "quote": "Voted for the 21st Century ROAD to Housing Act to lower housing costs by expanding supply and making homeownership affordable again",
+          "sourceUrl": "https://yakym.house.gov/issues/putting-your-money-back-in-your-pocket",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "wfyi.org · decioforcongress.com · williamhenry.us · yakym.house.gov",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

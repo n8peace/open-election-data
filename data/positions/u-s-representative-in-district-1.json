@@ -1,0 +1,159 @@
+{
+  "office": "U.S. Representative",
+  "district": "IN District 1",
+  "division": "in/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Frank J. Mrvan",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Mrvan voted against 2025 tax-and-spending legislation, saying its service cuts financed tax reductions for corporations and billionaires.",
+          "quote": "I opposed this bill because all of these reckless and cruel cuts are in order to have a tax cut for major corporations and billionaires",
+          "sourceUrl": "https://mrvan.house.gov/media/in-the-news/mrvan-votes-against-reckless-and-cruel-trump-tax-and-spending-cuts",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Mrvan supports the PRO Act and workers' ability to form unions.",
+          "quote": "Frank is proud to support the Protecting the Right to Organize Act so that all workers have the right and ability to form a union.",
+          "sourceUrl": "https://mrvanforcongress.com/issues/",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "Mrvan supports targeted tariffs against subsidized and dumped foreign steel but has opposed blanket tariff wars with allies.",
+          "quote": "he wants tariffs in place against countries that subsidize steel and illegally dump steel in the United States.",
+          "sourceUrl": "https://mrvan.house.gov/media/in-the-news/us-rep-frank-mrvan-vows-fight-trumps-authoritarian-approach-gops-cruel-spending",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Mrvan voted for the Social Security Fairness Act, which repealed provisions that reduced benefits for certain workers with public pensions.",
+          "quote": "which fully repeals Social Security’s windfall elimination provision and government pension offset.",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/CREC-2024-11-12/pdf/CREC-2024-11-12.pdf",
+          "agreement": "3/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Mrvan introduced a federal grant bill intended to redevelop vacant properties and promote affordable-housing construction.",
+          "quote": "This bill will establish a grant program to revitalize neighborhoods with vacant, abandoned, and deteriorated properties and promote the development of affordable housing.",
+          "sourceUrl": "https://mrvan.house.gov/media/press-releases/mrvan-introduces-revitalize-our-neighborhoods-act",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Mrvan's campaign says he works to ensure public funds support public education.",
+          "quote": "Como miembro del Comité de Educación y Trabajo, Frank es partidario de los maestros y estudiantes, y continuará trabajando para garantizar que los fondos públicos se destinen a apoyar la educación pública.",
+          "sourceUrl": "https://mrvanforcongress.com/es/temas/",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Mrvan advocated providing additional federal resources and technology to local police departments.",
+          "quote": "What I want to do as a member of Congress is make sure we deliver more resources to the City of East Chicago and chiefs throughout the district so that we can have a safer community.",
+          "sourceUrl": "https://mrvan.house.gov/media/in-the-news/mrvan-visits-east-chicago-police-chief-after-federal-spending-cuts",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Mrvan has supported E-Verify and increased border resources while also calling for the government to honor its commitment to Dreamers.",
+          "quote": "More broadly, there was a real desire to comprehensively solve this problem in a bipartisan manner, requiring not only government and federal contractor employers but all employers to utilize the E-Verify system to ensure no labor is being exploited, as well as honor our commitment to Dreamers.",
+          "sourceUrl": "https://mrvan.house.gov/media/press-releases/mrvan-floor-statement-immigration-legislation",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Mrvan co-sponsored the Bipartisan Background Checks Act of 2025, requiring a background check for every firearm sale.",
+          "quote": "To require a background check for every firearm sale.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr18ih",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Mrvan supports codifying Roe v. Wade and protecting women's ability to make their own reproductive decisions.",
+          "quote": "Frank supports the codification of Roe v. Wade and will continue fighting to ensure that women can make their own decisions about their own bodies, their own futures, and their own economic opportunities.",
+          "sourceUrl": "https://mrvanforcongress.com/issues/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Mrvan voted against legislation that would require Title IX athletic rules to recognize sex solely from reproductive biology and genetics at birth.",
+          "quote": "to amend the Education Amendments of 1972 to provide that for purposes of determining compliance with title IX of such Act in athletics, sex shall be recognized based solely on a person’s reproductive biology and genetics at birth",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/CREC-2025-01-14/pdf/CREC-2025-01-14.pdf",
+          "agreement": "5/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Mrvan was an original cosponsor of the 2025 MORE Act to federally decriminalize and deschedule cannabis.",
+          "quote": "To decriminalize and deschedule cannabis, to provide for reinvestment in certain persons adversely impacted by the War on Drugs, to provide for expungement of certain cannabis offenses, and for other purposes.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr5068ih",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Mrvan voted against legislation he said would eliminate Medicaid coverage for an estimated 200,000 Hoosiers.",
+          "quote": "The three-term lawmaker said the 869-page measure, which was signed into law by Trump on the 4th of July, will eliminate Medicaid health coverage for an estimated 200,000 Hoosiers — threatening the financial stability of Indiana's urban and rural hospitals and spreading the costs of uncompensated care onto everyone else.",
+          "sourceUrl": "https://mrvan.house.gov/media/in-the-news/mrvan-votes-against-reckless-and-cruel-trump-tax-and-spending-cuts",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Mrvan supports increasing affordable energy supplies through wind, solar, and hydrogen investments to lower costs and strengthen energy independence.",
+          "quote": "He supports investments in wind, solar, and hydrogen, and to increase the supply of more affordable energy to reduce costs and strengthen our energy independence.",
+          "sourceUrl": "https://mrvanforcongress.com/issues/",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Mrvan voted for the For the People Act, legislation intended to expand access to the ballot box.",
+          "quote": "to expand Americans’ access to the ballot box, reduce the influence of big money in politics, strengthen ethics rules for public servants, and implement other anti-corruption measures for the purpose of fortifying our democracy, and for other purposes",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/CREC-2021-03-03/pdf/CREC-2021-03-03.pdf",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "Barb Regnitz",
+      "party": "Republican",
+      "stances": {}
+    }
+  ],
+  "sources": "mrvan.house.gov · mrvanforcongress.com · govinfo.gov",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
