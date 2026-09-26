@@ -1,0 +1,128 @@
+{
+  "office": "Representative in Congress",
+  "district": "MD District 7",
+  "division": "md/cd-7",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Kweisi Mfume",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Mfume cosponsored the Raise the Wage Act of 2025, which would increase the federal minimum wage.",
+          "quote": "To provide for increases in the Federal minimum wage, and for other purposes.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr2743ih",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Mfume joined a Maryland delegation letter warning that tariffs would burden American consumers.",
+          "quote": "We are especially concerned about the latest announcement on tariffs considering the economic consequences for the American consumer. These tariffs effectively serve as a sales tax on consumers, placing the burden of revenue raising on American families",
+          "sourceUrl": "https://www.cbsnews.com/amp/baltimore/news/maryland-tariffs-port-of-baltimore-prices-consumers/",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Mfume helped secure redevelopment funding and pledged to keep working to build more housing and community spaces in West Baltimore.",
+          "quote": "I won't stop until we create more living community spaces, build more housing, and restore both neighborhood parks and new hope for reconnecting the Harlem Park, Poppleton and Rosemont communities",
+          "sourceUrl": "https://mfume.house.gov/media/press-releases/mfume-van-hollen-alsobrooks-announce-85-million-for-first-phase-of-highway-to-nowhere-redevelopment",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Mfume helped fund an expanded violence-reduction strategy combining police, social services, and community partners.",
+          "quote": "The results of the GVRS speak for themselves, and the strategy's expansion to the Baltimore Police Department's Northern District will mean even greater collaboration between BPD, social services, and members of the community throughout North Baltimore.",
+          "sourceUrl": "https://mfume.house.gov/media/press-releases/mfume-van-hollen-olszewski-highlight-nearly-12-million-in-federal-funding-to-support-gun-violence-reduction-in-baltimore",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Mfume cosponsored the American Dream and Promise Act of 2025, authorizing cancellation of removal and adjustment of status for certain immigrants.",
+          "quote": "To authorize the cancellation of removal and adjustment of status of certain aliens, and for other purposes.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr1589ih",
+          "agreement": "4/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Mfume voted for final passage of the MORE Act.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Mfume cosponsored the Medicare for All Act of 2025 to establish a national Medicare-for-All insurance program.",
+          "quote": "To establish an improved Medicare-for-All national health insurance program.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr3069ih",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Mfume cosponsored a resolution recognizing a federal duty to create a Green New Deal.",
+          "quote": "Recognizing the duty of the Federal Government to create a Green New Deal.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-118hres319ih",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Mfume led a letter challenging proposed federal requirements that he said could enable USPS to reject mail ballots.",
+          "quote": "This proposed rule would turn the Postal Service into a political weapon against voters, requiring states to submit voter lists to a federal portal and empowering USPS to reject ballots outright.",
+          "sourceUrl": "https://mfume.house.gov/media/press-releases/reps-mfume-krishnamoorthi-demand-answers-from-postmaster-general-on-potential-political-interference-in-mail-in-voting",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Scott M. Collier",
+      "party": "Republican",
+      "stances": {
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Collier said working with law-enforcement members and groups that support officers is a priority because it makes communities safer.",
+          "quote": "Another priority is to continue working with members of the Law Enforcement Community & groups that support our officers because when we do, our communities are safer and more tranquil environments to live, work and play.",
+          "sourceUrl": "https://www.ballotready.org/people/scott-m-collier",
+          "agreement": "2/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Collier endorsed the Supreme Court’s decision returning abortion policy to the states and said life begins at conception.",
+          "quote": "No. I believe that the Supreme Court made the correct decision, because this is a state’s rights issue. I believe that life starts at conception.",
+          "sourceUrl": "https://www.ballotready.org/people/scott-m-collier",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "govinfo.gov · cbsnews.com · mfume.house.gov · clerk.house.gov · ballotready.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

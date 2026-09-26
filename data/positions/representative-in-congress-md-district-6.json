@@ -1,0 +1,278 @@
+{
+  "office": "Representative in Congress",
+  "district": "MD District 6",
+  "division": "md/cd-6",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "April McClain Delaney",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "She supported raising revenue from large corporations and wealthy people to fund infrastructure, health care, Social Security, education, and jobs.",
+          "quote": "Would you support and advocate for President Biden’s proposal to make big corporations and the wealthy pay their fair share of taxes so we can raise significant revenue and make the investments we need in infrastructure, health care, Social Security, education and well-paying jobs for working people? Yes",
+          "sourceUrl": "https://mddclabor.org/system/files/2024-10/cd6_-_april_mcclain_delaney.pdf",
+          "agreement": "7/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supports raising the minimum wage and describes herself as a strong supporter of organized labor.",
+          "quote": "She believes that it is long past time to raise the minimum wage.",
+          "sourceUrl": "https://www.aprilmcclaindelaneyforcongress.com/on-the-issues/building-an-economy-that-works-for-everyone/",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She opposes broad tariffs that disrupt trade and raise costs but supports carefully targeted tariffs paired with domestic-industry incentives.",
+          "quote": "we have watched President Trump’s trade war disrupt supply chains, isolate America from its allies and push the economy toward a devastating recession.",
+          "sourceUrl": "https://mcclaindelaney.house.gov/media/press-releases/congresswoman-april-mcclain-delaney-calls-revocation-trumps-tariff-powers",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She pledges to protect Medicare and Social Security, strengthen Medicare, and oppose Social Security cuts or privatization.",
+          "quote": "April will protect Medicare and Social Security – two of the most successful domestic policy programs ever created that millions of Americans rely on every day. She will work to strengthen Medicare by lowering the cost of prescription drugs and taking actions to ensure more equitable care. April opposes cuts to Social Security and efforts to privatize the program.",
+          "sourceUrl": "https://www.aprilmcclaindelaneyforcongress.com/on-the-issues/medicare-and-social-security/",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She supports tax credits to construct additional housing and assistance for renters and first-generation homebuyers.",
+          "quote": "tax credits to build more housing, and lowering costs for renters through tax relief or direct grants.",
+          "sourceUrl": "https://www.aprilmcclaindelaneyforcongress.com/on-the-issues/inflation/",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She opposes school vouchers because she says they undermine public education.",
+          "quote": "I believe vouchers undermine the public education system",
+          "sourceUrl": "https://mddclabor.org/system/files/2024-10/cd6_-_april_mcclain_delaney.pdf",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports stronger border security alongside humane treatment and preservation of legal immigration.",
+          "quote": "In Congress, April is prepared to work with colleagues on both sides of the aisle to deliver critical, bipartisan legislation that makes our country safer, our border more secure, and treats people fairly and humanely while preserving the right to legal immigration – consistent with our values as a nation.",
+          "sourceUrl": "https://www.aprilmcclaindelaneyforcongress.com/on-the-issues/immigration/",
+          "agreement": "6/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports universal background checks and restrictions on assault weapons.",
+          "quote": "April supports universal background checks and limitations on assault weapons.",
+          "sourceUrl": "https://www.aprilmcclaindelaneyforcongress.com/on-the-issues/doing-more-to-stop-gun-violence/",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She supports codifying Roe and enacting the Women’s Health Protection Act to restore abortion access.",
+          "quote": "April supports codifying Roe into law, and on day one, will co-sponsor the Women’s Health Protection Act, which will protect and re-establish abortion rights, and ensure the future of reproductive healthcare remains safe, legal, and accessible.",
+          "sourceUrl": "https://www.aprilmcclaindelaneyforcongress.com/on-the-issues/protecting-and-restoring-reproductive-rights/",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "She voted against legislation that would base school-sports eligibility solely on reproductive biology and genetics at birth.",
+          "quote": "She also joined 205 fellow Democrats to oppose the Protection of Women and Girls in Sports Act, which would require that an athlete’s sex",
+          "sourceUrl": "https://www.yahoo.com/news/mcclain-delaney-focuses-districts-needs-045900542.html",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports expanding Medicare and lowering its eligibility age.",
+          "quote": "I do support expanding Medicare, including lowering the eligibility age.",
+          "sourceUrl": "https://mddclabor.org/system/files/2024-10/cd6_-_april_mcclain_delaney.pdf",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She supports carbon pricing, climate-science investment, and incentives and regulation to decarbonize industry.",
+          "quote": "Congress should increase basic research in climate science, price carbon, create new incentives to drive technological/scaling investments in industries that need to be decarbonized and address regulatory gaps.",
+          "sourceUrl": "https://www.aprilmcclaindelaneyforcongress.com/on-the-issues/addressing-the-climate-crisis-and-environmental-stewardship/",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She supports the For the People Act to expand voter access and the John Lewis Act to restore voting protections.",
+          "quote": "April supports initiatives like the For the People Act to expand voter access and reform campaign finance. She also strongly supports the John Lewis Act which would restore voting rights.",
+          "sourceUrl": "https://www.aprilmcclaindelaneyforcongress.com/on-the-issues/protecting-our-democratic-values/",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Robin Ficker",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Ficker says he will lower taxes, reduce regulations, and pursue pro-growth policies.",
+          "quote": "He will champion lower taxes, fewer regulations, and pro-growth policies that incentivize businesses to invest in our workforce and strengthen our economy right here in Maryland.",
+          "sourceUrl": "https://voteficker.com/issues/",
+          "agreement": "2/3"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Ficker strongly agreed that government should cut spending to reduce the national debt.",
+          "quote": "The government should cut spending in order to reduce the national debt.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/3306/race/31712/election/1467",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Ficker strongly endorsed vouchers, charter schools, private schools, and home schooling.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/3306/race/14456/election/1080?culture=en-us",
+          "agreement": "2/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Ficker says he will support police, hold criminals accountable, and oppose soft-on-crime policies.",
+          "quote": "Robin Ficker will support our police, hold criminals accountable, and fight against soft-on-crime policies that put families at risk.",
+          "sourceUrl": "https://voteficker.com/issues/",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Ficker said gun restrictions should not extend beyond the longstanding Second Amendment exceptions recognized in Heller.",
+          "quote": "None beyond those articulated as longstanding exceptions to the 2nd Amendment as articulated in Heller.",
+          "sourceUrl": "https://ivoterguide.com/candidate/3306/race/14456/election/1080?culture=en-us",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Ficker strongly agreed that human life should have legal protection beginning at conception.",
+          "quote": "Human life deserves legal protection from conception until natural death.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/3306/race/31712/election/1467",
+          "agreement": "3/3"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Ficker strongly agreed that transgender women should be excluded from women’s sports and female-designated spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/3306/race/31712/election/1467",
+          "agreement": "3/3"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "Ficker supported legalizing cannabis and expunging related criminal records.",
+          "quote": "Yes. Expunge their records. I am a defense attorney, having completed 40,000+ cases",
+          "sourceUrl": "https://www.ontheissues.org/Domestic/Robin_Ficker_Drugs.htm",
+          "agreement": "2/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Ficker selected the option retaining Medicare and Medicaid while rejecting additional taxpayer-funded coverage programs.",
+          "quote": "Medicaid and Medicare should remain available, but no other taxpayer-funded programs are necessary.",
+          "sourceUrl": "https://ivoterguide.com/candidate/3306/race/31712/election/1467",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Ficker strongly rejected the premise that climate change requires urgent political action and favored nuclear power and natural gas.",
+          "quote": "Man-made climate change is a global threat and requires urgent political action.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/3306/race/14456/election/1080?culture=en-us",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Ficker strongly opposed allowing people to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/3306/race/31712/election/1467",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "Moshe Y. Landman",
+      "party": "Green",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He says workers should have labor-union representation to protect their rights and fair pay.",
+          "quote": "All Americans who work should have representation to promote their rights and job quality of life. Labor unions and other forms of employee groups can facilitate these benefits. We can no longer allow business owners, managers, or a few shareholders to treat their employees or contractors with disrespect, abuse, and lack of fair pay.",
+          "sourceUrl": "https://www.moshelandman.us/the-issues",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He supports fully funding K-12 public education and strengthening partnerships among school districts, colleges, and universities.",
+          "quote": "To build a robust education pipeline for Maryland’s youth, I support fully funding K-12 public education with a dedicated emphasis on hands-on science, technology, and environmental education that inspires early interest in STEM fields.",
+          "sourceUrl": "https://snapcoalition.org/initiatives/stance-on-science/candidates/md/moshe-landman",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "He prioritizes increased funding for community mental-health and addiction programs to address the opioid crisis.",
+          "quote": "My platform prioritizes expanding funding for community-based mental health and addiction programs to directly tackle the opioid crisis and bridge the gap in underserved rural and minority communities.",
+          "sourceUrl": "https://snapcoalition.org/initiatives/stance-on-science/candidates/md/moshe-landman",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports a universal health-care system providing comprehensive care regardless of income or location.",
+          "quote": "To address Maryland’s deep health disparities and strained infrastructure, I support implementing a universal healthcare system that will save an estimated 100,000 lives and $500 billion in costs annually.",
+          "sourceUrl": "https://snapcoalition.org/initiatives/stance-on-science/candidates/md/moshe-landman",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He supports a Green New Deal that rapidly replaces fossil fuels with clean renewable energy and reaches net-zero emissions.",
+          "quote": "As a candidate for Congress in Maryland’s 6th District, I will tackle rising electricity bills by championing a comprehensive Green New Deal to transition our power grid fully to clean, renewable energy while eliminating reliance on volatile fossil fuels.",
+          "sourceUrl": "https://snapcoalition.org/initiatives/stance-on-science/candidates/md/moshe-landman",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "mddclabor.org · aprilmcclaindelaneyforcongress.com · mcclaindelaney.house.gov · yahoo.com · voteficker.com · ivoterguide.com · ontheissues.org · moshelandman.us · snapcoalition.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

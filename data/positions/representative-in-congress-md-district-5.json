@@ -1,0 +1,184 @@
+{
+  "office": "Representative in Congress",
+  "district": "MD District 5",
+  "division": "md/cd-5",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Adrian Boafo",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Boafo championed legislation to raise Maryland's minimum wage to $20.",
+          "quote": "and a bill to raise the state’s minimum wage to $20.",
+          "sourceUrl": "https://www.adrianboafo.com/campaignnews/maryland-del.-adrian-boafo-announces-campaign-for-congress",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Boafo said Social Security and the benefits seniors have earned must be safeguarded.",
+          "quote": "It's critically important that we safeguard Social Security and defend the benefits seniors earned and rely on.",
+          "sourceUrl": "https://assets.nationbuilder.com/lwvmaryland/pages/14140/attachments/original/1778777261/Charles_Voters_Guide_2026_Primary.pdf",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Boafo co-introduced legislation requiring increased density for qualifying affordable-housing projects and limiting certain local zoning barriers.",
+          "quote": "Land Use – Affordable Housing – Zoning Density and Permitting (Housing Expansion and Affordability Act of 2024)",
+          "sourceUrl": "https://mgaleg.maryland.gov/2024rs/bills_noln/hb/thb0538.pdf",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Boafo said immigration enforcement should focus on violent offenders rather than law-abiding families and that ICE must be abolished in its current form.",
+          "quote": "Immigration enforcement resources should prioritize violent offenders, traffickers, cartel networks, and those who endanger public safety — not law-abiding families contributing to our economy. In its current form, ICE must be abolished.",
+          "sourceUrl": "https://assets.nationbuilder.com/lwvmaryland/pages/14140/attachments/original/1778777261/Charles_Voters_Guide_2026_Primary.pdf",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "Boafo co-sponsored legislation prohibiting the manufacture, sale, purchase or transfer of pistols readily convertible into machine guns.",
+          "quote": "Prohibiting a person from manufacturing, selling, offering for sale, purchasing, receiving, or transferring a certain convertible pistol; and defining \"convertible pistol\" as any semiautomatic pistol that can be converted into a machine gun solely by the attachment of a switch/auto-sear.",
+          "sourceUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1287?ys=2025RS",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Boafo co-sponsored a Maryland constitutional amendment protecting reproductive decisions, including the decision to end a pregnancy.",
+          "quote": "REPRODUCTIVE FREEDOM, INCLUDING BUT NOT LIMITED TO THE ABILITY TO MAKE AND EFFECTUATE DECISIONS TO PREVENT, CONTINUE, OR END ONE’S OWN PREGNANCY.",
+          "sourceUrl": "https://mgaleg.maryland.gov/2023RS/bills/hb/hb0705t.pdf",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Boafo said he supports Medicare for All while retaining a private option.",
+          "quote": "For healthcare, I'd support Medicare for All with a private option.",
+          "sourceUrl": "https://assets.nationbuilder.com/lwvmaryland/pages/14140/attachments/original/1778777261/Charles_Voters_Guide_2026_Primary.pdf",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Boafo sponsored legislation requiring new buildings and certain renovations to be all-electric by 2035 and ready for electric vehicles or solar power.",
+          "quote": "HB1279 requires construction of all new buildings and certain renovations be all-electric by 2035 to meet the state's zero-emission-ready standards.",
+          "sourceUrl": "https://mgaleg.maryland.gov/cmte_testimony/2024/ent/1zPSJMsRpBIAJbk8nD3DSWU0ikWJIhaav.pdf",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Boafo said he would support the Freedom to Vote Act and the John R. Lewis Voting Rights Advancement Act.",
+          "quote": "When elected, I will support The Freedom to Vote Act, The John R. Lewis Voting Rights Advancement Act, and The DISCLOSE Act.",
+          "sourceUrl": "https://assets.nationbuilder.com/lwvmaryland/pages/14140/attachments/original/1778777261/Charles_Voters_Guide_2026_Primary.pdf",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Chris Chaffee",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Chaffee advocated recurring tax cuts to promote economic growth.",
+          "quote": "I say lower taxes ever year this will continue to promote a good and healthy economy",
+          "sourceUrl": "https://ivoterguide.com/candidate/21056/race/4862/election/539",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "Chaffee endorsed broad tariffs, particularly on imported steel and aluminum.",
+          "quote": "Tariffs across the board especially on steel and aluminum",
+          "sourceUrl": "https://d3n8a8pro7vhmx.cloudfront.net/lwvmaryland/pages/2249/attachments/original/1527095061/Howard_2018_Primary.pdf?1527095061=",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Chaffee attributed high housing costs to shortages and called for minimizing residential and commercial permitting.",
+          "quote": "Home and rent costs have skyrocketed due to shortage of home builders funding and land. We need to minimize the permit process for both residential and commercial construction.",
+          "sourceUrl": "https://www.chaffeeamericafirst.com/",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Chaffee strongly endorsed school choice, including vouchers and tax credits.",
+          "quote": "I support school choice, including voucher programs, tax",
+          "sourceUrl": "https://ivoterguide.com/candidate/21056/race/14456/election/1080",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Chaffee opposed reducing law-enforcement funding while also supporting mental-health and community programs.",
+          "quote": "No, never decrease our law enforcement budget. It gives",
+          "sourceUrl": "https://ivoterguide.com/candidate/21056/race/14456/election/965",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Chaffee said no gun-ownership restrictions were needed and invoked the constitutional right to bear arms.",
+          "quote": "The Constitution states the right to bear Arms",
+          "sourceUrl": "https://ivoterguide.com/candidate/21056/race/14456/election/965",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Chaffee supported withholding taxpayer funds from abortion providers and said elective abortion should be allowed only to save the mother's life.",
+          "quote": "providers, including Planned Parenthood, should not receive taxpayer funds",
+          "sourceUrl": "https://ivoterguide.com/candidate/21056/race/14456/election/1080",
+          "agreement": "3/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Chaffee strongly agreed that women's sports and single-sex spaces should exclude biological males.",
+          "quote": "Biological males should not be allowed to participate",
+          "sourceUrl": "https://ivoterguide.com/candidate/21056/race/14456/election/1080",
+          "agreement": "3/5"
+        },
+        "cannabis": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Chaffee opposed recreational legalization but supported decriminalizing possession.",
+          "quote": "We do not need to make it recreational. States should adopt decriminalizing laws",
+          "sourceUrl": "https://vote.norml.org/politicians/125692",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "adrianboafo.com · assets.nationbuilder.com · mgaleg.maryland.gov · ivoterguide.com · d3n8a8pro7vhmx.cloudfront.net · chaffeeamericafirst.com · vote.norml.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
