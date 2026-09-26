@@ -1,0 +1,98 @@
+{
+  "office": "U.S. Representative",
+  "district": "PA District 14",
+  "division": "pa/cd-14",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Guy Reschenthaler",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Reschenthaler championed the One Big Beautiful Bill to make the 2017 Trump tax cuts permanent.",
+          "quote": "Prevents a 22 percent tax hike on working families by making the 2017 Trump tax cuts permanent",
+          "sourceUrl": "https://reschenthaler.house.gov/media/press-releases/reschenthaler-statement-on-the-one-big-beautiful-bill",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says he is committed to protecting Social Security and Medicare and opposes privatizing them.",
+          "quote": "I do not support efforts to privatize Social Security or dismantle Medicare.",
+          "sourceUrl": "https://reschenthaler.house.gov/issues/seniors-social-security-and-medicare",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He calls for enhanced border security with a wall and ending sanctuary city policies.",
+          "quote": "Congress needs to pass legislation to fix our broken immigration system, enhance border security with a wall, and end dangerous sanctuary city policies.",
+          "sourceUrl": "https://reschenthaler.house.gov/issues/immigration",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He describes gun ownership as a fundamental freedom and opposes eroding the Second Amendment.",
+          "quote": "I am committed to protecting the rights of law-abiding citizens to purchase, possess, and use firearms.",
+          "sourceUrl": "https://reschenthaler.house.gov/issues/values",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He identifies as pro-life and says there is a shared responsibility to protect unborn children.",
+          "quote": "We share a responsibility to protect the lives of unborn children.",
+          "sourceUrl": "https://reschenthaler.house.gov/issues/values",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He backed the Protection of Women and Girls in Sports Act to bar transgender athletes from women's sports.",
+          "quote": "I am proud to support the Protection of Women and Girls in Sports Act and will continue fighting to ensure future generations of female athletes compete on a level playing field.",
+          "sourceUrl": "https://reschenthaler.house.gov/media/press-releases/reschenthaler-applauds-house-passage-of-protection-of-women-and-girls-in-sports-act",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He favors free-market solutions and competition over government mandates for health coverage.",
+          "quote": "free market solutions and competitive innovation, not government mandates, will provide coverage options",
+          "sourceUrl": "https://reschenthaler.house.gov/issues/health-care",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He joined a statement objecting to Pennsylvania's 2020 mail-in ballot practices, refusing to back electors from what he called an inaccurate vote count.",
+          "quote": "Until these unlawful practices are acknowledged and corrected, we cannot agree to support electors chosen based upon an inaccurate total vote count.",
+          "sourceUrl": "https://reschenthaler.house.gov/media/press-releases/pennsylvania-members-congress-release-statement-regarding-certification",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "reschenthaler.house.gov",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

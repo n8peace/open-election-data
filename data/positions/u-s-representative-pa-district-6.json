@@ -1,0 +1,130 @@
+{
+  "office": "U.S. Representative",
+  "district": "PA District 6",
+  "division": "pa/cd-6",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Chrissy Houlahan",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Houlahan backed the PRO Act to strengthen workers' right to unionize and has supported raising the federal minimum wage.",
+          "quote": "I'm supporting the PRO Act because I believe an economy is best positioned to grow and thrive, particularly for the middle class, when each and every worker has the right to join a union.",
+          "sourceUrl": "https://houlahan.house.gov/news/documentsingle.aspx?DocumentID=2026",
+          "agreement": "6/10"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Houlahan supports narrow, targeted tariffs to protect specific industries and jobs while opposing broad across-the-board tariffs.",
+          "quote": "Return to narrow, targeted tariffs that protect critical industries and existing manufacturing jobs, for example on foreign steel and imported cars.",
+          "sourceUrl": "https://houlahan.house.gov/issues/issue/?IssueID=14891",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Houlahan supports a bipartisan commission to reduce long-term debt while protecting Social Security and Medicare.",
+          "quote": "Create a bipartisan commission to find solutions to reducing our long-term debt while protecting Social Security and Medicare",
+          "sourceUrl": "https://houlahan.house.gov/issues/issue/?IssueID=15135",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Houlahan wants more high-density housing near transit and to pressure states to loosen restrictive zoning and permitting.",
+          "quote": "Increase availability of high-density residential buildings near public transit and schools by withholding federal funds to states which don't reform restrictive permitting and zoning laws",
+          "sourceUrl": "https://houlahan.house.gov/Issues/Issue/?IssueID=15136",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Houlahan's education platform focuses on funding public schools by raising teacher pay and expanding recruitment.",
+          "quote": "Solve the teacher shortage by expanding recruitment programs and increasing teacher pay and benefits",
+          "sourceUrl": "https://houlahan.house.gov/Issues/Issue/?IssueID=14892",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Houlahan backs a pathway to permanent residency for long-settled undocumented immigrants and protections for Dreamers, alongside border security.",
+          "quote": "Allow law-abiding adult undocumented immigrants who have been here more than five years a pathway to permanent residency, but not citizenship.",
+          "sourceUrl": "https://houlahan.house.gov/Issues/Issue/?IssueID=14894",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Houlahan calls for universal background checks on all gun sales, an assault weapons ban, and safe-storage requirements.",
+          "quote": "Require a background check for every gun purchase in America, no matter if the gun was sold in a store, at a gun show, or online.",
+          "sourceUrl": "https://houlahan.house.gov/Issues/Issue/?IssueID=15138",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Houlahan says she is firmly pro-choice and will vote to protect abortion access.",
+          "quote": "I will vote to protect a woman's right to control her own reproductive freedom.",
+          "sourceUrl": "https://houlahan.house.gov/news/documentsingle.aspx?DocumentID=2827",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "Houlahan opposed the Protection of Women and Girls in Sports Act, arguing decisions about transgender student athletes should be left to families, doctors, and schools rather than a federal ban.",
+          "quote": "I hope we can leave these infrequent conversations to students, parents, doctors, and schools who can make decisions based on kindness, inclusivity, and understanding, not fear and vitriol.",
+          "sourceUrl": "https://houlahan.house.gov/news/documentsingle.aspx?DocumentID=3267",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Houlahan calls health care a right and supports strengthening the ACA, Medicare and Medicaid and adding a public option.",
+          "quote": "Healthcare is a right, not a privilege. I am working to lower costs, expand access, and improve care for every American.",
+          "sourceUrl": "https://houlahan.house.gov/Issues/Issue/?IssueID=14896",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Houlahan supports restoring clean-energy tax credits for electric vehicles and rooftop solar to cut emissions.",
+          "quote": "Restore energy tax credits for things such as electric vehicles and rooftop solar",
+          "sourceUrl": "https://houlahan.house.gov/Issues/Issue/?IssueID=14814",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Houlahan voted for H.R. 1 to expand early voting and vote-by-mail nationwide.",
+          "quote": "This bill will introduce early voting and vote by mail to all 50 states, which greatly help working families who may have trouble voting around their work schedules on election day.",
+          "sourceUrl": "https://houlahan.house.gov/news/documentsingle.aspx?DocumentID=83",
+          "agreement": "9/10"
+        }
+      }
+    }
+  ],
+  "sources": "houlahan.house.gov",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

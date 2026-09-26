@@ -1,0 +1,82 @@
+{
+  "office": "U.S. Representative",
+  "district": "PA District 8",
+  "division": "pa/cd-8",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Paige Cognetti",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Cognetti's campaign platform opposes tax breaks for large corporations and calls for the wealthy to pay more so government can invest in working families.",
+          "quote": "No tax breaks for wealthy corporations. At a time when hardworking Pennsylvanians are struggling to pay their bills and fill up their gas tanks, the last people who need more money in their pockets are big companies and their billionaire executives.",
+          "sourceUrl": "https://paigeforpa.com/priorities/",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Her platform calls for strengthening unions and making it easier for workers to organize.",
+          "quote": "Strengthen unions; make it easier to join and start a union.",
+          "sourceUrl": "https://paigeforpa.com/priorities/",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She opposes broad tariffs she says raise costs for families while favoring narrowly targeted tariffs to protect domestic manufacturing.",
+          "quote": "Stop broad tariffs that help the big guys and hurt families, create smart targeted tariffs to protect manufacturing here.",
+          "sourceUrl": "https://paigeforpa.com/priorities/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Her campaign says she would push for universal background checks and stronger safe-storage rules if elected to Congress.",
+          "quote": "work to implement universal background checks on gun sales nationwide, strengthen safe storage measures so that guns can't fall into the wrong hands",
+          "sourceUrl": "https://giffords.org/candidates/paige-cognetti/",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "At a reproductive-freedom rally she said abortion should remain legal and safe and framed it as health care.",
+          "quote": "it needs to be legal, it needs to be safe, and that is incredibly important.",
+          "sourceUrl": "https://fox56.com/news/local/reproductive-freedom-rally-held-in-scranton",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "She wants to restrain insurance and healthcare middlemen and reform the insurance system to protect patients.",
+          "quote": "Prevent healthcare industry middlemen from denying care and medications prescribed by doctors.",
+          "sourceUrl": "https://paigeforpa.com/priorities/",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "paigeforpa.com · giffords.org · fox56.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

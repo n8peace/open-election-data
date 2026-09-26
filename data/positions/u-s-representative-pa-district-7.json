@@ -1,0 +1,106 @@
+{
+  "office": "U.S. Representative",
+  "district": "PA District 7",
+  "division": "pa/cd-7",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Ryan Mackenzie",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He touts tax cuts he helped pass in the 2025 budget, including write-offs on tips and overtime income.",
+          "quote": "When tens of millions of tipped and overtime workers go to file their taxes in 2026, they will be able to write off up to $25,000 of income from tips and overtime.",
+          "sourceUrl": "https://mackenzie.house.gov/issues/improving-affordability",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says he refused to support any budget that would cut Social Security benefits and voted to keep funding Medicare without cuts.",
+          "quote": "refused to support any budget that reduced Social Security benefits",
+          "sourceUrl": "https://www.mackenzieforcongress.com/issues",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He says he helped pass an expansion of the Low-Income Housing Tax Credit to build more affordable housing.",
+          "quote": "This year, I helped to pass an expansion of the Low-Income Housing Tax Credit (LIHTC).",
+          "sourceUrl": "https://mackenzie.house.gov/issues/improving-affordability",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "His campaign pledged to expand school choice, and he sponsored school voucher legislation as a state lawmaker.",
+          "quote": "empower parents with expanded school choice",
+          "sourceUrl": "https://pennsylvaniaindependent.com/politics/ryan-mackenzie-gop-state-legislator-challenging-susan-wild/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supported budget measures to bar immigrants in the country illegally from taxpayer-funded benefits and has made border enforcement a priority.",
+          "quote": "Prevents illegal immigrants from accessing taxpayer-funded benefits",
+          "sourceUrl": "https://mackenzie.house.gov/issues/breaking-down-budget",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "His campaign touted a consistent record of protecting Second Amendment rights and an NRA endorsement.",
+          "quote": "consistent voting record of protecting 2nd Amendment rights of law-abiding gun owners",
+          "sourceUrl": "https://pennsylvaniaindependent.com/politics/ryan-mackenzie-gop-state-legislator-challenging-susan-wild/",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "His campaign touted a pro-life record and pledged to oppose efforts to expand legal abortion.",
+          "quote": "fight back against the culture of celebrating abortion and those that want to legalize it up until the moment of birth",
+          "sourceUrl": "https://pennsylvaniaindependent.com/politics/ryan-mackenzie-gop-state-legislator-challenging-susan-wild/",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "His campaign says he opposes transgender women competing in women's sports.",
+          "quote": "opposing men in women's sports, and standing up to radical policies",
+          "sourceUrl": "https://www.mackenzieforcongress.com/issues",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He wants to expand American energy production to lower utility rates.",
+          "quote": "unleash American energy to reduce utility rates, and better control government spending",
+          "sourceUrl": "https://www.mackenzieforcongress.com/issues",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "mackenzie.house.gov · mackenzieforcongress.com · pennsylvaniaindependent.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
