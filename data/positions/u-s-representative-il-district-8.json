@@ -1,0 +1,160 @@
+{
+  "office": "U.S. Representative",
+  "district": "IL District 8",
+  "division": "il/cd-8",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Melissa L. Bean",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Bean's campaign platform pledges to protect workers' right to organize and bargain collectively and to promote fair compensation.",
+          "quote": "Protect the right to organize and collectively bargain",
+          "sourceUrl": "https://www.melissabeanforcongress.com/issues",
+          "agreement": "4/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Bean opposes broad, across-the-board tariffs, saying they raise prices on U.S. consumers and manufacturers, while favoring targeted pressure coordinated with allies.",
+          "quote": "Broad, untargeted tariffs function as a tax on U.S. consumers and manufacturers, driving up prices",
+          "sourceUrl": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/melissa-l-bean-illinois-primary-8th-congressional-district",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Bean says she would protect Social Security and Medicare and address the programs' long-term solvency.",
+          "quote": "Protect the Social Security and Medicare trust funds and address solvency of both",
+          "sourceUrl": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/melissa-l-bean-illinois-primary-8th-congressional-district",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Bean supports preserving and expanding the supply of rental, starter and mid-size homes so young families can afford ownership.",
+          "quote": "preserving and expanding rental, starter and mid-size home inventory",
+          "sourceUrl": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/melissa-l-bean-illinois-primary-8th-congressional-district",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Bean says she stands with public schools and opposes vouchers that divert tax dollars away from them.",
+          "quote": "Stand with teachers and public schools by opposing vouchers that drain our schools",
+          "sourceUrl": "https://www.melissabeanforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Bean supports comprehensive immigration reform with a pathway to citizenship and opposes mass deportation and family separation.",
+          "quote": "Support comprehensive immigration reform with a pathway to citizenship",
+          "sourceUrl": "https://www.melissabeanforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Bean supports codifying Roe v. Wade and defending nationwide access to abortion, contraception and IVF.",
+          "quote": "Defending access to abortion, contraception, and IVF nationwide",
+          "sourceUrl": "https://www.melissabeanforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Bean supports protecting and strengthening the Affordable Care Act and its protections for pre-existing conditions.",
+          "quote": "Protect and strengthen the Affordable Care Act, including ironclad protections for pre-existing conditions",
+          "sourceUrl": "https://www.melissabeanforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Bean supports advancing efforts to cut emissions and scale clean energy technology.",
+          "quote": "Invest and advance efforts that cut emissions, scale clean energy technology and deployment",
+          "sourceUrl": "https://www.melissabeanforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Bean supports protecting and expanding voting rights, including early and mail-in voting.",
+          "quote": "Protect and expand voting rights, including early and mail-in voting",
+          "sourceUrl": "https://www.melissabeanforcongress.com/issues",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Jennifer Davis",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Davis calls for lowering taxes on families and small businesses to leave people more disposable income and spur job creation.",
+          "quote": "Lower taxes on hardworking families and small businesses to put more money back in people's pockets, boost disposable income and spur job creation.",
+          "sourceUrl": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/jennifer-davis-illinois-primary-8th-congressional-district",
+          "agreement": "4/5"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "Davis endorses the Trump administration's tariff-driven China policy as necessary to protect American jobs and industry.",
+          "quote": "The Trump administration's approach to China has been strong and necessary",
+          "sourceUrl": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/jennifer-davis-illinois-primary-8th-congressional-district",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Davis backs law-and-order efforts and equipping law enforcement with more training and technology.",
+          "quote": "I support law-and-order efforts that keep our communities and families safe.",
+          "sourceUrl": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/jennifer-davis-illinois-primary-8th-congressional-district",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "Davis calls for securing borders, enforcing existing laws and deporting criminal aliens, while also streamlining legal pathways.",
+          "quote": "secures our borders with advanced technology, enforces existing laws, and prioritizes legal immigration for skilled workers",
+          "sourceUrl": "https://www.votejenniferdavis.com/issues",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Davis favors expanding American oil, gas, and renewable production to cut costs and reliance on adversarial nations.",
+          "quote": "By expanding American oil, gas, and renewable production, Jennifer will reduce reliance on adversarial nations, protect our economy, and save families hundreds at the pump.",
+          "sourceUrl": "https://www.votejenniferdavis.com/issues",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "melissabeanforcongress.com · chicago.suntimes.com · votejenniferdavis.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

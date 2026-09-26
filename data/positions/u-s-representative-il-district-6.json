@@ -1,0 +1,224 @@
+{
+  "office": "U.S. Representative",
+  "district": "IL District 6",
+  "division": "il/cd-6",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Sean Casten",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Casten said the FICA payroll-tax cap means higher earners contribute a smaller share of income, favoring raising revenue from the wealthy rather than cutting programs.",
+          "quote": "FICA contributions are currently capped at $184,500 of W-2 income, which means that the wealthier you are, the less you contribute as a percent of income.",
+          "sourceUrl": "https://www.shawlocal.com/news/election/2026/09/23/2026-election-questionnaire-sean-casten-us-house-of-representatives-6th-district/",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Casten cosponsored legislation to raise the federal minimum wage to $17 an hour and the PRO Act to strengthen workers' right to organize.",
+          "quote": "Cosponsored the Raise the Wage Act to increase the federal minimum wage to $17 per hour.",
+          "sourceUrl": "https://www.castenforcongress.com/issues/jobs-and-growing-our-economy",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Casten argued that tariffs are inflationary and raise consumer prices, criticizing the Trump tariffs.",
+          "quote": "raise the cost of raw materials and you raise the price of the finished product.",
+          "sourceUrl": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/sean-casten-illinois-primary-6th-congressional-district",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Casten said shoring up Social Security and Medicare must address costs and revenue but cannot include any cuts to the services they provide.",
+          "quote": "Ensuring that Social Security and Medicare continue to provide economic security for American families requires working on both the cost and revenue sides of the ledger, but absolutely cannot include any cuts in services provided.",
+          "sourceUrl": "https://www.shawlocal.com/news/election/2026/09/23/2026-election-questionnaire-sean-casten-us-house-of-representatives-6th-district/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Casten said housing affordability is best addressed on the supply side, requiring changes to state and local zoning and permitting.",
+          "quote": "the best tool to ensure housing affordability is on the supply- rather than demand-side, which inevitably requires coordination with state and local zoning and permitting officials",
+          "sourceUrl": "https://www.shawlocal.com/news/election/2026/09/23/2026-election-questionnaire-sean-casten-us-house-of-representatives-6th-district/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Casten backs comprehensive immigration reform with pathways to citizenship and opposes mass deportation without due process.",
+          "quote": "Sean supports comprehensive immigration reform and finding pathways to citizenship, but he adamantly opposes the Trump Administration's cruel and inhumane policies that aim to deport individuals without regard for due process.",
+          "sourceUrl": "https://www.castenforcongress.com/issues/immigration-reform",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Casten supports stronger gun laws, including universal background checks and an assault-weapons ban.",
+          "quote": "Sean believes that it's time to offer Americans smart, effective gun laws that save lives.",
+          "sourceUrl": "https://www.castenforcongress.com/issues/gun-safety",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Casten describes himself as fully pro-choice and says women should decide their own health care.",
+          "quote": "Sean is 100% pro-choice and believes every woman has the right to make her own health care decisions regardless of her income, race, place of work, or insurance.",
+          "sourceUrl": "https://www.castenforcongress.com/issues/womens-reproductive-rights",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Casten says LGBTQ+ rights, including for transgender people, are human rights and should not be denied.",
+          "quote": "LGBTQ+ rights are human rights, and to deny anyone the full set of rights and opportunities afforded to any other citizen is wrong and unconscionable.",
+          "sourceUrl": "https://www.castenforcongress.com/issues/lgbtq-rights",
+          "agreement": "4/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Casten voted for the MORE Act to federally decriminalize cannabis and praised smarter cannabis policy.",
+          "quote": "By passing the MORE Act, the Democratic House is following Illinoisan's lead in implementing smarter, fairer cannabis policies.",
+          "sourceUrl": "https://casten.house.gov/media/press-releases/rep-casten-votes-advance-justice-decriminalize-cannabis",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Casten says health care is a right for everyone and calls for protecting and strengthening the Affordable Care Act.",
+          "quote": "Sean believes that everyone has a right to universal high quality, affordable health care.",
+          "sourceUrl": "https://www.castenforcongress.com/issues/health-care",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Casten, an author of the Inflation Reduction Act, makes combating the climate crisis a central mission.",
+          "quote": "Sean's mission is to combat the climate crisis and protect our planet for future generations.",
+          "sourceUrl": "https://www.castenforcongress.com/issues/energy-and-climate-policy",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Casten is a strong advocate for vote-by-mail as a safe, secure way to expand access to voting.",
+          "quote": "Sean is also a strong advocate for vote-by-mail. It is a safe and secure way to ensure that everyone can exercise their right to vote.",
+          "sourceUrl": "https://www.castenforcongress.com/issues/the-right-to-vote",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Niki Conforti",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Conforti says she will work to reduce federal spending and stop tax increases on working families.",
+          "quote": "I will work to curb the spending in WDC and stop tax increases on working families.",
+          "sourceUrl": "https://conforti4congress.com/issues/",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "Conforti supports imposing tariffs on China to bring back manufacturing jobs to the U.S.",
+          "quote": "The imposition of tariffs on China will help to achieve this.",
+          "sourceUrl": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/niki-conforti-illinois-primary-6th-congressional-district",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "Conforti opposes raising the debt ceiling and wants to curb spending to limit the national debt.",
+          "quote": "It will only add to the already enormous burden we are placing on our children and grandchildren.",
+          "sourceUrl": "https://conforti4congress.com/issues/",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Conforti calls for stronger penalties for fentanyl crimes and more task forces to combat drug trafficking.",
+          "quote": "We need stronger penalties for fentanyl crimes and more task forces to go after the source",
+          "sourceUrl": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/niki-conforti-illinois-primary-6th-congressional-district",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Conforti supports expanding ICE and deporting immigrants who commit violent crimes.",
+          "quote": "I support expanding ICE and deporting violent criminals",
+          "sourceUrl": "https://conforti4congress.com/issues/",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Conforti says she is pro-Second Amendment and wants to protect the right to bear arms.",
+          "quote": "believe we must protect our right to bear arms",
+          "sourceUrl": "https://conforti4congress.com/issues/",
+          "agreement": "3/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Conforti identifies as pro-life with exceptions for rape, incest, and the life of the mother.",
+          "quote": "I am proudly Pro-Life with exception (Rape, Incest and the Life of the Mother)",
+          "sourceUrl": "https://conforti4congress.com/issues/",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Conforti wants legislation that increases billing transparency and drives more competition in the health care marketplace.",
+          "quote": "increases transparency in medical billing and drives up competition in the health care marketplace",
+          "sourceUrl": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/niki-conforti-illinois-primary-6th-congressional-district",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Conforti wants to cut energy-industry regulations and limit renewable energy to make power more affordable.",
+          "quote": "cuts regulations in the energy industry and limits the renewable energy component",
+          "sourceUrl": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/niki-conforti-illinois-primary-6th-congressional-district",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Conforti wants to require three forms of ID to register to vote and proof of ID at the polls.",
+          "quote": "I will push to re-implement the need for 3 forms of ID to register to vote, and proof of ID at the polling booth.",
+          "sourceUrl": "https://conforti4congress.com/issues/",
+          "agreement": "9/10"
+        }
+      }
+    }
+  ],
+  "sources": "shawlocal.com · castenforcongress.com · chicago.suntimes.com · casten.house.gov · conforti4congress.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

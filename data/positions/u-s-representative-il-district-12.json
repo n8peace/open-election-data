@@ -1,0 +1,136 @@
+{
+  "office": "U.S. Representative",
+  "district": "IL District 12",
+  "division": "il/cd-12",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Mike Bost",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Bost voted for Republican tax-cut legislation and touts the tax reductions it delivered to his district.",
+          "quote": "Mike voted for Tax Reform legislation, which gives an average tax cut of over $2,200 to Southern Illinois families.",
+          "sourceUrl": "https://bostforcongress.com/?page_id=111",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "Bost backs President Trump's protectionist trade deals as a way to shield U.S. industry and workers.",
+          "quote": "Mike supports President Trump's historic trade deals to protect our economy and American workers.",
+          "sourceUrl": "https://bostforcongress.com/?page_id=111",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Bost says he opposes privatizing Social Security and Medicare, raising the retirement age, or increasing the payroll tax.",
+          "quote": "Mike opposes efforts to privatize, raise the retirement age or increase the payroll tax.",
+          "sourceUrl": "https://bostforcongress.com/?page_id=111",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Bost supports building a wall on the southern border and enforcing the Remain in Mexico policy.",
+          "quote": "Mike supports building a wall along our southern border and supports enforcing President Trump's Remain in Mexico Policy.",
+          "sourceUrl": "https://bostforcongress.com/?page_id=111",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Bost repeatedly voted to repeal the Affordable Care Act, arguing it raised costs and reduced choices.",
+          "quote": "This law has led to higher costs, fewer choices, and less access to the quality care that people need.",
+          "sourceUrl": "https://bost.house.gov/press-releases?ID=8FC79712-2335-44B4-A494-3B12D202FDF8",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Julie Fortier",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Fortier says strong unions built the middle class and raise wages when workers have a seat at the table.",
+          "quote": "Strong unions built America's middle class. When workers have a seat at the table, wages rise, workplaces become safer, and local economies grow stronger.",
+          "sourceUrl": "https://www.juliefortier.org/issues",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Fortier opposes tariffs, arguing they disrupt markets and raise costs for farm inputs like fertilizer.",
+          "quote": "fighting against policies like tariffs and forever wars that disrupt the market and spike costs for necessary items like fertilizer.",
+          "sourceUrl": "https://www.juliefortier.org/issues",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Fortier supports investing in public schools so every child gets a quality education.",
+          "quote": "I support investing in public schools because every child deserves a quality education that prepares them to think critically, succeed in life, and feel welcome in their school.",
+          "sourceUrl": "https://www.juliefortier.org/issues",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "While affirming Second Amendment rights, Fortier says she would back measures to keep firearms from dangerous individuals.",
+          "quote": "I will back common-sense measures that keep firearms out of the hands of dangerous individuals without infringing on the rights of law-abiding citizens.",
+          "sourceUrl": "https://www.juliefortier.org/issues",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Fortier supports codifying Roe v. Wade into federal law to protect access to legal abortion.",
+          "quote": "I support codifying Roe v. Wade into federal law to restore medical privacy and ensure access to safe, legal reproductive services nationwide.",
+          "sourceUrl": "https://www.juliefortier.org/issues",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Fortier says health care should be affordable for everyone and the country should move toward a universal care option.",
+          "quote": "Healthcare should be affordable, accessible, and dependable for everyone, and our country must move towards a universal care option.",
+          "sourceUrl": "https://www.juliefortier.org/issues",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Fortier says climate change is real and calls for action, including opposing data centers in Southern Illinois.",
+          "quote": "the science is clear: climate change is real, and we must act",
+          "sourceUrl": "https://www.juliefortier.org/issues",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "bostforcongress.com · bost.house.gov · juliefortier.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
