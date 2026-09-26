@@ -1,0 +1,136 @@
+{
+  "office": "U.S. Representative",
+  "district": "IL District 5",
+  "division": "il/cd-5",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Mike Quigley",
+      "party": "Democratic",
+      "stances": {
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Quigley objected on the House floor to a bill that diverted public school funds toward private companies.",
+          "quote": "It directs $1 out of every $10 away from public schools and directs it to private companies.",
+          "sourceUrl": "https://quigley.house.gov/media-center/speeches/quigley-stands-up-for-teachers-students",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Quigley backs comprehensive reform including a pathway to citizenship for DREAMers.",
+          "quote": "I will continue to work towards pragmatic solutions that reform our broken immigration system, keep our borders secure, and provide a pathway to citizenship for the millions of DREAMers who have only known the U.S. as their homes.",
+          "sourceUrl": "https://quigley.house.gov/issues/immigration",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Quigley pledges to defend reproductive rights and abortion access.",
+          "quote": "As your representative in Washington, I will always stand up for reproductive rights.",
+          "sourceUrl": "https://quigley.house.gov/issues/reproductive-rights",
+          "agreement": "3/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Quigley cosponsored and voted for the Equality Act, which bars discrimination based on gender identity.",
+          "quote": "I cosponsored and voted to pass the Equality Act",
+          "sourceUrl": "https://quigley.house.gov/issues/lgbtqi-rights",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Quigley voted for the Affordable Care Act and says he continues fighting for affordable care for all.",
+          "quote": "I was proud that one of my earliest votes in Congress was for the Affordable Care Act (ACA) because it ensures that millions of Americans have access to affordable, quality health care.",
+          "sourceUrl": "https://quigley.house.gov/issues/health-care",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Quigley voted for the Inflation Reduction Act, calling it the largest investment in fighting climate change.",
+          "quote": "I was thrilled today to vote for our country's most significant investment in fighting the climate crisis.",
+          "sourceUrl": "https://quigley.house.gov/media-center/press-releases/quigley-votes-fight-climate-change-reduce-inflation",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Quigley voted for the John Lewis Voting Rights Advancement Act to counter new restrictions on voting.",
+          "quote": "I proudly voted for the John Lewis Voting Rights Advancement Act because it is the only thing that can safeguard the legacy of those heroes and protect our democracy from this unprecedented assault",
+          "sourceUrl": "https://quigley.house.gov/media-center/press-releases/quigley-statement-passage-john-lewis-voting-rights-advancement-act",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Tommy Hanson",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Hanson's platform calls for eliminating individual income taxes, no tax on food or gasoline, and lower real estate taxes.",
+          "quote": "Replace individual income taxes with corporations making up the difference for federal taxes.",
+          "sourceUrl": "https://votetommyhanson.com/",
+          "agreement": "3/5"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "Hanson supports using tariffs as a tool to generate government revenue.",
+          "quote": "Plus implementing sensible tariffs and a Fair Tax, for generating revenue for our government.",
+          "sourceUrl": "https://votetommyhanson.com/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Hanson says he will fully back police and first responders and keep violent criminals jailed.",
+          "quote": "I will fully support law enforcement and first responders so that they feel fully appreciated and stay on the job.",
+          "sourceUrl": "https://www.ballotready.org/people/tommy-hanson",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Hanson calls for securing the border to defend the country against foreign and domestic enemies.",
+          "quote": "We must secure our border to preserve, protect and defend our country against all enemies, foreign and domestic.",
+          "sourceUrl": "https://www.ballotready.org/people/tommy-hanson",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Hanson wants to lower insurance premiums by increasing competition in the market.",
+          "quote": "Stop insurance costs, lower premiums and create more competition.",
+          "sourceUrl": "https://votetommyhanson.com/",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "quigley.house.gov · votetommyhanson.com · ballotready.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

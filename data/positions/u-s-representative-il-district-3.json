@@ -1,0 +1,184 @@
+{
+  "office": "U.S. Representative",
+  "district": "IL District 3",
+  "division": "il/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Delia C. Ramirez",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Ramirez argues the tax code favors the wealthy over working families and backs progressive taxation to fund social programs.",
+          "quote": "Ramirez believes our tax code shouldn't do more for billionaires and corporations than it does for working families.",
+          "sourceUrl": "https://ramirez.house.gov/issues/jobs-and-economy",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Ramirez says jobs must pay a living wage and protect the right to organize, and co-sponsored raising the federal minimum wage and the PRO Act.",
+          "quote": "must pay a living wage, provide strong benefits, and protect a worker's right to organize for fair pay and good working conditions",
+          "sourceUrl": "https://www.deliaforcongress.com/issues/worker-rights",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She opposes cuts or work requirements for Social Security, Medicare, Medicaid and other safety-net programs.",
+          "quote": "continues to oppose efforts to make cuts or create work requirements for SNAP, TANF, Medicare, Medicaid, and other social programs",
+          "sourceUrl": "https://www.deliaforcongress.com/issues/a-strong-safety-net",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She describes herself as a champion for building more housing, especially affordable and family housing.",
+          "quote": "She is a champion for building more housing - especially affordable housing and housing for families",
+          "sourceUrl": "https://www.deliaforcongress.com/issues/housing",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Ramirez advocates for well-resourced neighborhood public schools and more federal funding for them.",
+          "quote": "additional federal resources so that communities can stop relying on property taxes and every neighborhood has strong schools",
+          "sourceUrl": "https://www.deliaforcongress.com/issues/blog-post-title-four-a52ge-se8jy",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "She emphasizes addressing root causes of crime through restorative justice, violence prevention and community programs.",
+          "quote": "expanding restorative justice programs in our schools and community centers",
+          "sourceUrl": "https://www.deliaforcongress.com/issues/public-safety",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She backs comprehensive reform creating legal pathways to citizenship and keeping families together.",
+          "quote": "create legal pathways to citizenship, keep families together, and help our communities and local economies thrive",
+          "sourceUrl": "https://ramirez.house.gov/issues/immigration",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports universal background checks, an assault-weapons ban and curbing illegal gun trafficking.",
+          "quote": "universal background checks, banning assault-style weapons, and reducing the flow of illegal guns",
+          "sourceUrl": "https://www.deliaforcongress.com/issues/public-safety",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Ramirez calls herself an uncompromising supporter of reproductive rights and abortion access.",
+          "quote": "people everywhere must have autonomy over their own bodies and pathways to economic security",
+          "sourceUrl": "https://www.deliaforcongress.com/issues/reproductive-rights",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "She backs nondiscrimination protections and the Equality Act covering gender identity.",
+          "quote": "live free from discrimination and harassment because of their sexual orientation or gender identity",
+          "sourceUrl": "https://www.deliaforcongress.com/issues/housing-mtwp5-sd54p-2h95p-abcc2",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports Medicare for All and a single-payer system guaranteeing universal coverage.",
+          "quote": "getting health care costs down, including supporting Medicare for All",
+          "sourceUrl": "https://www.deliaforcongress.com/issues/healthcare",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She calls for swift climate action and co-sponsored the Green New Deal.",
+          "quote": "we are at a crisis point to act on climate change and that we need swift and decisive action to prevent a climate catastrophe",
+          "sourceUrl": "https://www.deliaforcongress.com/issues/climate-change-and-clean-energy",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She supports expanding voting access, same-day registration and vote-by-mail.",
+          "quote": "a strong democracy requires an engaged and informed electorate and policies that protect and expand voting rights",
+          "sourceUrl": "https://www.deliaforcongress.com/issues/voting-rights",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Angel Oakley",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "On her campaign website she describes herself as a fiscal conservative who favors a free-market economy that keeps taxes low.",
+          "quote": "Angel is a fiscal conservative who believes true prosperity comes from a free-market economy that empowers small businesses and keeps taxes low.",
+          "sourceUrl": "https://www.libertyangel.us/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Her platform pledges to uphold Social Security and Medicare obligations while also developing what she calls sustainable reforms for both.",
+          "quote": "Uphold Social Security and Medicare obligations, while developing sustainable reforms for both.",
+          "sourceUrl": "https://www.libertyangel.us/policy",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "Her campaign policy platform calls for strengthening border security to stop cartels, trafficking, and illegal entry.",
+          "quote": "Strengthening border security to stop cartels, trafficking, and illegal entry",
+          "sourceUrl": "https://www.libertyangel.us/policy",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Her health care platform calls for expanding choice and competition among doctors, hospitals, insurers, and pharmacies.",
+          "quote": "Expand choice and competition among doctors, hospitals, insurers, pharmacies",
+          "sourceUrl": "https://www.libertyangel.us/policy",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "Oakley's platform supports a national voter ID standard with free, accessible verification.",
+          "quote": "A clear national standard for voter ID with free, accessible verification",
+          "sourceUrl": "https://www.libertyangel.us/policy",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "ramirez.house.gov · deliaforcongress.com · libertyangel.us",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

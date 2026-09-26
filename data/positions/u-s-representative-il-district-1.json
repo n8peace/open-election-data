@@ -1,0 +1,95 @@
+{
+  "office": "U.S. Representative",
+  "district": "IL District 1",
+  "division": "il/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jonathan L. Jackson",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Jackson denounced an executive order rolling back federal workers' collective bargaining rights and has backed raising the minimum wage.",
+          "quote": "Stripping hardworking Americans of their right to organize is a disgrace and a betrayal of our nation's workforce.",
+          "sourceUrl": "https://jonathanjackson.house.gov/media/press-releases/congressman-jonathan-l-jackson-opposes-trump-executive-order-stripping-federal",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "On his crime page he emphasizes youth programs, mental health resources, and economic development to prevent crime.",
+          "quote": "He has also emphasized investments in youth programs, mental health resources, and economic development to prevent crime",
+          "sourceUrl": "https://jonathanjackson.house.gov/issues/crime",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Jackson condemned mass deportation and called for immigration reform that includes a pathway to citizenship.",
+          "quote": "a mass deportation policy that indiscriminately targets millions of hardworking, law-abiding immigrants is not only inhumane but also detrimental to the fabric of our society.",
+          "sourceUrl": "https://jonathanjackson.house.gov/media/press-releases/congressman-jonathan-l-jackson-condemns-trump-administrations-mass-deportation",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Jackson reintroduced gun-violence-reduction legislation, calling for commonsense firearm safeguards.",
+          "quote": "I am honored to reintroduce this legislation with Senator Duckworth because it reflects our commitment to choose courage over complacency and finally enact the commonsense safeguards our communities have demanded for far too long.",
+          "sourceUrl": "https://jonathanjackson.house.gov/media/press-releases/representative-jackson-and-senator-duckworth-reintroduce-legislation-help",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Reproductive Freedom for All scores him 100 for voting against measures that restrict reproductive freedom.",
+          "quote": "A vote for reproductive freedom was against passage.",
+          "sourceUrl": "https://reproductivefreedomforall.org/lawmaker/jonathan-jackson/",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Jackson opposed capping and block-granting Medicaid, warning of the harm to over a million Illinoisans who rely on the program.",
+          "quote": "Statewide, over 1.1 million Illinoisans who rely on Medicaid face an uncertain future as federal funding is capped and block-granted.",
+          "sourceUrl": "https://jonathanjackson.house.gov/media/press-releases/congressman-jonathan-l-jackson-big-beautiful-bill-big-brutal-lie",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Jackson introduced a constitutional amendment on the right to vote and pledged to defend voting access against restrictions.",
+          "quote": "While voting rights are under attack by the President and his hand-picked Supreme Court, I will continue to fight to defend our most sacred right.",
+          "sourceUrl": "https://jonathanjackson.house.gov/media/press-releases/representatives-jackson-pocan-and-khanna-introduce-constitutional-amendment",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Christian Maxwell",
+      "party": "Republican",
+      "stances": {}
+    }
+  ],
+  "sources": "jonathanjackson.house.gov · reproductivefreedomforall.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
