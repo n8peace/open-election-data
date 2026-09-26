@@ -1,0 +1,232 @@
+{
+  "office": "U.S. Representative",
+  "district": "NC District 1",
+  "division": "nc/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Don Davis",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He introduced legislation removing certain data-center tax breaks and said health and food assistance should not be cut to finance corporate tax giveaways.",
+          "quote": "We absolutely should not cut health care and food assistance for children and seniors to pay for tax giveaways to corporations.",
+          "sourceUrl": "https://dondavis.house.gov/media/press-releases/reps-davis-mcdonald-rivet-lead-new-push-stop-tax-giveaways-data-centers",
+          "agreement": "3/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Davis cosponsored the 2025 PRO Act, legislation intended to strengthen workers' organizing and collective-bargaining rights.",
+          "quote": "Janice D. Schakowsky (IL); Donald G. Davis (NC); Shri Thanedar (MI); John W. Mannion (NY)",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr20ih",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Davis called for predictable access to foreign markets and said farmers prefer competing globally to receiving assistance for trade disruptions.",
+          "quote": "Farmers have made clear to me they would rather compete in the global marketplace than depend on emergency assistance resulting from trade disruptions.",
+          "sourceUrl": "https://dondavis.house.gov/media/press-releases/congressman-don-davis-urges-action-protect-eastern-north-carolina-soybean",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Davis introduced bipartisan legislation to keep Social Security and Medicare benefits out of debt-ceiling negotiations.",
+          "quote": "We must depoliticize debt ceiling negotiations by taking social safety net programs, namely Social Security and Medicare, off the table.",
+          "sourceUrl": "https://dondavis.house.gov/media/press-releases/congressman-don-davis-announces-bill-protect-social-security-medicare-military",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Davis voted for a housing package that expands supply and endorsed removing regulatory barriers that slow development.",
+          "quote": "Solving this challenge means focusing on practical solutions such as cutting unnecessary red tape, removing barriers that slow down development, encouraging innovative partnerships, and expanding the supply of homes families can afford.",
+          "sourceUrl": "https://dondavis.house.gov/media/press-releases/congressman-davis-votes-housing-package-benefiting-rural-communities-and",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Davis sought restoration of promised federal funding for North Carolina public-school districts and called federal early-childhood education funding important.",
+          "quote": "Federal funds for early childhood education remain important.",
+          "sourceUrl": "https://dondavis.house.gov/media/press-releases/congressman-don-davis-remarks-press-conference-first-100-days-119th-congress",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Davis voted for three police-support bills and said Congress should ensure officers have necessary tools and resources.",
+          "quote": "Congress must ensure that these officers have the necessary tools and resources to effectively serve and protect the communities they are sworn to uphold.",
+          "sourceUrl": "https://dondavis.house.gov/media/press-releases/congressman-don-davis-votes-support-law-enforcement-during-national-police",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Davis twice supported the Laken Riley Act, which requires detention of certain unauthorized immigrants accused of specified crimes.",
+          "quote": "Congressman Don Davis voted in favor of H.R. 29, the Laken Riley Act, a vital piece of legislation that addresses critical failures in our immigration enforcement system to prevent future tragedies. Congressman Davis previously supported this bill in the 118th Congress, reaffirming his commitment to protecting American families from violent criminals unlawfully present in the United States.",
+          "sourceUrl": "https://dondavis.house.gov/media/press-releases/congressman-don-davis-votes-again-laken-riley-act",
+          "agreement": "3/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "Davis said Congress should codify the abortion protections established under Roe v. Wade.",
+          "quote": "Yes. I believe Congress should codify Roe. We have literally seen since the Supreme Court has repealed or reversed Roe, the landscape of reproductive health across the country has changed.",
+          "sourceUrl": "https://www.witn.com/2024/10/16/decision-2024-where-district-1-congressional-candidates-stand-abortion/",
+          "agreement": "6/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "Davis welcomed a Supreme Court ruling permitting states to regulate school-sports participation based on biological sex.",
+          "quote": "The U.S. Supreme Court delivered a significant ruling affirming that states possess the legal authority to maintain separate sports teams based on biological sex.",
+          "sourceUrl": "https://dondavis.house.gov/media/press-releases?page=1",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Davis cosponsored Medicaid-expansion legislation and relaunched the State Medicaid Expansion Caucus.",
+          "quote": "relaunching the State Medicaid Expansion Caucus (SMEC) to advance solutions to expand Medicaid for those trapped in their state's coverage gap.",
+          "sourceUrl": "https://dondavis.house.gov/issues/health-care",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Davis backed temporarily suspending the federal diesel tax to reduce fuel costs for farmers, truckers, and small businesses.",
+          "quote": "The Diesel Prices Relief Act would suspend the federal diesel tax through the end of the year, putting money back into the pockets of the hardworking people who grow our food, move our goods, and keep America running.",
+          "sourceUrl": "https://dondavis.house.gov/media/press-releases/congressman-don-davis-leads-fight-suspend-diesel-tax-and-lower-costs-eastern",
+          "agreement": "3/10"
+        },
+        "voting": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Davis initially supported the SAVE Act's citizenship-verification rules but later opposed the bill because of implementation, cost, and election-administration concerns.",
+          "quote": "Previously, I voted in support of the SAVE ACT. After speaking with North Carolina State Board of Election officials, I voted against it based on the concern that the bill cannot be implemented as drafted.",
+          "sourceUrl": "https://dondavis.house.gov/media/press-releases/congressman-don-davis-remarks-press-conference-first-100-days-119th-congress",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Laurie Buckhout",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Buckhout says she will cut taxes to help working families.",
+          "quote": "Laurie will fight to cut taxes so hardworking families can get ahead.",
+          "sourceUrl": "https://www.lauriebuckhoutforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "Buckhout defended keeping President Trump's tariffs as a way to level the international playing field.",
+          "quote": "It's time that we level the playing field",
+          "sourceUrl": "https://www.wral.com/news/nccapitol/supreme-court-trump-tariffs-north-carolina-senate-house-feb-2026/",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Buckhout supports vouchers, tax credits, charter schools, private schools and home schools.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools.",
+          "sourceUrl": "https://ivoterguide.com/candidate/77557/race/11100/election/1090",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Buckhout opposes redirecting police funding to community programs and says defunding police increases crime.",
+          "quote": "Defunding police in any way increases crime and negatively impacts the welfare and wellbeing of the poor.",
+          "sourceUrl": "https://ivoterguide.com/candidate/77557/race/11100/election/1090",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Buckhout calls for closing the border, resuming the remain-in-Mexico policy and completing the border wall.",
+          "quote": "Close the border NOW. The annual standard for illegal immigrations should be ZERO. Restart the stay in Mexico program and finish other efforts begun during the Trump administration, such as finishing the wall.",
+          "sourceUrl": "https://ivoterguide.com/candidate/77557/race/11100/election/1090",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Buckhout opposes additional restrictions on law-abiding gun owners.",
+          "quote": "She will stand strong against the extremists who mock our hunting heritage and would punish law-abiding gun owners with additional red tape.",
+          "sourceUrl": "https://www.lauriebuckhoutforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Buckhout says life should be protected from birth to natural death while allowing exceptions for rape, incest or the mother's life.",
+          "quote": "I believe in the sanctity of life. We need to protect life from birth to natural death, but that exceptions can be made for rape, incest or life of the mother.",
+          "sourceUrl": "https://ivoterguide.com/candidate/77557/race/11100/election/1090",
+          "agreement": "3/3"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Buckhout says biological males should not participate in women's sports or use women's spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/77557/race/11100/election/1090",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Buckhout supports retaining Medicare and Medicaid but opposes additional taxpayer-funded health coverage.",
+          "quote": "C. Medicaid and Medicare are already funded. Illegal aliens and non-citizen migrants should not be allowed to access our taxpayer paid healthcare.",
+          "sourceUrl": "https://ivoterguide.com/candidate/77557/race/11100/election/1090",
+          "agreement": "2/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Buckhout rejects urgent climate action and says climate-related government controls should be resisted.",
+          "quote": "Climate has become politicized by leftists to gain more political power and bureaucratic control over their citizenry, and this must be resisted.",
+          "sourceUrl": "https://ivoterguide.com/candidate/77557/race/11100/election/1090",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Buckhout supports requiring voters to present photo identification.",
+          "quote": "Photo ID should be required for voting as it is for hundreds of other aspects of our private and public society.",
+          "sourceUrl": "https://ivoterguide.com/candidate/77557/race/11100/election/1090",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "dondavis.house.gov · govinfo.gov · witn.com · lauriebuckhoutforcongress.com · wral.com · ivoterguide.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
