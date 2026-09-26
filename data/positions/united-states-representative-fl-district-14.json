@@ -1,0 +1,278 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 14",
+  "division": "fl/cd-14",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Mike Beltran",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Beltran said taxes should not increase under any circumstances.",
+          "quote": "Under no circumstance should there be \"more\" taxes.",
+          "sourceUrl": "https://ivoterguide.com/candidate/42133/race/28523/election/1431",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Beltran strongly agreed that the government should cut spending to reduce the national debt.",
+          "quote": "The government should cut spending in order to reduce the national debt.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/42133/race/28523/election/1431",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Beltran says he championed school choice in Florida and would continue that effort in Congress.",
+          "quote": "Mike championed school choice in Tallahassee, giving families the freedom to choose the school and education that works for them.",
+          "sourceUrl": "https://beltranforcongress.com/platform/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Beltran pledged to support law-enforcement resources, recruitment and officer protections.",
+          "quote": "I will continue to stand with law enforcement and support the resources, recruitment and protections officers need to do their jobs safely and effectively.",
+          "sourceUrl": "https://beltranforcongress.com/florida-police-benevolent-association-endorses-mike-beltran-for-congress/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Beltran supports completing the border wall, deporting criminals and fraudsters, and restoring border enforcement.",
+          "quote": "We need to finish the wall, deport the criminals and fraudsters, and restore law and order at our southern border.",
+          "sourceUrl": "https://beltranforcongress.com/platform/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Beltran opposes red-flag laws and magazine bans and describes the Second Amendment as absolute.",
+          "quote": "No red flag laws, no magazine bans, no compromise. The Second Amendment is absolute and Mike will fight to keep it that way in Congress.",
+          "sourceUrl": "https://beltranforcongress.com/platform/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Beltran strongly agreed that human life should receive legal protection from conception to natural death.",
+          "quote": "Human life deserves legal protection from conception until natural death.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/42133/race/28523/election/1431",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Beltran strongly agreed that eligibility for women's sports and spaces should be based on biological sex.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/42133/race/28523/election/1431",
+          "agreement": "3/5"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "strong",
+          "text": "In a 2020 candidate questionnaire, Beltran strongly disagreed with legalizing recreational marijuana.",
+          "quote": "I support the legalization of recreational marijuana.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/42133/race/4523/election/805",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Beltran said he promoted competition and cost-saving innovations such as telemedicine to expand affordable health-care coverage.",
+          "quote": "The legislature has passed legislation to reduce waste, fraud, and abuse, promote competition, and allow innovative and cost saving innovations such as telemedicine. I have promoted these efforts.",
+          "sourceUrl": "https://ivoterguide.com/candidate/42133/race/4523/election/805",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Beltran favors inexpensive fossil fuels alongside unsubsidized renewable-energy development and greater efficiency.",
+          "quote": "I do not believe we should rely on one energy source. Fossil fuels are traditionally the most reliable and inexpensive, but we should seek efficiency and avoid reliance on foreign supplies. Renewable energy should be developed without subsidies.",
+          "sourceUrl": "https://ivoterguide.com/candidate/42133/race/28523/election/1431",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Beltran supports mandatory photo identification and removing noncitizens from voter rolls.",
+          "quote": "We need to pass the SAVE America Act to ensure only American citizens vote in our elections, mandate photo ID, and purge noncitizens from voter rolls.",
+          "sourceUrl": "https://beltranforcongress.com/platform/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Kathy Castor",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Castor said millionaires and corporations should pay more rather than cut services for veterans, students and seniors.",
+          "quote": "Millionaires and corporations should pay their fair share to reduce the deficit rather than target veterans, students and seniors for harsh cuts",
+          "sourceUrl": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=404177",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Castor helped pass legislation raising the federal minimum wage to $15 and backed stronger collective-bargaining rights.",
+          "quote": "Today, U.S. Rep. Kathy Castor (FL14) led her colleagues in passing the Raise the Wage Act, landmark legislation to increase the federal minimum wage to $15 an hour by 2025.",
+          "sourceUrl": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=403039",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Castor opposed broad tariffs because she said they raise consumer prices and disrupt Tampa Bay businesses.",
+          "quote": "Instead of imposing costly tariffs, Trump should be working with partners and allies in a bipartisan way to lower costs.",
+          "sourceUrl": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=404873",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Castor rejected cutting or privatizing Social Security to reduce the budget deficit.",
+          "quote": "Recent calls to privatize Social Security or use the trust fund to balance the budget deficit will meet with stiff resistance from me and our growing coalition",
+          "sourceUrl": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=203287",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Castor voted for housing investments that expanded assistance and financed thousands of new rental and homebuyer units.",
+          "quote": "Communities like Tampa have felt the pinch of the hot housing market, so I made housing affordability a priority through more robust support for first time homebuyers and increased access to affordable housing, while investing in more housing options for our service members and veterans.",
+          "sourceUrl": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=403998",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Castor opposed cutting federal support for district public schools and called for continued funding of their teachers and student services.",
+          "quote": "I will not stand for cutting public education dollars that will help students, create good-paying jobs, and support safe and healthy schools",
+          "sourceUrl": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=404857",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "Castor requested $656,000 for a youth diversion and recidivism-prevention program providing early-intervention services.",
+          "quote": "$656,000 At-risk Youth Diversion and Recidivism Prevention Program Pinellas County Federal funding will support the development, implementation and evaluation of an at-risk youth diversion and recidivism prevention program designed to provide both low risk, early intervention services",
+          "sourceUrl": "https://castor.house.gov/constituentservices/cjsfundingrequests.htm",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Castor advocated legal pathways to work and citizenship while also supporting improved border inspection and anti-smuggling measures.",
+          "quote": "Democrats have offered solutions for new legal pathways to work and citizenship, secure ports of entry, drug detection technology, and advanced inspection systems to ensure CBP and local communities have the resources they need.",
+          "sourceUrl": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=404150",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Castor supports restoring Roe-era abortion protections and passing the Women's Health Protection Act.",
+          "quote": "You can count on me to continue working tirelessly to ensure that women have the right to make their own personal private decisions about their bodies, families, and futures.",
+          "sourceUrl": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=404607",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Castor cosponsored Medicaid-expansion legislation and called expansion beneficial for Floridians and the state economy.",
+          "quote": "Medicaid expansion is the right thing to do for the health of my neighbors, for our state’s economy - and it’s popular among Floridians.",
+          "sourceUrl": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=398878",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Castor led opposition to repealing federal power-plant greenhouse-gas standards and urged robust pollution limits.",
+          "quote": "We strongly oppose this proposed repeal and urge EPA to adhere to their Congressionally mandated responsibility to issue robust standards that limit pollution from fossil fuel-fired power plants, thereby cutting pollution and protecting public health.",
+          "sourceUrl": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=405009",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Castor helped pass legislation providing automatic and same-day registration while expanding early and absentee voting.",
+          "quote": "It improves access to the ballot box by combatting institutional barriers to voting, creates nationwide automatic voter registration, expands early voting and absentee voting",
+          "sourceUrl": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=403535",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Brian Lambert",
+      "party": "LPF",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Lambert supports reducing taxes so families and small businesses retain more of their earnings.",
+          "quote": "I support a simpler, fairer tax system that allows families and small businesses to keep more of what they earn.",
+          "sourceUrl": "https://www.brianlambertforcongress.com/issues/economy-small-business",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Lambert supports closing and policing the border while also offering qualified immigrants a pathway forward and expanding guest-worker programs.",
+          "quote": "Reputable members of society who have attempted citizenship should be given a viable pathway forward. Those who have committed crimes against others should be fast-tracked out of here. Additionally, I support modernizing legal immigration with a merit-based system for skilled workers, expanding guest worker programs, and investing in border technology to prevent future crises.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020299",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Lambert supports nationwide permitless carry and opposes firearm and magazine bans.",
+          "quote": "I support constitutional carry nationwide for law-abiding adults. No permit. No government permission slip. No treating the Bill of Rights like a list of privileges.",
+          "sourceUrl": "https://www.brianlambertforcongress.com/issues/second-amendment",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Lambert favors free-market competition, price transparency, and fewer federal health-care mandates.",
+          "quote": "I support expanding patient choice through free-market competition, greater price transparency, and fewer unnecessary federal mandates.",
+          "sourceUrl": "https://www.brianlambertforcongress.com/issues/healthcare",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Lambert opposes emissions regulations and energy mandates that he says raise costs, favoring market competition and domestic energy production instead.",
+          "quote": "Top-down mandates, subsidies, and emissions regulations distort free markets, raise costs for families and small businesses, and hand Washington more control over how people live and work.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020299",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "ivoterguide.com · beltranforcongress.com · castor.house.gov · brianlambertforcongress.com · onyourballot.vote411.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

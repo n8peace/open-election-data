@@ -1,0 +1,238 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 13",
+  "division": "fl/cd-13",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Tony D'Arrigo",
+      "party": "NPA",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "D'Arrigo says he would eliminate federal income tax for households earning under $75,000 annually.",
+          "quote": "I will introduce a bill to eliminate federal income tax for every household earning under $75,000 per year.",
+          "sourceUrl": "https://tonydarrigo.com/",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He pledges to protect and increase Social Security, Medicare, and Medicaid benefits and ultimately lower the retirement age.",
+          "quote": "I WILL FIGHT TO INCREASE SOCIAL SECURITY and ENTITLEMENTS. MY ULTIMATE GOAL is to LOWER the RETIREMENT AGE so we have more time to ACTUALLY ENJOY OUR RETIREMENT that we earned!",
+          "sourceUrl": "https://tonydarrigo.com/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He supports fast-track incentives, zoning reform, and public-private partnerships to increase the affordable-housing supply.",
+          "quote": "Champion fast-track incentives, zoning reforms, and public-private partnerships to build more affordable homes and apartments—so every Floridian has a real shot at finding a place to live.",
+          "sourceUrl": "https://tonydarrigo.com/letsgettowork/",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He supports strong public schools, funded special education, school meals, and directing federal education money to classrooms and students.",
+          "quote": "For K-12, federal policy should support—not micromanage—local schools. I support strong public schools, properly funded special education, free school breakfast and lunch, career and technical education, and ensuring that federal education dollars actually reach classrooms and students.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020297",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports both stronger border and immigration-system resources and expanded legal pathways, including earned status or citizenship for some longtime undocumented residents.",
+          "quote": "I support comprehensive immigration reform that is secure, fair, enforceable, and realistic. We need to secure our borders and ports of entry, give Border Patrol and immigration courts the resources needed to do their jobs, and modernize an asylum system that is overwhelmed and far too slow. At the same time, I support expanding legal pathways for people who want to come here, work, contribute, and follow the law.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020297",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports universal health coverage and a major expansion of Healthcare.gov while protecting Medicare and Medicaid.",
+          "quote": "Every American deserves healthcare they can rely on—and actually afford. I support a major expansion of Healthcare.gov, partnering with only insurers who honor our commitment.",
+          "sourceUrl": "https://tonydarrigo.com/",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He calls for bold climate action and investment in renewable energy while also emphasizing affordability and lower energy bills.",
+          "quote": "Record-breaking heat, dangerous floods, wildfires, and extreme storms are no longer distant threats—they’re reality for American families today. That’s why we must take bold, decisive action, at home and with our international partners.",
+          "sourceUrl": "https://tonydarrigo.com/letsgettowork/",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Leela Gray",
+      "party": "DEM",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Gray called for ending illegal tariffs and reducing regulatory burdens on local businesses.",
+          "quote": "We must end illegal tariffs, and cut red tape and regulatory burdens that drain capital from our entrepreneurs so they can grow and stay in Florida’s 13th District.",
+          "sourceUrl": "https://www.leelagray.com/issues/issue-2",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Gray pledged to protect and strengthen Social Security and Medicare.",
+          "quote": "We must protect and strengthen Social Security and Medicare to ensure every senior can age with dignity.",
+          "sourceUrl": "https://www.leelagray.com/issues/fighting-for-our-most-vulnerable",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Gray said she would restore federal funding for K-12 public education and support better educator pay and vocational programs.",
+          "quote": "In Congress, I’ll fight to restore funding for K-12 public education, work to pay educators a fair, livable salary, and invest in apprenticeship and trade programs for high school students and graduates, so they can graduate with the skills to compete in today’s economy.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020297",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Gray said the country should respond to climate change by expanding clean-energy businesses and resilient infrastructure.",
+          "quote": "We must combat this crisis by growing our clean-energy economy and rewarding American businesses that innovate in clean energy technology and resilient infrastructure.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020297",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Gray proposed accepting a broad range of documents and waiving record fees so citizenship-verification requirements do not prevent eligible voters from registering.",
+          "quote": "Passports are prohibitively expensive, so in Congress, I would push for a federal framework that allows for a wide range of secondary documents to be able to vote, including military IDs, marriage certificates, birth certificates, and divorce documentation.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020297",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Anna Paulina Luna",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Luna's campaign says she voted to eliminate federal taxes on tips, Social Security, and overtime.",
+          "quote": "Voted to SECURE NO TAX on tips, social security, and overtime.",
+          "sourceUrl": "https://www.voteannapaulina.com/copy-of-meet-anna",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She cosponsored legislation guaranteeing full Social Security benefits and legislation expanding Medicare coverage for multi-cancer screening.",
+          "quote": "Cosponsored — Social Security Guarantee Act of 2025 Cosponsored — Nancy Gardner Sewell Medicare Multi-Cancer Early Detection Screening Coverage Act",
+          "sourceUrl": "https://aligned.vote/politicians/anna-paulina-luna",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Luna's official House issue page says she will work to expand school choice and parental control.",
+          "quote": "In Congress, Anna will work to advance efforts to expand school choice, ensure parents rights, protect women’s sports, and increase civic literacy.",
+          "sourceUrl": "https://luna.house.gov/education",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "She introduced a resolution allowing continued federal control of Washington, D.C.'s police department to enforce the law and restore order.",
+          "quote": "This is about restoring safety, enforcing the law, and cleaning up the streets of our capital city.",
+          "sourceUrl": "https://luna.house.gov/posts/luna-introduces-resolution-to-empower-president-trump-to-maintain-federal-control-of-d-c-police",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Luna supports completing the border wall, restoring Remain in Mexico, cracking down on unauthorized immigrants, and opposing amnesty.",
+          "quote": "Anna will fight to finish the border wall, restore President Trump’s Remain in Mexico policy, and crack down on criminal illegals in America.",
+          "sourceUrl": "https://luna.house.gov/immigration",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Luna co-sponsored legislation ending federal collection of records from discontinued firearms businesses and requiring destruction of existing records.",
+          "quote": "To amend title 18, United States Code, to discontinue the collection by the Federal Government of firearm transaction records of discontinued firearms businesses, to require the destruction of such already collected records, and for other purposes.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr563ih/related",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Luna described protecting life in the womb as a steadfast commitment and highlighted her anti-abortion scorecard rating.",
+          "quote": "Whether in the womb or on the battlefield, protecting life remains my steadfast commitment.",
+          "sourceUrl": "https://d12t4t5x3vyizu.cloudfront.net/luna.house.gov/uploads/2026/01/tttttttt.html",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Luna's official House issue page says she will protect women's sports and oppose gender-identity policies in schools.",
+          "quote": "Rep. Luna opposes critical race theory being taught in schools and will stand against any attempts by Democrats in Congress who push radical left-wing gender theory in education, a trend that is destroying our children and permanently harming their bodies.",
+          "sourceUrl": "https://luna.house.gov/education",
+          "agreement": "10/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "In a candidate questionnaire, Luna disagreed with legalizing recreational marijuana.",
+          "quote": "I support the legalization of recreational marijuana. Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/52203/race/1304/election/805",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Luna proposed free-market, patient-centered health-care reforms focused on competition and transparency.",
+          "quote": "Increase access to quality, affordable healthcare by enacting free-market, patient-centered reforms that focus on increasing competition and transparency in the healthcare market.",
+          "sourceUrl": "https://ivoterguide.com/candidate/52203/race/1304/election/805",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Luna supports expanding domestic oil and gas production, restoring leases, reinstating the Keystone XL pipeline, and opposing Green New Deal regulations.",
+          "quote": "Anna believes the American people have the right to use American oil from American soil. She will continue to lead the charge in Congress for American energy independence by restoring oil and gas leases, reinstating the Keystone XL pipeline, and fighting the Left’s radical Green New Deal regulations.",
+          "sourceUrl": "https://luna.house.gov/energy-independence",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Luna supports requiring proof of citizenship for federal voter registration and identification at the polls.",
+          "quote": "It requires proof of U.S. citizenship to register to vote in federal elections and requires voter ID at the polls.",
+          "sourceUrl": "https://d12t4t5x3vyizu.cloudfront.net/luna.house.gov/uploads/2026/02/Copy-of-SA922026-15725.html",
+          "agreement": "9/10"
+        }
+      }
+    }
+  ],
+  "sources": "tonydarrigo.com · onyourballot.vote411.org · leelagray.com · voteannapaulina.com · aligned.vote · luna.house.gov · govinfo.gov · d12t4t5x3vyizu.cloudfront.net · ivoterguide.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

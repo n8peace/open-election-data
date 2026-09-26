@@ -1,0 +1,214 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 12",
+  "division": "fl/cd-12",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Gus Michael Bilirakis",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "His campaign promotes a tax deduction of up to $10,000 for homeowners’ insurance premiums.",
+          "quote": "Taking on skyrocketing homeowners insurance with the Homeowners Premium Tax Reduction Act, up to a $10,000 above-the-line deduction.",
+          "sourceUrl": "https://bilirakisforcongress.com/",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "His campaign endorses a law-enforcement-first approach and highlights funding for policing and school security.",
+          "quote": "Standing with Pasco Sheriff Chris Nocco's law-enforcement-first approach.",
+          "sourceUrl": "https://bilirakisforcongress.com/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He opposes amnesty or a citizenship path for people who entered unlawfully and supports stronger border enforcement.",
+          "quote": "Congressman Bilirakis does not support amnesty or allowing those who have broken our nation's immigration laws to begin a path to citizenship.",
+          "sourceUrl": "https://bilirakis.house.gov/issues/immigration",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He says transgender women and girls should not participate in women's sports or use spaces designated for biological women.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/2494/race/1303/election/1170",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He favors free-market competition, price transparency and health savings accounts over a government-run health-care system.",
+          "quote": "Bilirakis supports the infusion of free market principles and cost transparency into the health care system, which he believes is the best way to lower costs and increase access to affordable care.",
+          "sourceUrl": "https://bilirakis.house.gov/issues/health-care",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supports increasing domestic energy production alongside renewable-energy incentives and conservation, with an emphasis on keeping costs low.",
+          "quote": "Congressman Bilirakis firmly supports an \"all of the above\" energy strategy that includes increasing domestic production, providing incentives for the development of renewable resources, and promoting conservation.",
+          "sourceUrl": "https://bilirakis.house.gov/issues/environment-energy-production-and-infrastructure",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supports voter-identification requirements and a prohibition on ballot harvesting.",
+          "quote": "I support the ACE Act, which respects the Constitutional directive that dicatates states must oversee their elections process but provides some minimum standards by which all states must comply - including voter id and prohibiting ballot harvesting.",
+          "sourceUrl": "https://ivoterguide.com/candidate/2494/race/1303/election/1170",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Kimberly Overman",
+      "party": "DEM",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supports raising and indexing the federal minimum wage, strengthening collective bargaining and enacting the PRO Act.",
+          "quote": "I support raising the national minimum wage and indexing it to inflation, expanding overtime eligibility, requiring accurate worker classification, and protecting workers from wage suppression.",
+          "sourceUrl": "https://kimberlyoverman.substack.com/p/workers-deserve-leadership-that-listens",
+          "agreement": "3/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She opposes Social Security and Medicare benefit cuts and privatization while proposing higher contributions from very-high-income earners to improve solvency.",
+          "quote": "I support protecting Social Security and Medicare, opposing benefit cuts, rejecting privatization schemes that put earned benefits at risk, strengthening long-term solvency, reducing prescription drug costs, preserving Traditional Medicare, protecting pensions, and expanding support for caregivers and long-term care.",
+          "sourceUrl": "https://kimberlyoverman.substack.com/p/a-promise-should-be-a-promise",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She supports expanding housing supply and removing unnecessary barriers to responsible housing production.",
+          "quote": "I support a practical, evidence-based approach to housing affordability that includes expanding housing supply, supporting workforce housing, reducing unnecessary barriers to responsible housing production, encouraging mixed-income housing, protecting renters from predatory practices, supporting first-time homebuyers, and making sure public investments deliver public benefit.",
+          "sourceUrl": "https://kimberlyoverman.substack.com/p/the-affordability-crisis-is-real-0e8",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports increased investment in public schools and opposes privatizing public education dollars without accountability.",
+          "quote": "I support strong public schools, respect for teachers and school staff, increased investment in students, special education protections, affordable higher education, student debt relief, career and technical education, apprenticeships, workforce training, community college partnerships, and federal support for education that protects opportunity and civil rights.",
+          "sourceUrl": "https://kimberlyoverman.substack.com/p/education-creates-opportunity",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She advocates a combined approach of strong law enforcement, accountability, mental-health services, youth programs and community prevention.",
+          "quote": "Kimberly supports public safety policies that work: strong law enforcement paired with investments in mental health services, youth engagement, and community-led crime prevention. She knows safety comes from both accountability and opportunity.",
+          "sourceUrl": "https://kimberlyoverman.com/issues/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Overman supports both stronger border security and expanded legal pathways through reduced backlogs, modernized visas, and protections for Dreamers.",
+          "quote": "America needs a secure, orderly, and humane immigration system. I support strengthening border security, reducing legal immigration backlogs, modernizing visa programs that support our economy, and providing certainty for Dreamers who have grown up in this country.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020291",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "She supports universal background checks, waiting periods, red-flag laws, safe-storage requirements and restrictions on assault-style weapons and large-capacity magazines.",
+          "quote": "My policy priorities include universal background checks, reasonable waiting periods, red flag laws with due process protections, closing loopholes that allow domestic abusers to access firearms, safe storage requirements, restrictions on military-style assault weapons and large-capacity magazines, and investments in mental health services and community violence prevention programs.",
+          "sourceUrl": "https://kimberlyoverman.substack.com/p/safer-communities-responsible-leadership",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She supports abortion and medication-abortion access and restoring federal reproductive-rights protections.",
+          "quote": "I support protecting access to contraception, IVF and fertility treatment, maternal healthcare, abortion care, and medication abortion. I support restoring federal protections for reproductive freedom and ensuring that people can receive care without unnecessary government interference.",
+          "sourceUrl": "https://kimberlyoverman.substack.com/p/healthcare-should-not-depend-on-your",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "She supports gender-identity nondiscrimination in education and opposes federal laws restricting LGBTQ+ participation in schools.",
+          "quote": "I oppose legislation that targets, censors, marginalizes, or excludes LGBTQ+ people. I will oppose any attempt to impose federal laws that erase LGBTQ+ individuals or restrict equal participation in schools, workplaces, healthcare, public life, or military service.",
+          "sourceUrl": "https://kimberlyoverman.substack.com/p/dignity-freedom-and-equal-protection",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports protecting Medicare and Medicaid, strengthening the Affordable Care Act and expanding Medicare benefits.",
+          "quote": "I support strengthening the Affordable Care Act, protecting Medicare and Medicaid, reducing prescription drug costs, allowing Medicare and Medicaid to negotiate drug prices, expanding access to care, protecting reproductive freedom, preserving Traditional Medicare from privatization, adding dental, vision, and hearing benefits, improving healthcare workforce capacity, and supporting safe staffing standards in healthcare settings.",
+          "sourceUrl": "https://kimberlyoverman.substack.com/p/healthcare-should-not-depend-on-your",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "She supports expanding voter access, protecting mail and early voting and restoring voting rights without unnecessary financial barriers.",
+          "quote": "I support strengthening the Voting Rights Act, protecting and expanding voter access, protecting Vote-by-Mail and Early Voting, supporting fair and nonpartisan redistricting, encouraging independent redistricting commissions, protecting election workers, restoring voting rights for returning citizens without unnecessary economic barriers, and supporting comprehensive, accurate, non-politicized civics education.",
+          "sourceUrl": "https://kimberlyoverman.substack.com/p/democracy-works-when-every-voter",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Branden Scrivener",
+      "party": "NPA",
+      "stances": {
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He supports parental choice but opposes diverting public-school funding to charter and other third-party schools.",
+          "quote": "I believe in parent choice, the problem stems from where that choice funding comes from. Funding for public education should not be diverted to these programs.",
+          "sourceUrl": "https://activatepinellas.org/candidates/h6fl12231",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "He calls for abolishing ICE in its current form and humane treatment and safeguards for detainees, while also supporting strong borders and removal of violent criminals.",
+          "quote": "I believe ICE in its current form must be abolished. Any efforts to reform ICE will cost taxpayers billions more. I believe we must take a person-centered approach and treat everyone with dignity and humanity.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020291",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He says he would advocate for open primaries so all voters can participate.",
+          "quote": "I will advocate for open primaries to allow all voters to participate in the election process.",
+          "sourceUrl": "https://activatepinellas.org/candidates/h6fl12231",
+          "agreement": "8/10"
+        }
+      }
+    }
+  ],
+  "sources": "bilirakisforcongress.com · bilirakis.house.gov · ivoterguide.com · kimberlyoverman.substack.com · kimberlyoverman.com · onyourballot.vote411.org · activatepinellas.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
