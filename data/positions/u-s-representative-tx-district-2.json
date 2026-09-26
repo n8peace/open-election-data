@@ -1,0 +1,74 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 2",
+  "division": "tx/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Shaun Finnie",
+      "party": "DEM",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Finnie calls for removing tariffs.",
+          "quote": "Ensure all Texans can afford to live and work here. Remove the Tariffs.",
+          "sourceUrl": "https://shaunfinnieforcongress.com/",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Finnie pledges to protect Social Security, Medicare, and Medicaid benefits from cuts.",
+          "quote": "Protect the Social Security, Medicare, and Medicaid benefits of middle-class Americans from any potential cuts.",
+          "sourceUrl": "https://shaunfinnieforcongress.com/",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Finnie calls for investment in public education.",
+          "quote": "Invest in public education and in medical and scientific research.",
+          "sourceUrl": "https://shaunfinnieforcongress.com/",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Finnie says women should have the right to make their own healthcare decisions.",
+          "quote": "Ensure that women have the right to make their own healthcare decisions.",
+          "sourceUrl": "https://shaunfinnieforcongress.com/",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Finnie supports restoring enhanced Affordable Care Act assistance and creating a public insurance option.",
+          "quote": "Expand healthcare choices: He supports restoring enhanced Affordable Care Act assistance and establishing a public insurance option to compete with private insurers.",
+          "sourceUrl": "https://shaunfinnieforcongress.com/shaun-finnie-makes-the-middle-class-his-mission-in-texas-congressional-district-2/",
+          "agreement": "4/10"
+        }
+      }
+    }
+  ],
+  "sources": "shaunfinnieforcongress.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

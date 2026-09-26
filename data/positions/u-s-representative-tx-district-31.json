@@ -1,0 +1,246 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 31",
+  "division": "tx/cd-31",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "John Carter",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Carter voted for the 2025 reconciliation bill and said it delivered the lower taxes he was elected to pursue.",
+          "quote": "Texans sent me to Washington to fight for lower taxes, a strong border, and common sense—and that’s exactly what this bill delivers.",
+          "sourceUrl": "https://carter.house.gov/news/documentsingle.aspx?DocumentID=2760",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Carter criticized an immigration proposal because it required union wages for guest workers.",
+          "quote": "I am also concerned because this legislation does not meet workforce needs; it requires union wages for guest workers, which means there will still be incentive for businesses to hire illegal workers who work for lower wages.",
+          "sourceUrl": "https://carter.house.gov/news/documentsingle.aspx?DocumentID=338",
+          "agreement": "5/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Carter supported the USMCA and praised its elimination of tariffs and other barriers to market access.",
+          "quote": "Much like the Phase 1 deal, the USMCA expands market access by eliminating barriers to entry, such as tariffs that have targeted U.S. producers.",
+          "sourceUrl": "https://carter.house.gov/news/documentsingle.aspx?DocumentID=1464",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Carter says federal spending should be reduced without weakening Social Security or Medicare.",
+          "quote": "Federal spending must be reduced, but it should not be at the expense of programs like Social Security and Medicare.",
+          "sourceUrl": "https://carter.house.gov/Issues/Issue/?IssueID=81",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Carter called for offering public-charter, private, religious and homeschooling choices to every student.",
+          "quote": "From public charter schools, to private and religious schools, to homeschooling, there is no reason we can’t offer school choices to every American student.",
+          "sourceUrl": "https://carter.house.gov/news/documentsingle.aspx?DocumentID=585",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Carter says he has supported increased federal law-enforcement funding.",
+          "quote": "As a member of the Appropriations Committee, I have supported increased funding for federal law enforcement efforts.",
+          "sourceUrl": "https://carter.house.gov/Issues/Issue/?IssueID=73",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Carter co-authored the Secure the Border Act, which included restarting border-wall construction, adding Border Patrol agents and ending catch-and-release.",
+          "quote": "I'm proud that together, Republicans passed the Secure the Border Act to stop the abuse and close loopholes that cartels have used for decades.",
+          "sourceUrl": "https://carter.house.gov/news/documentsingle.aspx?DocumentID=1692",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Carter says he fully supports the right to keep and bear arms and backs legislation protecting lawful firearm purchases.",
+          "quote": "As a Texan, and an American, I fully support our Second Amendment right to keep and bear arms.",
+          "sourceUrl": "https://carter.house.gov/Issues/Issue/?IssueID=14896",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Carter praised the Dobbs ruling and called for laws protecting unborn life.",
+          "quote": "Today’s Dobbs decision undoes decades of injustice against unborn babies. This historic ruling returns the power back to the people and their elected representatives to enact laws that protect life and support women.",
+          "sourceUrl": "https://carter.house.gov/news/documentsingle.aspx?DocumentID=1640",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Carter cosponsored legislation defining sex in Title IX athletics according to reproductive biology and genetics at birth.",
+          "quote": "To amend the Education Amendments of 1972 to provide that for purposes of determining compliance with title IX of such Act in athletics, sex shall be recognized based solely on a person’s reproductive biology and genetics at birth.",
+          "sourceUrl": "https://www.congress.gov/118/bills/hr734/BILLS-118hr734rh.pdf",
+          "agreement": "9/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "strong",
+          "text": "Carter voted against the MORE Act, which would have decriminalized and descheduled cannabis federally.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Carter supported legislation to repeal the Affordable Care Act and replace it with a different insurance system.",
+          "quote": "I supported the American Health Care Act of 2017. This act would repeal Obamacare and replace it with a far more equitable solution that would benefit small businesses and Americans struggling with health care costs.",
+          "sourceUrl": "https://carter.house.gov/Issues/Issue/?IssueID=74",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Carter backed legislation promoting domestic energy production and limiting presidential authority to halt domestic energy sources.",
+          "quote": "The PADE Act will ensure that the president can no longer halt sources of domestic energy without congressional approval and will provide a significant blow to one of Russia's economic drivers, making it a win for America and Ukraine.",
+          "sourceUrl": "https://carter.house.gov/news/documentsingle.aspx?DocumentID=1609",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Carter voted for federal voter-identification requirements and argued that photo ID protects election integrity.",
+          "quote": "Requiring photo IDs at the polls ensures that only eligible individuals are casting votes.",
+          "sourceUrl": "https://carter.house.gov/news/documentsingle.aspx?DocumentID=240",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Justin Early",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Early says he would close tax loopholes for billionaires and large corporations to preserve benefit programs.",
+          "quote": "I will fight to close tax loopholes for billionaires and large corporations to preserve these programs without touching benefits.",
+          "sourceUrl": "https://www.ballotready.org/people/justin-early",
+          "agreement": "6/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Early supports unions, the PRO Act, and raising the federal minimum wage to $15 per hour.",
+          "quote": "I stand proudly with labor unions and the working people who are the backbone of our economy. Strong Unions mean better pay, better benefits, and safer work conditions.",
+          "sourceUrl": "https://www.ballotready.org/people/justin-early",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Early opposes privatizing Social Security, raising the retirement age, or reducing benefits.",
+          "quote": "Protect Social Security from the threat of being privatized by billionaires, who want to line their pockets with your payroll deductions. Social Security will always remain a public program because it is a social contract, not a gamble on Wall Street.",
+          "sourceUrl": "https://www.votejustinearly.com/issues/protecting-social-security-and-medicare",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Early opposes a national voucher program and says public money should remain in public schools.",
+          "quote": "Resist any attempts to impose a national school voucher scheme. Public dollars belong in public schools, not diverted to unaccountable private or religious institutions. I’ll fight to ensure taxpayer money strengthens public education, not weakens it.",
+          "sourceUrl": "https://www.votejustinearly.com/issues/protecting-our-neighbors",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Early says state and local law-enforcement agencies should receive resources to combat fentanyl and illegal guns.",
+          "quote": "I will fight to ensure state and local law enforcement agencies have the resources they need to keep Fentanyl and illegal guns off the streets.",
+          "sourceUrl": "https://www.ballotready.org/people/justin-early",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Early supports a clearer pathway to citizenship, permanent protections for Dreamers, and humane immigration enforcement.",
+          "quote": "Provide a clear and fair pathway to citizenship for those pursuing legal immigration. The current system is filled with delays, uncertainty, and arbitrary barriers. I’ll work to streamline the process and give immigrants the clarity they deserve.",
+          "sourceUrl": "https://www.votejustinearly.com/issues/small-businesses",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Early supports universal, publicly funded health coverage regardless of income or employment.",
+          "quote": "Yes. I support any system that gets us to universal, publicly funded healthcare so everyone can access care regardless of income or employment.",
+          "sourceUrl": "https://www.lonestarleft.com/p/meet-the-candidates-justin-early",
+          "agreement": "4/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Early says data centers should pay more of their grid costs so household electric rates remain affordable.",
+          "quote": "Prevent rising electric rates and grid instability by making datacenters pay their fair share. Datacenters consume massive amounts of energy, often driving up costs for local residents. I’ll fight to ensure big tech companies pay their fair share to maintain grid stability and keep energy affordable.",
+          "sourceUrl": "https://www.votejustinearly.com/issues/protecting-from-datacenters",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Early says he would oppose voter suppression and work to ensure every vote is counted.",
+          "quote": "Defend voting rights and safeguard fair and free elections. Every American deserves an equal voice in our democracy, free from voter suppression, gerrymandering, or interference. I’ll work to restore trust in our electoral system and ensure every vote is counted.",
+          "sourceUrl": "https://www.votejustinearly.com/issues/protecting-our-neighbors",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Greg Stoker",
+      "party": "GRE",
+      "stances": {
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Stoker named ending the federal prohibition on THC as one of his top priorities.",
+          "quote": "My top priorities will be 1) to keep taxpayer dollars working at home, rather than sending them overseas to subsidize foreign governments, including Israel, 2) to overturn Citizens United and get corporate money out of US politics, and 3) to end the federal prohibition on THC.",
+          "sourceUrl": "https://communityimpact.com/georgetown/election/qa-meet-the-candidates-for-us-house-district-31/",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Stoker calls for comprehensive universal health coverage and opposes defunding existing coverage programs.",
+          "quote": "It's clear that our leaders are too busy raking in donations from those getting rich off taxpayers, rather than calling for what's needed—comprehensive universal health coverage.",
+          "sourceUrl": "https://www.stokerfortexas.com/issues",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "carter.house.gov · congress.gov · clerk.house.gov · ballotready.org · votejustinearly.com · lonestarleft.com · communityimpact.com · stokerfortexas.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

@@ -1,0 +1,192 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 1",
+  "division": "tx/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Nathaniel Moran",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Moran voted to advance a budget resolution he said would keep taxes low and reduce federal spending.",
+          "quote": "Today—by passing the Budget Resolution—the House took a major step toward fulfilling that mandate to keep taxes low, reduce the national debt, and rein in spending.",
+          "sourceUrl": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=1008",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Moran opposed labor policies that reclassified independent contractors and encouraged union enrollment through formal employment relationships.",
+          "quote": "Instead, it sought to drive up union enrollment by forcing workers into formal employment relationships.",
+          "sourceUrl": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=110",
+          "agreement": "3/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "Moran praised tariffs for pressuring other countries to renegotiate trade terms and prioritize American businesses and taxpayers.",
+          "quote": "We’re seeing countries flood to America, willing to renegotiate those tariff deals simply because President Trump said ‘enough is enough’ and so 75-plus countries are here to do that, to make sure that we have reciprocity, to make sure the American business owner and the American business, the American taxpayer is first not international businesses.",
+          "sourceUrl": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=1159",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Moran supported legislation intended to increase home construction by streamlining permitting and removing regulatory barriers.",
+          "quote": "The legislation tackles the housing shortage head-on by removing unnecessary regulatory barriers to streamline permitting and home construction, modernize HUD programs, and update outdated banking regulations.",
+          "sourceUrl": "https://moran.house.gov/news/email/show.aspx?ID=ZJW5WPZCZVDN4",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Moran publicly supported National School Choice Week and advocated letting parents choose among public, private, parochial, charter, and home schools.",
+          "quote": "The power of choice is important, and I was proud to stand in support of National School Choice Week.",
+          "sourceUrl": "https://moran.house.gov/news/email/show.aspx?ID=JP2QS3Z7XCANY",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Moran introduced legislation directing federal policing grants toward recruiting and training additional local officers.",
+          "quote": "The Strong Communities Act of 2025, introduced during National Police Week, recognizes the commitment of our law enforcement by authorizing the use of grant funding to recruit and train individuals from the communities they call home.",
+          "sourceUrl": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=1202",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Moran voted to provide long-term funding for ICE and Border Patrol and expand local participation in identifying and removing undocumented immigrants.",
+          "quote": "Expands local law enforcement partnerships: Strengthens coordination so local officers can help identify and remove criminal illegal aliens",
+          "sourceUrl": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2770",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Moran cosponsored nationwide concealed-carry reciprocity and pledged to protect the right of law-abiding citizens to keep and bear arms.",
+          "quote": "I will fight to protect this cherished right for every law-abiding American citizen.",
+          "sourceUrl": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=925",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Moran said government has a responsibility to defend unborn life and oppose expanded abortion access and funding.",
+          "quote": "We have a responsibility to defend the lives of the unborn and stand up against the Democrats’ pro-abortion agenda that is actively working to expand abortion access, resources, and funding.",
+          "sourceUrl": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=302",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Moran voted for legislation requiring federally funded school athletics to classify sex according to reproductive biology and genetics at birth.",
+          "quote": "H.R. 734, the  Protection of Women and Girls in Sports Act of 2023  will require schools who receive federal funding to recognize sex based solely on a person’s reproductive biology and genetics at birth.",
+          "sourceUrl": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=92",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Moran opposed extending enhanced ACA subsidies and advocated competition, health savings accounts, and employer-based coverage arrangements.",
+          "quote": "We must reject the approach of subsidizing insurance companies and instead choose to create competition.",
+          "sourceUrl": "https://moran.house.gov/news/email/show.aspx?ID=EIT6GDBY4DWZY",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Moran introduced legislation expanding offshore oil and gas leasing to increase domestic production and provide affordable energy.",
+          "quote": "America is abundant in energy resources, and we should unleash our U.S. energy production, rather than rely on foreign adversaries for oil and gas.",
+          "sourceUrl": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=74",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Moran supported federal voter-ID, in-person citizenship-documentation, and voter-roll removal requirements.",
+          "quote": "The SAVE America Act will protect our elections by:  ●  Requiring individuals to present an eligible photo identification document before voting. ●  Requiring states to obtain proof of citizenship – in person – when registering an individual to vote.",
+          "sourceUrl": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2609",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Yolanda R. Prince",
+      "party": "DEM",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Prince supports raising the federal minimum wage to at least $15 per hour.",
+          "quote": "I support raising the minimum wage to at least $15 per hour so that full-time workers can earn a living wage and support their families without relying on government assistance.",
+          "sourceUrl": "https://yolandaprince.com/issues",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Prince supports protecting public education while raising teacher pay and expanding school services.",
+          "quote": "I support raising teacher pay, protecting public education, expanding special education services, providing universal school meals, and investing in universal pre-kindergarten.",
+          "sourceUrl": "https://yolandaprince.com/issues",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Prince supports a less costly and time-consuming pathway to citizenship and ending immigration detention centers.",
+          "quote": "I support creating a realistic pathway to citizenship that is less expensive and less time-consuming than the current process.",
+          "sourceUrl": "https://yolandaprince.com/issues",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Prince identifies as pro-choice and supports restoring Roe and protecting reproductive-health-care access.",
+          "quote": "I am pro-choice. Decisions regarding reproductive healthcare belong to women, their families, and their healthcare providers—not politicians.",
+          "sourceUrl": "https://yolandaprince.com/issues",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Prince supports a single-payer Medicare for All system guaranteeing coverage to every American.",
+          "quote": "I support a Medicare for All single-payer healthcare systems, that guarantees health insurance coverage for every American.",
+          "sourceUrl": "https://yolandaprince.com/issues",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Prince marched for reauthorization of the Voting Rights Act and describes access to democracy as non-negotiable.",
+          "quote": "Yolanda marched in Washington, D.C. for the reauthorization of the Voting Rights Act because she believes access to democracy is non-negotiable.",
+          "sourceUrl": "https://yolandaprince.com/about",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "moran.house.gov · yolandaprince.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

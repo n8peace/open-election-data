@@ -1,0 +1,190 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 38",
+  "division": "tx/cd-38",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jon Bonck",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Bonck opposed raising taxes and said relief should come from cutting waste, growing the economy, and letting families keep more earnings.",
+          "quote": "Working families don’t need relief funded by bigger government or higher taxes on anyone. They need lower costs, higher wages, and a government that stops wasting their money. Raising taxes has never made Washington more responsible. Real relief comes from cutting wasteful spending, growing the economy, and letting families keep more of what they earn.",
+          "sourceUrl": "https://ivoterguide.com/candidate/89450/race/23564/election/1343",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Bonck strongly agreed that the government should cut spending to reduce the national debt.",
+          "quote": "The government should cut spending in order to reduce the national debt. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/89450/race/23564/election/1343",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Bonck called for border enforcement and continued large-scale removal of people in the country illegally.",
+          "quote": "We must secure the border, enforce the law, and continue large scale removal of those here illegally while putting the safety and wellbeing of American citizens first.",
+          "sourceUrl": "https://www.houstonvotersguide.org/us-house-of-representatives-rep/Jon-Bonck",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Bonck said an armed citizenry protects liberty and public safety from criminals and government overreach.",
+          "quote": "A free society depends on an armed and responsible citizenry, which ultimately serves as a safeguard for liberty and public safety.",
+          "sourceUrl": "https://ivoterguide.com/candidate/89450/race/23564/election/1343",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Bonck said elective abortion should be allowed under no circumstances.",
+          "quote": "Under what circumstances should an elective abortion be allowed? No exceptions.",
+          "sourceUrl": "https://ivoterguide.com/candidate/89450/race/23564/election/1343",
+          "agreement": "3/3"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Bonck strongly agreed that biological males should be excluded from women’s sports and designated women’s spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/89450/race/23564/election/1343",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Bonck selected the option calling for abolition of taxpayer-funded health care, including defunding Medicare and Medicaid.",
+          "quote": "Taxpayer funded health care should be abolished in all forms, and Medicaid and Medicare should be defunded.",
+          "sourceUrl": "https://ivoterguide.com/candidate/89450/race/23564/election/1343",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Bonck strongly disagreed that people should be permitted to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/89450/race/23564/election/1343",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Melissa McDonough",
+      "party": "DEM",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "McDonough said she lobbied for several federal measures intended to expand the supply and affordability of homes.",
+          "quote": "I also lobbied for the More Homes on the Market Act, Neighborhood Homes Investment Act, Affordable Housing Credit Improvement Act, and increasing tax deductions for homeowners.",
+          "sourceUrl": "https://irp.cdn-website.com/af2f04f7/files/uploaded/2024_LWV_GeneralElectionVG_DIGITAL-13ea99cf.pdf",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "McDonough supports streamlining the immigration process instead of spending money on barriers.",
+          "quote": "Instead of wasting taxpayer money on ineffective barriers, we should be streamlining the immigration process. Long immigration backlogs increase the chances of illegal immigration.",
+          "sourceUrl": "https://melissaforcongress.com/platform/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "McDonough supports stronger background checks and safe-storage measures while preserving lawful gun ownership.",
+          "quote": "By promoting responsible gun ownership, safe firearm storage, stronger background checks, and improved access to mental health care, we can help reduce gun violence while protecting the constitutional rights of law-abiding Texans.",
+          "sourceUrl": "https://melissaforcongress.com/platform/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "McDonough says women should have bodily autonomy and make health-care decisions privately with a physician.",
+          "quote": "Women deserve the right to bodily autonomy, and their healthcare decisions should be made privately with a physician.",
+          "sourceUrl": "https://melissaforcongress.com/platform/",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "McDonough supports combining renewable energy with fossil fuels to improve reliability while reducing environmental harm.",
+          "quote": "Using renewables in conjunction with fossil fuels will help keep our grid from failing while mitigating negative environmental impacts.",
+          "sourceUrl": "https://melissaforcongress.com/platform/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "McDonough supports easier mail voting, countywide voting, and more accessible polling locations.",
+          "quote": "We need to make mail-in voting easier, continue to allow county-wide voting, have more accessible polling locations, and keep polling locations safe and fully stocked with the resources they need.",
+          "sourceUrl": "https://melissaforcongress.com/platform/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Alex McMenemy",
+      "party": "GRE",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "McMenemy advocates higher wages and stronger unions, including a $25 minimum wage.",
+          "quote": "This, along with my childhood, inspired my fight for not just free higher education, but for higher wages and stronger unions, too.",
+          "sourceUrl": "https://alexforthepeople.org/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "McMenemy proposes strengthening communities as a way to reduce crime and improve living standards.",
+          "quote": "Build stronger communities to reduce crime and provide a higher standard of living",
+          "sourceUrl": "https://alexforthepeople.org/our-platform/",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "McMenemy supports free universal health coverage and criticizes the private, profit-driven system.",
+          "quote": "The only way to end this cruelty is for every Texan family to receive free universal healthcare so that families like yours and mine can receive the care they deserve as a human right.",
+          "sourceUrl": "https://alexforthepeople.org/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "McMenemy calls for a rapid transition to renewable energy, particularly solar and wind.",
+          "quote": "Along with that, the scientific community has shown that we must make a quick and clean shift to reliable forms of renewable energy, such as solar and wind.",
+          "sourceUrl": "https://snapcoalition.org/initiatives/stance-on-science/candidates/tx/alex-mcmenemy",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "ivoterguide.com · houstonvotersguide.org · irp.cdn-website.com · melissaforcongress.com · alexforthepeople.org · snapcoalition.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

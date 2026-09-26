@@ -1,0 +1,135 @@
+{
+  "office": "State Senate",
+  "district": "CA District 36",
+  "division": "ca/sldu-36",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Chris Duncan",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Duncan says child-care workers deserve a living wage and should be empowered to organize for better compensation.",
+          "quote": "Child care workers deserve a living wage. I will work to empower these workers to organize and negotiate for better wages and benefits.",
+          "sourceUrl": "https://www.childrennow.org/news/chris-duncan/",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Duncan calls for prioritizing funding for public education and school services.",
+          "quote": "We need to regain our position as one of the top states for public education and child services. In the State Assembly, will work to prioritize funding for our kids.",
+          "sourceUrl": "https://www.childrennow.org/news/chris-duncan/",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "As a councilmember, Duncan supported both police deployment in high-risk areas and social-worker outreach teams.",
+          "quote": "Enhanced public safety by adding two fire helicopters, deploying police officers in high-risk areas, and establishing social worker outreach teams, leading to a 23% reduction in homelessness.",
+          "sourceUrl": "https://www.votechrisduncan.com/about",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Duncan says reproductive-health access is a freedom that government should protect from restrictions.",
+          "quote": "Chris knows that everyone must have the freedom to access reproductive health care services, and he'll stand up to extremist efforts to restrict health choices.",
+          "sourceUrl": "https://www.votechrisduncan.com/issues",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Duncan called for expanding Medi-Cal to cover additional health services for children.",
+          "quote": "Medi-Cal should be expanded to cover these additional expenses.",
+          "sourceUrl": "https://www.childrennow.org/news/chris-duncan/",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Duncan supports legislation to reduce greenhouse-gas emissions and expand cleaner energy choices.",
+          "quote": "Chris believes that climate change is real, and he’ll support reasonable and effective legislation to reduce greenhouse gases, ensure cleaner air and water and protect our coastline and oceans.",
+          "sourceUrl": "https://www.votechrisduncan.com/issues",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Tony Strickland",
+      "party": "Republican",
+      "stances": {
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "He opposed California's scheduled minimum-wage increase, saying it harms small fast-food businesses.",
+          "quote": "California is already about as anti-business as it gets, and now another minimum wage increase is set to take effect next year. Small, family-owned fast-food operators are already feeling the squeeze and have seen the serious harm this policy has caused.",
+          "sourceUrl": "https://sr36.senate.ca.gov/content/august-2026-e-newsletter-back-school-and-back-sacramento",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "slower growth",
+          "strength": "strong",
+          "text": "Strickland introduced SB 979 to strengthen local control over state housing targets and said housing policy should protect community character.",
+          "quote": "Housing policies must not be one-size-fits-all. They must respect local priorities, infrastructure readiness, and community character. Additionally, fairness and local input must guide these decisions.",
+          "sourceUrl": "https://sr36.senate.ca.gov/content/senator-strickland-calls-fairness-local-housing-requirements-introduces-sb-979",
+          "agreement": "5/5"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "Strickland urged the governor to block an offender's early release and said early release should not be considered in the case.",
+          "quote": "Now, due to the state’s corrupt early release system, these families are dealt another blow. There is no justice for these families as early release should never be on the table.",
+          "sourceUrl": "https://sr36.senate.ca.gov/content/senator-strickland-urges-governor-newsom-block-early-release-killer-oscar-eduardo-ortega",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "He voted against AB 260, which expanded protections for medication-abortion access and providers.",
+          "quote": "Expands protections for access to medication abortion in California, and shields providers, pharmacists, and facilities from out-of-state interference.",
+          "sourceUrl": "https://freedomindex.us/legislator/2806/",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Strickland opposed rules encouraging replacement of natural-gas furnaces and water heaters with electric units because of their cost to households.",
+          "quote": "It is never a good idea to impose excessive regulations, especially considering that the cost of living for Californians is 42% higher than the national average. Many residents in my district have expressed their struggles to afford basic necessities like food, rent, and gas due to the state’s already existing overregulation",
+          "sourceUrl": "https://sr36.senate.ca.gov/content/costly-new-mandate-scaqmd-will-hurt-californians-warns-senator-strickland",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Strickland coauthored an initiative requiring government identification information for in-person and mail voting.",
+          "quote": "Senator Tony Strickland is Co-Author of the California Voter ID initiative, which is on its way to appearing on the November ballot. He believes election integrity starts with ensuring only those eligible to vote are casting ballots.",
+          "sourceUrl": "https://www.stricklandforsenate.com/issues",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "childrennow.org · votechrisduncan.com · sr36.senate.ca.gov · freedomindex.us · stricklandforsenate.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

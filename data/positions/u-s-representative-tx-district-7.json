@@ -1,0 +1,122 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 7",
+  "division": "tx/cd-7",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Alexander Hale",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Hale says marginal tax rates should stay low while preserving the standard deduction and small-business pass-through provision.",
+          "quote": "Keep marginal rates low, the standard deduction high, and the small-business pass-through provision intact.",
+          "sourceUrl": "https://www.halefortexas.com/priorities/fiscal",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Hale strongly agreed that the government should cut spending to reduce the national debt.",
+          "quote": "The government should cut spending in order to reduce the national debt.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/89880/race/28718/election/1433?culture=en-us",
+          "agreement": "3/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Hale calls for faster housing construction and less federal building regulation.",
+          "quote": "Build more, faster. Cut the federal red tape that makes it more expensive to build a house, a power plant, or a pipeline in Houston.",
+          "sourceUrl": "https://www.halefortexas.com/priorities/affordability",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Hale supports restoring federal law-enforcement grants and providing police with more personnel, training, and equipment.",
+          "quote": "Alexander will fight to restore full Byrne JAG funding and oppose any effort to condition those grants on the adoption of progressive policing mandates dressed up as reform.",
+          "sourceUrl": "https://www.halefortexas.com/priorities/safety",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Hale strongly opposed sanctuary-city protections for undocumented people.",
+          "quote": "I support the existence of sanctuary cities to protect undocumented persons.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/89880/race/28718/election/1433?culture=en-us",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Hale says authorities should enforce existing gun laws instead of imposing new restrictions on lawful gun owners.",
+          "quote": "Current law already prohibits criminals and the dangerously mentally ill from owning firearms—we should enforce existing laws before creating new ones. The answer to violence isn't restricting responsible gun owners; it's addressing mental health, strengthening families, and restoring respect for human life.",
+          "sourceUrl": "https://ivoterguide.com/candidate/89880/race/28718/election/1433?culture=en-us",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Hale says elective abortion should be considered only when the mother's life faces mortal risk after efforts to preserve both lives.",
+          "quote": "All human life is sacred. Only if there is a mortal risk / certainty that a mother's life will be ended if nothing is done, should the removal of an unborn child be considered—and that is after assuming that all medical wisdom, skill, and options have been explored to preserve both lives in the first place.",
+          "sourceUrl": "https://ivoterguide.com/candidate/89880/race/28718/election/1433?culture=en-us",
+          "agreement": "3/3"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Hale strongly agreed that women's sports and specified women's spaces should be restricted according to biological sex.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/89880/race/28718/election/1433?culture=en-us",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Hale opposes expanding government-run universal healthcare and favors competition in the private market.",
+          "quote": "I am against expansion into government-run universal healthcare. The private market, when allowed to compete, delivers innovation and better care.",
+          "sourceUrl": "https://ivoterguide.com/candidate/89880/race/28718/election/1433?culture=en-us",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Hale supports oil, gas, nuclear power, faster permitting, and energy policies judged by their effect on household costs.",
+          "quote": "Alexander will defend the oil and gas industry without flinching, but he will also push hard for the next generation of firm, reliable power: advanced nuclear, modernized natural gas, and a hardened electric grid built for the demand decade we are already living in.",
+          "sourceUrl": "https://www.halefortexas.com/priorities/energy",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Hale strongly disagreed that people should be permitted to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/89880/race/28718/election/1433?culture=en-us",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "halefortexas.com · ivoterguide.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
