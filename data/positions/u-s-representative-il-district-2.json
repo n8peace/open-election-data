@@ -1,0 +1,106 @@
+{
+  "office": "U.S. Representative",
+  "district": "IL District 2",
+  "division": "il/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Donna Miller",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Miller says she would repeal tax breaks for billionaires and increase corporate tax contributions to fund federal priorities.",
+          "quote": "I'll stand with unions, fight to repeal tax breaks for billionaires and support affordable housing investments.",
+          "sourceUrl": "https://donnaforcongress.com/priorities",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Miller pledges to stand with unions.",
+          "quote": "I'll stand with unions, fight to repeal tax breaks for billionaires and support affordable housing investments.",
+          "sourceUrl": "https://donnaforcongress.com/priorities",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Miller says she will defend Social Security and expand Medicare and Medicaid.",
+          "quote": "I'll defend Social Security and expand Medicare and Medicaid so every senior can retire with dignity.",
+          "sourceUrl": "https://donnaforcongress.com/priorities",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Miller supports a path to citizenship for migrants and due process for all.",
+          "quote": "Other priorities should include a swift and humane path to citizenship for migrants, due process for all, an end to racial/cultural profiling, closure of detention centers",
+          "sourceUrl": "https://www.shawlocal.com/news/election/2026/09/25/2026-election-questionnaire-donna-miller-us-house-of-representatives-2nd-district/",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Miller pledges to take on the gun lobby and pass common sense gun laws.",
+          "quote": "In Congress, I will partner with anyone that is willing to take on the National Rifle Association and the gun lobby to pass common sense gun laws and work to provide mental health care access to ensure our children, schools and communities are safe.",
+          "sourceUrl": "https://donnaforcongress.com/priorities",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Miller says her focus will be to codify Roe v. Wade.",
+          "quote": "In Congress, my focus will be to codify Roe v. Wade and ensure every woman can make her own health care decisions.",
+          "sourceUrl": "https://donnaforcongress.com/priorities",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Miller says she supports a Medicare for All framework and expanding Medicare and Medicaid.",
+          "quote": "Health care is a human right and I support a Medicare for All framework.",
+          "sourceUrl": "https://donnaforcongress.com/priorities",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Miller says she will support rejoining the Paris Climate Agreement and advancing climate responsibility.",
+          "quote": "In Congress, I will support rejoining the Paris Climate Agreement and ensuring the United States is at the forefront of environmental justice, climate responsibility and sustainability.",
+          "sourceUrl": "https://donnaforcongress.com/priorities",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Miller supports the Freedom to Vote Act to expand and protect voting rights.",
+          "quote": "Enacting comprehensive legislation like the Freedom to Vote Act, at the federal and state level, that reforms our campaign finance laws to curb the influence of Big Money flowing into our elections, tackles corruption, and expands and protects voting rights",
+          "sourceUrl": "https://www.shawlocal.com/news/election/2026/09/25/2026-election-questionnaire-donna-miller-us-house-of-representatives-2nd-district/",
+          "agreement": "9/10"
+        }
+      }
+    }
+  ],
+  "sources": "donnaforcongress.com · shawlocal.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
