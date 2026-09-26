@@ -1,0 +1,214 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 3",
+  "division": "fl/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Kat Cammack",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Cammack says taxes should remain low and government spending should be kept minimal and efficient.",
+          "quote": "An ardent budget hawk, she believes taxes should be low and that we must keep government spending minimal and efficient.",
+          "sourceUrl": "https://katforcongress.com/",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Cammack said she favors abolishing the federal minimum wage and letting market competition determine wages.",
+          "quote": "Personally, I’m in favor of abolishing the federal minimum wage. I believe that minimum wage produces less desirable outcomes, less desirable work product, let the free market and competition work the way it’s intended to, and we’ll get better employees with higher wages.",
+          "sourceUrl": "https://alachuachronicle.com/cd3-forum-part-9-trumps-covid-response-minimum-wage-laws-legalizing-marijuana/",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "Cammack welcomed a Commerce Department decision that reinstated tariffs on most fresh-tomato imports from Mexico to protect American growers.",
+          "quote": "The termination of this agreement sends a clear message: we’re standing up for American farmers and restoring integrity to our agricultural markets. Food security is national security. Our farmers deserve a fair shot to compete—and this marks a critical step forward in making that possible.",
+          "sourceUrl": "https://cammack.house.gov/media/press-releases/department-commerce-ends-supension-agreement-reinstating-tomato-tariffs",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "Cammack said current and near-retirees should be protected but that Social Security reform and all options must be considered because mandatory spending is unsustainable.",
+          "quote": "Promises have been made and promises must be kept. Anyone at or nearing retirement shouldn't see any changes to the current system. However, the reality is that social security and much of our mandatory spending is unsustainable. We must elect leaders like myself who are willing to sit down and have the tough conversations about reforming social security in order to preserve it for future generations. In order to do so, all options must be on the table.",
+          "sourceUrl": "https://ivoterguide.com/candidate/52302/race/1294/election/805",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Cammack called for investing in relationships with police departments and opposed removing police resources.",
+          "quote": "If you are serious about making communities safer and more in tune with their police departments, you want to invest in that relationship, not strip resources from the very people that are trying their very best to do a very difficult job.",
+          "sourceUrl": "https://www.independentwomen.com/2021/12/17/rep-kat-cammack-on-bidens-border-crisis-and-refunding-the-police/",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Cammack supports a border wall, enforcement of existing immigration laws and opposition to amnesty.",
+          "quote": "We are a nation of laws and it is crucial that we enforce them. I will never support efforts by the far left for open borders or amnesty of any kind. Once we are able to build a wall and ensure that we stem the tide of illegal immigration, we can have the important and necessary conversations about guest worker programs that are crucial to the agricultural, hospitality, and tourism industries in the state of Florida.",
+          "sourceUrl": "https://ivoterguide.com/candidate/52302/race/1294/election/805",
+          "agreement": "4/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Cammack said she opposes restrictions on gun ownership by law-abiding Americans.",
+          "quote": "I do not believe in any restrictions on gun ownership for law abiding Americans. The far left will stop at nothing to infringe on our Second Amendment rights, and I will proudly stand against those efforts at every turn.",
+          "sourceUrl": "https://ivoterguide.com/candidate/52302/race/1294/election/805",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Cammack introduced legislation establishing a federal prohibition on dilation-and-evacuation abortion procedures.",
+          "quote": "This bill sets a clear federal standard that holds providers accountable, protects the dignity of all life, and ensures women are protected, not prosecuted.",
+          "sourceUrl": "https://cammack.house.gov/media/press-releases/rep-cammack-leads-bill-ban-barbaric-abortion-procedures",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Cammack co-sponsored legislation allowing female athletes to challenge institutions that permit biological males to compete in female-only events.",
+          "quote": "Forcing female athletes to compete against biological males is unfair, unsafe, and a direct assault on decades of progress under Title IX.",
+          "sourceUrl": "https://cammack.house.gov/media/press-releases/rep-cammack-co-sponsors-riley-gaines-act-protect-womens-sports-0",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Cammack advocated repealing the Affordable Care Act and replacing it with greater consumer choice and interstate insurance purchasing.",
+          "quote": "I would continue to fight for a full repeal of Obamacare and replace it with a system that calls for greater consumer choice and transparency. I will advocate for policies that will allow people to purchase healthcare insurance across state lines, for tort reform, and for increased transparency in healthcare costs.",
+          "sourceUrl": "https://ivoterguide.com/candidate/52302/race/1294/election/805",
+          "agreement": "3/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Cammack praised the repeal of federal emissions rules as a way to reduce vehicle costs and increase energy production.",
+          "quote": "‘GREEN NEW SCAM’ up in smoke. The climate crowd said killing Obama-era emissions rules would wreck America. Instead? Cheaper cars. More energy. Less bureaucratic chokehold. America builds again.",
+          "sourceUrl": "https://cammack.house.gov/media/in-the-news/president-trump-delivers-biggest-regulatory-relief-history",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Cammack voted for legislation requiring photo identification for in-person federal voting and identification copies with mail ballots.",
+          "quote": "The legislation also includes election integrity provisions requiring voters to present photo identification when casting a ballot in a federal election. Absentee and mail-in voters would be required to include a copy of qualifying identification with their ballot.",
+          "sourceUrl": "https://cammack.house.gov/media/press-releases/congresswoman-kat-cammack-presides-over-house-passage-congressional-stock",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Seth Harp",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Harp proposes restoring the corporate tax rate to 26 percent and investing the revenue in public programs and services.",
+          "quote": "Reagan Redux restores the corporate tax rate to that level, generating hundreds of billions in revenue that can be invested in Social Security, education, health care, veterans services, and programs that strengthen working families.",
+          "sourceUrl": "https://www.sethharpforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Harp says protecting Social Security from benefit cuts would be his first legislative priority.",
+          "quote": "I would make strengthening and protecting Social Security my first priority by ensuring the program remains fully funded for current retirees and future generations, while opposing any effort to cut earned benefits.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020273",
+          "agreement": "3/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Harp proposes incentives for builders to construct affordable homes while taxing large-scale corporate home purchases.",
+          "quote": "The H.E.A.R.T. Act imposes escalating taxes on large-scale corporate home acquisitions while creating incentives for builders to construct affordable housing for first-time buyers and middle-class families.",
+          "sourceUrl": "https://www.sethharpforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Harp rejects mass deportation and cites the 1986 legalization-and-citizenship approach as a model combining enforcement with practical solutions.",
+          "quote": "Even Reagan recognized that the United States could not simply deport millions of people who were already living and working here.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020273",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Harp proposes a national plan guaranteeing affordable, comprehensive health coverage to every American regardless of employment or income.",
+          "quote": "My national health care plan, the One Nation Health Care Act, would guarantee affordable, comprehensive health coverage for every American while reducing administrative waste and lowering overall costs.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020273",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Mike Klein",
+      "party": "NPA",
+      "stances": {
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Klein proposes raising the Social Security contribution cap and protecting earned retirement benefits.",
+          "quote": "Raise the cap on Social Security contributions so the wealthy pay their fair share. Protect the retirement security that working Americans have earned.",
+          "sourceUrl": "https://mikeklein4congress.com/5-pillars/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Klein identifies expanding the housing supply as part of his plan to address affordability.",
+          "quote": "I will tackle the affordability crisis by confronting monopoly power and price manipulation, lowering healthcare and prescription costs, expanding housing supply, protecting Social Security and Medicare, and investing in American agriculture, manufacturing, energy, and infrastructure.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020273",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Klein supports legal pathways to citizenship for workers who pay taxes and obey the law.",
+          "quote": "Critical sectors should offer legal pathways to citizenship for those who work, pay taxes, and obey our laws.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020273",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Klein says eligible citizens should not be prevented from voting by document costs or bureaucratic barriers.",
+          "quote": "No eligible American should lose the right to vote because they cannot afford paperwork or navigate a bureaucracy.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020273",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "katforcongress.com · alachuachronicle.com · cammack.house.gov · ivoterguide.com · independentwomen.com · sethharpforcongress.com · onyourballot.vote411.org · mikeklein4congress.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

@@ -1,0 +1,111 @@
+{
+  "office": "State Senate",
+  "district": "CA District 8",
+  "division": "ca/sldu-8",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Angelique Ashby",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Ashby voted for final passage of SB 525, which established higher minimum wages for health-care workers.",
+          "quote": "Allen, Archuleta, Ashby, Atkins, Becker, Blakespear, Bradford, Caballero, Cortese, Dodd, Durazo, Eggman",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240SB525",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Ashby championed a school bond that financed construction of a public dual-language school.",
+          "quote": "I am proud to have championed a school bond that paved the way for the Heredia-Arriaga School, a public school with a Spanish dual language immersion program, to be built in my city council district.",
+          "sourceUrl": "https://www.childrennow.org/news/angelique-ashby/",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "Ashby supported sending social workers instead of police to mental-health and homelessness-related 911 calls.",
+          "quote": "Supported a new city department dedicated to responding to mental health and homeless 911 calls (rather than a police response, a social worker is engaged).",
+          "sourceUrl": "https://ashbyforsenate.com/issues/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Ashby voted for a resolution opposing indiscriminate prosecution and family separation of undocumented immigrants and urging that separated families be reunited.",
+          "quote": "Yes: Members Angelique Ashby, Larry Carr, Eric Guerra, Jeff Harris, Rick Jennings, Jay Schenirer, Allen Warren, and Mayor Darrell Steinberg.",
+          "sourceUrl": "https://sacramento.granicus.com/MetaViewer.php?clip_id=4326&meta_id=543995&view_id=22",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Ashby says she has advocated for gun-violence prevention programs and additional gun-safety reforms.",
+          "quote": "Ever since, Angelique has worked closely with Amber’s husband, Kelly Clark, to advocate for further measures to prevent gun violence in our community, including gun violence prevention programs as well as common sense gun safety reform.",
+          "sourceUrl": "https://ashbyforsenate.com/setting-the-record-straight/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Ashby states that women need reproductive freedom to plan and control their futures.",
+          "quote": "they have the reproductive freedom necessary to plan and control their futures.",
+          "sourceUrl": "https://ashbyforsenate.com/issues/",
+          "agreement": "3/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Ashby voted for AB 1955, which bars schools from requiring disclosure of a student's gender identity without the student's consent.",
+          "quote": "Allen, Archuleta, Ashby, Atkins, Becker, Blakespear, Bradford, Caballero, Cortese, Dodd, Durazo, Eggman",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1955",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Ashby voted for AB 626, allowing voters under specified safeguards to return a mail ballot in person without its identification envelope.",
+          "quote": "Allen, Alvarado-Gil, Archuleta, Ashby, Atkins, Becker, Blakespear, Bradford, Caballero, Cortese, Dahle, Dodd",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB626",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Susan A Mason",
+      "party": "Republican",
+      "stances": {
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "The California Rifle & Pistol Association gave Mason an A in its 2026 State Senate candidate grades.",
+          "quote": "District 8 Susan Mason Republican A District 10 Carmen Montano Democrat DNR",
+          "sourceUrl": "https://crpa.org/wp-content/uploads/2026/05/2026-VOTING-GUIDEDraft-State-Senate4.5.pdf",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "leginfo.legislature.ca.gov · childrennow.org · ashbyforsenate.com · sacramento.granicus.com · crpa.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

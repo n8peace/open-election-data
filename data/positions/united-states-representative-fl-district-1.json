@@ -1,0 +1,238 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 1",
+  "division": "fl/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Tyler L. Davis",
+      "party": "NPA",
+      "stances": {
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Davis says Social Security should remain available to current retirees while being made sustainable for future generations.",
+          "quote": "Americans deserve confidence that Social Security will remain available for current retirees while remaining sustainable for future generations.",
+          "sourceUrl": "https://www.tylerdavisforcongress.com/d1-dispatch/district-1-dispatch",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Davis supports increasing the housing supply and reducing regulatory barriers that raise construction costs.",
+          "quote": "Reducing unnecessary regulatory barriers that increase construction costs.",
+          "sourceUrl": "https://www.tylerdavisforcongress.com/how-ill-work-for-you",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Davis says public education should be strengthened through teacher support, career training, apprenticeships, and updated curricula.",
+          "quote": "I want to strengthen public education, expand career and technical training, support apprenticeships alongside college pathways, and improve financial, civic, and technology literacy so every American is prepared for the future.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020269",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Davis supports both community-policing partnerships and prevention measures such as early intervention and community engagement.",
+          "quote": "School safety should focus not only on responding to emergencies, but also on preventing them through stronger relationships, better communication, and early intervention.",
+          "sourceUrl": "https://www.tylerdavisforcongress.com/how-ill-work-for-you",
+          "agreement": "3/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Davis supports an all-of-the-above energy strategy centered on affordability, reliability and domestic energy independence.",
+          "quote": "America's energy future should be reliable, affordable, and resilient.",
+          "sourceUrl": "https://www.tylerdavisforcongress.com/how-ill-work-for-you",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Davis opposes unnecessary voting barriers and says any citizenship-verification process should not burden eligible voters.",
+          "quote": "I would oppose creating unnecessary barriers to voting. Any proof-of-citizenship requirement should be implemented in a way that protects election integrity without making it harder for eligible Americans to vote.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020269",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Jimmy Patronis",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He praised eliminating federal income taxes on tips and overtime so workers could keep more of their earnings.",
+          "quote": "As a former restaurateur, I know firsthand how significant eliminating taxes on tips and overtime will be for small businesses and the hardworking Americans they employ.",
+          "sourceUrl": "https://patronis.house.gov/media/press-releases/congressman-patronis-issues-statement-following-tuesday-s-state-of-the-union-address",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "He endorsed tariffs as a tool to revive domestic industry.",
+          "quote": "backing pro‑American tariffs to revitalize domestic industry, and securing stronger borders to protect our communities and uphold the rule of law.",
+          "sourceUrl": "https://patronis.house.gov/media/press-releases/congressman-patronis-issues-statement-following-tuesday-s-state-of-the-union-address",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "He backed a constitutional balanced-budget amendment and called for spending cuts.",
+          "quote": "Congressman Patronis is urging Congress to rein in reckless spending, pass a balanced budget amendment, and is calling on Americans to contact their representatives to demand fiscal responsibility.",
+          "sourceUrl": "https://patronis.house.gov/media/press-releases/congressman-patronis-issues-a-statement-on-democrats-blocking-balanced-budget-amendment",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "His official biography cites law-enforcement recruitment bonuses and pay raises as accomplishments during his Florida tenure.",
+          "quote": "During Patronis’ term, Florida made incredible progress in cutting taxes, paying down debt, and supporting law enforcement with recruitment bonuses and pay raises.",
+          "sourceUrl": "https://patronis.house.gov/about/meet-congressman-jimmy-patronis",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "As Florida CFO, he supported a new state immigration-enforcement board and using state investigators to identify unauthorized immigrants for federal and state officials.",
+          "quote": "This is the strongest illegal immigration legislation in the country, and it serves as a model for every other state to get on board.",
+          "sourceUrl": "https://www.myfloridacfo.com/news/patronis-archives/patronis-press-releases/details/2025/02/18/photo---broll-release-cfo-jimmy-patronis--florida-leads-on-border-security---illegal-immigration-crackdown",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He introduced legislation to repeal the federal restriction on civilian machine-gun purchase, ownership and transfer.",
+          "quote": "The Firearm Freedom Act sends a clear message that we will defend the Constitution, stand up for law-abiding gun owners, and protect the freedoms that make America exceptional. I’ll never back down from fighting for the Second Amendment.",
+          "sourceUrl": "https://patronis.house.gov/media/press-releases/congressman-patronis-introduces-the-firearm-freedom-act-to-defend-the-second-amendment",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "As a state representative, he co-introduced a bill tightening when abortions could be performed on viable fetuses and requiring hospital care.",
+          "quote": "Revises circumstances under which pregnancy in third trimester may be terminated; authorizes administrative discipline for violation of certain provisions by certain licensed professionals; requires physician to perform certain examinations to determine viability of fetus; prohibits abortion of viable fetus outside of hospital.",
+          "sourceUrl": "https://flsenate.gov/Session/Bill/2014/1047/ByVersion",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He supported expanded domestic oil and gas production while opposing leases inside an important military test range.",
+          "quote": "While we wholeheartedly support your push for American energy independence and expanded domestic oil and gas production",
+          "sourceUrl": "https://patronis.house.gov/sites/evo-subsites/patronis.house.gov/files/evo-media-document/preserving-the-eastern-gulf-test-and-training-range-from-drilling-rep-patronis.pdf",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Patronis co-sponsored the SAVE Act and voted for its passage, which required documentary proof of citizenship for federal voter registration.",
+          "quote": "H.R. 22 SAVE Act cosponsored this bill on Apr 10, 2025 · voted Yea Apr 10, 2025",
+          "sourceUrl": "https://www.votewire.com/rep/P000622",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Gay Valimont",
+      "party": "DEM",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Valimont supports unions, fair wages, safe working conditions, job training, and apprenticeships.",
+          "quote": "Gay supports unions, fair wages, and safe working conditions. She supports investing in job training and apprenticeships that prepare Floridians for good-paying careers.",
+          "sourceUrl": "https://www.gayforcongress.com/issues",
+          "agreement": "4/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Valimont says tariffs have harmed Florida farmers and favors policies producing fair prices for farmers and consumers.",
+          "quote": "Tariffs have hurt Florida farmers. Gay will fight for policies that support small and mid-sized farms, and ensure farmers and consumers pay fair prices.",
+          "sourceUrl": "https://www.gayforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Valimont pledges to oppose cuts or privatization of Social Security and Medicare.",
+          "quote": "Defend Social Security & Medicare: You paid into these programs. Gay will make sure Washington keeps its promise. No cuts, no privatization.",
+          "sourceUrl": "https://www.gayforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Valimont promises to protect federal grants and other funding on which public schools rely.",
+          "quote": "Gay will fight to protect the funding that Florida’s public schools depend on.",
+          "sourceUrl": "https://www.gayforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Valimont supports funding both law enforcement and community-based crime-prevention programs.",
+          "quote": "Gay supports funding for both law enforcement and community programs that prevent crime.",
+          "sourceUrl": "https://www.gayforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Valimont supports a legal path to citizenship, humane treatment of asylum seekers and Dreamers, and additional border-security resources.",
+          "quote": "Gay believes in creating a clear, legal path to citizenship to ensure our neighbors can fully contribute to our economy and communities.",
+          "sourceUrl": "https://www.gayforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Valimont supports universal background checks and federal red-flag laws.",
+          "quote": "Gay supports responsible gun ownership and the measures that keep guns out of dangerous hands, including universal background checks and federal red flag laws.",
+          "sourceUrl": "https://www.gayforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Valimont calls climate change an economic threat and supports investment in cleaner energy and resilient infrastructure.",
+          "quote": "Investing in resilient infrastructure, cleaner energy, and disaster preparedness will help reduce long-term costs and create jobs that strengthen communities.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020269",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Valimont says government should reduce barriers for eligible voters and strengthen the Voting Rights Act.",
+          "quote": "I believe voting is a fundamental right, and government should make it easier, not harder, for eligible citizens to participate.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020269",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "tylerdavisforcongress.com · onyourballot.vote411.org · patronis.house.gov · myfloridacfo.com · flsenate.gov · votewire.com · gayforcongress.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
