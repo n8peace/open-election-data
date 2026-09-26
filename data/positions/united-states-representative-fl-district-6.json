@@ -1,0 +1,276 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 6",
+  "division": "fl/cd-6",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Randy Fine",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Fine voted for the Working Families Tax Cuts Act and highlighted its tax reductions on tips and Social Security.",
+          "quote": "I voted YES to President Trump’s Working Families Tax Cuts Act, along with my fellow Republicans in Congress, which removes taxes on tips and Social Security, removes criminal aliens and dead people from Medicaid rolls, raises the average Floridian’s salary by nearly $7,000, and protects over 400,000 Florida jobs.",
+          "sourceUrl": "https://fine.house.gov/issues/issue/?IssueID=14891",
+          "agreement": "3/3"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Fine voted for HB 433, which restricted local governments from imposing their own minimum-wage and employee-benefit requirements on contractors.",
+          "quote": "Employment Regulations: Prohibiting political subdivisions from maintaining a minimum wage other than a state or federal minimum wage; prohibiting political subdivisions from controlling, affecting, or awarding preferences based on the wages or employment benefits of entities doing business with the political subdivision; revising and providing applicability; etc.",
+          "sourceUrl": "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=79034",
+          "agreement": "2/3"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "Fine supports reciprocal tariffs to limit cheap imports and encourage domestic manufacturing.",
+          "quote": "Stand with President Trump to enforce reciprocal tariffs that keep cheap imports out, bring manufacturing jobs back, and make sure American goods compete on the world stage.",
+          "sourceUrl": "https://fine.house.gov/issues/issue/?IssueID=14891",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Fine's campaign pledged to protect Social Security and Medicare.",
+          "quote": "That’s why President Trump picked Randy Fine. Together, they will secure the border, lower property taxes and protect Social Security and Medicare",
+          "sourceUrl": "https://rollcall.com/2025/04/01/florida-special-elections-republicans/",
+          "agreement": "2/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Fine requested $3 million in federal funding for infrastructure supporting approximately 60 housing units in Lady Lake.",
+          "quote": "The funding would be used to support the development of housing infrastructure for low-to-moderate income individuals and families, located near Rolling Acres Road.",
+          "sourceUrl": "https://fine.house.gov/uploadedfiles/rolling_acres_housing_expansion_financial_disclosure_and_federal_nexus_letter.pdf",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Fine advocates allowing families to choose among public, private, charter and home schools.",
+          "quote": "Families, not Washington, should decide the best path for their children, whether public, private, charter, or homeschool. Competition improves outcomes and ensures every child has a chance to succeed.",
+          "sourceUrl": "https://fine.house.gov/issues/issue/?IssueID=73",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Fine supports using additional federal and military resources to assist law enforcement.",
+          "quote": "Back the use of National Guardsmen and military forces to assist local and federal law enforcement in restoring order. Washington, D.C. is safer today because of these efforts.",
+          "sourceUrl": "https://fine.house.gov/issues/issue/?IssueID=14967",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Fine calls for completing the border wall and carrying out mass deportations.",
+          "quote": "Nearly 70 million Americans voted for President Trump’s plan to remove illegal aliens from our country and restore safety in American communities. Mass deportations mean mass deportations.",
+          "sourceUrl": "https://fine.house.gov/issues/issue/?IssueID=14966",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Fine's campaign says he will defend Second Amendment rights.",
+          "quote": "DEFEND the right to life and the ability to defend it via the Second Amendment.",
+          "sourceUrl": "https://www.voterandyfine.com/",
+          "agreement": "2/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Fine's campaign states that he will defend the right to life.",
+          "quote": "DEFEND the right to life and the ability to defend it via the Second Amendment.",
+          "sourceUrl": "https://www.voterandyfine.com/",
+          "agreement": "2/3"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Fine co-sponsored legislation requiring school sports teams to be designated according to students' biological sex.",
+          "quote": "General Bill by Secondary Education & Career Development Subcommittee and Tuck (CO-SPONSORS) Altman; Andrade; Borrero; Botana; Byrd; Fernandez-Barquin; Fine; Fischer; Giallombardo; Gregory; Harding; Latvala; Melo; Persons-Mulicka; Roach; Sabatini; Yarborough",
+          "sourceUrl": "https://flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=72710",
+          "agreement": "3/3"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "In a candidate questionnaire, Fine strongly disagreed with legalizing and regulating marijuana like tobacco and alcohol.",
+          "quote": "Marijuana should be legalized and regulated like tobacco and alcohol.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/31739/race/4519/election/518",
+          "agreement": "2/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Fine signed a letter supporting Medicaid work requirements intended to limit benefits to specified populations.",
+          "quote": "The One Big Beautiful Bill Act institutes common-sense work requirements that will increase labor participation and reserve Medicaid dollars for those who need them most: the elderly, pregnant women, disabled Americans and needy children.",
+          "sourceUrl": "https://webster.house.gov/_cache/files/f/6/f62507b4-075b-4eef-b027-f1eb7d2bb920/F8C5544BCBA0098E0854BFA3522CBC4753A73A7F8381D1685B33CA56217A2CD5.06.30.2025-florida-republican-delegation-open-letter.pdf",
+          "agreement": "2/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Fine prioritizes affordable energy and expanded domestic oil, gas, coal and renewable production over faster climate restrictions.",
+          "quote": "Ensure families and businesses have access to affordable energy that keeps the lights on and the economy strong. We don’t need Democrat-fueled energy poverty in America.",
+          "sourceUrl": "https://fine.house.gov/issues/issue/?IssueID=10177",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Fine demanded passage of legislation requiring photo identification and citizenship documentation while banning mail ballots.",
+          "quote": "All voters will be required to show photo ID when casting their vote.",
+          "sourceUrl": "https://fine.house.gov/news/documentsingle.aspx?DocumentID=206",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Michael Gist",
+      "party": "NPA",
+      "stances": {
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Gist says people in the country illegally should return home and apply through the legal immigration process.",
+          "quote": "If you want citizenship, return home and apply the right way. Remaining illegally means no Freedom Accounts and no services reserved for citizens and lawful residents.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=71841180&party=Dem",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Gist supports environmental protection but opposes climate policies that increase household energy bills.",
+          "quote": "I believe in cleaning the environment. I do not believe “climate change” is a reason to keep raising bills.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=71841180&party=Dem",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Gist supports requiring documentary proof of citizenship for voter registration while helping citizens replace missing documents.",
+          "quote": "Help citizens replace documents. Do not drop proof of citizenship.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=71841180&party=Dem",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Andrew Parrott",
+      "party": "LPF",
+      "stances": {
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Parrott strongly supports vouchers, charter schools, private schools, homeschooling and other forms of school choice.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/87355/race/22893/election/1275",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Parrott disagreed with redirecting police-department funding to community programs.",
+          "quote": "I support redirecting funds from police departments to community programs.\n\nDisagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/87355/race/22893/election/1275",
+          "agreement": "2/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Parrott strongly supports greater physical border security and policies intended to discourage migration.",
+          "quote": "Along with the physical security barriers policies that disincentivize migration will return immigration to a more manageable level.",
+          "sourceUrl": "https://ivoterguide.com/candidate/87355/race/22893/election/1275",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Parrott says gun rights should be limited only after conviction for a serious violent crime.",
+          "quote": "The only limit to your second amendment rights should come after you have been convicted of a serious violent crime.",
+          "sourceUrl": "https://ivoterguide.com/candidate/87355/race/22893/election/1275",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Parrott supports the decision overturning Roe, favors state control of abortion policy and says abortion should become culturally unthinkable.",
+          "quote": "The Supreme Court decision overturning Roe v Wade was correct. The abortion issue is not a delegated power of the United States and should be decided by the states. That being said, this is not a problem that can be solved legislatively. We can only create a culture where abortion is unthinkable.",
+          "sourceUrl": "https://ivoterguide.com/candidate/87355/race/22893/election/1275",
+          "agreement": "3/3"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Parrott strongly agrees that transgender women should be excluded from women's sports and female-designated spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/87355/race/22893/election/1275",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Parrott favors individually purchased portable private insurance and says he leans toward ending taxpayer-funded health coverage.",
+          "quote": "I lean most closely to D but I will expand on that. Your employer should also be barred from providing insurance as part of a compensation package. If you choose to have health insurance it should be as portable as your car insurance.",
+          "sourceUrl": "https://ivoterguide.com/candidate/87355/race/22893/election/1275",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Parrott rejects urgent climate-policy action and argues that higher taxes would not reduce temperatures.",
+          "quote": "If we want to reduce global emissions we should bring manufacturing home where we can keep a better watch on the production processes. Our paying more taxes won't change the temperature one way or the other.",
+          "sourceUrl": "https://ivoterguide.com/candidate/87355/race/22893/election/1275",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Parrott supports voter identification requirements and accurate voter-registration rolls.",
+          "quote": "In a smaller society where everyone knows each other it would be fine but we don't live there. We need proper ID and clean accurate voter registration rolls.",
+          "sourceUrl": "https://ivoterguide.com/candidate/87355/race/22893/election/1275",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Eric Yonce",
+      "party": "DEM",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Yonce says Congress should oppose tariffs that raise the cost of everyday goods for working families.",
+          "quote": "First, we need to stand up to reckless tariffs and unnecessary conflicts that drive up the cost of everyday goods.",
+          "sourceUrl": "https://floridapolitics.com/archives/812257-eric-yonce-what-critics-call-far-left-is-fighting-for-basic-human-needs-and-rights/",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "fine.house.gov · flhouse.gov · rollcall.com · voterandyfine.com · ivoterguide.com · webster.house.gov · onyourballot.vote411.org · floridapolitics.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

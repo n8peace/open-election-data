@@ -1,0 +1,300 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 4",
+  "division": "fl/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Aaron Bean",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Bean backed legislation that he described as providing tax relief to every American.",
+          "quote": "The One Big Beautiful Bill boosts wages, backs small businesses, bolsters border security, and brings tax relief to every American.",
+          "sourceUrl": "https://bean.house.gov/media/press-releases/bean-kick-one-big-beautiful-tour-across-northeast-florida",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Bean defended right-to-work laws that let workers choose whether to join or financially support a union.",
+          "quote": "To me, having a right to work, and I am proud to be from the free State of Florida is a choice that you can join a union or not join a union.",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg56070/pdf/CHRG-118hhrg56070.pdf",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Bean voted for a constitutional amendment requiring a balanced federal budget and limiting expenditures.",
+          "quote": "That’s why I voted in favor of the balanced budget amendment modeled after states like Florida.",
+          "sourceUrl": "https://bean.house.gov/media/press-releases/bean-votes-balanced-budget-amendment",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Bean cosponsored federal school-choice legislation and pledged to keep fighting for expanded educational choice.",
+          "quote": "I will continue to fight for school choice in Congress as a means to expand education freedom and opportunity for every student.",
+          "sourceUrl": "https://aaronbean.com/rep-aaron-bean-my-school-choice-bill-will-empower-children-and-families/",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Bean strongly opposed redirecting police funding to community programs.",
+          "quote": "I support redirecting funds from police departments to community programs.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/26621/race/5124/election/1254",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Bean called border security a top priority and said he supports immigration only through the existing legal system.",
+          "quote": "Securing our border is a top priority, and I only support legal immigration under our current system of citizenship for those that legally enter our country.",
+          "sourceUrl": "https://ivoterguide.com/candidate/26621/race/5124/election/1254",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Bean described himself as a strong Second Amendment supporter and favored enforcing existing laws against violent criminals.",
+          "quote": "I am a strong proponent of the Second Amendment and agree with the NRA stance that we work to keep guns out of the hands of violent criminals and enforce existing laws aimed at criminals who use guns to commit their crimes.",
+          "sourceUrl": "https://ivoterguide.com/candidate/26621/race/5124/election/1254",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Bean identified as pro-life while supporting exceptions for rape, incest, and the mother's life or health.",
+          "quote": "I am pro-life with exceptions for the life and health of the mother or in cases of rape or incest.",
+          "sourceUrl": "https://ivoterguide.com/candidate/26621/race/5124/election/1254",
+          "agreement": "7/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Bean strongly agreed that women's sports and spaces should exclude biological males.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/26621/race/5124/election/1254",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Bean supported retaining Medicare and Medicaid while opposing additional taxpayer-funded health-care programs.",
+          "quote": "C) Medicaid and Medicare should remain available, but no other taxpayer-funded programs are necessary.",
+          "sourceUrl": "https://ivoterguide.com/candidate/26621/race/5124/election/1254",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Bean strongly rejected urgent climate-policy action and separately identified natural gas and oil as the most reliable energy sources.",
+          "quote": "Man-made climate change is a global threat and requires urgent political action.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/26621/race/5124/election/1254",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Bean supported requiring photo identification and proof of citizenship for voter registration.",
+          "quote": "The SAVE America Act affirms this commonsense principle by requiring a photo ID and proof of citizenship for all new voter registrations.",
+          "sourceUrl": "https://bean.house.gov/media/press-releases/congressman-bean-stands-election-integrity",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "LaShonda \"L.J.\" Holloway",
+      "party": "DEM",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Holloway named a fair living wage as a legislative priority and highlighted that the federal minimum wage has not risen since 2009.",
+          "quote": "Plus, a FAIR LIVING WAGE ( the federal minimum wage has not been increased since 2009.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72691118",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Holloway says Social Security must be protected and strengthened.",
+          "quote": "Social Security must be protected and strengthened, so seniors and people with disabilities can retire with dignity and financial security after a lifetime of hard work.",
+          "sourceUrl": "https://www.hollowayforcongress.com/platform",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Holloway supports increasing the housing supply as part of making housing more affordable.",
+          "quote": "Affordable Housing strengthens communities by lowering rent, increasing the housing supply, making homeownership achievable for working families; plus, ensuring seniors, and veterans have safe, stable places to live.",
+          "sourceUrl": "https://www.hollowayforcongress.com/platform",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Holloway says the federal government should support public schools through equitable funding and other investments.",
+          "quote": "K-12: Support public schools through equitable funding, protect students’ civil rights, invest in teacher recruitment and retention, expand career and technical education, and ensure every student has access to technology, school meals, mental health services, and safe learning environments.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72691118",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "Holloway agreed with directing more funding to mental-health services, crime-prevention programs, and legal aid.",
+          "quote": "We will fight to allocate more funding to mental health services, crime prevention programs, and legal aid to help those in crisis.",
+          "sourceUrl": "https://www.duvaldems.org/candidate-questionnaire/",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Holloway supports earned citizenship, protections for Dreamers, expanded legal pathways, and enforcement focused on violent criminals.",
+          "quote": "The Government should strive to keep families together, expand legal pathways for workers, and focus enforcement on violent criminals, not hardworking families who contribute to our economy.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72691118",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Holloway agreed with increasing firearm background checks as part of a broader public-safety platform.",
+          "quote": "In addition to supporting efforts to protect the vulnerable from violence, to demilitarize our police and prisons, increased background checks for firearms, and decriminalize the possession of Marijuana.",
+          "sourceUrl": "https://www.duvaldems.org/candidate-questionnaire/",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Holloway supports expanding Medicare coverage and guaranteeing access to quality health care.",
+          "quote": "Affordable Healthcare should mean lower premiums, lower prescription drug costs, expanding Medicare coverage, and guaranteeing every American access to quality care as a basic right.",
+          "sourceUrl": "https://www.hollowayforcongress.com/platform",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Holloway supports reducing document-related voting barriers and backing the John R. Lewis Voting Rights Advancement Act.",
+          "quote": "Voting is a fundamental constitutional right, and no eligible citizen should lose that right because of paperwork or cost.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72691118",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Todd Schaefer",
+      "party": "NPA",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He proposes automatically adjusting the federal minimum wage each year for inflation.",
+          "quote": "No more waiting 15 years for Congress to act while costs explode. The federal minimum wage will adjust every year using the same Cost-of-Living Adjustment (COLA) formula we already trust for Social Security and military retirees.",
+          "sourceUrl": "https://www.toddforfl4.com/issues/fair-minimum-wage",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He accepts tariffs as a last resort to protect industry but warns that consumers pay them and that they can shelter companies from competition.",
+          "quote": "Tariffs are meant to be an action of last resort to protect American industry. To be clear: The American consumer pays the tariff, not the producer in the foreign country. The problem comes when tariffs are used to shield our corporations from ever having to reduce costs or innovate.",
+          "sourceUrl": "https://www.toddforfl4.com/issues/diplomatic-foreign-policy-solutions",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He says housing policy should support local supply and first-time buyers while curbing investor advantages.",
+          "quote": "We need to attack the root causes, restore balance between shelter and investment, and support local supply and first-time buyers through transparency and competition.",
+          "sourceUrl": "https://www.toddforfl4.com/issues/housing-affordability",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports a single-payer health-care system and argues that health care should not be profit-driven.",
+          "quote": "A single payer system would save up to $650 billion per year. The simple fact is: There should not be a profit motive in our healthcare system",
+          "sourceUrl": "https://www.toddforfl4.com/issues",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Mike Sell",
+      "party": "FFP",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Sell says the wealthiest should pay their fair share and supports a Universal Basic Income.",
+          "quote": "I would fight for higher wages, end the price gouging that drains families on rent, groceries, healthcare, prescriptions, and education, ask the wealthiest to pay their fair share, defend body autonomy, and champion a Universal Basic Income that gives people real security.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72691118",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Sell says he would fight for higher wages, but does not specify a minimum-wage level or union policy.",
+          "quote": "People are working harder than ever and still falling behind. I would fight for higher wages, end the price gouging that drains families on rent, groceries, healthcare, prescriptions, and education, ask the wealthiest to pay their fair share, defend body autonomy, and champion a Universal Basic Income that gives people real security.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72691118",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Sell called for strong, equitable funding of public schools and said public money should remain in public education.",
+          "quote": "At the K-12 level, it should fund public schools strongly and equitably, support teachers and pay them what the job is worth, and protect students with disabilities and those in underfunded districts, while leaving curriculum decisions to local communities.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020277",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Sell supports the Dream Act, an earned pathway for long-term residents, adequately funded immigration courts, and humane asylum processing.",
+          "quote": "Specifically: fund the immigration courts to clear the backlog that traps people in limbo for years, pass the Dream Act, create an earned pathway for people who have lived and contributed here for years, and process asylum seekers fairly and humanely.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72691118",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Sell says he would protect Medicaid, fully fund community health centers, and expand Medicare drug-price negotiation.",
+          "quote": "Mike would fully fund the community health centers that serve as the front door to care, protect Medicaid, and let Medicare negotiate the price of every covered drug.",
+          "sourceUrl": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-floridas-4th-congressional-district/",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Sell opposed allowing documentary requirements to become voting barriers and proposed free documents, flexible proof, and accessible services.",
+          "quote": "I would fight for free and fee-waived access to birth, marriage, and citizenship documents, federal funding so states can provide them at no charge, mobile and online services that reach people where they are, generous timelines, and accepting multiple forms of proof rather than one narrow document.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020277",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "bean.house.gov · govinfo.gov · aaronbean.com · ivoterguide.com · onyourballot.vote411.org · hollowayforcongress.com · duvaldems.org · toddforfl4.com · news4jax.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
