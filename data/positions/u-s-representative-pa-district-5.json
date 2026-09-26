@@ -1,0 +1,98 @@
+{
+  "office": "U.S. Representative",
+  "district": "PA District 5",
+  "division": "pa/cd-5",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Mary Gay Scanlon",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Scanlon said she supports a $15 minimum wage as a goal but wants to phase it in carefully.",
+          "quote": "I support the $15 minimum wage as a goal, but I do think we need to be careful and probably stage it so we don't spur inflation.",
+          "sourceUrl": "https://www.inquirer.com/philly/columnists/clout/congress-mary-gay-scanlon-pennsylvania-fifth-district-20180509.html",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Scanlon's issue page states she has worked to end family separation and to protect Dreamers and TPS holders.",
+          "quote": "cosponsored legislation to end inhumane family separation practices and will fight to protect Dreamers and TPS holders",
+          "sourceUrl": "https://scanlon.house.gov/issues/issue/?IssueID=14984",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Scanlon has cosponsored gun safety legislation to expand background checks and ban assault rifles.",
+          "quote": "She has cosponsored several pieces of legislation to close loopholes, improve background checks, ban assault rifles",
+          "sourceUrl": "https://scanlon.house.gov/issues/issue/?IssueID=14982",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "On the third anniversary of the Dobbs decision, Scanlon said people should be able to make their own reproductive health decisions without political interference.",
+          "quote": "Every person should have the power to make their own reproductive health care decisions, without interference from politicians.",
+          "sourceUrl": "https://scanlon.house.gov/news/documentsingle.aspx?DocumentID=1906",
+          "agreement": "5/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Scanlon voted for and cosponsored the MORE Act, saying federal marijuana policy is long overdue for change.",
+          "quote": "the time is long overdue for the federal government to bring its marijuana policy into the 21st century",
+          "sourceUrl": "https://www.marijuanamoment.net/congress-begins-debate-on-marijuana-legalization-bill-with-final-vote-expected-friday/",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Scanlon touted the Inflation Reduction Act's extension of Affordable Care Act subsidies to lower premium costs.",
+          "quote": "Lower health care costs: reducing Pennsylvanians' premium costs by extending ACA subsidies for three more years, locking in average annual savings of $800 per person.",
+          "sourceUrl": "https://scanlon.house.gov/news/documentsingle.aspx?DocumentID=411",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Scanlon voted for the Inflation Reduction Act and praised its clean-energy investments and climate action.",
+          "quote": "The Inflation Reduction Act is a historic victory for Pennsylvania families and for our planet: delivering the investments we need to keep down health care costs, reinvigorate American manufacturing, and drive our transition to a clean energy economy.",
+          "sourceUrl": "https://scanlon.house.gov/news/documentsingle.aspx?DocumentID=411",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Reacting to a White House order she called voter suppression, Scanlon said government should protect the freedom to vote.",
+          "quote": "As a government, we should always protect people's freedom to vote, not rip it away.",
+          "sourceUrl": "https://scanlon.house.gov/news/documentsingle.aspx?DocumentID=1881",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "inquirer.com · scanlon.house.gov · marijuanamoment.net",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

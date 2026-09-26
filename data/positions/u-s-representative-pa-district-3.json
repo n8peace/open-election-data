@@ -1,0 +1,33 @@
+{
+  "office": "U.S. Representative",
+  "district": "PA District 3",
+  "division": "pa/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Dennis Mahoney",
+      "party": "Independent",
+      "stances": {}
+    }
+  ],
+  "sources": "",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

@@ -1,0 +1,130 @@
+{
+  "office": "U.S. Representative",
+  "district": "PA District 1",
+  "division": "pa/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Brian Fitzpatrick",
+      "party": "Republican",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Fitzpatrick introduced the Fair Wage Act to raise the minimum wage indexed to local cost of living, voted for the Raise the Wage Act, and cosponsored the union-strengthening PRO Act.",
+          "quote": "every American deserves the dignity of fair pay for a hard day's work",
+          "sourceUrl": "https://fitzpatrick.house.gov/2025/5/putting-families-first-fitzpatrick-leads-fair-wage-act-to-match-pay-with-local-cost-of-living",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Fitzpatrick opposes broad tariffs and voted against and welcomed the striking down of blanket tariffs that raise consumer costs.",
+          "quote": "oppose any broad tariffs that raise costs on the American consumer",
+          "sourceUrl": "https://fitzpatrick.house.gov/2026/2/statement-on-supreme-court-s-tariff-decision",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Fitzpatrick says he is committed to protecting Social Security and Medicare benefits and will fight to protect and strengthen the programs.",
+          "quote": "it's your money, and I am absolutely committed to protecting the benefits you earned",
+          "sourceUrl": "https://www.brianfitzpatrick.com/issues/protecting-medicare-social-security/",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Fitzpatrick introduced legislation to fully fund police and penalize cities that defund them, opposing the defund movement.",
+          "quote": "I introduced the Defund Cities that Defund Our Police Act to make sure that our hero police officers are well-funded, not defunded",
+          "sourceUrl": "https://www.brianfitzpatrick.com/issues/supporting-our-veterans-and-law-enforcement/",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Fitzpatrick calls for a compromise that both tightens border security and protects Dreamers, backing each together rather than one alone.",
+          "quote": "We must find the compromise that both secures our borders and protects our Dreamers",
+          "sourceUrl": "https://www.brianfitzpatrick.com/issues/immigration-that-works-for-everyone/",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Fitzpatrick cosponsored and voted for universal background-check legislation and other gun-safety bills.",
+          "quote": "We shouldn't have to wait for tragedies to happen to respond",
+          "sourceUrl": "https://6abc.com/house-gun-reform-bill-pennsylvania-congressman-brian-fitzpatrick-laws-mass-shootings/11942758/",
+          "agreement": "4/10"
+        },
+        "abortion": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports Pennsylvania's law allowing abortion up to 24 weeks but has also voted for some federal abortion restrictions.",
+          "quote": "Fitzpatrick has said he supports Pennsylvania's current law permitting abortion up to 24 weeks and in cases after that when the mother's life and health are in danger.",
+          "sourceUrl": "https://whyy.org/articles/brian-fitzpatrick-ashley-ehasz-congressional-race-pennsylvania-elections-2024/",
+          "agreement": "4/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He voted for the Protection of Women and Girls in Sports Act to bar transgender girls from female school sports.",
+          "quote": "Rep. Brian Fitzpatrick (R-Bucks) voted with the GOP majority in favor of women-only sports competitions.",
+          "sourceUrl": "https://delawarevalleyjournal.com/delval-dems-vote-against-bill-to-keep-men-out-of-womens-sports/",
+          "agreement": "5/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "Fitzpatrick opposes recreational marijuana legalization, citing his law-enforcement experience, and voted against federal legalization bills.",
+          "quote": "I'm not a fan of recreational use and that is based on my experience",
+          "sourceUrl": "https://levittownnow.com/2016/04/24/race-congress-brian-fitzpatrick-levittown-native-paints-moderate/",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Fitzpatrick voted against ACA repeal and filed a discharge petition to extend Affordable Care Act premium subsidies.",
+          "quote": "millions of Americans will be hit with premium increases they simply cannot afford",
+          "sourceUrl": "https://fitzpatrick.house.gov/2025/12/fitzpatrick-files-discharge-petition-to-force-vote-on-bipartisan-bill-preventing-aca-premium-spikes",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Fitzpatrick says Congress must do more to combat climate change and backed carbon-fee legislation, arguing clean energy and growth are compatible.",
+          "quote": "We don't need to choose between clean energy and economic growth, or between combating climate change and creating jobs",
+          "sourceUrl": "https://www.brianfitzpatrick.com/issues/protecting-our-environment/",
+          "agreement": "6/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "Fitzpatrick proposed federal photo-ID and signature-match requirements and voted against the John Lewis Voting Rights Advancement Act.",
+          "quote": "creating a consistent photo identification requirement for voting in federal elections",
+          "sourceUrl": "https://fitzpatrick.house.gov/2025/1/fitzpatrick-sworn-in-introduces-sweeping-reform-package-and-renews-fight-to-restore-trust-in-america-s-institutions",
+          "agreement": "3/10"
+        }
+      }
+    }
+  ],
+  "sources": "fitzpatrick.house.gov · brianfitzpatrick.com · 6abc.com · whyy.org · delawarevalleyjournal.com · levittownnow.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

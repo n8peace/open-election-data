@@ -1,0 +1,176 @@
+{
+  "office": "U.S. Representative",
+  "district": "PA District 12",
+  "division": "pa/cd-12",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Summer Lee",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Lee co-introduced legislation to tax billionaires' wealth gains, saying the tax code favors the ultra-wealthy over working families.",
+          "quote": "For too long, our tax code has benefitted the ultra-wealthy while working families are struggling to stay afloat",
+          "sourceUrl": "https://summerlee.house.gov/newsroom/press-releases/rep-summer-lee-joins-colleagues-in-introducing-the-billionaire-income-tax-act",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Lee's official issues page backs the PRO Act and raising the minimum wage to strengthen the labor movement.",
+          "quote": "That means passing the PRO Act to protect the right to organize, raising the minimum wage, ensuring safe workplaces, and expanding access to good, clean, union jobs.",
+          "sourceUrl": "https://summerlee.house.gov/issues/workers-rights",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Lee said Democrats have an obligation to protect and expand Social Security and Medicare.",
+          "quote": "we as Democrats have an obligation to fight to not only protect Social Security and Medicare, but expand them.",
+          "sourceUrl": "https://summerlee.house.gov/newsroom/press-releases/summer-lee-delivers-scathing-explainer-on-republican-plan-to-gut-social-security-and-medicare-devastating-impact-to-nearly-3-million-pennsylvanians-and-100000-in-pa-12",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Lee condemned efforts to dismantle the Department of Education as an attack on students, families, and educators.",
+          "quote": "The Trump Administration's latest effort toward dismantling the Department of Education is a direct assault on the students, families, and educators who depend on its essential protections.",
+          "sourceUrl": "https://summerlee.house.gov/newsroom/press-releases/rep-summer-lee-condemns-trump-administration-s-move-to-dismantle-department-of-education",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "In a House Oversight hearing Lee opposed banning transgender youth from school sports consistent with their gender identity.",
+          "quote": "Forcing a transgender child to choose between living an authentic life and playing a game is cruel.",
+          "sourceUrl": "https://oversightdemocrats.house.gov/news/press-releases/vice-ranking-member-summer-lee-s-opening-statement-at-subcommittee-hearing",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Lee's official issues page endorses Medicare for All and describes health care as a fundamental human right.",
+          "quote": "Medicare For All wouldn't just save money, it would save lives.",
+          "sourceUrl": "https://summerlee.house.gov/issues/health-access-equity",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Lee supports a Green New Deal to move to a 100% clean and renewable energy economy.",
+          "quote": "I plan to continue to fight for a Green New Deal to transition to a 100% clean and renewable energy economy.",
+          "sourceUrl": "https://summerlee.house.gov/issues/environmental-justice",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Lee says Congress should make voting easier through automatic and same-day registration and nationwide early and mail voting.",
+          "quote": "Congress should be making it easier to vote, not harder, that means automatic voter registration, nationwide early and mail voting, federal holidays for election days, and same day voter registration.",
+          "sourceUrl": "https://summerlee.house.gov/issues/democracy-voting-rights",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "James Hayes",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Hayes says taxes should be lowered and the tax structure reassessed, treating income as the earner's money.",
+          "quote": "We should lower taxes and reassess our tax structure from the view that it is the earner's money and we need to prioritize the needs of the public to decide what each person's contribution should be.",
+          "sourceUrl": "https://ivoterguide.com/candidate/59502/race/153/election/1228",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Hayes supports expanding school choice so families can pick the best school for their children.",
+          "quote": "I support expanding school choice so families can find the best fit for their children",
+          "sourceUrl": "https://jameshayesforpa.com/policy-vision",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Hayes emphasizes supporting law enforcement and holding repeat violent offenders accountable, alongside crime prevention.",
+          "quote": "That means supporting law enforcement, investing in crime prevention, and making sure repeat violent offenders are held accountable.",
+          "sourceUrl": "https://jameshayesforpa.com/policy-vision",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Hayes calls citizenship a privilege and says immigration should be limited to people with a needed skill, education or experience.",
+          "quote": "Immigration should be limited to those that want to come because they believe they have a skill, education or experience that will help our country become better.",
+          "sourceUrl": "https://ivoterguide.com/candidate/59502/race/153/election/1228",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Asked what firearm restrictions are needed, Hayes answered none, but said gun crimes should be punished severely.",
+          "quote": "None. However, crimes that are committed using a gun should be dealt with on the most severe terms possible.",
+          "sourceUrl": "https://ivoterguide.com/candidate/59502/race/153/election/1228",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Hayes would allow abortion only in cases of rape, incest, or when the mother's life is at risk.",
+          "quote": "Rape, incest or if the life of the mother is at risk.",
+          "sourceUrl": "https://ivoterguide.com/candidate/59502/race/153/election/1228",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Hayes says people born male should not play in women's sports or use women's spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces",
+          "sourceUrl": "https://ivoterguide.com/candidate/59502/race/153/election/1228",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Hayes says he has come to support insurance options outside private insurance to help small businesses and gig workers.",
+          "quote": "I believe that having options outside of private insurance can help small businesses and people involved in the gig economy.",
+          "sourceUrl": "https://ivoterguide.com/candidate/59502/race/153/election/1228",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Hayes touts natural gas as the most secure, reliable and affordable energy source and backs an all-of-the-above strategy.",
+          "quote": "I believe that natural gas has the capability to be the most secure, reliable and affordable source of energy in the U.S.",
+          "sourceUrl": "https://ivoterguide.com/candidate/59502/race/153/election/1228",
+          "agreement": "9/10"
+        }
+      }
+    }
+  ],
+  "sources": "summerlee.house.gov · oversightdemocrats.house.gov · ivoterguide.com · jameshayesforpa.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
