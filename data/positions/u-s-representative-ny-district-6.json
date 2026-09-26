@@ -1,0 +1,122 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 6",
+  "division": "ny/cd-6",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Grace Meng",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Meng backed One Fair Wage to end the sub-minimum tipped wage and support restaurant workers.",
+          "quote": "We need to pass One Fair Wage to help the industry recover from the pandemic and to thrive.",
+          "sourceUrl": "https://qns.com/2022/04/meng-fair-wage-legislation-elmhurst-restaurant/",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Meng says she will oppose any cuts to Social Security and Medicare and work to preserve seniors' earned benefits.",
+          "quote": "I will continue to oppose cuts to these programs in any form.",
+          "sourceUrl": "https://meng.house.gov/issues/seniors-issues",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Meng backs housing as a human right and has introduced bills funding affordable housing infrastructure.",
+          "quote": "Grace is fighting for housing justice for everyone in Queens, because she believes everyone deserves affordable, clean, and safe housing.",
+          "sourceUrl": "https://www.gracefornewyork.com/issues",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Meng says she values the public education system and opposes efforts to marginalize it.",
+          "quote": "As a product of the New York City schools, I appreciate the value of a strong public education system and oppose attempts to marginalize it.",
+          "sourceUrl": "https://meng.house.gov/issues/education",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Meng introduced legislation to update the immigration registry to create a path to permanent legal status for millions of immigrants.",
+          "quote": "This nation was built by immigrants and we must continue to make sure that all who want to become new Americans have that opportunity.",
+          "sourceUrl": "https://meng.house.gov/media-center/press-releases/meng-and-colleagues-introduce-legislation-to-update-the-registry",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Meng called the Senate's failure to expand gun background checks a major setback and champions universal background checks.",
+          "quote": "The Senate's rejection of expanded background checks for gun purchases is extremely disappointing, and it's a major setback in our efforts to keep guns out of the hands of those who should not possess them.",
+          "sourceUrl": "https://meng.house.gov/media-center/press-releases/meng-issues-statement-on-senates-defeat-of-background-checks-for-gun",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Meng denounced the overturning of Roe v. Wade and has pushed to codify abortion rights nationwide.",
+          "quote": "The decision to strike down Roe v. Wade is outrageous, unacceptable and unconscionable, and it's an all-out assault on reproductive freedom.",
+          "sourceUrl": "https://meng.house.gov/media-center/press-releases/meng-denounces-supreme-court-decision-overturning-roe-v-wade",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Meng, a Vice Chair of the LGBTQ+ Equality Caucus and Equality Act cosponsor, affirms the rights of LGBTQ+ people including transgender individuals.",
+          "quote": "Pride Month allows people to bravely embrace their identities that have for too long been marginalized, attacked, and disgraced.",
+          "sourceUrl": "https://meng.house.gov/media-center/press-releases/meng-statement-on-pride-month",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Meng, a Medicare for All Caucus member, says affordable health care is a right, not a privilege.",
+          "quote": "I believe that affordable health care is not a privilege, but a right.",
+          "sourceUrl": "https://meng.house.gov/issues/local-issues",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Meng introduced legislation to reduce atmospheric carbon and warns of the consequences of climate change.",
+          "quote": "We must take action to reduce the amount of carbon in our atmosphere.",
+          "sourceUrl": "https://meng.house.gov/media-center/press-releases/meng-introduces-legislation-to-create-a-prize-competition-to-reduce",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Meng cosponsored the John R. Lewis Voting Rights Advancement Act to strengthen protections against voting discrimination.",
+          "quote": "I am proud to co-sponsor the John R. Lewis Voting Rights Advancement Act to ensure our country's system of governance, by the people and for the people, endures for generations to come.",
+          "sourceUrl": "https://sewell.house.gov/2025/3/rep-sewell-introduces-the-john-r-lewis-voting-rights-advancement-act-ahead-of-the-60th-anniversary-of-bloody-sunday",
+          "agreement": "7/10"
+        }
+      }
+    }
+  ],
+  "sources": "qns.com · meng.house.gov · gracefornewyork.com · sewell.house.gov",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

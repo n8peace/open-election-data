@@ -1,0 +1,114 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 12",
+  "division": "ny/cd-12",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Micah C. Lasher",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Lasher's platform calls for repealing tax cuts for the wealthy and restoring funding to social safety-net programs.",
+          "quote": "Repeal Trump's tax breaks to the rich and restore devastating cuts to the social safety net.",
+          "sourceUrl": "https://micahlasher.com/platform-and-policies/",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports raising and indexing the federal minimum wage and co-sponsoring the PRO Act to make it easier to unionize.",
+          "quote": "Raise the minimum wage across the nation and index it to inflation.",
+          "sourceUrl": "https://micahlasher.com/platform-and-policies/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says he will oppose cuts to Social Security and reject the idea that it drives the federal deficit.",
+          "quote": "In Congress, I will strongly oppose Republican cuts to Social Security and will push back against the false narrative that Social Security is a driver of the deficit.",
+          "sourceUrl": "https://www.amny.com/sponsored/your-vote-2026-district-12-meet-micah-lasher/",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He wrote New York legislation to expand housing supply and loosen zoning, and pledges to use federal dollars to encourage pro-housing policies.",
+          "quote": "Leverage federal dollars to spur pro-housing policies at the state and local level.",
+          "sourceUrl": "https://micahlasher.com/platform-and-policies/",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He pledges to oppose dismantling the Department of Education and to reverse federal cuts to public education funding.",
+          "quote": "Work to reverse federal cuts to education funding across the board.",
+          "sourceUrl": "https://micahlasher.com/platform-and-policies/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He calls for abolishing ICE and expanding protections for immigrants.",
+          "quote": "Fight to abolish ICE.",
+          "sourceUrl": "https://micahlasher.com/platform-and-policies/",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He supports universal background checks and reinstating the assault weapons ban, and sits on Everytown's board.",
+          "quote": "Vote for universal background checks for all gun sales and transfers.",
+          "sourceUrl": "https://micahlasher.com/platform-and-policies/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He pledges to pass the Women's Health Protection Act to restore nationwide abortion rights.",
+          "quote": "Fight to pass the Women's Health Protection Act to restore abortion rights nationwide.",
+          "sourceUrl": "https://micahlasher.com/platform-and-policies/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports Medicare for All or a similar plan ensuring universal coverage.",
+          "quote": "Push to pass Medicare for All, or a similar plan that ensures universal care.",
+          "sourceUrl": "https://micahlasher.com/platform-and-policies/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He backs a clean energy transition and holding polluters accountable, and authored a first-in-nation gas ban in new buildings.",
+          "quote": "Prioritize supporting our clean energy transition and hold big polluters accountable.",
+          "sourceUrl": "https://micahlasher.com/platform-and-policies/",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "micahlasher.com · amny.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

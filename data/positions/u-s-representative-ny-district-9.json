@@ -1,0 +1,90 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 9",
+  "division": "ny/cd-9",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Yvette D. Clarke",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Clarke has repeatedly backed raising the federal minimum wage, arguing it would lift millions out of poverty.",
+          "quote": "We have the ability to increase wages for twenty-five million Americans, allow several million Americans to escape from poverty",
+          "sourceUrl": "https://clarke.house.gov/congresswoman-clarkes-statement-on-raising-the-minimum-wage",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Clarke has pledged to protect Social Security benefits for seniors.",
+          "quote": "I will continue to fight on behalf of our senior citizens who depend on social security to survive, particularly during these rough economic times,",
+          "sourceUrl": "https://clarke.house.gov/rep-yvette-d-clarke-fights-to-provide-social-security-benefits-for/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Clarke prioritizes protecting DACA recipients and comprehensive reform that welcomes immigrants.",
+          "quote": "We are a nation of immigrants, and our policies must empower those looking to become part of the American dream.",
+          "sourceUrl": "https://voteyvette.com/issues/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Clarke opposed H.R. 3, describing restrictions on abortion coverage as an attack on reproductive rights.",
+          "quote": "Once again, this Republican led Congress has continued its blatant attack on reproductive rights.",
+          "sourceUrl": "https://clarke.house.gov/rep-yvette-d-clarke-s-statement-on-hr-3/",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Clarke supports LGBTQ+ rights and the Equality Act, which extends protections based on gender identity.",
+          "quote": "Regardless of who you love or how you identify, Congresswoman Clarke is a strong supporter of LGBTQ+ rights.",
+          "sourceUrl": "https://voteyvette.com/issues/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Clarke champions Medicare for All and calls health care a right rather than a privilege.",
+          "quote": "Access to affordable and adequate healthcare should be a right for all Americans - not a privilege.",
+          "sourceUrl": "https://voteyvette.com/issues/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Clarke voted for the Freedom to Vote Act and John R. Lewis Voting Rights Advancement Act to expand voting access.",
+          "quote": "I proudly voted for the Freedom to Vote Act and the John R. Lewis Voting Rights Advancement Act because voting is the most solemn civic duty available to Americans",
+          "sourceUrl": "https://clarke.house.gov/clarke-issues-statement-on-her-votes-for-the-freedom-to-vote-act-and-the-john-r-lewis-voting-rights-advancement-act/",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "clarke.house.gov · voteyvette.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

@@ -1,0 +1,74 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 4",
+  "division": "ny/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Laura A. Gillen",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Leads a bipartisan bill to restore the state and local tax (SALT) deduction and calls cutting taxes for Long Islanders a top priority.",
+          "quote": "lowering costs and cutting taxes for hardworking Long Islanders is a top priority of mine in Congress.",
+          "sourceUrl": "https://gillen.house.gov/lowercosts",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Gillen made voting for the Laken Riley Act her first act in Congress and has pledged to push for tougher enforcement of immigration laws.",
+          "quote": "I was proud to vote today for a bipartisan bill to keep our communities safe and deter crime.",
+          "sourceUrl": "https://gillen.house.gov/media/press-releases/gillen-statement-house-passage-laken-riley-act",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Backs comprehensive background checks and pledged to continue former Rep. Carolyn McCarthy's work against gun violence.",
+          "quote": "We must honor her legacy by continuing her life's work to keep our communities and our children safe from the scourge of gun violence.",
+          "sourceUrl": "https://gillen.house.gov/media/press-releases/gillen-statement-passing-carolyn-mccarthy",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Pledged to restore and codify reproductive freedom nationwide and criticized efforts to pass a national abortion ban.",
+          "quote": "Since the disastrous Dobbs decision, we've seen nothing short of an all-out assault on our reproductive rights and freedoms, including Republican attempts to pass a national abortion ban while rolling back access to contraception and IVF.",
+          "sourceUrl": "https://gillen.house.gov/media/press-releases/gillen-statement-marking-52nd-anniversary-roe-v-wade",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Opposed Republican efforts to cut Medicaid and helped pass an extension of ACA premium tax credits to protect coverage.",
+          "quote": "These cuts would devastate Nassau County: turning out seniors from nursing homes, raising costs for working families, and ripping veterans away from their health care.",
+          "sourceUrl": "https://gillen.house.gov/media/press-releases/gillen-blasts-gop-attempts-slash-medicaid",
+          "agreement": "8/10"
+        }
+      }
+    }
+  ],
+  "sources": "gillen.house.gov",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
