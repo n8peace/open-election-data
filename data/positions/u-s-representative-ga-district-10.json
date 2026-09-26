@@ -1,0 +1,112 @@
+{
+  "office": "U.S. Representative",
+  "district": "GA District 10",
+  "division": "ga/cd-10",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Houston Gaines",
+      "party": "Republican",
+      "stances": {
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "Gaines says federal debt is out of control and calls for continued spending cuts.",
+          "quote": "Our country’s debt is out of control. DOGE continues to root out wasteful spending and corruption in our federal government. We must keep doing so and restore fiscal sanity before it’s too late.",
+          "sourceUrl": "https://houstongaines.com/issues/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Gaines calls for investment in law enforcement and stronger crime enforcement.",
+          "quote": "We need to invest in public safety, help law enforcement and crack down on crime.",
+          "sourceUrl": "https://houstongaines.com/issues/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Gaines supports continued deportations, border enforcement, and cooperation with ICE.",
+          "quote": "Deportations must continue, and the border must stay secure.",
+          "sourceUrl": "https://houstongaines.com/issues/",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Gaines cites his vote for Georgia's Heartbeat Bill and promises to support defunding Planned Parenthood.",
+          "quote": "He voted for the Heartbeat Bill, and he’ll join President Trump and Congress to defund planned parenthood.",
+          "sourceUrl": "https://houstongaines.com/issues/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Pamela Delancy",
+      "party": "Democrat",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She proposes a federal living-wage floor that would automatically rise with inflation.",
+          "quote": "First, it establishes a federal living wage indexed to inflation while creating a National Care and Infrastructure Corps that expands employment opportunities in healthcare support, elder care, childcare, public health, and community infrastructure.",
+          "sourceUrl": "https://www.votepamdelancy.com/images/149430/The_Real_Deal_Act_of_the_21st_Century.pdf",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She proposes protecting Social Security benefits, changing payroll-tax financing and avoiding a higher retirement age.",
+          "quote": "Second, it strengthens Social Security by modernizing payroll tax financing, including reforms to the current taxable wage cap, while protecting earned benefits and avoiding increases in the retirement age.",
+          "sourceUrl": "https://www.votepamdelancy.com/images/149430/The_Real_Deal_Act_of_the_21st_Century.pdf",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "DeLancy describes prevention, accountability and community partnership as central to public safety.",
+          "quote": "Public safety is about prevention, accountability, and partnership, and together we can build communities where everyone feels secure and protected.",
+          "sourceUrl": "https://www.votepamdelancy.com/issues",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "DeLancy supports border security alongside asylum reform and legal pathways for work and family unity.",
+          "quote": "I support comprehensive reform that strengthens border security, repair the asylum process, and create a clear, legal pathway for work and maintain family unity.",
+          "sourceUrl": "https://www.votepamdelancy.com/issues",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She proposes transitioning toward universal health-care financing and a nationally administered framework for states that have not expanded Medicaid.",
+          "quote": "Fourth, it transitions the nation toward a universal healthcare financing model that emphasizes preventive care, administrative efficiency, and equitable access regardless of geography or employment status.",
+          "sourceUrl": "https://www.votepamdelancy.com/images/149430/The_Real_Deal_Act_of_the_21st_Century.pdf",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "houstongaines.com · votepamdelancy.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

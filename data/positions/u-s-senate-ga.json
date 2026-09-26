@@ -1,0 +1,342 @@
+{
+  "office": "U.S. Senate",
+  "district": "GA",
+  "division": "ga/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Mike Collins",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Collins said he voted for tax relief for working- and middle-class Americans and to eliminate taxes on tips and overtime.",
+          "quote": "I voted to deliver historic tax relief to working- and middle-class Americans, eliminate tax on tips and overtime, and put more money back into your pocket.",
+          "sourceUrl": "https://mikecollinsga.com/press/mike-collins-wins-u-s-senate-primary-advances-to-general-election-against-jon-ossoff/",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Collins co-sponsored the National Right-to-Work Act, which would let employees refrain from joining or assisting unions.",
+          "quote": "To preserve and protect the free choice of individual employees to form, join, or assist labor organizations, or to refrain from such activities.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr1232ih",
+          "agreement": "4/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "Collins voted against H.J.Res. 72, which sought to end the national emergency used to impose tariffs on Canadian goods.",
+          "quote": "Relating to a national emergency by the President on February 1, 2025",
+          "sourceUrl": "https://clerk.house.gov/Votes/202665",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "Collins voted for a proposed constitutional amendment requiring the federal government to maintain a balanced budget.",
+          "quote": "Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federal Government",
+          "sourceUrl": "https://clerk.house.gov/Votes/202695",
+          "agreement": "3/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Collins says insufficient supply drives housing costs and supports streamlining federal permitting for homebuilding.",
+          "quote": "Housing costs are too high because supply is too low and demand has exploded.",
+          "sourceUrl": "https://mikecollinsga.com/issues/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "Collins said the House majority had acted in support of parents during National School Choice Week.",
+          "quote": "The new Republican Majority in the House has been hard at work delivering for the American people and we have already passed bills to protect our Strategic Petroleum Reserve, prioritize acquired skills in federal hiring rather than college degrees, and stand with parents during this National School Choice week.",
+          "sourceUrl": "https://collinsforms.house.gov/news/email/show.aspx?ID=SOEHLLH6DCNCK",
+          "agreement": "3/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Collins called for a Justice Department task force and incarceration of people involved in staged-accident fraud schemes.",
+          "quote": "These fraudsters and their co-conspirators need to be held accountable for their actions and put in jail",
+          "sourceUrl": "https://collins.house.gov/media/press-releases/rep-mike-collins-leads-letter-calling-department-justice-establish-task-force",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Collins sponsored the Laken Riley Act, which expanded detention and removal requirements for certain immigrants accused of crimes.",
+          "quote": "the President signed into law the Laken Riley Act to protect our families and communities from violent criminals who are here illegally.",
+          "sourceUrl": "https://mikecollinsga.com/press/mike-collins-wins-u-s-senate-primary-advances-to-general-election-against-jon-ossoff/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Collins said he was absolutely opposed to red-flag laws and rejected changing the Second Amendment.",
+          "quote": "I AM ABSOLUTELY OPPOSED TO RED FLAG LAWS. THE SECOND AMENDMENT IS WRITTEN RIGHT. THERE IS NO CHANGING IT.",
+          "sourceUrl": "https://www.pbs.org/video/congressional-district-10-r-primary-runoff-debate-xuzflz/",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Collins called himself unapologetically anti-abortion and voted for the Born-Alive Abortion Survivors Protection Act.",
+          "quote": "I am unapologetically pro-life. All human beings have a right to life, including unborn children, and I am thrilled that in our first week the new House Republican majority has voted to protect the most innocent and defenseless among us.",
+          "sourceUrl": "https://collins.house.gov/media/press-releases/collins-votes-protect-children-and-condemn-violence-against-pro-life",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Collins criticized allowing transgender women and girls to compete in female sports.",
+          "quote": "Jon Ossoff voted not once, not twice, but three times to let men compete against girls in sports",
+          "sourceUrl": "https://mikecollinsga.com/press/mike-collins-wins-u-s-senate-primary-advances-to-general-election-against-jon-ossoff/",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Collins proposed lowering health-care costs through price transparency and expanded health savings accounts.",
+          "quote": "Third, lower childcare and healthcare costs by creating more price transparency, lowering prescription drug prices, expanding health savings accounts",
+          "sourceUrl": "https://mikecollinsga.com/press/mike-collins-wins-u-s-senate-primary-advances-to-general-election-against-jon-ossoff/",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Collins supports an all-of-the-above policy intended to increase energy supply and lower costs.",
+          "quote": "We need an all the above approach to energy which will lower costs for every Georgian, boost our supply, and unleash economic activity.",
+          "sourceUrl": "https://mikecollinsga.com/press/mike-collins-wins-u-s-senate-primary-advances-to-general-election-against-jon-ossoff/",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Collins cosponsored and voted for the SAVE America Act, which imposed stricter proof-of-citizenship requirements for federal voter registration.",
+          "quote": "I am proud to have cosponsored and passed the SAVE America Act to restore Americans’ faith in democracy",
+          "sourceUrl": "https://collins.house.gov/media/press-releases/rep-mike-collins-celebrates-house-passage-save-america-act",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Jon Ossoff",
+      "party": "Democrat",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He proposed extending health-insurance assistance instead of enacting tax cuts for wealthy taxpayers alongside Medicaid and clean-energy cuts.",
+          "quote": "Instead of adding trillions to the debt in tax cuts for the rich while destroying Medicaid and renewable energy, I propose we help our constituents afford health insurance",
+          "sourceUrl": "https://electjon.com/salon-jon-ossoff-bets-his-2026-race-on-protecting-aca-subsidies/",
+          "agreement": "3/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Ossoff co-sponsored legislation raising the federal minimum wage to $15 and has also supported stronger collective-bargaining rights.",
+          "quote": "My colleagues and I have introduced this legislation raising the minimum wage to $15 an hour because Georgia’s working families are struggling to pay the bills, and they deserve a livable wage for an honest day’s work",
+          "sourceUrl": "https://www.ossoff.senate.gov/es/press-releases/georgia-sens-jon-ossoff-and-rev-raphael-warnock-join-fellow-senators-to-introduce-legislation-to-raise-minimum-wage-to-15-2/",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Ossoff has opposed broad tariff policies that he says raise prices and hurt small businesses.",
+          "quote": "I’ve championed Georgia’s economic development and worked to protect the historic investments in Georgia’s infrastructure delivered through the bipartisan infrastructure law, while opposing the costly and self-destructive trade wars that are hurting small businesses and driving up prices.",
+          "sourceUrl": "https://www.ossoff.senate.gov/five-year-report/",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Ossoff helped enact legislation restoring or increasing Social Security benefits for affected public employees.",
+          "quote": "That’s why I worked to successfully pass into law the bipartisan Social Security Fairness Act to repeal these unfair policies that risk hurting teachers, firefighters, and law enforcement officers and ensure these public servants receive the Social Security benefits they’ve earned through their work.",
+          "sourceUrl": "https://www.ossoff.senate.gov/press-releases/bipartisan-bill-championed-by-sen-ossoff-becomes-law-to-increase-retirement-benefits-for-georgia-teachers-first-responders/",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Ossoff has pursued federal and local strategies and funding to increase Georgia's affordable-housing supply.",
+          "quote": "I’d like to secure a commitment from you and Mr. Colon that you will come to the State of Georgia, that you will visit, at minimum, the city of Atlanta and the city of Savannah and the city of Columbus to meet with local elected officials and leaders and my team to help chart a course, a strategy, for increasing the availability of affordable housing in our state working with Federal partners.",
+          "sourceUrl": "https://www.ossoff.senate.gov/press-releases/sen-ossoff-working-to-boost-supply-of-affordable-housing-in-savannah/",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Ossoff cast a decisive vote for legislation providing more than $4 billion to Georgia public schools.",
+          "quote": "The bill provides over $4 billion to Georgia’s public schools and $8 billion to state and local government in Georgia alone, double what Georgia received in the CARES Act — to save jobs, boost economic growth, and maintain vital public services.",
+          "sourceUrl": "https://www.ossoff.senate.gov/press-releases/sens-ossoff-warnock-cast-decisive-votes-to-pass-historic-covid-19-relief-bill/",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Ossoff has called for both stronger border security and legal status for undocumented people who otherwise obey the law.",
+          "quote": "Democrats are afraid to talk about border security, and Republicans are afraid to talk about establishing a path to legal status for the folks who are here and otherwise follow the law who are part of our society",
+          "sourceUrl": "https://www.ossoff.senate.gov/press-releases/sen-ossoff-slams-trumps-attempt-to-sabotage-bipartisan-border-security-negotiations/",
+          "agreement": "3/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Ossoff voted for legislation strengthening firearm background checks and restrictions on gun access by domestic abusers.",
+          "quote": "The bipartisan legislation we passed tonight will save lives by cracking down on illegal gun trafficking, by strengthening background checks, by keeping guns out of the hands of domestic abusers, and by strengthening mental health care programs.",
+          "sourceUrl": "https://www.ossoff.senate.gov/press-releases/sen-ossoff-statement-on-bipartisan-action-to-prevent-gun-violence/",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He opposes Georgia’s six-week abortion ban and says he will continue working to expand access to care.",
+          "quote": "I am grateful for her support and friendship and will continue fighting alongside Shanette to expand women’s access to care and prevent more needless injuries and deaths.",
+          "sourceUrl": "https://electjon.com/sen-ossoff-receives-endorsement-from-shanette-williams-mother-to-amber-thurman/",
+          "agreement": "3/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "In a 2026 letter, Ossoff supported the NCAA’s approach of basing college-team eligibility on biological sex while protecting students from bullying and discrimination.",
+          "quote": "I support the Association’s thoughtful approach establishing that team eligibility in college athletics will be based on biological sex rather than gender identity while ensuring all student athletes are protected from mean-spirited bullying or discrimination.",
+          "sourceUrl": "https://www.ossoff.senate.gov/wp-content/uploads/2026/03/26.03.27_Sen.-Ossoff-Letter-to-NCAA.pdf",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Ossoff introduced legislation incentivizing Georgia and other states to expand Medicaid.",
+          "quote": "Medicaid expansion would save Georgians’ lives, make health care more affordable for Georgia families, and prevent the closure of Georgia’s clinics and hospitals.",
+          "sourceUrl": "https://www.ossoff.senate.gov/press-releases/senators-jon-ossoff-rev-warnock-introduce-legislation-to-promote-health-care-access-bring-critical-federal-dollars-to-georgia-2/",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Ossoff sponsored solar-manufacturing legislation and called for transitioning from fossil fuels to renewable energy.",
+          "quote": "We have a generational and historic obligation to address climate change and transition from fossil fuel combustion to clean and renewable energy.",
+          "sourceUrl": "https://www.ossoff.senate.gov/press-releases/news-u-s-house-passes-sen-ossoffs-solar-energy-manufacturing-for-america-act/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Ossoff introduced legislation allowing voters to challenge government policies that make voting harder.",
+          "quote": "With voting rights under attack in Georgia and across the country, I am reintroducing my legislation to empower voters to challenge in court any action taken by a state or local government that makes it harder to vote, and force that state or that locality to demonstrate that the restrictions serve some governmental purpose and are the least restrictive means of doing so",
+          "sourceUrl": "https://www.ossoff.senate.gov/press-releases/sen-ossoff-reintroduces-right-to-vote-act/",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Allen Buckley",
+      "party": "Libertarian",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Buckley proposes tying tax rates to spending so that lower federal spending produces lower taxes.",
+          "quote": "If the tax system ties rates to spending to produce balanced budgets, the less spending the less taxes.",
+          "sourceUrl": "https://allenbuckleyforsenate.com/why-vote-for-me/fix-the-finances/",
+          "agreement": "6/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Buckley proposed lowering the minimum wage for manufacturing jobs while using tax credits and employer profit-sharing to guarantee workers at least the existing minimum.",
+          "quote": "Reduce manufacturing minimum wage, but increase the earned income credit to guarantee minimum wage, if the employer agrees to share profits in a substantial manner.",
+          "sourceUrl": "https://www.ontheissues.org/domestic/Allen_Buckley_Jobs.htm",
+          "agreement": "5/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Buckley says free trade should generally prevail, with tariffs used only in response to unfair foreign practices.",
+          "quote": "Free Trade needs to be the general rule. Tariffs should exist only as a counter to a foreign country’s unfair practices.",
+          "sourceUrl": "https://allenbuckleyforsenate.com/why-vote-for-me/all-solutions-and-positions/",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Buckley proposes raising the Social Security retirement age to 70 for people born after 1972 and reducing some future benefits.",
+          "quote": "Because life expectancy has increased dramatically since 1940, but the Social Security normal retirement age has increased only 2 years, in half-year increments, moves the Social Security normal retirement age for people born after 1967 to age 70.",
+          "sourceUrl": "https://allenbuckleyforsenate.com/economy/summary-of-the-financial-sanity-act-of-2027/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Buckley supports border enforcement and deporting people with felony convictions while opposing mass deportations and offering legal status or citizenship paths to other undocumented immigrants.",
+          "quote": "For those here illegally, I’m against ICE mass deportations. But, criminals with felony convictions should be deported. People brought here as children should be allowed to stay, and be granted a path to U.S. citizenship.",
+          "sourceUrl": "https://allenbuckleyforsenate.com/why-vote-for-me/immigration-reform-proposal/",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Buckley says the right to bear arms should remain but supports court-ordered restrictions for dangerous people and domestic-dispute cases.",
+          "quote": "The right to bear arms exists and should remain, but mentally unstable people who pose a risk of harm to anyone and those involved in domestic disputes should have their right curtailed (if a judge so rules). State laws can and should exist to require owners to be responsible.",
+          "sourceUrl": "https://allenbuckleyforsenate.com/why-vote-for-me/all-solutions-and-positions/",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Buckley prefers no federal regulation or taxpayer funding of abortion but accepts state regulation as the next-best approach.",
+          "quote": "The best approach to abortion is to keep the federal government (and taxpayer money) out. The next best thing is state regulation (i.e., the status quo).",
+          "sourceUrl": "https://allenbuckleyforsenate.com/why-vote-for-me/all-solutions-and-positions/",
+          "agreement": "6/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Buckley said marijuana should be legal and that the federal government should leave drug policy to the states.",
+          "quote": "The country is gradually moving towards the legalization of marijuana. When I first ran in 2004 that was my position, to make marijuana legal.",
+          "sourceUrl": "https://ontheissues.org/Archive/Senate_GA_Drugs.htm",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Buckley favors a competitive health-care market over a government-run single-payer system.",
+          "quote": "I know of two means to reduce costs: (1) a single payer system (i.e., government run); and (2) a competitive market (i.e., significantly reduced impact of the third party, often an insurer). I think the latter is the better way to go.",
+          "sourceUrl": "https://allenbuckleyforsenate.com/why-vote-for-me/reduce-healthcare-costs/",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Buckley proposes taxing vehicle energy sources according to their harmful emissions, with clean-burning fuel exempt from the tax.",
+          "quote": "The tax is pro-rated based on cleanliness of the fuel to the environment, not taking account the impacts of creation of the vehicle, with pro-ration based on a fixed distance covered under identical conditions.",
+          "sourceUrl": "https://allenbuckleyforsenate.com/other/vehicle-emissions-tax-act-summary/",
+          "agreement": "9/10"
+        }
+      }
+    }
+  ],
+  "sources": "mikecollinsga.com · govinfo.gov · clerk.house.gov · collinsforms.house.gov · collins.house.gov · pbs.org · electjon.com · ossoff.senate.gov · allenbuckleyforsenate.com · ontheissues.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

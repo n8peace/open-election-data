@@ -1,0 +1,182 @@
+{
+  "office": "U.S. Representative",
+  "district": "GA District 14",
+  "division": "ga/cd-14",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Clay Fuller",
+      "party": "Republican",
+      "stances": {
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Fuller emphasizes working with law-enforcement agencies to hold offenders accountable and dismantle criminal networks.",
+          "quote": "Clay has worked with local, state, and federal law enforcement agencies to hold lawbreakers accountable and take down criminal networks.",
+          "sourceUrl": "https://clayfullerforgeorgia.com/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Fuller's campaign supports empowering the Trump administration to deport millions of unauthorized immigrants.",
+          "quote": "Clay supports all efforts to empower the Trump Administration as they seek to remove the millions of illegal immigrants who do not have permission to be in this country.",
+          "sourceUrl": "https://clayfullerforgeorgia.com/",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Fuller pledged to oppose limits on Second Amendment rights and said those rights must not be infringed.",
+          "quote": "Clay will use his legal skills to fight back against the radical left as they try to limit our Constitutional freedoms, most importantly those enshrined in our 1st and 2nd Amendments. Our God given rights shall NOT be infringed, period.",
+          "sourceUrl": "https://clayfullerforgeorgia.com/",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Fuller introduced a resolution endorsing natural-gas pipeline expansion, regulatory rollbacks and other policies intended to lower energy costs and preserve reliability.",
+          "quote": "Whereas the House of Representatives has passed legislation to streamline the process for building interstate natural gas pipelines, which will lower the costs of energy for rural communities when it comes to powering their homes and businesses;",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/BILLS-119hres1182ih/html/BILLS-119hres1182ih.htm",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Shawn Harris",
+      "party": "Democratic",
+      "stances": {
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Harris opposes privatizing Social Security and supports eliminating the payroll-tax cap to sustain it.",
+          "quote": "Set the rules fairly, so all Americans pay the same rate for the same guarantee, by scrapping the payroll tax cap.",
+          "sourceUrl": "https://www.shawnforgeorgia.com/on-the-issues/affordability/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Harris supports rural infrastructure improvements intended to permit housing and job growth.",
+          "quote": "Infrastructure improvements that allow for community growth in housing and job opportunities",
+          "sourceUrl": "https://www.shawnforgeorgia.com/on-the-issues/agriculture/",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Harris opposes vouchers because he says they divert funding from public schools to less-regulated schools.",
+          "quote": "Vouchers pull money from public schools, often to schools with less oversight which allows those schools to use unapproved curriculums.",
+          "sourceUrl": "https://pauldingcountyuncensored.com/shawn-harris-for-district-14-congressional-house/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Harris supports background checks, waiting periods and red-flag laws while also identifying himself as a responsible gun owner.",
+          "quote": "Responsible gun owners like me support background checks, waiting periods, red flag laws and the like.",
+          "sourceUrl": "https://geears.org/candidate/shawn-harris/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Harris supports the Women’s Health Protection Act and a nationwide legal right to abortion care.",
+          "quote": "This legislation establishes a nationwide right to provide and receive abortion care. This is a health care issue, and the decision belongs between a woman and her doctor — not politicians.",
+          "sourceUrl": "https://www.shawnforgeorgia.com/on-the-issues/womens-health/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Harris opposes Medicare vouchers and supports expanding Medicare to cover nursing-home care.",
+          "quote": "No vouchers. Vouchers would only shift the financial risk and burden to seniors.",
+          "sourceUrl": "https://www.shawnforgeorgia.com/on-the-issues/healthcare/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Harris supports the Freedom to Vote Act, the John Lewis Voting Rights Act and other measures that expand voting access.",
+          "quote": "I support the Freedom to Vote Act, the John Lewis Voting Rights Act and anything that makes voting more accessible to all people.",
+          "sourceUrl": "https://pauldingcountyuncensored.com/shawn-harris-for-district-14-congressional-house/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Andrew Underwood",
+      "party": "Libertarian",
+      "stances": {
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Underwood proposed reducing Social Security benefits for future recipients while preserving current recipients' benefits as part of spending cuts.",
+          "quote": "Social Security makes up 22% of total federal spending. I would reduce benefits for incoming recipients while grandfathering in current recipients, who would see no change under my plan.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90235/race/26850/election/1405",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Underwood supports individual education accounts that let public education funding follow the student under parental direction.",
+          "quote": "Abolishing the Department of Education would be fantastic, but barring that, putting money into individual education accounts such that the money follows the child would be a great reform.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90235/race/26850/election/1405",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Underwood said no additional gun-ownership restrictions are needed and argued that such laws primarily constrain law-abiding citizens.",
+          "quote": "None. The Constitution is quite clear that the right to keep and bear arms shall not be infringed.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90235/race/26850/election/1405",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "Underwood said he would not impose federal abortion restrictions before approximately the end of the first trimester.",
+          "quote": "As such, I would not place federal restrictions on anything prior to that.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90235/race/26850/election/1405",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Underwood says sports-participation rules should be determined by individual leagues rather than the federal government.",
+          "quote": "Participation in sports, in particular, should be decided not by government, but by individual leagues.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90235/race/26850/election/1405",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Underwood opposes extending the Affordable Care Act and favors removing government intervention from health care.",
+          "quote": "I will not extend Obamacare nor will I subscribe to any other government intervention in healthcare.",
+          "sourceUrl": "https://andrew4georgia.com/issues/",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "clayfullerforgeorgia.com · govinfo.gov · shawnforgeorgia.com · pauldingcountyuncensored.com · geears.org · ivoterguide.com · andrew4georgia.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
