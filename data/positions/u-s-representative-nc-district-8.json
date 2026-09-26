@@ -1,0 +1,198 @@
+{
+  "office": "U.S. Representative",
+  "district": "NC District 8",
+  "division": "nc/cd-8",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Bo Whitehead",
+      "party": "GRE",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Whitehead supports a $25 minimum wage, paid leave, full-time-hour access and repealing laws he says impede unionization.",
+          "quote": "Workers’ rights! $25 minimum wage, mandatory maternity leave and vacation for all workers, and mandatory holiday leave for all state recognized holidays.",
+          "sourceUrl": "https://whiteheadforcongressnc.carrd.co/",
+          "agreement": "2/3"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Whitehead calls for abolishing ICE, replacing punitive immigration enforcement with assistance and helping asylum seekers.",
+          "quote": "Our immigration system should be one of assistance, not terror. We must defend human dignity and ensure that asylum seekers get the help they deserve.",
+          "sourceUrl": "https://whiteheadforcongressnc.carrd.co/",
+          "agreement": "2/3"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Whitehead lists legalizing marijuana among the issues he wants to address in Congress.",
+          "quote": "Raising the minimum wage to $25 an hour, passing universal healthcare, abolishing ICE, ending wars and its crimes (including genocide), legalizing marijuana, prison reform, exposing corruption, combating human trafficking/exploitation are issues he wants to address in Congress, for a start.",
+          "sourceUrl": "https://www.ncgreenparty.org/2026_candidates",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Whitehead says he wants Congress to pass universal health care.",
+          "quote": "Raising the minimum wage to $25 an hour, passing universal healthcare, abolishing ICE, ending wars and its crimes (including genocide), legalizing marijuana, prison reform, exposing corruption, combating human trafficking/exploitation are issues he wants to address in Congress, for a start.",
+          "sourceUrl": "https://www.ncgreenparty.org/2026_candidates",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Whitehead supports expanding wind and solar power, upgrading the grid and developing electric-vehicle infrastructure.",
+          "quote": "We must expand wind and solar power to update our power grid, and work towards developing a proper infostructure for electric vehicles.",
+          "sourceUrl": "https://whiteheadforcongressnc.carrd.co/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "Colby Watson",
+      "party": "DEM",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Watson supports increasing the housing supply and changing building regulations to allow more construction.",
+          "quote": "On housing, that means increasing supply and modernizing building regulations so more homes can actually be built, while also restricting corporate ownership from dominating the single-family housing market.",
+          "sourceUrl": "https://www.wsoctv.com/news/local/political-beat-candidate-guide-house-representatives-district-8/MWKKVCYTNBDNLGDPREFRGVZHMA/?outputType=amp",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Watson calls for better pay and support for public-school teachers and funding for local public schools.",
+          "quote": "At the same time, our public school teachers deserve better pay and greater support. Every child deserves a quality education and a real opportunity to succeed.",
+          "sourceUrl": "https://www.colbyforcongress.com/issues/education-and-healthcare",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Watson supports well-funded and trained law enforcement alongside efforts addressing crime's root causes and intervening before crises.",
+          "quote": "Every family deserves to feel safe in their home and community, but that's not always the reality in the 8th District. Safe communities are built by well-trained, well-supported local law enforcement, responsible community members, holding violent offenders accountable, addressing the root causes of crime, and making sure people have somewhere to turn before a crisis becomes a tragedy.",
+          "sourceUrl": "https://www.colbyforcongress.com/issues/crime",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Watson supports stronger border enforcement while also making legal immigration faster and easier to navigate.",
+          "quote": "We need a secure border, modern technology, sufficient personnel, and an immigration system that is organized, efficient, and fair. We should stop illegal immigration while making the legal immigration process faster, more transparent, and easier to navigate for those who follow the law.",
+          "sourceUrl": "https://www.colbyforcongress.com/issues/civil-rights-and-democracy",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Mark Harris",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Harris says economic growth requires low taxes and fewer government programs.",
+          "quote": "A strong economy starts with free enterprise, low taxes, and hard work—not more government programs.",
+          "sourceUrl": "https://markharris.house.gov/issues",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Harris supports allowing families to choose among public, private, charter, and home schools.",
+          "quote": "Whether public, private, charter, or homeschool, families should have full freedom to choose what works best for their children.",
+          "sourceUrl": "https://www.markharrisforcongress.org/issues",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Harris emphasizes holding criminals accountable and rigorous law enforcement as the basis of public safety.",
+          "quote": "By holding criminals accountable and championing rigorous law enforcement, Mark is dedicated to ensuring that every North Carolinian can live, work, and thrive in a secure and peaceful environment.",
+          "sourceUrl": "https://www.markharrisforcongress.org/issues",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Harris supports stronger border security and rigorous enforcement of immigration laws.",
+          "quote": "He is committed to fortifying our borders, supporting advanced technology, and rigorously enforcing our immigration laws to protect American citizens and preserve our nation's integrity.",
+          "sourceUrl": "https://www.markharrisforcongress.org/issues",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Harris calls the right to bear arms nonnegotiable and opposes efforts to restrict it.",
+          "quote": "The right to bear arms is not negotiable. The Second Amendment was designed by the Founders to protect against tyranny by ensuring citizens’ right to bear arms.",
+          "sourceUrl": "https://markharris.house.gov/issues",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Harris says Congress should enact laws protecting unborn children.",
+          "quote": "Congress must advocate for laws that protect all people, especially our nation’s most vulnerable—unborn children.",
+          "sourceUrl": "https://markharris.house.gov/issues/pro-life-and-pro-family",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Harris asked the WNBA to define women as biological females and base eligibility on biological sex.",
+          "quote": "I respectfully ask the WNBA to adopt a definition of ‘woman’ under its CBA that defines women as biological females and establishes biological sex as the basis for eligibility in women’s basketball.",
+          "sourceUrl": "https://markharris.house.gov/media/press-releases/harris-calls-wnba-define-woman-biological-female-establish-clear-eligibility",
+          "agreement": "5/5"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "strong",
+          "text": "Harris strongly disagreed that marijuana should be legalized and regulated like alcohol and tobacco.",
+          "quote": "Marijuana should be legalized and regulated like tobacco and alcohol.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/19674/race/1741/election/473?culture=en-us",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Harris supports market-based, patient-directed health reform built around competition, interstate insurance sales, and health savings accounts.",
+          "quote": "We need to look at reform that is market-based and patient-driven. A market-based approach would foster competition and empower individuals to make personal healthcare decisions between them and their doctor.",
+          "sourceUrl": "https://ivoterguide.com/candidate/19674/race/1740/election/1206",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Harris strongly rejected urgent political action on human-caused climate change and identified nuclear power and natural gas as the most reliable sources.",
+          "quote": "Man-made climate change is a global threat and requires urgent political action.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/19674/race/1740/election/1206",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "whiteheadforcongressnc.carrd.co · ncgreenparty.org · wsoctv.com · colbyforcongress.com · markharris.house.gov · markharrisforcongress.org · ivoterguide.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

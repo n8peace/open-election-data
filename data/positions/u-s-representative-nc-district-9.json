@@ -1,0 +1,200 @@
+{
+  "office": "U.S. Representative",
+  "district": "NC District 9",
+  "division": "nc/cd-9",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Richard N. Ojeda II",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He said he would prioritize investing in Medicaid over tax breaks for billionaires.",
+          "quote": "Instead of tax breaks for billionaires, I will fight to invest in Medicaid",
+          "sourceUrl": "https://ojedafornc.com/ensuring-quality-healthcare/",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports raising the federal minimum wage and strengthening workers’ organizing rights.",
+          "quote": "Nobody working full-time should live in poverty. Raising the federal minimum wage will give families stability",
+          "sourceUrl": "https://ojedafornc.com/standing-up-for-working-families/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He pledges to strengthen Social Security and oppose benefit cuts, privatization, and retirement-age increases.",
+          "quote": "Protect and strengthen Social Security for current and future generations.",
+          "sourceUrl": "https://ojedafornc.com/saving-social-security-2/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He supports preserving the Department of Education and increasing resources for public schools.",
+          "quote": "Defend the Department of Education and public schools.",
+          "sourceUrl": "https://ojedafornc.com/protecting-education/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports an accountable legal pathway for long-term undocumented residents who have not committed other crimes.",
+          "quote": "People who have worked here for decades, raised families here, and broken no other laws should have a path that involves accountability",
+          "sourceUrl": "https://ojedafornc.com/immigration/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He promises to codify Roe v. Wade and protect access to reproductive health care.",
+          "quote": "I will codify Roe v. Wade and defend access to reproductive care",
+          "sourceUrl": "https://ojedafornc.com/ensuring-quality-healthcare/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Ojeda supports expanding Medicaid and protecting existing beneficiaries from federal coverage cuts.",
+          "quote": "I will push to expand Medicaid and protect it from federal sabotage. Over two million North Carolinians rely on Medicaid, and I will fight to keep them covered.",
+          "sourceUrl": "https://ojedafornc.com/ensuring-quality-healthcare/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Richard Hudson",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Hudson calls for permanent middle-class tax cuts, lower spending, and a smaller federal government.",
+          "quote": "I've been working with my House and Senate colleagues to find common-sense solutions to halt wasteful spending, make middle class tax cuts permanent, and dramatically decrease the size of government.",
+          "sourceUrl": "https://hudson.house.gov/issues/economy-and-jobs",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Hudson voted against the 2019 Raise the Wage Act.",
+          "quote": "Jul 18, 2019, 12:01 PM | 116th Congress, 1st Session Vote Question: On Passage Raise the Wage Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "Hudson says Social Security's current structure is fiscally unsustainable and calls for long-term changes to entitlement spending.",
+          "quote": "Numerous independent financial and economic analysts agree that Social Security as currently structured is fiscally unsustainable.",
+          "sourceUrl": "https://hudson.house.gov/issues/social-security",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Hudson supports increasing parents' ability to choose among educational options.",
+          "quote": "We must improve education by moving from the bureaucratic-dominated status quo, to a state and locally-controlled approach that includes accountability and increased parent choice.",
+          "sourceUrl": "https://hudson.house.gov/issues/education",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Hudson promoted a public-safety plan that included hiring 200,000 additional police officers.",
+          "quote": "Other solutions in the Commitment to America include curbing wasteful government, expanding America's domestic energy production, supporting U.S. manufacturing to reduce the dependence on nations like China, securing the border, hiring 200,000 more police officers, passing a Parents' Bill of Rights, and strengthening Social Security and Medicare for the future.",
+          "sourceUrl": "https://hudson.house.gov/issues/commitment-to-america",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Hudson supports a border wall, restored Remain in Mexico policies, expanded border enforcement, and opposition to amnesty.",
+          "quote": "We must also finish wall construction and other border security measures while sending a clear message around the globe: do not come to the United States illegally.",
+          "sourceUrl": "https://hudson.house.gov/issues/immigration",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Hudson introduced legislation to prevent states from imposing special excise taxes on firearms and ammunition.",
+          "quote": "Their latest scheme is an unconstitutional tax that seeks to price you out of your right to keep and bear arms, and this legislation will put a stop to it.",
+          "sourceUrl": "https://hudson.house.gov/press-releases/hudson-issa-risch-lead-bill-to-stop-unfair-state-taxes-on-firearms",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Hudson identifies as pro-life and has pledged to oppose taxpayer funding for abortion.",
+          "quote": "As a dad, I believe every life has value and I am proud to be pro-life.",
+          "sourceUrl": "https://hudson.house.gov/taxonomy/term/493/life-liberty-and-the-pursuit-of-happiness",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Hudson cosponsored and voted for legislation defining sex in school athletics according to reproductive biology and genetics at birth.",
+          "quote": "To amend the Education Amendments of 1972 to provide that for purposes of determining compliance with title IX of such Act in athletics, sex shall be recognized based solely on a person’s reproductive biology and genetics at birth.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr28ih",
+          "agreement": "10/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "strong",
+          "text": "Hudson answered no when asked in a 2024 candidate questionnaire whether Congress should legalize medical marijuana.",
+          "quote": "Should Congress legalize the use of marijuana for medical purposes? NO",
+          "sourceUrl": "https://vote.norml.org/politicians/136448",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Hudson supports dismantling the Affordable Care Act's government-centered approach and using individual insurance assistance and health savings accounts.",
+          "quote": "A remaining priority for Richard is dismantling the top-down, government-heavy approach of the Affordable Care Act.",
+          "sourceUrl": "https://richardhudson.org/health-care/",
+          "agreement": "4/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Hudson favors market-led emissions reductions and energy policies intended to keep prices and taxes low.",
+          "quote": "I am focused on conservative policies that secure American energy independence, foster innovation, and allow the market to meet the demand for affordable clean energy – without crippling tax increases.",
+          "sourceUrl": "https://hudson.house.gov/issues/environment?page=2",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "Hudson supports voter-ID, signature-verification, election-observer, and ballot-security standards.",
+          "quote": "I do not support a federal takeover of elections. However, I do believe there could be minimum national standards on issues like voter ID, signature verification, the rights of election observers, and general ballot security.",
+          "sourceUrl": "https://ivoterguide.com/candidate/3334/race/1741/election/946?culture=en-us",
+          "agreement": "9/10"
+        }
+      }
+    }
+  ],
+  "sources": "ojedafornc.com · hudson.house.gov · clerk.house.gov · govinfo.gov · vote.norml.org · richardhudson.org · ivoterguide.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
