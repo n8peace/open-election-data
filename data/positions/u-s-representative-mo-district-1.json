@@ -1,0 +1,157 @@
+{
+  "office": "U.S. Representative",
+  "district": "MO District 1",
+  "division": "mo/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Paul Berry III",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Berry said St. Louis County should expand its tax base rather than raise property taxes and proposed budget cuts when revenue declined.",
+          "quote": "St. Louis County needs to reimagine how we generate sales and property tax revenue (by growth of tax base and not by gouging property owners)",
+          "sourceUrl": "https://callnewspapers.com/paul-berry-iii-ed-golterman-to-face-off-in-august-for-republican-nod-for-county-executive/",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Berry urged Republicans to support Missouri Amendment 3, which would repeal the state's constitutional abortion right and permit new abortion restrictions.",
+          "quote": "THAT ALL MISSOURI REPUBLICANS UNITE BEHIND AMENDMENT 3 AND MY MISSOURI CONGRESSIONAL CAMPAIGN FOR UNITED STATES CONGRESS.",
+          "sourceUrl": "https://www.momadmaga.com/",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Wesley Bell",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Bell voted against a tax-cut bill because it also cut Medicaid and food assistance.",
+          "quote": "The shameful bill Republicans just rammed through in the dead of night hands a massive tax break to the richest Americans, while folks in St. Louis are stuck holding the bill. It guts Medicaid, cutting nearly $600 million from Missouri’s health system and putting coverage for 33,000 of our neighbors in St. Louis at risk. It also slashes SNAP, making it harder for needy families to put food on the table.",
+          "sourceUrl": "https://bell.house.gov/media/press-releases/statement-rep-bell-votes-no-shameful-republican-tax-bill",
+          "agreement": "9/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Bell pledged to strengthen worker protections, support organized labor, and fight for fair wages.",
+          "quote": "A strong economy is built by strengthening workers’ protections and ensuring a fair and just society for all. I vow to be a voice in Washington, D.C. that supports workers in the fight for fair wages",
+          "sourceUrl": "https://labortribune.com/union-support-family-history-influence-wesley-bells-campaign-for-congress/",
+          "agreement": "5/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Bell pledges to expand trade while strengthening U.S. alliances.",
+          "quote": "He will fight to restore America's credibility on the world stage, strengthen our alliances and expand trade, while keeping our country safe and our partners close.",
+          "sourceUrl": "https://www.bell4mo.com/issues/",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Bell secured federal grants intended to increase the district's housing supply and lower costs.",
+          "quote": "He secured nearly $7 million in federal housing grants to the district to increase housing supply and lower costs for renters and homebuyers, and he will keep fighting until housing in St. Louis is within reach for working families.",
+          "sourceUrl": "https://www.bell4mo.com/issues/",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "Bell expanded diversion, mental-health and restorative-justice programs and says prevention and rehabilitation should take priority over punishment.",
+          "quote": "In Congress, Wesley has continued that work, introducing major reforms to the pretrial detention system, launching the Congressional Diversion and Rehabilitation Caucus, and fighting for a justice system that prioritizes prevention and rehabilitation over punishment.",
+          "sourceUrl": "https://www.bell4mo.com/issues/",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Bell supports dismantling and defunding ICE and prosecuting agents who break the law.",
+          "quote": "Wesley believes ICE needs to be stripped for parts, and ICE agents who broke the law need to be fully prosecuted. In Congress, he has voted several times to defund ICE, and introduced legislation to stop taxpayer dollars from funding ICE propaganda.",
+          "sourceUrl": "https://www.bell4mo.com/issues/",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Bell supports universal background checks, red-flag laws, restrictions on weapons of war and gun-buyback programs.",
+          "quote": "Wesley is fighting for commonsense reforms, like universal background checks, red flag laws, and keeping weapons of war off our streets. In Congress, Wesley has championed gun buyback programs, helping cities like St. Louis protect neighbors and communities before gun violence strikes.",
+          "sourceUrl": "https://www.bell4mo.com/issues/",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Bell supports federal legislation codifying abortion rights and previously pledged not to prosecute patients or providers.",
+          "quote": "Wesley supports codifying abortion rights at the federal level, so that everyone, regardless of what state they live in, can access necessary and life-saving health care.",
+          "sourceUrl": "https://www.bell4mo.com/issues/",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Bell voted against legislation that would require school-sports eligibility to be determined by reproductive biology and genetics at birth.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "4/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "As county prosecutor, Bell stopped prosecuting people for possessing small amounts of marijuana.",
+          "quote": "Another thing is … from day one, we announced that we are no longer going to prosecute people with low amounts of marijuana … so let’s look at what happened.",
+          "sourceUrl": "https://www.stlamerican.com/news/a-conversation-with-county-prosecutor-and-congressional-candidate-wesley-bell/",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Bell voted against Medicaid cuts and demands that the reductions be reversed.",
+          "quote": "Everyone deserves access to quality health care, regardless of their income or ZIP code. Trump's One Big Ugly Bill slashed $800 billion from Medicaid, effectively stripping coverage from thousands of Missourians, forcing hospitals to close, and leaving families driving hours for basic care — all to pay for tax breaks for the wealthiest Americans that they don’t need. Wesley voted against gutting Medicaid, and has been one of the loudest voices in Congress demanding that these dangerous cuts be reversed.",
+          "sourceUrl": "https://www.bell4mo.com/issues/",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Bell supports the John Lewis Voting Rights Act to counter voter suppression and expand equitable ballot access.",
+          "quote": "Wesley strongly supports making the John Lewis Voting Rights Act into law in order to fully fight back against voter suppression, protect the rights of all voters, and ensure fair and equitable access to the ballot box.",
+          "sourceUrl": "https://www.bell4mo.com/issues/",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Tom Schmitz",
+      "party": "Libertarian",
+      "stances": {}
+    }
+  ],
+  "sources": "callnewspapers.com · momadmaga.com · bell.house.gov · labortribune.com · bell4mo.com · clerk.house.gov · stlamerican.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

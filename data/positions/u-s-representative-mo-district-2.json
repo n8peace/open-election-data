@@ -1,0 +1,198 @@
+{
+  "office": "U.S. Representative",
+  "district": "MO District 2",
+  "division": "mo/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Ann Wagner",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Wagner voted for H.R. 1 and said it would prevent tax increases and eliminate taxes on tips and overtime.",
+          "quote": "Today’s vote is a win for hardworking Missourians that prevents the largest tax increase in American history, ensuring every American keeps more of their hard-earned dollars.",
+          "sourceUrl": "https://wagner.house.gov/media-center/press-releases/wagner-votes-prevent-largest-tax-increase-american-history-and",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Wagner voted against the Protecting the Right to Organize Act, which would have strengthened union-organizing rights.",
+          "quote": "Vote Question: On Passage Protecting the Right to Organize Act Vote Type: Recorded Vote",
+          "sourceUrl": "https://clerk.house.gov/Votes/202050",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Wagner voted for legislation intended to streamline regulations and make home construction easier.",
+          "quote": "The 21st Century ROAD to Housing Act will modernize and streamline outdated regulations, making it easier to build homes that families can afford.",
+          "sourceUrl": "https://wagner.house.gov/media-center/press-releases/wagner-votes-generational-housing-legislation",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Wagner introduced legislation to give state and local police more flexibility to spend federal law-enforcement funds.",
+          "quote": "The Working Families Tax Cut legislation provided a generational investment in law enforcement nationwide, and my Local Law Enforcement Support Act will give state and local police departments greater flexibility to use these funds in the way they know best, including training and recruitment, better protective equipment for officers, expanded availability of forensic technologies, and enhanced services to victims of violent crime.",
+          "sourceUrl": "https://wagner.house.gov/media-center/press-releases/wagner-introduces-bill-support-local-police",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Wagner voted to fund immigration-enforcement agencies and praised a policy of releasing no migrants at the southern border.",
+          "quote": "We have seen incredible success so far, with twelve straight months of zero releases at our southern border. It is unconscionable that Democrats in the House and Senate wish to strip funding from these crucial agencies, prioritizing illegal aliens over American citizens.",
+          "sourceUrl": "https://wagner.house.gov/media-center/press-releases/wagner-votes-fund-law-enforcement-keep-border-secure",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Wagner says gun ownership is an important individual right and that law-abiding owners should not be punished.",
+          "quote": "As a strong supporter of the Second Amendment, the individual right to own a gun is very important to me. I believe that our Founding Fathers meant for all law-abiding citizens to have the right to bear and maintain firearms.",
+          "sourceUrl": "https://wagner.house.gov/issues/second-amendment",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Wagner says protecting unborn life is one of her most important duties in Congress.",
+          "quote": "Protecting the unborn is one of my most precious duties as a member of Congress. I believe that life from conception to natural death is our greatest gift--and a gift that our country far too often takes for granted.",
+          "sourceUrl": "https://wagner.house.gov/issues?page=1",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Wagner says she will keep transgender women and girls out of women's sports.",
+          "quote": "Ann will always make sure that men are kept out of women’s sports so girls and young women can safely compete and earn scholarships they deserve.",
+          "sourceUrl": "https://annwagner.com/about/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Wagner supports expanding domestic oil drilling and approving infrastructure permits to increase production.",
+          "quote": "I believe we must fully cultivate our oil resources by ending drilling moratoriums, increasing onshore and offshore production, and approving permits that would assist in transporting oil from North Dakota's Bakken.",
+          "sourceUrl": "https://wagner.house.gov/issues",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Fred Wellman",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Wellman criticized tax cuts for high earners that were paired with reductions to Medicare and food assistance.",
+          "quote": "My opponent, Ann Wagner, seems to disagree. In her 13 years in Congress, she has kicked 200,000 Missourians off their healthcare, blocked $100 million in funding for medical research, and voted for Trump’s Big Billionaire Bill, which gave the top 10% massive tax cuts while slashing Medicare and SNAP across the board.",
+          "sourceUrl": "https://fpwellman.substack.com/p/30-seconds-30-years",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Wellman supports raising the federal minimum wage and strengthening workers’ union and collective-bargaining rights.",
+          "quote": "We must immediately raise the federal minimum wage, protect workers' rights to form and join unions, and ensure equal pay and paid family leave for all employees.",
+          "sourceUrl": "https://www.wellmanformo.com/policy",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Wellman proposes rolling back tariffs that increase consumer prices and restoring Congress’s authority over tariffs.",
+          "quote": "Roll back the tariffs raising your grocery bill. Put tariff power back in Congress, where the Constitution puts it.",
+          "sourceUrl": "https://www.wellmanformo.com/affordability",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Wellman supports building more housing by expanding the tax credit for affordable developments.",
+          "quote": "Build more housing. Expand the housing tax credit so affordable units actually get built.",
+          "sourceUrl": "https://www.wellmanformo.com/affordability",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Wellman says immigrants must receive due-process protections before deportation regardless of their legal status.",
+          "quote": "Due process is for everyone for a reason. We aren’t protecting the criminals. We are fighting to protect the Constitution and our civil rights.",
+          "sourceUrl": "https://fpwellman.substack.com/p/due-process-for-everyone",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Wellman supports reasonable limits on gun ownership and specifically endorses red-flag laws.",
+          "quote": "Red flag laws especially make sense as the right always likes to claim we have a mental health problem not a gun problem.",
+          "sourceUrl": "https://fpwellman.substack.com/p/super-majority-issues",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Wellman says Congress should protect nationwide access to reproductive health care following the reversal of Roe v. Wade.",
+          "quote": "After Roe was overturned, Congress had multiple opportunities to protect access to reproductive health care nationwide. It failed to act.",
+          "sourceUrl": "https://fpwellman.substack.com/p/fifty-three-years-after-roe-moms",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Wellman described preventing transgender students from playing sports as denying them a right and harming their well-being.",
+          "quote": "Transgender kids are being denied the right to get the healthcare they need, go to the bathroom safely, or play sports which data shows will drive depression and suicide.",
+          "sourceUrl": "https://fpwellman.substack.com/p/new-on-democracy-with-fpwellman-podcast",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Wellman supports reversing Medicaid cuts, lowering Medicare’s eligibility age, and creating a public insurance option.",
+          "quote": "I support the Leveling the Playing Field approach and immediate reforms that can pass and help people now: restoring ACA subsidies, reversing damaging Medicaid cuts, lowering the Medicare eligibility age, and creating a strong public option.",
+          "sourceUrl": "https://www.wellmanformo.com/policy",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Brandon Coulter Daugherty",
+      "party": "Libertarian",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Daugherty urged Missourians to claim gas-tax refunds and criticized tax increases made without voter approval.",
+          "quote": "When politicians raise taxes through the back door without a clear vote of the people, they weaken the basic principle that citizens should have a say over how much of their money the government takes.",
+          "sourceUrl": "https://lpmo.org/why-you-should-get-your-gas-tax-refund/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "wagner.house.gov · clerk.house.gov · annwagner.com · fpwellman.substack.com · wellmanformo.com · lpmo.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
