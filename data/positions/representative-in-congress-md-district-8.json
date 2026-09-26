@@ -1,0 +1,286 @@
+{
+  "office": "Representative in Congress",
+  "district": "MD District 8",
+  "division": "md/cd-8",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jamie Raskin",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Raskin offered an amendment blocking tax cuts if Medicaid, Social Security, or food assistance were cut.",
+          "quote": "An amendment to prevent the tax cuts and other provisions in the Ways and Means title from taking effect if the government cuts Medicaid, Social Security, or Supplemental Nutrition Assistance Program (SNAP).",
+          "sourceUrl": "https://raskin.house.gov/2025/5/raskin-statement-on-house-passage-of-trump-tax-scheme-to-enrich-billionaires-by-robbing-american-families",
+          "agreement": "9/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Raskin voted for the Raise the Wage Act to increase the federal minimum wage gradually to $15.",
+          "quote": "I proudly voted to Raise the Wage today to give tens of millions of American workers a long overdue pay increase so that they can make ends meet and provide for themselves and their families.",
+          "sourceUrl": "https://raskin.house.gov/2019/7/rep-raskin-votes-raise-minimum-wage-increasing-pay-33-million-workers",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Raskin introduced tariff-transparency legislation and argued that universal tariffs raise consumer costs and disproportionately burden working families.",
+          "quote": "President Trump’s universal tariffs constitute an effective national sales tax, which hurts working families the most.",
+          "sourceUrl": "https://raskin.house.gov/2025/5/raskin-introduces-legislation-to-reveal-how-much-trump-tariffs-cost-americans",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Raskin supported resolving the debt-ceiling dispute without cutting Social Security, Medicare or Medicaid.",
+          "quote": "The White House team protected Social Security, Medicare, and Medicaid",
+          "sourceUrl": "https://raskin.house.gov/2023/5/raskin-statement-on-h-r-3746",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Raskin helped reintroduce legislation designed to build millions of homes and incentivize local land-use reform.",
+          "quote": "Control the cost of renting or buying a home by leveraging federal funding to build up to 3.2 million new housing units for lower-income and middle-class families -- bringing down rents by 10% and creating 1.5 million new jobs, according to an independent analysis from Moody's Analytics.",
+          "sourceUrl": "https://raskin.house.gov/press-releases?ID=EB42D79A-EE92-4E21-B65E-29E6D4A902FE",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Raskin jointly opposed a federal voucher tax credit, saying it would divert public resources from neighborhood schools to private and religious institutions.",
+          "quote": "Pulled directly from the Project 2025 playbook, this policy move is a billion-dollar backdoor scheme to drain public resources from neighborhood schools to fund private institutions that aren’t required to provide a free and appropriate public education to all students.",
+          "sourceUrl": "https://huffman.house.gov/media-center/press-releases/reps-huffman-raskin-statement-on-republicans-push-to-divert-billions-in-federal-funding-to-private-religious-schools",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Raskin requested funding for both a police intelligence center and a mental-health crisis-response program.",
+          "quote": "$800,000 to expand and improve the City of Takoma Park Police Department’s mental health crisis response program and ensure Marylanders in need are met with trained and compassionate support. $2,100,000 for the Montgomery County Police Department’s “Real Time Crime Center,” which will coordinate and consolidate law enforcement intelligence to reduce crime and enhance public safety.",
+          "sourceUrl": "https://raskin.house.gov/2024/6/raskin-requests-community-project-funding-for-safe-transit-energy-efficiency-mental-health-crisis-response-and-more-across-montgomery-county",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Raskin reintroduced legislation creating protected status, permanent residency and a citizenship pathway for eligible stateless people.",
+          "quote": "Our Stateless Protection Act helps realize America’s promise as an ‘asylum to humanity,’ as Tom Paine put it, establishing legal protections, permanent residency status and a pathway to citizenship for eligible stateless individuals living in the United States.",
+          "sourceUrl": "https://raskin.house.gov/2024/3/raskin-cardin-and-colleagues-in-senate-and-house-reintroduce-bill-to-protect-vulnerable-citizens-of-nowhere-in-the-united-states",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Raskin called for universal background checks, closure of gun-sale loopholes and renewed restrictions on military-style assault weapons.",
+          "quote": "America needs a universal criminal and mental background check on all gun purchases, which means listening to the 9 out of 10 Americans who want to close the private gun-show and Internet sales loopholes.",
+          "sourceUrl": "https://raskin.house.gov/2019/8/congressman-raskins-statement-deadly-mass-shootings-el-paso-and-dayton",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Raskin introduced legislation protecting interstate travel to obtain lawful abortion care.",
+          "quote": "Because the Supreme Court dismantled the constitutional right to abortion, it is critical now to protect the right to travel across state lines to obtain health care.",
+          "sourceUrl": "https://raskin.house.gov/2025/6/raskin-fletcher-strickland-introduce-legislation-to-protect-a-woman-s-right-to-travel-for-health-care-amid-abortion-bans",
+          "agreement": "7/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "Raskin urged opposition to a federal bill restricting transgender participation in Olympic and amateur sports.",
+          "quote": "I urge my colleagues to oppose this paternalistic, one-size-fits-all bill.",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/CRPT-119hrpt497/pdf/CRPT-119hrpt497.pdf",
+          "agreement": "5/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "During House debate on the MORE Act, Raskin said marijuana prohibition laws do not work.",
+          "quote": "I concede our party is not for the kind of cocaine-fueled orgies that a freshman Republican Representative bragged about this week, but we do understand that their marijuana prohibition laws don’t work for our people.",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/CREC-2022-04-01/pdf/CREC-2022-04-01.pdf",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Raskin joined legislation expanding Medicare and Medicaid eligibility and reducing patients' out-of-pocket costs.",
+          "quote": "The legislation would expand Medicare and Medicaid eligibility during the crisis, cap out-of-pocket costs for Medicare enrollees, and eliminate co-pays, coinsurance or deductibles for COVID-19 testing and related care.",
+          "sourceUrl": "https://raskin.house.gov/2020/5/uninsured-rate-skyrockets-30-house-members-introduce-legislation-guarantee",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Raskin reintroduced the Green New Deal resolution and called for a sweeping transition away from carbon-based energy.",
+          "quote": "Now is the time for a sweeping Green New Deal to break our lethal carbon addiction, safeguard frontline and vulnerable communities, and propel a just transition forward into the future.",
+          "sourceUrl": "https://raskin.house.gov/2021/4/rep-raskin-joins-ocasio-cortez-markey-in-introducing-green-new-deal-resolution",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Raskin introduced legislation to remove voting barriers and expand accessible ballot options.",
+          "quote": "I’m proud our legislation will address these systemic deficiencies so we can make sure everyone is able to vote regardless of a disability, where you live, or what language you speak.",
+          "sourceUrl": "https://raskin.house.gov/2020/7/scanlon-raskin-introduce-accessible-voting-act-expand-voting-rights-older",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Cheryl Riley",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Riley said lower taxes, reduced spending, and economic growth provide economic relief.",
+          "quote": "True relief comes from lower taxes, less government spending, and economic growth that rewards hard work for everyone.",
+          "sourceUrl": "https://ivoterguide.com/candidate/79372/race/31714/election/1467",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Riley marked “Strongly Agree” when asked whether she supports vouchers, tax credits, charter schools, private schools, and home schools.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools.",
+          "sourceUrl": "https://ivoterguide.com/candidate/79372/race/2058/election/1204?culture=en-us",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Riley called for enforcing existing laws and prosecuting violent offenders as her approach to public safety.",
+          "quote": "True public safety comes from enforcing existing laws, securing borders, prosecuting violent offenders, and stop protecting criminals over innocent law-abiding citizens.",
+          "sourceUrl": "https://ivoterguide.com/candidate/79372/race/31714/election/1467",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Riley advocated halting immigration while removing people who entered illegally, followed by limited immigration with stricter vetting.",
+          "quote": "Given the crisis we now face due to the open border invasion, I advocate to halt all immigration until we remove those who came in illegally.",
+          "sourceUrl": "https://ivoterguide.com/candidate/79372/race/31714/election/1467",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Riley said current gun laws are already more than sufficient and opposed further restrictions.",
+          "quote": "2A protects the right of law-abiding Americans to keep and bear arms. We already have more than enough gun laws. Further restrictions only disarm responsible citizens while criminals ignore them.",
+          "sourceUrl": "https://ivoterguide.com/candidate/79372/race/31714/election/1467",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Riley said elective abortion should be allowed only in rare cases involving fetal non-survival or danger to the mother’s life.",
+          "quote": "In rare cases where the baby has zero chance of survival due to severe illness, or the mother's life is in jeopardy, both heartbreaking medical decisions.",
+          "sourceUrl": "https://ivoterguide.com/candidate/79372/race/31714/election/1467",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Riley marked “Strongly Agree” that biological males should be excluded from women’s sports and women’s spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/79372/race/31714/election/1467",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Riley selected an option combining government-funded insurance with private coverage while emphasizing competition and continued Medicare and Medicaid safety nets.",
+          "quote": "B. Americans deserve real choice and competition to drive down costs, not socialist \"medicare for all\" monopolies or the Obamacare disaster that lied to us and failed everyone. Keep safety-net programs like Medicaid and Medicare for Citizens who need them, eliminate waste/fraud/abuse, and end funding illegals.",
+          "sourceUrl": "https://ivoterguide.com/candidate/79372/race/31714/election/1467",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Nancy Wallace",
+      "party": "Green",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "She proposed single-payer health care and free college alongside restored capital-gains and inheritance taxes.",
+          "quote": "I propose: Minimum wage of $17.07/hour; Free health care through single payer program; Free college; Employee ownership of businesses; Promote local small businesses; Reestablish capital gains tax and inheritance tax",
+          "sourceUrl": "https://d3n8a8pro7vhmx.cloudfront.net/lwvmaryland/pages/258/attachments/original/1476803650/1Carroll_General.pdf?1476803650=",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She proposed raising the minimum wage to $17.07 per hour so full-time workers could be self-sufficient.",
+          "quote": "Raise the minimum wage to $17.07 per hour ensure self sufficiency of full time workers.",
+          "sourceUrl": "https://wallaceforgovernor.us/social-justice-community-economics/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "She supports having mental-health units lead behavioral-crisis responses before police draw weapons.",
+          "quote": "Support establishing Mental Health units in all local social service departments as a professional standard, which police must call for all behavioral and mental health incidents before drawing any weapon.",
+          "sourceUrl": "https://www.nancywallace.us/about/community-peacestopping-police-violence/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She supports legal status and a path to citizenship for undocumented immigrants who do not pose a danger.",
+          "quote": "Undocumented immigrants already residing and working in the United States should be granted a legal status which includes the chance to become U.S. citizens, as long as they present no danger to other members of society.",
+          "sourceUrl": "https://www.nancywallace.us/immigration-reform/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports banning assault weapons, large-capacity magazines, and ghost guns.",
+          "quote": "I support a federal assault weapons ban, including possession and sale of previously-manufactured weapons; and a ban on large capacity magazines and ghost guns.",
+          "sourceUrl": "https://assets.nationbuilder.com/lwvmaryland/pages/5376/attachments/original/1727982330/Montgomery__VG__General.pdf?1727982330=",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports universal single-payer health care and preventive care for everyone.",
+          "quote": "The Green Party and I support single-payer universal health care and preventive care for all.",
+          "sourceUrl": "https://wallaceforgovernor.us/health-care-for-all/",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She supports voting rights for all Maryland citizens, including incarcerated citizens.",
+          "quote": "Nancy Wallace and Pat Elder strongly believe that all Maryland citizens should be able to vote in state, county and local elections. This fundamental right of a human being to have a voice in their own government is the basic contract by which the government exists in the first place. Incarceration should not waive that right.",
+          "sourceUrl": "https://wallaceforgovernor.us/democracy-governance-reform/",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "raskin.house.gov · huffman.house.gov · govinfo.gov · ivoterguide.com · d3n8a8pro7vhmx.cloudfront.net · wallaceforgovernor.us · nancywallace.us · assets.nationbuilder.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "MO District 5",
+  "division": "mo/cd-5",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Rick Brattin",
+      "party": "Republican"
+    },
+    {
+      "name": "Emanuel Cleaver, II",
+      "party": "Democratic"
+    },
+    {
+      "name": "Randall (Randy) Langkraehr",
+      "party": "Libertarian"
+    }
+  ]
+}

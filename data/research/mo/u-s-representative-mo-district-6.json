@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "MO District 6",
+  "division": "mo/cd-6",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Chris Stigall",
+      "party": "Republican"
+    },
+    {
+      "name": "Josh Smead",
+      "party": "Democratic"
+    },
+    {
+      "name": "Andy Maidment",
+      "party": "Libertarian"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "MO District 8",
+  "division": "mo/cd-8",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Jason T. Smith",
+      "party": "Republican"
+    },
+    {
+      "name": "Chris Reichard",
+      "party": "Democratic"
+    },
+    {
+      "name": "Rebecca Sharpe Lombard",
+      "party": "Libertarian"
+    }
+  ]
+}

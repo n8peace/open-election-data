@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "MO District 2",
+  "division": "mo/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Ann Wagner",
+      "party": "Republican"
+    },
+    {
+      "name": "Fred Wellman",
+      "party": "Democratic"
+    },
+    {
+      "name": "Brandon Coulter Daugherty",
+      "party": "Libertarian"
+    }
+  ]
+}

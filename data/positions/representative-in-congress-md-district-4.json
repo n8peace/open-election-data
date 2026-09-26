@@ -1,0 +1,224 @@
+{
+  "office": "Representative in Congress",
+  "district": "MD District 4",
+  "division": "md/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Glenn F. Ivey",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Ivey opposed tax cuts for wealthy taxpayers when paired with cuts to Medicaid, food assistance, education, housing, and childcare.",
+          "quote": "All this pain inflicted upon the American people just to pay for another round of billionaire tax cuts.",
+          "sourceUrl": "https://ivey.house.gov/media/press-releases/congressman-ivey-statement-gop-tax-scam",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Ivey cosponsored the Raise the Wage Act of 2023, which would increase the federal minimum wage.",
+          "quote": "To provide for increases in the Federal minimum wage, and for other purposes.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-118hr4889ih",
+          "agreement": "4/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Ivey described tariffs as a hidden tax that raises prices for working people.",
+          "quote": "But those gains are now being undermined by reckless tariffs, which act as a hidden tax on working people and drive up prices on everyday goods.",
+          "sourceUrl": "https://assets.nationbuilder.com/lwvmaryland/pages/14140/attachments/original/1781202072/Prince_Georges_Primary_2026_Voters_Guide_CS_Proofed.docx.pdf?1781202072=",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Ivey said he strongly supports protecting Social Security and other safety-net benefits and reversing recent cuts.",
+          "quote": "I strongly support protecting safety-net programs like Social Security, SNAP, SSI, and Medicaid.",
+          "sourceUrl": "https://assets.nationbuilder.com/lwvmaryland/pages/14140/attachments/original/1781202072/Prince_Georges_Primary_2026_Voters_Guide_CS_Proofed.docx.pdf?1781202072=",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Ivey supports first-time-homebuyer tax credits and new housing development in his district.",
+          "quote": "I support tax credits for first-time homeowners and new housing development within our district",
+          "sourceUrl": "https://ivey.house.gov/issues/housing",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Ivey called for more resources for local school districts to improve facilities, hire teachers, and raise teacher pay.",
+          "quote": "We should be providing our local school districts with the resources they need to support their infrastructure, hire more teachers, and pay those teachers better.",
+          "sourceUrl": "https://ivey.house.gov/issues/education",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Ivey said the country should welcome asylum seekers and ensure immigrants can pursue the American dream.",
+          "quote": "I am dedicated to ensuring that all immigrants have the opportunity to pursue the American dream.",
+          "sourceUrl": "https://ivey.house.gov/issues",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Ivey introduced legislation raising the minimum age for buying semiautomatic centerfire rifles to 21.",
+          "quote": "This bill would protect the public by raising the minimum age to purchase semi-automatic centerfire rifles to 21 years old.",
+          "sourceUrl": "https://ivey.house.gov/media/press-releases/congressman-glenn-ivey-introduces-his-first-bill-raise-age-act-address-gun",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Ivey cosponsored the Abortion is Health Care Everywhere Act, which would authorize reproductive-health funding that includes abortion care.",
+          "quote": "Abortion is Health Care Everywhere Act of 2023",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-118hr1723ih",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Ivey endorsed a universal single-payer system equivalent to Medicare for All.",
+          "quote": "I support a universal single-payer system equivalent to Medicare-for-All for everyone living in the US.",
+          "sourceUrl": "https://assets.nationbuilder.com/lwvmaryland/pages/4567/attachments/original/1664547171/Mont_LWV_General_VG2022_English_Hyperlinks_rev.pdf?1664547171=",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Ivey secured federal funding for electric vehicles and chargers intended to advance Prince George's County toward a zero-emissions bus fleet.",
+          "quote": "This funding supported five new zero-emission buses, five new battery electric vans, new level four electric chargers, and brought us closer to achieving the County’s goal of a zero-emissions bus fleet by 2040.",
+          "sourceUrl": "https://ivey.house.gov/issues/transportation-infrastructure",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Ivey endorsed the Freedom to Vote Act and John Lewis voting-rights legislation.",
+          "quote": "The Freedom to Vote Act and the John Lewis bill",
+          "sourceUrl": "https://assets.nationbuilder.com/lwvmaryland/pages/4567/attachments/original/1664547171/Mont_LWV_General_VG2022_English_Hyperlinks_rev.pdf?1664547171=",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "George E. McDermott",
+      "party": "Republican",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "McDermott criticized government leaders for waging what he described as a war against labor and labor unions.",
+          "quote": "engaging in a war against labor and labor unions, engaging recklessly in trade wars which I fear will have a devastating effect on our economy.",
+          "sourceUrl": "https://d3n8a8pro7vhmx.cloudfront.net/lwvmaryland/pages/377/attachments/original/1526942601/2018VGAAPv3.pdf?1526942601=",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He described trade wars as reckless and warned that they would damage the economy.",
+          "quote": "engaging recklessly in trade wars which I fear will have a devastating effect on our economy.",
+          "sourceUrl": "https://d3n8a8pro7vhmx.cloudfront.net/lwvmaryland/pages/377/attachments/original/1526942601/2018VGAAPv3.pdf?1526942601=",
+          "agreement": "8/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "McDermott endorsed a balanced-budget amendment and said the accumulated national debt was unsustainable.",
+          "quote": "Yes we cannot sustain the burdensome debt we have accumulated going from just $2 trillion at the end of Bill Clinton’s term 223+ trillion dollars today",
+          "sourceUrl": "https://georgemcdermott.com/campaign/",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "McDermott opposed school-choice programs that divert taxpayer money from public schools to charter schools.",
+          "quote": "want to create a 2 tier educational system, one for the rich and well-to-do who can afford to send their children to charter schools while taking taxpayer dollars from the state public school systems.",
+          "sourceUrl": "https://ivoterguide.com/candidate/19510/race/2054/election/1204?culture=en-us",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He said immigrants generally should be allowed to use the legal immigration system and become citizens unless vetting finds a threat.",
+          "quote": "All citizens of the world, irrespective of the race, cultural backgrounds, religious believes on the competence which they are emigrating from should be allowed to immigrate to the legal immigration system and become citizens if they so choose.",
+          "sourceUrl": "https://ivoterguide.com/candidate/19510/race/2054/election/780?culture=en-us",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He said women have a protected right to choose and later supported nationwide abortion legalization while opposing national bans.",
+          "quote": "As organic citizens of the United States, women have a right to choose and their rights should be protected.",
+          "sourceUrl": "https://ivoterguide.com/candidate/19510/race/2054/election/780?culture=en-us",
+          "agreement": "7/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "McDermott said transgender women should not compete against athletes who have not medically transitioned.",
+          "quote": "I agree at some point you have to draw the line Equality is disrupted when those who have chosen to change their gender assigned at birth through medical procedures are not to be considered to be able to violate the equal rights of other athletes",
+          "sourceUrl": "https://ivoterguide.com/candidate/19510/race/2054/election/1204?culture=en-us",
+          "agreement": "6/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "strong",
+          "text": "McDermott explicitly opposed legalizing marijuana for recreational or other nonmedical use.",
+          "quote": "Legalization of marijuana for recreational use and nonmedical use is a mistake that will ultimately come back to haunt those who back it",
+          "sourceUrl": "https://georgemcdermott.com/campaign/",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "He proposed building from Medicare and the Affordable Care Act toward health care for all citizens, while also mentioning private partnerships.",
+          "quote": "At first I would start off with the base plans that we now have Medicare, and Obama care which need to be which need to be rewritten modified change so that the United States is in compliance with United Nations human rights tribunal which states that all citizens are entitled to healthcare.",
+          "sourceUrl": "https://ivoterguide.com/candidate/19510/race/2054/election/780?culture=en-us",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "McDermott strongly agreed that climate change requires urgent political action and identified renewable sources among the best energy options.",
+          "quote": "This candidate firmly believes that we have reached the tipping point in which we cannot put the monster of irreversible climate change back into a bottle and move on.",
+          "sourceUrl": "https://ivoterguide.com/candidate/19510/race/2054/election/1204?culture=en-us",
+          "agreement": "6/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "McDermott strongly supported allowing people to vote without photo identification.",
+          "quote": "I strongly believe that for 230 years we had legitimate elections where people did not have to produce photo IDs",
+          "sourceUrl": "https://ivoterguide.com/candidate/19510/race/2054/election/1204?culture=en-us",
+          "agreement": "6/10"
+        }
+      }
+    }
+  ],
+  "sources": "ivey.house.gov · govinfo.gov · assets.nationbuilder.com · d3n8a8pro7vhmx.cloudfront.net · georgemcdermott.com · ivoterguide.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

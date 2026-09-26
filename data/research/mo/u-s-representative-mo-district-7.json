@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "MO District 7",
+  "division": "mo/cd-7",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Eric W. Burlison",
+      "party": "Republican"
+    },
+    {
+      "name": "Missi Hesketh",
+      "party": "Democratic"
+    },
+    {
+      "name": "Kevin Craig",
+      "party": "Libertarian"
+    }
+  ]
+}

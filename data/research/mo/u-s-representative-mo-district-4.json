@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "MO District 4",
+  "division": "mo/cd-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Mark Alford",
+      "party": "Republican"
+    },
+    {
+      "name": "Jordan Herrera",
+      "party": "Democratic"
+    },
+    {
+      "name": "Thomas Holbrook",
+      "party": "Libertarian"
+    }
+  ]
+}

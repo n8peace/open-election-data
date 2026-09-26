@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "MO District 1",
+  "division": "mo/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Paul Berry III",
+      "party": "Republican"
+    },
+    {
+      "name": "Wesley Bell",
+      "party": "Democratic"
+    },
+    {
+      "name": "Tom Schmitz",
+      "party": "Libertarian"
+    }
+  ]
+}

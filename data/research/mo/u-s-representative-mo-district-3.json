@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "MO District 3",
+  "division": "mo/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Bob Onder",
+      "party": "Republican"
+    },
+    {
+      "name": "Bethany E Mann",
+      "party": "Democratic"
+    },
+    {
+      "name": "Jim Higgins",
+      "party": "Libertarian"
+    }
+  ]
+}
