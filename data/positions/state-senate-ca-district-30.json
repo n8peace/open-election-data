@@ -1,0 +1,135 @@
+{
+  "office": "State Senate",
+  "district": "CA District 30",
+  "division": "ca/sldu-30",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Bob J. Archuleta",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Archuleta twice voted for SB 9, which required approval of qualifying two-unit developments and urban lot splits.",
+          "quote": "Archuleta, Atkins, Becker, Bradford, Caballero, Cortese, Dahle, Dodd, Durazo, Eggman, Gonzalez, Grove, Hertzberg, Hueso",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB9",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "While promoting legislation increasing penalties for repeat theft, Archuleta said law enforcement should have every available tool to keep communities safe.",
+          "quote": "We must take steps to ensure that law enforcement has every tool available to them to keep our communities safe",
+          "sourceUrl": "https://sd30.senate.ca.gov/news/press-release/senator-archuleta-and-da-spitzer-introduce-legislation-hold-serial-thieves",
+          "agreement": "4/5"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "Archuleta introduced SB 923 to impose jail or prison terms on people convicted of a third theft offense.",
+          "quote": "The bill ensures that, beginning on a third offense, serial thieves are charged with between 6 months and three years’ imprisonment.",
+          "sourceUrl": "https://sd30.senate.ca.gov/news/press-release/senator-archuleta-and-da-spitzer-introduce-legislation-hold-serial-thieves",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Archuleta voted for AB 1766, which made state identification cards available regardless of immigration status.",
+          "quote": "Allen, Archuleta, Atkins, Becker, Bradford, Caballero, Cortese, Dodd, Durazo, Eggman, Glazer, Gonzalez, Hertzberg, Hueso",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220AB1766",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Archuleta twice voted for SB 2, which tightened concealed-carry licensing and restricted firearms in specified sensitive places.",
+          "quote": "Allen, Archuleta, Ashby, Atkins, Becker, Blakespear, Bradford, Cortese, Dodd, Durazo, Eggman, Glazer, Gonzalez, Laird",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240SB2",
+          "agreement": "3/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "Archuleta voted in committee and on the Senate floor for AB 1775, which expanded regulated cannabis-consumption businesses by permitting food and beverage sales.",
+          "quote": "Allen, Alvarado-Gil, Archuleta, Atkins, Becker, Blakespear, Bradford, Caballero, Cortese, Dahle, Dodd, Durazo, Eggman, Glazer",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1775",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Archuleta twice voted for SB 1020, which established interim clean-electricity targets and a 100-percent clean-power goal.",
+          "quote": "Allen, Archuleta, Atkins, Becker, Bradford, Caballero, Cortese, Dodd, Durazo, Eggman, Glazer, Gonzalez, Hertzberg, Hueso",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1020",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Archuleta voted for AB 37, which permanently required mailing a ballot to every active registered voter.",
+          "quote": "Allen, Archuleta, Atkins, Becker, Bradford, Caballero, Cortese, Dodd, Durazo, Eggman, Glazer, Gonzalez, Hertzberg, Hueso",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220AB37",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Araceli Martinez",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Martinez says she would cut taxes and oppose tax increases affecting small businesses and independent workers.",
+          "quote": "I will fight to lower the cost of living by cutting unnecessary taxes, reducing regulatory burdens, and making it easier to build and grow.",
+          "sourceUrl": "https://www.araceliforca.com/issues",
+          "agreement": "3/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Martinez supports fast-tracking housing construction by reducing reviews and litigation-related delays.",
+          "quote": "Housing: Make it easier to build affordable single-family home communities for teachers, first responders, and young families, while fast-tracking housing construction by cutting burdensome reviews and stopping lawsuit abuse that delays projects and drives up costs.",
+          "sourceUrl": "https://www.araceliforca.com/issues",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Martinez says she would support law enforcement and hold repeat offenders accountable.",
+          "quote": "I will support law enforcement, hold repeat offenders accountable, and push back on policies that have made our communities less safe.",
+          "sourceUrl": "https://www.araceliforca.com/",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Martinez supports expanding energy production and reversing policies she says increase utility costs.",
+          "quote": "Utilities: Bring down the cost of electricity and basic utilities by expanding reliable energy production, modernizing infrastructure, and stopping costly state policies that keep driving rates higher.",
+          "sourceUrl": "https://www.araceliforca.com/issues",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "leginfo.legislature.ca.gov · sd30.senate.ca.gov · araceliforca.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
