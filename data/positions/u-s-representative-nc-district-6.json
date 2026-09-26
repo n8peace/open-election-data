@@ -1,0 +1,176 @@
+{
+  "office": "U.S. Representative",
+  "district": "NC District 6",
+  "division": "nc/cd-6",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Addison McDowell",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "McDowell voted to advance legislation that his office said would lock in tax cuts for families and small businesses.",
+          "quote": "The One Big Beautiful Bill Act locks in tax cuts for hardworking families and small businesses; opens up American energy production; reins in regulatory overreach; right-sizes our bloated bureaucracy by rooting out waste, fraud, and abuse; and secures our border and strengthens our military.",
+          "sourceUrl": "https://mcdowell.house.gov/media/press-releases/congressman-mcdowell-votes-advance-one-big-beautiful-bill-act-through-house",
+          "agreement": "4/5"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "McDowell criticized the free-trade agenda and endorsed an America First approach intended to protect American jobs.",
+          "quote": "North Carolinians have all seen how a community can be decimated by the free-trade agenda pushed by previous Presidents, Democrat and Republican alike. That’s why I support President Trump’s America First Agenda that protects and promotes American jobs.",
+          "sourceUrl": "https://www.mcdowellfornc.com/",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "McDowell's official congressional website says he has supported school-choice and parental-rights legislation.",
+          "quote": "McDowell has supported those priorities in Congress through school choice and parental-rights legislation, Title IX protections for women and girls, conscience protections, pro-life legislation and stronger online safeguards for children.",
+          "sourceUrl": "https://mcdowell.house.gov/media/press-releases/mcdowell-brings-faith-family-and-community-leaders-together-values-roundtable",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "McDowell secured $3.5 million for a combined police, fire, and emergency-services facility in Lexington.",
+          "quote": "The funding would be used to construct a new building that houses the city’s emergency services. Funding would go toward the construction of a new combined facility for the city’s fire station and police department.",
+          "sourceUrl": "https://mcdowell.house.gov/media/press-releases/rep-addison-mcdowell-secures-major-public-safety-investments-lexington-and",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "McDowell calls securing the southern border and stopping illegal drug flows a personal priority.",
+          "quote": "We must secure the Southern Border and stop the flow of illegal drugs from flooding into our country. This isn’t just a talking point for me, it’s personal.",
+          "sourceUrl": "https://www.mcdowellfornc.com/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "McDowell says he will oppose government actions that restrict Second Amendment rights.",
+          "quote": "I believe that the right to self-defense is a God-given, constitutional right of every law-abiding American. As an avid hunter and gun enthusiast, I will fight government overreach that aims to disrupt North Carolinians’ 2nd Amendment rights.",
+          "sourceUrl": "https://www.mcdowellfornc.com/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "McDowell's official congressional website says he has supported pro-life legislation.",
+          "quote": "McDowell has supported those priorities in Congress through school choice and parental-rights legislation, Title IX protections for women and girls, conscience protections, pro-life legislation and stronger online safeguards for children.",
+          "sourceUrl": "https://mcdowell.house.gov/media/press-releases/mcdowell-brings-faith-family-and-community-leaders-together-values-roundtable",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "McDowell's official congressional website says he has supported Title IX protections for women and girls.",
+          "quote": "McDowell has supported those priorities in Congress through school choice and parental-rights legislation, Title IX protections for women and girls, conscience protections, pro-life legislation and stronger online safeguards for children.",
+          "sourceUrl": "https://mcdowell.house.gov/media/press-releases/mcdowell-brings-faith-family-and-community-leaders-together-values-roundtable",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "McDowell voted to advance legislation described by his office as opening American energy production and reducing regulation.",
+          "quote": "The One Big Beautiful Bill Act locks in tax cuts for hardworking families and small businesses; opens up American energy production; reins in regulatory overreach; right-sizes our bloated bureaucracy by rooting out waste, fraud, and abuse; and secures our border and strengthens our military.",
+          "sourceUrl": "https://mcdowell.house.gov/media/press-releases/congressman-mcdowell-votes-advance-one-big-beautiful-bill-act-through-house",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "McDowell supports voter-identification requirements, tighter absentee-ballot restrictions, election-day receipt deadlines and signature verification.",
+          "quote": "We should also tighten restrictions on absentee voting, so that all votes are received by election day & signature verification is used to ensure voter fraud doesn’t occur.",
+          "sourceUrl": "https://www.mcdowellfornc.com/issues",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Cyril Jefferson",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Jefferson presented economic, public-safety, and social-policy priorities while promising not to raise taxes.",
+          "quote": "securing the well-being of North Carolina families—all without raising taxes.",
+          "sourceUrl": "https://www.cyrilforcongress.com/news/news-1",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Jefferson opposes broad tariffs that raise costs while supporting targeted trade policies.",
+          "quote": "Oppose reckless tariffs that act as hidden taxes on working families.",
+          "sourceUrl": "https://www.cyrilforcongress.com/issues/affordability-cost-of-living",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Jefferson pledges to protect Medicare and Medicaid benefits.",
+          "quote": "Protect Medicaid and Medicare for North Carolina families and seniors.",
+          "sourceUrl": "https://www.cyrilforcongress.com/issues/healthcare-hunger-relief",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Jefferson supports expanding housing supply and cutting regulatory barriers to homebuilding.",
+          "quote": "Expand housing supply and cut red tape that makes it harder",
+          "sourceUrl": "https://www.cyrilforcongress.com/issues/affordability-cost-of-living",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Jefferson supports both modern policing and investments in mental-health response and youth intervention.",
+          "quote": "modern policing, expanded mental health resources, and proven youth intervention programs",
+          "sourceUrl": "https://www.cyrilforcongress.com/news/news-1",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Jefferson supports expanding legal visa pathways alongside border-security measures and employment verification.",
+          "quote": "Fix our broken immigration system. He’ll expand legal visa pathways, streamline hiring for trusted employers, and protect American wages with E-Verify.",
+          "sourceUrl": "https://www.cyrilforcongress.com/issues/issue-1",
+          "agreement": "5/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Jefferson says abortion decisions should remain a person's choice rather than the government's.",
+          "quote": "it’s someone else’s right to choose the healthcare that is most helpful to them.",
+          "sourceUrl": "https://www.cyrilforcongress.com/issues/healthcare-hunger-relief",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "mcdowell.house.gov · mcdowellfornc.com · cyrilforcongress.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

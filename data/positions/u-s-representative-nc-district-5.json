@@ -1,0 +1,262 @@
+{
+  "office": "U.S. Representative",
+  "district": "NC District 5",
+  "division": "nc/cd-5",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Virginia Foxx",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Foxx says economic growth requires low taxes and cites her support for the Tax Cuts and Jobs Act.",
+          "quote": "If we want strong economic growth and increasing economic freedom we need a fair tax system, which starts with low taxes.",
+          "sourceUrl": "https://virginiafoxx.com/issues/",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "Foxx said the federal government should not set salaries and that wages should be left to the marketplace.",
+          "quote": "So the government ought not to be telling the people who do this day in and day out what to pay as salaries. That has got to be left up to the marketplace.",
+          "sourceUrl": "https://foxx.house.gov/news/documentsingle.aspx?DocumentID=399011",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Foxx endorsed trade reforms that favor free trade while holding trading partners accountable.",
+          "quote": "I support the President’s pursuit of overdue reforms that favor free trade and accountability for America’s trade partners.",
+          "sourceUrl": "https://foxx.house.gov/news/documentsingle.aspx?DocumentID=399470",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "Foxx said Social Security's retirement age would probably need to rise and promoted partial privatization for younger workers.",
+          "quote": "Eventually, we must face up to the demographics and probably raise the age.",
+          "sourceUrl": "https://foxx.house.gov/news/documentsingle.aspx?DocumentID=399019",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Foxx introduced legislation intended to help governments eliminate regulatory barriers to affordable housing and promote land-use policies that increase supply.",
+          "quote": "As state and local officials nationwide seek to increase affordable housing, the federal government’s limited role should be to assist them in identifying the barriers that contribute to the housing supply shortage and assist them in promoting effective land use policies.",
+          "sourceUrl": "https://foxx.house.gov/news/documentsingle.aspx?DocumentID=399763",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Foxx introduced legislation to reauthorize Washington's Opportunity Scholarship Program for low-income students attending private schools.",
+          "quote": "School choice has the power to improve the lives and trajectories of our nation’s future leaders – there’s no question or debate about it.",
+          "sourceUrl": "https://foxx.house.gov/news/documentsingle.aspx?DocumentID=400169",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Foxx highlighted increased COPS hiring-grant funding and pledged continued support for law-enforcement needs.",
+          "quote": "The COPS hiring grant program also received a $28 million increase in FY19 to aid with the hiring of new law enforcement officers around the country.",
+          "sourceUrl": "https://foxx.house.gov/news/documentsingle.aspx?DocumentID=399580",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Foxx supports securing the border and enforcing existing immigration laws.",
+          "quote": "Thus, our guiding light on immigration reform should be to secure our borders, uphold our laws, and protect our national security.",
+          "sourceUrl": "https://virginiafoxx.com/issues/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Foxx pledges to oppose government measures that restrict law-abiding citizens' gun rights.",
+          "quote": "As a lifelong supporter of your right to keep and bear arms, I am dedicated to fighting government efforts that infringe on law-abiding citizens’ Second Amendment rights.",
+          "sourceUrl": "https://virginiafoxx.com/issues/",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Foxx supports restricting elective abortions and ending federal funding for abortion providers.",
+          "quote": "As a pro-life champion, I will never waver in my support of efforts to halt the scourge of abortion, including banning elective abortion on developed, unborn children capable of feeling pain and ending federal funding of the abortion industry.",
+          "sourceUrl": "https://virginiafoxx.com/issues/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Foxx supported the Protection of Women and Girls in Sports Act and opposed allowing transgender women to compete in women's school sports.",
+          "quote": "Democrats refuse to posit a reason for allowing biological men to compete in women’s sports that comports with principles of athletic competition like fairness and integrity.",
+          "sourceUrl": "https://edworkforce.house.gov/news/documentsingle.aspx?DocumentID=409080",
+          "agreement": "10/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "In a statement about marijuana laws, Foxx said she would continue opposing efforts that make drugs easier to grow and use.",
+          "quote": "Drug addiction is one of the largest challenges we face in this country and I will continue to oppose any effort to make it easier for people to grow and use drugs.",
+          "sourceUrl": "https://vote.norml.org/politicians/6051",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Foxx opposes Medicare for All and favors patient choice, private coverage, and market competition.",
+          "quote": "I will continue to oppose radical policies like “Medicare for All,” legislation that would eliminate private insurance and disrupt coverage for hundreds of millions of Americans.",
+          "sourceUrl": "https://virginiafoxx.com/issues/",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Foxx emphasizes lower energy costs and energy-sector jobs while opposing prescriptive federal climate regulations.",
+          "quote": "This has resulted in lower energy bills for all Americans, less costly stops at the gas pump, and most importantly, hundreds of thousands of new, well-paying jobs for American workers.",
+          "sourceUrl": "https://virginiafoxx.com/issues/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Foxx voted for legislation requiring photo identification, in-person citizenship proof at registration, and removal of noncitizens from voter rolls.",
+          "quote": "Requiring individuals to present an eligible photo identification document before voting.",
+          "sourceUrl": "https://foxx.house.gov/news/email/show.aspx?ID=UMJO3FS45P45MS574WV76Q7SF4",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Robert B. Luffman",
+      "party": "LIB",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Luffman called for lowering or eliminating taxes while shrinking government and spending.",
+          "quote": "Helping NC-5 would have to start by lowering and eliminating taxes. Helping would involve shrinking the government and government spending.",
+          "sourceUrl": "https://www.lpnc.org/luffman",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Luffman proposed making SSI voluntary, shifting retirement investment to the open market, and cutting federal spending.",
+          "quote": "I would like to make SSI voluntary. The ROI on SSI is poor. I propose that individuals, as a part of their individual liberty, can invest in a retirement account on the open market.",
+          "sourceUrl": "https://www.lpnc.org/luffman",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Luffman rejected open borders but also called for an overhaul that would make legal vetting faster and less expensive.",
+          "quote": "Personally I do not believe in an open border policy, and I do not believe our current immigration system works. It needs a complete overhaul.",
+          "sourceUrl": "https://www.lpnc.org/luffman",
+          "agreement": "2/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Luffman said the Second Amendment should be the only gun law and argued that other gun laws burden lawful owners.",
+          "quote": "The Second Amendment is the only gun law I personally believe in. Firearm ownership is as American as apple pie. Gun laws only restrict the rights of legal owners.",
+          "sourceUrl": "https://www.lpnc.org/luffman",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "Luffman affirmed a woman's right to choose but would limit federal payment to abortions involving medical need, rape, incest, or danger to the woman.",
+          "quote": "Her body, her choice right? Certainly so. This life experience is my fundamental belief on abortion and women's rights.",
+          "sourceUrl": "https://www.lpnc.org/luffman",
+          "agreement": "3/3"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Luffman pledged to legalize cannabis nationwide and expunge simple-possession records.",
+          "quote": "I will fight for the nationwide legalization and use of it, and products made from it.",
+          "sourceUrl": "https://www.lpnc.org/luffman",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Chuck Hubbard",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He calls for federal action on basic needs and shifting more of the tax burden to wealthy people and corporations.",
+          "quote": "Congress must act to address the rising cost of basic needs, such as health care, housing, child care, groceries, and utilities. We need to raise the minimum wage. And we must shift the tax base more to rich people and wealth corporations.",
+          "sourceUrl": "https://hubbardforcongress.com/platform",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Hubbard says Congress should raise the federal minimum wage.",
+          "quote": "Congress must act to address the rising cost of basic needs, such as health care, housing, child care, groceries, and utilities. We need to raise the minimum wage.",
+          "sourceUrl": "https://hubbardforcongress.com/platform",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Hubbard calls for federal support for public schools, teachers, and school infrastructure.",
+          "quote": "Our public education system is the backbone of our country and, even though much of the policy decisions are made at the state level, Congress must do everything it can to support public education, teachers, and the physical infrastructure needed.",
+          "sourceUrl": "https://hubbardforcongress.com/platform",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Hubbard opposes the current immigration crackdown and supports faster processing and additional routes for legal immigration.",
+          "quote": "We need to provide better support to our federal agencies responsible for filing through citizenship applications to provide faster service and tracks to legal immigration.",
+          "sourceUrl": "https://www.wsoctv.com/news/local/political-beat-candidate-guide-house-representatives-district-5/UVAAMSJOE5CBVKTXA55FRMRWPE/",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Hubbard says abortion decisions should remain between patients and doctors and that federal law should protect access.",
+          "quote": "Abortion is an issue that should be discussed in a doctor’s office between a patient and their doctor. There’s no room for the government in that conversation. Abortion is a medical procedure and should have been codified into law nationally long ago.",
+          "sourceUrl": "https://hubbardforcongress.com/platform",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Hubbard supports a government health-insurance option to strengthen rural health infrastructure and lower prices.",
+          "quote": "I believe that it is our responsibility to provide a government option that can be used to support health care infrastructure in rural areas, and keep prices low for everyone.",
+          "sourceUrl": "https://hubbardforcongress.com/platform",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "virginiafoxx.com · foxx.house.gov · edworkforce.house.gov · vote.norml.org · lpnc.org · hubbardforcongress.com · wsoctv.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
