@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "GA District 13",
+  "division": "ga/cd-13",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Jonathan Chavez",
+      "party": "Republican"
+    },
+    {
+      "name": "Jasmine Clark",
+      "party": "Democratic"
+    }
+  ]
+}

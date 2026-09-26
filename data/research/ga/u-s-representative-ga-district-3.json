@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "GA District 3",
+  "division": "ga/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Brian Jack",
+      "party": "Republican"
+    },
+    {
+      "name": "Maura Keller",
+      "party": "Democratic"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Senate",
+  "district": "GA",
+  "division": "ga/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Mike Collins",
+      "party": "Republican"
+    },
+    {
+      "name": "Jon Ossoff",
+      "party": "Democrat"
+    },
+    {
+      "name": "Allen Buckley",
+      "party": "Libertarian"
+    }
+  ]
+}

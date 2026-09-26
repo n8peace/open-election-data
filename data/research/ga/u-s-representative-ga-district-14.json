@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "GA District 14",
+  "division": "ga/cd-14",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Clay Fuller",
+      "party": "Republican"
+    },
+    {
+      "name": "Shawn Harris",
+      "party": "Democratic"
+    },
+    {
+      "name": "Andrew Underwood",
+      "party": "Libertarian"
+    }
+  ]
+}

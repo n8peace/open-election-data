@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "GA District 6",
+  "division": "ga/cd-6",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Kevin Martin",
+      "party": "Republican"
+    },
+    {
+      "name": "Lucy McBath",
+      "party": "Democratic"
+    }
+  ]
+}

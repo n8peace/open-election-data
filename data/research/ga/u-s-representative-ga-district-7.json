@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "GA District 7",
+  "division": "ga/cd-7",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Rich McCormick",
+      "party": "Republican"
+    },
+    {
+      "name": "Tony Kozycki",
+      "party": "Democratic"
+    }
+  ]
+}

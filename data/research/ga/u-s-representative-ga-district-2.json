@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "GA District 2",
+  "division": "ga/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Matt Day",
+      "party": "Republican"
+    },
+    {
+      "name": "Sanford Bishop",
+      "party": "Democratic"
+    }
+  ]
+}

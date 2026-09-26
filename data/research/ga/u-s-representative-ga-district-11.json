@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "GA District 11",
+  "division": "ga/cd-11",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "John Cowan",
+      "party": "Republican"
+    },
+    {
+      "name": "Chris Harden",
+      "party": "Democratic"
+    }
+  ]
+}

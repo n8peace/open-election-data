@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "GA District 4",
+  "division": "ga/cd-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Jim Duffie",
+      "party": "Republican"
+    },
+    {
+      "name": "Hank Johnson",
+      "party": "Democratic"
+    }
+  ]
+}

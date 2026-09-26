@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "GA District 9",
+  "division": "ga/cd-9",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Andrew Clyde",
+      "party": "Republican"
+    },
+    {
+      "name": "Caitlyn Gegen",
+      "party": "Democratic"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "GA District 10",
+  "division": "ga/cd-10",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Houston Gaines",
+      "party": "Republican"
+    },
+    {
+      "name": "Pamela Delancy",
+      "party": "Democrat"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "GA District 12",
+  "division": "ga/cd-12",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Rick Allen",
+      "party": "Republican"
+    },
+    {
+      "name": "Ceretta Smith",
+      "party": "Democratic"
+    }
+  ]
+}
