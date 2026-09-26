@@ -1,0 +1,192 @@
+{
+  "office": "U.S. Representative",
+  "district": "IN District 4",
+  "division": "in/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Drew Cox",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Cox supports higher taxes on the ultra-wealthy and large estates to fund health care, education and housing.",
+          "quote": "Drew advocates for the passage of the For the 99.5 Percent Act and the implementation of a progressive tax system with higher tax brackets for the ultra wealthy (.05%) and corporations’ massive estates must be taxed at the same rate as other income, and all tax loopholes must be closed.",
+          "sourceUrl": "https://www.drewcox.org/tax-the-top",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Cox supports a $17 federal minimum wage indexed to inflation and legislation strengthening unions.",
+          "quote": "He will fight for the passage of the Raise the Wage Act raising the federal minimum wage to 17 dollars an hour and requiring the federal government to match future wages with inflation.",
+          "sourceUrl": "https://www.drewcox.org/worker-union-rights",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Cox opposes tariffs that raise consumer prices and favors freer trade with countries such as China.",
+          "quote": "So I immediately support raising the minimum wage again, treating other countries like partners instead of adversaries — like China for instance — and that would allow us to have, you know, better free market exchanges with other countries, and, you know, trade policies that benefit United States workers, yeah.",
+          "sourceUrl": "https://www.wfyi.org/statewide/2026-09-21/2026-voter-guide-indianas-4th-congressional-district",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Cox supports abolishing ICE and replacing it with a fairer and more efficient immigration system.",
+          "quote": "He will also advocate for the abolition of ICE and the implementation of a fair, equitable and efficient immigration system.",
+          "sourceUrl": "https://www.drewcox.org/rights-and-liberties",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Cox supports Medicare for All, including mental and reproductive health care.",
+          "quote": "Drew Cox will fight to pass the Medicare for all Act to guarantee healthcare to all Americans not as a commodity but as a human right. This must include mental healthcare and reproductive healthcare.",
+          "sourceUrl": "https://www.drewcox.org/healthcare",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Cox supports requiring data centers to use green energy and imposing a federal moratorium while regulations are developed.",
+          "quote": "Drew Cox will fight to implement a federal moratorium on AI data centers, as well as regulation requiring that all data centers use green energy to power their activities.",
+          "sourceUrl": "https://www.drewcox.org/data-centers",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Jim Baird",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Baird voted for the 2025 budget legislation and praised its tax cuts for workers, families, seniors and farmers.",
+          "quote": "This big, beautiful bill delivers historic tax relief for the American people, including seniors, eliminates taxes on tips and overtime, makes strategic investments in our military, secures our borders, authorizes the completion of the border wall, and invests in our farmers and producers.",
+          "sourceUrl": "https://baird.house.gov/news/documentsingle.aspx?DocumentID=1477",
+          "agreement": "9/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "Baird voted against the PRO Act and characterized its union-strengthening provisions as harmful to workers.",
+          "quote": "This bill is a political giveaway to union bosses at the expense of American workers.",
+          "sourceUrl": "https://baird.house.gov/news/documentsingle.aspx?DocumentID=143",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Baird said Social Security benefits must be protected for future generations.",
+          "quote": "Social Security benefits must be protected for future generation.",
+          "sourceUrl": "https://ivoterguide.com/candidate?canK=29464&elecK=784&primarypartyk=-&raceK=1364",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Baird praised an executive order reducing the federal role in education and called for school choice to be available to every family.",
+          "quote": "This Executive Order is a monumental step in making school choice a reality for every family, improving educational outcomes for our students, empowering parents, and making American education great again.",
+          "sourceUrl": "https://baird.house.gov/news/documentsingle.aspx?DocumentID=1465",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Baird called for providing police with the resources and tools needed to do their jobs effectively.",
+          "quote": "We need to make sure that they have the resources and the tools and all the things that are necessary for them to be able to do that job well,",
+          "sourceUrl": "https://baird.house.gov/news/documentsingle.aspx?DocumentID=193",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Baird supports funding ICE to remove immigrants with criminal records and enforce immigration laws.",
+          "quote": "We must enforce our immigration laws. That means supporting ICE with the resources they need to remove criminal illegal immigrants and secure our communities.",
+          "sourceUrl": "https://www.basedinlafayette.com/p/2026-primary-candidate-q-and-a-us",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Baird voted against universal and expanded background-check bills, arguing that they burden lawful gun owners.",
+          "quote": "These gun control bills punish law-abiding Americans rather than focus on criminals breaking the law. Studies show most criminals obtain firearms through illicit means like purchasing them on the black market and these bills would do little to prevent firearms from getting into their hands.",
+          "sourceUrl": "https://baird.house.gov/news/documentsingle.aspx?documentid=144",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Baird described himself as a staunch supporter of protecting unborn life and supported the Supreme Court's reversal of Roe v. Wade.",
+          "quote": "Let me first make clear that I am a staunch supporter of protecting the unborn and have an “A” rating on the Susan B. Anthony Pro-Life scorecard.",
+          "sourceUrl": "https://www.basedinlafayette.com/p/candidate-q-and-a-us-house-4th-district",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Baird voted against the Equality Act and cited objections to biological males competing in female sports.",
+          "quote": "Many parents worry about allowing men access to women restrooms and about biological males competing in female sports",
+          "sourceUrl": "https://baird.house.gov/news/documentsingle.aspx?DocumentID=139",
+          "agreement": "9/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "strong",
+          "text": "Baird voted against the 2022 MORE Act, which would have federally descheduled and legalized cannabis.",
+          "quote": "Voted AGAINST the MORE Act H.R.3617 in 2022, which provides for federal descheduling, legalization, and taxation of cannabis at the federal level, with community reinvestment and a focus on equity.",
+          "sourceUrl": "https://www.mpp.org/assets/pdf/takeaction/election-central1/voter-guides/mpp-scorecard-us-congress-and-incumbents-2024.pdf?v=1752570194",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Baird said health-care access and affordability should be improved through free-market innovation and competition.",
+          "quote": "I believe the keys to improve access and affordability to health care are achieved through innovation and competition in the free market.",
+          "sourceUrl": "https://www.basedinlafayette.com/p/candidate-q-and-a-us-house-4th-district",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Baird proposed lowering inflation by expanding domestic energy production and restoring energy independence.",
+          "quote": "Next Congress, Republicans will lower inflation by unleashing American energy and returning our country to being energy independent once again.",
+          "sourceUrl": "https://www.basedinlafayette.com/p/candidate-q-and-a-us-house-4th-district",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Baird opposed legislation expanding mail voting and restricting state voter-identification requirements.",
+          "quote": "The bill eliminates state safeguards on voter integrity by forcing states to permanently expand mail-in voting, legalize ballot harvesting, and banning voter ID laws.",
+          "sourceUrl": "https://baird.house.gov/news/documentsingle.aspx?DocumentID=148",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "drewcox.org · wfyi.org · baird.house.gov · ivoterguide.com · basedinlafayette.com · mpp.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

@@ -1,0 +1,224 @@
+{
+  "office": "U.S. Representative",
+  "district": "IN District 5",
+  "division": "in/cd-5",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "J.D. Ford",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Ford proposes taxing earnings above $250,000 for Social Security to sustain the program.",
+          "quote": "Scrap the cap on earnings more than 250,000, ensuring we all pay our fair share to fund the system for generations.",
+          "sourceUrl": "https://www.ballotready.org/people/j-d-ford-e1f05b3f-c50f-408f-b27c-6b594c3920a0",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Ford says he sponsored legislation to raise teacher base pay and protect educators’ collective-bargaining rights.",
+          "quote": "I have been a lead sponsor of legislation to increase teacher base pay and protect the collective bargaining rights of our educators.",
+          "sourceUrl": "https://www.muncieresists.org/jdford2026",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Ford calls for reversing recent tariffs as part of his plan to lower grocery prices.",
+          "quote": "Lower grocery prices by blocking grocery mega-mergers and reversing recent tariffs.",
+          "sourceUrl": "https://www.ballotready.org/people/j-d-ford-e1f05b3f-c50f-408f-b27c-6b594c3920a0",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Ford says he has consistently opposed diverting public-school funding to private institutions.",
+          "quote": "I have stood against every attempt to siphon away our tax dollars to private institutions that lack the transparency and accountability we demand from our public schools.",
+          "sourceUrl": "https://www.muncieresists.org/jdford2026",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Ford supports comprehensive immigration reform with an earned citizenship pathway and deportation protection for Dreamers.",
+          "quote": "I will support comprehensive immigration reform that includes a clear, earned pathway to citizenship and protects Dreamers from the threat of deportation.",
+          "sourceUrl": "https://www.muncieresists.org/jdford2026",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Ford supports universal background checks and red-flag laws.",
+          "quote": "Protect schools and neighborhoods by enacting common-sense gun safety measures, like universal background checks and red flag laws to keep our schools and neighborhoods safe.",
+          "sourceUrl": "https://www.ballotready.org/people/j-d-ford-e1f05b3f-c50f-408f-b27c-6b594c3920a0",
+          "agreement": "3/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "Ford opposed legislation barring transgender girls from participating on girls' school sports teams.",
+          "quote": "we’ve chosen to spend our time and energy targeting minors who want to play school sports.",
+          "sourceUrl": "https://indianasenatedemocrats.org/ford-statement-on-the-senate-passage-of-hb-1041/",
+          "agreement": "3/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Ford supports federal marijuana descheduling and treating legal cannabis businesses like other regulated industries.",
+          "quote": "Increase state tax revenue by de-scheduling marijuana at the federal level, ending the drain of Hoosier tax dollars to Illinois and Michigan and allowing Indiana to use those funds in our own communities.",
+          "sourceUrl": "https://www.ballotready.org/people/j-d-ford-e1f05b3f-c50f-408f-b27c-6b594c3920a0",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Ford says he has fought to protect and expand Indiana’s Medicaid-based HIP 2.0 program.",
+          "quote": "I have fought to protect and expand Indiana’s HIP 2.0 program, ensuring that hundreds of thousands of our neighbors do not lose their doctor or their prescriptions due to administrative red tape.",
+          "sourceUrl": "https://www.muncieresists.org/jdford2026",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Ford calls for transitioning Indiana’s electrical grid to clean, renewable energy sources.",
+          "quote": "Indiana must transition to a modernized, resilient electrical grid powered by a diverse mix of clean, renewable sources.",
+          "sourceUrl": "https://www.muncieresists.org/jdford2026",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Ford supports same-day voter registration, expanded early voting, and broader mail-ballot access.",
+          "quote": "I’ve advocated for same-day voter registration and the expansion of early voting hours to accommodate working families.",
+          "sourceUrl": "https://www.muncieresists.org/jdford2026",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Victoria Spartz",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She said debt should be addressed by cutting unnecessary federal spending rather than raising taxes.",
+          "quote": "The debt can be tackled, not by raising taxes on US citizens, but by taking a critical look at the unnecessary spending of the federal government.",
+          "sourceUrl": "https://www.spartzforcongress.com/issues/",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "She opposed the PRO Act while stating that she did not oppose union organizing generally.",
+          "quote": "To be clear, I have never opposed union rights to organize. In fact, I have worked with them on some valid issues. However, this bill, among its many concerning provisions, denies States’ rights.",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/CREC-2021-03-09/pdf/CREC-2021-03-09.pdf",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "She said Medicare and Medicaid should remain available but be reformed for better value and less fraud.",
+          "quote": "C) Medicaid and Medicare should be available but they should be reformed to provide better value and eliminate fraud and abuse. Healthcare must be reformed to provide more transparency and competition for value.",
+          "sourceUrl": "https://ivoterguide.com/candidate/50424/race/1365/election/1203",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "She explicitly supported vouchers, tax credits, charter schools, private schools and home schools.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools.",
+          "sourceUrl": "https://ivoterguide.com/candidate/50424/race/1365/election/1203",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "She strongly opposed redirecting police funding to community programs.",
+          "quote": "I support redirecting funds from police departments to community programs.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/50424/race/1365/election/1203",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "She said immigration should occur only legally and when it serves the national interest.",
+          "quote": "People should only immigrate legally when it benefits our national interest.",
+          "sourceUrl": "https://ivoterguide.com/candidate/50424/race/1365/election/1203",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "She said restricting gun ownership by law-abiding citizens would not improve public safety.",
+          "quote": "2nd Amendment rights are fundamental to protect 1st Amendment and other rights. Restricting gun ownership for law abiding citizens is not going to improve public safety, but will do otherwise.",
+          "sourceUrl": "https://ivoterguide.com/candidate/50424/race/1365/election/1203",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "She said elective abortion should be allowed when the mother's life is at risk.",
+          "quote": "Under what circumstances should an elective abortion be allowed?\n\nLife of mother",
+          "sourceUrl": "https://ivoterguide.com/candidate/50424/race/1365/election/1203",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "She strongly agreed that women's sports and spaces should be restricted based on biological sex.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/50424/race/1365/election/1203",
+          "agreement": "5/5"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "She opposed recreational marijuana legalization while supporting a streamlined approval process for medicinal marijuana.",
+          "quote": "She said she does not support the legalization of recreational marijuana, but said she supports streamlining the approval process for medicinal marijuana from the Food and Drug Administration.",
+          "sourceUrl": "https://vote.norml.org/politicians/178203",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "She called for more competition, consumer choice and value-based health-care delivery.",
+          "quote": "We have to increase transparency and competition, allow more consumer choice and more innovative value-based, not volume-based, health care delivery models.",
+          "sourceUrl": "https://www.spartzforcongress.com/issues/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "She strongly rejected the proposition that climate change requires urgent political action.",
+          "quote": "Man-made climate change is a global threat and requires urgent political action.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/50424/race/1365/election/1203",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "ballotready.org · muncieresists.org · indianasenatedemocrats.org · spartzforcongress.com · govinfo.gov · ivoterguide.com · vote.norml.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

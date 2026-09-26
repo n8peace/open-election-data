@@ -1,0 +1,200 @@
+{
+  "office": "U.S. Representative",
+  "district": "IN District 6",
+  "division": "in/cd-6",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Cynthia (Cinde) Wirth",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Wirth says she will raise the minimum wage so full-time workers can meet their basic needs.",
+          "quote": "No one who works 40 hours a week should be facing poverty, living without safe housing, or struggling to meet basic needs. Cinde will work to raise the minimum wage so that Hoosiers have a better quality of life.",
+          "sourceUrl": "https://wirth4congress.com/priorities/empower-working-families/",
+          "agreement": "3/3"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Wirth calls for rolling back tariffs and treating U.S. allies as trading partners.",
+          "quote": "So, we need to roll those back. Start treating our allies across the world as our actual allies and our trading partners and not sort of hold them hostage to these insane tariff demands.",
+          "sourceUrl": "https://www.wfyi.org/statewide/2026-09-23/2026-voter-guide-indianas-6th-congressional-district",
+          "agreement": "2/3"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Wirth supports Medicare for All and safeguards protecting Social Security and Medicare.",
+          "quote": "Cinde believes in Medicare for all. She supports enacting safeguards that will protect Social Security and Medicare for the generations to come.",
+          "sourceUrl": "https://wirth4congress.com/priorities/improve-access-to-healthcare/",
+          "agreement": "3/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Wirth proposes federal incentives for builders to construct affordable housing units.",
+          "quote": "Those are programs like affordable housing programs where we can actually have incentivized builders, incentivized to build affordable housing units.",
+          "sourceUrl": "https://www.wfyi.org/statewide/2026-09-23/2026-voter-guide-indianas-6th-congressional-district",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Wirth calls for stronger federal support and funding for public schools, teachers, and students.",
+          "quote": "Congress must support public education by enhancing previous funding formulas and supporting the needs of teachers and students.",
+          "sourceUrl": "https://wirth4congress.com/priorities/strengthen-public-education/",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Wirth calls for abolishing ICE in its current form while guaranteeing due process and human rights for immigrants.",
+          "quote": "We're, almost all of us, are from immigrant families, and we need to make sure that everyone has due process, and we uphold human rights for everyone.",
+          "sourceUrl": "https://www.wfyi.org/statewide/2026-09-23/2026-voter-guide-indianas-6th-congressional-district",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Wirth supports expanded firearm background checks, regulation, and gun-safety programs.",
+          "quote": "But these experiences do not change her immovable position that guns should be well-regulated, firearm background checks expanded, and gun-safety programs also expanded.",
+          "sourceUrl": "https://wirth4congress.com/priorities/strengthen-public-education/",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Wirth says reproductive and pregnancy-care decisions should be left to patients rather than legislators.",
+          "quote": "Legislators have no place in the exam room, and we must trust people to make those decisions for themselves. Cinde will fight to protect and safeguard healthcare freedoms – for every Hoosier.",
+          "sourceUrl": "https://wirth4congress.com/priorities/improve-access-to-healthcare/",
+          "agreement": "3/3"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "Wirth supports legalizing medical cannabis, decriminalizing possession, and ending the federal ban.",
+          "quote": "Cinde supports legalizing medical cannabis and decriminalizing the possession of cannabis. She has spoken out against the federal ban on cannabis and cannabis products.",
+          "sourceUrl": "https://wirth4congress.com/priorities/improve-access-to-healthcare/",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Wirth supports a universal single-payer health system and expanded community health centers.",
+          "quote": "People make the best decisions about their own healthcare. We need to invest in a single-payer healthcare system and community health centers that serve all people, especially our most at-risk groups, in both urban and rural areas.",
+          "sourceUrl": "https://wirth4congress.com/priorities/improve-access-to-healthcare/",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Wirth calls for immediate environmental action and investment in clean and renewable energy.",
+          "quote": "We must take action immediately to ensure the Earth is hospitable for future generations. Cinde will push for investments in clean forms of energy and renewable resources.",
+          "sourceUrl": "https://wirth4congress.com/priorities/",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Wirth supports automatic and same-day registration, early voting, mail ballots, and secure drop boxes.",
+          "quote": "We need automatic voter registration, same-day and online options, early voting, mail ballots, and secure drop boxes so everyone votes easily and securely.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=71994249",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "Jefferson Shreve",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Shreve says cutting taxes and regulation for small businesses is a major priority.",
+          "quote": "Cutting regulations, taxes and red tape to keep small business owners working will be a major priority for Jefferson.",
+          "sourceUrl": "https://shreveforcongress.cis.bz/issues/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "Shreve's official biography identifies restraining federal spending and controlling the national debt as legislative priorities.",
+          "quote": "He’s focused on reining in federal spending, toward getting our nation’s growing debt crisis under control.",
+          "sourceUrl": "https://shreve.house.gov/about/biography",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Shreve says he will help police and fire departments obtain training and equipment.",
+          "quote": "Jefferson will work to ensure that fire and police departments have the necessary training and equipment.",
+          "sourceUrl": "https://shreveforcongress.cis.bz/issues/",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Shreve sponsored legislation directing unused COVID funds toward construction of the southern border wall.",
+          "quote": "Mr. Shreve’s bill provides additional construction funding to complete our southern border wall by utilizing unspent COVID funds.",
+          "sourceUrl": "https://shreve.house.gov/media/press-releases/congressman-shreves-legislation-build-wall-act-included-one-big-beautiful-bill",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Shreve proposed gun-control measures while running for mayor but later emphasized Second Amendment protections in his congressional campaign.",
+          "quote": "As a mayoral candidate, for example, Shreve rolled out a gun control plan that ignited a backlash from conservatives. On his new campaign website, though, Shreve emphasizes his strong support of the Second Amendment.",
+          "sourceUrl": "https://mirrorindy.org/indiana-elections-2024-jefferson-shreve-cynthia-wirth-congress-6th-district-us-house/",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Shreve's official House site says he sponsored legislation supporting the right to life.",
+          "quote": "Two weeks into his term, Representative Shreve has sponsored legislation that secures our southern border, protects Americans' Second Amendment rights, supports the right to life, and lowers our energy costs.",
+          "sourceUrl": "https://shreve.house.gov/issues/congress",
+          "agreement": "3/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "Shreve voted for H.R. 28, which would apply sex-based eligibility rules to federally funded women's and girls' school sports.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Shreve voted for H.R. 1 and praised it for expanding domestic energy production.",
+          "quote": "This legislation delivers tax relief by making permanent the 2017 Tax Cuts & Jobs Act. The legislation unleashes American energy production.",
+          "sourceUrl": "https://shreve.house.gov/media/press-releases/congressman-shreves-legislation-build-wall-act-included-one-big-beautiful-bill",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "wirth4congress.com · wfyi.org · onyourballot.vote411.org · shreveforcongress.cis.bz · shreve.house.gov · mirrorindy.org · clerk.house.gov",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
