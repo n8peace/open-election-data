@@ -1,0 +1,12 @@
+{
+  "office": "U.S. Representative",
+  "district": "PA District 1",
+  "division": "pa/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Brian Fitzpatrick",
+      "party": "Republican"
+    }
+  ]
+}

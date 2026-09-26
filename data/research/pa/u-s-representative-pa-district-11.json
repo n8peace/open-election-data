@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "PA District 11",
+  "division": "pa/cd-11",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Lloyd Smucker",
+      "party": "Republican"
+    },
+    {
+      "name": "Nancy Mannion",
+      "party": "Democratic"
+    }
+  ]
+}

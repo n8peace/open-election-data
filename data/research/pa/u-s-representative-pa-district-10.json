@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "PA District 10",
+  "division": "pa/cd-10",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Scott Perry",
+      "party": "Republican"
+    },
+    {
+      "name": "Janelle Stelson",
+      "party": "Democratic"
+    }
+  ]
+}

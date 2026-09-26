@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "PA District 4",
+  "division": "pa/cd-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Madeleine Dean",
+      "party": "Democratic"
+    },
+    {
+      "name": "Aurora Stuski",
+      "party": "Republican"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "office": "U.S. Representative",
+  "district": "PA District 2",
+  "division": "pa/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Brendan Boyle",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Boyle sponsors higher taxes on the wealthy to fund government and opposes Republican tax cuts.",
+          "quote": "This legislation will fight back against Republicans' decades-long scheme to rig our tax code against middle-class families and in favor of multi-millionaires and billionaires.",
+          "sourceUrl": "https://boyle.house.gov/media-center/press-releases/boyle-warren-jayapal-reintroduce-ultra-millionaire-tax-fortunes-over-50",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Boyle cosponsored legislation to raise the federal minimum wage, arguing full-time work should lift people out of poverty.",
+          "quote": "no one who works full time should have to live in poverty",
+          "sourceUrl": "https://boyle.house.gov/media-center/press-releases/congressman-brendan-boyle-cosponsors-legislation-raise-federal-minimum",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Boyle opposed sweeping tariffs, arguing they raise costs for consumers rather than protect American jobs.",
+          "quote": "Slapping a reckless 25% tariff on Canada and Mexico won't protect American jobs—it will drive up costs and make life more expensive for middle-class families.",
+          "sourceUrl": "https://boyle.house.gov/media-center/press-releases/boyle-statement-trump-administration-implementing-25-percent-tariffs",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Boyle pledged to fight any efforts to weaken Social Security and Medicare benefits.",
+          "quote": "From my first day in Congress, I pledged to fight any efforts to weaken the stability and soundness of earned Social Security & Medicare benefits for millions of Americans",
+          "sourceUrl": "https://boyle.house.gov/media-center/press-releases/boyle-whitehouse-legislation-protect-social-security-all-make",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Boyle opposes private and religious school voucher programs and supports increased funding for public schools.",
+          "quote": "Oppose private and religious school voucher programs",
+          "sourceUrl": "https://www.ontheissues.org/PA/Brendan_Boyle_Education.htm",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Boyle led a letter defending immigrants and opposing a restrictionist change to immigration agency policy.",
+          "quote": "America is in fact a nation of immigrants. The agency charged with administering our immigration laws should understand this, and be proud of this heritage.",
+          "sourceUrl": "https://boyle.house.gov/media-center/press-releases/boyle-leads-letter-oppose-uscis-removal-nation-immigrants-mission",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Boyle voted for an assault weapons ban, saying such bans save lives.",
+          "quote": "Statistics clearly show that an assault weapons ban will save lives.",
+          "sourceUrl": "https://boyle.house.gov/media-center/press-releases/boyle-votes-assault-weapons-ban-legislation",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Boyle condemned the overturning of Roe v. Wade and defended legal abortion access.",
+          "quote": "Roe was not the start of abortions, it was the end of women dying from them.",
+          "sourceUrl": "https://boyle.house.gov/media-center/press-releases/boyle-statement-supreme-court-decision-overturning-roe-v-wade",
+          "agreement": "5/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Boyle supported the MORE Act to decriminalize marijuana at the federal level.",
+          "quote": "it is now time for Congress to take action at the federal level",
+          "sourceUrl": "https://boyle.house.gov/media-center/press-releases/boyle-statement-support-marijuana-opportunity-reinvestment-and",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Boyle introduced the Choose Medicare Act to let all Americans buy into a public Medicare plan.",
+          "quote": "It's time to give every American the opportunity to choose Medicare, and that's exactly what this bill does.",
+          "sourceUrl": "https://boyle.house.gov/media-center/press-releases/reps-boyle-gomez-beyer-introduce-choose-medicare-act-achieve-universal",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Boyle championed climate legislation and warned that the consequences of climate change are worsening.",
+          "quote": "With record-shattering temperatures and billions of dollars going toward natural disaster relief, the consequences of climate change are clearer than ever.",
+          "sourceUrl": "https://boyle.house.gov/media-center/press-releases/boyle-amendment-included-landmark-climate-change-legislation-passed",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Boyle reintroduced legislation to remove barriers that keep newly naturalized citizens from casting ballots.",
+          "quote": "some of our newest American citizens face insurmountable hurdles when it comes to casting a vote in an election",
+          "sourceUrl": "https://boyle.house.gov/media-center/press-releases/boyle-reintroduces-citizenship-empowerment-act",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Jessica Arriaga",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "On her campaign site she says she will back policies that reduce the tax burden on working families and cut regulations on small businesses.",
+          "quote": "Jessica will support policies that reduce the tax burden on working families, cut unnecessary federal regulations that hurt small businesses, and expand job training programs tied directly to local employers.",
+          "sourceUrl": "https://jessforcongress.com/results-for-philadelphia/",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She calls for both funding police enforcement against repeat violent offenders and expanding community prevention, mental health and addiction services.",
+          "quote": "She supports funding for mental health and addiction services alongside policing, because safer neighborhoods require both enforcement and intervention.",
+          "sourceUrl": "https://jessforcongress.com/results-for-philadelphia/",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "In her Vote411 questionnaire she says she would fully fund and protect Medicaid, cap prescription drug prices and expand preventative care.",
+          "quote": "fully fund and protect medicaid for those who needed most, cap skyrocketing, prescription drug prices, expand preventative care",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72147486",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "boyle.house.gov · ontheissues.org · jessforcongress.com · onyourballot.vote411.org",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

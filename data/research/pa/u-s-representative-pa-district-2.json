@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "PA District 2",
+  "division": "pa/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Brendan Boyle",
+      "party": "Democratic"
+    },
+    {
+      "name": "Jessica Arriaga",
+      "party": "Republican"
+    }
+  ]
+}

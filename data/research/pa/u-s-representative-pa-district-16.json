@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "PA District 16",
+  "division": "pa/cd-16",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Mike Kelly",
+      "party": "Republican"
+    },
+    {
+      "name": "Justin Wagner",
+      "party": "Democratic"
+    }
+  ]
+}

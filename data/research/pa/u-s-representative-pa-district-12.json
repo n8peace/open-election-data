@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "PA District 12",
+  "division": "pa/cd-12",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Summer Lee",
+      "party": "Democratic"
+    },
+    {
+      "name": "James Hayes",
+      "party": "Republican"
+    }
+  ]
+}
