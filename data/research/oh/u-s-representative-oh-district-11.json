@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "OH District 11",
+  "division": "oh/cd-11",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Shontel Brown",
+      "party": "Democratic"
+    },
+    {
+      "name": "Mike Kirchner",
+      "party": "Republican"
+    }
+  ]
+}

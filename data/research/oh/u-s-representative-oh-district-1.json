@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "OH District 1",
+  "division": "oh/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Greg Landsman",
+      "party": "Democratic"
+    },
+    {
+      "name": "Eric Conroy",
+      "party": "Republican"
+    }
+  ]
+}

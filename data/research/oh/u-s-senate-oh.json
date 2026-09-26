@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Senate",
+  "district": "OH",
+  "division": "oh/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Jon Husted",
+      "party": "Republican"
+    },
+    {
+      "name": "Sherrod Brown",
+      "party": "Democratic"
+    },
+    {
+      "name": "William B. Redpath",
+      "party": "Libertarian"
+    },
+    {
+      "name": "Greg Levy",
+      "party": "Other-party candidate"
+    }
+  ]
+}

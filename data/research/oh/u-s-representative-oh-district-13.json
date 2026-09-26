@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "OH District 13",
+  "division": "oh/cd-13",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Emilia Sykes",
+      "party": "Democratic"
+    },
+    {
+      "name": "Carey Coleman",
+      "party": "Republican"
+    }
+  ]
+}

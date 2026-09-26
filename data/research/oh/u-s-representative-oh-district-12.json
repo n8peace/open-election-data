@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "OH District 12",
+  "division": "oh/cd-12",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Jerrad Christian",
+      "party": "Democratic"
+    },
+    {
+      "name": "Troy Balderson",
+      "party": "Republican"
+    }
+  ]
+}

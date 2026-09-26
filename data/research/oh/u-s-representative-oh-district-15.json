@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Representative",
+  "district": "OH District 15",
+  "division": "oh/cd-15",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Don Leonard",
+      "party": "Democratic"
+    },
+    {
+      "name": "Mike Carey",
+      "party": "Republican"
+    },
+    {
+      "name": "Brennan Barrington",
+      "party": "Libertarian"
+    },
+    {
+      "name": "Gary Josephson",
+      "party": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "OH District 9",
+  "division": "oh/cd-9",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Marcy Kaptur",
+      "party": "Democratic"
+    },
+    {
+      "name": "Derek Merrin",
+      "party": "Republican"
+    }
+  ]
+}

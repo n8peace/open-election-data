@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "OH District 5",
+  "division": "oh/cd-5",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Brian Shaver",
+      "party": "Democratic"
+    },
+    {
+      "name": "Bob Latta",
+      "party": "Republican"
+    }
+  ]
+}

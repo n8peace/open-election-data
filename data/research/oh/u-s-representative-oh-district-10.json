@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "OH District 10",
+  "division": "oh/cd-10",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Kristina Knickerbocker",
+      "party": "Democratic"
+    },
+    {
+      "name": "Mike Turner",
+      "party": "Republican"
+    },
+    {
+      "name": "Tom F. McMasters",
+      "party": "Libertarian"
+    }
+  ]
+}

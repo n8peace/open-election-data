@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "OH District 6",
+  "division": "oh/cd-6",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Elizabeth Kirtley",
+      "party": "Democratic"
+    },
+    {
+      "name": "Michael A. Rulli",
+      "party": "Republican"
+    }
+  ]
+}

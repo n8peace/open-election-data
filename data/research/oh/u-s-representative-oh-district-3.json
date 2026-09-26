@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "OH District 3",
+  "division": "oh/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Joyce Beatty",
+      "party": "Democratic"
+    },
+    {
+      "name": "Cleophus Dulaney",
+      "party": "Republican"
+    }
+  ]
+}

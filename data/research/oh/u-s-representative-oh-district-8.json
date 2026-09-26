@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "OH District 8",
+  "division": "oh/cd-8",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Vanessa Enoch",
+      "party": "Democratic"
+    },
+    {
+      "name": "Warren Davidson",
+      "party": "Republican"
+    }
+  ]
+}

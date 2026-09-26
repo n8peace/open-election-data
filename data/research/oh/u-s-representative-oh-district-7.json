@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "OH District 7",
+  "division": "oh/cd-7",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Brian Poindexter",
+      "party": "Democratic"
+    },
+    {
+      "name": "Max Miller",
+      "party": "Republican"
+    }
+  ]
+}
