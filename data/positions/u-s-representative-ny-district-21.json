@@ -1,0 +1,104 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 21",
+  "division": "ny/cd-21",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Blake Gendebien",
+      "party": "Democratic",
+      "stances": {
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He pledges never to vote to cut Social Security, Medicare, or Medicaid.",
+          "quote": "I will never vote to cut Social Security, Medicare, or Medicaid",
+          "sourceUrl": "https://blakegendebienforcongress.com/issues/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "He calls for increased funding for local law enforcement to keep communities safe.",
+          "quote": "increase funding for local law enforcement to help keep our communities safe",
+          "sourceUrl": "https://blakegendebienforcongress.com/issues/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He calls for making illegal entry harder while making legal immigration easier, pairing more border enforcement with an easier legal process.",
+          "quote": "We need to make it harder to enter our country illegally, but easier to enter legally.",
+          "sourceUrl": "https://blakegendebienforcongress.com/issues/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Anthony Constantino",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Constantino says he backs tax credits for working families and wants to grow the economy to put more money in people's pockets.",
+          "quote": "I support tax credits for working families to help them raise their families.",
+          "sourceUrl": "https://www.northcountrypublicradio.org/news/story/53417/20260515/ny-21-meet-the-assemblyman-and-the-ceo-fighting-to-win-over-gop-voters",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "Constantino says he supports school choice.",
+          "quote": "I also support school choice, which is very important.",
+          "sourceUrl": "https://www.northcountrypublicradio.org/news/story/53417/20260515/ny-21-meet-the-assemblyman-and-the-ceo-fighting-to-win-over-gop-voters",
+          "agreement": "2/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "Constantino's agenda calls for permanently securing the northern border to stop illegal crossings, working with President Trump.",
+          "quote": "Work with President Trump to stop drugs, crime, terrorism, and low-wage labor from crossing our northern border.",
+          "sourceUrl": "https://www.stickermule.com/write/constantino/constantinos-agenda-to-improve-lives-in-new-yorks-21st-congressional-district",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Constantino says he will fight to protect and restore Second Amendment rights he says Democrats took away in New York.",
+          "quote": "Democrats took away our 2nd Amendment Rights in New York and perpetually attack our First Amendment rights nationally.",
+          "sourceUrl": "https://www.stickermule.com/write/constantino/constantinos-agenda-to-improve-lives-in-new-yorks-21st-congressional-district",
+          "agreement": "2/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Constantino pledges to cut green energy regulations and end solar farm deals to bring down utility and other prices.",
+          "quote": "Cut and oppose senseless regulations that drive up prices including insane food, restaurant, and green energy regulations that have made costs skyrocket.",
+          "sourceUrl": "https://www.stickermule.com/write/constantino/constantinos-agenda-to-improve-lives-in-new-yorks-21st-congressional-district",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "blakegendebienforcongress.com · northcountrypublicradio.org · stickermule.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

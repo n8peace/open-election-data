@@ -1,0 +1,168 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 5",
+  "division": "ny/cd-5",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Gregory W. Meeks",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Meeks opposed the Republican reconciliation law, condemning its cuts to health care and food assistance made to fund tax breaks for the wealthy.",
+          "quote": "Republicans failed the American people by passing their Big, Ugly Bill that delivers the largest cuts to health care and food assistance in American history.",
+          "sourceUrl": "https://meeks.house.gov/media/press-releases/rep-gregory-w-meeks-statement-passage-gops-big-ugly-bill",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Meeks says he backs workers' right to organize and calls unions the backbone of the middle class.",
+          "quote": "All workers deserve the right to unionize and collectively bargain.",
+          "sourceUrl": "https://meeks.house.gov/issues/labor",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Meeks has long supported free trade agreements, arguing greater market access boosts U.S. exports and jobs.",
+          "quote": "Greater access means more exports of U.S. goods and services, and that means more jobs for American workers.",
+          "sourceUrl": "https://meeks.house.gov/media/press-releases/congressman-gregory-w-meeks-statement-free-trade-agreements-and-trade",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Meeks said the country must protect seniors' and veterans' benefits rather than strip them away.",
+          "quote": "We believe that it is our country's responsibility to serve our veterans, seniors, and taxpayers by working to protect their benefits and not stripping them away.",
+          "sourceUrl": "https://meeks.house.gov/media/press-releases/congressman-gregory-w-meeks-statement-avoiding-catastrophic-debt-default",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Meeks backed a housing bill aimed at increasing supply by reducing barriers to construction.",
+          "quote": "enacting comprehensive reforms at the federal, state, and local levels aimed at reducing barriers to housing construction and increasing supply",
+          "sourceUrl": "https://meeks.house.gov/media/press-releases/rep-gregory-w-meeks-statement-passage-major-housing-bill",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "Meeks says he supports investing in community-based violence intervention programs.",
+          "quote": "investing in community-based violence intervention programs that are proven to save lives.",
+          "sourceUrl": "https://meeks.house.gov/issues/guns-and-justice",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Meeks supports comprehensive immigration reform with a path to citizenship for Dreamers, TPS holders, and essential workers.",
+          "quote": "I support comprehensive immigration reform that includes a path to citizenship for Dreamers, Temporary Protected Status (TPS) holders, farmworkers, and essential workers",
+          "sourceUrl": "https://meeks.house.gov/issues/immigration",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Meeks says he has consistently backed universal background checks and bans on assault weapons and high-capacity magazines.",
+          "quote": "I have consistently supported legislation that works towards implementing universal background checks, banning assault weapons and high-capacity magazines, closing loopholes, and investing in community-based violence intervention programs that are proven to save lives.",
+          "sourceUrl": "https://meeks.house.gov/issues/guns-and-justice",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Meeks condemned the Supreme Court's decision overturning Roe v. Wade as stripping away women's rights.",
+          "quote": "Today is a heartbreaking day where women across America had the rights over their own bodies stripped away by the stroke of a pen.",
+          "sourceUrl": "https://meeks.house.gov/media/press-releases/rep-meeks-statement-scotus-decision-strip-away-right-abortion",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Meeks calls health care a right and pledges to protect the ACA, Medicare, and Medicaid.",
+          "quote": "protecting access to the Affordable Care Act, to Medicare, and Medicaid–as well as supporting our local community health centers and hospital systems",
+          "sourceUrl": "https://meeks.house.gov/issues/health",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Meeks has called for urgent climate action and touts a clean energy economy.",
+          "quote": "A clean energy economy will create tens of thousands of good, high paying American jobs.",
+          "sourceUrl": "https://democrats-foreignaffairs.house.gov/press-releases?ID=4C7F6AE2-9BBC-401A-83AD-8642E0A38064",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "George Marsh",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Marsh's platform calls for lower taxes and a pro-growth tax policy with less regulation to grow private-sector jobs.",
+          "quote": "Lower taxes, grow private jobs\n\nPro-growth tax policy, less red tape, energy abundance.",
+          "sourceUrl": "https://useprecinct.com/candidates/ny-house-ny-5-george-marsh?from=election",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "Marsh's education platform emphasizes parents' rights, curriculum transparency, and school choice.",
+          "quote": "Parents' rights & results\n\nCurriculum transparency, choice, academics over ideology.",
+          "sourceUrl": "https://useprecinct.com/candidates/ny-house-ny-5-george-marsh?from=election",
+          "agreement": "2/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Marsh calls for securing the border through strong enforcement, ending catch-and-release, and interior removals.",
+          "quote": "Secure the border\n\nStrong enforcement, end catch-and-release, interior removals.",
+          "sourceUrl": "https://useprecinct.com/candidates/ny-house-ny-5-george-marsh?from=election",
+          "agreement": "2/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Marsh says he will defend gun rights and opposes new federal gun bans and registries.",
+          "quote": "Defend gun rights\n\nOpposes new federal gun bans and registries.",
+          "sourceUrl": "https://useprecinct.com/candidates/ny-house-ny-5-george-marsh?from=election",
+          "agreement": "2/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Marsh backs an all-of-the-above, pro-production energy approach favoring oil, gas, and nuclear reliability over what he calls rushed mandates.",
+          "quote": "All-of-the-above, pro-production\n\nOil, gas, nuclear, and reliability over rushed mandates.",
+          "sourceUrl": "https://useprecinct.com/candidates/ny-house-ny-5-george-marsh?from=election",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "meeks.house.gov · democrats-foreignaffairs.house.gov · useprecinct.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

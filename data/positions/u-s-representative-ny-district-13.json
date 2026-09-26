@@ -1,0 +1,104 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 13",
+  "division": "ny/cd-13",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Darializa Avila Chevalier",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supports raising the minimum wage and strengthening unions.",
+          "quote": "increase union density, raise the minimum wage, fund social security, to create and protect job opportunities",
+          "sourceUrl": "https://darializaforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Her economic platform lists funding Social Security among its priorities.",
+          "quote": "raise the minimum wage, fund social security, to create and protect job opportunities, and more",
+          "sourceUrl": "https://darializaforcongress.com/issues",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Her housing platform calls for protecting tenants, funding public housing, and building affordable housing.",
+          "quote": "Darializa will fight to protect all tenants, fully fund Section 8, fully fund NYCHA, prevent deed theft, and build affordable housing.",
+          "sourceUrl": "https://darializaforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "She calls for free, quality public education from childcare through college.",
+          "quote": "Darializa will fight for our right to free, quality public education from childcare to college.",
+          "sourceUrl": "https://darializaforcongress.com/issues",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She calls for abolishing the deportation system, expanding citizenship pathways, and free legal representation for immigrants.",
+          "quote": "Darializa will fight to abolish the deportation machine, expand pathways to citizenship, secure free legal representation for immigrants, and more.",
+          "sourceUrl": "https://darializaforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She campaigns for Medicare for All, a free universal system covering a broad range of care.",
+          "quote": "Medicare for All: a free, universal system that covers primary and mental health care, dental, vision, hearing, reproductive care, long-term care, and lower prescription costs",
+          "sourceUrl": "https://darializaforcongress.com/issues",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Jomo M. Williams",
+      "party": "Republican",
+      "stances": {
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "Williams says he would repeal New York City's sanctuary status and stresses that immigration enforcement is the law of the land, while building his framework on the Dignity Act.",
+          "quote": "Immigration enforcement isn't going anywhere—it is the law of the land.",
+          "sourceUrl": "https://jmw4congress.com/page/9",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Williams calls for enacting the SAVE Act and requiring Voter ID and proof of citizenship to vote.",
+          "quote": "Say YES to the SAVE Act & Voter ID",
+          "sourceUrl": "https://jmw4congress.com/page/5",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "darializaforcongress.com · jmw4congress.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

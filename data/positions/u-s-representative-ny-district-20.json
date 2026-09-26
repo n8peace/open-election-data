@@ -1,0 +1,144 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 20",
+  "division": "ny/cd-20",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Paul D. Tonko",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Tonko supported the Raise the Wage Act to lift the federal minimum wage.",
+          "quote": "After a decade spent working harder for less and watching their paychecks shrink with inflation, America's workers have earned this long-overdue raise, which will put more money in the pockets of millions of working and middle class families and grow local economies in New York and beyond.",
+          "sourceUrl": "https://tonko.house.gov/news/documentsingle.aspx?DocumentID=2877",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Tonko pledges to protect Social Security, Medicare and Medicaid from cuts.",
+          "quote": "My Democratic colleagues and I will always fight to protect Medicaid, Medicare, Social Security",
+          "sourceUrl": "https://tonko.house.gov/news/email/show.aspx?ID=ODM5UMQRMRRYO",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Tonko emphasizes welcoming immigrants and has backed a pathway to citizenship for Dreamers.",
+          "quote": "We are a nation of immigrants. We built this country by embracing and celebrating different heritages and backgrounds and not letting those difference get in the way of the work that lays before us.",
+          "sourceUrl": "https://tonko.house.gov/issues/issue/default.aspx?IssueID=10360",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Tonko voted to codify Roe v. Wade and calls for enshrining abortion rights in federal law.",
+          "quote": "Congress must step up to enshrine women's reproductive rights in federal law.",
+          "sourceUrl": "https://tonko.house.gov/news/documentsingle.aspx?DocumentID=3460",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Tonko vows to fight cuts to Medicaid and ACA coverage for his constituents.",
+          "quote": "I did not run for Congress to take health care away from my constituents",
+          "sourceUrl": "https://tonko.house.gov/news/email/show.aspx?ID=ODM5UMQRMRRYO",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Tonko says EPA must reduce greenhouse gas pollution and criticized rolling back climate protections.",
+          "quote": "greenhouse gas pollution threatens the public health and welfare of every American, and EPA has an obligation to reduce this pollution",
+          "sourceUrl": "https://tonko.house.gov/news/documentsingle.aspx?DocumentID=4434",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Tonko voted to pass the For the People Act to expand voting access and curb voter suppression.",
+          "quote": "stop voter suppression efforts designed to stop people from voting based on who they will vote for",
+          "sourceUrl": "https://tonko.house.gov/news/documentsingle.aspx?DocumentID=3292",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Ralph F. Ambrosio",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Ambrosio says he would lower the cost of living through tax cutting and deregulation.",
+          "quote": "We have to tackle crushing costs and lack of opportunity through tax cutting and deregulation.",
+          "sourceUrl": "https://ambrosioforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He frames public safety as a core government function and emphasizes supporting law enforcement.",
+          "quote": "Ensure government fulfills its primary function of keeping citizens safe by supporting law enforcement, securing the nation, and defending the right to self-defense.",
+          "sourceUrl": "https://ambrosioforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "He calls for securing the nation's borders permanently as a core campaign priority.",
+          "quote": "Restore Public Safety & Secure Our Borders Permanently",
+          "sourceUrl": "https://ambrosioforcongress.com/issues",
+          "agreement": "2/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "He lists defending the right to self-defense among his public safety priorities.",
+          "quote": "Ensure government fulfills its primary function of keeping citizens safe by supporting law enforcement, securing the nation, and defending the right to self-defense.",
+          "sourceUrl": "https://ambrosioforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He backs an all-of-the-above energy strategy aimed at boosting supply and lowering costs, and criticizes the incumbent's focus on renewables.",
+          "quote": "I'll push and all-of-the-above energy strategy that will produce abundant supply while driving down costs.",
+          "sourceUrl": "https://ambrosioforcongress.com/issues",
+          "agreement": "2/3"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "Among his governance reforms, he supports requiring Voter ID.",
+          "quote": "This means support for term limits, Voter ID, parental rights in education, and rooting out corruption wherever it exists.",
+          "sourceUrl": "https://ambrosioforcongress.com/issues",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "tonko.house.gov · ambrosioforcongress.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}

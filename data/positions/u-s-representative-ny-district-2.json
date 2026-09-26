@@ -1,0 +1,128 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 2",
+  "division": "ny/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Patrick Halpin",
+      "party": "Democratic",
+      "stances": {
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Halpin opposes privatizing Social Security and Medicare and pledges the benefits will be there for those who earned them.",
+          "quote": "if you play by the rules, those benefits will be there when you need them.",
+          "sourceUrl": "https://www.halpinforcongress.com/building-a-better-long-island",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Halpin says he wants to create more housing opportunities while preserving neighborhood character.",
+          "quote": "I believe we can create more housing opportunities without sacrificing the character of our neighborhoods.",
+          "sourceUrl": "https://www.halpinforcongress.com/building-a-better-long-island",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Halpin says he will fight to support police and combat fentanyl and human trafficking.",
+          "quote": "I'll fight to support our police, secure our borders, combat fentanyl and human trafficking",
+          "sourceUrl": "https://www.halpinforcongress.com/building-a-better-long-island",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Halpin calls for an immigration system that is secure, orderly and fair, pairing border security with a path to citizenship.",
+          "quote": "an immigration system that is secure, orderly, and fair.",
+          "sourceUrl": "https://www.halpinforcongress.com/building-a-better-long-island",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Halpin says he supports building toward universal Medicare coverage while protecting the coverage people already have.",
+          "quote": "I support building toward universal Medicare coverage in a way that protects the coverage people already have",
+          "sourceUrl": "https://www.halpinforcongress.com/building-a-better-long-island",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Halpin says he will make polluters pay and strengthen climate resilience while protecting clean water and air.",
+          "quote": "I'll continue fighting to make polluters pay, protect clean water and clean air, strengthen climate resilience",
+          "sourceUrl": "https://www.halpinforcongress.com/building-a-better-long-island",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "Andrew R. Garbarino",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "On his official House site he says he is committed to lowering taxes for Long Islanders and small businesses and makes restoring the SALT deduction a top priority.",
+          "quote": "I am committed to lowering taxes for hardworking Long Islanders and small businesses.",
+          "sourceUrl": "https://garbarino.house.gov/issues/taxes",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He states he opposes all efforts to defund the police and wants law enforcement to have the resources they need.",
+          "quote": "I vehemently oppose all efforts to defund the police.",
+          "sourceUrl": "https://garbarino.house.gov/issues/standing-law-enforcement",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He says the federal government must fully enforce immigration laws and secure the border, and he chairs the House Homeland Security Committee.",
+          "quote": "the federal government has a responsibility to enforce our immigration laws, stop the flow of fentanyl and other deadly drugs",
+          "sourceUrl": "https://garbarinoforny.com/issues/border-security/",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He says he strongly supports the Second Amendment and opposes excessive firearm regulations, though he has voted for a universal background-checks bill.",
+          "quote": "I strongly support the Second Amendment. Law abiding Americans should be unencumbered by excessive regulations",
+          "sourceUrl": "https://garbarino.house.gov/issues/second-amendment",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He backs an all-of-the-above strategy expanding American energy production while also, as a climate-caucus member, working to preserve clean energy tax incentives.",
+          "quote": "I support an all-of-the-above energy strategy that expands American energy production, strengthens our electric grid, and reduces our reliance on foreign adversaries.",
+          "sourceUrl": "https://garbarinoforny.com/issues/energy-environment/",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "halpinforcongress.com · garbarino.house.gov · garbarinoforny.com",
+  "checkedAt": "2026-09-26",
+  "reviewed": false
+}
