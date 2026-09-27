@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Jim Kingston",
-      "party": "Republican"
-    },
-    {
       "name": "Amanda Hollowell",
       "party": "Democratic"
+    },
+    {
+      "name": "Jim Kingston",
+      "party": "Republican"
     }
   ]
 }

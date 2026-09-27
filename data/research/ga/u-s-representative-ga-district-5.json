@@ -5,8 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
+      "name": "John \"Bongo\" Salvesen II",
+      "party": "Republican"
+    },
+    {
       "name": "Nikema Williams",
-      "party": "Democrat"
+      "party": "Democratic"
     }
   ]
 }

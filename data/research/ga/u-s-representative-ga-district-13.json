@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Jonathan Chavez",
-      "party": "Republican"
-    },
-    {
       "name": "Jasmine Clark",
       "party": "Democratic"
+    },
+    {
+      "name": "Jonathan Chavez",
+      "party": "Republican"
     }
   ]
 }

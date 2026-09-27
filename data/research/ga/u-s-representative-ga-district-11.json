@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "John Cowan",
-      "party": "Republican"
-    },
-    {
       "name": "Chris Harden",
       "party": "Democratic"
+    },
+    {
+      "name": "John Cowan",
+      "party": "Republican"
     }
   ]
 }
