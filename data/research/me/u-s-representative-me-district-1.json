@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "ME District 1",
+  "division": "me/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Chellie Pingree",
+      "party": "Democratic"
+    },
+    {
+      "name": "Ronald C. Russell",
+      "party": "Republican"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "ME District 2",
+  "division": "me/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Matthew G. Dunlap",
+      "party": "Democratic"
+    },
+    {
+      "name": "Paul R. LePage",
+      "party": "Republican"
+    }
+  ]
+}
