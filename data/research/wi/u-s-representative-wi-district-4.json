@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "WI District 4",
+  "division": "wi/cd-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Arthur Burks",
+      "party": "Independent"
+    },
+    {
+      "name": "Tim Rogers",
+      "party": "Republican"
+    },
+    {
+      "name": "Gwen Moore",
+      "party": "Democratic"
+    }
+  ]
+}

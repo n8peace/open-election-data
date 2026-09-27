@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "WI District 5",
+  "division": "wi/cd-5",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Scott Fitzgerald",
+      "party": "Republican"
+    },
+    {
+      "name": "Andrew Beck",
+      "party": "Democratic"
+    }
+  ]
+}

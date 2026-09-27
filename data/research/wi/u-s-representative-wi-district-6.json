@@ -1,0 +1,28 @@
+{
+  "office": "U.S. Representative",
+  "district": "WI District 6",
+  "division": "wi/cd-6",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Elizabeth Anne Fitzgibbon",
+      "party": "Independent"
+    },
+    {
+      "name": "Mike Thurow",
+      "party": "Independent"
+    },
+    {
+      "name": "Glenn Grothman",
+      "party": "Republican"
+    },
+    {
+      "name": "Brad Smith",
+      "party": "Democratic"
+    },
+    {
+      "name": "Matthew Arndt",
+      "party": "Wisconsin Green"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Representative",
+  "district": "WI District 3",
+  "division": "wi/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Alexander Valiensi Kent",
+      "party": "Independent"
+    },
+    {
+      "name": "Rustin Provance",
+      "party": "Independent"
+    },
+    {
+      "name": "Derrick Van Orden",
+      "party": "Republican"
+    },
+    {
+      "name": "Rebecca Cooke",
+      "party": "Democratic"
+    }
+  ]
+}

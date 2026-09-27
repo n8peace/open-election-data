@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "WI District 8",
+  "division": "wi/cd-8",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Tony Wied",
+      "party": "Republican"
+    },
+    {
+      "name": "Rick Crosson",
+      "party": "Democratic"
+    }
+  ]
+}

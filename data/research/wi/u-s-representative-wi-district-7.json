@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "WI District 7",
+  "division": "wi/cd-7",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Michael Alfonso",
+      "party": "Republican"
+    },
+    {
+      "name": "Fred Clark",
+      "party": "Democratic"
+    }
+  ]
+}
