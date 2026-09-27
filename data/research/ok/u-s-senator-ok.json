@@ -1,0 +1,28 @@
+{
+  "office": "U.S. Senator",
+  "district": "OK",
+  "division": "ok/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Kevin Hern",
+      "party": "Republican"
+    },
+    {
+      "name": "N'Kiyla Jasmine Thomas",
+      "party": "Democratic"
+    },
+    {
+      "name": "Sevier White",
+      "party": "Libertarian"
+    },
+    {
+      "name": "Ron Meinhardt",
+      "party": "Independent"
+    },
+    {
+      "name": "Curtis Stinnett",
+      "party": "Independent"
+    }
+  ]
+}

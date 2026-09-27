@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "OK District 01",
+  "division": "ok/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Mark Tedford",
+      "party": "Republican"
+    },
+    {
+      "name": "John Croisant",
+      "party": "Democratic"
+    }
+  ]
+}

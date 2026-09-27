@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Representative",
+  "district": "OK District 05",
+  "division": "ok/cd-5",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Stephanie Bice",
+      "party": "Republican"
+    },
+    {
+      "name": "Jena Nelson",
+      "party": "Democratic"
+    },
+    {
+      "name": "Robert P. Henri",
+      "party": "Independent"
+    },
+    {
+      "name": "Austin Nieves",
+      "party": "Independent"
+    }
+  ]
+}

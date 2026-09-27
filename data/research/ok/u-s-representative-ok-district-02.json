@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "OK District 02",
+  "division": "ok/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Josh Brecheen",
+      "party": "Republican"
+    },
+    {
+      "name": "Brandon Wade",
+      "party": "Democratic"
+    },
+    {
+      "name": "Ronnie Hopkins",
+      "party": "Independent"
+    }
+  ]
+}
