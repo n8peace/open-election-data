@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Representative",
+  "district": "ID District 1",
+  "division": "id/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Brendan J. Gomez",
+      "party": "Constitution"
+    },
+    {
+      "name": "Kaylee Peterson",
+      "party": "Democratic"
+    },
+    {
+      "name": "Russ Fulcher",
+      "party": "Republican"
+    },
+    {
+      "name": "Sarah Zabel",
+      "party": "Independent"
+    }
+  ]
+}

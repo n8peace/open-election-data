@@ -1,0 +1,28 @@
+{
+  "office": "U.S. Representative",
+  "district": "ID District 2",
+  "division": "id/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Ellie Gilbreath",
+      "party": "Democratic"
+    },
+    {
+      "name": "Emre Houser",
+      "party": "Independent"
+    },
+    {
+      "name": "Tripp Charles Hutchinson",
+      "party": "Independent"
+    },
+    {
+      "name": "Will Johanson",
+      "party": "Libertarian"
+    },
+    {
+      "name": "Mike Simpson",
+      "party": "Republican"
+    }
+  ]
+}
