@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Senate",
+  "district": "KS",
+  "division": "ks/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Adam Hamilton",
+      "party": "Democratic"
+    },
+    {
+      "name": "David C. Graham",
+      "party": "Libertarian"
+    }
+  ]
+}

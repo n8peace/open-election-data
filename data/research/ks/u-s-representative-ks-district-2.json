@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "KS District 2",
+  "division": "ks/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Don Coover",
+      "party": "Democratic"
+    },
+    {
+      "name": "Derek Schmidt",
+      "party": "Republican"
+    },
+    {
+      "name": "John Hauer",
+      "party": "Libertarian"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "KS District 3",
+  "division": "ks/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Sharice L. Davids",
+      "party": "Democratic"
+    },
+    {
+      "name": "Eric Jenkins",
+      "party": "Republican"
+    },
+    {
+      "name": "Steven A. Hohe",
+      "party": "Libertarian"
+    }
+  ]
+}

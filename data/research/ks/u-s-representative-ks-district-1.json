@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "KS District 1",
+  "division": "ks/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Lauren Reinhold",
+      "party": "Democratic"
+    },
+    {
+      "name": "Tracey Mann",
+      "party": "Republican"
+    },
+    {
+      "name": "Steven Jacob",
+      "party": "Libertarian"
+    }
+  ]
+}

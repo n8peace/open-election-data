@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "KS District 4",
+  "division": "ks/cd-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Katy Tyndell",
+      "party": "Democratic"
+    },
+    {
+      "name": "Ron Estes",
+      "party": "Republican"
+    },
+    {
+      "name": "Drew Cranmer",
+      "party": "Libertarian"
+    }
+  ]
+}
