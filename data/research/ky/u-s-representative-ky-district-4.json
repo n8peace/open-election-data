@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "KY District 4",
+  "division": "ky/cd-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Melissa Claire Strange",
+      "party": "Democratic Party"
+    },
+    {
+      "name": "Ed Gallrein",
+      "party": "Republican Party"
+    },
+    {
+      "name": "Jeremy Todd",
+      "party": "Libertarian Party"
+    }
+  ]
+}

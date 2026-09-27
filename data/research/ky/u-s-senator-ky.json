@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Senator",
+  "district": "KY",
+  "division": "ky/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Andy Barr",
+      "party": "Republican Party"
+    },
+    {
+      "name": "Charles Booker",
+      "party": "Democratic Party"
+    },
+    {
+      "name": "Christopher Campbell",
+      "party": "Kentucky Party"
+    }
+  ]
+}

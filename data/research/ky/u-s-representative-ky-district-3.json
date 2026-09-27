@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "KY District 3",
+  "division": "ky/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Morgan McGarvey",
+      "party": "Democratic Party"
+    },
+    {
+      "name": "Maria Teresa Rodriguez",
+      "party": "Republican Party"
+    }
+  ]
+}

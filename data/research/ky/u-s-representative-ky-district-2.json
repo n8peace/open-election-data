@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "KY District 2",
+  "division": "ky/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Megan Wingfield",
+      "party": "Democratic Party"
+    },
+    {
+      "name": "S. Brett Guthrie",
+      "party": "Republican Party"
+    },
+    {
+      "name": "Thomas A. Loecken",
+      "party": "Independent"
+    }
+  ]
+}

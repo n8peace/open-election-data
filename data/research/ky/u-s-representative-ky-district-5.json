@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Representative",
+  "district": "KY District 5",
+  "division": "ky/cd-5",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Hal Rogers",
+      "party": "Republican Party"
+    },
+    {
+      "name": "Ned Pillersdorf",
+      "party": "Democratic Party"
+    },
+    {
+      "name": "Gerardo Serrano",
+      "party": "Independent"
+    },
+    {
+      "name": "Mikel Wein",
+      "party": "Independent"
+    }
+  ]
+}

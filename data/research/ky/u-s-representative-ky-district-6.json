@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Representative",
+  "district": "KY District 6",
+  "division": "ky/cd-6",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Ralph Alvarado",
+      "party": "Republican Party"
+    },
+    {
+      "name": "Zach Dembo",
+      "party": "Democratic Party"
+    },
+    {
+      "name": "Jay J Bowman",
+      "party": "Independent"
+    },
+    {
+      "name": "Pete Lynch",
+      "party": "Kentucky Party"
+    }
+  ]
+}

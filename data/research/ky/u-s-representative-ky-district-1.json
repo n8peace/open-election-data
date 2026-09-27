@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "KY District 1",
+  "division": "ky/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "John \"Drew\" Williams",
+      "party": "Democratic Party"
+    },
+    {
+      "name": "James R. Comer",
+      "party": "Republican Party"
+    }
+  ]
+}
