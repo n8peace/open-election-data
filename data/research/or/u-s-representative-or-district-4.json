@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "OR District 4",
+  "division": "or/cd-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Monique DeSpain",
+      "party": "Republican"
+    },
+    {
+      "name": "Justin Filip",
+      "party": "Pacific Green"
+    },
+    {
+      "name": "Val Hoyle",
+      "party": "Democratic"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "OR District 6",
+  "division": "or/cd-6",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Andrea Salinas",
+      "party": "Democratic"
+    },
+    {
+      "name": "David Russ",
+      "party": "Republican"
+    }
+  ]
+}

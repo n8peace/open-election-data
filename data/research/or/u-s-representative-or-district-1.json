@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "OR District 1",
+  "division": "or/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Barbara J. Kahl",
+      "party": "Republican"
+    },
+    {
+      "name": "Suzanne Bonamici",
+      "party": "Democratic"
+    }
+  ]
+}

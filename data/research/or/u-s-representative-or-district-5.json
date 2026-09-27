@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "OR District 5",
+  "division": "or/cd-5",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Janelle S. Bynum",
+      "party": "Democratic"
+    },
+    {
+      "name": "Andrea T. Townsend",
+      "party": "Pacific Green"
+    },
+    {
+      "name": "Patti Adair",
+      "party": "Republican"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "OR District 2",
+  "division": "or/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Chris L. Beck",
+      "party": "Democratic"
+    },
+    {
+      "name": "Cliff Bentz",
+      "party": "Republican"
+    }
+  ]
+}

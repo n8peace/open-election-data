@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Senator",
+  "district": "OR",
+  "division": "or/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Jeff Merkley",
+      "party": "Democratic"
+    },
+    {
+      "name": "David Brock Smith",
+      "party": "Republican"
+    },
+    {
+      "name": "Gary Lyndon Dye",
+      "party": "Libertarian"
+    },
+    {
+      "name": "Chris Henry",
+      "party": "Pacific Green"
+    }
+  ]
+}
