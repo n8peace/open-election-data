@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "MN District 8",
+  "division": "mn/cd-8",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Pete Stauber",
+      "party": "Republican"
+    },
+    {
+      "name": "Trina Swanson",
+      "party": "Democratic-Farmer-Labor"
+    }
+  ]
+}

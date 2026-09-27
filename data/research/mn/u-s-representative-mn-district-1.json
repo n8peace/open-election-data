@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "MN District 1",
+  "division": "mn/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Brad Finstad",
+      "party": "Republican"
+    },
+    {
+      "name": "Jake Johnson",
+      "party": "Democratic-Farmer-Labor"
+    }
+  ]
+}

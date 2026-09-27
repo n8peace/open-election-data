@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "MN District 6",
+  "division": "mn/cd-6",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Doug Chapin",
+      "party": "Democratic-Farmer-Labor"
+    },
+    {
+      "name": "Tom Emmer",
+      "party": "Republican"
+    }
+  ]
+}

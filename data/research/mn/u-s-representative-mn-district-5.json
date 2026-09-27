@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "MN District 5",
+  "division": "mn/cd-5",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Ilhan Omar",
+      "party": "Democratic-Farmer-Labor"
+    },
+    {
+      "name": "John Nagel",
+      "party": "Republican"
+    }
+  ]
+}

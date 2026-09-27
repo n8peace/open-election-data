@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "MN District 3",
+  "division": "mn/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Tyler Bass",
+      "party": "Republican"
+    },
+    {
+      "name": "Kelly Morrison",
+      "party": "Democratic-Farmer-Labor"
+    }
+  ]
+}

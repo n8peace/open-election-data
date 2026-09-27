@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Senator",
+  "district": "MN",
+  "division": "mn/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Peggy Flanagan",
+      "party": "Democratic-Farmer-Labor"
+    },
+    {
+      "name": "Marisa Simonetti",
+      "party": "Independence-Alliance Party"
+    },
+    {
+      "name": "Michele Tafoya",
+      "party": "Republican"
+    },
+    {
+      "name": "Rebecca Whiting",
+      "party": "Libertarian"
+    }
+  ]
+}

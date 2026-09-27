@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "MN District 4",
+  "division": "mn/cd-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Paul Wikstrom",
+      "party": "Republican"
+    },
+    {
+      "name": "Betty McCollum",
+      "party": "Democratic-Farmer-Labor"
+    }
+  ]
+}

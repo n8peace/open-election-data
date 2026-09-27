@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "MN District 7",
+  "division": "mn/cd-7",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Michelle Fischbach",
+      "party": "Republican"
+    },
+    {
+      "name": "Erik Osberg",
+      "party": "Democratic-Farmer-Labor"
+    }
+  ]
+}

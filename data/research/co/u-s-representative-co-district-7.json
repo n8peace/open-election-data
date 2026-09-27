@@ -5,24 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
+      "name": "Tim Bennett",
+      "party": "Republican"
+    },
+    {
       "name": "Brittany Pettersen",
-      "party": "Democratic Party"
-    },
-    {
-      "name": "Dan \"Kilo\" Sallis",
-      "party": "Libertarian Party"
-    },
-    {
-      "name": "Lawrence Kyle Clark",
-      "party": "American Constitution Party"
-    },
-    {
-      "name": "Joe Krzeczkowski",
-      "party": "Unaffiliated"
-    },
-    {
-      "name": "Susan Hall",
-      "party": "Unity Party"
+      "party": "Democratic"
     }
   ]
 }
