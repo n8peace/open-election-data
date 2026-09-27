@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Mike Bost",
-      "party": "Republican"
-    },
-    {
       "name": "Julie Fortier",
       "party": "Democratic"
+    },
+    {
+      "name": "Mike Bost",
+      "party": "Republican"
     }
   ]
 }

@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Mike Kelly",
-      "party": "Republican"
-    },
-    {
       "name": "Justin Wagner",
       "party": "Democratic"
+    },
+    {
+      "name": "Mike Kelly",
+      "party": "Republican"
     }
   ]
 }

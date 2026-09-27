@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Mary E. Miller",
-      "party": "Republican"
-    },
-    {
       "name": "Jennifer Todd",
       "party": "Democratic"
+    },
+    {
+      "name": "Mary E. Miller",
+      "party": "Republican"
     }
   ]
 }

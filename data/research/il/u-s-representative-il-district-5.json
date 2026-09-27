@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Mike Quigley",
-      "party": "Democratic"
-    },
-    {
       "name": "Tommy Hanson",
       "party": "Republican"
+    },
+    {
+      "name": "Mike Quigley",
+      "party": "Democratic"
     }
   ]
 }

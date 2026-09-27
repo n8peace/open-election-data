@@ -1,15 +1,15 @@
 {
   "office": "U.S. Representative",
-  "district": "IL District 11",
-  "division": "il/cd-11",
+  "district": "PA District 17",
+  "division": "pa/cd-17",
   "kind": "candidate",
   "choices": [
     {
-      "name": "Bill Foster",
+      "name": "Chris Deluzio",
       "party": "Democratic"
     },
     {
-      "name": "Jeff Walter",
+      "name": "Tony Guy",
       "party": "Republican"
     }
   ]
