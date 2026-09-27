@@ -5,16 +5,16 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Mark Davis",
-      "party": "NPA"
-    },
-    {
       "name": "Sydney Gruters",
       "party": "REP"
     },
     {
       "name": "Kelly Kirschner",
       "party": "DEM"
+    },
+    {
+      "name": "Mark Davis",
+      "party": "NPA"
     }
   ]
 }

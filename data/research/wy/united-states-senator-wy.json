@@ -1,0 +1,16 @@
+{
+  "office": "United States Senator",
+  "district": "WY",
+  "division": "wy/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Harriet Hageman",
+      "party": "Republican"
+    },
+    {
+      "name": "James Byrd",
+      "party": "Democratic"
+    }
+  ]
+}

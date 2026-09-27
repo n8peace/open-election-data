@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Representative",
+  "district": "ND At-Large",
+  "division": "nd/cd-at-large",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Julie Fedorchak",
+      "party": "Republican"
+    },
+    {
+      "name": "Trygve Hammer",
+      "party": "Democratic-NPL"
+    },
+    {
+      "name": "Helene Neville",
+      "party": "Independent"
+    },
+    {
+      "name": "Charles J. Tuttle",
+      "party": "Independent"
+    }
+  ]
+}
