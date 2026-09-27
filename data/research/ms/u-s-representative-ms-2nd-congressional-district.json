@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "MS 2nd Congressional District",
+  "division": "ms/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Ron Eller",
+      "party": "Republican"
+    },
+    {
+      "name": "Bennie G. Thompson",
+      "party": "Democratic"
+    },
+    {
+      "name": "Bennie Foster",
+      "party": "Independent"
+    }
+  ]
+}

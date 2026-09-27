@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Senate",
+  "district": "MS",
+  "division": "ms/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Scott Colom",
+      "party": "Democratic"
+    },
+    {
+      "name": "Cindy Hyde-Smith",
+      "party": "Republican"
+    },
+    {
+      "name": "Ty Pinkins",
+      "party": "Independent"
+    }
+  ]
+}

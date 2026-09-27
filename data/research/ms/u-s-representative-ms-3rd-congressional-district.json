@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "MS 3rd Congressional District",
+  "division": "ms/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Michael A. Chiaradio",
+      "party": "Democratic"
+    },
+    {
+      "name": "Michael Guest",
+      "party": "Republican"
+    },
+    {
+      "name": "Erik Kiehle",
+      "party": "Libertarian"
+    }
+  ]
+}

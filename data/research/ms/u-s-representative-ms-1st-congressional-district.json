@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "MS 1st Congressional District",
+  "division": "ms/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Johnny Baucom",
+      "party": "Libertarian"
+    },
+    {
+      "name": "Cliff Johnson",
+      "party": "Democratic"
+    },
+    {
+      "name": "Trent Kelly",
+      "party": "Republican"
+    }
+  ]
+}

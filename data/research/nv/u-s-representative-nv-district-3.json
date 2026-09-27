@@ -5,16 +5,16 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Lee, Susie",
+      "name": "Jon Kamerath",
+      "party": "IAP"
+    },
+    {
+      "name": "Susie Lee",
       "party": "DEM"
     },
     {
-      "name": "O'Donnell, Marty",
+      "name": "Marty O'Donnell",
       "party": "REP"
-    },
-    {
-      "name": "Kamerath, Jon",
-      "party": "IAP"
     }
   ]
 }

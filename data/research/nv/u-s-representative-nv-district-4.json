@@ -5,16 +5,20 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Horsford, Steven A.",
+      "name": "Russell Best",
+      "party": "IAP"
+    },
+    {
+      "name": "Steven A. Horsford",
       "party": "DEM"
     },
     {
-      "name": "Whipple, Cody K.",
-      "party": "REP"
+      "name": "William Johnson",
+      "party": "NP"
     },
     {
-      "name": "Johnson, William",
-      "party": "NPP"
+      "name": "Cody K. Whipple",
+      "party": "REP"
     }
   ]
 }
