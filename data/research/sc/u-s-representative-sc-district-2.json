@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "SC District 2",
+  "division": "sc/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Zyon Khalifa",
+      "party": "Democratic"
+    },
+    {
+      "name": "Dayna Alane Smith",
+      "party": "Workers"
+    },
+    {
+      "name": "Joe Wilson",
+      "party": "Republican"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "SC District 3",
+  "division": "sc/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Sheri Biggs",
+      "party": "Republican"
+    },
+    {
+      "name": "Brian Corriea",
+      "party": "Libertarian"
+    },
+    {
+      "name": "Eunice Lehmacher",
+      "party": "Democratic"
+    }
+  ]
+}

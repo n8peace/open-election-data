@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "SC District 7",
+  "division": "sc/cd-7",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Russell Fry",
+      "party": "Republican"
+    },
+    {
+      "name": "John Gregory Vincent",
+      "party": "Democratic"
+    }
+  ]
+}

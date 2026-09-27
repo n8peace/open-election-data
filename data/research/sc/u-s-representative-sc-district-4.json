@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "SC District 4",
+  "division": "sc/cd-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Jessica Ethridge",
+      "party": "Libertarian"
+    },
+    {
+      "name": "Courtney McClain",
+      "party": "Democratic"
+    },
+    {
+      "name": "William Timmons",
+      "party": "Republican"
+    }
+  ]
+}

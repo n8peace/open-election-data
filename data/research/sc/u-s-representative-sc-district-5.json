@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "SC District 5",
+  "division": "sc/cd-5",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Wes Climer",
+      "party": "Republican"
+    },
+    {
+      "name": "Mallory Dittmer",
+      "party": "Democratic"
+    },
+    {
+      "name": "Andy Kaplan",
+      "party": "Forward"
+    }
+  ]
+}
