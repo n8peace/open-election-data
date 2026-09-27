@@ -1,0 +1,20 @@
+{
+  "office": "United States Representative",
+  "district": "IA District 1",
+  "division": "ia/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Mariannette Miller-Meeks",
+      "party": "Republican"
+    },
+    {
+      "name": "Christina Bohannan",
+      "party": "Democratic"
+    },
+    {
+      "name": "Michael Bridgford",
+      "party": "No Party"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "office": "United States Representative",
+  "district": "IA District 4",
+  "division": "ia/cd-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Chris McGowan",
+      "party": "Republican"
+    },
+    {
+      "name": "Dave Dawson",
+      "party": "Democratic"
+    }
+  ]
+}

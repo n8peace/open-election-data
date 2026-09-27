@@ -1,0 +1,20 @@
+{
+  "office": "United States Senator",
+  "district": "IA",
+  "division": "ia/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Ashley Hinson",
+      "party": "Republican"
+    },
+    {
+      "name": "Josh Turek",
+      "party": "Democratic"
+    },
+    {
+      "name": "Thomas Laehn",
+      "party": "Libertarian"
+    }
+  ]
+}
