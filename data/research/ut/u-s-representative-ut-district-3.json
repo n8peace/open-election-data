@@ -1,0 +1,32 @@
+{
+  "office": "U.S. Representative",
+  "district": "UT District 3",
+  "division": "ut/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "CASSIE EASLEY",
+      "party": "Constitution"
+    },
+    {
+      "name": "CELESTE MALOY",
+      "party": "Republican"
+    },
+    {
+      "name": "ADONIS HOOSLYN",
+      "party": "Unaffiliated"
+    },
+    {
+      "name": "MICHAEL R. STODDARD",
+      "party": "Libertarian"
+    },
+    {
+      "name": "AYDEN SCOTT",
+      "party": "Unaffiliated"
+    },
+    {
+      "name": "KENT S. UDELL",
+      "party": "Democratic"
+    }
+  ]
+}

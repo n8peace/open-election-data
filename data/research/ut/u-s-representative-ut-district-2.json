@@ -1,0 +1,28 @@
+{
+  "office": "U.S. Representative",
+  "district": "UT District 2",
+  "division": "ut/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "PETER CROSBY",
+      "party": "Democratic"
+    },
+    {
+      "name": "DANIEL COTTAM",
+      "party": "Libertarian"
+    },
+    {
+      "name": "ROBERT M. MOESINGER",
+      "party": "Unaffiliated"
+    },
+    {
+      "name": "BLAKE D. MOORE",
+      "party": "Republican"
+    },
+    {
+      "name": "CARLTON E. BOWEN",
+      "party": "Independent American"
+    }
+  ]
+}

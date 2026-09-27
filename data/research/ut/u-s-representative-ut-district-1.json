@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Representative",
+  "district": "UT District 1",
+  "division": "ut/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "JESSE WEST",
+      "party": "Libertarian"
+    },
+    {
+      "name": "BEN MCADAMS",
+      "party": "Democratic"
+    },
+    {
+      "name": "ELIAS HENRY MONTGOMERY",
+      "party": "Unaffiliated"
+    },
+    {
+      "name": "RILEY OWEN",
+      "party": "Republican"
+    }
+  ]
+}

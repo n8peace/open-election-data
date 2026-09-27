@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Representative",
+  "district": "UT District 4",
+  "division": "ut/cd-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "JONNY LARSEN",
+      "party": "Democratic"
+    },
+    {
+      "name": "TAYLOR WRIGHT",
+      "party": "Libertarian"
+    },
+    {
+      "name": "MIKE KENNEDY",
+      "party": "Republican"
+    },
+    {
+      "name": "STEVEN BURT",
+      "party": "Unaffiliated"
+    }
+  ]
+}
