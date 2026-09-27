@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Representative",
+  "district": "MT Congressional District 2",
+  "division": "mt/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Troy Downing",
+      "party": "R"
+    },
+    {
+      "name": "Brian J. Miller",
+      "party": "D"
+    },
+    {
+      "name": "Patrick McCracken",
+      "party": "L"
+    },
+    {
+      "name": "Michael D. Eisenhauer",
+      "party": "I"
+    }
+  ]
+}

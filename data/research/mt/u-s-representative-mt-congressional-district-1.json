@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "MT Congressional District 1",
+  "division": "mt/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Aaron Flint",
+      "party": "R"
+    },
+    {
+      "name": "Sam Forstag",
+      "party": "D"
+    },
+    {
+      "name": "Nick Sheedy",
+      "party": "L"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Senator",
+  "district": "RI",
+  "division": "ri/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Jack Reed",
+      "party": "Democratic"
+    },
+    {
+      "name": "Raymond T McKay",
+      "party": "Republican"
+    },
+    {
+      "name": "Michael Anthony Bahry",
+      "party": "Independent"
+    }
+  ]
+}

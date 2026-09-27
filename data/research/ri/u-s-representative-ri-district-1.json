@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "RI District 1",
+  "division": "ri/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Gabriel Amo",
+      "party": "Democratic"
+    },
+    {
+      "name": "Kellie Eleanor Keenan",
+      "party": "Republican"
+    }
+  ]
+}
