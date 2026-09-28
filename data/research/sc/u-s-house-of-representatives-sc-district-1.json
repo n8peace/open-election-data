@@ -1,0 +1,20 @@
+{
+  "office": "U.S. House of Representatives",
+  "district": "SC District 1",
+  "division": "sc/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Jenny Costa Honeycutt",
+      "party": "Republican"
+    },
+    {
+      "name": "Bill Reeside",
+      "party": "Libertarian"
+    },
+    {
+      "name": "Nancy Lacore",
+      "party": "Democratic"
+    }
+  ]
+}

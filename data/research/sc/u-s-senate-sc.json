@@ -5,16 +5,16 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Annie Andrews",
-      "party": "Democratic"
-    },
-    {
       "name": "Darline Graham",
       "party": "Republican"
     },
     {
       "name": "Kasie Whitener",
       "party": "Libertarian"
+    },
+    {
+      "name": "Annie Andrews",
+      "party": "Democratic"
     },
     {
       "name": "Mark Hackett",
