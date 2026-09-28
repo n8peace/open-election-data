@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "WA District 10",
+  "division": "wa/cd-10",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Marilyn Strickland",
+      "party": "Democratic"
+    },
+    {
+      "name": "Chris D. Chung",
+      "party": "Republican"
+    }
+  ]
+}

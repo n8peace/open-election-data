@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "WA District 1",
+  "division": "wa/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Suzan DelBene",
+      "party": "Democratic"
+    },
+    {
+      "name": "Mary Silva",
+      "party": "Republican"
+    }
+  ]
+}

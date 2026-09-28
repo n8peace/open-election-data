@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "WA District 9",
+  "division": "wa/cd-9",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Adam Smith",
+      "party": "Democratic"
+    },
+    {
+      "name": "Doug Basler",
+      "party": "Republican"
+    }
+  ]
+}

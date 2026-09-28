@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "WA District 8",
+  "division": "wa/cd-8",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Kim Schrier",
+      "party": "Democratic"
+    },
+    {
+      "name": "Spencer Meline",
+      "party": "Republican"
+    }
+  ]
+}

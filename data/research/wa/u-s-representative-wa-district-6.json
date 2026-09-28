@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "WA District 6",
+  "division": "wa/cd-6",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Emily Randall",
+      "party": "Democratic"
+    },
+    {
+      "name": "Teresa Fox",
+      "party": "Republican"
+    }
+  ]
+}

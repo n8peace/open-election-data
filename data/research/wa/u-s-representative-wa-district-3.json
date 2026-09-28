@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "WA District 3",
+  "division": "wa/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "John Braun",
+      "party": "Republican"
+    },
+    {
+      "name": "Marie Gluesenkamp Perez",
+      "party": "Democratic"
+    }
+  ]
+}
