@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "MI District 6",
+  "division": "mi/cd-6",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Debbie Dingell",
+      "party": "Democratic"
+    },
+    {
+      "name": "Heather Smiley",
+      "party": "Republican"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "MI District 4",
+  "division": "mi/cd-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Sean McCann",
+      "party": "Democratic"
+    },
+    {
+      "name": "Bill Huizenga",
+      "party": "Republican"
+    }
+  ]
+}

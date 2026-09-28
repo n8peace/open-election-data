@@ -1,15 +1,15 @@
 {
   "office": "U.S. Representative",
-  "district": "NC District 13",
-  "division": "nc/cd-13",
+  "district": "NC District 09",
+  "division": "nc/cd-9",
   "kind": "candidate",
   "choices": [
     {
-      "name": "Frank Pierce",
+      "name": "Richard Ojeda II",
       "party": "DEM"
     },
     {
-      "name": "Brad Knott",
+      "name": "Richard Hudson",
       "party": "REP"
     }
   ]

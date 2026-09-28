@@ -1,0 +1,32 @@
+{
+  "office": "U.S. Senate",
+  "district": "MI",
+  "division": "mi/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Abdul El-Sayed",
+      "party": "Democratic"
+    },
+    {
+      "name": "Mike Rogers",
+      "party": "Republican"
+    },
+    {
+      "name": "Lydia Christensen",
+      "party": "Libertarian"
+    },
+    {
+      "name": "Tim Long",
+      "party": "U.S. Taxpayers"
+    },
+    {
+      "name": "Douglas P. Marsh",
+      "party": "Green"
+    },
+    {
+      "name": "Walter P. Kristy",
+      "party": "Natural Law"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "NC District 03",
+  "division": "nc/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Daniel Cavender",
+      "party": "LIB"
+    },
+    {
+      "name": "Raymond Smith",
+      "party": "DEM"
+    },
+    {
+      "name": "Greg Murphy",
+      "party": "REP"
+    }
+  ]
+}

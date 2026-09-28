@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "MI District 5",
+  "division": "mi/cd-5",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Christian Vukasovich",
+      "party": "Democratic"
+    },
+    {
+      "name": "Tim Walberg",
+      "party": "Republican"
+    }
+  ]
+}

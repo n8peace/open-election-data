@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "MI District 9",
+  "division": "mi/cd-9",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Ray Pooley",
+      "party": "Democratic"
+    },
+    {
+      "name": "Lisa McClain",
+      "party": "Republican"
+    }
+  ]
+}

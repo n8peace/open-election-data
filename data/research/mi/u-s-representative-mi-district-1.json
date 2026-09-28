@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "MI District 1",
+  "division": "mi/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Callie Barr",
+      "party": "Democratic"
+    },
+    {
+      "name": "Jack Bergman",
+      "party": "Republican"
+    }
+  ]
+}

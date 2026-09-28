@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "MI District 3",
+  "division": "mi/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Hillary Scholten",
+      "party": "Democratic"
+    },
+    {
+      "name": "Terri DeBoer",
+      "party": "Republican"
+    },
+    {
+      "name": "Joe Jock",
+      "party": "Green"
+    }
+  ]
+}

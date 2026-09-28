@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "NC District 07",
+  "division": "nc/cd-7",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Maad Abu-Ghazalah",
+      "party": "LIB"
+    },
+    {
+      "name": "David Rouzer",
+      "party": "REP"
+    },
+    {
+      "name": "Kimberly Hardy",
+      "party": "DEM"
+    }
+  ]
+}

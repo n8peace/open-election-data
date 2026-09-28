@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "MI District 11",
+  "division": "mi/cd-11",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Jeremy Moss",
+      "party": "Democratic"
+    },
+    {
+      "name": "Ethan Baker",
+      "party": "Republican"
+    }
+  ]
+}

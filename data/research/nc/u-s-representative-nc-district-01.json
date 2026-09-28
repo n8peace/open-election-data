@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "NC District 01",
+  "division": "nc/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Don Davis",
+      "party": "DEM"
+    },
+    {
+      "name": "Laurie Buckhout",
+      "party": "REP"
+    },
+    {
+      "name": "Tom Bailey",
+      "party": "LIB"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "MI District 2",
+  "division": "mi/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Ben Ambrose",
+      "party": "Democratic"
+    },
+    {
+      "name": "John Moolenaar",
+      "party": "Republican"
+    }
+  ]
+}

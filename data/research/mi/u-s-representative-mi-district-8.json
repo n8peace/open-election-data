@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "MI District 8",
+  "division": "mi/cd-8",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Kristen McDonald Rivet",
+      "party": "Democratic"
+    },
+    {
+      "name": "Thomas J. Smith",
+      "party": "Republican"
+    }
+  ]
+}

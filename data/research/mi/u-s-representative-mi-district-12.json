@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "MI District 12",
+  "division": "mi/cd-12",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Rashida Tlaib",
+      "party": "Democratic"
+    },
+    {
+      "name": "James Hooper",
+      "party": "Republican"
+    }
+  ]
+}

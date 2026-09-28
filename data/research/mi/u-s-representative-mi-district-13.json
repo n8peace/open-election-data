@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "MI District 13",
+  "division": "mi/cd-13",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Donavan McKinney",
+      "party": "Democratic"
+    },
+    {
+      "name": "T.P. Nykoriak",
+      "party": "Republican"
+    }
+  ]
+}
