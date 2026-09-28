@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Jeff Merkley",
-      "party": "Democratic"
-    },
-    {
       "name": "David Brock Smith",
       "party": "Republican"
+    },
+    {
+      "name": "Jeff Merkley",
+      "party": "Democrat"
     },
     {
       "name": "Gary Lyndon Dye",
@@ -18,7 +18,7 @@
     },
     {
       "name": "Chris Henry",
-      "party": "Pacific Green"
+      "party": "Progressive"
     }
   ]
 }
