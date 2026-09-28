@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Representative",
+  "district": "TN District 6",
+  "division": "tn/cd-6",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Johnny Garrett",
+      "party": "Republican"
+    },
+    {
+      "name": "Mike Croley",
+      "party": "Democratic"
+    },
+    {
+      "name": "Christopher B. Monday",
+      "party": "Independent"
+    },
+    {
+      "name": "Angus Purdy",
+      "party": "Independent"
+    }
+  ]
+}

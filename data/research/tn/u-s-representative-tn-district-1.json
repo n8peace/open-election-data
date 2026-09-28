@@ -1,0 +1,36 @@
+{
+  "office": "U.S. Representative",
+  "district": "TN District 1",
+  "division": "tn/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Diana Harshbarger",
+      "party": "Republican"
+    },
+    {
+      "name": "Kristi Burke",
+      "party": "Democratic"
+    },
+    {
+      "name": "Joshua Ray Ashburn",
+      "party": "Independent"
+    },
+    {
+      "name": "Richard G. Baker",
+      "party": "Independent"
+    },
+    {
+      "name": "Chris Campbell",
+      "party": "Independent"
+    },
+    {
+      "name": "Billy Cody",
+      "party": "Independent"
+    },
+    {
+      "name": "Tyler Brice Mitchell McClain",
+      "party": "Independent"
+    }
+  ]
+}

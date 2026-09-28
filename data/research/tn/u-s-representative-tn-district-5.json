@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "TN District 5",
+  "division": "tn/cd-5",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Charlie Hatcher",
+      "party": "Republican"
+    },
+    {
+      "name": "Chaz Molder",
+      "party": "Democratic"
+    }
+  ]
+}

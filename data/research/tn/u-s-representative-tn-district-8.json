@@ -1,0 +1,40 @@
+{
+  "office": "U.S. Representative",
+  "district": "TN District 8",
+  "division": "tn/cd-8",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "David Kustoff",
+      "party": "Republican"
+    },
+    {
+      "name": "Heidi Kuhn",
+      "party": "Democratic"
+    },
+    {
+      "name": "Adam D. Austill",
+      "party": "Independent"
+    },
+    {
+      "name": "Wendell \"Wells\" Blankenship",
+      "party": "Independent"
+    },
+    {
+      "name": "Antonio Futch",
+      "party": "Independent"
+    },
+    {
+      "name": "Pamela Jeanine \"P.\" Moses",
+      "party": "Independent"
+    },
+    {
+      "name": "Horace Taylor",
+      "party": "Independent"
+    },
+    {
+      "name": "Henry J. Ward, III",
+      "party": "Independent"
+    }
+  ]
+}

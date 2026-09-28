@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "TN District 7",
+  "division": "tn/cd-7",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Matt Van Epps",
+      "party": "Republican"
+    },
+    {
+      "name": "Darden Copeland",
+      "party": "Democratic"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "office": "U.S. Representative",
+  "district": "TN District 3",
+  "division": "tn/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Chuck Fleischmann",
+      "party": "Republican"
+    },
+    {
+      "name": "Anna Golladay",
+      "party": "Democratic"
+    },
+    {
+      "name": "Dean Arnold",
+      "party": "Independent"
+    },
+    {
+      "name": "Jean Howard-Hill",
+      "party": "Independent"
+    },
+    {
+      "name": "Rodney Joe King",
+      "party": "Independent"
+    },
+    {
+      "name": "Donnie Lynn Ownby",
+      "party": "Independent"
+    },
+    {
+      "name": "Edward John Roland",
+      "party": "Independent"
+    }
+  ]
+}

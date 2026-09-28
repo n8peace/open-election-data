@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Representative",
+  "district": "TN District 9",
+  "division": "tn/cd-9",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Brent Taylor",
+      "party": "Republican"
+    },
+    {
+      "name": "Justin J. Pearson",
+      "party": "Democratic"
+    },
+    {
+      "name": "Dennis Clark",
+      "party": "Independent"
+    },
+    {
+      "name": "Michelle Davis Head",
+      "party": "Independent"
+    }
+  ]
+}

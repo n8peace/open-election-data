@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Representative",
+  "district": "TN District 2",
+  "division": "tn/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Tim Burchett",
+      "party": "Republican"
+    },
+    {
+      "name": "Michaela Barnett",
+      "party": "Democratic"
+    },
+    {
+      "name": "Bruce Fine",
+      "party": "Independent"
+    },
+    {
+      "name": "Adam Heimerman",
+      "party": "Independent"
+    }
+  ]
+}

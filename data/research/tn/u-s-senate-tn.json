@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Senate",
+  "district": "TN",
+  "division": "tn/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Bill Hagerty",
+      "party": "Republican"
+    },
+    {
+      "name": "Marquita Bradshaw",
+      "party": "Democratic"
+    }
+  ]
+}
