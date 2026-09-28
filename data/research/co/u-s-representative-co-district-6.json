@@ -5,12 +5,20 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Jason Clark",
-      "party": "Republican Party"
+      "name": "Jason Crow",
+      "party": "Democratic"
     },
     {
-      "name": "Jason Crow",
-      "party": "Democratic Party"
+      "name": "Jason Clark",
+      "party": "Republican"
+    },
+    {
+      "name": "Patty McMahon",
+      "party": "Libertarian"
+    },
+    {
+      "name": "Meredith Ryan",
+      "party": "Unity"
     }
   ]
 }

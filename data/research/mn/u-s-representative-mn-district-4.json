@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Paul Wikstrom",
-      "party": "Republican"
-    },
-    {
       "name": "Betty McCollum",
       "party": "Democratic-Farmer-Labor"
+    },
+    {
+      "name": "Paul Wikstrom",
+      "party": "Republican"
     }
   ]
 }

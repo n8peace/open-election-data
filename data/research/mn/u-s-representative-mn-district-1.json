@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Brad Finstad",
-      "party": "Republican"
-    },
-    {
       "name": "Jake Johnson",
       "party": "Democratic-Farmer-Labor"
+    },
+    {
+      "name": "Brad Finstad",
+      "party": "Republican"
     }
   ]
 }

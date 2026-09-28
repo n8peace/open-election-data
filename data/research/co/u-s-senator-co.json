@@ -5,28 +5,28 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Adam Withrow",
-      "party": "Unity Party"
-    },
-    {
-      "name": "Blake Huber",
-      "party": "Libertarian Party"
-    },
-    {
-      "name": "Bob Chew",
-      "party": "Forward Party"
-    },
-    {
-      "name": "Christopher Baum",
-      "party": "Approval Voting Party"
+      "name": "Mark Baisley",
+      "party": "Republican"
     },
     {
       "name": "John Hickenlooper",
-      "party": "Democratic Party"
+      "party": "Democratic"
     },
     {
-      "name": "Mark Baisley",
-      "party": "Republican Party"
+      "name": "Bob Chew",
+      "party": "Forward"
+    },
+    {
+      "name": "Christopher Baum",
+      "party": "Approval Voting"
+    },
+    {
+      "name": "Blake Huber",
+      "party": "Libertarian"
+    },
+    {
+      "name": "Adam Withrow",
+      "party": "Unity"
     }
   ]
 }

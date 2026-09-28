@@ -5,20 +5,20 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Peggy Flanagan",
-      "party": "Democratic-Farmer-Labor"
-    },
-    {
       "name": "Marisa Simonetti",
-      "party": "Independence-Alliance Party"
-    },
-    {
-      "name": "Michele Tafoya",
-      "party": "Republican"
+      "party": "Independence-Alliance"
     },
     {
       "name": "Rebecca Whiting",
       "party": "Libertarian"
+    },
+    {
+      "name": "Peggy Flanagan",
+      "party": "Democratic-Farmer-Labor"
+    },
+    {
+      "name": "Michele Tafoya",
+      "party": "Republican"
     }
   ]
 }

@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Eric Pratt",
-      "party": "Republican"
-    },
-    {
       "name": "Matt Little",
       "party": "Democratic-Farmer-Labor"
+    },
+    {
+      "name": "Eric Pratt",
+      "party": "Republican"
     }
   ]
 }
