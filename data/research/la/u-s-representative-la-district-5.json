@@ -1,0 +1,36 @@
+{
+  "office": "U. S. Representative",
+  "district": "LA District 5",
+  "division": "la/cd-5",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Stewart Cathey Jr.",
+      "party": "Republican"
+    },
+    {
+      "name": "Misti Cordell",
+      "party": "Republican"
+    },
+    {
+      "name": "Michael Echols",
+      "party": "Republican"
+    },
+    {
+      "name": "Gabe Firment",
+      "party": "Republican"
+    },
+    {
+      "name": "Austin Magee",
+      "party": "Republican"
+    },
+    {
+      "name": "Dan McKay",
+      "party": "Democrat"
+    },
+    {
+      "name": "Antonio Wilson",
+      "party": "Democrat"
+    }
+  ]
+}

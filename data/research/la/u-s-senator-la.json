@@ -1,0 +1,16 @@
+{
+  "office": "U. S. Senator",
+  "district": "LA",
+  "division": "la/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Jamie Davis",
+      "party": "Democrat"
+    },
+    {
+      "name": "Julia Letlow",
+      "party": "Republican"
+    }
+  ]
+}

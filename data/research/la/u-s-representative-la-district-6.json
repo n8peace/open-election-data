@@ -1,0 +1,48 @@
+{
+  "office": "U. S. Representative",
+  "district": "LA District 6",
+  "division": "la/cd-6",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Monique Appeaning",
+      "party": "Republican"
+    },
+    {
+      "name": "Chauna Banks",
+      "party": "Democrat"
+    },
+    {
+      "name": "Rufus H. Craig",
+      "party": "Libertarian"
+    },
+    {
+      "name": "Rick Edmonds",
+      "party": "Republican"
+    },
+    {
+      "name": "Patrick \"Pat\" Forbes",
+      "party": "Democrat"
+    },
+    {
+      "name": "Lindsay \"Rubia\" Garcia",
+      "party": "Democrat"
+    },
+    {
+      "name": "Michael Mebruer",
+      "party": "Republican"
+    },
+    {
+      "name": "Blake Miguez",
+      "party": "Republican"
+    },
+    {
+      "name": "Stephen Wagley",
+      "party": "Republican"
+    },
+    {
+      "name": "Larry Davis",
+      "party": "Republican"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "office": "U. S. Representative",
+  "district": "LA District 3",
+  "division": "la/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "\"Kate\" Cotten",
+      "party": "Republican"
+    },
+    {
+      "name": "John Day",
+      "party": "Democrat"
+    },
+    {
+      "name": "Priscilla Gonzalez",
+      "party": "Democrat"
+    },
+    {
+      "name": "\"Clay\" Higgins",
+      "party": "Republican"
+    },
+    {
+      "name": "Tia LeBrun",
+      "party": "No Party"
+    },
+    {
+      "name": "Caleb \"With a C\" Walker",
+      "party": "Democrat"
+    }
+  ]
+}

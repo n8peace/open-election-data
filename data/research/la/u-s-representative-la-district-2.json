@@ -1,0 +1,28 @@
+{
+  "office": "U. S. Representative",
+  "district": "LA District 2",
+  "division": "la/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Lisa Ballay",
+      "party": "Libertarian"
+    },
+    {
+      "name": "Walter \"Rocky\" Beach",
+      "party": "No Party"
+    },
+    {
+      "name": "Troy A. Carter Sr.",
+      "party": "Democrat"
+    },
+    {
+      "name": "Peter Williams",
+      "party": "Republican"
+    },
+    {
+      "name": "Renada Collins",
+      "party": "No Party"
+    }
+  ]
+}
