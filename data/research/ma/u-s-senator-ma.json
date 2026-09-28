@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Senator",
+  "district": "MA",
+  "division": "ma/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Edward J. Markey",
+      "party": "Democratic"
+    },
+    {
+      "name": "John Deaton",
+      "party": "Republican"
+    }
+  ]
+}
