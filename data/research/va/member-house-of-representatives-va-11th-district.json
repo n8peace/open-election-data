@@ -1,0 +1,20 @@
+{
+  "office": "Member, House of Representatives",
+  "district": "VA 11th District",
+  "division": "va/sldl-11",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "James R. Walkinshaw",
+      "party": "Democratic"
+    },
+    {
+      "name": "Arthur G. Purves",
+      "party": "Republican"
+    },
+    {
+      "name": "Dianne L. Blais",
+      "party": "Green"
+    }
+  ]
+}

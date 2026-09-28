@@ -1,0 +1,20 @@
+{
+  "office": "Member, House of Representatives",
+  "district": "VA 5th District",
+  "division": "va/sldl-5",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Tom S. P. Perriello",
+      "party": "Democratic"
+    },
+    {
+      "name": "John J. McGuire III",
+      "party": "Republican"
+    },
+    {
+      "name": "Cooke C. Harvey",
+      "party": "Independent"
+    }
+  ]
+}

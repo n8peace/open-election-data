@@ -1,0 +1,24 @@
+{
+  "office": "Member, House of Representatives",
+  "district": "VA 3rd District",
+  "division": "va/sldl-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Robert C. \"Bobby\" Scott",
+      "party": "Democratic"
+    },
+    {
+      "name": "Edwin Rivera, Jr.",
+      "party": "Republican"
+    },
+    {
+      "name": "Makiba A. Gaines",
+      "party": "Independent"
+    },
+    {
+      "name": "Stephen C. Woll",
+      "party": "Independent"
+    }
+  ]
+}

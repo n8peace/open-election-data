@@ -1,0 +1,24 @@
+{
+  "office": "Member, House of Representatives",
+  "district": "VA 8th District",
+  "division": "va/sldl-8",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Donald S. Beyer, Jr.",
+      "party": "Democratic"
+    },
+    {
+      "name": "Tony A. Sabio",
+      "party": "Republican"
+    },
+    {
+      "name": "Shelly M. Arnoldi",
+      "party": "Libertarian"
+    },
+    {
+      "name": "Tim S. Sharman",
+      "party": "Independent"
+    }
+  ]
+}
