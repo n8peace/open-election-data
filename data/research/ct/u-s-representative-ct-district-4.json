@@ -5,16 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Michael Ted Goldstein",
-      "party": "Republican"
-    },
-    {
       "name": "Jim Himes",
       "party": "Democratic"
     },
     {
-      "name": "Benjamin Wesley",
-      "party": "Independent"
+      "name": "Michael Ted Goldstein",
+      "party": "Republican"
     }
   ]
 }
