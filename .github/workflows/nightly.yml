@@ -31,8 +31,12 @@ jobs:
           npm run check:research > check.txt 2>&1
           echo "status=$?" >> "$GITHUB_OUTPUT"
           cat check.txt
-      - name: Open an issue if any quote went missing
+      # Some sites show GitHub's servers a different page than a browser gets, so a miss
+      # here isn't proof. Keep one running issue (updated nightly) for a maintainer to
+      # recheck from a normal connection, instead of a new issue every night.
+      - name: Update the source-check issue if any quote went missing
         if: steps.check.outputs.status != '0'
         run: |
-          { echo "The nightly check found quotes that no longer appear on their source pages. The page may have changed, or the claim may need rechecking."; echo; echo '```'; grep -E '✗|!' check.txt; echo '```'; } > body.md
-          gh issue create --title "Source check: quotes missing ($(date -u +%Y-%m-%d))" --body-file body.md --label research
+          { echo "The nightly check (run $(date -u +%Y-%m-%d)) couldn't find these quotes on their source pages. Some sites show GitHub's servers a different page, so a maintainer rechecks from a normal connection (\`npm run check:research -- <files>\`) before changing anything."; echo; echo '```'; grep -E '✗' check.txt; echo '```'; } > body.md
+          N=$(gh issue list --label source-check --state open --json number -q '.[0].number')
+          if [ -n "$N" ]; then gh issue edit "$N" --body-file body.md; else gh issue create --title "Source check: quotes to recheck" --body-file body.md --label source-check; fi
