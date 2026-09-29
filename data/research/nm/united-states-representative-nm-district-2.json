@@ -1,16 +1,16 @@
 {
   "office": "United States Representative",
-  "district": "NM District 2",
+  "district": "NM DISTRICT 2",
   "division": "nm/cd-2",
   "kind": "candidate",
   "choices": [
     {
-      "name": "GABRIEL VASQUEZ",
-      "party": "DEM"
-    },
-    {
       "name": "GREGORY G CUNNINGHAM",
       "party": "REP"
+    },
+    {
+      "name": "GABRIEL VASQUEZ",
+      "party": "DEM"
     }
   ]
 }
