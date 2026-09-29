@@ -1,0 +1,16 @@
+{
+  "office": "Representative in Congress",
+  "district": "NH District No: 1",
+  "division": "nh/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Stefany Shaheen",
+      "party": "Democratic"
+    },
+    {
+      "name": "Anthony DiLorenzo",
+      "party": "Republican"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "office": "Representative in Congress",
+  "district": "NH District No: 2",
+  "division": "nh/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Maggie Goodlander",
+      "party": "Democratic"
+    },
+    {
+      "name": "Lily Tang Williams",
+      "party": "Republican"
+    },
+    {
+      "name": "Robbie Mahrou",
+      "party": "Independent"
+    }
+  ]
+}
