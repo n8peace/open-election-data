@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Senator",
+  "district": "ME",
+  "division": "me/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Susan M. Collins",
+      "party": "Republican"
+    },
+    {
+      "name": "Troy D. Jackson",
+      "party": "Democratic"
+    }
+  ]
+}
