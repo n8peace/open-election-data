@@ -34,6 +34,20 @@ const Contests = z.object({
   })),
   sourceUrl: z.string().optional(),
 });
+// Strict structured output (OpenAI models) needs every field present, so the API
+// readers use nullable fields, converted back to the optional shape.
+const ContestsStrict = z.object({
+  contests: z.array(z.object({
+    office: z.string(),
+    district: z.string().nullable(),
+    candidates: z.array(z.object({ name: z.string(), party: z.string().nullable() })),
+  })),
+  sourceUrl: z.string().nullable(),
+});
+const fromStrict = (o: z.infer<typeof ContestsStrict>): z.infer<typeof Contests> => ({
+  sourceUrl: o.sourceUrl ?? undefined,
+  contests: o.contests.map((c) => ({ office: c.office, district: c.district ?? undefined, candidates: c.candidates.map((x) => ({ name: x.name, party: x.party ?? undefined })) })),
+});
 
 const LEVEL_TEXT: Record<Exclude<Level, 'measures'>, string> = {
   federal: 'U.S. Senate and U.S. House',
@@ -54,10 +68,10 @@ async function listViaGateway(state: string, level: Exclude<Level, 'measures'>, 
     abortSignal: AbortSignal.timeout(10 * 60 * 1000),
     tools: { web_search: gateway.tools.perplexitySearch({ maxResults: 5, maxTokensPerPage: 2048, maxTokens: 12000, country: 'US' }) },
     stopWhen: isStepCount(8),
-    output: Output.object({ schema: Contests }),
+    output: Output.object({ schema: ContestsStrict }),
     prompt: listPrompt(state, level),
   });
-  return output;
+  return fromStrict(output);
 }
 
 async function listContests(state: string, level: Exclude<Level, 'measures'>) {
