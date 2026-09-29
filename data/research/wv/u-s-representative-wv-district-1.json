@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "WV District 1",
+  "division": "wv/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Belinda Fox-Spencer",
+      "party": "Constitution"
+    },
+    {
+      "name": "Vince George",
+      "party": "Democratic"
+    },
+    {
+      "name": "Carol Miller",
+      "party": "Republican"
+    }
+  ]
+}

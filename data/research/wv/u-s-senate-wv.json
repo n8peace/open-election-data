@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Senate",
+  "district": "WV",
+  "division": "wv/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Rachel Fetty Anderson",
+      "party": "Democratic"
+    },
+    {
+      "name": "S. Marshall Wilson",
+      "party": "Constitution"
+    },
+    {
+      "name": "Shelley Moore Capito",
+      "party": "Republican"
+    }
+  ]
+}
