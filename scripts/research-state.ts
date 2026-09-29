@@ -63,6 +63,11 @@ Reply with ONLY this JSON, no other text:
 
 /** Reads the list with an API model and web search, when a subscription is out of usage. */
 async function listViaGateway(state: string, level: Exclude<Level, 'measures'>, model = listModel()): Promise<z.infer<typeof Contests>> {
+  // RESEARCH_NO_API=1: no paid API models at all; every reader is a separate Codex run.
+  if (process.env.RESEARCH_NO_API === '1') {
+    const t = await runCli('codex', listPrompt(state, level));
+    return Contests.parse(JSON.parse(t.slice(t.indexOf('{'), t.lastIndexOf('}') + 1)));
+  }
   const { output } = await generateText({
     model: model.replace(/^gateway:/, ''),
     abortSignal: AbortSignal.timeout(10 * 60 * 1000),
