@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Senator",
+  "district": "SD",
+  "division": "sd/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Brian L Bengs",
+      "party": "IND"
+    },
+    {
+      "name": "Mike Rounds",
+      "party": "REP"
+    }
+  ]
+}

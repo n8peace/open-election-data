@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Representative",
+  "district": "WY At-large District",
+  "division": "wy/cd-at-large",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Chuck Gray",
+      "party": "Republican"
+    },
+    {
+      "name": "Lisa Kinney",
+      "party": "Democratic"
+    },
+    {
+      "name": "Shawn Johnson",
+      "party": "Libertarian"
+    },
+    {
+      "name": "Jeffrey Haggit",
+      "party": "Constitution"
+    }
+  ]
+}

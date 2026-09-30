@@ -5,8 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
+      "name": "Robert Simmons",
+      "party": "Republican"
+    },
+    {
       "name": "Paul Strauss",
-      "party": "Democratic"
+      "party": "Democrat"
     }
   ]
 }

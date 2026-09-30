@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Senator",
+  "district": "NH",
+  "division": "nh/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Chris Pappas",
+      "party": "Democratic"
+    },
+    {
+      "name": "John E. Sununu",
+      "party": "Republican"
+    },
+    {
+      "name": "Edmond J. Laplante, Jr.",
+      "party": "Constitution"
+    }
+  ]
+}

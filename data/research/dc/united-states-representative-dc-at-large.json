@@ -1,0 +1,16 @@
+{
+  "office": "United States Representative",
+  "district": "DC At-large",
+  "division": "dc/cd-at-large",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Ciprian Ivanof",
+      "party": "Republican"
+    },
+    {
+      "name": "Franklin Garcia",
+      "party": "Democrat"
+    }
+  ]
+}

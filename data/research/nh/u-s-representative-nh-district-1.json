@@ -1,15 +1,15 @@
 {
   "office": "U.S. Representative",
-  "district": "ME District 1",
-  "division": "me/cd-1",
+  "district": "NH District 1",
+  "division": "nh/cd-1",
   "kind": "candidate",
   "choices": [
     {
-      "name": "Pingree, Chellie",
+      "name": "Stefany Shaheen",
       "party": "Democratic"
     },
     {
-      "name": "Russell, Ronald C.",
+      "name": "Anthony DiLorenzo",
       "party": "Republican"
     }
   ]

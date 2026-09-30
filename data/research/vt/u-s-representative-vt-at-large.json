@@ -1,0 +1,32 @@
+{
+  "office": "U.S. Representative",
+  "district": "VT At-large",
+  "division": "vt/cd-at-large",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Adam Ortiz",
+      "party": "Independent"
+    },
+    {
+      "name": "Becca Balint",
+      "party": "Democratic"
+    },
+    {
+      "name": "Gerald Malloy",
+      "party": "Republican"
+    },
+    {
+      "name": "Phoenix K. Altair",
+      "party": "Independent"
+    },
+    {
+      "name": "Ryan P. Walton",
+      "party": "Independent"
+    },
+    {
+      "name": "Suzanne \"Suz\" Seymour",
+      "party": "Independent"
+    }
+  ]
+}

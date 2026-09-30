@@ -1,15 +1,15 @@
 {
   "office": "U.S. Senator",
-  "district": "ME",
-  "division": "me/state",
+  "district": "WY",
+  "division": "wy/state",
   "kind": "candidate",
   "choices": [
     {
-      "name": "Collins, Susan M.",
+      "name": "Harriet Hageman",
       "party": "Republican"
     },
     {
-      "name": "Jackson, Troy D.",
+      "name": "James Byrd",
       "party": "Democratic"
     }
   ]
