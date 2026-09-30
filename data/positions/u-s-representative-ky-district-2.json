@@ -1,0 +1,205 @@
+{
+  "office": "U.S. Representative",
+  "district": "KY District 2",
+  "division": "ky/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Megan Wingfield",
+      "party": "Democratic Party",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supports raising the minimum wage and protecting gig workers and union organizing.",
+          "quote": "Raising the minimum wage and protecting gig workers and union organizing efforts.",
+          "sourceUrl": "https://www.wingfieldforcongress.com/platform-values",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She supports ending harmful ICE enforcement and creating faster, lower-cost citizenship pathways.",
+          "quote": "I support ending harmful enforcement systems like ICE and creating safer, faster pathways to citizenship that do not depend on high costs or long delays.",
+          "sourceUrl": "https://static1.squarespace.com/static/633216782862a17193ebe54a/t/69c407b9bb2a1d28ad31898d/1774454713247/Voter%2BGuide%2B2026%2BStatewide%2BPrimary%2B(1).pdf",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She says she would protect reproductive freedom and the right to choose.",
+          "quote": "Protect reproductive freedom and the right to choose.",
+          "sourceUrl": "https://www.wingfieldforcongress.com/platform-values",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "Her campaign supports nationwide protections for transgender and non-binary people, including against discriminatory bathroom bills.",
+          "quote": "Nationwide protections for transgender and non-binary individuals, including the right to accurate gender markers on IDs and protections from discriminatory “bathroom bills.”",
+          "sourceUrl": "https://www.wingfieldforcongress.com/platform-values",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports Medicare for All and universal, affordable, and accessible healthcare.",
+          "quote": "Expanding affordable housing programs and supporting Medicare for All to ease financial burdens.",
+          "sourceUrl": "https://www.wingfieldforcongress.com/platform-values",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She supports expanding early and mail voting, automatic registration, and federal anti-suppression protections.",
+          "quote": "I support expanding early voting, mail voting, and automatic registration, and creating strong federal protections against voter suppression.",
+          "sourceUrl": "https://static1.squarespace.com/static/633216782862a17193ebe54a/t/69c407b9bb2a1d28ad31898d/1774454713247/Voter%2BGuide%2B2026%2BStatewide%2BPrimary%2B(1).pdf",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "S. Brett Guthrie",
+      "party": "Republican Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He supported tax cuts in the Working Families Tax Cuts legislation and said families can spend their money better than Washington bureaucrats.",
+          "quote": "I believe Kentucky families know how to better spend their money than bureaucrats in Washington. I am proud of the work our Republican majority accomplished to secure these tax cuts.",
+          "sourceUrl": "https://guthrie.house.gov/news/email/show.aspx?ID=FUMMUMOEJZGASXKPXEI7MURLBA",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He voted against the Raise the Wage Act, which would have increased the federal minimum wage.",
+          "quote": "Jul 18, 2019, 12:01 PM | 116th Congress, 1st Session",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He said reforms should protect Social Security and Medicare for current seniors and keep the programs available for future generations.",
+          "quote": "I support reforms that protect Social Security and Medicare for today’s seniors, and that will ensure they exist for future generations.",
+          "sourceUrl": "https://www.wlky.com/article/in-their-own-words-brett-guthrie/3780655",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He requested funding for a planned workforce-housing community of 1,100 to 1,500 units.",
+          "quote": "This funding will be used for land acquisition of a critical parcel of land adjacent to the Kentucky Transpark, for a planned housing community that will include 1,100–1,500 units, co-located amenities, and the new Oakland Elementary School.",
+          "sourceUrl": "https://guthrie.house.gov/legislation/community-project-funding.htm",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "He co-hosted a House Republican roundtable described as work for school choice and parental rights.",
+          "quote": "Representatives James Comer, Brett Guthrie, Jim Banks, Victoria Spartz, hosted a roundtable to highlight how one-party rule has failed our children and how House Republicans are working for school choice and parental rights.",
+          "sourceUrl": "https://www.gop.gov/2023/01/12/highlights-from-the-republican-roundtable-on-childrens-education/",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "He requested federal funding for a sheriff’s department tactical team for high-risk response efforts.",
+          "quote": "The funding would be used by a full-service law enforcement agency with 78 personnel to help assemble a tactical team to assist in barricade hostage resolution and high-risk response efforts.",
+          "sourceUrl": "https://guthrie.house.gov/UploadedFiles/Daviess_County_Sheriffs_Department_Community_Response_and_Safeguard_Initiative_Nexus_Letter.pdf",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He said border security should come first and opposed amnesty while identifying agriculture and high-tech research as areas for immigration reform.",
+          "quote": "First, we must secure the border. Beyond that, the most critical areas of reform are in agriculture and high-tech research. I do not support amnesty.",
+          "sourceUrl": "https://www.wlky.com/article/in-their-own-words-brett-guthrie/3780655",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He said the Second Amendment protects an individual right to bear arms and that he does not favor additional gun control.",
+          "quote": "I believe the 2nd Amendment protects an individual’s right to keep and bear arms. I don’t favor additional gun control.",
+          "sourceUrl": "https://www.wlky.com/article/in-their-own-words-brett-guthrie/3780655",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He described himself as pro-life and cited his endorsement from the Kentucky Right to Life PAC.",
+          "quote": "I am pro-life, and am proud to be endorsed by the Kentucky Right to Life PAC.",
+          "sourceUrl": "https://www.wlky.com/article/in-their-own-words-brett-guthrie/3780655",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He voted for the Protection of Women and Girls in Sports Act of 2025.",
+          "quote": "Protection of Women and Girls in Sports Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512?Title=sports",
+          "agreement": "7/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "He said he opposed legalizing marijuana, while distinguishing industrial hemp from marijuana legalization.",
+          "quote": "I oppose legalizing marijuana. I did vote for legalizing industrial hemp as part of the Farm Bill that passed this year.",
+          "sourceUrl": "https://www.wlky.com/article/in-their-own-words-brett-guthrie/3780655",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He favored market-based health care approaches that he said would lower costs and keep decisions between patients and doctors.",
+          "quote": "I do think there are better market-based approaches that would actually lower costs and keep decisions between patients and doctors.",
+          "sourceUrl": "https://www.wlky.com/article/in-their-own-words-brett-guthrie/3780655",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supported an energy strategy including Kentucky coal and said domestic energy production should be encouraged.",
+          "quote": "I support an all-of-the-above strategy that includes Kentucky coal. We need to encourage domestic energy production, not stifle it.",
+          "sourceUrl": "https://www.wlky.com/article/in-their-own-words-brett-guthrie/3780655",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He promoted the SAVE America Act's photo-ID, proof-of-citizenship, and voter-roll provisions.",
+          "quote": "This bill will mandate the use of photo ID to vote, require proof of citizenship to register to vote, and establish programs to support the removal of existing non-citizens from state voter rolls.",
+          "sourceUrl": "https://guthrie.house.gov/news/email/show.aspx?ID=FUMMUMOEJZGAT7HSNHG54JTRNU",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Thomas A. Loecken",
+      "party": "Independent",
+      "stances": {}
+    }
+  ],
+  "sources": "wingfieldforcongress.com · static1.squarespace.com · guthrie.house.gov · clerk.house.gov · wlky.com · gop.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

@@ -1,0 +1,160 @@
+{
+  "office": "U.S. Representative",
+  "district": "KY District 3",
+  "division": "ky/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Morgan McGarvey",
+      "party": "Democratic Party",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He introduced legislation for a nationwide monthly refundable tax credit for young adults.",
+          "quote": "That’s why I’m proud to introduce the Young Adult Tax Credit and establish a national program that invests in our upcoming generations",
+          "sourceUrl": "https://mcgarvey.house.gov/media/press-releases/congressman-morgan-mcgarvey-introduces-young-adult-tax-credit-act",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports raising the federal minimum wage to $15 an hour and strengthening workers’ rights to organize and bargain collectively.",
+          "quote": "I support increasing the federal minimum wage to $15/hour, and then indexing the minimum wage to inflation so that workers don’t start falling behind the moment they get a raise.",
+          "sourceUrl": "https://www.morganmcgarvey.com/issues/economy",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He criticized tariffs on Canada and Mexico, saying they would raise prices and threaten Kentucky jobs.",
+          "quote": "President Trump promised to lower prices, but these tariffs will do the opposite, increasing the cost of food, automobiles, and gas for every American family.",
+          "sourceUrl": "https://mcgarvey.house.gov/media/press-releases/congressman-morgan-mcgarvey-slams-president-trumps-harmful-tariffs",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He joined a letter opposing cuts to Social Security, Medicare, and Medicaid benefits and access.",
+          "quote": "We write to oppose any attempts to cut access or benefits to the vital programs that Americans rely on, such as Social Security, Medicare, and Medicaid.",
+          "sourceUrl": "https://mcgarvey.house.gov/media/press-releases/congressman-morgan-mcgarvey-200-house-democrats-send-letter-to-speaker-johnson-opposing-cuts-to-social-security-health-care",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He has advocated for public schools, public education employees, and expanded public education programs.",
+          "quote": "Every kid should have the opportunity to go to a good public school that prepares them for a successful life, no matter your zip code.",
+          "sourceUrl": "https://www.morganmcgarvey.com/issues/education",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "He requested funding for community-based gun violence prevention and a Louisville group violence reduction and reentry project.",
+          "quote": "Community Project: Louisville Group Violence Reduction ReEntry Project",
+          "sourceUrl": "https://mcgarvey.house.gov/issues/gun-violence-prevention",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports comprehensive immigration reform with a broad pathway to citizenship and opposes shifting federal immigration enforcement to local police.",
+          "quote": "A broad path to citizenship must be the centerpiece to any serious immigration reform that moves 11 million people out of the shadows.",
+          "sourceUrl": "https://www.morganmcgarvey.com/issues/immigration",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He has called for universal background checks and cosponsored bills to expand background checks and restrict assault weapons.",
+          "quote": "Let’s start with universal background checks. 90 percent of the American public wants us to have background checks to buy a firearm in this country.",
+          "sourceUrl": "https://mcgarvey.house.gov/media/press-releases/congressman-morgan-mcgarvey-convenes-congressional-progressive-caucus-special",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "He criticized Kentucky's ban on transgender students participating in sports and pledged to protect LGBTQ Americans' rights and safety.",
+          "quote": "Republicans passed a bill that disallows trans kids from participating in sports right here at home in Kentucky.",
+          "sourceUrl": "https://www.morganmcgarvey.com/issues/lgbtq",
+          "agreement": "6/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "As a state senator, he co-sponsored an omnibus bill providing for regulated cannabis sales, taxation, and licensing.",
+          "quote": "apply the excise tax beginning on July 1, 2023, and allow cannabis sales beginning on July 1, 2024",
+          "sourceUrl": "https://apps.legislature.ky.gov/record/22rs/sb186.html",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports Medicare for All and expanding health coverage, including through Medicaid and Medicare drug price negotiation.",
+          "quote": "That’s why I support Medicare for All to ensure that everyone is covered with quality, affordable, accessible care.",
+          "sourceUrl": "https://www.morganmcgarvey.com/issues/health-care",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He supports a federal clean energy standard and public investment and incentives to expand renewable energy and reduce greenhouse gas emissions.",
+          "quote": "I support a federal clean energy standard that incentivizes investor-owned electric utilities to achieve greenhouse gas emissions reductions while creating millions of good-paying jobs to build the clean energy infrastructure necessary to make this transition.",
+          "sourceUrl": "https://www.morganmcgarvey.com/issues/climate-change",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He supports expanding absentee and early voting, same-day registration, automatic registration, and ballot drop boxes.",
+          "quote": "We must expand absentee voting, allow for automatic voter registration, same-day voter registration, allow for early voting and ballot dropboxes to make it more convenient for more people to vote, and make election day a federal holiday.",
+          "sourceUrl": "https://www.morganmcgarvey.com/issues/voting-and-democracy",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Maria Teresa Rodriguez",
+      "party": "Republican Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Her campaign lists lower taxes as one of its priorities.",
+          "quote": "Defending Capitalism Safer Louisville Lower Taxes Legal Immigration Protecting The Unborn Protecting Women’s Sports",
+          "sourceUrl": "https://mariaforuscongress.com/meet-the-candidate/",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "Her campaign lists protecting the unborn as one of its priorities, indicating opposition to abortion.",
+          "quote": "Defending Capitalism Safer Louisville Lower Taxes Legal Immigration Protecting The Unborn Protecting Women’s Sports",
+          "sourceUrl": "https://mariaforuscongress.com/meet-the-candidate/",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "mcgarvey.house.gov · morganmcgarvey.com · apps.legislature.ky.gov · mariaforuscongress.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

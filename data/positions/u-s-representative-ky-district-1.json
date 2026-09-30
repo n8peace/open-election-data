@@ -1,0 +1,96 @@
+{
+  "office": "U.S. Representative",
+  "district": "KY District 1",
+  "division": "ky/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "John \"Drew\" Williams",
+      "party": "Democratic Party",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He proposes tax exemptions for low- and middle-income families while increasing taxes and fees on higher incomes and financial transactions.",
+          "quote": "A modern tax system built on a simple promise: that working families should keep more of what they earn, small businesses should not be crushed by complexity, and no one, no matter how wealthy, should be able to opt out of contributing to the country that made their success possible.",
+          "sourceUrl": "https://www.williamsforky.com/taxpolicy",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "His campaign proposes a cost-of-living-based wage system with regional wage schedules and protections for workers.",
+          "quote": "The goal is to create a cost-of-living based Wage System that reflects regional realities, with tiered exemptions for Microbusinesses",
+          "sourceUrl": "https://www.williamsforky.com/labor-rights",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "His campaign proposes incentives and streamlined permitting to build four million affordable starter homes in five years.",
+          "quote": "Invest in communities around America to incentivize construction of 4 million affordable starter homes within five years.",
+          "sourceUrl": "https://www.williamsforky.com/housing",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He calls for greater investment in public schools, educators, school facilities, and student supports.",
+          "quote": "America’s future depends on the strength of its public schools, where every child, regardless of zip code, should have access to excellent teachers, modern classrooms, and real opportunities for success.",
+          "sourceUrl": "https://www.williamsforky.com/education",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He proposed due-process protections and limits on deportations, workplace raids, and other immigration enforcement practices.",
+          "quote": "ICE warrants should have to come from the judicial system, not through executive functions, and those not listed in those warrants are not subject to deportation orders.",
+          "sourceUrl": "https://static1.squarespace.com/static/633216782862a17193ebe54a/t/69c407b9bb2a1d28ad31898d/1774454713247/Voter%2BGuide%2B2026%2BStatewide%2BPrimary%2B%281%29.pdf",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He proposed automatic voter registration, expanded early voting, and improved language and disability access at polling places.",
+          "quote": "Automatic voter registration, push for open primaries, ranked choice voting, and term limits. Increase access to early voting",
+          "sourceUrl": "https://static1.squarespace.com/static/633216782862a17193ebe54a/t/69c407b9bb2a1d28ad31898d/1774454713247/Voter%2BGuide%2B2026%2BStatewide%2BPrimary%2B%281%29.pdf",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "James R. Comer",
+      "party": "Republican Party",
+      "stances": {
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "He voted for the Protection of Women and Girls in Sports Act of 2023.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2023192",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "williamsforky.com · static1.squarespace.com · clerk.house.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
