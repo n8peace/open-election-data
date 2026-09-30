@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Representative",
+  "district": "VA District 2",
+  "division": "va/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Elaine G. Luria",
+      "party": "Democratic"
+    },
+    {
+      "name": "Jen A. Kiggans",
+      "party": "Republican"
+    },
+    {
+      "name": "Geral D. \"Bishop\" Staten",
+      "party": "Independent"
+    },
+    {
+      "name": "J. Matt Baker",
+      "party": "Independent"
+    }
+  ]
+}

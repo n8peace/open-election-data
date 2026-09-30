@@ -1,0 +1,308 @@
+{
+  "office": "U.S. Representative",
+  "district": "NJ District 12",
+  "division": "nj/cd-12",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "ADAM HAMAWY",
+      "party": "Democratic",
+      "stances": {
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He pledged to fight for strong public schools.",
+          "quote": "I will fight for affordable healthcare, strong public schools, and an economy that works for working families, not just those with power and influence.",
+          "sourceUrl": "https://hamawyfornj.com/",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports codifying the right to abortion in federal law.",
+          "quote": "I support codifying the right to abortion in federal law. Politicians need to stay out of decisions between doctors and patients.",
+          "sourceUrl": "https://hamawyfornj.com/priorities",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports universal single-payer health care through Medicare for All.",
+          "quote": "We need universal, single-payer healthcare with no out-of-pocket costs.",
+          "sourceUrl": "https://hamawyfornj.com/priorities",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "GREGG MELE",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "His campaign calls for lower taxes and disciplined federal spending.",
+          "quote": "New Jersey families need lower costs, lower taxes, and accountable government—not another blank check.",
+          "sourceUrl": "https://www.mele4america.com/",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "He says Medicare reforms should keep commitments to seniors while addressing waste, fraud, and abuse.",
+          "quote": "For Medicare, we must keep our promises to seniors. Reforms should focus on eliminating waste, fraud, and abuse",
+          "sourceUrl": "https://www.ballotready.org/people/greg-mele",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "His campaign’s education framework includes school choice alongside local control and curriculum transparency.",
+          "quote": "Gregg’s education framework calls for curriculum transparency, local control, school choice, vocational and technical education, strong science and mathematics, and serious instruction in American civics.",
+          "sourceUrl": "https://www.mele4america.com/accountability.html",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "His campaign says it supports law enforcement and calls for enforcing the law and securing the border.",
+          "quote": "Secure the border, enforce the law, support law enforcement, and protect New Jersey neighborhoods from policies that put ideology first.",
+          "sourceUrl": "https://www.mele4america.com/the-choice.html",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "In an older candidate questionnaire, he disagreed with the statement that more restrictive gun control is needed for public safety.",
+          "quote": "More restrictive gun control is needed to protect public safety.",
+          "sourceUrl": "https://ivoterguide.com/candidate/43059/race/6807/election/617?culture=en-us",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "In an older candidate questionnaire, he agreed that human life begins at conception and deserves legal protection.",
+          "quote": "Human life begins at conception and deserves legal protection at every stage until natural death.",
+          "sourceUrl": "https://ivoterguide.com/candidate/43059/race/6807/election/617?culture=en-us",
+          "agreement": "5/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "In an older candidate questionnaire, he strongly disagreed with allowing restroom and changing-room access based on gender identity.",
+          "quote": "People should be allowed to use public restrooms, showers, and changing rooms based on \"gender identity.\"",
+          "sourceUrl": "https://ivoterguide.com/candidate/43059/race/6807/election/617?culture=en-us",
+          "agreement": "4/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "He answered that he strongly agrees with legalizing recreational marijuana.",
+          "quote": "I support the legalization of recreational marijuana. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/43059/race/12875/election/847",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "His campaign favors competition and patient choice and opposes replacing the current system with a single federal payer.",
+          "quote": "The campaign supports greater price transparency, more competition, portability, and targeted reforms intended to give patients more information and more choice rather than replacing the current system with a single federal payer.",
+          "sourceUrl": "https://www.mele4america.com/healthcare.html",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "His campaign supports reliable, affordable energy, including dispatchable generation, nuclear power, and natural gas.",
+          "quote": "Gregg’s Affordable Energy Commitment supports reliable, dispatchable generation; nuclear power and natural gas alongside competitive emerging technologies; faster permitting for responsible domestic energy and grid infrastructure; and clear disclosure of subsidies, transmission expenses, and other policy-driven costs borne by taxpayers or ratepayers.",
+          "sourceUrl": "https://www.mele4america.com/affordability.html",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He strongly disagreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/43059/race/12875/election/847",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "ANDRES JINETE",
+      "party": "Green Party",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He proposes shifting more of the tax burden to top earners while funding social programs.",
+          "quote": "Shift the burden of taxation to the top 1% of earners and eliminate income taxes for middle and lower income households.",
+          "sourceUrl": "https://www.andresjinete.org/demands",
+          "agreement": "7/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He proposes raising the federal minimum wage to $25 an hour, indexing it to inflation, and requiring service workers to receive the full minimum wage in addition to tips.",
+          "quote": "Raise the federal minimum wage from $7.25 to $25 an hour and index future increases to inflation.",
+          "sourceUrl": "https://www.andresjinete.org/demands",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He proposes major public housing investment, with a goal of making 60% of the market high-quality, income-based social housing.",
+          "quote": "Major public housing investment with a goal to make 60% of the market high-quality, income-based units i.e. social housing.",
+          "sourceUrl": "https://www.andresjinete.org/demands",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He proposes federal funding for local schools and after-school programs instead of relying on property taxes.",
+          "quote": "Fund local schools and after-school programs at the federal level rather than through property taxes.",
+          "sourceUrl": "https://www.andresjinete.org/demands",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "He proposes treating drug possession and use as public health issues, decriminalizing victimless offenses, and ending private prisons and detention centers.",
+          "quote": "Treat drug possession and use as public health issues; decriminalize victimless offenses.",
+          "sourceUrl": "https://www.andresjinete.org/demands",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He proposes a new amnesty, transferring immigration courts to the federal judiciary, and shutting down detention centers as part of an immigration overhaul.",
+          "quote": "A complete overhaul of the immigration system, which includes a new amnesty, transfer of courts to the federal judiciary, shutting down detention centers, and more efficient processes",
+          "sourceUrl": "https://www.andresjinete.org/demands",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports codifying the right to bodily autonomy and access to abortion into law.",
+          "quote": "Codify into law the right to bodily autonomy and access to abortion.",
+          "sourceUrl": "https://www.andresjinete.org/demands",
+          "agreement": "10/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "He supports federally legalizing marijuana and ensuring cannabis dispensaries can access banking services.",
+          "quote": "Legalize marijuana federally and ensure cannabis dispensaries have access to banking services.",
+          "sourceUrl": "https://www.andresjinete.org/demands",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports free, single-payer universal healthcare for everyone, regardless of immigration status.",
+          "quote": "Free single-payer universal healthcare available to everyone, regardless of status.",
+          "sourceUrl": "https://www.andresjinete.org/demands",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He proposes a full transition to a decarbonized economy powered by 100% renewable energy.",
+          "quote": "Fund a full transition to a decarbonized economy powered by 100% renewable energy.",
+          "sourceUrl": "https://www.andresjinete.org/demands",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "WINSTON JORDAN",
+      "party": "GET MONEY OUT",
+      "stances": {
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Jordan supports increasing public school funding and protecting K–12 district funding.",
+          "quote": "On education, we must increase public school funding, make college affordable, expand vocational training, and aid workers displaced by automation.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198489",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Jordan supports a citizenship pathway for undocumented immigrants and protections for DACA recipients.",
+          "quote": "I support a direct pathway to citizenship for undocumented immigrants, permanent DACA protection, an end to for-profit detention, and decriminalized border crossings with humane asylum processing.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198489",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Jordan supports universal background checks, assault-weapon restrictions and red-flag laws.",
+          "quote": "Winston Jordan supports comprehensive, evidence-based gun safety reforms to reduce violence and protect communities.",
+          "sourceUrl": "https://ivoterguide.com/candidate/94913/race/33275/election/1478",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Jordan supports nationwide legal access to abortion and opposes state bans or restrictions.",
+          "quote": "I support full access to abortion, contraception, fertility treatment, and maternal care without restriction, stigma, or cost barriers.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198489",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "Jordan opposes blanket bans excluding transgender women from women's sports and public spaces.",
+          "quote": "Winston Jordan strongly disagrees with blanket bans excluding transgender women from women's sports and public spaces.",
+          "sourceUrl": "https://ivoterguide.com/candidate/94913/race/33275/election/1478",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Jordan supports Medicare for All and a district pilot expanding health coverage through the VA network.",
+          "quote": "The U.S. faces six critical challenges. On economic inequality, I propose the American Economic Security Act: a $50K minimum livable income, Employer of Last Resort program, and $50B wealth cap—using demand-side economics to stimulate growth. On climate change, we need renewable energy investment, carbon pricing, sustainable infrastructure, and environmental justice. On healthcare, I support Medicare-for-All, expanded mental health and opioid treatment, and protected reproductive rights.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198489",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Jordan supports renewable energy investment, carbon pricing and sustainable infrastructure to address climate change.",
+          "quote": "On climate change, we need renewable energy investment, carbon pricing, sustainable infrastructure, and environmental justice.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198489",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He supports automatic voter registration for U.S. citizens.",
+          "quote": "States must automatically register US Citizens to vote. implement blockchain technology to prevent hacking.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198489",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "hamawyfornj.com · mele4america.com · ballotready.org · ivoterguide.com · andresjinete.org · onyourballot.vote411.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "VA District 1",
+  "division": "va/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Shannon L. Taylor",
+      "party": "Democratic"
+    },
+    {
+      "name": "Robert J. \"Rob\" Wittman",
+      "party": "Republican"
+    }
+  ]
+}

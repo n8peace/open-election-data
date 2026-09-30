@@ -1,0 +1,32 @@
+{
+  "office": "U.S. Representative",
+  "district": "VA District 7",
+  "division": "va/cd-7",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Eugene S. Vindman",
+      "party": "Democratic"
+    },
+    {
+      "name": "Doug A. Ollivant",
+      "party": "Republican"
+    },
+    {
+      "name": "Taner E. Demirci Lopez",
+      "party": "Libertarian"
+    },
+    {
+      "name": "Alaha Ahrar",
+      "party": "Independent"
+    },
+    {
+      "name": "Joshua E. Ertle",
+      "party": "Independent"
+    },
+    {
+      "name": "Randall A. Terry",
+      "party": "Independent"
+    }
+  ]
+}

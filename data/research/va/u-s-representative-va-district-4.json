@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "VA District 4",
+  "division": "va/cd-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Jennifer L. McClellan",
+      "party": "Democratic"
+    },
+    {
+      "name": "Robert P. \"Family Man\" Murray, Jr.",
+      "party": "Republican"
+    },
+    {
+      "name": "Joan E. \"Andrews\" Bell",
+      "party": "Independent"
+    }
+  ]
+}

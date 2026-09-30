@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "VA District 6",
+  "division": "va/cd-6",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Beth A. Macy",
+      "party": "Democratic"
+    },
+    {
+      "name": "Ben L. Cline",
+      "party": "Republican"
+    }
+  ]
+}

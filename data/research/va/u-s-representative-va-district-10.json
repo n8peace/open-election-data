@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "VA District 10",
+  "division": "va/cd-10",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Suhas Subramanyam",
+      "party": "Democratic"
+    },
+    {
+      "name": "Dave T. Beckwith",
+      "party": "Republican"
+    },
+    {
+      "name": "Ahsen Mujeeb Malik",
+      "party": "Independent"
+    }
+  ]
+}
