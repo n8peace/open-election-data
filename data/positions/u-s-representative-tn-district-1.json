@@ -1,0 +1,209 @@
+{
+  "office": "U.S. Representative",
+  "district": "TN District 1",
+  "division": "tn/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Diana Harshbarger",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She praised a tax bill that she said would keep more money in taxpayers’ pockets.",
+          "quote": "Instead, they're keeping more of their hard-earned money in their pockets, and the results speak for themselves.",
+          "sourceUrl": "https://harshbarger.house.gov/media/press-releases/harshbarger-statement-new-working-families-tax-cuts-treasury-analysis",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "She said she strongly supports school choice and families’ freedom to choose educational pathways.",
+          "quote": "I strongly support school choice and educational freedoms. Students and their families should be empowered with the freedom to choose their own educational pathways",
+          "sourceUrl": "https://harshbarger.house.gov/issues/education",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "She says she supports law enforcement and rejects calls to defund or abolish police.",
+          "quote": "We must Back the Blue and support our law enforcement, other first responders, and our military.",
+          "sourceUrl": "https://harshbarger.house.gov/issues/national-security",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "She voted for a budget resolution to fund ICE and Border Patrol and said the open-borders era should end.",
+          "quote": "I proudly voted for this budget resolution to keep America secure, fund the agents protecting us, and make sure the Biden open borders era is gone for good.",
+          "sourceUrl": "https://harshbarger.house.gov/media/press-releases/harshbarger-advances-framework-fully-fund-ice-border-patrol-remainder-trump",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "She led a letter urging federal officials to protect gun ownership from what it called attacks by federal health agencies.",
+          "quote": "We write to you today to urge you to protect the Second Amendment from attacks by a partisan and weaponized Centers for Disease Control (CDC) and National Institutes of Health (NIH)",
+          "sourceUrl": "https://harshbarger.house.gov/media/in-the-news/fox-news-scoop-republicans-demand-rfk-jr-reverse-biden-era-public-health",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "She said she believes the right to life begins at conception and backed legislation restricting abortion.",
+          "quote": "I believe we all have a moral responsibility to defend the right to life, which begins at conception.",
+          "sourceUrl": "https://harshbarger.house.gov/issues/defending-life",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "She voted for the Protection of Women and Girls in Sports Act, which bases Title IX athletics rules on reproductive biology and genetics at birth.",
+          "quote": "Vote Question: On Passage Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "5/5"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "She voted against House passage of the MORE Act, which would have decriminalized cannabis federally.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "She criticized government-run health care and advocated patient choice, competition, and control over health care decisions.",
+          "quote": "Unlike the government-run overreach of Obamacare, I believe in personalized medicine as part of a reformed and modernized healthcare system",
+          "sourceUrl": "https://harshbarger.house.gov/issues/health-care",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "She voted for an appropriations bill that prohibited funding for climate mandates in foreign assistance.",
+          "quote": "Prohibits funding for DEI initiatives, radical gender ideology, climate mandates, the United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA), the United Nations Population Fund (UNFPA), and other programs inconsistent with President Trump's America First agenda.",
+          "sourceUrl": "https://harshbarger.house.gov/media/press-releases/harshbarger-supports-fy27-funding-strengthen-national-security-and-counter",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "She voted for the SAVE Act, which would add documentary proof-of-citizenship requirements for voter registration.",
+          "quote": "Vote Question: On Passage SAVE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2025102",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Kristi Burke",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Burke supports tax relief for working families, higher contributions from wealthy people and corporations, and investing revenue in public services.",
+          "quote": "Use tax revenue to invest in America. Revenue raised through a fairer tax system should be invested in healthcare, education, infrastructure, affordable housing, and other priorities that strengthen the middle class and grow the economy.",
+          "sourceUrl": "https://www.votekristiburke.com/non-negotiables",
+          "agreement": "7/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "She supports labor rights, fair wages and stronger workplace protections.",
+          "quote": "Workers are the backbone of the economy and deserve fair compensation and protections. Labor rights, fair wages, and safe working conditions must be guaranteed.",
+          "sourceUrl": "https://www.votekristiburke.com/non-negotiables",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She says Social Security should be protected from cuts and strengthened.",
+          "quote": "Social Security is a lifeline for millions of Americans. It must be protected from cuts and strengthened for future generations.",
+          "sourceUrl": "https://www.votekristiburke.com/non-negotiables",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports fully funding public schools and opposes diverting public funds to private school vouchers.",
+          "quote": "Public dollars must go to public schools, and education must be accessible from early childhood through higher education.",
+          "sourceUrl": "https://www.votekristiburke.com/non-negotiables",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Burke supports border security and programs that make it easier for undocumented immigrants to gain legal status, alongside due process and equal rights.",
+          "quote": "I support investment in border security and internal programs that make it easier for undocumented immigrants to gain legal status.",
+          "sourceUrl": "https://www.aol.com/articles/u-house-district-1-primary-071532000.html",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Burke supports protecting abortion access and says government should not interfere with a woman’s choice about her body.",
+          "quote": "The government has no place interfering with a woman’s choice about her own body.",
+          "sourceUrl": "https://www.aol.com/articles/u-house-district-1-primary-071532000.html",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports a universal, single-payer system and Medicare for All.",
+          "quote": "I support a universal, single-payer system. Medicare for All would ensure every person is covered, regardless of income, job, or circumstance.",
+          "sourceUrl": "https://www.votekristiburke.com/non-negotiables",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Joshua Ray Ashburn",
+      "party": "Independent",
+      "stances": {}
+    },
+    {
+      "name": "Richard G. Baker",
+      "party": "Independent",
+      "stances": {}
+    },
+    {
+      "name": "Chris Campbell",
+      "party": "Independent",
+      "stances": {}
+    },
+    {
+      "name": "Billy Cody",
+      "party": "Independent",
+      "stances": {}
+    },
+    {
+      "name": "Tyler Brice Mitchell McClain",
+      "party": "Independent",
+      "stances": {}
+    }
+  ],
+  "sources": "harshbarger.house.gov · clerk.house.gov · votekristiburke.com · aol.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

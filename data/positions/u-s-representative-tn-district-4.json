@@ -1,0 +1,307 @@
+{
+  "office": "U.S. Representative",
+  "district": "TN District 4",
+  "division": "tn/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Scott DesJarlais",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He supports tax reductions and says Americans should keep more of their earnings rather than send them to Washington.",
+          "quote": "He supports tax reductions and simplifications for middle class Americans and job creators.",
+          "sourceUrl": "https://scottdesjarlais.com/issues/",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He voted against the Raise the Wage Act, which would have increased the federal minimum wage.",
+          "quote": "Vote Question: On Passage Raise the Wage Act Vote Type: Recorded Vote",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "7/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He praised the USMCA trade agreement and said it would promote free and fair trade while opening markets.",
+          "quote": "The trade deal replaces the outdated North American Free Trade Agreement, fulfilling a major promise the President made to promote free and fair trade.",
+          "sourceUrl": "https://desjarlais.house.gov/2020/1/usmca-trade-deal-a-big-win-for-us-farmers-manufacturers-and-economy-says",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "He called for reforms to Social Security and Medicare for younger generations while saying current seniors’ promises should be kept.",
+          "quote": "We must phase in incremental solutions to give younger generations an opportunity to participate in these programs and to secure their futures, while keeping the promises made to our current seniors 55 and older.",
+          "sourceUrl": "https://scottdesjarlais.com/issues/",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "He said parents and states should have more control over education and supported increasing education options.",
+          "quote": "Parents and states should have more control over what we teach our children. Increasing education options, especially Science, Math, Engineering and Technology instruction, would improve young lives, as well as our economy.",
+          "sourceUrl": "https://desjarlais.house.gov/education",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "His office requested funding for a Rutherford County Sheriff's Office rapid-DNA device to aid deputies' investigations.",
+          "quote": "The Rutherford County Sheriff’s Office would like to purchase a Rapid DNA instrument to help bolster law enforcement efficiency and improve community outcomes.",
+          "sourceUrl": "https://desjarlais.house.gov/community-project-funding",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supports border barriers, more enforcement resources, and quick arrest and deportation of criminal aliens.",
+          "quote": "I support building a physical wall along the Mexican border, increasing agents and technology, and quickly arresting and deporting criminal aliens.",
+          "sourceUrl": "https://desjarlais.house.gov/border-immigration-enforcement",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He supports concealed-carry reciprocity and says he will vote to protect gun rights.",
+          "quote": "The right to bear arms is a constitutionally protected right and we will fight to make sure those rights are not eroded.",
+          "sourceUrl": "https://scottdesjarlais.com/issues/",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "He voted for the Born-Alive Abortion Survivors Protection Act, which would require protections for infants born alive after an attempted abortion.",
+          "quote": "Vote Question: On Passage Born-Alive Abortion Survivors Protection Act Vote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/2025027",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "He voted for the Protection of Women and Girls in Sports Act, which bases sports eligibility on sex at birth.",
+          "quote": "sex shall be recognized based solely on a person’s reproductive biology and genetics at birth.",
+          "sourceUrl": "https://www.congress.gov/119/bills/hr28/BILLS-119hr28eh.pdf",
+          "agreement": "9/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "He voted against the MORE Act, which would have decriminalized and descheduled cannabis.",
+          "quote": "Roll Call 107 | Bill Number: H. R. 3617",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He opposes single-payer health care and supports more choice, competition, and private insurance options.",
+          "quote": "More federal interference, such as single-payer, is the wrong answer. Giving workers, families and small businesses more choice and flexibility is the right one.",
+          "sourceUrl": "https://desjarlais.house.gov/2017/10/rep-scott-desjarlais-supports-presidents-executive-order-to-increase",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supports expanding domestic energy production and opposes regulations he says drive up prices and limit supply.",
+          "quote": "Our energy producers should not be overburdened with regulations that drive up prices and limit supply.",
+          "sourceUrl": "https://scottdesjarlais.com/issues/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "He voted for the Safeguard American Voter Eligibility Act, which tightened federal voter-registration requirements.",
+          "quote": "Vote Question: On Passage Safeguard American Voter Eligibility Act Vote Type: Recorded Vote Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2024345",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Victoria Broderick",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She says wealthy individuals and large corporations should pay more of the tax burden so working families do not cover the difference.",
+          "quote": "I believe the wealthiest individuals and the biggest corporations should pay their fair share instead of leaving working families to cover the difference.",
+          "sourceUrl": "https://www.victoria4tennessee.org/about",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "She called for significantly increasing federal investment in K-12 programs and targeting aid to high-need districts.",
+          "quote": "Congress should significantly increase federal investments in K-12 education programs, including Title I, Title III, and IDEA, through a formula that targets aid to the highest-need states and school districts",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72800760",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "She supports investing in safety nets rather than criminalizing people.",
+          "quote": "Our communities deserve to be safe to live in with investments in safety nets that help lift people up not criminalize them.",
+          "sourceUrl": "https://www.victoria4tennessee.org/issues",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Her platform calls for both border security and a fair immigration process.",
+          "quote": "secure the border and ensure a fair immigration process",
+          "sourceUrl": "https://www.victoria4tennessee.org/more-about-my-platform",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "She supported legislation to limit criminals’ access to firearms while protecting responsible gun ownership.",
+          "quote": "I am also hearing a lot from mothers who are concerned about the safety of their children and want to see commonsense gun legislation passed that prohibits a criminals easy access to firearms and weapons of war, while protecting the second amendment rights for all residents.",
+          "sourceUrl": "https://www.yahoo.com/news/tennessee-u-congress-election-meet-230139049.html",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She said she would vote to codify Roe and expand reproductive health care.",
+          "quote": "I would be a vote for codifying Roe and expanding reproductive healthcare for all.",
+          "sourceUrl": "https://www.yahoo.com/news/tennessee-u-congress-election-meet-230139049.html",
+          "agreement": "10/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Her campaign platform calls for ending federal marijuana penalties.",
+          "quote": "keep the federal government out of your personal decisions Freedom secure the border and ensure a fair immigration process Freedom end federal marijuana penalties for good",
+          "sourceUrl": "https://www.victoria4tennessee.org/more-about-my-platform",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She said she would begin work on Medicare for All and work toward that system with colleagues, insurers, and employers.",
+          "quote": "The first thing I would do is begin work on Medicare for All; I would bring together my colleagues, insurance companies, and employers to finally find a solution to work toward this system.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72800760",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Jacob Kristopher Anders",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "His tax plan would eliminate income taxes below $500,000 while imposing a 50% rate above that threshold and raising the corporate tax rate to 42%.",
+          "quote": "eliminates income taxes entirely for anyone earning under $500,000. For income exceeding that threshold, a simplified 50% flat tax will be applied.",
+          "sourceUrl": "https://jacobanders.org/",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports a $15 minimum wage and the PRO Act to strengthen collective bargaining and worker protections.",
+          "quote": "we must increase the minimum wage to $15 an hour, and pass the Protecting the Right to Organize (PRO) Act.",
+          "sourceUrl": "https://jacobanders.org/",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He opposes cuts or privatization of Social Security benefits and proposes removing the income cap on Social Security taxes.",
+          "quote": "I will stand against any attempt to cut or privatize the money you earned.",
+          "sourceUrl": "https://jacobanders.org/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He proposes increasing housing supply by cutting federal red tape and encouraging zoning changes for more types of homes.",
+          "quote": "we need to drastically increase housing supply by cutting federal red tape and incentivizing local communities to reform rigid zoning rules",
+          "sourceUrl": "https://jacobanders.org/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He supports protecting K–12 public school funding and raising teacher pay.",
+          "quote": "In our K-12 schools, we need to protect public education funding, significantly raise teacher pay",
+          "sourceUrl": "https://jacobanders.org/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports border security while also calling for humane treatment and a more accessible legal immigration process.",
+          "quote": "Our nation requires a secure border and ports of entry to protect our people from criminals and fentanyl. Security must also go hand in hand with treating every legitimate migrant, refugee, and asylum seeker with basic human dignity.",
+          "sourceUrl": "https://jacobanders.org/",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He says abortion should remain legal and opposes punitive government restrictions.",
+          "quote": "Abortion should be safe, legal, and rare. The most effective way to lower the total number of abortions is not through punitive government mandates",
+          "sourceUrl": "https://jacobanders.org/",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He proposes replacing the current insurance-centered system with single-payer coverage through a public fund.",
+          "quote": "By transitioning to a streamlined, single-payer framework, we eliminate the middlemen who profit from complexity.",
+          "sourceUrl": "https://jacobanders.org/",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "He supports returning to the Paris Agreement and describes a climate strategy involving emissions accountability and a sustainable energy transition.",
+          "quote": "A comprehensive climate strategy must begin with the United States reclaiming its seat at the global table, starting with a decisive return to the Paris Agreement.",
+          "sourceUrl": "https://jacobanders.org/",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He supports making Election Day a federal holiday, extending early voting, and automatic voter registration.",
+          "quote": "I support making Election Day a federal holiday and extending early voting to all states to make participation easier for working Americans.",
+          "sourceUrl": "https://jacobanders.org/",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Clay Faircloth",
+      "party": "Independent",
+      "stances": {}
+    }
+  ],
+  "sources": "scottdesjarlais.com · clerk.house.gov · desjarlais.house.gov · congress.gov · victoria4tennessee.org · onyourballot.vote411.org · yahoo.com · jacobanders.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
