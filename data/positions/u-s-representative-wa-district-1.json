@@ -1,0 +1,192 @@
+{
+  "office": "U.S. Representative",
+  "district": "WA District 1",
+  "division": "wa/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Suzan DelBene",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She voted against a budget proposal that paired large tax cuts with cuts to health care and other services.",
+          "quote": "This proposal will take away health care and other essential services from Americans",
+          "sourceUrl": "https://delbene.house.gov/news/documentsingle.aspx?DocumentID=4090",
+          "agreement": "4/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supported legislation to raise the federal minimum wage and said it should provide workers a living wage.",
+          "quote": "It’s time for Congress to stand up for working families and strengthen the middle class by raising the federal minimum wage.",
+          "sourceUrl": "https://delbene.house.gov/news/documentsingle.aspx?DocumentID=1646",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "She called for repealing broad tariffs while supporting targeted trade policy.",
+          "quote": "We also need to repeal the president’s chaotic tariffs and ensure that trade policy is targeted and strategic moving forward.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72588852",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She introduced legislation to strengthen Social Security benefits and opposed proposals to weaken Medicare.",
+          "quote": "we should advance forward-looking reforms that strengthen the program and ensure all Americans can retire with dignity and economic security",
+          "sourceUrl": "https://delbene.house.gov/news/documentsingle.aspx?DocumentID=1681",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She supported a housing package intended to increase affordable-home supply and reduce barriers to building.",
+          "quote": "a comprehensive, bipartisan housing package that will boost affordable housing supply, modernize outdated federal programs, and cut unnecessary regulatory barriers so communities can build more homes.",
+          "sourceUrl": "https://delbeneforcongress.com/issues/housing-and-homelessness/",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She backed a resolution supporting local public schools and opposing efforts to defund them, and cosponsored a bill to repeal the federal school voucher program.",
+          "quote": "The resolution highlights the historical role of the federal government in public K-12 education to promote equity of access for all students, regardless of background or ability.",
+          "sourceUrl": "https://delbene.house.gov/uploadedfiles/119th_leg_accomplishments_may_2026_final.pdf",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "She supports funding community-based programs that aim to prevent gun violence and has backed legislation to increase police accountability.",
+          "quote": "Rep. DelBene supports increasing annual funding for frontline community-based organizations that are implementing evidence-informed intervention programs to prevent gun violence in America’s most impacted communities",
+          "sourceUrl": "https://delbene.house.gov/uploadedfiles/119th_leg_accomplishments_may_2026_final.pdf",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She helped introduce legislation for an earned path to citizenship for people without criminal records.",
+          "quote": "would create an earned path to citizenship for those who are here, working, and with no criminal record.",
+          "sourceUrl": "https://delbeneforcongress.com/issues/immigration/",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports expanded background checks, an assault-weapons sales ban, and red-flag laws.",
+          "quote": "I support expanding background checks, banning the sale of semiautomatic assault weapons, and implementing extreme risk protection orders",
+          "sourceUrl": "https://delbeneforcongress.com/issues/public-safety-and-police-accountability/",
+          "agreement": "4/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She supported the Women’s Health Protection Act to protect abortion access and oppose state restrictions.",
+          "quote": "The House and Senate must pass the Women’s Health Protection Act without delay so we can protect women from these terribly invasive state laws",
+          "sourceUrl": "https://delbene.house.gov/news/documentsingle.aspx?DocumentID=2450",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "She helped reintroduce the Equality Act, which would add gender-identity protections in education.",
+          "quote": "would provide explicit, consistent civil rights protections for sexual orientation and gender identity in credit, education, employment, federal funding, housing, jury service and public accommodations.",
+          "sourceUrl": "https://delbene.house.gov/news/documentsingle.aspx?DocumentID=1684",
+          "agreement": "3/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "She supported the MORE Act to decriminalize marijuana federally and let states set their own marijuana policies.",
+          "quote": "The MORE Act is an opportunity to reinvest in these communities, expunge drug convictions to give people a second chance, and allow states to make the decisions that best serve their residents",
+          "sourceUrl": "https://delbene.house.gov/news/documentsingle.aspx?DocumentID=2676",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports universal coverage through a choice between public and private coverage options.",
+          "quote": "I support getting America to universal quality coverage and the best way to incentivize competition is to give people a choice between public and private coverage options.",
+          "sourceUrl": "https://delbeneforcongress.com/issues/health-care/",
+          "agreement": "4/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She backed clean energy investment and legislation intended to reduce greenhouse gas emissions.",
+          "quote": "Our nation must take meaningful steps to build a new economy based on clean and renewable energy sources while we reduce our dependence on fossil fuels and foreign oil.",
+          "sourceUrl": "https://delbene.house.gov/issues/default.aspx",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She supports mail voting and opposed bills she said would disenfranchise eligible voters.",
+          "quote": "We must also protect mail-in voting because it is safe, secure, and legal.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72588852",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Mary Silva",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Silva said she would press states, including Washington, to change their tax systems and reduce the overall tax burden.",
+          "quote": "She said she would also pressure states like Washington to revamp their tax systems and reduce the overall tax burden.",
+          "sourceUrl": "https://www.heraldnet.com/2026/07/15/seven-candidates-seek-district-1-congressional-seat/",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "She called for enforcing immigration law and securing the border, while also emphasizing assimilation.",
+          "quote": "We must enforce the rule of law; an unsecure border undermines our entire system and places an involuntary burden on taxpayers.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=72588851",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "She favors removing regulatory barriers and relying on markets rather than regulations that shut down industries.",
+          "quote": "remove regulatory barriers, then free up the markets to innovate and solve these problems instead of shutting down industries.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=72588851",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Her campaign platform calls for voter ID, and her voter-guide response calls for paper ballots counted at precinct level.",
+          "quote": "Require voter ID to guarantee secure, transparent, and trustworthy elections.",
+          "sourceUrl": "https://www.marysilvaforcongress.com/issues",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "delbene.house.gov · onyourballot.vote411.org · delbeneforcongress.com · heraldnet.com · marysilvaforcongress.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

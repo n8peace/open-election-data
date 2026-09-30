@@ -1,0 +1,136 @@
+{
+  "office": "U.S. Representative",
+  "district": "WA District 3",
+  "division": "wa/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "John Braun",
+      "party": "Republican",
+      "stances": {
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He calls for stronger border enforcement while also expanding legal pathways for temporary workers.",
+          "quote": "Congress should expand legal pathways for the temporary workers our farms, mills, and businesses need. Secure the border, enforce the law fairly, and welcome those who come legally.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=72588922",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Marie Gluesenkamp Perez",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She introduced legislation to index the federal minimum wage to regional costs of living.",
+          "quote": "Our bipartisan Fair Wage Act will make sure the minimum wage reflects economic realities on the ground in a dynamic way.",
+          "sourceUrl": "https://gluesenkampperez.house.gov/posts/gluesenkamp-perez-fitzpatrick-introduce-bipartisan-bill-to-ensure-minimum-wage-reflects-local-cost-of-living",
+          "agreement": "6/10"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She described tariffs as a policy tool whose effects depend on how they are used, while backing domestic manufacturing.",
+          "quote": "tariffs are a tool. A tool can be used destructively, or it can be used productively. And it depends on how it’s wielded.",
+          "sourceUrl": "https://gluesenkampperez.house.gov/posts/gluesenkamp-perez-on-the-ezra-klein-show-the-urgency-here-is-to-have-a-positive-policy-agenda-that-is-relevant-to-more-people",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Her campaign says she supports strengthening Social Security without raising the retirement age or reducing benefits.",
+          "quote": "Marie supports common sense legislation to strengthen the Social Security program for the long-run without raising the retirement age or reducing benefits.",
+          "sourceUrl": "https://marieforcongress.com/issues/",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She led the Build Now Act, which encourages localities to improve their housing-construction record and reduce permitting barriers.",
+          "quote": "Permitting and the red tape around housing has become so bloated and complicated that normal people can’t afford to build anything anymore.",
+          "sourceUrl": "https://gluesenkampperez.house.gov/posts/gluesenkamp-perezs-bipartisan-build-now-act-becomes-law",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "She supports funding law enforcement and boosting officer pay to improve retention.",
+          "quote": "Marie believes we need to provide more federal funding to boost officer and firefighter pay to improve retention",
+          "sourceUrl": "https://marieforcongress.com/issues/",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She called for comprehensive immigration legislation that provides border security while also creating legal pathways to citizenship.",
+          "quote": "a bipartisan comprehensive immigration solution that delivers for our communities’ safety, migrants seeking legal pathways to citizenship, and our small businesses and farms facing acute labor shortages.",
+          "sourceUrl": "https://gluesenkampperez.house.gov/posts/gluesenkamp-perez-statement-on-failed-vote-to-impeach-dhs-secretary-mayorkas",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She says she is protecting abortion access and will work to prevent a national abortion ban.",
+          "quote": "She is protecting access to critical medical care and the freedom of women to choose what is right for their families and themselves.",
+          "sourceUrl": "https://marieforcongress.com/issues/",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "She voted against passage of the 2025 Protection of Women and Girls in Sports Act.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "She voted against a law that reduced Medicaid eligibility and co-led legislation to extend Affordable Care Act premium tax credits.",
+          "quote": "This law eliminated Medicaid eligibility for roughly 17 million Americans–including 31,000 in Southwest Washington.",
+          "sourceUrl": "https://gluesenkampperez.house.gov/posts/gluesenkamp-perez-visits-pacific-county-to-tour-hospital-and-discuss-rural-healthcare",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She said policy should support workers who rely on fossil fuels while transitioning to cleaner energy sources.",
+          "quote": "How do we reconcile the urgent need to support working-class Americans who rely on fossil fuels to get to work everyday with the imperative to transition to cleaner, more sustainable sources of energy?",
+          "sourceUrl": "https://gluesenkampperez.house.gov/posts/gluesenkamp-perez-highlights-need-for-policy-that-supports-all-small-energy-producers-during-committee-hearing",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She voted for the SAVE Act while criticizing its provisions and affirming Washington’s vote-by-mail system.",
+          "quote": "I also understand the SAVE Act stands no chance of passage in the Senate due to the filibuster, as well as several deeply flawed provisions.",
+          "sourceUrl": "https://gluesenkampperez.house.gov/posts/gluesenkamp-perez-statement-on-save-act-vote",
+          "agreement": "4/10"
+        }
+      }
+    }
+  ],
+  "sources": "onyourballot.vote411.org · gluesenkampperez.house.gov · marieforcongress.com · clerk.house.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

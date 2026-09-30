@@ -1,0 +1,111 @@
+{
+  "office": "U.S. Representative",
+  "district": "WA District 6",
+  "division": "wa/cd-6",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Emily Randall",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "As a state senator, Randall said she helped bar state agencies from paying below minimum wage.",
+          "quote": "We barred state agencies from paying less than minimum wage, increased the rate of pay for community respite providers, expanded social and emotional learning, and increased the special education funding multiplier.",
+          "sourceUrl": "https://senatedemocrats.wa.gov/randallarchive/2019/08/16/e-news-so-that-all-may-play-or-work/",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Randall voted for Washington’s 2023 middle housing law, which allows housing in some neighborhoods previously zoned for single-family homes.",
+          "quote": "Randall did vote in support of 2023’s major middle housing bill, now law, which allows housing development in some neighborhoods previously zoned for single-family homes.",
+          "sourceUrl": "https://electemilyrandall.com/one-on-one-with-emily-randall-why-the-deputy-state-senate-majority-leader-wants-to-succeed-derek-kilmer-in-congress/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Randall introduced a bill to prevent student aid application data from being used for immigration enforcement.",
+          "quote": "But students from mixed-status households are being forced to give up affordable educational opportunities out of fear that DHS will use their FAFSA applications to track and deport their loved ones.",
+          "sourceUrl": "https://randall.house.gov/media/press-releases/randall-casar-norton-introduce-bill-prevent-fafsa-data-being-used-immigration",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Randall’s campaign says she worked in the state senate to ban assault weapons.",
+          "quote": "In the State Senate, she passed some of the strongest abortion protections in the country and fought to lower prescription drug costs, build new housing, ban assault weapons, cut tolls on the Tacoma Narrows Bridge and improve ferry infrastructure.",
+          "sourceUrl": "https://electemilyrandall.com/media/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Randall says she has a pro-choice voting record and will continue to fight for abortion rights in Congress.",
+          "quote": "I am proud to have a 100% lifetime pro-choice voting record. In Congress, 6th District voters can be sure that I will fight as hard for abortion rights as I do in Washington State.",
+          "sourceUrl": "https://electemilyrandall.com/issues/abortion/",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "Randall spoke in strong opposition to a House bill restricting transgender students’ participation in school sports.",
+          "quote": "Mr. Speaker, I rise today as a queer woman, once the only girl on my peewee football team, and a graduate from a women’s college in strong opposition to H.R. 28.",
+          "sourceUrl": "https://www.congress.gov/119/crec/2025/01/14/171/7/CREC-2025-01-14-house.pdf",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "In a 2024 questionnaire, she supported a universal, affordable single-payer health-care program.",
+          "quote": "Do you support achieving a universal, affordable, quality single payer healthcare program? Yes",
+          "sourceUrl": "https://31stdistrictdemocrats.org/u-s-congress-wa06-emily-randall-2/",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Randall says the country should transition away from fossil fuels and invest in clean energy jobs and infrastructure.",
+          "quote": "We must make a just and fair transition away from fossil fuels and invest in clean energy jobs and infrastructure.",
+          "sourceUrl": "https://electemilyrandall.com/issues/fighting-climate-change/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Randall says she will fight to remove barriers to voting and ensure eligible voters can access the ballot.",
+          "quote": "I will continue to fight to remove barriers to voting and ensure every citizen’s voice is heard.",
+          "sourceUrl": "https://electemilyrandall.com/issues/defending-democracy/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Teresa Fox",
+      "party": "Republican",
+      "stances": {}
+    }
+  ],
+  "sources": "senatedemocrats.wa.gov · electemilyrandall.com · randall.house.gov · congress.gov · 31stdistrictdemocrats.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

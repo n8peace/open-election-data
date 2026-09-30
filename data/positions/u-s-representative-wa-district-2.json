@@ -1,0 +1,176 @@
+{
+  "office": "U.S. Representative",
+  "district": "WA District 2",
+  "division": "wa/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Rick Larsen",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He said taxpayer dollars should provide services communities need.",
+          "quote": "Taxpayer dollars should be spent lowering costs and providing services our communities need, not attacking our NATO allies to soothe the President’s fragile ego.",
+          "sourceUrl": "https://larsen.house.gov/news/documentsingle.aspx?DocumentID=4089",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He called for raising the federal minimum wage and strengthening unions.",
+          "quote": "We need to raise the federal minimum wage to $15 an hour.",
+          "sourceUrl": "https://www.ricklarsen.org/2026/05/31/skills-training-unions-15-federal-minimum-wage-equ/",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He opposed tariffs and argued that stable trade relationships can create jobs and lower costs.",
+          "quote": "The bottom line is simple: trade can create jobs and lower costs. Reckless tariffs can do the opposite.",
+          "sourceUrl": "https://www.ricklarsen.org/2026/09/02/another-major-disruption-one-americas-most-importa/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He supports strengthening Social Security benefits and preserving the program by raising the income subject to Social Security taxes.",
+          "quote": "That is why I support a proposal to make the benefit formula more generous, use a cost-of-living formula that takes into account the expense of seniors’ purchases, and preserve Social Security for the future by scrapping the cap on income subject to Social Security taxes.",
+          "sourceUrl": "https://www.ricklarsen.org/priorities/socialsecurity",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He voted for legislation intended to lower housing costs by making it easier to build homes.",
+          "quote": "The 21st Century ROAD to Housing Act will bring down housing costs by making it easier to build new homes and by protecting homeowners from private equity homebuyers and renters from corporate landlords.",
+          "sourceUrl": "https://larsen.house.gov/news/documentsingle.aspx?DocumentID=4208",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He backed funding for public school districts and voted against an education bill he said would take funding from low-income schools and districts.",
+          "quote": "My bipartisan Impact Aid bill would ensure permanent, on-time payments for school districts where federal activity like military bases limits funding available to public schools through property taxes.",
+          "sourceUrl": "https://larsen.house.gov/news/documentsingle.aspx?DocumentID=1203",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He voted for bills providing permanent protections and a pathway to citizenship for some undocumented immigrants, including Dreamers and guestworkers.",
+          "quote": "I voted to stand with Dreamers and immigrants who have come to the United States to escape extraordinary circumstances and build a better life for themselves and their families.",
+          "sourceUrl": "https://larsen.house.gov/news/documentsingle.aspx?DocumentID=2482",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He called for stronger background checks and a ban on military-style assault weapons.",
+          "quote": "I have called on members on both sides of the aisle to work with me on gun violence prevention: to ban military-style assault weapons, lift the ban on federally funded research into the causes of gun violence, and strengthen our system of background checks.",
+          "sourceUrl": "https://www.ricklarsen.org/priorities/gunprevention",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports federal legislation to restore nationwide legal access to abortion.",
+          "quote": "I support suspending the filibuster to pass the Women’s Health Protection Act, which would re-establish a nationwide right to abortion and enshrine the protections of Roe v. Wade into federal law.",
+          "sourceUrl": "https://www.ricklarsen.org/priorities/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports universal coverage and has backed expanding Medicaid and Medicare benefits.",
+          "quote": "I believe health care is a right, and I support universal, affordable coverage.",
+          "sourceUrl": "https://www.ricklarsen.org/priorities/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He has called climate change mitigation a top priority and supported investments aimed at reducing carbon pollution.",
+          "quote": "A healthy environment is vital to Washingtonians’ way of life and the regional economy – and that is why mitigating climate change must be a top priority.",
+          "sourceUrl": "https://www.ricklarsen.org/priorities/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He voted for legislation expanding same-day registration and vote-by-mail access and supported protections against restrictive voter ID rules.",
+          "quote": "The bold, comprehensive package includes Larsen’s bill to eliminate unnecessary, discriminatory voter ID barriers that disenfranchise citizens and undermine democracy.",
+          "sourceUrl": "https://larsen.house.gov/news/documentsingle.aspx?DocumentID=2473",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Edwin H. Feller",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Feller said taxes are too high and government is too large, which he identified as causes of the affordability crisis.",
+          "quote": "Feller believes that the affordability crisis is self-inflicted due to taxes being too high, and the government growing too large.",
+          "sourceUrl": "https://sanjuancountywa.gov/DocumentCenter/View/35588/2026-Primary-Voters-Guide-San-Juan-County?bidId=",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Feller said he supports robust law enforcement.",
+          "quote": "He supports robust law enforcement, secure borders, fair elections, and balanced budgets.",
+          "sourceUrl": "https://sanjuancountywa.gov/DocumentCenter/View/35588/2026-Primary-Voters-Guide-San-Juan-County?bidId=",
+          "agreement": "2/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Feller said undocumented immigrants should leave and endorsed the current federal immigration enforcement approach.",
+          "quote": "“Illegal immigrants have got to go,” Feller told CDN, confirming that he strongly supports President Donald Trump’s current approach to immigration enforcement.",
+          "sourceUrl": "https://www.cascadiadaily.com/2026/jul/26/us-rep-larsen-faces-three-challengers-in-district-2-primary/",
+          "agreement": "3/3"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Feller supports regulating sports by sex assigned at birth and federal bans on gender transition procedures for minors.",
+          "quote": "Feller’s top priorities during his campaign have been streamlining energy permitting and dismantling environmental regulations, federal bans on gender transition for minors, regulating sports by gender assigned at birth and immigration enforcement.",
+          "sourceUrl": "https://www.cascadiadaily.com/2026/jul/26/us-rep-larsen-faces-three-challengers-in-district-2-primary/",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Feller’s stated priorities include streamlining energy permitting and dismantling environmental regulations.",
+          "quote": "Feller’s top priorities during his campaign have been streamlining energy permitting and dismantling environmental regulations, federal bans on gender transition for minors, regulating sports by gender assigned at birth and immigration enforcement.",
+          "sourceUrl": "https://www.cascadiadaily.com/2026/jul/26/us-rep-larsen-faces-three-challengers-in-district-2-primary/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "larsen.house.gov · ricklarsen.org · sanjuancountywa.gov · cascadiadaily.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
