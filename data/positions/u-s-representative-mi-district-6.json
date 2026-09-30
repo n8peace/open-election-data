@@ -1,0 +1,270 @@
+{
+  "office": "U.S. Representative",
+  "district": "MI District 6",
+  "division": "mi/cd-6",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Debbie Dingell",
+      "party": "Democratic Party",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She opposed a tax-cut law because it paired tax breaks for billionaires with cuts to health care and food assistance.",
+          "quote": "all so Republicans can give another tax break to billionaires.",
+          "sourceUrl": "https://debbiedingell.house.gov/news/documentsingle.aspx?DocumentID=5837",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She called for raising the minimum wage and strengthening collective bargaining.",
+          "quote": "we need to raise the minimum wage and strengthen collective bargaining",
+          "sourceUrl": "https://debbiedingell.house.gov/news/documentsingle.aspx?DocumentID=1183",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "She has said tariffs can help bring back jobs when used strategically, and called for renegotiating USMCA.",
+          "quote": "I have always said that when used strategically, tariffs are a tool in the toolbox to bring back jobs and support American workers and industries.",
+          "sourceUrl": "https://debbiedingell.house.gov/news/documentsingle.aspx?DocumentID=5766",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She says protecting and expanding Social Security, Medicare, and Medicaid has been a priority throughout her time in office.",
+          "quote": "I will continue to fight not only to protect these programs, but also to expand them.",
+          "sourceUrl": "https://debbiedingell.house.gov/news/documentsingle.aspx?DocumentID=4550",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She cosponsored legislation to expand the Housing Credit, which she described as a major step toward addressing the affordable-housing supply crisis.",
+          "quote": "Passing this legislation is the single most important step Congress can take to address our nation’s affordable housing supply crisis.",
+          "sourceUrl": "https://debbiedingell.house.gov/news/documentsingle.aspx?DocumentID=4550",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She says she supports public schools, public universities, and teachers, and supports federal investment in education.",
+          "quote": "She is proud to support our public schools, public universities, and teachers, and she is committed to promoting educational opportunities from Pre-K to higher education and older adults.",
+          "sourceUrl": "https://debbiedingellforcongress.com/issues/",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She supports comprehensive immigration reform and has cosponsored bills on family unity and reunification.",
+          "quote": "Debbie has also long been a strong advocate for comprehensive immigration reform in Congress. She co-sponsored the Keep Families Together Act and the Family Reunification Act.",
+          "sourceUrl": "https://debbiedingellforcongress.com/issues/",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports universal background checks and other measures to restrict firearm access for people deemed dangerous by a court.",
+          "quote": "Safe storage, universal background checks, red flag laws, and closing the ‘boyfriend loophole,’ to name a few, are all commonsense proposals that protect the rights of responsible gun owners while keeping firearms out of the hands of those deemed dangerous by a court.",
+          "sourceUrl": "https://debbiedingell.house.gov/news/documentsingle.aspx?DocumentID=4207",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She said abortion-related reproductive care should remain a protected personal medical decision.",
+          "quote": "I stand by Governor Whitmer and all who are fighting to protect a woman’s right to choose.",
+          "sourceUrl": "https://debbiedingell.house.gov/news/documentsingle.aspx?DocumentID=3515",
+          "agreement": "7/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "She voted against the Protection of Women and Girls in Sports Act, which would set rules for school sports based on sex at birth.",
+          "quote": "Vote Question: On Passage Protection of Women and Girls in Sports Act Vote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "3/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "She said marijuana should be legal and safe and supported federal decriminalization legislation.",
+          "quote": "The reality is this is an industry that’s not going away and it should be legal and safe. That’s why I was an original cosponsor of the SAFE Banking Act",
+          "sourceUrl": "https://debbiedingell.house.gov/news/documentsingle.aspx?DocumentID=5048",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She leads the Medicare for All Act in the House and says Medicare for All is a solution for changing the health care system.",
+          "quote": "Medicare for All is a solution for real change in our health care system. Joined Rep. Pramila Jayapal, People's Action, National Nurses, United Public Citizens, and Social Security Works to discuss Medicare for All",
+          "sourceUrl": "https://debbiedingell.house.gov/news/documentsingle.aspx?DocumentID=5766",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Her campaign says she has championed legislation to reduce greenhouse-gas emissions and expand clean-energy technologies.",
+          "quote": "she has championed legislation to reduce greenhouse gas emissions, expand clean energy technologies",
+          "sourceUrl": "https://debbiedingellforcongress.com/issues/",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She opposed the SAVE Act’s added voting requirements and said voting should be more accessible for eligible citizens.",
+          "quote": "Our democracy only works if every citizen can participate, and we should be making voting more accessible for all eligible citizens.",
+          "sourceUrl": "https://debbiedingell.house.gov/news/documentsingle.aspx?DocumentID=5766",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Heather Smiley",
+      "party": "Republican Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "In her candidate questionnaire, she proposed tax cuts, reduced government spending and tax reform.",
+          "quote": "Initiate tax cuts, unleash free market, reciprocal trade, reduce govt spending, stimulate economy, etc. to ensure job stability, home/investment protection, etc. for all. Ensure Social Security funding/protection for citizens & implement tax reform.",
+          "sourceUrl": "https://ivoterguide.com/candidate/81619/race/838/election/1244",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "She said addressing inflation should include paying off the debt and balancing the federal budget.",
+          "quote": "pay off the debt and balance the budget, protect and increase global trade relations",
+          "sourceUrl": "https://wdet.org/2024/07/31/michigan-primary-2024-voter-guide-6th-congressional-district/",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "She strongly agreed with supporting school choice, including vouchers and private and charter schools.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools.",
+          "sourceUrl": "https://ivoterguide.com/candidate/81619/race/838/election/1244",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "She cited the Second Amendment's protection of keeping and bearing arms in her response on gun reform.",
+          "quote": "the “right of the people to keep and bear Arms, shall not be infringed.”",
+          "sourceUrl": "https://wdet.org/2024/07/31/michigan-primary-2024-voter-guide-6th-congressional-district/",
+          "agreement": "3/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "She strongly agreed that biological males should not participate in women's sports or occupy women's spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/81619/race/838/election/1244",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "She strongly disagreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/81619/race/838/election/1244",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Timothy A. Teagan",
+      "party": "Libertarian Party",
+      "stances": {}
+    },
+    {
+      "name": "Mike Mickevicius",
+      "party": "U.S. Taxpayers Party",
+      "stances": {}
+    },
+    {
+      "name": "Clyde Shabazz",
+      "party": "Green Party",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He proposed a Wall Street transaction tax to fund basic income, reparations, and infrastructure improvements.",
+          "quote": "A simple $4.00 “Transaction Tax” on “All. NYSE” Trades could easily generate $10 TRILLION DOLLARS IN REVENUE... Enough to fund UBI... Universal Basic Income.... Cash Reparations for Foundational Black Americans... And Infrastructure Improvements.... Like Transportation & Housing & Communications.",
+          "sourceUrl": "https://lwvmidlandarea.org/wp-content/uploads/2024/09/LWV-Voter-guide-COMPREV.-FINA.pdf",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He proposed increasing personnel at the southern border while also creating a streamlined path to citizenship for some immigrants.",
+          "quote": "I would tighten immigration illegally at the Southern Border thru increased personnel. Help the Governments whose citizens are fleeing to improve themselves so the people won’t be so desperate to flee in the 1st. Place. Allow for a more streamlined process for immigrants with a non violent or criminal past in their home country to become full citizens after 7 years....",
+          "sourceUrl": "https://lwvmidlandarea.org/wp-content/uploads/2024/09/LWV-Voter-guide-COMPREV.-FINA.pdf",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He proposed limiting abortion to cases involving a threat to the mother’s life, rape, or incest.",
+          "quote": "Limit Abortions to a Threat to the life of The Mother or Rape or Incest.",
+          "sourceUrl": "https://lwvmidlandarea.org/wp-content/uploads/2024/09/LWV-Voter-guide-COMPREV.-FINA.pdf",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He proposed universal health care as part of improving Americans' economic and health status.",
+          "quote": "That along with Universal Healthcare would raise The Economic & Healthcare status of an estimated 120 million Americans",
+          "sourceUrl": "https://lwvja.b-cdn.net/wp-content/uploads/2024/10/lwv-voter-guide.pdf",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Linda Rayburn",
+      "party": "Working Class Party",
+      "stances": {
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Rayburn called for funding and resources for public schools.",
+          "quote": "There is enough money for funding and resources in our public schools and our neighborhoods.",
+          "sourceUrl": "https://www.workingclassfight.com/elections/michigan-2020/linda-rayburn/speech-by-linda-rayburn/",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Rayburn said universal health care should be funded.",
+          "quote": "There is enough money for universal health care.",
+          "sourceUrl": "https://www.workingclassfight.com/elections/michigan-2020/linda-rayburn/speech-by-linda-rayburn/",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "debbiedingell.house.gov · debbiedingellforcongress.com · clerk.house.gov · ivoterguide.com · wdet.org · lwvmidlandarea.org · lwvja.b-cdn.net · workingclassfight.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

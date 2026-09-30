@@ -1,0 +1,238 @@
+{
+  "office": "U.S. Representative",
+  "district": "MI District 7",
+  "division": "mi/cd-7",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "William Lawrence",
+      "party": "Democratic Party",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Lawrence supports a minimum wealth tax on billionaires to help fund basic public goods.",
+          "quote": "Taxing the billionaires would pay for all of the basic goods that the people of this district deserve. I support a billionaire minimum tax, which is a minimum wealth tax rate that the mega-wealthy must pay.",
+          "sourceUrl": "https://wewill2026.com/platform/",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports the PRO Act and says unions help workers secure higher wages and benefits.",
+          "quote": "I support the Protecting the Right to Organize (PRO) Act, which lowers barriers to unionization by holding corporations accountable for labor law violations.",
+          "sourceUrl": "https://wewill2026.com/platform/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Lawrence says workers should receive the Social Security benefits they paid for and supports lifting the payroll tax cap to secure the program.",
+          "quote": "You will receive the social security benefits that you have been paying into since your very first job.",
+          "sourceUrl": "https://wewill2026.com/platform/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He calls for major federal investment in housing at all price points.",
+          "quote": "We need major federal investment in quality housing, at all price points.",
+          "sourceUrl": "https://wewill2026.com/platform/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Lawrence calls for investment in public schools and support for public education at every level.",
+          "quote": "We need to stand strong for the principle of public education at every level.",
+          "sourceUrl": "https://wewill2026.com/platform/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "He supports funding youth programs, mental health resources, and community violence intervention in collaboration with law enforcement.",
+          "quote": "I follow the lead of first responders and gun violence prevention advocates I have met with here in the district, who support increased funding for youth programs, mental health resources, and community violence intervention, working in collaboration with law enforcement.",
+          "sourceUrl": "https://www.foxnews.com/politics/michigan-dem-candidates-2013-arrest-resurfaces-pivotal-race-control-congress",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Lawrence supports a path to citizenship for undocumented immigrants and opposes family separation.",
+          "quote": "I support a path to citizenship for undocumented immigrants, in order to level the playing field for all workers in the United States, and raise wages for everybody.",
+          "sourceUrl": "https://wewill2026.com/platform/",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He says he will defend the right to choose abortion and seek to codify that right in federal law.",
+          "quote": "I will defend women’s right to choose an abortion, and seek to codify this right in federal law.",
+          "sourceUrl": "https://wewill2026.com/platform/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Lawrence supports Medicare for All to provide health coverage to everyone.",
+          "quote": "I support Medicare for All, which would remove the profit motive from health insurance and allow us all to access quality care, for a lower price.",
+          "sourceUrl": "https://wewill2026.com/platform/",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He supports climate investment and says he will work to advance the clean energy transition.",
+          "quote": "I will fight for investment to secure the climate we depend on, adapt to the changes we can’t prevent, and finally drive our electric bills down.",
+          "sourceUrl": "https://wewill2026.com/platform/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Tom Barrett",
+      "party": "Republican Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He signed the Taxpayer’s Protection Pledge and said he would work to lower the tax burden.",
+          "quote": "I’m the only candidate running who has signed the Taxpayer’s Protection Pledge and will work to lower the tax burden on all Americans as a member of Congress.",
+          "sourceUrl": "https://tombarrettforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He said better access to Canadian and Mexican trade markets would give local producers more certainty.",
+          "quote": "It was great to meet with them to hear how competitive access to trade markets in Canada and Mexico will help give them the certainty they need to continue fulfilling that mission.",
+          "sourceUrl": "https://barrett.house.gov/media/press-releases/barrett-meets-mid-michigan-farmers-discuss-trade-joins-effort-strengthen-usmca",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He backed a housing law intended to increase supply by reducing red tape and expanding financing.",
+          "quote": "This housing package that Barrett helped pass would increase housing supply by cutting unnecessary red tape, expanding financing opportunities for local housing projects, and more.",
+          "sourceUrl": "https://barrett.house.gov/media/press-releases/historic-barrett-backed-housing-package-becomes-law",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "As a state senator, he sponsored a bill providing tax credits for contributions to student opportunity scholarship accounts.",
+          "quote": "Individual income tax: credit; credit for contributions to scholarship-granting organizations and deduction of funds distributed to student opportunity scholarship accounts; provide for.",
+          "sourceUrl": "https://www.legislature.mi.gov/mileg.aspx?objectname=2021-SB-0688&page=getobject",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He said he sponsored a record state police budget and would oppose efforts to defund police and prosecutors.",
+          "quote": "I also sponsored the largest state police budget in history and will oppose all efforts to defund our police and prosecutors.",
+          "sourceUrl": "https://tombarrettforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He said he would support border agencies’ enforcement efforts and work to complete the border wall.",
+          "quote": "I will work hard to make sure our border security agencies, such as the Department of Homeland Security, U.S. Border Patrol, Immigrations and Customs Enforcement, and U.S. Customs have the tools they need to prevent people from entering the country illegally.",
+          "sourceUrl": "https://tombarrettforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "As a state senator, he co-sponsored a resolution affirming Second Amendment protections and opposing federal laws that infringe on gun rights.",
+          "quote": "A resolution to firmly affirm support for the preservation of the Second Amendment and to express the sense of the Senate regarding federal laws that infringe on the right to bear arms.",
+          "sourceUrl": "https://legislature.mi.gov/doc.aspx?2021-SR-0022",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "His campaign described him as a consistent pro-life state legislator.",
+          "quote": "While Senator Barrett has been a consistent pro-life state legislator, Elissa Slotkin supports some of the most extreme abortion policies of anyone in Congress.",
+          "sourceUrl": "https://tombarrettforcongress.com/issues",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "He voted for the Protection of Women and Girls in Sports Act, which bases school athletics eligibility on sex at birth.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He called for expanding access to health savings accounts and flexible private insurance options.",
+          "quote": "expand access to affordable health savings accounts that bypass insurance companies",
+          "sourceUrl": "https://barrett.house.gov/reform",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He said he supported legislation to unleash American energy and lower costs for families.",
+          "quote": "The people of mid-Michigan sent me to Congress to do the hard work necessary to lower the cost of living, secure our border, and unleash American energy.",
+          "sourceUrl": "https://barrett.house.gov/media/press-releases/barrett-supports-one-big-beautiful-bill-act-delivering-promises-made-mid",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "He helped advance legislation requiring photo identification for voting in federal elections, including rules for absentee ballots.",
+          "quote": "Requiring all voters to present photo identification when voting at the polls",
+          "sourceUrl": "https://barrett.house.gov/media/press-releases/barrett-helps-pass-congressional-stock-trading-ban-voter-id-requirement",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Shane Dedrick",
+      "party": "Green Party",
+      "stances": {
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "At the Green Party’s April 2026 nominating convention, Dedrick named Medicare for All among the most important elements of his platform.",
+          "quote": "At the Green Party of Michigan's April 25, 2026 nominating convention, Dedrick said that Medicare for All was among the most important elements of his platform.",
+          "sourceUrl": "https://smarter.vote/races/mi-07-house-2026/compare/?candidates=tom-barrett%2Cwilliam-lawrence",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "At the April 2026 convention, Dedrick cited climate concerns and named the Green New Deal among the most important elements of his platform.",
+          "quote": "At the April 25, 2026 Green Party nominating convention, Dedrick said he was running in part on climate issues, citing tornadoes and severe winters in Michigan, and named the Green New Deal as among the most important elements of his platform.",
+          "sourceUrl": "https://smarter.vote/races/mi-07-house-2026/compare/?candidates=tom-barrett%2Cwilliam-lawrence",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "wewill2026.com · foxnews.com · tombarrettforcongress.com · barrett.house.gov · legislature.mi.gov · clerk.house.gov · smarter.vote",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
