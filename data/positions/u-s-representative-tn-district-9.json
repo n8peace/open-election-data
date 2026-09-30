@@ -1,0 +1,235 @@
+{
+  "office": "U.S. Representative",
+  "district": "TN District 9",
+  "division": "tn/cd-9",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Brent Taylor",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "His campaign biography says he never voted for a tax increase while on the Memphis City Council.",
+          "quote": "Taylor, who never voted for a tax increase, was viewed as the leading conservative voice on the Council.",
+          "sourceUrl": "https://brenttaylorforcongress.com/about/",
+          "agreement": "7/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He sponsored and voted for a law preventing local governments from imposing employment terms that exceed or conflict with state or federal law.",
+          "quote": "prohibits local governments from adopting or enforcing any law, rule, or policy that requires a term or condition of employment that exceeds or conflicts with state or federal law.",
+          "sourceUrl": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0674&ga=114",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He says he would cut federal spending to address debt he says burdens future generations.",
+          "quote": "Washington has been writing blank checks for far too long — fueling inflation and saddling future generations with debt. As our Congressman, Brent Taylor will put an end to it.",
+          "sourceUrl": "https://brenttaylorforcongress.com/issues/",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "He introduced a bill requiring Tennessee to participate in a federal tax credit for contributions to scholarship-granting organizations.",
+          "quote": "requires the state to elect to participate in the federal tax credit established under federal law for individuals who make qualified contributions to scholarship granting organizations.",
+          "sourceUrl": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2195&ga=114",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "His campaign says he challenged the Memphis City Council so police officers could do their jobs.",
+          "quote": "Stood up to the woke Memphis City Council so police officers could do their job",
+          "sourceUrl": "https://brenttaylorforcongress.com/about/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supports finishing the border wall, deporting criminal immigrants without legal status, and ending sanctuary policies.",
+          "quote": "In Washington, he will fight to finish the border wall, restore strong enforcement, deport criminal illegal immigrants, end sanctuary policies, and strengthen cooperation among federal, state, and local law enforcement so Tennessee families are protected.",
+          "sourceUrl": "https://brenttaylorforcongress.com/issues/",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "His campaign biography says he has repeatedly defended the constitutional right to keep and bear firearms.",
+          "quote": "Repeatedly defended our constitutional right to keep and bear firearms",
+          "sourceUrl": "https://brenttaylorforcongress.com/about/",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "He voted for a law prohibiting local governments from spending funds to help someone obtain an abortion.",
+          "quote": "This bill prohibits local governments from expending funds for the purposes of assisting a person in obtaining an abortion, specifically including expending funds as part of a health benefit plan or for travel to a state where abortion is legal.",
+          "sourceUrl": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0600&GA=113",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He voted for a Tennessee law defining sex in state law as immutable biological sex determined at birth.",
+          "quote": "defines \"sex\" as a person's immutable biological sex as determined by anatomy and genetics existing at the time of birth",
+          "sourceUrl": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1440&ga=113",
+          "agreement": "6/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "Taylor voted against a bill that would have decriminalized possession of certain amounts of marijuana.",
+          "quote": "decriminalizes the possession of certain amounts of marijuana by making such possession a civil violation punishable by a $25 fine or community service;",
+          "sourceUrl": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1072&ga=113",
+          "agreement": "3/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He says he opposed costly mandates and supported natural gas infrastructure to protect families from higher electric bills.",
+          "quote": "In the State Senate, he protected families from higher electric bills by fighting costly mandates, supporting reliable natural gas infrastructure, and making sure big tech data centers pay their own way instead of passing the costs on to everyone else.",
+          "sourceUrl": "https://brenttaylorforcongress.com/issues/",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Taylor sponsored and voted for legislation imposing registration requirements and penalties on third-party voter-registration organizations.",
+          "quote": "Prohibit a person or organization collecting voter registrations from altering the voter registration form of any person without the person's knowledge and consent;",
+          "sourceUrl": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2586&ga=113",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "Justin J. Pearson",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "His platform calls for billionaires and large corporations to pay their fair share, alongside proposals to expand public programs.",
+          "quote": "Make billionaires and big corporations pay their fair share.",
+          "sourceUrl": "https://www.votejustinj.com/issues",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports a living wage minimum and legislation to protect workers’ right to organize.",
+          "quote": "Ensure the minimum wage is a true living wage and invest in small businesses to make this possible.",
+          "sourceUrl": "https://www.votejustinj.com/issues",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "His campaign says he will protect Social Security and Medicare and keep hospitals open.",
+          "quote": "protect Social Security and Medicare, keep hospitals open",
+          "sourceUrl": "https://www.votejustinj.com/media",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He calls for full funding for public education and opposes voucher programs.",
+          "quote": "Fully fund our public education system and rein in voucher scams.",
+          "sourceUrl": "https://www.votejustinj.com/issues",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "His candidate profile says he supports efforts to end ICE raids and mass deportations.",
+          "quote": "Supporting the ACLU and others who are working to end illegal and unconstitutional ICE raids, mass deportations, and disappearances.",
+          "sourceUrl": "https://www.ballotready.org/people/justin-j-pearson",
+          "agreement": "4/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "His platform supports background checks, waiting periods and an assault-rifle ban.",
+          "quote": "Background checks and cooling off periods for firearms purchases.",
+          "sourceUrl": "https://www.votejustinj.com/issues",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "He voted against a Tennessee bill creating the offense of abortion trafficking of a minor.",
+          "quote": "Representatives voting no were: Behn, Cochran, Dixie, Harris, Hicks G, Johnson G, Jones, Parkinson, Pearson, Powell--10",
+          "sourceUrl": "https://capitol.tn.gov/bills/113/House/Journals/04232024RD61.pdf",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports Medicare for All and investment in rural hospitals and the VA health system.",
+          "quote": "Pass Medicare for All. Invest in rural hospitals and the Veterans Affairs healthcare system where too many have been abandoned.",
+          "sourceUrl": "https://www.votejustinj.com/issues",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He sponsored legislation to restore voting rights after sentence completion and remove financial and child-support prerequisites.",
+          "quote": "restores the right of suffrage for persons convicted of an infamous crime after expiration of the sentence imposed for the infamous crime; removes requirement that the person pay restitution and court costs and be current in all child support obligations before having the person's right of suffrage restored",
+          "sourceUrl": "https://wapp.capitol.tn.gov/apps/legislatorinfo/sponsorlist?district=H860&ga=114",
+          "agreement": "3/10"
+        }
+      }
+    },
+    {
+      "name": "Dennis Clark",
+      "party": "Independent",
+      "stances": {
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Clark favored protections and in-state tuition for people brought to the country illegally as children.",
+          "quote": "children living in the country illegally who wish to pursue the American dream and be productive taxpaying citizens.",
+          "sourceUrl": "https://lwvchattanooga.org/wp-content/uploads/2018/05/lwv-chattanooga-2018-voter-guide1.pdf",
+          "agreement": "3/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "Clark said he supports making bump-stock firearm accessories illegal.",
+          "quote": "I support legislation that makes firearm accessories such as \"Bump Stocks\" illegal.",
+          "sourceUrl": "https://lwvchattanooga.org/wp-content/uploads/2018/05/lwv-chattanooga-2018-voter-guide1.pdf",
+          "agreement": "3/10"
+        }
+      }
+    },
+    {
+      "name": "Michelle Davis Head",
+      "party": "Independent",
+      "stances": {}
+    }
+  ],
+  "sources": "brenttaylorforcongress.com · wapp.capitol.tn.gov · votejustinj.com · ballotready.org · capitol.tn.gov · lwvchattanooga.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
