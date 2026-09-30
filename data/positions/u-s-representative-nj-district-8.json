@@ -1,0 +1,292 @@
+{
+  "office": "U.S. Representative",
+  "district": "NJ District 8",
+  "division": "nj/cd-8",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "ROB MENENDEZ",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He cosponsored legislation to raise the federal minimum wage to $17 an hour by 2027.",
+          "quote": "I also cosponsored the Raise the Wage Act of 2023, which would raise the federal minimum wage to $17 an hour by 2027",
+          "sourceUrl": "https://www.robmenendez.com/issues/affordability/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "His campaign says he has worked to protect Social Security and Medicare.",
+          "quote": "made sure seniors can live in dignity by protecting Social Security and Medicare",
+          "sourceUrl": "https://www.robmenendez.com/what-voters-need-to-know/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He supports proposals to create more than one million affordable homes and invest in public housing.",
+          "quote": "Enact Democratic proposals to create over 1 million affordable homes through nearly $10 billion for a new Affordable Housing Access Program and affordable housing with mass-transit access;",
+          "sourceUrl": "https://www.robmenendez.com/issues/affordability/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He supports expanding public school funding to reduce class sizes and support education workers.",
+          "quote": "Expand public school funding to reduce class sizes and support our education workforce;",
+          "sourceUrl": "https://www.robmenendez.com/issues/childcare/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports immigration reform that includes a path to citizenship and stronger asylum protections.",
+          "quote": "Supporting real solutions for immigration reform, including a pathway to citizenship, humane border policies, and robust asylum protections.",
+          "sourceUrl": "https://www.robmenendez.com/issues/immigration/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He supports expanded background checks and has cosponsored gun violence prevention bills, including an assault weapons ban.",
+          "quote": "Increase the scope of background checks so that Americans are no longer able to buy guns from private sellers without any safety measures in place;",
+          "sourceUrl": "https://www.robmenendez.com/issues/gun-control/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He called for swift climate action and proposed cutting greenhouse gas emissions in half by 2030.",
+          "quote": "We must move swiftly to address climate change and continuously champion environmental justice for our communities.",
+          "sourceUrl": "https://www.robmenendez.com/issues/climate-change/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "ARISTOTLE ELIOPOULOS",
+      "party": "INDEPENDENT",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "His campaign says it would cut taxes for working- and middle-class families.",
+          "quote": "Cut taxes for working and middle-class families Expand the Child Tax Credit",
+          "sourceUrl": "https://arieliopoulosforcongress.com/",
+          "agreement": "6/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "His campaign supports union workers and collective bargaining but does not state a minimum-wage position.",
+          "quote": "Support union workers and collective bargaining Expand apprenticeships and skilled trades",
+          "sourceUrl": "https://arieliopoulosforcongress.com/",
+          "agreement": "3/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He supports expanding housing supply and encouraging construction of affordable and workforce housing.",
+          "quote": "I support expanding the supply of affordable and workforce housing, reducing unnecessary regulations and property-tax pressures, and lowering energy and healthcare costs.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198485",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "His campaign supports more federal funding for public schools and special-education programs.",
+          "quote": "Increase federal support for public schools Restore classroom discipline and empower teachers Expand career and technical education programs",
+          "sourceUrl": "https://arieliopoulosforcongress.com/",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "He supports law enforcement, targeting violent and repeat offenders, and improving first-responder resources.",
+          "quote": "Support law enforcement while increasing accountability Target violent crime and repeat offenders Strengthen anti-gang and anti-drug initiatives Invest in community policing",
+          "sourceUrl": "https://arieliopoulosforcongress.com/",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports border security and consequences for unlawful entry, as well as legal immigration pathways and timely asylum processing.",
+          "quote": "We need effective border security, a fair and efficient legal immigration system, timely processing of asylum claims, and meaningful consequences for those who enter or remain unlawfully.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198485",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, he said enforcing existing laws and using prevention resources would be more effective than new gun restrictions.",
+          "quote": "Simply enforcement of existing laws, mental health resources, and/or community-based violence prevention would be more effective than new restrictions.",
+          "sourceUrl": "https://ivoterguide.com/candidate/94907/race/33271/election/1478",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports access to abortion and essential reproductive healthcare.",
+          "quote": "I support access to abortion and essential reproductive healthcare, while recognizing that Americans hold deeply held and sincere views on this issue.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198485",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, he agreed that biological males should not participate in women's sports or occupy women's spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/94907/race/33271/election/1478",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He supports lowering energy costs but does not state a position on the pace of emissions cuts.",
+          "quote": "I support expanding the supply of affordable and workforce housing, reducing unnecessary regulations and property-tax pressures, and lowering energy and healthcare costs.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198485",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports making registration and voting more accessible while also maintaining voter rolls, audits, and secure voting systems.",
+          "quote": "I believe we can expand voter access while strengthening election integrity. We should make registration and voting more accessible, ensure secure and reliable voting systems, maintain accurate voter rolls, and provide transparent audits and clear election procedures.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198485",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "CRAIG HONTS",
+      "party": "SOCIALIST WORKERS PARTY",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He called for union-scale wages and urged workers to support unions and organize together.",
+          "quote": "We call for a public works program to provide jobs at union-scale wages to build hospitals, childcare centers and other infrastructure.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198485",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He called for automatic cost-of-living increases in pensions and Social Security as prices rise.",
+          "quote": "In the face of skyrocketing prices for food, electricity, rent we demand automatic cost-of-living increases in union contracts, pensions, and social security.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198485",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supported amnesty for workers without papers and opposed raids and deportations.",
+          "quote": "A union-led fight for amnesty for all workers in the US without papers is needed to unify the working class.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198485",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He said the Socialist Workers Party supports decriminalizing abortion and access to safe, legal abortion.",
+          "quote": "The Socialist Workers Party unconditionally supports the decriminalization of abortion and joins others in fighting for it.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198485",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "He cited universal health care as an example of care organized to meet people’s needs.",
+          "quote": "The Cuban Revolution shows how health care can be universal—but only because millions of workers and peasants took power transforming social relations and themselves.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198485",
+          "agreement": "2/3"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "He supported restoring voting rights for people with felony convictions and criticized efforts to keep the Socialist Workers Party off ballots.",
+          "quote": "Over 4 million former felons cannot vote. The fight to restore their right to vote is important for the entire working class.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198485",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "DA'SHONE HUGHEY",
+      "party": "WE THE PEOPLE",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He said he would support increasing housing supply to address affordability.",
+          "quote": "I would support policies that increase housing supply, reduce unnecessary energy costs, strengthen public transportation",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198485",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "He proposes a federal grant program connecting returning citizens to apprenticeships and support services to reduce recidivism.",
+          "quote": "This legislation creates a federal Department of Labor grant program that connects returning citizens with registered apprenticeships while providing transportation assistance, work equipment, mentoring, housing support, and career coaching.",
+          "sourceUrl": "https://votedashonehughey.com/the-hughey-plan/",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports stronger border security and a faster legal immigration process alongside a practical path for people established in the United States.",
+          "quote": "We need stronger border security, a faster and more efficient legal immigration process, and a practical path forward for people who have built their lives in America and contribute to our communities.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198485",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports access to abortion and opposes government restrictions that interfere with care.",
+          "quote": "I believe reproductive healthcare decisions should remain between a woman and her doctor, without unnecessary government interference.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198485",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He supports greater healthcare competition and price transparency to reduce costs.",
+          "quote": "I would support policies that increase competition, improve price transparency, reduce unnecessary costs, and expand access to affordable primary and preventive care.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198485",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Hughey supports reducing unnecessary energy costs while strengthening domestic energy and infrastructure.",
+          "quote": "I would support policies that increase housing supply, reduce unnecessary energy costs, strengthen public transportation, and make it easier for small businesses to grow and create good-paying jobs.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198485",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "robmenendez.com · arieliopoulosforcongress.com · onyourballot.vote411.org · ivoterguide.com · votedashonehughey.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

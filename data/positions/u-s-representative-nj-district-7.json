@@ -1,0 +1,229 @@
+{
+  "office": "U.S. Representative",
+  "district": "NJ District 7",
+  "division": "nj/cd-7",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "THOMAS H. KEAN JR.",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He identifies restoring the full SALT deduction as a top congressional priority.",
+          "quote": "One of my most important priorities in Congress is to restore the full State and Local Tax (SALT) Deduction.",
+          "sourceUrl": "https://kean.house.gov/issues",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He calls addressing the national debt and deficit imperative and supports eliminating duplicative programs and cutting wasteful spending.",
+          "quote": "Also, it is imperative that we get our nation’s fiscal house in order and work to address our debt and deficit – or else we will continue to push the problems of today onto our children.",
+          "sourceUrl": "https://kean.house.gov/issues/economy",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "His official biography describes expanding school choice as part of his education approach.",
+          "quote": "His responsive, student-focused approach to education initiatives such as expanding school choice",
+          "sourceUrl": "https://kean.house.gov/about",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He secured federal funding for local police departments and said officers need resources to protect communities.",
+          "quote": "At a time when others are trying to cut funding for law enforcement, I fought to ensure our officers had the resources they need to protect and serve effectively.",
+          "sourceUrl": "https://kean.house.gov/media/press-releases/kean-secures-37-million-support-local-police-departments",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He says border security, enforcement of the law, and resources for law enforcement should be central to addressing illegal immigration.",
+          "quote": "Border security is national security, and our approach to combating illegal immigration must be comprehensive and include permanently securing our border, enforcing the rule of law, and ensuring law enforcement has the resources they need to carry out their duties.",
+          "sourceUrl": "https://kean.house.gov/issues",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He said he supports abortion access through 20 weeks after conception, with specified later exceptions.",
+          "quote": "support for abortion up to the 20th week after conception, with exceptions for rape, incest, and life and health of the mother after that point.",
+          "sourceUrl": "https://newjerseyglobe.com/congress/malinowski-on-the-attack-at-7th-district-debate-kean-focuses-on-inflation-pelosi/",
+          "agreement": "3/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He voted for the Protection of Women and Girls in Sports Act of 2025, and for a similar bill in 2023.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He co-led legislation extending ACA premium tax credits that help families purchase private insurance on the individual market.",
+          "quote": "Since 2021, these credits have helped rideshare drivers, working families, and many others afford private insurance on the individual market.",
+          "sourceUrl": "https://kean.house.gov/media/press-releases/kean-co-leads-bipartisan-effort-prevent-healthcare-premium-hikes",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He supports prioritizing reliable energy projects so New Jersey households and businesses can access affordable power.",
+          "quote": "With eight NJ power plants closing over the past decade, Congressman Kean believes that it is critical to give greater flexibility to prioritize the most reliable energy projects so New Jersey businesses and households can access affordable, dependable, and resilient energy.",
+          "sourceUrl": "https://kean.house.gov/media/press-releases/kean-demands-answers-regarding-prolonged-power-outages",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "He voted for House passage of the Safeguard American Voter Eligibility Act.",
+          "quote": "Vote Question: On Passage Safeguard American Voter Eligibility Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2024345?Page=2",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "REBECCA BENNETT",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She supports reversing tax cuts for the super wealthy to fund reversals of OBBB cuts, while favoring tax cuts for working families.",
+          "quote": "We need to undo the Trump tax cuts for the super wealthy and use those funds to undo the damage of OBBB.",
+          "sourceUrl": "https://indivisiblelnh.com/wp-content/uploads/sites/58/2026/02/Rebecca-Bennett-ILNH-Questionnaire-NJ-CD7.docx.pdf",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supports unions and stronger fair wage and labor laws.",
+          "quote": "Support workers’ rights and unions to ensure the right to organize and strengthen fair wage and labor laws to improve job security in New Jersey.",
+          "sourceUrl": "https://rebeccabennettforcongress.com/priorities/growing-new-jerseys-economy/",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "She called for ending the trade war, saying it is driving up housing costs.",
+          "quote": "ending the Trump trade war on day 1 that is driving up the cost of housing.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198484",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She says she would invest in Social Security and Medicare while also seeking deficit reduction.",
+          "quote": "I am going to fight to get our deficit under control and invest in Social Security and Medicare.",
+          "sourceUrl": "https://rebeccabennettforcongress.com/national-committee-to-preserve-social-security-and-medicare-pac-endorses-rebecca-bennett-for-congress/",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She proposes increasing housing supply and reducing barriers to construction.",
+          "quote": "On housing, I will focus on increasing supply and reducing the barriers that are driving up costs.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198484",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "She supports federal funding for K-12 education and opposes dismantling the Department of Education.",
+          "quote": "Ultimately when it comes to K-12 education the federal government’s main role is to provide funding to ensure all students have access to a quality education.",
+          "sourceUrl": "https://indivisiblelnh.com/wp-content/uploads/sites/58/2026/02/Rebecca-Bennett-ILNH-Questionnaire-NJ-CD7.docx.pdf",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports resources for local law enforcement while also expanding mental-health and crisis services.",
+          "quote": "Support the essential work our law enforcement officers do to keep our communities safe and work to build trust with the communities they police.",
+          "sourceUrl": "https://rebeccabennettforcongress.com/priorities/keeping-our-neighborhoods-safe/",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She supports immigration reform with a path to citizenship and legal status for Dreamers.",
+          "quote": "I support comprehensive immigration reform that secures our border and provides a path to citizenship for those here.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198484",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports gun safety reforms and restricting access to weapons of war.",
+          "quote": "Pass commonsense, popular gun safety reforms to keep firearms out of the hands of those who shouldn’t have them",
+          "sourceUrl": "https://rebeccabennettforcongress.com/priorities/keeping-our-neighborhoods-safe/",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She supports restoring federal abortion protections and protecting reproductive health care access.",
+          "quote": "I support restoring the protections of Roe v. Wade at the federal level so that every woman in this country has the right to access abortion care",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198484",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports a public option and restoring cuts to Medicaid and Medicare.",
+          "quote": "I also support a public option for healthcare, because everyone should get to choose if they want to stay on their current insurance plan, or buy into a public option that may reduce costs for them.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198484",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She combines lowering energy costs with grid modernization and investment in renewable energy.",
+          "quote": "To lower energy costs, I will fight to modernize our grid, and invest in reliable renewable energy.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198484",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She opposes new documentation requirements she says could make it harder for eligible voters to participate.",
+          "quote": "These measures risk disenfranchising lawful voters under the guise of election security.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198484",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "SEAMUS PATRICK O'TOOLE",
+      "party": "STOP ISRAEL'S GENOCIDE",
+      "stances": {}
+    }
+  ],
+  "sources": "kean.house.gov · newjerseyglobe.com · clerk.house.gov · indivisiblelnh.com · rebeccabennettforcongress.com · onyourballot.vote411.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

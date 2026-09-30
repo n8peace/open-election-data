@@ -1,0 +1,120 @@
+{
+  "office": "U.S. Representative",
+  "district": "NJ District 6",
+  "division": "nj/cd-6",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "FRANK PALLONE JR.",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He voted against a Republican tax plan and supports ending tax breaks for the wealthiest Americans.",
+          "quote": "Congressman Pallone opposed the partisan Republican tax plan, and voted no when it was considered by the House of Representatives.",
+          "sourceUrl": "https://pallone.house.gov/issues/economy-and-jobs",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports significantly raising the minimum wage and strengthening workplace protections.",
+          "quote": "Congressman Pallone supports policies that would significantly raise the minimum wage, implement equal work for equal pay and paid family leave.",
+          "sourceUrl": "https://pallone.house.gov/issues?page=0",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says he is committed to protecting and strengthening Medicare, Medicaid, and Social Security.",
+          "quote": "Congressman Pallone is committed to protecting the programs that seniors rely on, like Medicare, Medicaid and Social Security, while also making them stronger and more secure.",
+          "sourceUrl": "https://pallone.house.gov/issues/seniors",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He says local schools and teachers need adequate resources and compensation.",
+          "quote": "Congressman Pallone believes local schools and teachers must be provided with adequate resources and compensation, and a strong emphasis must be placed on hiring and retaining highly trained and talented teaching professionals.",
+          "sourceUrl": "https://pallone.house.gov/issues/education?page=1",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He called for federal protection of reproductive health care, including abortion.",
+          "quote": "Congressman Frank Pallone, Jr. (NJ-06) called for federal protection of the right to full reproductive health care services, including abortion, contraception, and IVF.",
+          "sourceUrl": "https://pallone.house.gov/issues/civil-rights",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He introduced the CLEAN Future Act, which sets a goal of a 100 percent clean economy by 2050.",
+          "quote": "The CLEAN Future Act formally adopts the goal of achieving of a 100 percent clean economy by 2050.",
+          "sourceUrl": "https://pallone.house.gov/issues/environment",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "HILLARY HERZIG",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Her campaign says she will fight to lower property taxes and living costs.",
+          "quote": "Hillary will fight for lower property taxes, reduced cost of living, and keeping more of your paycheck in your home.",
+          "sourceUrl": "https://www.herzigforcongress.com/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Her campaign says families should be able to choose their children’s learning environment.",
+          "quote": "Families deserve the freedom to choose the best learning environment for their kids.",
+          "sourceUrl": "https://www.herzigforcongress.com/",
+          "agreement": "5/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Her campaign supports removing federal cannabis prohibition and establishing federal regulation.",
+          "quote": "Hillary supports responsible cannabis reform, including removing federal prohibition and employment penalties for lawful cannabis use.",
+          "sourceUrl": "https://www.herzigforcongress.com/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Her campaign emphasizes diversifying energy supplies and lowering energy costs.",
+          "quote": "Reliable Energy: Upgrade the grid; Diversify energy, lower costs, smart placement of solar, not on agricultural fields",
+          "sourceUrl": "https://www.herzigforcongress.com/",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "pallone.house.gov · herzigforcongress.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

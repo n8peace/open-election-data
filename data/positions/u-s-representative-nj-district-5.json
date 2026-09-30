@@ -1,0 +1,181 @@
+{
+  "office": "U.S. Representative",
+  "district": "NJ District 5",
+  "division": "nj/cd-5",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "JOSH GOTTHEIMER",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He has backed tax cuts, including restoring the SALT deduction and reducing taxes for families and small businesses.",
+          "quote": "Today, I’m excited to share more action I’m taking on every line of the tax bill — local, state, and federal — to help lower taxes for our families and small businesses, including fighting for new tax credits to lower the cost of child care and housing, and to pass tax cuts for Jersey small businesses.",
+          "sourceUrl": "https://gottheimer.house.gov/posts/release-on-tax-day-gottheimer-announces-new-action-to-cut-taxes-and-make-life-more-affordable",
+          "agreement": "4/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He was an original cosponsor of the 2023 Raise the Wage Act and has backed collective-bargaining protections.",
+          "quote": "This bill will increase the federal minimum wage to $17 per hour by 2028.",
+          "sourceUrl": "https://gottheimer.house.gov/supporting-labor",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He opposed President Trump’s tariffs, saying they raise prices for families and small businesses, and voted for legislation to counter them.",
+          "quote": "These tariffs have jacked up prices on everyday goods and have punished our small businesses and their customers.",
+          "sourceUrl": "https://gottheimer.house.gov/posts/release-gottheimer-votes-to-rein-in-trumps-costly-tariff-taxes",
+          "agreement": "8/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says he opposes Medicare and Social Security benefit reductions and privatization.",
+          "quote": "Instead, I am working to strengthen Medicare and protect Social Security – and protect them from efforts to privatize Social Security and Medicare.",
+          "sourceUrl": "https://gottheimer.house.gov/posts/gottheimer-unveils-three-part-senior-security-strategy",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He voted for a tax package that increases the supply of affordable housing through a larger Low-Income Housing Tax Credit.",
+          "quote": "Increases the supply of affordable housing by strengthening the Low-Income Housing Tax Credit from 9% to 12.5%",
+          "sourceUrl": "https://gottheimer.house.gov/posts/release-gottheimer-helps-pass-bipartisan-legislation-to-make-childcare-more-affordable",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He called for federal resources and curriculum investments in K-12 public schools and districts.",
+          "quote": "K-12 resources specifically to responsibly integrate AI literacy, ethics, and practical skills into K-12 public school curriculum while limiting screen time to ensure fundamentals remain a priority in education.",
+          "sourceUrl": "https://gottheimer.house.gov/posts/release-gottheimer-unveils-bipartisan-back-to-school-agenda-for-ai-in-k-12-education",
+          "agreement": "3/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He introduced legislation to fund local police recruitment, retention, training, and resources.",
+          "quote": "Good community policing starts with making sure our local departments have the resources they need to get the job done",
+          "sourceUrl": "https://gottheimer.house.gov/posts/release-bipartisan-invest-to-protect-act-introduced-in-house-to-make-critical-investments-in-local-police-departments",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He has supported legal-status relief for long-term residents brought to the country as children while also supporting border-security provisions.",
+          "quote": "This bill provides relief from changes in legal status of  individuals who are long-term United States residents and entered the United States before  the age of 18, while improving border security, and fostering United States engagement in Central America.",
+          "sourceUrl": "https://gottheimer.house.gov/commonsense-immigration-reform",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He supported legislation requiring background checks for every gun sale or transfer and closing the background-check delay loophole.",
+          "quote": "we need real background checks for every single commercial transaction, universally, including at gun shows",
+          "sourceUrl": "https://gottheimer.house.gov/posts/gottheimer-demands-action-to-keep-kids-safe-in-schools-from-gun-violence",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He introduced legislation to protect access to the abortion pill and has supported bills to protect abortion access.",
+          "quote": "I will always oppose any attempt by those sitting on the bench or sitting in Washington who want to roll back the clock on the right to choose",
+          "sourceUrl": "https://gottheimer.house.gov/posts/release-gottheimer-introduces-freedom-to-decide-act-to-combat-abortion-pill-ban",
+          "agreement": "4/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "He voted against the 2025 Protection of Women and Girls in Sports Act.",
+          "quote": "Vote Question: On Passage Protection of Women and Girls in Sports Act Vote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "4/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "He voted for the MORE Act, which would remove cannabis from the federal list of controlled substances.",
+          "quote": "MORE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "He introduced legislation to require Medicare coverage of certain biomarker testing for lung-cancer patients.",
+          "quote": "This will require Medicare to also include biomarker testing for patients with lung cancer, regardless of the stage of the disease, or if they received prior testing.",
+          "sourceUrl": "https://gottheimer.house.gov/posts/release-gottheimer-announces-new-bipartisan-legislation-to-boost-access-to-life-saving-lung-cancer-detection-and-care",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He advocates an all-of-the-above energy strategy intended to lower utility costs while also reducing emissions.",
+          "quote": "We need an all-of-the-above approach: nuclear, natural gas, and renewables.",
+          "sourceUrl": "https://gottheimer.house.gov/posts/release-gottheimer-hosts-more-energy-lower-utility-bills-roundtable-calls-for-all-of-the-above-approach-to-bring-down-skyrocketing-energy-costs",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He voted against the SAVE Act and said he would protect eligible voters’ access to the ballot.",
+          "quote": "I’ll keep fighting to ensure every eligible American voter has full access to the ballot box.",
+          "sourceUrl": "https://gottheimer.house.gov/posts/release-gottheimer-statement-against-far-right-save-act",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "SEAN KIRRANE",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "His platform calls for lowering property taxes, eliminating taxes on retirement income, and reducing administrative costs in federal programs.",
+          "quote": "Result: Lower property taxes, more money in your pocket, and a system that stops penalizing success.",
+          "sourceUrl": "https://www.seankirrane.com/platform",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "His platform supports expanding domestic energy production and emphasizes lower energy bills and affordability.",
+          "quote": "Result: Lower energy bills and a more stable energy system.",
+          "sourceUrl": "https://www.seankirrane.com/platform",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "ADAM RUEDA",
+      "party": "HUMANE SUSTAINABLE FUTURE",
+      "stances": {}
+    }
+  ],
+  "sources": "gottheimer.house.gov · clerk.house.gov · seankirrane.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
