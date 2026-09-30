@@ -1,0 +1,182 @@
+{
+  "office": "U.S. Representative",
+  "district": "AZ District 3",
+  "division": "az/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Yassamin Ansari",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She says she passed a prevailing wage ordinance and other pro-union worker policies in Phoenix.",
+          "quote": "Yassamin was at the forefront of passing some of the most progressive, pro-union policies in Arizona’s history – from a prevailing wage ordinance that improves quality of life for thousands of construction workers",
+          "sourceUrl": "https://yassaminforcongress.com/about/",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "She reaffirmed a commitment to protect Medicare and Social Security from cuts.",
+          "quote": "They discussed the devastating impacts that cuts to Medicare, Medicaid, Social Security, housing assistance and transportation will have on the disability community and Rep. Ansari reaffirmed her commitment to advocating alongside them to protect these programs and services.",
+          "sourceUrl": "https://ansari.house.gov/media/press-releases/icymi-rep-ansari-hosts-max-capacity-town-hall-district-events-arizona",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She advocated zoning reforms to speed construction and allow more types of housing.",
+          "quote": "We need to build with urgency and to do that, we must cut the red tape that holds up projects and legalize more affordable housing types.",
+          "sourceUrl": "https://yassaminforcongress.com/news/4-ways-that-phoenix-can-help-ease-our-housing-shortage/",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "She introduced legislation to redirect ICE funding to Title I grants for local school districts.",
+          "quote": "The legislation would transfer any unobligated ICE funding provided under Republicans’ reconciliation bill, which gave ICE with an additional $38.5 billion in funding through 2029, to Title I, Part A grants for local school districts.",
+          "sourceUrl": "https://ansari.house.gov/media/press-releases/ansari-stanton-grijalva-introduce-bill-to-redirect-ice-funding-to-public-schools-require-sale-of-detention-warehouses",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She said she would pursue reforms addressing asylum and visa backlogs and creating legal status pathways.",
+          "quote": "In Congress, I will pursue legislation that helps address asylum processing, visa backlogs and a path to legal status for millions of undocumented immigrants, including essential farmworkers, temporary protected status recipients and Dreamers.",
+          "sourceUrl": "https://yassaminforcongress.com/news/arizona-republic-arizona-3rd-congressional-district-candidates-where-ansari-zink-aversa-stand-on-issues/",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports gun-safety reforms and restoring the federal assault-weapons ban.",
+          "quote": "I’ll never stop advocating for common-sense gun safety reform. We can and must reinstate the assault weapons ban, which Congress allowed to expire in 2004, to keep dangerous weapons out of the wrong hands.",
+          "sourceUrl": "https://yassaminforcongress.com/news/arizona-republic-arizona-3rd-congressional-district-candidates-where-ansari-zink-aversa-stand-on-issues/",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "After Roe was overturned, she passed a Phoenix resolution making state abortion laws the police department’s lowest enforcement priority.",
+          "quote": "When the Supreme Court overturned Roe v. Wade, Yassamin passed a resolution to direct the Phoenix Police Department to make harsh state abortion laws its lowest priority for enforcement, protecting doctors, nurses, pharmacists, and patients.",
+          "sourceUrl": "https://yassaminforcongress.com/about/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She promoted passing Medicare for All at a congressional hearing on lowering health care costs.",
+          "quote": "This shadow hearing will bring experts and @ProgressiveCaucus members into conversations of a variety of ways to bring down healthcare costs, prescription drug price negotiations, tackling PBM and corporate hospital greed, investing in preventative care, forgiving medical debt, and, of course, passing Medicare for All.",
+          "sourceUrl": "https://ansari.house.gov/media/videos/patients-over-profits-lowering-healthcare-costs-for-all-americans",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She supports reaching net-zero emissions by 2050 and building a fully clean electricity grid.",
+          "quote": "If we want to reduce the worst impacts of climate change and save lives, we need to reach 100% net zero by 2050 and establish programs that mitigate extreme heat.",
+          "sourceUrl": "https://yassaminforcongress.com/news/arizona-republic-arizona-3rd-congressional-district-candidates-where-ansari-zink-aversa-stand-on-issues/",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She called for accessible election reforms, including the Freedom to Vote Act, and opposed a bill she said would create barriers to voting.",
+          "quote": "Instead of making it harder to vote, Washington should prioritize passing real reforms to ensure we have safe, accessible elections.",
+          "sourceUrl": "https://ansari.house.gov/media/press-releases/ansari-blasts-republican-voter-suppression-bill",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "David Redkey",
+      "party": "Green",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He supports sharply higher taxes on high incomes, which he says would promote economic fairness and help working families.",
+          "quote": "Taxation, like the 94% tax rate for every dollar made above $200K (single) / $400K (married filing jointly), allows economic fairness, and it prevents hording of resources to raise prices that choke the working.",
+          "sourceUrl": "https://ivoterguide.com/candidate/97355/race/30411/election/1455",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "His economic plan offers employers tax credits for jobs paying at least $25 an hour and conditions them on clean labor practices.",
+          "quote": "Per-worker, refundable payroll tax credit for jobs paying at least $25/hour (indexed to median wages) or $72,800/year for salaried roles.",
+          "sourceUrl": "https://www.davidredkey4congress.com/what-is-foundation-economics",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He opposes federal tax credits or scholarships that would direct public funds to private schools.",
+          "quote": "Federal monies should not be used for private schools",
+          "sourceUrl": "https://www.azvoterguide.com/candidate/us-house/redkey-david/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "He said federal enforcement to prevent illegal border crossings should be reduced or kept at its current level.",
+          "quote": "It should be reduced or remain the same, especially since we can use drones.",
+          "sourceUrl": "https://www.azvoterguide.com/candidate/us-house/redkey-david/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He said women have a right to choose and opposed restrictions on abortion-related care.",
+          "quote": "Women have a right to choose what is in their bodies. Women are not cattle, and it isn't THEIR fault science has allowed a human embryo to exist and grow to maturity outside a human womb.",
+          "sourceUrl": "https://ivoterguide.com/candidate/97355/race/30411/election/1455",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Alan Aversa",
+      "party": "No Labels",
+      "stances": {
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He said Arizona should maintain school choice and that parents have a right to choose their children’s education.",
+          "quote": "Arizona is one of the best states for school choice in the nation, and it should remain that way.",
+          "sourceUrl": "https://snapcoalition.org/initiatives/stance-on-science/candidates/az/alan-aversa",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He says abortion should end and that unborn people’s right to life should be protected.",
+          "quote": "Abortion has unjustly taken the right to life away from millions of innocent persons.",
+          "sourceUrl": "https://aversa.vote/issues.html",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "yassaminforcongress.com · ansari.house.gov · ivoterguide.com · davidredkey4congress.com · azvoterguide.com · snapcoalition.org · aversa.vote",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

@@ -1,0 +1,90 @@
+{
+  "office": "U.S. Representative",
+  "district": "AZ District 8",
+  "division": "az/cd-8",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Bernadette Greene-Placentia",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "She supports fair wages and workers’ rights to organize and bargain collectively.",
+          "quote": "Working people deserve the freedom to stand together for better wages and safer workplaces.",
+          "sourceUrl": "https://bgp4az.com/priorities/",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She says Social Security and Medicare are earned benefits and opposes cuts to them.",
+          "quote": "Social Security and Medicare are earned benefits, not bargaining chips. Bernadette believes Americans who worked hard, paid into the system, and played by the rules deserve security in retirement.",
+          "sourceUrl": "https://bgp4az.com/priorities/",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports focusing public funds on public schools, colleges, and career training.",
+          "quote": "She will focus public dollars on classrooms, community colleges, universities, and the career training programs that prepare people for work that is in demand.",
+          "sourceUrl": "https://bgp4az.com/priorities/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She supports an earned pathway to citizenship for law-abiding immigrants who contribute to their communities.",
+          "quote": "At the same time, she believes our immigration system should be fair, efficient, and provide an earned pathway to citizenship for people who follow the law, contribute to our economy, and are committed to becoming Americans.",
+          "sourceUrl": "https://bgp4az.com/priorities/",
+          "agreement": "3/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She says reproductive healthcare decisions belong to women and their doctors and supports access to contraception and emergency care.",
+          "quote": "Personal healthcare decisions belong to women and their doctors, not politicians. Bernadette will protect access to contraception and emergency care, support families as they welcome a child, and keep fighting for equal opportunity at work.",
+          "sourceUrl": "https://bgp4az.com/priorities/",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She proposes lowering the Medicare eligibility age.",
+          "quote": "Support practical ideas that lower costs without lowering the quality of care. Gradually lower the age of medicare eligibility.",
+          "sourceUrl": "https://bgp4az.com/priorities/",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "She supports policies intended to reduce fuel and energy costs while supporting American jobs.",
+          "quote": "Support policies that help reduce fuel and energy costs.",
+          "sourceUrl": "https://bgp4az.com/priorities/",
+          "agreement": "4/10"
+        }
+      }
+    }
+  ],
+  "sources": "bgp4az.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

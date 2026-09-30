@@ -1,0 +1,174 @@
+{
+  "office": "U.S. Representative",
+  "district": "AZ District 1",
+  "division": "az/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Amish Shah",
+      "party": "Democratic",
+      "stances": {
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Shah says he would fully fund police and take action to reduce gun violence and stop fentanyl trafficking.",
+          "quote": "In Congress, he’ll continue to work to keep our communities safe by taking action to reduce gun violence, fully funding our police, and stopping the flow of fentanyl across the border.",
+          "sourceUrl": "https://www.amishforarizona.com/issues",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He says reproductive-health decisions should be made by a woman and her provider and supports codifying Roe v. Wade.",
+          "quote": "Amish believes that only a woman and her provider should make decisions about reproductive healthcare.",
+          "sourceUrl": "https://www.amishforarizona.com/issues",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He says he would expand health coverage, protect Medicare, and lower prescription drug prices.",
+          "quote": "In Congress, Amish will work to expand coverage, protect Medicare, and lower prescription drug prices.",
+          "sourceUrl": "https://www.amishforarizona.com/issues",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Monica Alponte",
+      "party": "Libertarian",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "She calls for free markets and voluntary trade without government interference.",
+          "quote": "unleash free markets and voluntary trade without government interference",
+          "sourceUrl": "https://monicaalponteaz.com/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "She supported federal tax credits or scholarships to let parents choose private school, homeschool, or online programs.",
+          "quote": "Provide tax credits and cut taxes wherever and whenever possible until one day we can eventually abolishing the IRS entirely.",
+          "sourceUrl": "https://www.azvoterguide.com/candidate/us-house/alponte-monica/",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "She supported prohibiting federal funds for organizations that perform, promote, or refer for abortion.",
+          "quote": "The federal government shouldn't be involved in using tax dollars for government-managed 'healthcare' or 'deathcare.'",
+          "sourceUrl": "https://www.azvoterguide.com/candidate/us-house/alponte-monica/",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "She opposes federal tax funding for government-managed health care except direct emergency services.",
+          "quote": "Unless it involves a direct emergency service, the federal government has no constitutional role in funding these programs.",
+          "sourceUrl": "https://www.azvoterguide.com/candidate/us-house/alponte-monica/",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Jay Feely",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Feely says he would expand Trump-era tax cuts and supports ending taxes on tips and overtime.",
+          "quote": "In Congress, I’ll fight to slash red tape, expand Trump-era tax cuts, unleash domestic manufacturing, and drive down inflation.",
+          "sourceUrl": "https://www.jayfeelyforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "Feely defended using tariffs as leverage to seek trade terms he considers better for the United States.",
+          "quote": "Everything he does is about leverage to get the best deal for America.",
+          "sourceUrl": "https://www.pbs.org/video/candidates-in-conversation-prop-320-tnu1pl/",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "He says reducing the national debt requires addressing mandatory spending, including a discussion of Social Security's finances.",
+          "quote": "the only way that you can deal with 40 trillion in debt going at a trillion every hundred days is to deal with all the mandated spending.",
+          "sourceUrl": "https://www.pbs.org/video/candidates-in-conversation-prop-320-tnu1pl/",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Feely said cutting regulations could reduce housing costs and help homes get built faster.",
+          "quote": "And you get rid of regulation, housing costs, about a quarter of the housing costs is because of regulation.",
+          "sourceUrl": "https://www.pbs.org/video/candidates-in-conversation-prop-320-tnu1pl/",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Feely says he would fully back police, Border Patrol, and ICE agents.",
+          "quote": "That includes supporting mass deportations of violent offenders, fully backing our police, Border Patrol and ICE agents, and working to eradicate fentanyl before it reaches our neighborhoods.",
+          "sourceUrl": "https://www.jayfeelyforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Feely says he would support mass deportations of violent offenders and finish the border wall.",
+          "quote": "In Congress, I’ll fight to finish the wall, dismantle the Biden/Harris open-borders agenda, and deliver results.",
+          "sourceUrl": "https://www.jayfeelyforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Feely says he would defend Second Amendment rights and opposes federal mandates he says harm families and businesses.",
+          "quote": "That means protecting our water, standing up for our farmers and ranchers, defending our Second Amendment rights, and stopping out-of-control federal mandates that hurt our families, small businesses, and schools.",
+          "sourceUrl": "https://www.jayfeelyforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Feely says he would support laws to keep girls’ and women’s sports for female competitors.",
+          "quote": "In Congress, I will fight to protect girls’ and women’s sports by codifying common-sense laws that ensure fair competition and keep women's titles out of men's hands.",
+          "sourceUrl": "https://www.jayfeelyforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Feely supports expanding oil, natural gas, and coal production, saying energy independence can lower costs and create jobs.",
+          "quote": "Energy independence means lower costs for families, more jobs for Arizona workers, and greater national security.",
+          "sourceUrl": "https://www.jayfeelyforcongress.com/issues",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "amishforarizona.com · monicaalponteaz.com · azvoterguide.com · jayfeelyforcongress.com · pbs.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

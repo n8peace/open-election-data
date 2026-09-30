@@ -1,0 +1,154 @@
+{
+  "office": "U.S. Representative",
+  "district": "AZ District 9",
+  "division": "az/cd-9",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Paul Gosar",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He said he would not vote to increase taxes and called for spending reforms.",
+          "quote": "I will not vote to increase taxes. Americans have been overtaxed for a generation",
+          "sourceUrl": "https://gosar.house.gov/news/email/show.aspx?ID=J4UEAVFDPMSCYSZMDRUN3DHSNY",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He voted against the Raise the Wage Act in 2019.",
+          "quote": "Vote Question: On Passage Raise the Wage Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "He endorsed tariffs as a way to protect domestic industries and supported their use against countries imposing tariffs on U.S. manufacturing.",
+          "quote": "President Trump is right to stand up to China and any other country that has imposed tariffs on U.S. manufacturing.",
+          "sourceUrl": "https://gosar.house.gov/news/email/show.aspx?ID=WMAHBZ6YWIEJMPLRURYEMCLHRI",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He said he would not support cuts to Social Security and called for keeping promises to seniors.",
+          "quote": "I will not support, and never have supported, any cuts to Social Security. Cutting foreign wars, and useless programs uncovered by DOGE, is where we start.",
+          "sourceUrl": "https://gosar.house.gov/news/email/show.aspx?ID=ZUH542DT4YGU5CTQRSAQLPJVGE",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He voted for legislation intended to reduce housing costs and increase housing supply.",
+          "quote": "I proudly voted in favor of this legislation to help reduce housing costs, increase supply, and keep the American Dream of homeownership within reach for hardworking families.",
+          "sourceUrl": "https://gosar.house.gov/news/email/show.aspx?ID=QL2NPKSU3E5OQRMQBEZI5BVYVM",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He said parents should be able to choose district, charter, private, or home schooling for their children.",
+          "quote": "Parents—not teachers’ unions, bureaucrats or politicians—should decide whether their children attend a district school, charter school, private school or homeschool.",
+          "sourceUrl": "https://gosar.house.gov/news/email/show.aspx?ID=MDBU5PRQ23JWAC7MXZES5M4ZQE",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He introduced legislation to strengthen congressional oversight of D.C. criminal justice policy, citing concerns about weakening law enforcement and criminal penalties.",
+          "quote": "H.R. 5183 restores much-needed balance by extending the congressional review period for all D.C. Council legislation from 30 to 60 legislative days before it can take effect. Public safety comes first.",
+          "sourceUrl": "https://gosar.house.gov/news/documentsingle.aspx?DocumentID=9031",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He opposes amnesty and says he supports securing the border and enforcing existing immigration laws.",
+          "quote": "I oppose the efforts to grant any sort of amnesty by executive fiat, and I oppose any efforts in Congress to grant amnesty to those who have broken our laws.",
+          "sourceUrl": "https://gosar.house.gov/issues/issue/?IssueID=15186",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He introduced legislation to prevent federal funds from supporting firearm owner registries and said legal gun owners should not have their information tracked.",
+          "quote": "Americans who lawfully exercise their Second Amendment rights should never have their personal information tracked or exposed through systems supported by federal taxpayer funds.",
+          "sourceUrl": "https://gosar.house.gov/news/email/show.aspx?ID=CQN3D3DNWG3KHB7L5RRCBHSQYI",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He said life begins at conception and backed legislation restricting taxpayer funding for abortion.",
+          "quote": "I believe that life begins at conception. For my efforts in Congress, I have a 100% lifetime rating from multiple pro-life organizations",
+          "sourceUrl": "https://gosar.house.gov/issues/issue/?IssueID=15187",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He voted for H.R. 28, requiring federally funded schools to use biological sex for women’s sports eligibility.",
+          "quote": "legislation requiring all schools receiving federal funds to uphold the original meaning of Title IX and keep biological men out of women’s sports.",
+          "sourceUrl": "https://gosar.house.gov/news/email/show.aspx?ID=5WC5U3JFP3ZJC6CE7IZOI37ALQ",
+          "agreement": "7/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "He opposed rescheduling marijuana and called for continued enforcement of drug laws.",
+          "quote": "We must continue to enforce President Trump’s hard line on drugs and crime, not blur it.",
+          "sourceUrl": "https://gosar.house.gov/news/documentsingle.aspx?DocumentID=9002",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He opposed the Affordable Care Act and advocated patient choice and market-based health care reform.",
+          "quote": "I am committed to reform that is both patient-centered and market-based. That is why I strongly oppose the Patient Protection and Affordable Care Act (ACA)",
+          "sourceUrl": "https://gosar.house.gov/issues/issue/?IssueID=15185",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He criticized rejoining the Paris Agreement, citing energy costs and dependence, and praised domestic energy production.",
+          "quote": "Under President Trump, the United States lead the world in energy production and carbon reduction, making substantial strides in both areas while simultaneously reducing our dependence on foreign sources of energy.",
+          "sourceUrl": "https://gosar.house.gov/news/documentsingle.aspx?DocumentID=4202",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He voted for the SAVE Act, which would require in-person proof of citizenship when registering to vote in federal elections.",
+          "quote": "It’s not racist, it’s common sense: prove your citizenship, or you can’t vote.",
+          "sourceUrl": "https://gosar.house.gov/news/documentsingle.aspx?DocumentID=8799",
+          "agreement": "8/10"
+        }
+      }
+    }
+  ],
+  "sources": "gosar.house.gov · clerk.house.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

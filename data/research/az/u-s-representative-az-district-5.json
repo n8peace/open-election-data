@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Elizabeth Lee",
-      "party": "Democratic"
-    },
-    {
       "name": "Mark Lamb",
       "party": "Republican"
+    },
+    {
+      "name": "Elizabeth Lee",
+      "party": "Democratic"
     }
   ]
 }
