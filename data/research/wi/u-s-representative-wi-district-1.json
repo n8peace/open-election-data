@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Bryan Steil",
-      "party": "Republican"
-    },
-    {
       "name": "Mitchell Berman",
       "party": "Democratic"
+    },
+    {
+      "name": "Bryan Steil",
+      "party": "Republican"
     }
   ]
 }

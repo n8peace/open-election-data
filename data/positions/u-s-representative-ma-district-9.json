@@ -1,0 +1,160 @@
+{
+  "office": "U.S. Representative",
+  "district": "MA District 9",
+  "division": "ma/cd-9",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Bill Keating",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Keating supported the Inflation Reduction Act, which funds health and climate measures partly through a minimum corporate tax and tax enforcement.",
+          "quote": "All of this is paid for by establishing a minimum corporate tax to ensure that the wealthiest corporations finally start to pay their fair share",
+          "sourceUrl": "https://keatingforcongress.com/accomplishments",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Keating voted for the Raise the Wage Act.",
+          "quote": "Raise the Wage Act Vote Type: Recorded Vote Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "His campaign says he challenges Trump’s tariffs because they raise prices and harm small businesses.",
+          "quote": "He is challenging Trump’s tariffs, which increase prices on everyday goods and harm small businesses",
+          "sourceUrl": "https://keatingforcongress.com/meet-bill",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "His campaign says he has fought to protect Social Security and Medicare.",
+          "quote": "Additionally, he has fought to protect Social Security and Medicare, defend reproductive rights, and support veterans and military families.",
+          "sourceUrl": "https://keatingforcongress.com/meet-bill",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Keating said he has supported investing in affordable housing and the workforce needed to build it.",
+          "quote": "investing in affordable housing and the skilled workforce needed to build it",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=72660292",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Keating asked the administration to halt removal of an asylum applicant until his claim was decided.",
+          "quote": "demanding an immediate halt to any efforts to remove him from the United States until his asylum claim is decided.",
+          "sourceUrl": "https://keating.house.gov/mendezstatement",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He supported the Bipartisan Safer Communities Act and said he supports reinstating the assault-weapons ban.",
+          "quote": "including requiring people under 21 to undergo enhanced background checks, closing the “boyfriend loophole,” and providing funding to address youth mental health.",
+          "sourceUrl": "https://keatingforcongress.com/accomplishments",
+          "agreement": "3/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "Keating voted for the MORE Act, which would decriminalize cannabis federally.",
+          "quote": "MORE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Keating said he has supported Community Health Centers and cosponsored Medicare for All.",
+          "quote": "supporting Community Health Centers, and cosponsoring Medicare for All.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=72660292",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Keating supports renewable-energy investments, including offshore wind, and says they reduce emissions and dependence on fossil-fuel markets.",
+          "quote": "I will continue fighting for investments in renewable energy, including offshore wind, which lowers energy costs, creates good-paying jobs, and reduces our dependence on volatile global fossil fuel markets.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=72660292",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Keating supports the Freedom to Vote Act and restoring Voting Rights Act protections.",
+          "quote": "I support restoring the protections of the Voting Rights Act through the John R. Lewis Voting Rights Advancement Act and the Freedom to Vote Act",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=72660292",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "R. Tyler Macallister",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "He says he will fight to lower taxes and cut unnecessary regulation for small businesses.",
+          "quote": "He will fight to cut unnecessary red tape, lower taxes, protect local industries, and create an economy where small businesses can grow, hire, and thrive.",
+          "sourceUrl": "https://www.electtylermacallister.com/blank-2",
+          "agreement": "2/3"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "He says he will protect the benefits seniors have earned, without specifying Social Security or Medicare.",
+          "quote": "Honor the promises made to those who served and protect the benefits seniors have earned over a lifetime.",
+          "sourceUrl": "https://macallister4congress.com/",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "He says he will back local police and common-sense safety standards.",
+          "quote": "Tyler will back our local police, stand up for common-sense child-safety standards, and fight to keep the communities of the 9th District places where our kids can grow up secure.",
+          "sourceUrl": "https://macallister4congress.com/solutions/",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supports an all-of-the-above energy approach and says he will work to lower energy costs.",
+          "quote": "Tyler backs an all-of-the-above energy approach that puts reliable, affordable power ahead of ideology — and works to drive our sky-high energy costs back down.",
+          "sourceUrl": "https://macallister4congress.com/solutions/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "keatingforcongress.com · clerk.house.gov · onyourballot.vote411.org · keating.house.gov · electtylermacallister.com · macallister4congress.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

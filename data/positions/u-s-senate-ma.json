@@ -1,0 +1,316 @@
+{
+  "office": "U.S. Senate",
+  "district": "MA",
+  "division": "ma/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Edward J. Markey",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He supports raising taxes on the wealthiest and closing corporate tax loopholes.",
+          "quote": "I support raising taxes on the wealthiest and closing loopholes",
+          "sourceUrl": "https://www.progressivemass.com/wp-content/uploads/2026/02/Ed-Markey-2026-PM-CONGRESSIONAL-Questionnaire.docx.pdf",
+          "agreement": "7/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He backed raising the federal minimum wage to $15 an hour and closing the tipped-worker subminimum-wage loophole.",
+          "quote": "co-sponsored a Senate bill with Senator Bernie Sanders (I-VT) to more than double the $7.25 an hour required under current law",
+          "sourceUrl": "https://www.markey.senate.gov/news/press-releases/markey-joins-sanders-on-bill-for-15-an-hour-minimum-wage",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Markey introduced legislation requiring refunds of tariffs he described as illegal tariff taxes.",
+          "quote": "Trump’s illegal tariff taxes cost small businesses, consumers, and families up to $175 billion.",
+          "sourceUrl": "https://www.markey.senate.gov/news/press-releases/markey-wyden-shaheen-and-19-senate-democrats-release-legislation-requiring-refunds-of-trumps-illegal-tariffs",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He cosponsored legislation to reverse Social Security cuts and preserve access to earned benefits.",
+          "quote": "These are benefits Americans have earned and deserve.",
+          "sourceUrl": "https://www.markey.senate.gov/news/press-releases/markey-cosponsors-bill-to-reverse-the-cuts-trump-and-musk-made-to-social-security-and-protect-benefits",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He reintroduced legislation to expand public housing and increase the number of available units.",
+          "quote": "The Green New Deal for Public Housing Act sets forward a plan to make housing safer, more sustainable, and more affordable",
+          "sourceUrl": "https://www.markey.senate.gov/news/press-releases/markey-joins-sanders-and-ocasio-cortez-in-reintroducing-green-new-deal-for-public-housing-act",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He introduced legislation to invest in public schools and upgrade public school buildings.",
+          "quote": "legislation that would invest $1.6 trillion over the next decade in public and Bureau of Indian Education schools",
+          "sourceUrl": "https://www.markey.senate.gov/news/press-releases/sen-markey-rep-bowman-unveil-green-new-deal-for-public-schools",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "He joined legislation to invest in supportive school climates and address over-policing in K–12 schools.",
+          "quote": "legislation that would invest in safe and nurturing school climates that support all students and address over-policing in our nation’s K-12 schools",
+          "sourceUrl": "https://www.markey.senate.gov/news/press-releases/markey-joins-murphy-pressley-in-announcing-bicameral-legislation-to-end-criminalization-of-students-invest-in-counselors-safer-environment-for-kids",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports a pathway to citizenship for several immigrant groups and opposes expanding deportation and detention.",
+          "quote": "I support a pathway to citizenship for Dreamers, TPS holders, essential workers, and undocumented immigrants",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=72660328",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "His campaign supports assault-weapons and high-capacity-magazine bans, stronger background checks, and safe-storage requirements.",
+          "quote": "Ed is fighting for commonsense gun safety laws that save lives, protect kids, and keep communities safe by treating gun violence like the public-health emergency it is",
+          "sourceUrl": "https://www.edmarkey.com/issues-priorities/justice-safety-for-all/",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He introduced legislation to guarantee abortion access nationwide and restore reproductive health care rights.",
+          "quote": "legislation to guarantee access to abortion everywhere across the country and restore the right to comprehensive reproductive health care",
+          "sourceUrl": "https://www.markey.senate.gov/news/press-releases/on-3rd-anniversary-of-roe-being-overturned-markey-joins-senate-dems-in-a-bill-to-restore-abortion-access-nationwide",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "He joined a court brief arguing that categorical bans on transgender students participating in sports violate federal protections.",
+          "quote": "categorical bans on transgender students participating in school sports violate Title IX and the Equal Protection Clause",
+          "sourceUrl": "https://www.markey.senate.gov/news/press-releases/markey-joins-hirono-balint-fernandez-colleagues-in-urging-scotus-to-protect-transgender-rights",
+          "agreement": "9/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "Markey cosponsored legislation to decriminalize and deschedule cannabis.",
+          "quote": "To decriminalize and deschedule cannabis, to provide for reinvestment in certain persons adversely impacted by the War on Drugs, to provide for expungement of certain cannabis offenses, and for other purposes.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119s5022is/related",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Markey cosponsored Medicare for All legislation for a federally administered national health-insurance program.",
+          "quote": "The Medicare for All Act of 2022 establishes a federally administered national health insurance program that would ensure quality and comprehensive health care to all.",
+          "sourceUrl": "https://www.markey.senate.gov/news/press-releases/markey-joins-sanders-in-introduction-of-medicare-for-all-with-14-colleagues-in-the-senate",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He supports a 10-year mobilization to address the climate crisis and reduce pollution.",
+          "quote": "The Green New Deal proposes to tackle the climate crisis with a 10-year mobilization",
+          "sourceUrl": "https://www.markey.senate.gov/news/press-releases/markey-and-ocasio-cortez-reintroduce-green-new-deal-resolution",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He introduced legislation requiring same-day voter registration at polling places on Election Day and during early voting.",
+          "quote": "The Same Day Voter Registration Act would require states to offer same day registration at polling locations on Election Day and during early voting.",
+          "sourceUrl": "https://www.markey.senate.gov/news/press-releases/on-national-voter-registration-day-markey-klobuchar-colleagues-introduce-legislation-to-make-registering-to-vote-easier-for-all-americans",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "John Deaton",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "He says his health-care reforms can be carried out without raising taxes.",
+          "quote": "All of this can be done without growing Washington's bureaucracy or raising taxes.",
+          "sourceUrl": "https://www.johndeatonforsenate.com/issues",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He says current retirees’ Social Security benefits should remain unchanged, while proposing a gradual retirement-age increase for future workers and higher contributions from higher earners.",
+          "quote": "For those who are retired, nearing retirement, or depend on these benefits today, nothing changes.",
+          "sourceUrl": "https://www.johndeatonforsenate.com/issues",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He supports permitting reform and cutting red tape to make housing development easier and lower costs.",
+          "quote": "I support permitting reform that sets real deadlines for local and state approval,",
+          "sourceUrl": "https://www.johndeatonforsenate.com/issues",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He lists school choice among the policies he would pursue to address rising costs.",
+          "quote": "I’ll also push healthcare price transparency, PBM reform, broader Medicare drug negotiation, expanded telehealth, housing tax credits with zoning reform, childcare tax credits, vocational training, school choice, and lower regulatory costs for food.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=72660328",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He calls for stricter border enforcement while supporting expanded legal immigration and an earned pathway for some Dreamers.",
+          "quote": "I will fight to secure the border, end catch-and-release, and reform the asylum process while expanding legal immigration.",
+          "sourceUrl": "https://www.johndeatonforsenate.com/issues",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports codifying Roe’s protections in federal law and says he would oppose a federal abortion ban.",
+          "quote": "Since the fall of Roe in 2022, I've consistently supported codifying the protections of Roe into federal law,",
+          "sourceUrl": "https://www.johndeatonforsenate.com/issues",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He prioritizes lower energy costs and protecting jobs while supporting a mix of cleaner energy sources, including nuclear power.",
+          "quote": "I will oppose extreme policies like the Green New Deal and support balanced solutions that lower energy costs, protect jobs, and move us toward cleaner, affordable American energy.",
+          "sourceUrl": "https://www.johndeatonforsenate.com/issues",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports free voter identification and transparent election processes, while opposing measures that make voting harder for eligible citizens.",
+          "quote": "At the same time, I reject any effort that makes voting harder for eligible citizens.",
+          "sourceUrl": "https://www.johndeatonforsenate.com/issues",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Shiva Ayyadurai",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "His campaign platform calls for tax cuts for families and small businesses.",
+          "quote": "Cut taxes for families and small business so you can afford clean food, safe housing, and healthcare that actually extends your lifespan.",
+          "sourceUrl": "https://shiva4senate.com/platform/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He supports gun owners’ constitutional rights and opposes infringing on those rights.",
+          "quote": "Most gun owners are law abiding citizens. We must protect their constitutional rights.",
+          "sourceUrl": "https://shiva4senate.com/real-solutions-to-real-problems/",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "His platform supports same-day voting as well as voter ID, combining an easier-voting measure with a tighter-rule measure.",
+          "quote": "Paper ballots, hand-counting, same-day voting, Voter ID. Transparent elections are the immune system of a republic.",
+          "sourceUrl": "https://shiva4senate.com/platform/",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Joe Tache",
+      "party": "Socialism and Liberation",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports raising the federal minimum wage and proposes a $30 hourly minimum wage in Massachusetts.",
+          "quote": "In Massachusetts, $30 per hour is the necessary minimum wage to live a dignified life in our state.",
+          "sourceUrl": "https://www.progressivemass.com/wp-content/uploads/2026/02/Joe-Tache-2026-PM-CONGRESSIONAL-Questionnaire.docx-2.pdf",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He proposes new public housing and supports using federal funding to end exclusionary zoning.",
+          "quote": "We can also guarantee people's rights to the homes they live by canceling mortgage debt that traps working families in cycles of financial precarity. By redistributing the wealth that working people create, we can create a massive federally funded development of new dignified public housing.",
+          "sourceUrl": "https://www.progressivemass.com/wp-content/uploads/2026/02/Joe-Tache-2026-PM-CONGRESSIONAL-Questionnaire.docx-2.pdf",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He advocates increased resources for public schools and opposes expanding vouchers and charter schools.",
+          "quote": "The federal government must establish a baseline budget that guarantees every public school, regardless of zip code, receives adequate funding to provide a high-quality education.",
+          "sourceUrl": "https://www.progressivemass.com/wp-content/uploads/2026/02/Joe-Tache-2026-PM-CONGRESSIONAL-Questionnaire.docx-2.pdf",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He proposes abolishing ICE and providing a path to citizenship for people living in the United States.",
+          "quote": "Abolishing ICE and providing a path to citizenship for every person living inside the United States",
+          "sourceUrl": "https://www.tache4ma.com/our-program",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He says he would codify abortion rights, repeal the Hyde Amendment, and oppose restrictions on medication abortion.",
+          "quote": "I will fight to codify the right to abortion in federal law, repeal the Hyde Amendment so federal funds can pay for abortion care, and block any attempt to revive the Comstock Act to criminalize mailing mifepristone.",
+          "sourceUrl": "https://www.mass50501.org/blog/get-to-know-your-candidates-the-race-for-the-senate",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports a single-payer system and expanding Medicare coverage for dental, vision, and hearing care.",
+          "quote": "A single-payer healthcare system is the only responsible way to use society’s resources in the health system.",
+          "sourceUrl": "https://www.progressivemass.com/wp-content/uploads/2026/02/Joe-Tache-2026-PM-CONGRESSIONAL-Questionnaire.docx-2.pdf",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He proposes a renewable energy buildout and supports 100% clean energy by 2035 and limits on new fossil fuel development.",
+          "quote": "our platform proposes a National Climate Emergency Act to seize and decommission the billionaires' fossil fuel infrastructure and build a renewable energy grid in its place.",
+          "sourceUrl": "https://www.progressivemass.com/wp-content/uploads/2026/02/Joe-Tache-2026-PM-CONGRESSIONAL-Questionnaire.docx-2.pdf",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "progressivemass.com · markey.senate.gov · onyourballot.vote411.org · edmarkey.com · govinfo.gov · johndeatonforsenate.com · shiva4senate.com · tache4ma.com · mass50501.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

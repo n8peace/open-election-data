@@ -1,0 +1,192 @@
+{
+  "office": "U.S. Representative",
+  "district": "MA District 6",
+  "division": "ma/cd-6",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Micah Quinney Jones",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "He pledged childcare-related tax relief and expanded state and local tax relief for households.",
+          "quote": "Raise and modernize the State and Local Tax (“SALT”) relief in ways that reflect high-cost realities and protect households",
+          "sourceUrl": "https://micahqjones.com/opportunity-plan/",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports open trade to reduce costs while also seeking protections for national-security supply chains.",
+          "quote": "Support open, competitive trade where it reduces costs and expands opportunity",
+          "sourceUrl": "https://micahqjones.com/opportunity-plan/",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He says slow permitting raises housing costs and pledges to prioritize housing-enabling infrastructure and increase supply.",
+          "quote": "Outcome we're aiming for: More housing supply, faster innovation, and lower artificial restraints that raise costs",
+          "sourceUrl": "https://micahqjones.com/opportunity-plan/",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports law enforcement recruitment and retention as well as violence prevention and coordinated mental health response.",
+          "quote": "Invest in targeted violence prevention and coordinated mental health response systems.",
+          "sourceUrl": "https://micahqjones.com/security-plan/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He proposes stronger border enforcement alongside modernizing legal immigration, reducing backlogs, and providing due process.",
+          "quote": "Authorize the strengthening of border enforcement with better staffing, technology, and faster adjudication",
+          "sourceUrl": "https://micahqjones.com/security-plan/",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He opposes Medicare for All, supports keeping private insurance options, and opposes cuts to Medicare and Medicaid.",
+          "quote": "He said he opposes cuts to Medicare and Medicaid, supports protections for people with pre-existing conditions, and believes the country must preserve a safety net for vulnerable residents. He favors maintaining private insurance while expanding consumer choices.",
+          "sourceUrl": "https://lynnfieldweeklynews.com/2026/09/22/a-conversation-with-micah-jones/",
+          "agreement": "4/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He prioritizes lower energy costs and reliability, including LNG infrastructure, while supporting nuclear and renewable energy development.",
+          "quote": "I will advocate to surge federal resources to expand critical Liquified Natural Gas (“LNG”) infrastructure between the Marcellus Shale formation in North Eastern Pennsylvania to New England.",
+          "sourceUrl": "https://micahqjones.com/opportunity-plan/",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports reasonable voter-identification requirements while also seeking practical access for eligible voters and accurate election administration.",
+          "quote": "I also support reasonable voter identification requirements while ensuring every eligible voter has a practical opportunity to obtain the identification necessary to vote.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=72660305",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Dan Koh",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Koh supports raising the federal corporate tax rate to help fund programs and reduce the deficit.",
+          "quote": "Koh supports raising the federal corporate tax rate from 21% to 28% to help pay for the programs and reduce the federal deficit.",
+          "sourceUrl": "https://marbleheadweeklynews.com/a-conversation-with-dan-koh/",
+          "agreement": "6/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He says he would support unions, fair wages, and workers’ right to bargain collectively.",
+          "quote": "I'll continue fighting every day for fair wages, strong benefits, and the right of every worker to bargain collectively.",
+          "sourceUrl": "https://www.kohforcongress.com/news/teamsters-local-3-endorses-dan-koh",
+          "agreement": "7/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He called for ending Trump's tariffs because he said they raise prices.",
+          "quote": "We need to stop Donald Trump's insane tariffs that are driving prices up.",
+          "sourceUrl": "https://www.linkedin.com/posts/danielakoh_my-name-is-dan-koh-and-im-running-for-congress-activity-7384553603035942913-6eYt",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He wants to strengthen Social Security by collecting additional payroll taxes on income above $400,000.",
+          "quote": "Koh also wants Congress to strengthen Social Security by collecting additional payroll taxes on income above $400,000.",
+          "sourceUrl": "https://marbleheadweeklynews.com/a-conversation-with-dan-koh/",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He supports easier permitting, affordable-housing investment, and zoning changes for smaller homes.",
+          "quote": "Housing will become more affordable if we prioritize building more homes that people can actually afford.",
+          "sourceUrl": "https://www.kohforcongress.com/issues/affordable-housing",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports an earned citizenship pathway for long-term undocumented immigrants and opposes expanding funding for mass detention and deportations.",
+          "quote": "Congress must pass comprehensive immigration reform by creating an earned pathway to citizenship for long-term undocumented immigrants, including Dreamers and TPS holders, reducing visa backlogs, and expanding processing capacity.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=72660305",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He supports an assault weapons ban, universal background checks, and red flag laws.",
+          "quote": "I support an assault weapons ban, universal background checks, and red flag laws.",
+          "sourceUrl": "https://www.kohforcongress.com/issues/gun-safety",
+          "agreement": "10/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, he said he supported Massachusetts legalization and would support nationwide legalization.",
+          "quote": "Yes. I supported legalizing marijuana in Massachusetts, and I would support legalizing it nationwide.",
+          "sourceUrl": "https://www.progressivemass.com/wp-content/uploads/2021/03/2018_CD03_Dan-Koh.pdf",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports a Medicare for All system that enrolls Americans by default while allowing people to keep private insurance if they wish.",
+          "quote": "I support universal healthcare – and a Medicare for All system that enrolls all Americans by default and preserves private insurance if desired.",
+          "sourceUrl": "https://www.kohforcongress.com/issues/healthcare",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He supports continuing the clean energy transition and reducing dependence on fossil fuels.",
+          "quote": "We must continue the clean energy transition, reduce our dependence on fossil fuels, and leave future generations a world where they can thrive.",
+          "sourceUrl": "https://www.kohforcongress.com/issues/climate-change",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He supports protecting access to early and mail voting and strengthening the Voting Rights Act.",
+          "quote": "The House must fight back by restoring and strengthening the Voting Rights Act, protecting access to early and mail voting, and preventing the administration from withholding federal funding to pressure states into adopting restrictive voting policies.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=72660305",
+          "agreement": "3/10"
+        }
+      }
+    }
+  ],
+  "sources": "micahqjones.com · lynnfieldweeklynews.com · onyourballot.vote411.org · marbleheadweeklynews.com · kohforcongress.com · linkedin.com · progressivemass.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
