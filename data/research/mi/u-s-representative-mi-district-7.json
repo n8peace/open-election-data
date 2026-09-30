@@ -6,11 +6,15 @@
   "choices": [
     {
       "name": "William Lawrence",
-      "party": "Democratic"
+      "party": "Democratic Party"
     },
     {
       "name": "Tom Barrett",
-      "party": "Republican"
+      "party": "Republican Party"
+    },
+    {
+      "name": "Shane Dedrick",
+      "party": "Green Party"
     }
   ]
 }

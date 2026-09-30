@@ -6,11 +6,19 @@
   "choices": [
     {
       "name": "Ben Ambrose",
-      "party": "Democratic"
+      "party": "Democratic Party"
     },
     {
       "name": "John Moolenaar",
-      "party": "Republican"
+      "party": "Republican Party"
+    },
+    {
+      "name": "Charlotte Magoon",
+      "party": "Green Party"
+    },
+    {
+      "name": "Richard Sills",
+      "party": "Natural Law Party"
     }
   ]
 }

@@ -5,8 +5,24 @@
   "kind": "candidate",
   "choices": [
     {
+      "name": "Christina Bertrand Hines",
+      "party": "Democratic Party"
+    },
+    {
       "name": "Michael Bouchard",
-      "party": "Republican"
+      "party": "Republican Party"
+    },
+    {
+      "name": "Mike Saliba",
+      "party": "Libertarian Party"
+    },
+    {
+      "name": "Kwabena Nkromo",
+      "party": "Green Party"
+    },
+    {
+      "name": "Andrea L. Kirby",
+      "party": "Working Class Party"
     }
   ]
 }

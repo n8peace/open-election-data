@@ -1,0 +1,278 @@
+{
+  "office": "U.S. Representative",
+  "district": "OH District 15",
+  "division": "oh/cd-15",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Don Leonard",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He criticized tax breaks occurring while safety nets and public schools are cut for deficit reduction.",
+          "quote": "While corporations and billionaires get trade deals, government bailouts and tax breaks, Ohio’s safety nets and public schools get gutted in the name of deficit reduction.",
+          "sourceUrl": "https://donforohio.com/",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "His campaign calls for raising wages.",
+          "quote": "Reject the culture wars. Secure the border. Respect immigrants. Lower costs, raise wages, and build a better future together.",
+          "sourceUrl": "https://donforohio.com/values",
+          "agreement": "5/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He said Trump's tariff policy threatened prices, supply chains, and retirement savings.",
+          "quote": "Trump’s sloppy tariff war was threatening to drive up prices, crash the supply chain, and wipe out everyone’s retirement savings.",
+          "sourceUrl": "https://donforohio.com/bio",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "His campaign criticizes cutting safety nets and public schools in the name of deficit reduction.",
+          "quote": "Ohio’s safety nets and public schools get gutted in the name of deficit reduction.",
+          "sourceUrl": "https://donforohio.com/",
+          "agreement": "3/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He proposed doubling starter-home construction through federal incentives.",
+          "quote": "Double the rate of starter-home construction through federal incentives.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=72021751",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He criticized cuts to public schools made in the name of deficit reduction.",
+          "quote": "While corporations and billionaires get trade deals, government bailouts and tax breaks, Ohio’s safety nets and public schools get gutted in the name of deficit reduction.",
+          "sourceUrl": "https://donforohio.com/",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "His campaign pairs securing the border with respecting immigrants.",
+          "quote": "Reject the culture wars. Secure the border. Respect immigrants. Lower costs, raise wages, and build a better future together.",
+          "sourceUrl": "https://donforohio.com/values",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He proposed a public health insurance option for working families.",
+          "quote": "Cut the cost of private health insurance in half and offer all working families a public option.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=72021751",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He said he would seek to reverse restrictive voter ID laws and improve eligible-voter enfranchisement.",
+          "quote": "Conversely, we need to do a better job of enfranchising eligible voters.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=72021751",
+          "agreement": "3/10"
+        }
+      }
+    },
+    {
+      "name": "Mike Carey",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Carey backed tax cuts and supported making provisions of the 2017 Tax Cuts and Jobs Act permanent.",
+          "quote": "American families and small businesses need tax relief to make ends meet today and plan for tomorrow.",
+          "sourceUrl": "https://carey.house.gov/priorities/",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Carey says he wants to strengthen Social Security and ensure seniors receive earned benefits.",
+          "quote": "Mike is committed to strengthening Social Security and ensuring seniors receive the benefits they have earned.",
+          "sourceUrl": "https://www.careyforcongress.com/priorities",
+          "agreement": "3/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He introduced a bill to expand a low-income housing tax credit and support development of more affordable housing.",
+          "quote": "Expanding the LIHTC carryback period to five years will provide greater certainty for investors, strengthen the housing credit market, and help support the development of more affordable housing across the country.",
+          "sourceUrl": "https://carey.house.gov/2026/05/29/carey-panetta-introduce-the-affordable-housing-credit-carryback-act/",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Carey supports law enforcement and has backed legislation to recruit and retain police officers.",
+          "quote": "Mike supports law enforcement, secure borders, and policies that keep Ohio families and neighborhoods safe.",
+          "sourceUrl": "https://www.careyforcongress.com/priorities",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He strongly supported a border wall and infrastructure intended to control entry and exit from the United States.",
+          "quote": "I am in favor of construction of a wall and other necessary infrastructure on our border that gives complete control over entering and exiting the United States.",
+          "sourceUrl": "https://ivoterguide.com/candidate/58674/race/12877/election/854",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He said no additional gun-ownership restrictions are needed.",
+          "quote": "What restrictions on gun ownership are needed to protect public safety? No further restrictions on gun ownership are needed.",
+          "sourceUrl": "https://ivoterguide.com/candidate/58674/race/12877/election/854",
+          "agreement": "5/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He said it is a duty to protect unborn people after the Supreme Court's Dobbs decision.",
+          "quote": "I believe it is our duty to protect every person’s God-given right to life, liberty, and the pursuit of happiness, including the unborn.",
+          "sourceUrl": "https://carey.house.gov/2022/06/24/congressman-mike-careys-statement-dobbs-v-jackson-womens-health-organization/",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "Carey voted for the Protection of Women and Girls in Sports Act, which bases school sports eligibility on sex at birth.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2023192",
+          "agreement": "9/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "Carey voted against the MORE Act, which would have decriminalized and descheduled cannabis federally.",
+          "quote": "Vote Question: On Passage\nMORE Act\nVote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Carey voted to extend enhanced ACA plan tax credits while criticizing the ACA and calling for more affordable health care options.",
+          "quote": "The cost of health care is still too high because of the failed Obamacare policies that removed choice and raised premiums with punishing government mandates on our working families.",
+          "sourceUrl": "https://carey.house.gov/2026/01/08/carey-statement-on-unaffordable-aca-subsidy-extension-vote/",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Carey supports expanding domestic energy production and says it will lower consumer prices.",
+          "quote": "All-of-the-above energy, produced here at home, will bring down consumer prices, end dependence on our adversaries for key resources and safeguard our national security.",
+          "sourceUrl": "https://carey.house.gov/priorities/",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Carey opposed federal election legislation, objecting to provisions that would disregard state voter ID laws and legalize ballot harvesting.",
+          "quote": "Among the many outrageous provisions of this legislation, Democrats would disregard state voter identification laws, legalize ballot harvesting, and authorize billions of tax dollars to fund political campaigns.",
+          "sourceUrl": "https://carey.house.gov/2022/01/13/mike-carey-statement-opposing-democrat-attempt-nationalize-elections/",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Brennan Barrington",
+      "party": "Libertarian",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "He opposed higher taxes, arguing they discourage productivity and fund ineffective government programs.",
+          "quote": "Higher taxes (especially on those who \"can afford\" to pay them) disincentivize productivity and take from those who have proven the ability to allocate capital well to fund state organizations with no personal incentives to be effective and no fear of discontinuation for being ineffective.",
+          "sourceUrl": "https://ivoterguide.com/candidate/93275/race/30029/election/1452",
+          "agreement": "4/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He called for free trade and unilateral reductions in tariffs and other barriers, with an exception for pollution.",
+          "quote": "The USA should pursue free trade with all, unilaterally lowering tariffs and barriers, except to deter pollution.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=72021751",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He strongly agreed that the government should cut spending to reduce the national debt and identified Medicare spending as a potential cut.",
+          "quote": "The government should cut spending in order to reduce the national debt. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/93275/race/30029/election/1452",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He said federal policy should encourage repeal of zoning and other rules that block denser housing and use of existing homes.",
+          "quote": "Federal policies should incentivize repealing these anti-housing laws.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=72021751",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He said firearm restrictions should be limited and called for ending the ban on sales of newly manufactured fully automatic weapons to vetted civilians.",
+          "quote": "Given the realities of widespread gun possession, law-abiding citizens should be empowered to protect themselves.",
+          "sourceUrl": "https://ivoterguide.com/candidate/93275/race/30029/election/1452",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "He strongly opposed enforcing the Comstock Act, which bans interstate transportation of abortion-inducing drugs.",
+          "quote": "The Comstock Act, which bans interstate transportation of abortion-inducing drugs, should be enforced. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/93275/race/30029/election/1452",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He said sports and facility operators should decide participation case by case, while government should neither require nor prohibit inclusion.",
+          "quote": "The organizations managing such activities or facilities should determine what is best for the safety, comfort, and mental health of their users on a case-by-case basis. Government should neither prohibit nor require allowing this.",
+          "sourceUrl": "https://ivoterguide.com/candidate/93275/race/30029/election/1452",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He said Medicare should be limited to what its tax funds and Medicaid kept for children, placing his answer between maintaining and abolishing public coverage.",
+          "quote": "Between C and D: Medicare should be cut to what the Medicare tax funds, and Medicaid kept in place for children.",
+          "sourceUrl": "https://ivoterguide.com/candidate/93275/race/30029/election/1452",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "donforohio.com · onyourballot.vote411.org · carey.house.gov · careyforcongress.com · ivoterguide.com · clerk.house.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

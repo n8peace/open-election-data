@@ -6,11 +6,23 @@
   "choices": [
     {
       "name": "Kristen McDonald Rivet",
-      "party": "Democratic"
+      "party": "Democratic Party"
     },
     {
       "name": "Thomas J. Smith",
-      "party": "Republican"
+      "party": "Republican Party"
+    },
+    {
+      "name": "C. Mia Pettus",
+      "party": "Libertarian Party"
+    },
+    {
+      "name": "Jim Casha",
+      "party": "Green Party"
+    },
+    {
+      "name": "Kathy Goodwin",
+      "party": "Working Class Party"
     }
   ]
 }

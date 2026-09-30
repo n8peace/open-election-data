@@ -6,11 +6,27 @@
   "choices": [
     {
       "name": "Ray Pooley",
-      "party": "Democratic"
+      "party": "Democratic Party"
     },
     {
       "name": "Lisa McClain",
-      "party": "Republican"
+      "party": "Republican Party"
+    },
+    {
+      "name": "Kevin Vayko",
+      "party": "Libertarian Party"
+    },
+    {
+      "name": "John Vlahos",
+      "party": "U.S. Taxpayers Party"
+    },
+    {
+      "name": "Destiny Clayton",
+      "party": "Green Party"
+    },
+    {
+      "name": "Jim Walkowicz",
+      "party": "Working Class Party"
     }
   ]
 }

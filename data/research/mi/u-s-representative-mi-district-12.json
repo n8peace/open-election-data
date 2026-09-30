@@ -6,11 +6,23 @@
   "choices": [
     {
       "name": "Rashida Tlaib",
-      "party": "Democratic"
+      "party": "Democratic Party"
     },
     {
-      "name": "James Hooper",
-      "party": "Republican"
+      "name": "James D. Hooper",
+      "party": "Republican Party"
+    },
+    {
+      "name": "Marc Joseph Sosnowski",
+      "party": "U.S. Taxpayers Party"
+    },
+    {
+      "name": "Brenda K. Sanders",
+      "party": "Green Party"
+    },
+    {
+      "name": "Gary Walkowicz",
+      "party": "Working Class Party"
     }
   ]
 }

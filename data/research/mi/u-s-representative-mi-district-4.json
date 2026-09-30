@@ -6,11 +6,15 @@
   "choices": [
     {
       "name": "Sean McCann",
-      "party": "Democratic"
+      "party": "Democratic Party"
     },
     {
       "name": "Bill Huizenga",
-      "party": "Republican"
+      "party": "Republican Party"
+    },
+    {
+      "name": "Shafina Che Barnett",
+      "party": "Green Party"
     }
   ]
 }

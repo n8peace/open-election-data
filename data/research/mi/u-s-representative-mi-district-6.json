@@ -6,11 +6,27 @@
   "choices": [
     {
       "name": "Debbie Dingell",
-      "party": "Democratic"
+      "party": "Democratic Party"
     },
     {
       "name": "Heather Smiley",
-      "party": "Republican"
+      "party": "Republican Party"
+    },
+    {
+      "name": "Timothy A. Teagan",
+      "party": "Libertarian Party"
+    },
+    {
+      "name": "Mike Mickevicius",
+      "party": "U.S. Taxpayers Party"
+    },
+    {
+      "name": "Clyde Shabazz",
+      "party": "Green Party"
+    },
+    {
+      "name": "Linda Rayburn",
+      "party": "Working Class Party"
     }
   ]
 }

@@ -1,0 +1,208 @@
+{
+  "office": "U.S. Representative",
+  "district": "OH District 14",
+  "division": "oh/cd-14",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Maria Jukic",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "She supports making corporations and investment income contribute more rather than cutting programs for working families.",
+          "quote": "Maria supports closing those loopholes, cracking down on offshore tax shelters, and making sure corporations that profit from American workers and infrastructure actually pay their fair share.",
+          "sourceUrl": "https://www.mariajukicforcongress.com/tax-policy-for-the-paycheck-not-the-portfolio/",
+          "agreement": "7/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supports raising the federal minimum wage and protecting overtime pay.",
+          "quote": "Maria also supports raising the federal minimum wage so that work pays — reducing the need for government assistance and putting more money into the hands of people who will spend it in their local communities.",
+          "sourceUrl": "https://www.mariajukicforcongress.com/tax-policy-for-the-paycheck-not-the-portfolio/",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She favors deficit reduction through tax reform rather than cuts to Social Security or Medicare.",
+          "quote": "She believes the path to fiscal responsibility runs through a fairer tax code that generates adequate revenue, not through cutting Social Security, Medicare, or programs that working families depend on.",
+          "sourceUrl": "https://www.mariajukicforcongress.com/tax-policy-for-the-paycheck-not-the-portfolio/",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She proposes expanding the Low-Income Housing Tax Credit and investing in new construction to lower housing costs.",
+          "quote": "Lower housing costs by expanding the Low-Income Housing Tax Credit and investing in new construction, because the only lasting fix for rent is more homes.",
+          "sourceUrl": "https://www.mariajukicforcongress.com/cost-of-living/",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports restoring the Department of Education and funding public early-childhood and student-support programs.",
+          "quote": "I would restore the Department of Education and its important programs; fund universal pre-school programs for 4-year olds; provide support resources and wraparound services; work with local communities; and encourage innovation.",
+          "sourceUrl": "https://www.ideastream.org/u-s-representative-district-14",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She supports a pathway to citizenship and expanding legal visa options for essential workers.",
+          "quote": "Maria supports a fair, structured pathway to citizenship for immigrants who live, work, and contribute to our communities — especially those who have been here for years and have American-born children.",
+          "sourceUrl": "https://www.mariajukicforcongress.com/immigration-constitutional-humane-and-smart/",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She proposes lowering Medicare eligibility to 62 and supports working toward universal health coverage.",
+          "quote": "Maria will work with colleagues on both sides of the aisle to lower the Medicare eligibility age from 65 to 62 — matching the earliest age a person can receive Social Security benefits.",
+          "sourceUrl": "https://www.mariajukicforcongress.com/healthcare-the-road-to-universal-coverage/",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports rapid clean-energy expansion while also prioritizing affordability, workers, and grid reliability during the fossil-fuel transition.",
+          "quote": "She supports a responsible all-of-the-above energy strategy that aggressively expands clean energy while managing the transition away from fossil fuels in a way that protects workers, keeps energy affordable, and maintains grid reliability.",
+          "sourceUrl": "https://www.mariajukicforcongress.com/environment-climate-change-protecting-whats-ours/",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "David P. Joyce",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Joyce opposed a spending bill he said would impose a large tax increase and backed tax cuts for working families.",
+          "quote": "I cannot support a bill that paves the way for nearly two trillion dollars in deficit spending on social programs and one of the largest tax increases in American history.",
+          "sourceUrl": "https://joyce.house.gov/posts/joyce-votes-to-block-speaker-pelosis-plan-to-advance-1-85-trillion-reconciliation-package",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Joyce criticized a federal minimum-wage increase, citing projected job losses, and voted against the bill containing it.",
+          "quote": "The legislation also includes a 107% hike to the minimum wage which, according to the nonpartisan Congressional Budget Office, would destroy 1.4 million jobs",
+          "sourceUrl": "https://joyce.house.gov/posts/joyce-condemns-wasteful-non-covid-related-spending-in-the-partisan-american-rescue-plan-act",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "He described tariffs as a tool for the president to use in pursuing the administration's agenda.",
+          "quote": "He’s using tariffs as more of a tool—some would say club—to get people in line.",
+          "sourceUrl": "https://spectrumnews1.com/oh/columbus/news/2025/05/06/bessent-trade-china-tariff",
+          "agreement": "3/10"
+        },
+        "debt": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He says Social Security and Medicare should be protected while also supporting reforms to keep them solvent.",
+          "quote": "Since day one, I have been committed to preserving and protecting Social Security and Medicare, both for today’s seniors and future generations of beneficiaries. These programs provide an important safety net and represent a promise between workers and their government",
+          "sourceUrl": "https://joyce.house.gov/resources/social-security-and-medicare",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "Joyce voted for the One Big Beautiful Bill Act, which established a federal tax credit for contributions to scholarship organizations serving K-12 students.",
+          "quote": "Vote Question: On Motion to Concur in the Senate Amendment One Big Beautiful Bill Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2025190",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He reintroduced legislation to establish joint border operations centers and said it would help secure borders and disrupt criminal networks.",
+          "quote": "This bill is a step towards restoring the rule of law and securing our borders by establishing critical joint operations centers",
+          "sourceUrl": "https://joyce.house.gov/posts/joyce-ciscomani-lee-pappas-re-introduce-bill-to-strengthen-law-enforcement-operations-at-the-southern-border",
+          "agreement": "6/10"
+        },
+        "guns": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Joyce voted for the Bipartisan Safer Communities Act while describing himself as a defender of gun rights who opposes partisan gun-control bills.",
+          "quote": "This commonsense, public safety bill proves that we can stop murderers without infringing on the rights of law-abiding Americans.",
+          "sourceUrl": "https://joyce.house.gov/posts/joyce-votes-to-preserve-freedom-make-american-communities-safer",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Joyce called the Supreme Court’s Dobbs decision a victory for states’ power to regulate abortion and for the sanctity of life.",
+          "quote": "Today’s Supreme Court decision is a long overdue victory for states’ rights and the sanctity of life.",
+          "sourceUrl": "https://joyce.house.gov/posts/joyce-issues-statement-on-scotus-dobbs-decision",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Joyce voted for the Protection of Women and Girls in Sports Act, which bases school sports eligibility on sex at birth.",
+          "quote": "Vote Question: On Passage Protection of Women and Girls in Sports Act Vote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "6/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Joyce introduced legislation to remove state-compliant cannabis from the federal Controlled Substances Act and create a regulatory framework.",
+          "quote": "My legislation answers the American people’s call for change and addresses our States’ need for clarity by creating an effective federal regulatory framework for cannabis",
+          "sourceUrl": "https://joyce.house.gov/posts/joyce-continues-to-lead-the-effort-to-responsibly-reform-outdated-federal-cannabis-policies",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Joyce said he favors a patient-centered system in which patients and doctors make care decisions without federal-government interference.",
+          "quote": "I firmly believe the best way to achieve that is to provide Americans with a patient-centered healthcare system in which patients and doctors can make decisions without interference from the federal government.",
+          "sourceUrl": "https://joyce.house.gov/resources/health-care",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Joyce backed expanding domestic oil and gas production to provide affordable energy, while also saying emissions can be reduced without sacrificing jobs.",
+          "quote": "By unleashing our domestic oil and gas production we can weaken Putin’s position of power, provide Americans with affordable energy, and reduce global CO2 emissions.",
+          "sourceUrl": "https://joyce.house.gov/posts/joyce-cosponsors-american-energy-independence-from-russia-act",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Joyce voted for legislation requiring photo ID for in-person federal voting and documentary proof of citizenship for federal voter registration.",
+          "quote": "Requiring voter ID in federal elections isn’t controversial; it’s common sense.",
+          "sourceUrl": "https://joyce.house.gov/posts/congressman-joyce-votes-to-secure-american-elections",
+          "agreement": "8/10"
+        }
+      }
+    }
+  ],
+  "sources": "mariajukicforcongress.com · ideastream.org · joyce.house.gov · spectrumnews1.com · clerk.house.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

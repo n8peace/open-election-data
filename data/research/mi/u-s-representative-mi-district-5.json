@@ -6,11 +6,23 @@
   "choices": [
     {
       "name": "Christian Vukasovich",
-      "party": "Democratic"
+      "party": "Democratic Party"
     },
     {
       "name": "Tim Walberg",
-      "party": "Republican"
+      "party": "Republican Party"
+    },
+    {
+      "name": "Ronald A Muszynski",
+      "party": "Libertarian Party"
+    },
+    {
+      "name": "Sharon Marie Renier",
+      "party": "U.S. Taxpayers Party"
+    },
+    {
+      "name": "Jim Bronke",
+      "party": "Green Party"
     }
   ]
 }

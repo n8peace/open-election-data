@@ -6,11 +6,31 @@
   "choices": [
     {
       "name": "Callie Barr",
-      "party": "Democratic"
+      "party": "Democratic Party"
     },
     {
       "name": "Jack Bergman",
-      "party": "Republican"
+      "party": "Republican Party"
+    },
+    {
+      "name": "Arnett Satterla",
+      "party": "Libertarian Party"
+    },
+    {
+      "name": "Doc Kovaly",
+      "party": "U.S. Taxpayers Party"
+    },
+    {
+      "name": "LaVeta Davenport",
+      "party": "Green Party"
+    },
+    {
+      "name": "Liz Hakola",
+      "party": "Working Class Party"
+    },
+    {
+      "name": "Zebulon Featherly",
+      "party": "No Party Affiliation"
     }
   ]
 }

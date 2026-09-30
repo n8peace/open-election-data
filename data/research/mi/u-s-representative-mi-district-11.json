@@ -6,11 +6,23 @@
   "choices": [
     {
       "name": "Jeremy Moss",
-      "party": "Democratic"
+      "party": "Democratic Party"
     },
     {
       "name": "Ethan Baker",
-      "party": "Republican"
+      "party": "Republican Party"
+    },
+    {
+      "name": "Farid Ishac",
+      "party": "Libertarian Party"
+    },
+    {
+      "name": "Ryan Teasdale",
+      "party": "Green Party"
+    },
+    {
+      "name": "Anil Kumar",
+      "party": "No Party Affiliation"
     }
   ]
 }

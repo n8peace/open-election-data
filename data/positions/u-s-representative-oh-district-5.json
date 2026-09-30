@@ -1,0 +1,198 @@
+{
+  "office": "U.S. Representative",
+  "district": "OH District 5",
+  "division": "oh/cd-5",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Brian A. Shaver",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Shaver said Congress should invest in modest, affordable housing in rural communities.",
+          "quote": "I believe Congress can help by supporting farmers, strengthening the food supply, and investing in modest, affordable housing in rural communities.",
+          "sourceUrl": "https://www.ballotready.org/people/brian-shaver",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Shaver said the federal government should fund schools adequately and support teachers and students.",
+          "quote": "I believe it must fund schools adequately and staff the Department of Education with qualified professionals who truly support teachers and students.",
+          "sourceUrl": "https://www.ballotready.org/people/brian-shaver",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "Shaver said he does not believe government should police a woman's decisions about her body.",
+          "quote": "I have no desire to tell a woman what to do with her body, nor do I believe it is my or the government’s place to police access to gender-affirming care.",
+          "sourceUrl": "https://www.ballotready.org/people/brian-shaver",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Bob Latta",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He voted for the Tax Cuts and Jobs Act and said it would lower tax rates and let taxpayers keep more of their income.",
+          "quote": "the full focus is on the Tax Cuts and Jobs Act, which simplifies the tax code and lets taxpayers keep more of their own hard-earned money.",
+          "sourceUrl": "https://latta.house.gov/news/documentsingle.aspx?DocumentID=398657",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "He voted against raising the federal minimum wage to $15 and said that increase could cost workers their jobs.",
+          "quote": "Ignoring warning signs and recklessly raising the minimum wage to $15 hurts small businesses and their workers in Ohio and across America",
+          "sourceUrl": "https://latta.house.gov/news/documentsingle.aspx?DocumentID=402178",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "He voted to reauthorize the District of Columbia Opportunity Scholarship Program, which includes private-school scholarships.",
+          "quote": "On Passage Aye Scholarships for Opportunity and Results Reauthorization Act",
+          "sourceUrl": "https://latta.house.gov/voterecord/?Page=263",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He cosponsored legislation increasing penalties for people who intentionally target law-enforcement officers.",
+          "quote": "Latta is also an original cosponsor of the Back the Blue Act of 2023 to increase penalties for criminals",
+          "sourceUrl": "https://latta.house.gov/news/documentsingle.aspx?DocumentID=403867",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supported border security legislation and measures increasing penalties for deported felons who return to the United States.",
+          "quote": "Increasing penalties on deported felons that attempt to return and providing more flexibility within our legal system to lock up dangerous criminal aliens can help ensure a case like this never happens again.",
+          "sourceUrl": "https://latta.house.gov/news/documentsingle.aspx?DocumentID=398431",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He opposed the Bipartisan Background Checks Act of 2021 and has publicly defended gun owners’ Second Amendment rights.",
+          "quote": "No law abiding citizen should be denied this constitutional right based on what city they live in",
+          "sourceUrl": "https://latta.house.gov/news/documentsingle.aspx?DocumentID=117158",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He supported legislation restricting abortion after 20 weeks and said unborn life should be protected.",
+          "quote": "Every unborn life is sacred and should be protected,” said Latta. “It’s even more horrific when babies that are able to feel pain are allowed to be aborted under current law.",
+          "sourceUrl": "https://latta.house.gov/news/documentsingle.aspx?DocumentID=398501",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He voted for the Protection of Women and Girls in Sports Act of 2023, which bases sports eligibility on sex at birth.",
+          "quote": "On Passage of the Bill Yea Protection of Women and Girls in Sports Act of 2023",
+          "sourceUrl": "https://latta.house.gov/voterecord/?Page=86",
+          "agreement": "9/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "He voted against the Marijuana Opportunity Reinvestment and Expungement Act, which would decriminalize and deschedule cannabis.",
+          "quote": "On Passage of the Bill Nay Marijuana Opportunity Reinvestment and Expungement Act of 2020",
+          "sourceUrl": "https://latta.house.gov/voterecord/?Page=146",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He voted for the American Health Care Act to repeal the Affordable Care Act and cited a lack of insurer choice under it.",
+          "quote": "Constituents in my district have told me about skyrocketing premiums, difficultly using their insurance, and the lack of choices",
+          "sourceUrl": "https://latta.house.gov/news/documentsingle.aspx?DocumentID=398392",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He has advocated for domestic energy production and said his energy policies should lower consumer prices.",
+          "quote": "I will continue to support policies that will lower prices for consumers while ensuring our nation’s energy dominance through investing in new energy projects and technologies and supporting market-driven energy sources.",
+          "sourceUrl": "https://latta.house.gov/news/email/show.aspx?ID=VLUEXJRTCDP3DX3Y6RHE3ITSEM",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He voted against H.R. 1 and objected that it would jeopardize voter-ID guidelines and state identification rules.",
+          "quote": "basic voter ID guidelines would be jeopardized.",
+          "sourceUrl": "https://latta.house.gov/news/documentsingle.aspx?DocumentID=402434",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Michael J. Veloff",
+      "party": "Libertarian",
+      "stances": {
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "He said the country should welcome people willing and able to support themselves and their families.",
+          "quote": "Our country should welcome anyone who is willing and able to support themselves and their families.",
+          "sourceUrl": "https://ivoterguide.com/candidate/95212/race/30019/election/1452",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He said a woman seeking an abortion should not have her motives questioned.",
+          "quote": "We are not to question the motives of a woman who is seeking an abortion.",
+          "sourceUrl": "https://ivoterguide.com/candidate/95212/race/30019/election/1452",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He selected a public insurance option available alongside private coverage, saying defunding government services makes care more expensive.",
+          "quote": "B- the defunding of government services are closing hospitals and making things more expensive for the public.",
+          "sourceUrl": "https://ivoterguide.com/candidate/95212/race/30019/election/1452",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He agreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/95212/race/30019/election/1452",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "ballotready.org · latta.house.gov · ivoterguide.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
