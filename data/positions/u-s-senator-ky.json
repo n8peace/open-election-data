@@ -1,0 +1,261 @@
+{
+  "office": "U.S. Senator",
+  "district": "KY",
+  "division": "ky/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Andy Barr",
+      "party": "Republican Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Barr voted for the 2025 tax law, which he described as a historic tax cut.",
+          "quote": "Andy has always fought for tax cuts. In 2025, he voted for the largest tax cut in American history, the Big Beautiful Bill.",
+          "sourceUrl": "https://barrforsenate.com/issues/",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Barr voted against the Raise the Wage Act, which would have increased the federal minimum wage.",
+          "quote": "Jul 18, 2019, 12:01 PM | 116th Congress, 1st Session Vote Question: On Passage Raise the Wage Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Barr voted for legislation to expand housing supply and cut red tape to accelerate homebuilding.",
+          "quote": "This bipartisan bill tackles the housing shortage by cutting red tape, empowering community lenders, and unlocking private investment.",
+          "sourceUrl": "https://barr.house.gov/2026/2/barr-votes-to-cut-red-tape-lower-housing-costs-and-unleash-american-homebuilding",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Barr cosponsored legislation to fund scholarships for students attending public, independent, or religious schools.",
+          "quote": "This legislation will boost resources to expand school choice without raising taxes on a single Kentuckian.",
+          "sourceUrl": "https://barr.house.gov/2022/7/barr-cosponsors-bill-to-incentivize-funding-of-school-choice-scholarships",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Barr says he supports police and has voted to increase federal law enforcement funding.",
+          "quote": "Andy Barr strongly supports police and will work with them to help keep Kentucky safe.",
+          "sourceUrl": "https://barrforsenate.com/issues/",
+          "agreement": "5/10"
+        },
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "lean",
+          "text": "Barr voted for the First Step Act, a criminal justice reform law that included changes to sentencing and prison programs.",
+          "quote": "Dec 20, 2018, 01:58 PM | 115th Congress, 2nd Session Vote Question: On Motion to Suspend the Rules and Concur in the Senate Amendment to House Amendment First Step Act of 2018",
+          "sourceUrl": "https://clerk.house.gov/Votes/2018448",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Barr says he supports deporting undocumented people with criminal convictions and strengthening border security.",
+          "quote": "Andy Barr believes we must deport all criminal illegals and secure the border.",
+          "sourceUrl": "https://barrforsenate.com/issues/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Barr says he opposes gun control bills and supports protecting gun owners’ Second Amendment rights.",
+          "quote": "Andy has consistently opposed gun control bills put forward to strip gun owners of their firearms without due process.",
+          "sourceUrl": "https://barrforsenate.com/issues/",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Barr said he would continue supporting federal policies that restrict abortion, including the Hyde Amendment.",
+          "quote": "At the federal level, I will continue to support pro-life policies in Congress such as the Hyde Amendment, to prohibit taxpayer funding of abortions",
+          "sourceUrl": "https://barr.house.gov/press-releases?ID=3EF32E65-C767-4038-A358-92E9DC9B20CD",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Barr supports restricting girls’ sports participation and school funding based on sex rather than gender identity.",
+          "quote": "He’s leading the Defend Girls’ Athletics Act that cuts off federal funding to any school or university that refuses to uphold the ban on biological men in girls’ sports.",
+          "sourceUrl": "https://barrforsenate.com/issues/",
+          "agreement": "10/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "Barr voted against the MORE Act, which would have removed marijuana from the federal controlled-substances list and regulated it.",
+          "quote": "Dec 04, 2020, 01:08 PM | 116th Congress, 2nd Session Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2020235",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Barr backed replacing the Affordable Care Act with reforms he described as market based and designed to encourage competition.",
+          "quote": "I promised the people of the Sixth District that I would vote to repeal this broken law and replace it with reforms that will actually lower costs and expand access to care through patient-centered, market-based reforms.",
+          "sourceUrl": "https://barr.house.gov/2017/5/rep-barr-votes-for-the-american-health-care-act",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Barr says his energy plan would expand coal production, create jobs, and lower energy costs.",
+          "quote": "Andy has a plan to bring back clean, beautiful coal, to create jobs, lower energy costs, and attract industries of the future to Kentucky.",
+          "sourceUrl": "https://barrforsenate.com/issues/",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Barr backed legislation requiring voter ID and proof of citizenship for federal elections and supported tighter voter-roll rules.",
+          "quote": "The SAVE America Act addresses these gaps directly by requiring photo ID to cast a ballot, mandating documentary proof of U.S. citizenship for federal voter registration, requiring regular voter roll maintenance, and providing clear procedures to protect eligible voters from administrative discrepancies.",
+          "sourceUrl": "https://barr.house.gov/press-releases?ID=6260C67D-A777-43E7-BBBD-39D710161916",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Charles Booker",
+      "party": "Democratic Party",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He said closing tax loopholes could help fund health care.",
+          "quote": "WE CLOSE LOOPHOLES, BRING MORE MONEY MOOT SYSTEM, WE CAN AFFORD TO HAVE HEALTHCARE FOR THE PEOPLE OF KENTUCKY.",
+          "sourceUrl": "https://www.pbs.org/video/us-senate-candidate-charles-booker-4m8axr/",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Booker proposes building more affordable housing and expanding tenant protections.",
+          "quote": "We will build more affordable housing, implement federal rent stabilization, strengthen tenant protections like just-cause eviction and the right to counsel, and make major investments to end homelessness.",
+          "sourceUrl": "https://www.ballotready.org/people/charles-booker",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "Booker said public safety budgets should address poverty and that arrests alone cannot make society safer.",
+          "quote": "That means we should make sure our budgets address poverty and the social determinants of health, instead of continuing to balloon budgets with a growing, militarized law enforcement.",
+          "sourceUrl": "https://www.teenvogue.com/story/charles-booker-kentucky-senate-student-debt",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He proposed abolishing ICE and replacing it with an enforcement system without mass detention or blanket deportation.",
+          "quote": "Abolish ICE by ending funding for the agency and dismantling it entirely",
+          "sourceUrl": "https://static1.squarespace.com/static/633216782862a17193ebe54a/t/69c407f45302905db2fe14bb/1774454772722/NKY%2B2026%2BPrimary%2BGuide%2B(1).pdf",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Booker said he had fought for gun safety reform as a state legislator.",
+          "quote": "As a legislator, I fought for common sense gun safety reform, lower prescription drug prices, expanded voting rights, stronger labor unions, and for racial justice.",
+          "sourceUrl": "https://linknky.com/elections/2022/10/28/qa-with-u-s-senate-candidates-rand-paul-and-charles-booker/",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Booker said he would support legislation to codify Roe v. Wade.",
+          "quote": "Also on my docket are expanding medicare, codifying Roe v Wade, and legalizing marijuana.",
+          "sourceUrl": "https://linknky.com/elections/2022/10/28/qa-with-u-s-senate-candidates-rand-paul-and-charles-booker/",
+          "agreement": "6/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Booker said legalizing marijuana was among the legislation he would pursue in Washington.",
+          "quote": "Also on my docket are expanding medicare, codifying Roe v Wade, and legalizing marijuana.",
+          "sourceUrl": "https://linknky.com/elections/2022/10/28/qa-with-u-s-senate-candidates-rand-paul-and-charles-booker/",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Booker supports Medicare for All to provide health care to everyone.",
+          "quote": "We should ensure that everyone has high-quality health care with Medicare for All.",
+          "sourceUrl": "https://www.teenvogue.com/story/charles-booker-kentucky-senate-student-debt",
+          "agreement": "4/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Booker called for clean energy investment and a transition toward new industries, including zero-emission technologies.",
+          "quote": "To take this on, we must start by making the vital investments in our infrastructure to clean our land and foster a clean energy economy.",
+          "sourceUrl": "https://www.teenvogue.com/story/charles-booker-kentucky-senate-student-debt",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He supports strengthening the Voting Rights Act and expanding early and mail voting.",
+          "quote": "I support restoring and strengthening the Voting Rights Act, significantly expanding early and mail voting",
+          "sourceUrl": "https://static1.squarespace.com/static/633216782862a17193ebe54a/t/69c407f45302905db2fe14bb/1774454772722/NKY%2B2026%2BPrimary%2BGuide%2B(1).pdf",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Christopher Campbell",
+      "party": "Kentucky Party",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He identifies as a union member and says workers should receive quality pay and have protection when raising grievances.",
+          "quote": "All American workers disserve to work in safe environments, with excellent benefits and quality pay. Additionally, those workers must have a means to address grievances without fear of retaliation or retribution.",
+          "sourceUrl": "https://campbellforsenate.org/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He says reproductive care is health care and supports each person's control over their own body, including during pregnancy.",
+          "quote": "Reproductive Care is Health Care and no American citizen should be deprived of it.",
+          "sourceUrl": "https://campbellforsenate.org/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "He proposes environmental protections and legislation to prevent companies from using carbon credits to continue polluting.",
+          "quote": "As a Senator of Kentucky, I would push for legislation to eliminate the ability of companies to purchase Carbon Credits, which simply allow facilities to continue polluting as they pay third-parties to develop “green” projects.",
+          "sourceUrl": "https://campbellforsenate.org/",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "barrforsenate.com · clerk.house.gov · barr.house.gov · pbs.org · ballotready.org · teenvogue.com · static1.squarespace.com · linknky.com · campbellforsenate.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

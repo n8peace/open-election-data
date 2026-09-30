@@ -1,0 +1,316 @@
+{
+  "office": "U.S. Representative",
+  "district": "KY District 5",
+  "division": "ky/cd-5",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Hal Rogers",
+      "party": "Republican Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Rogers supported the 2017 tax law, which reduced individual and business tax rates, and says he supports a simpler, flatter tax code.",
+          "quote": "It reduced tax rates for individuals and businesses alike, allowing the average American to keep more of their hard-earned money",
+          "sourceUrl": "https://halrogers.house.gov/taxes?page=1",
+          "agreement": "9/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Rogers opposed a proposal to raise the federal minimum wage to $15 an hour, saying it could cost jobs.",
+          "quote": "they doubled-down on efforts to advance this bad policy and destroy 1.4 million jobs in the process.",
+          "sourceUrl": "https://halrogers.house.gov/2021/2/congressman-rogers-votes-against-2-trillion-liberal-spending-spree",
+          "agreement": "7/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "Rogers urged the Treasury Department to designate China a currency manipulator and supported legislation enabling countervailing duties against unfair trade practices.",
+          "quote": "Commerce can't levy counter-veiling duties unless Treasury registers China as a 'currency manipulator'",
+          "sourceUrl": "https://halrogers.house.gov/2013/4/rogers-urges-action-on-chinese-currency-manipulation",
+          "agreement": "3/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Rogers cosponsored and voted for the Social Security Fairness Act, which increased benefits for some retirees.",
+          "quote": "I have cosponsored this bill for many years and tirelessly pushed for its passage",
+          "sourceUrl": "https://halrogers.house.gov/2025/1/congressman-rogers-applauds-social-security-fairness-act-being-signed-into-law",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "He voted for the Scholarships for Opportunity and Results Act, which reauthorized the D.C. opportunity scholarship program.",
+          "quote": "Vote Question: On Passage Scholarships for Opportunity and Results Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2011204",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Rogers secured federal funding for police departments and fire services in Eastern Kentucky.",
+          "quote": "I was honored to secure additional funding for the Pikeville Police Department and the Louisa Fire Department",
+          "sourceUrl": "https://halrogers.house.gov/press-releases?ID=92673A11-06D0-4FD9-A774-32C4ED4C582E",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Rogers says he opposes amnesty for undocumented immigrants and supports increased border patrol, surveillance, and penalties for smuggling.",
+          "quote": "I have consistently opposed amnesty for illegal immigrants and, instead, supported legislation that seeks to end the practice",
+          "sourceUrl": "https://halrogers.house.gov/homeland-security",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Rogers backed appropriations provisions barring the Justice Department from consolidating firearms sales records or retaining records of people who passed background checks.",
+          "quote": "Made into permanent law three provisions that protect the right to keep and bear arms",
+          "sourceUrl": "https://halrogers.house.gov/_cache/files/f/c/fca379f0-1d53-4e56-9676-e03ec3405172/8EBA6521228F1B6383175A3B1782A04F.chairman-rogers-accomplishments.pdf",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He voted against the Women's Health Protection Act and called for protection of every life.",
+          "quote": "Every life should be protected and valued, not violently discarded.",
+          "sourceUrl": "https://halrogers.house.gov/2021/9/congressman-rogers-votes-against-abortion-on-demand-bill",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He supported legislation requiring school athletics to recognize reproductive biology and genetics at birth.",
+          "quote": "school athletics comply with Title IX recognition of a person's reproductive biology and genetics at birth.",
+          "sourceUrl": "https://halrogers.house.gov/2023/4/congressman-rogers-votes-to-protect-women-and-girls-in-sports",
+          "agreement": "5/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "strong",
+          "text": "Rogers voted against the MORE Act, which would have removed marijuana from the federal controlled-substances list.",
+          "quote": "Congressman Hal Rogers voted against the bill, citing its disregard for science and the nation's drug abuse epidemic.",
+          "sourceUrl": "https://halrogers.house.gov/2022/4/congressman-rogers-votes-against-decriminalizing-marijuana",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Rogers opposed a Senate health-care bill that he described as creating a government-run insurance plan.",
+          "quote": "the Senate cut back room deals for certain states and special interests in order to pass a government run insurance plan",
+          "sourceUrl": "https://halrogers.house.gov/2009/12/statement-congressman-hal-rogers-statement-on-u.s-senate-health-care-bill",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Rogers has opposed climate policies he says threaten coal jobs and has supported funding to modernize coal-fired power plants.",
+          "quote": "This funding will help ensure they can continue doing so for many years to come.",
+          "sourceUrl": "https://halrogers.house.gov/2026/6/rogers-barr-applaud-trump-s-investment-in-kentucky-coal-to-create-jobs-lower-costs",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He voted for the SAVE America Act and endorsed voter identification in every state.",
+          "quote": "The best way to safeguard the election of our American leaders is through basic voter identification in every state.",
+          "sourceUrl": "https://halrogers.house.gov/2026/2/congressman-rogers-voted-for-the-save-america-act-to-protect-elections",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Ned Pillersdorf",
+      "party": "Democratic Party",
+      "stances": {
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Pillersdorf opposes proposed cuts to Medicare and says the district’s residents depend on the program.",
+          "quote": "if you support the ongoing proposed slashing of: Medicaid, Medicare, food stamps",
+          "sourceUrl": "https://nedforcongress.com/",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Pillersdorf supports expanding health care access and opposes cuts to Medicaid and Medicare.",
+          "quote": "I won’t stop fighting until every resident of the 5th District gets the coverage and care they deserve.",
+          "sourceUrl": "https://nedforcongress.com/press-releases/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Gerardo Serrano",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "In a 2018 questionnaire, he proposed eliminating the income tax, with a fair tax as an alternative.",
+          "quote": "A fair tax or get rid of it all together and implement a tariff on all goods that come to this county but get rid of the income tax altogether.",
+          "sourceUrl": "https://ivoterguide.com/candidate/20833/race/1379/election/543",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "He said he could support tariffs on all goods as part of replacing the income tax.",
+          "quote": "implement a tariff on all goods that come to this county but get rid of the income tax altogether.",
+          "sourceUrl": "https://ivoterguide.com/candidate/20833/race/1379/election/543",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says he will oppose Social Security benefit cuts and another increase in the retirement age.",
+          "quote": "I will oppose benefit cuts and another increase in the retirement age. Congress made this promise, and Congress must keep it.",
+          "sourceUrl": "https://serranoforamerica.com/stories",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports stronger border enforcement and faster lawful immigration while also emphasizing due process.",
+          "quote": "I will support stronger border enforcement, faster lawful immigration, and firm action against cartels and traffickers—while protecting due process and America’s constitutional principles.",
+          "sourceUrl": "https://serranoforamerica.com/stories",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "In a 2018 questionnaire, he strongly disagreed that more restrictive gun control was needed for public safety.",
+          "quote": "More restrictive gun control is needed to protect public safety. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/20833/race/1379/election/543",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "In a 2018 questionnaire, he said abortion should be allowed to save the mother’s life.",
+          "quote": "Under what circumstances should abortion be allowed? To save the life of the mother.",
+          "sourceUrl": "https://ivoterguide.com/candidate/20833/race/1379/election/543",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "In a 2018 questionnaire, he favored free and open markets for health coverage and criticized government regulation.",
+          "quote": "I am all for free and open markets. We have never tried it before. We have always had regulations placed on it either by the Federal government or by the State.",
+          "sourceUrl": "https://ivoterguide.com/candidate/20833/race/1379/election/543",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Mikel Wein",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He calls for a universal health system funded by U.S. tax dollars and restoring health care funding.",
+          "quote": "we need a government run, universal, comprehensive healthcare system that is free at the point of service, paid for by U.S. tax dollars",
+          "sourceUrl": "https://www.weinforky5.com/healthcare",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports stronger worker protections, a well-funded National Labor Relations Board, and renewed ability to form unions.",
+          "quote": "we need to re-gain the tools that would help us reclaim our share of the wealth: a vibrant National Labor Relations Board, stronger laws that protect worker’s rights, and renewed ability to form unions.",
+          "sourceUrl": "https://www.weinforky5.com/wealth",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He says tariffs raise prices and calls for legislation to control them.",
+          "quote": "Tariffs are increasing the price of everything; the rising costs of food and clothing are particularly worrisome.",
+          "sourceUrl": "https://www.weinforky5.com/jobs",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "His action list supports pending legislation that includes the Social Security Expansion Act.",
+          "quote": "Support pending legislation to redistribute wealth back to workers",
+          "sourceUrl": "https://www.weinforky5.com/wealth",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He proposes federal support for constructing sustainable housing on suitable higher-ground sites.",
+          "quote": "RCC County level coalitions could forge a pathway to higher ground housing through an updated land ownership survey to identify suitable house sites; innovative partnerships to return land to local control; and construction of sustainable housing.",
+          "sourceUrl": "https://www.weinforky5.com/futures",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He proposes tuition-free public education from early childhood through graduate, trade, or professional school.",
+          "quote": "It's time to pass legislation that guarantees free tuition to public schools from early childhood through graduate, trade, or professional school.",
+          "sourceUrl": "https://www.weinforky5.com/jobs",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "He calls for rolling back ICE funding and increasing accountability for federal immigration officers.",
+          "quote": "Support legislation to unmask ICE and increase federal officer accountability",
+          "sourceUrl": "https://www.weinforky5.com/security",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He calls for reviving the Women’s Health Protection Act, which would prohibit federal restrictions on reproductive health care.",
+          "quote": "Revive H.R.3755, the Women’s Health Protection Act of 2021, which prohibits federal restrictions on women's reproductive healthcare",
+          "sourceUrl": "https://www.weinforky5.com/security",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports a tax-funded, universal health system and calls for passage of Medicare for All.",
+          "quote": "we need a government run, universal, comprehensive healthcare system that is free at the point of service, paid for by U.S. tax dollars, and provided to everyone regardless of their background.",
+          "sourceUrl": "https://www.weinforky5.com/healthcare",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "He proposes community coalitions that would include clean-energy production.",
+          "quote": "Other RCC coalitions could be formed to address disaster response, clean energy prodction, and other community needs.",
+          "sourceUrl": "https://www.weinforky5.com/futures",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "halrogers.house.gov · clerk.house.gov · nedforcongress.com · ivoterguide.com · serranoforamerica.com · weinforky5.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
