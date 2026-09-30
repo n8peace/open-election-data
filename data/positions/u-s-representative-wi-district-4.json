@@ -1,0 +1,238 @@
+{
+  "office": "U.S. Representative",
+  "district": "WI District 4",
+  "division": "wi/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Arthur Burks",
+      "party": "Independent",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "His campaign website says he would advocate for livable wages.",
+          "quote": "His campaign website says he would like to advocate for livable wages, local business investment, and vocational training that prepares youth for jobs.",
+          "sourceUrl": "https://www.wuwm.com/wisconsins-4th-congressional-district-candidates-2026",
+          "agreement": "2/3"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "His campaign says he supports funding for violence interruption programs.",
+          "quote": "He \"supports comprehensive gun safety legislation and funding for violence interruption programs.\"",
+          "sourceUrl": "https://www.wuwm.com/wisconsins-4th-congressional-district-candidates-2026",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "His campaign says he supports comprehensive gun safety legislation.",
+          "quote": "He \"supports comprehensive gun safety legislation and funding for violence interruption programs.\"",
+          "sourceUrl": "https://www.wuwm.com/wisconsins-4th-congressional-district-candidates-2026",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Tim Rogers",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Rogers says he wants taxpayers to keep more of their money and reduce government spending.",
+          "quote": "I, Tim Rogers, want to let taxpayers keep more of their money.",
+          "sourceUrl": "https://www.rogersforwisconsin.com/general-5",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He supports school-choice and voucher programs.",
+          "quote": "I support School Choice and School Voucher programs. In many urban districts, these programs have proven to be the best option to let students reach their full potential.",
+          "sourceUrl": "https://www.rogersforwisconsin.com/general-5",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Rogers says he would defend police funding and supports a strong police force for enforcement.",
+          "quote": "I will always defend the police, not defund them. We need a strong (defended) police force with appropriate training that can deal with a community’s everyday and not so everyday enforcement problems.",
+          "sourceUrl": "https://patch.com/wisconsin/milwaukee/candidate-profile-tim-rogers-u-s-house-4",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "Rogers includes strong and secure borders among his stated campaign positions.",
+          "quote": "Safe Communities (a joint effort of local, state and federal law enforcement without defunding the police, strong & secure borders)",
+          "sourceUrl": "https://patch.com/wisconsin/milwaukee/candidate-profile-tim-rogers-u-s-house-4",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "Rogers expressed support for gun rights and said gun education could reduce crime.",
+          "quote": "would cut down on crime if kids knew the power behind a gun.",
+          "sourceUrl": "https://www.wpr.org/news/4th-congressional-district-rematch-moore-rogers",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Rogers said he opposes abortion and would keep the Hyde Amendment, which restricts federal funding for abortion.",
+          "quote": "Personally, I am against abortions for our children are the United States’ future. I would work to keep the Hyde Amendment",
+          "sourceUrl": "https://patch.com/wisconsin/milwaukee/candidate-profile-tim-rogers-u-s-house-4",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Gwen Moore",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She has supported expanding the Child Tax Credit and protecting nutrition assistance from cuts.",
+          "quote": "We're going to use these demonstrations to try to influence our Republican colleagues to invest in our kids.",
+          "sourceUrl": "https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=5746",
+          "agreement": "7/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supported raising the federal minimum wage to $15 an hour and opposed legislation she said attacked workers’ collective bargaining rights.",
+          "quote": "And gradually increasing the minimum wage to $15 an hour will mean 38 percent of workers in Wisconsin’s Fourth will see a long overdue raise!",
+          "sourceUrl": "https://gwenmoore.house.gov/news/documentsingle.aspx?documentid=4740",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "She described sweeping tariffs as destructive and warned they could raise costs for businesses and consumers.",
+          "quote": "Moore said it would be “destructive” to have sweeping tariffs.",
+          "sourceUrl": "https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=5746",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Her campaign describes her as a champion for protecting Social Security and Medicare.",
+          "quote": "In Congress, she has been a champion for protecting Social Security and Medicare, an advocate for low-income communities, and a strong voice against Trump’s assault on democracy.",
+          "sourceUrl": "https://gwenmooreforcongress.com/media/",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She requested funding for projects to build affordable homes and increase the district’s affordable housing supply.",
+          "quote": "The funding would be used for critically needed housing projects, in conjunction with stakeholders, to prevent homelessness and increase the affordable housing supply in the district.",
+          "sourceUrl": "https://gwenmoore.house.gov/constituent-services/remaining-fy-27-community-projects.htm",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Her campaign says she would fight for public school funding, smaller classes, and teacher training.",
+          "quote": "Gwen Moore knows that schools cannot be held accountable unless they are given the resources they need.",
+          "sourceUrl": "https://gwenmooreforcongress.com/education/",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "She said she supports funding community-based violence prevention programs and has promoted de-escalation training.",
+          "quote": "I support community-based violence prevention programs in Milwaukee and their funding in this bill.",
+          "sourceUrl": "https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=5041",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She introduced legislation to strengthen T and U visa protections and support immigrant victims and witnesses who cooperate with law enforcement.",
+          "quote": "This legislation creates stronger T and U visa protections, helping victims and law enforcement.",
+          "sourceUrl": "https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=5718",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She voted for an assault weapons ban and said she supports expanding background checks and other gun violence prevention measures.",
+          "quote": "Gun violence is a preventable epidemic, and we can save lives by enacting an assault weapons ban.",
+          "sourceUrl": "https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=5049",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She said she supports the full range of reproductive health care and is committed to restoring abortion rights.",
+          "quote": "As a mother, grandmother, great grandmother, and former abortion counselor, I support the full range of reproductive health care for women.",
+          "sourceUrl": "https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=5333",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "She opposed a federal ban on trans children participating in sports and said youth sports should include trans children.",
+          "quote": "Many programs are inclusive of trans people, and I remain committed to Title IX’s mission to protect against gender-based discrimination for any children participating in youth sports, including trans children.",
+          "sourceUrl": "https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=5496",
+          "agreement": "6/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "She voted for the MORE Act, which would decriminalize and deschedule cannabis.",
+          "quote": "Apr 01, 2022, 12:31 PM | 117th Congress, 2nd Session Vote Question: On Passage MORE Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She said affordable health coverage should be available to all Americans, including people who rely on Medicaid and Medicare.",
+          "quote": "Finally, I believe it should be among our highest priorities to make sure that affordable, quality health coverage is available to all Americans, including those who rely on Medicaid and Medicare for their care.",
+          "sourceUrl": "https://gwenmoore.house.gov/issues/issue/?IssueID=14889",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She voted for the Inflation Reduction Act and supported its climate investments and emissions reduction goals.",
+          "quote": "The Inflation Reduction Act's investments will restore American global leadership on climate change by reducing carbon emissions by roughly 40 percent by 2030.",
+          "sourceUrl": "https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=5052",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She supported voting rights legislation and opposed stricter registration requirements she said would disenfranchise eligible voters.",
+          "quote": "We should be making it easier for every eligible person to participate in our democracy.",
+          "sourceUrl": "https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=4860",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "wuwm.com · rogersforwisconsin.com · patch.com · wpr.org · gwenmoore.house.gov · gwenmooreforcongress.com · clerk.house.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

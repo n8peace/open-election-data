@@ -1,0 +1,106 @@
+{
+  "office": "U.S. Representative",
+  "district": "WI District 2",
+  "division": "wi/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Mark Pocan",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "A 2015 profile reports that Pocan supported raising the minimum wage and notes his role in efforts to raise wages for federal contractors.",
+          "quote": "He's stood up forcefully for including raising the minimum wage",
+          "sourceUrl": "https://pocan.house.gov/media-center/in-the-news/mark-pocan-a-diamond-in-the-congressional-rough",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Pocan says Social Security and Medicare should be strengthened or expanded rather than cut.",
+          "quote": "Any changes to these programs should be to make them stronger or expand them—not to cut benefits.",
+          "sourceUrl": "https://pocan.house.gov/issues/supporting%20seniors?page=1",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Pocan says he is committed to strengthening public schools so every child receives a high-quality education.",
+          "quote": "I am committed to strengthening our public schools so that every child receives a high-quality education experience.",
+          "sourceUrl": "https://pocan.house.gov/media-center/press-releases/pocan-thompson-bonamici-fitzpatrick-introduce-resolution-honor-public",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Pocan proposed replacing ICE with a system he described as more humane and protective of individual dignity.",
+          "quote": "implement a humane immigration enforcement system that upholds the dignity of all individuals.",
+          "sourceUrl": "https://pocan.house.gov/media-center/in-the-news/rep-pocan-we-must-abolish-ice",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Pocan said he cosponsored legislation to require background checks for firearm transfers between private parties.",
+          "quote": "which would establish checks on the transfer of firearms between private parties",
+          "sourceUrl": "https://www.congress.gov/118/crec/2023/07/25/169/128/CREC-2023-07-25.pdf",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Pocan said he would vote against a national abortion ban and continue to defend women's rights.",
+          "quote": "I will vote firmly against this abortion ban and I will continue to fight to protect women’s rights in Wisconsin and across the country.",
+          "sourceUrl": "https://pocan.house.gov/media-center/in-the-news/us-rep-pocan-condemns-anti-abortion-bill",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "He condemned a bill that would bar transgender girls and women from student athletics.",
+          "quote": "No bill is before us to lower costs for Americans, instead it is a political attempt to divide us as a nation, stigmatizing some kids so some adults can get MAGA merit badges.",
+          "sourceUrl": "https://equality.house.gov/media-center/in-the-news/lgbtq-lawmakers-advocacy-groups-condemn-gops-anti-trans-sports-ban",
+          "agreement": "3/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "He cosponsored the Marijuana Opportunity Reinvestment and Expungement Act.",
+          "quote": "To decriminalize and deschedule cannabis, to provide for reinvestment in certain persons adversely impacted by the War on Drugs, to provide for expungement of certain cannabis offenses, and for other purposes.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-117hr3617rh",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Pocan says he supports Medicare for All and expanding the Affordable Care Act until it becomes law.",
+          "quote": "I have been an original cosponsor of the Medicare for All bill in Congress since I was first elected in 2013.",
+          "sourceUrl": "https://pocan.house.gov/issues/health-care",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "pocan.house.gov · congress.gov · equality.house.gov · govinfo.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

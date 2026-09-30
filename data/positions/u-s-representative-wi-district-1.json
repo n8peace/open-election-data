@@ -1,0 +1,224 @@
+{
+  "office": "U.S. Representative",
+  "district": "WI District 1",
+  "division": "wi/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Mitchell Berman",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He supports raising the payroll tax cap for high earners and restoring health coverage subsidies and Medicaid funding.",
+          "quote": "I'll block cuts to Social Security, defend workers’ pensions, and lift the cap so high earners pay in on all of their income.",
+          "sourceUrl": "https://www.bermanforcongress.com/priorities",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports raising the federal minimum wage and passing the PRO Act to protect workers organizing unions.",
+          "quote": "Raise the federal minimum wage so that working a full time job can support a family",
+          "sourceUrl": "https://www.bermanforcongress.com/priorities",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He proposes rolling back tariffs on construction materials to reduce new-home costs.",
+          "quote": "Make new housing more affordable by rolling back the tariffs on lumber and materials that are adding thousands of dollars to the cost of building a new home",
+          "sourceUrl": "https://www.bermanforcongress.com/priorities",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says he would block Social Security cuts and defend workers’ pensions.",
+          "quote": "I'll block cuts to Social Security, defend workers’ pensions, and lift the cap so high earners pay in on all of their income.",
+          "sourceUrl": "https://www.bermanforcongress.com/priorities",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He supports fully funding public schools and protecting the Department of Education.",
+          "quote": "We need to fully fund our public schools, restore the value of Pell Grants, and invest in technical and vocational training.",
+          "sourceUrl": "https://www.bermanforcongress.com/priorities",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports reproductive freedom and says politicians should not interfere with a woman’s health care decisions.",
+          "quote": "We need to protect reproductive freedom and a woman's right to reproductive health care.",
+          "sourceUrl": "https://www.bermanforcongress.com/priorities",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports restoring ACA subsidies, reversing Medicaid cuts, and creating a public health insurance option.",
+          "quote": "Create a public option so families have a real choice and insurers have to compete on price",
+          "sourceUrl": "https://www.bermanforcongress.com/priorities",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "He supports investing in clean energy and a more resilient grid to address climate change.",
+          "quote": "We need to invest in clean energy, build a more resilient grid, protect Lake Michigan and our drinking water from contamination, clean up PFAS, and make the polluters pay for it.",
+          "sourceUrl": "https://www.bermanforcongress.com/priorities",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Bryan Steil",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "He said tax increases do not help families and workers.",
+          "quote": "Policies that eliminate job opportunities, bailout mismanaged states, and increase taxes do not help families and workers.",
+          "sourceUrl": "https://steil.house.gov/media/press-releases/steil-statement-on-president-biden-s-address-to-congress",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He voted against the Raise the Wage Act, which proposed increasing the federal minimum wage.",
+          "quote": "Jul 18, 2019, 12:01 PM | 116th Congress, 1st Session Vote Question: On Passage Raise the Wage Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "In a 2025 listening session, he supported the president’s tariffs policy while describing a goal of reciprocal trade and negotiations.",
+          "quote": "I support allowing the president to play this out--to negotiate these agreements,",
+          "sourceUrl": "https://www.wgtd.org/news/steil-holds-telephone-listening-session",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says he is committed to protecting Social Security and Medicare.",
+          "quote": "Steil is committed to protecting Social Security and Medicare.",
+          "sourceUrl": "https://bryansteil.com/issues/",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He co-led housing legislation to increase supply and said reducing red tape can make it easier to build homes.",
+          "quote": "By cutting through red tape and empowering local decision makers to increase supply, we can reduce costs and make it easier for families to purchase a home.",
+          "sourceUrl": "https://steil.house.gov/media/press-releases/steil-led-housing-affordability-legislation-passes-the-house",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "He signed a letter urging Wisconsin to participate in a federal tax-credit scholarship program.",
+          "quote": "Wisconsin should seize this opportunity to empower parents and expand access to quality education for every child.",
+          "sourceUrl": "https://steil.house.gov/sites/evo-subsites/steil.house.gov/files/evo-media-document/letter-to-governor-evers-regarding-letter-to-governor-evers-regarding-federal-tax-credit-scholarship-program-2.pdf",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "His campaign says he will work with law enforcement to keep communities safe.",
+          "quote": "Steil will always work with law enforcement to ensure our communities are safe and secure.",
+          "sourceUrl": "https://bryansteil.com/issues/",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He has called for securing the border and supporting policies to stop fentanyl flows and human trafficking.",
+          "quote": "We must secure our border. Steil is working to secure the border by supporting policies to stop the flow of illicit fentanyl and end the human trafficking crisis.",
+          "sourceUrl": "https://bryansteil.com/issues/",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He describes himself as a strong advocate of Second Amendment rights.",
+          "quote": "I am a strong advocate of our Second Amendment rights. I am also a gun owner.",
+          "sourceUrl": "https://steil.house.gov/issues",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "His campaign says he is a strong supporter of life and supports access to IVF.",
+          "quote": "He supports access to IVF and is a strong supporter of life.",
+          "sourceUrl": "https://bryansteil.com/issues/",
+          "agreement": "6/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "Steil voted against a motion to recommit the Protection of Women and Girls in Sports Act, helping the bill advance to passage.",
+          "quote": "Vote Question: On Motion to Recommit\n\nProtection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2023191",
+          "agreement": "6/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "He voted against the MORE Act, a bill to federally legalize marijuana.",
+          "quote": "Roll Call 107 | Bill Number: H. R. 3617",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He said the federal government should not dictate individual health care needs.",
+          "quote": "We can't afford to have Washington bureaucrats and the federal government dictating individual health care needs.",
+          "sourceUrl": "https://steil.house.gov/issues",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Steil voted against the Climate Action Now Act and said federal regulations increase energy costs.",
+          "quote": "Heavy-handed federal regulations drive up energy costs. Instead, we must encourage technology developments to address climate change.",
+          "sourceUrl": "https://steil.house.gov/media/press-releases/steil-statement-on-hr-9",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He introduced election reforms requiring voter ID, cleaner voter rolls, and citizenship verification.",
+          "quote": "Americans should be confident their elections are being run with integrity - including commonsense voter ID requirements, clean voter rolls, and citizenship verification,",
+          "sourceUrl": "https://steil.house.gov/media/press-releases/steil-introduces-election-reform-package",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "bermanforcongress.com · steil.house.gov · clerk.house.gov · wgtd.org · bryansteil.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

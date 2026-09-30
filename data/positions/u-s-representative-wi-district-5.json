@@ -1,0 +1,248 @@
+{
+  "office": "U.S. Representative",
+  "district": "WI District 5",
+  "division": "wi/cd-5",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Scott Fitzgerald",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He backed legislation that he said would cut taxes and reduce government waste.",
+          "quote": "This legislation is a victory for working Americans across the nation and delivers on our promise to bring tax relief, reduce government waste, and secure our border.",
+          "sourceUrl": "https://fitzgerald.house.gov/media/press-releases/rep-fitzgerald-statement-passage-one-big-beautiful-bill-act",
+          "agreement": "3/3"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "He opposed imposing a federal minimum wage on small businesses and introduced a measure limiting how unions use worker dues.",
+          "quote": "This includes cutting down regulatory red tape that burdens businesses and pushing back against mandates and policies that would eliminate worker freedom and impose a federal minimum wage on small businesses.",
+          "sourceUrl": "https://fitzgerald.house.gov/issues/jobs-economy",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He praised a law for both capping spending and protecting Social Security and Medicare benefits.",
+          "quote": "The agreement between House Republicans and President Biden helped the government avoid default, capped spending, protected Social Security, Medicare, and veterans' benefits, expanded work requirements for welfare recipients",
+          "sourceUrl": "https://fitzgerald.house.gov/media/in-the-news/cracks-foundation-us-credit-scores-slippery-slope-0",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He joined the Congressional School Choice Caucus and supports families choosing the type of school that fits their children.",
+          "quote": "That’s why I joined the School Choice Caucus here in Congress, to work with like-minded colleagues on this issue and create better outcomes for students.",
+          "sourceUrl": "https://fitzgerald.house.gov/issues/education",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "He introduced legislation to subject bail bonds to federal insurance fraud laws and described it as a way to hold bail organizations accountable.",
+          "quote": "The Keeping Violent Offenders Off Our Streets Act restores accountability to the bail process by ensuring left-wing organizations that post bail for violent criminals are subject to federal insurance laws and criminal fraud statutes.",
+          "sourceUrl": "https://fitzgerald.house.gov/media/press-releases/rep-fitzgeralds-keeping-violent-offenders-our-streets-act-passes-house-0",
+          "agreement": "2/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supported a bill funding border wall construction, additional Border Patrol and ICE agents, and large-scale deportation operations.",
+          "quote": "Recognizing that border security is national security, this bill fully funds the completion of President Trump’s border wall, increases the hiring of additional Border Patrol and ICE agents, and invests in large-scale deportation operations to remove illegal aliens and keep our communities safe.",
+          "sourceUrl": "https://fitzgerald.house.gov/media/press-releases/rep-fitzgerald-statement-passage-one-big-beautiful-bill-act",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "His campaign says he will defend the Second Amendment.",
+          "quote": "Scott will tirelessly defend Wisconsin values like the right to life and the Second Amendment.",
+          "sourceUrl": "https://scottfitzgeraldforcongress.com/",
+          "agreement": "2/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He said he would continue working for legislative measures he described as victories for the unborn and against taxpayer funding of abortion.",
+          "quote": "Being recognized by an organization whose sole mission is to fight to protect life is truly an honor. As a Member of Congress, I will continue working to deliver legislative victories for the unborn and stop forced taxpayer-funding of abortion in the United States.",
+          "sourceUrl": "https://fitzgerald.house.gov/media/press-releases/rep-fitzgerald-votes-pro-life-legislation-and-receives-rating-susan-b-anthony",
+          "agreement": "2/3"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He voted for the Protection of Women and Girls in Sports Act, which sets eligibility for school sports by sex at birth.",
+          "quote": "Vote Question: On Passage Protection of Women and Girls in Sports Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "3/3"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "strong",
+          "text": "He voted against the MORE Act, a bill to legalize and regulate marijuana federally.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He criticized Obamacare subsidies and said he supports reforms including association health plans and short-term insurance plans.",
+          "quote": "I also support several bills that would codify important reforms, including the Trump Administration’s 2019 Health Reimbursement Arrangement (HRA) Rule, and the 2018 Trump Administration Rules on Association Health Plans (AHPs) and Short-Term, Limited Duration Insurance (STLDI).",
+          "sourceUrl": "https://fitzgerald.house.gov/media/press-releases/rep-fitzgerald-chairs-joint-judiciary-subcommittee-hearing-obamacare-subsidy",
+          "agreement": "2/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He called for expanding domestic energy production and rolling back regulations that he said raise fuel costs and cost jobs.",
+          "quote": "We need to stabilize and lower the price of fuel and we can do that by unleashing production here at home to offset the supply of energy we no longer import to quickly to bring relief at the pump.",
+          "sourceUrl": "https://fitzgerald.house.gov/media/in-the-news/column-biden-gas-crisis-it-doesnt-have-be-way",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He opposed election legislation that he said would weaken voter ID safeguards and supported retaining voter ID requirements.",
+          "quote": "As your Representative, I am working to defeat proposals like H.R. 1 that would ban commonsense safeguards like Voter ID, assert more federal control of Wisconsin elections, and force taxpayers to fund political campaigns.",
+          "sourceUrl": "https://fitzgerald.house.gov/issues/election-integrity",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "Andrew Beck",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He said he would raise or remove the Social Security tax ceiling while safeguarding Social Security.",
+          "quote": "safeguard Social Security with COLAs and increase/eliminate Social Security tax ceiling",
+          "sourceUrl": "https://www.wuwm.com/wisconsins-5th-congressional-district-election-candidates",
+          "agreement": "3/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Beck says he supports unions and wants to create good-paying manufacturing jobs.",
+          "quote": "supporting unions, creating good manufacturing jobs, and protecting the rights and freedoms of every constituent in the 5th District and across Wisconsin.",
+          "sourceUrl": "https://www.beckforcongress.com/",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "He supports pro-worker trade enforcement and efforts to bring jobs back from overseas.",
+          "quote": "I will work across the aisle to protect and expand pro-worker trade enforcement",
+          "sourceUrl": "https://www.wuwm.com/wisconsins-5th-congressional-district-election-candidates",
+          "agreement": "3/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says Social Security benefits should not be cut and the retirement age should not be raised.",
+          "quote": "No benefit cuts. No raising the retirement age.",
+          "sourceUrl": "https://flounder-finch-lzfn.squarespace.com/press-kit",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "His campaign plan calls for 5,000 new affordable housing units over five years.",
+          "quote": "Beck's plan delivers 5,000 new affordable units over five years — including two-bedroom apartments at $1,200 per month and three-bedroom condos priced at $150,000 for households earning up to 80% of area median income (~$65,000 for a family of four).",
+          "sourceUrl": "https://www.prnewswire.com/news-releases/andy-beck-unveils-plans-to-strengthen-middle-class-jobs-address-housing-shortage-and-expand-mental-health-care-302598596.html",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He said he would seek federal funding for public schools.",
+          "quote": "I'll work across party lines to bring Wisconsin its fair share of federal funding for infrastructure, public schools, healthcare, mental health services, workforce training, veterans, family farms, and broadband.",
+          "sourceUrl": "https://www.wuwm.com/wisconsins-5th-congressional-district-election-candidates",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "He supports mental-health policies emphasizing treatment over punishment and prevention.",
+          "quote": "Congressional Leadership to pass meaningful legislation focusing on treatment over punishment",
+          "sourceUrl": "https://www.beckforcongress.com/beck-campaign-receives-mental-health-now-designation",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "He supports creating legal worker pathways, reducing asylum and visa backlogs, and protecting refugees.",
+          "quote": "Congress must reduce asylum and visa backlogs, provide timely due process, protect refugees fleeing persecution, and create legal pathways for workers",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72717951",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "His campaign says he advocates gun-violence prevention and will govern with gun safety in mind.",
+          "quote": "This is a signal to our supporters, volunteers and voters across the country that Andy Beck advocates for gun violence prevention and will govern with gun safety in mind.",
+          "sourceUrl": "https://www.beckforcongress.com/endorsed",
+          "agreement": "5/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports abortion access and says he would seek to restore Roe v. Wade protections through federal law.",
+          "quote": "I support protecting access to contraception, IVF, and abortion care, and restoring the protections of Roe v. Wade through federal law.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72717951",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "He supports protecting Medicare and Medicaid and expanding access to affordable care.",
+          "quote": "I will work to lower healthcare costs, protect Medicare and Medicaid, strengthen rural healthcare access, increase mental health services",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72717951",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "He says action on climate change is needed to protect communities and the planet.",
+          "quote": "Combat climate change - We must act now to protect our communities & planet.",
+          "sourceUrl": "https://www.beckforcongress.com/issues",
+          "agreement": "6/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He supports expanding early and absentee voting and opposes barriers for eligible voters.",
+          "quote": "We should expand early voting, protect absentee voting, ensure enough polling locations and staff, and make Election Day a federal holiday.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72717951",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "fitzgerald.house.gov · scottfitzgeraldforcongress.com · clerk.house.gov · wuwm.com · beckforcongress.com · flounder-finch-lzfn.squarespace.com · prnewswire.com · onyourballot.vote411.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
