@@ -1,0 +1,112 @@
+{
+  "office": "U.S. Representative",
+  "district": "IA District 4",
+  "division": "ia/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Chris McGowan",
+      "party": "Republican",
+      "stances": {
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He supports education savings accounts and a federal scholarship tax credit, saying parents should be able to choose educational options for their children.",
+          "quote": "The end goal is to educate the child, and an educated child leads to a more productive adult and a stronger society, and so I will continue to support those programs.",
+          "sourceUrl": "https://www.ktiv.com/2026/08/11/republican-candidate-outlines-key-issues-november-election-approaches/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "He supports a secure border and says officials should support ICE’s arrest and removal mission.",
+          "quote": "political officials must support the ERO mission which is “to protect the homeland through the arrest and removal of those who undermine the safety of our communities and the integrity of our immigration laws.”",
+          "sourceUrl": "https://mcgowanforiowa.com/vision",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He says he is committed to defending life from conception to natural death.",
+          "quote": "I am proud of my faith, devoted to my family, and committed to advancing freedom at home and abroad, including defending life from conception to natural death.",
+          "sourceUrl": "https://mcgowanforiowa.com/vision",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Dave Dawson",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He supports expanding the Child Tax Credit and federal affordable-child-care investment, while closing corporate tax loopholes.",
+          "quote": "He supports expanding the Child Tax Credit, federal investment in affordable child care so parents can afford to work, and aggressive antitrust enforcement against the corporate monopolies driving up prices on groceries, housing, prescription drugs, and farm inputs. And he will fight to close the tax loopholes that let billion-dollar corporations pay zero dollars in federal income taxes while working Iowans pay theirs.",
+          "sourceUrl": "https://davedawsonforiowa.com/issues",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "His campaign supports raising the federal minimum wage and passing the PRO Act to strengthen collective bargaining.",
+          "quote": "Specifically, Dave supports raising the federal minimum wage, which has been stuck at $7.25 for 17 years, the longest period in American history without an increase.",
+          "sourceUrl": "https://davedawsonforiowa.com/issues",
+          "agreement": "3/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Dawson said tariffs have not been helpful and create uncertainty for farmers planning their incomes.",
+          "quote": "“I don’t think the tariffs have been helpful,” he said. “…Farmers can’t plan long term for how they’re going to sustain their income if they don’t know that the farm plan is going to be from year to year.”",
+          "sourceUrl": "https://theiowamercury.substack.com/p/tragedy-in-minneapolis-congress-abdicating",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Dawson opposes cuts or benefit reductions to Social Security and Medicare and supports lifting the Social Security payroll tax cap.",
+          "quote": "Specifically, Dave opposes any cut, privatization scheme, or benefit reduction to Social Security or Medicare.",
+          "sourceUrl": "https://davedawsonforiowa.com/issues",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Dawson supports a voluntary government-run public option and opposes cuts to Medicaid.",
+          "quote": "He supports a public option, a voluntary government-run health plan that anyone can choose, while protecting the right of union members and others to keep the private coverage they have already negotiated.",
+          "sourceUrl": "https://davedawsonforiowa.com/issues",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Dawson supports restoring Voting Rights Act protections and federal legislation to ensure equal access to the ballot.",
+          "quote": "Specifically, Dave supports restoring the full strength of the Voting Rights Act after recent Supreme Court rulings gutted its protections, including federal legislation to ensure every American has equal access to the ballot.",
+          "sourceUrl": "https://davedawsonforiowa.com/issues",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "ktiv.com · mcgowanforiowa.com · davedawsonforiowa.com · theiowamercury.substack.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

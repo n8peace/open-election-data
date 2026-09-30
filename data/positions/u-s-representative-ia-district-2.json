@@ -1,0 +1,356 @@
+{
+  "office": "U.S. Representative",
+  "district": "IA District 2",
+  "division": "ia/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Joe Mitchell",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Mitchell says he would cut taxes for middle-class families and job creators.",
+          "quote": "I will cut taxes for middle-class families and job creators, simplify the tax code, and help people keep more of what they earn to grow the economy and create good-paying jobs.",
+          "sourceUrl": "https://www.joemitchell.com/issues",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "He said the national debt his generation and children would pay was driving him to run.",
+          "quote": "Right now you have $34 trillion in debt that my generation and our children will have to pay for.",
+          "sourceUrl": "https://www.radioiowa.com/2025/09/08/republican-mitchell-launches-campaign-in-iowas-2nd-congressional-district/",
+          "agreement": "3/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He says deregulating homebuilding would let builders construct more homes at lower cost.",
+          "quote": "De-regulating the homebuilding industry will allow more builders to build more homes at a much lower cost.",
+          "sourceUrl": "https://www.joemitchell.com/issues",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "His campaign says he supports school choice and parental decision-making in education.",
+          "quote": "I’m for school choice, increasing graduation rates, & eliminating CRT from classrooms.",
+          "sourceUrl": "https://joemitchell.com/",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He says police should receive support and funding while practical reforms are pursued.",
+          "quote": "We need to support and fund the police while working for practical reform.",
+          "sourceUrl": "https://joemitchell.com/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supports securing the border, deporting criminal undocumented immigrants, and reforming immigration laws.",
+          "quote": "By securing our borders, deporting criminal illegal immigrants, and reforming our immigration laws, we can ensure that Americans—not the Third World—have access to the American Dream.",
+          "sourceUrl": "https://www.joemitchell.com/issues",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "Mitchell says he would defend the Second Amendment but does not specify positions on particular gun laws.",
+          "quote": "Joe will stand up for family farmers, protect the right to life, and defend the Second Amendment.",
+          "sourceUrl": "https://joemitchell.com/",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "His campaign says he would protect the right to life, without specifying abortion limits or exceptions.",
+          "quote": "Joe will stand up for family farmers, protect the right to life, and defend the Second Amendment.",
+          "sourceUrl": "https://joemitchell.com/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He supports keeping biological males out of women’s sports and favors policies based on biological sex.",
+          "quote": "Women and girls deserve a level playing field in sports, free from biological males, with policies that protect fairness, safety, and equal opportunity so female athletes can succeed on their merits.",
+          "sourceUrl": "https://www.joemitchell.com/issues",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He favors consumer choice and competition in health care while preserving key ACA protections.",
+          "quote": "We need to lower costs, increase transparency, and expand consumer choice while preserving key protections from the ACA.",
+          "sourceUrl": "https://www.joemitchell.com/issues",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supports a mix of energy sources to lower costs and strengthen energy independence.",
+          "quote": "We should use every tool our nation has at its disposal including natural gas, oil, nuclear, clean coal, hydro, solar, and wind power to lower costs and strengthen American energy independence.",
+          "sourceUrl": "https://www.joemitchell.com/issues",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports voter ID and citizenship checks but also says registration should be as easy as possible for eligible citizens.",
+          "quote": "I also support voter ID laws to ensure free and fair federal elections. Identification is widely accessible, and we should make registration as easy as possible for eligible U.S. citizens while ensuring that only citizens are able to vote in our elections.",
+          "sourceUrl": "https://www.joemitchell.com/issues",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Lindsay James",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She proposed increasing the fully refundable child tax credit and financing those investments by requiring wealthy individuals and large corporations to pay their fair share.",
+          "quote": "We need to finance these investments by ensuring the ultra wealthy and large corporations pay their fair share.",
+          "sourceUrl": "https://www.lindsayforiowa.com/issues/issue-1",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "She said she would support raising the minimum wage if elected.",
+          "quote": "If elected, she said she would work to reverse cuts to the Affordable Care Act and support raising the minimum wage.",
+          "sourceUrl": "https://cbs2iowa.com/news/local/lindsay-james-says-cost-of-living-is-forcing-iowans-into-impossible-choices",
+          "agreement": "7/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "She called for ending tariffs that she said damaged Iowa farmers’ foreign markets.",
+          "quote": "End the devastating tariffs that have destroyed the decades of work done to secure foreign markets.",
+          "sourceUrl": "https://www.lindsayforiowa.com/issues/agriculture",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She pledged to oppose Medicare cuts and proposed lowering Medicare eligibility to age 55.",
+          "quote": "I pledge to fight against any cuts to the care our seniors deserve.",
+          "sourceUrl": "https://www.lindsayforiowa.com/issues/issue-2",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She supports expanding affordable housing.",
+          "quote": "James supports lowering the Medicare eligibility age to 55, expanding affordable housing and increasing access to childcare in rural communities.",
+          "sourceUrl": "https://www.iowapublicradio.org/political-news/2026-05-21/candidates-running-iowa-2nd-congressional-district-primary",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Her campaign opposes Iowa’s private-school voucher program and calls for a robust public education system.",
+          "quote": "Our kids are dealing with an education system that has been systemically underfunded, and Iowa is dealing with a Private School Voucher scheme designed to benefit the most fortunate amongst us.",
+          "sourceUrl": "https://www.lindsayforiowa.com/issues",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "She supports fully funding, paying, and protecting benefits for law-enforcement officers.",
+          "quote": "We need to ensure law enforcement is fully funded, paid well, and their benefits are protected.",
+          "sourceUrl": "https://www.lindsayforiowa.com/issues/keep-our-communities-safe",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Her campaign calls for border security alongside a path to citizenship for working, taxpaying immigrants.",
+          "quote": "We need to invest in border security, increase the number of immigration judges to deal with the massive backlog of cases, and create a path to citizenship for hard working, taxpaying people in this country.",
+          "sourceUrl": "https://www.lindsayforiowa.com/issues/keep-our-communities-safe",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Her campaign supports violent-history checks, red-flag laws, and an assault-weapons ban.",
+          "quote": "We must close loopholes, mandate violent history checks, pass red flag laws, and ban assault weapons.",
+          "sourceUrl": "https://www.lindsayforiowa.com/issues/keep-our-communities-safe",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She supports restoring Roe v. Wade and protecting a woman’s right to make her own medical decisions.",
+          "quote": "Restore Roe v. Wade to be the law of the land and defend a woman’s right to make her own medical decision with her body.",
+          "sourceUrl": "https://www.lindsayforiowa.com/issues/issue-2",
+          "agreement": "6/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "As a state representative, James voted against bills intended to limit transgender people’s access to bathrooms and youth sports.",
+          "quote": "Both of the Democrats voted against bills in the Iowa legislature intended to limit transgender people's access to public bathrooms and participation in youth sports.",
+          "sourceUrl": "https://www.iowapublicradio.org/news-from-npr/2026-09-27/these-democrats-are-running-for-congress-on-christian-faith-will-it-pay-off",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "James supports lowering Medicare eligibility to age 55 and expanding access to affordable health care.",
+          "quote": "James supports lowering the Medicare eligibility age to 55, expanding affordable housing and increasing access to childcare in rural communities.",
+          "sourceUrl": "https://www.iowapublicradio.org/political-news/2026-05-21/candidates-running-iowa-2nd-congressional-district-primary",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "She proposed expanding American energy production and fast-tracking new energy sources to lower utility costs.",
+          "quote": "We have to unleash the American energy enterprise and fast track innovative new sources of energy to bring down utilities costs.",
+          "sourceUrl": "https://www.lindsayforiowa.com/issues/issue-1",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "Rick Stewart",
+      "party": "Libertarian",
+      "stances": {
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "He opposed raising the minimum wage and said government should have no role in workplace wage policies.",
+          "quote": "If you try to beat the free market’s ability to set wages, you impoverish everyone.",
+          "sourceUrl": "https://www.kwqc.com/2022/11/02/iowa-governor-candidate-rick-stewart/",
+          "agreement": "4/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "A news report on his 2020 Senate campaign said he opposed U.S. tariffs.",
+          "quote": "Stewart says the U.S. government should not impose tariffs",
+          "sourceUrl": "https://www.radioiowa.com/2020/10/20/libertarians-us-senate-candidate-calls-for-ending-war-on-drugs-war-on-poverty/",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He proposed privatizing retirement and said he would eliminate federal spending not authorized by founding documents to balance the budget.",
+          "quote": "All of it. The proper role of government was defined in the Constitution. I would eliminate all government spending that is not authorized in our founding documents and their Amendments.",
+          "sourceUrl": "https://ivoterguide.com/candidate/23760/race/11086/election/771",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He proposed having education funding follow teachers across public, private, and home settings, with parents allocating the money.",
+          "quote": "I would have the dollars follow the teacher, not the school, because teachers teach kids.",
+          "sourceUrl": "https://www.pbs.org/video/8192022-rick-stewart-c5amzk/",
+          "agreement": "4/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He described himself as a firm Second Amendment advocate and said he would work to repeal laws restricting gun rights.",
+          "quote": "I am a firm 2nd Amendment advocate and recommend a yes vote on the 2nd Amendment question",
+          "sourceUrl": "https://www.rickstewart.com/2nd-amendment/",
+          "agreement": "9/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "He said ending Iowa’s drug war would include legalizing cannabis for recreational and medical use.",
+          "quote": "I am totally committed to ending the Iowa Drug War, which will among other things legalize cannabis in Iowa for both recreational and medical use.",
+          "sourceUrl": "https://www.rickstewart.com/local-control-of-local-issues/",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He advocated deregulating health care and having the private market compete on price, quality, and service.",
+          "quote": "I believe deregulation of health care is the most effective and efficient way to move forward, and allowing trained professionals to prescribe psychotropic medicine would be a good first step in that direction.",
+          "sourceUrl": "https://www.rickstewart.com/mental-health/",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He supported a carbon tax as his preferred way to address excess carbon dioxide emissions.",
+          "quote": "A carbon tax is the most efficient and effective way to reduce carbon emissions.",
+          "sourceUrl": "https://www.rickstewart.com/ethanol/",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Dave Bushaw",
+      "party": "No Party",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He says he would extend federal labor protections so farmworkers and other excluded workers can unionize.",
+          "quote": "Amend the National Labor Relations Act to include federal labor protections for farm workers and all excluded workers to unionize",
+          "sourceUrl": "https://www.davebushaw.com/platform",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "He said a robust tariff system should be paired with incentives to build manufacturing infrastructure.",
+          "quote": "I’m not anti-tariff, but I do believe that if we are going to have a robust tariff system, it needs to be coupled with infrastructure building incentives in the manufacturing industry.",
+          "sourceUrl": "https://www.iowapublicradio.org/political-news/2025-11-12/independent-dave-bushaw-2nd-congressional-district-race-2026-midterms",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He calls for strong borders while opposing indiscriminate roundups and supporting a citizenship pathway for non-criminal undocumented workers.",
+          "quote": "Employ Americans to expand our naturalization programs and work with immigrant-dense communities and move non-criminal undocumented workers through a legal pathway to citizenship",
+          "sourceUrl": "https://www.davebushaw.com/platform",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He endorses Medicare for All and a universal health-care program.",
+          "quote": "I support and endorse Senator Bernie Sanders’ policy and implementation plan as introduced under the Medicare for All Act in the Senate",
+          "sourceUrl": "https://www.davebushaw.com/platform",
+          "agreement": "6/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "He supports making Election Day a federal holiday to encourage in-person voting.",
+          "quote": "Make Election Day a federal holiday to strongly encourage in-person voting as strongly as possible, whenever possible.",
+          "sourceUrl": "https://www.davebushaw.com/platform",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "joemitchell.com · radioiowa.com · lindsayforiowa.com · cbs2iowa.com · iowapublicradio.org · kwqc.com · ivoterguide.com · pbs.org · rickstewart.com · davebushaw.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

@@ -1,0 +1,221 @@
+{
+  "office": "U.S. Senator",
+  "district": "IA",
+  "division": "ia/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Ashley Hinson",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Her campaign says she has focused on lowering taxes for working families.",
+          "quote": "Ashley has always believed it is YOUR money, not the government’s money. She has been laser focused on lowering taxes for working families and empowering all Iowans with opportunities.",
+          "sourceUrl": "https://ashleyhinson.com/issues/",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Hinson says expanding school choice lets families select an educational option that fits their children.",
+          "quote": "By expanding school choice, we will give families and their children the freedom to choose the right educational option regardless of zip code.",
+          "sourceUrl": "https://hinson.house.gov/issues",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "She supported funding to hire law enforcement officers and says public safety starts with enforcing laws and supporting police.",
+          "quote": "I was proud to support funding to help hire more law enforcement officers in Postville and Dubuque, and I'll continue working to keep our neighborhoods safe",
+          "sourceUrl": "https://hinson.house.gov/media/press-releases/hinson-announces-grant-funding-hire-law-enforcement-officers-ia-01",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "She introduced legislation to repeal the federal firearm-transfer tax.",
+          "quote": "To amend the Internal Revenue Code of 1986 to repeal the firearm transfer tax, and for other purposes.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr2552ih",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Hinson describes herself as pro-life and says the unborn should be protected.",
+          "quote": "I am pro-life and pro-family and will remain a strong and consistent voice for mothers and their children. We must protect the unborn and stand up for the sanctity of life.",
+          "sourceUrl": "https://hinson.house.gov/issues",
+          "agreement": "5/5"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "She voted no on House passage of the MORE Act, which would have decriminalized and descheduled cannabis.",
+          "quote": "MORE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Hinson has called for lower gas and diesel prices and supports expanding domestic refining and energy production.",
+          "quote": "Support additional permitting reform to allow for more refining capacity and domestic energy production",
+          "sourceUrl": "https://ashleyhinson.com/hinson-launches-affordability-plan-warns-of-sharp-tax-increases-under-liberal-josh-turek/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "She voted for federal photo ID requirements and supported requiring proof of citizenship for federal voter registration.",
+          "quote": "If you need an ID to board a plane and buy a six pack, you should need an ID to vote",
+          "sourceUrl": "https://hinson.house.gov/media/press-releases/hinson-votes-ban-congressional-stock-trading-implement-voter-id",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Josh Turek",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "His platform proposes tax cuts for middle-class families alongside closing corporate and billionaire tax loopholes, so it combines tax reduction with increased taxes on some groups.",
+          "quote": "Cut taxes for the middle class and working families and close loopholes for billionaires and big corporations.",
+          "sourceUrl": "https://turek4iowa.com/platform/",
+          "agreement": "7/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He proposes raising the minimum wage with inflation adjustments and strengthening unions and collective bargaining.",
+          "quote": "Raise the minimum wage and pass legislation that ties regular raises to inflation to ensure a livable wage.",
+          "sourceUrl": "https://turek4iowa.com/platform/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He proposes simplifying permitting so affordable housing can be built faster and restricting private equity purchases of homes.",
+          "quote": "Simplify permitting so new affordable housing can be built faster.",
+          "sourceUrl": "https://turek4iowa.com/platform/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He supports increasing public-school funding and ending school vouchers.",
+          "quote": "Increase funding to public schools so every child has access to a world-class education.",
+          "sourceUrl": "https://turek4iowa.com/platform/",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports both an earned path to citizenship and border enforcement including deporting people who commit crimes.",
+          "quote": "Pass bipartisan immigration legislation that strengthens our borders and simplifies an earned pathway to citizenship.",
+          "sourceUrl": "https://turek4iowa.com/platform/",
+          "agreement": "6/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "His campaign-approved ad cites gun-rights protections among his legislative record.",
+          "quote": "Bipartisan bills to lower costs. Tax cuts. Gun rights protections.",
+          "sourceUrl": "https://turek4iowa.com/news/new-josh-turek-for-iowa-releases-new-ad-prove-it/",
+          "agreement": "3/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He sponsored legislation to repeal Iowa’s near-total abortion ban and supports restoring Roe v. Wade protections.",
+          "quote": "Make Roe v. Wade the law of the land again and protect access to contraception and IVF.",
+          "sourceUrl": "https://turek4iowa.com/platform/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "He said that biological males should not compete against females in sports.",
+          "quote": "As someone that spent a lot of my life in high-level sports, I don’t believe that biological males should compete against females in sports.",
+          "sourceUrl": "https://rollcall.com/2026/09/24/gop-revives-anti-trans-playbook-dems-turn-page/",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He proposes a public option and supports expanding Medicaid and the Affordable Care Act.",
+          "quote": "Introduce a public option so every Iowan has access to health care.",
+          "sourceUrl": "https://turek4iowa.com/platform/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "He introduced a bill to make Election Day a legal public holiday.",
+          "quote": "House File 407, by Turek, a bill for an act making election day a legal public holiday.",
+          "sourceUrl": "https://www.legis.iowa.gov/docs/publications/HJNL/20230222_HJNL.pdf",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "Thomas Laehn",
+      "party": "Libertarian",
+      "stances": {
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "lean",
+          "text": "He partnered with a nonprofit to create community service and rehabilitation programs for nonviolent offenders.",
+          "quote": "He also partnered with a nonprofit association to create a community service program and to aid nonviolent offenders with their rehabilitation and reintegration into the community.",
+          "sourceUrl": "https://laehn4iowa.org/about",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports a secure border and humane policies, while also proposing to raise or eliminate caps on legal immigration.",
+          "quote": "I will fight for a secure border. I will also fight to raise or to eliminate artificial caps on the number of people who can legally immigrate to remove the pressure on our nation’s borders.",
+          "sourceUrl": "https://laehn4iowa.org/issues",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He says Congress should leave abortion policy to the states and that he would ban abortion if deciding at the state level.",
+          "quote": "If it were his call at the state level? “I would ban all abortion,” Laehn said.",
+          "sourceUrl": "https://www.bleedingheartland.com/2026/07/05/no-spoiler-here-says-libertarian-senate-candidate-thomas-laehn/",
+          "agreement": "6/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "He says he would introduce a bill to decriminalize possession and use of marijuana.",
+          "quote": "The very first bill I will introduce upon being elected to the U.S. Senate will be to decriminalize the possession and use of marijuana.",
+          "sourceUrl": "https://laehn4iowa.org/issues",
+          "agreement": "8/10"
+        }
+      }
+    }
+  ],
+  "sources": "ashleyhinson.com · hinson.house.gov · govinfo.gov · clerk.house.gov · turek4iowa.com · rollcall.com · legis.iowa.gov · laehn4iowa.org · bleedingheartland.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

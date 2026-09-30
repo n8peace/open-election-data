@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "MS District 4",
+  "division": "ms/cd-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Carl Boyanton",
+      "party": "Independent"
+    },
+    {
+      "name": "Mike Ezell",
+      "party": "Republican"
+    },
+    {
+      "name": "Jeffrey Hulum III",
+      "party": "Democrat"
+    }
+  ]
+}

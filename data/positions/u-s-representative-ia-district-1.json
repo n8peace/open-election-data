@@ -1,0 +1,214 @@
+{
+  "office": "U.S. Representative",
+  "district": "IA District 1",
+  "division": "ia/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Mariannette Miller-Meeks",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She supported tax cuts that reduce federal taxes on overtime pay.",
+          "quote": "Reducing taxes on overtime pay helps ensure that when workers step up to serve their communities, they are able to keep more of what they earn.",
+          "sourceUrl": "https://millermeeks.house.gov/media/press-releases/miller-meeks-first-responders-deserve-keep-more-their-hard-earned-pay",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "She said wages offered by employers show the labor market is already responding above the minimum wage.",
+          "quote": "So I think you're already seeing the marketplace respond to that.",
+          "sourceUrl": "https://www.wvik.org/wvik-top-stories/2024-10-14/iowa-1st-district-congresswoman-mariannette-miller-meeks-talks-farm-bill-economy-and-more-with-wvik-news",
+          "agreement": "6/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "She introduced legislation removing duties on imported phosphate fertilizer to improve global supply and lower costs.",
+          "quote": "This bill takes a commonsense approach to lowering fertilizer costs by improving access to a reliable global supply while maintaining a strong domestic industry.",
+          "sourceUrl": "https://millermeeks.house.gov/media/press-releases/miller-meeks-introduces-lowering-input-costs-american-farmers-act",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "She said Social Security and Medicare should be protected while the government addresses waste and abuse.",
+          "quote": "That means protecting programs like Social Security and Medicare for those who rely on them, while rooting out abuse and restoring accountability across the board.",
+          "sourceUrl": "https://millermeeks.house.gov/media/press-releases/miller-meeks-washington-waste-failing-iowa-families",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She voted for housing legislation aimed at increasing supply and cutting regulatory red tape.",
+          "quote": "This legislation takes meaningful action to cut unnecessary red tape, increase housing supply, lowe rent, and make it easier for working families to achieve homeownership.",
+          "sourceUrl": "https://millermeeks.house.gov/media/press-releases/miller-meeks-votes-pass-transformational-housing-affordability-legislation",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "She introduced the CHOICE Act to expand educational choice.",
+          "quote": "To expand opportunity through greater choice in education, and for other purposes.",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/BILLS-117hr5959ih/pdf/BILLS-117hr5959ih.pdf",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "She supported appropriations funding police technology, facilities, and other enforcement-oriented public-safety equipment.",
+          "quote": "It includes license plate recognition systems, new body and in-car cameras, upgraded police facilities, school safety panic buttons, a real-time crime monitoring system, and a search-and-rescue drone.",
+          "sourceUrl": "https://millermeeks.house.gov/media/press-releases/miller-meeks-votes-pass-key-appropriations-bills-include-over-3-million",
+          "agreement": "3/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "She supported legislation barring federally assisted housing landlords from restricting tenants' lawful firearm ownership.",
+          "quote": "This legislation evens the playing field for gun owners and prohibits landlords from discriminating against a tenant’s legal right to own a gun.",
+          "sourceUrl": "https://millermeeks.house.gov/media/press-releases/miller-meeks-joins-feenstra-legislation-protect-second-amendment-rights",
+          "agreement": "4/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "She described herself as pro-life, with exceptions for the life of the mother, rape and incest, and said she considered a 15-week limit reasonable.",
+          "quote": "my position on abortion has always been that I am pro-life with exceptions for life of the mother, rape and incest, and that has not changed.",
+          "sourceUrl": "https://www.iowapbs.org/shows/iowapress/debates-congressional-debate/special/8316/1st-congressional-district-debate",
+          "agreement": "5/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "She voted for legislation basing participation in women’s sports on reproductive biology and genetics at birth.",
+          "quote": "ensure that athletic participation is based solely on a person’s reproductive biology and genetics at birth.",
+          "sourceUrl": "https://millermeeks.house.gov/media/press-releases/miller-meeks-votes-protect-womens-sports",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "She backed expanding domestic energy production and said fracking produces affordable energy.",
+          "quote": "American energy should remain in American hands, and fracking produces affordable energy and strengthens our national security.",
+          "sourceUrl": "https://millermeeks.house.gov/issues/energy",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "She voted for the SAVE Act requirement that applicants show proof of U.S. citizenship to register for federal elections.",
+          "quote": "requiring proof of United States citizenship to register an individual to vote in elections for Federal office.",
+          "sourceUrl": "https://millermeeks.house.gov/issues/border-security",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Christina Bohannan",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "She says she would invest in organized labor and union-protected work hours while seeking to increase jobs and wages.",
+          "quote": "Growing Iowa’s economy to increase jobs and wages while continuing to invest in organized labor and union protected man hours",
+          "sourceUrl": "https://bohannanforcongress.com/priorities/",
+          "agreement": "6/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "She says Congress should end tariffs, which she describes as raising costs for Iowans.",
+          "quote": "Exercising Congress’s power to end the disastrous tariffs that are one of the biggest tax increases in American history",
+          "sourceUrl": "https://bohannanforcongress.com/priorities/",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She proposes building and rehabilitating more housing to improve affordability.",
+          "quote": "Building and rehabilitating more housing to make it affordable for every Iowan to find a safe place to live",
+          "sourceUrl": "https://bohannanforcongress.com/priorities/",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports reinvesting in public schools and opposes diverting public funds to private school vouchers.",
+          "quote": "Reinvest in public education at every level: pre-K and K-12 schools, community colleges and universities, and skills training and apprenticeships",
+          "sourceUrl": "https://bohannanforcongress.com/priorities/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports additional border enforcement while also supporting a path to citizenship for certain law-abiding immigrants.",
+          "quote": "I’ll work with anyone to put more Border Patrol agents on the ground, expand inspection equipment to stop fentanyl trafficking, and increase processing capacity.",
+          "sourceUrl": "https://www.kwqc.com/2024/10/22/iowa-us-representatives-1st-district-christina-bohannan/",
+          "agreement": "4/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "She supports the Second Amendment but says passing background checks is important to address gun violence.",
+          "quote": "one of the things that I think is so important is to pass background checks",
+          "sourceUrl": "https://www.kcrg.com/2024/10/22/election-2024-one-on-one-with-christina-bohannan/",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports a Medicare buy-in and expanded public coverage while retaining private insurance as an option.",
+          "quote": "I oppose forcing everyone onto Medicare, so I oppose a single-payer system. I want everyone to have health care coverage, and I want everyone to have choices.",
+          "sourceUrl": "https://bohannanforcongress.com/priorities/",
+          "agreement": "6/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "She supports the Let America Vote Act to let independent voters participate in primaries.",
+          "quote": "Expand Iowans' voice and fight extremism in both parties by passing the Let America Vote Act to allow the 33% of Iowans who are independents to participate in primaries",
+          "sourceUrl": "https://bohannanforcongress.com/priorities/",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "Michael Bridgford",
+      "party": "No Party",
+      "stances": {
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He criticized both insufficient attention to the border and the rounding up of long-time community members, saying the answer lies in the middle.",
+          "quote": "Now we see the pendulum swing all the way to the other side, where we have the issues in Minneapolis, we have community members that have been here a long time, contributing, being rounded up. The answer is in the middle.",
+          "sourceUrl": "https://www.iowapublicradio.org/political-news/2026-04-16/independent-candidate-michael-bridgford-1st-congressional-district",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "millermeeks.house.gov · wvik.org · govinfo.gov · iowapbs.org · bohannanforcongress.com · kwqc.com · kcrg.com · iowapublicradio.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
