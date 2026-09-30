@@ -1,0 +1,246 @@
+{
+  "office": "U.S. Representative",
+  "district": "KS District 4",
+  "division": "ks/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Katy Tyndell",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "She says she will seek common ground to lower taxes for working Kansans.",
+          "quote": "find common ground with anyone willing to lower taxes on working Kansans",
+          "sourceUrl": "https://katyforkansas.com/issues/",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "She said she would end the Trump tariffs, which she says have raised costs for Kansas farmers and consumers.",
+          "quote": "Congress should be doing everything in its power to end the War in Iran, reopen the Strait of Hormuz, and end the Trump tariff policy – all of which have been disastrous for Kansas farmers and consumers.",
+          "sourceUrl": "https://www.kmuw.org/2026-07-20/voter-guide-u-s-congressional-4th-district-candidates-for-the-august-primary-election?_amp=true",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "She proposes reviewing discretionary federal spending line by line and cutting unnecessary expenditures.",
+          "quote": "That means going through the federal budget, line by line, to see what discretionary expenditures are necessary and what should be cut.",
+          "sourceUrl": "https://www.kmuw.org/2026-07-20/voter-guide-u-s-congressional-4th-district-candidates-for-the-august-primary-election?_amp=true",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She said she would support strong public schools and provide students, teachers, and parents with needed resources.",
+          "quote": "In Congress, she will support strong public schools, expand career and technical education, strengthen partnerships between schools and Kansas employers, and ensure students, teachers, and parents have the resources they need to build the next generation of Kansas leaders.",
+          "sourceUrl": "https://katyforkansas.com/issues/",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She proposed revisiting a bipartisan immigration bill that combined stricter asylum rules and border enforcement with legal pathways to citizenship.",
+          "quote": "That bill contained stricter asylum rules, supported legal pathways to citizenship, boosted funding, and enhanced border enforcement.",
+          "sourceUrl": "https://www.kmuw.org/2026-07-20/voter-guide-u-s-congressional-4th-district-candidates-for-the-august-primary-election?_amp=true",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "In legislative testimony, she opposed expanding concealed-carry recognition and called for stronger gun laws.",
+          "quote": "This committee should be focusing on improving Kansas’ gun laws – such as by passing proposals to help keep guns off college campuses – not working to roll back our laws and endanger the public even further.",
+          "sourceUrl": "https://www.kslegislature.gov/li_2018/b2017_18/committees/ctte_h_fed_st_1/documents/testimony/20170208_03.pdf",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She said she would support federal legislation protecting abortion rights.",
+          "quote": "Personally, I believe a woman’s reproductive healthcare decisions should be between her and her doctor – full stop. Kansans voted overwhelmingly in 2022 to protect a woman’s right to choose.",
+          "sourceUrl": "https://www.kmuw.org/2026-07-20/voter-guide-u-s-congressional-4th-district-candidates-for-the-august-primary-election?_amp=true",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "She calls for expanded health-care access and criticizes congressional cuts to Medicaid and ACA subsidies.",
+          "quote": "Meanwhile, due to recent congressional cuts to Medicaid and ACA subsidies, healthcare is becoming a luxury many Kansans can’t afford.",
+          "sourceUrl": "https://www.kmuw.org/2026-07-20/voter-guide-u-s-congressional-4th-district-candidates-for-the-august-primary-election?_amp=true",
+          "agreement": "4/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She described balancing affordable energy with emissions reductions through investment in clean energy and grid modernization.",
+          "quote": "As someone who has worked in the oil and gas industry, I understand both the importance of affordable energy and the need to reduce emissions.",
+          "sourceUrl": "https://www.kmuw.org/2026-07-20/voter-guide-u-s-congressional-4th-district-candidates-for-the-august-primary-election?_amp=true",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "She called for equal access to the ballot and protections for voting rights.",
+          "quote": "Free and fair elections require fair maps, fair representation, equal access to the ballot, and confidence that every vote counts.",
+          "sourceUrl": "https://www.kmuw.org/2026-07-20/voter-guide-u-s-congressional-4th-district-candidates-for-the-august-primary-election?_amp=true",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Ron Estes",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Estes says he helped shape legislation that lowers taxes for families and small businesses.",
+          "quote": "The bill not only implements new provisions for working Kansans, it also prevents the largest tax hike in history.",
+          "sourceUrl": "https://estes.house.gov/taxcuts/",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He voted against the PRO Act, which would have expanded federal labor-organizing protections.",
+          "quote": "Today Rep. Ron Estes (R-Kansas) voted no on the Protecting the Right to Organize (PRO) Act.",
+          "sourceUrl": "https://estes.house.gov/news/documentsingle.aspx?DocumentID=2902",
+          "agreement": "6/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Estes described himself as an advocate for free trade and urged approval of the USMCA and other trade agreements.",
+          "quote": "As a fierce advocate for free and fair trade and member of the USMCA whip team, I look forward to working with President Trump and urging my colleagues to swiftly approve the USMCA.",
+          "sourceUrl": "https://estes.house.gov/news/documentsingle.aspx?DocumentID=829",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He has supported balanced-budget amendments and proposed an across-the-board federal spending reduction.",
+          "quote": "I have supported balanced budget amendments that will force the federal government to get its financial house in order.",
+          "sourceUrl": "https://www.estesforcongress.com/issues",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "Estes supported legislation that includes school choice tax credits to expand education options.",
+          "quote": "New school choice tax credits to expand education opportunities (pending adoption by the governor)",
+          "sourceUrl": "https://estes.house.gov/taxcuts/",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "He strongly disagreed with redirecting police-department funds to community programs.",
+          "quote": "I support redirecting funds from police departments to community programs.",
+          "sourceUrl": "https://ivoterguide.com/candidate/39578/race/1373/election/1246?culture=en-us",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Estes called for stronger border security and enforcement of immigration laws, while supporting legal immigration.",
+          "quote": "Legal immigration is something that we can take pride in, and we should curb the flow of illegal immigration and drugs that have made every state a border state.",
+          "sourceUrl": "https://estes.house.gov/news/email/show.aspx?ID=CV3QRLHPPFA3HL7U33NLF6XJEI",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Estes supported concealed-carry reciprocity legislation, saying it protects gun owners’ rights across state lines.",
+          "quote": "The Concealed Carry Reciprocity Act protects Kansans' Second Amendment right by ensuring that anyone who is allowed to possess a concealed handgun in our state can carry in another state that permits concealed carry",
+          "sourceUrl": "https://estes.house.gov/news/documentsingle.aspx?DocumentID=307",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Estes advocated for policies separating federal family-planning funds from abortion activities and said federal resources should protect unborn life.",
+          "quote": "We must ensure our federal resources protect innocent life rather than funding its destruction.",
+          "sourceUrl": "https://estes.house.gov/news/documentsingle.aspx?DocumentID=7473",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Estes supported the Protection of Women and Girls in Sports Act, which he said would protect female athletes and ensure a level playing field.",
+          "quote": "These bills that we passed in committee support the right for parents to have an active voice in their child's education and protect female athletes from political schemes – ensuring a level playing field.",
+          "sourceUrl": "https://estes.house.gov/news/documentsingle.aspx?DocumentID=3774",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Estes opposed Medicare for All and called for a market-based system with private plan options.",
+          "quote": "Instead of government-run health care, we need a free market system that has more affordable options and allows individuals to choose the plan that works best for them and their families.",
+          "sourceUrl": "https://estes.house.gov/news/documentsingle.aspx?DocumentID=1941",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Estes opposed the Paris Agreement and Green New Deal, citing their potential costs and effects on American jobs.",
+          "quote": "Both the Paris Agreement and Green New Deal would cost our country trillions of dollars and impact millions of American jobs",
+          "sourceUrl": "https://estes.house.gov/news/documentsingle.aspx?DocumentID=1867",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Estes said elections should include voter ID requirements and voted against a bill changing election procedures.",
+          "quote": "It’s vital to have basic safeguards such as voter ID requirements in our elections — which a vast majority of Americans support",
+          "sourceUrl": "https://estes.house.gov/news/documentsingle.aspx?DocumentID=3328",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Drew Cranmer",
+      "party": "Libertarian",
+      "stances": {
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He says he would oppose budgets that add to the debt and cut federal spending to balance the budget.",
+          "quote": "I would audit the Fed, oppose budgets that add to the debt, and cut regulations and licensing rules that block people from starting businesses and finding work.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72643234",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He says he is pro-life, supports states protecting unborn life, and opposes federal legislation restoring a national abortion regime.",
+          "quote": "I support Dobbs and I support the authority of Kansas and every other state to protect unborn life through their own legislatures, accountable to their own people.",
+          "sourceUrl": "https://drew4kansas.com/",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "katyforkansas.com · kmuw.org · kslegislature.gov · estes.house.gov · estesforcongress.com · ivoterguide.com · onyourballot.vote411.org · drew4kansas.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
