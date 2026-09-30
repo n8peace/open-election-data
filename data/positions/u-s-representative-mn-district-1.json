@@ -1,0 +1,184 @@
+{
+  "office": "U.S. Representative",
+  "district": "MN District 1",
+  "division": "mn/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jake Johnson",
+      "party": "Democratic-Farmer-Labor",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports tax cuts for working families and small businesses, paid for by raising taxes on corporations and wealthy people.",
+          "quote": "And I will support tax cuts for working families and small businesses, paid for by raising taxes and closing loopholes for big corporations and the super wealthy.",
+          "sourceUrl": "https://www.jakejohnsonforcongress.com/priorities",
+          "agreement": "9/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "He said teachers’ unions fight for reasonable wages and described his work to improve wages and conditions for unionized public school employees.",
+          "quote": "We’re the ones fighting for smaller class sizes. We’re the ones fighting for reasonable wages,” Johnson said. “That’s happening because of teachers’ unions.",
+          "sourceUrl": "https://www.theguardian.com/us-news/2026/jul/20/jake-johnson-minnesota-interview",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He says he will vote to end tariffs, which he says raise costs for families and farmers.",
+          "quote": "I’ll vote to end the massive tariffs and Iran War driving up the price of groceries, gas, and fertilizer.",
+          "sourceUrl": "https://www.jakejohnsonforcongress.com/priorities",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says he will protect Social Security and Medicare benefits while also pursuing a balanced budget and debt reduction.",
+          "quote": "It also means protecting Social Security, Medicare, and Veterans benefits, and undoing the recent cuts to Medicaid (Medical Assistance) and SNAP.",
+          "sourceUrl": "https://www.jakejohnsonforcongress.com/priorities",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He says he will cut red tape to help build new homes.",
+          "quote": "I’ll cut red tape so we can quickly build new homes, expand childcare options, and support our small businesses.",
+          "sourceUrl": "https://www.jakejohnsonforcongress.com/priorities",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He helped lead a referendum campaign that kept three public schools from closing.",
+          "quote": "he helped lead a referendum campaign that kept three public schools from closing.",
+          "sourceUrl": "https://www.jakejohnsonforcongress.com/meet-jake",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports deporting violent criminals who are in the country illegally while also calling for expanded legal immigration pathways.",
+          "quote": "There is a reasonable way, if we get serious about it, to open up legal pathways for immigration so that people who want to come to our country to improve their lives and improve our communities are actually able to do that.",
+          "sourceUrl": "https://www.kttc.com/2026/04/30/johnson-touts-real-solutions-problems-facing-southern-minnesota-voters/",
+          "agreement": "3/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He said he supports restoring the abortion protections guaranteed under Roe v. Wade.",
+          "quote": "Like most Minnesotans, I believe we should restore the protections guaranteed under Roe v. Wade.",
+          "sourceUrl": "https://www.jakejohnsonforcongress.com/news/ppaf-endorses-jake-johnson",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He says Medicaid should be protected and supports keeping coverage accessible through rural hospitals and health insurance assistance.",
+          "quote": "We deserve a congressman who will protect Medicaid, keep our rural hospitals open, and stand up to the big corporations driving up costs.",
+          "sourceUrl": "https://www.jakejohnsonforcongress.com/news/medicaid-cuts-are-unpopular",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Brad Finstad",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "His campaign says he voted for tax-cut legislation and opposes burdensome taxes.",
+          "quote": "Reckless government spending and burdensome taxes that squeeze small businesses and working families across the district.",
+          "sourceUrl": "https://finstadforcongress.com/issues/",
+          "agreement": "8/10"
+        },
+        "debt": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supported spending limits and debt reduction while saying the plan made no cuts to Medicare or Social Security.",
+          "quote": "This plan places limitations on federal government spending, while maintaining current funding levels for national defense, veterans benefits and healthcare, and national security, and making no cuts to Medicare or Social Security.",
+          "sourceUrl": "https://finstad.house.gov/2023/04/26/2023-4-finstad-statement-on-passage-of-the-limit-save-grow-act/",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supported legislation funding expanded immigration enforcement, border-wall construction, and deportations.",
+          "quote": "Funds the largest deportation effort in history, providing funding for the removal of criminal illegal immigrants.",
+          "sourceUrl": "https://finstad.house.gov/issues/the-working-families-tax-cuts/",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "He cosponsored a resolution condemning New Mexico's temporary restriction on public gun carrying.",
+          "quote": "Condemning the actions of Governor of New Mexico, Michelle Lujan Grisham, for subverting the Second Amendment to the Constitution and depriving the citizens of New Mexico of their right to bear arms.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-118hres684ih",
+          "agreement": "5/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He cosponsored and supported the Born-Alive Abortion Survivors Protection Act and described himself as committed to protecting human life.",
+          "quote": "I will always support the sanctity of life and fight to protect the most vulnerable among us.",
+          "sourceUrl": "https://finstad.house.gov/2023/01/11/2023-1-finstad-votes-to-protect-the-right-to-life/",
+          "agreement": "7/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He criticized Minnesota's policy allowing transgender girls to compete on girls' and women's teams.",
+          "quote": "Girls deserve a fair playing field in competitive sports, which the State of Minnesota has denied them by allowing biological males to take roster positions, scholarships, and even championships away from them.",
+          "sourceUrl": "https://finstad.house.gov/2025/06/26/2025-6-finstad-applauds-hhs-investigation-into-state-of-minnesota-for-discrimination-against-female-athletes/",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He voted for legislation expanding insurance options including employer-funded individual coverage arrangements and association health plans.",
+          "quote": "For too long, Washington has pushed a one-size-fits-all health care system.",
+          "sourceUrl": "https://finstad.house.gov/2025/12/17/2025-12-finstad-votes-to-lower-health-care-premiums-for-all-americans/",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He voted to streamline federal approvals for U.S. liquefied natural gas exports, arguing restrictions on natural gas drive up utility costs.",
+          "quote": "Under the Biden Administration, states and localities across the country have attempted to restrict or phase out natural gas, driving up utility costs, weakening grid reliability, and threatening the competitiveness of rural communities.",
+          "sourceUrl": "https://finstad.house.gov/2025/11/21/2025-11-finstad-votes-to-advance-america-first-energy-policies-supports-unlocking-our-domestic-lng-potential-act/",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "His campaign says he supports the SAVE Act's proof-of-citizenship and identity requirements for federal voter registration.",
+          "quote": "Brad co-sponsored the SAVE Act, which requires proof of U.S. citizenship and identity to register to vote in federal elections.",
+          "sourceUrl": "https://finstadforcongress.com/issues/",
+          "agreement": "6/10"
+        }
+      }
+    }
+  ],
+  "sources": "jakejohnsonforcongress.com · theguardian.com · kttc.com · finstadforcongress.com · finstad.house.gov · govinfo.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

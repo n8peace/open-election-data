@@ -1,0 +1,192 @@
+{
+  "office": "U.S. Representative",
+  "district": "MN District 3",
+  "division": "mn/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Kelly Morrison",
+      "party": "Democratic-Farmer-Labor",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She criticized tax cuts for billionaires that are paired with cuts to health care and child care.",
+          "quote": "Instead, they have been singularly focused on ways they can cut taxes for billionaires, and they’re paying for it by cutting Americans’ access to everything from health care to child care.",
+          "sourceUrl": "https://morrison.house.gov/media/press-releases/us-rep-kelly-morrison-joins-freshman-democrats-demanding-speaker-johnson-bring",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She said she would support the PRO Act to enable workers to organize and bargain collectively.",
+          "quote": "to ensure all Americans can bargain collectively and organize.",
+          "sourceUrl": "https://minneapolisunions.org/news/mlr2024-10-19-cd3-kelly-morrison",
+          "agreement": "3/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "She called for ending Trump's tariff war and said tariffs raise consumer costs and threaten small businesses.",
+          "quote": "These tariffs are a tax on the consumer and an existential threat to many of our small businesses.",
+          "sourceUrl": "https://morrison.house.gov/media/press-releases/us-rep-kelly-morrison-leads-effort-calling-speaker-johnson-take-action",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She said she is fighting to protect Americans’ access to Social Security.",
+          "quote": "Representative Kelly Morrison is fighting to protect Americans’ hard-earned access to Social Security, and is calling on her Republican colleagues",
+          "sourceUrl": "https://morrison.house.gov/media/press-releases/us-rep-kelly-morrison-raises-local-bloomington-residents-concern-over-trumps",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Morrison secured funding for infrastructure intended to unlock land for development and housing.",
+          "quote": "This project would provide the utility infrastructure necessary to unlock 400 acres of developable land, attracting development, housing, innovation, and economic growth to Brooklyn Park.",
+          "sourceUrl": "https://morrison.house.gov/media/press-releases/us-rep-kelly-morrison-secures-over-11-million-funding-minnesotas-third",
+          "agreement": "3/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "She secured federal funding for local law-enforcement training and a police records-management system.",
+          "quote": "The project will provide rigorous, practical training to local law enforcement, improving public safety.",
+          "sourceUrl": "https://morrison.house.gov/media/press-releases/us-rep-kelly-morrison-secures-over-11-million-funding-minnesotas-third",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She called for blocking additional ICE and Border Patrol funding and has emphasized protections for people facing immigration enforcement.",
+          "quote": "We cannot give one more penny to ICE as long as this lawless agency is violating Americans’ Constitutional rights, blatantly racially profiling, brutalizing people, terrorizing our communities, traumatizing our children, and killing people in our streets and in their custody.",
+          "sourceUrl": "https://morrison.house.gov/media/press-releases/us-rep-kelly-morrison-stands-minnesotans-ahead-vote-dhs-funding",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "At a gun violence prevention town hall, Morrison called for measures including universal background checks and an assault weapons ban.",
+          "quote": "Banning assault weapons. [Standing ovation.] I’m going to take a clip of that moment back to DC and play it for my colleagues.",
+          "sourceUrl": "https://morrison.house.gov/media/press-releases/us-rep-kelly-morrison-holds-town-hall-gun-violence-prevention",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Morrison said she would continue fighting for reproductive freedom and abortion access.",
+          "quote": "We will never back down. We will always fight for your right to reproductive freedom.",
+          "sourceUrl": "https://morrison.house.gov/media/press-releases/congresswoman-kelly-morrison-delivers-remarks-anniversary-roe-v-wade",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "She voted against the Protection of Women and Girls in Sports Act, which would have defined sex in school athletics solely by reproductive biology and genetics at birth.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512?Title=sports",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "She opposed proposed Medicaid cuts and introduced an amendment to protect Medicaid-funded services and hospitals.",
+          "quote": "proposing that Republicans’ proposed cuts to Medicaid cannot take effect until an independent study confirms they will not result in hospital closures or reductions in services.",
+          "sourceUrl": "https://morrison.house.gov/media/press-releases/us-rep-kelly-morrison-continues-fight-protect-medicaid-new-amendment-protect",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "In a questionnaire response, Morrison called climate action and environmental justice priorities for her congressional work.",
+          "quote": "As a physician, I view legislation through a public health lens, so climate action and environmental justice are priorities, have been at the forefront of my work, and will continue to be in Congress.",
+          "sourceUrl": "https://www.lcv.org/bio/kelly-morrison/",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "She introduced the Voter Choice Act to make it easier for states and local governments to adopt ranked-choice voting.",
+          "quote": "the Voter Choice Act simply makes it easier for state and local governments to switch to ranked choice voting.",
+          "sourceUrl": "https://morrison.house.gov/media/press-releases/us-rep-kelly-morrison-introduces-bill-support-ranked-choice-voting",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Tyler Bass",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "His campaign lists lower taxes among its priorities, and Bass says he will remove federal interference from local property-tax structures.",
+          "quote": "The Tyler Bass for Congress campaign is powered by volunteers who believe Minnesota deserves stronger leadership, lower taxes, safer communities, and greater economic opportunity.",
+          "sourceUrl": "https://bassforcongress.com/internship/",
+          "agreement": "3/3"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He says wages should rise through economic growth and worker options rather than mandates.",
+          "quote": "Create conditions where wages can actually rise to meet the cost of living — not by mandate, but by growing an economy where workers have real options and real leverage.",
+          "sourceUrl": "https://bassforcongress.com/make-minnesota-affordable-again/",
+          "agreement": "2/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He proposes increasing housing supply and reducing construction regulations to make homeownership more accessible.",
+          "quote": "That means pushing for policies that bring mortgage rates down, increase housing supply, reduce the regulatory burden on construction, and give young Minnesotans a realistic path to owning their first home before they turn 40.",
+          "sourceUrl": "https://bassforcongress.com/make-minnesota-affordable-again/",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He said he wants to pause immigration and supports deporting people who are in the country illegally.",
+          "quote": "My position is direct: I want to stop immigration, 100 percent — in a perfect world, we would pause all immigration, including H-1B visas, for the next 10 years.",
+          "sourceUrl": "https://bassforcongress.com/about/",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He said he would not vote to ban AR-15s, limit magazine capacity, or add requirements for law-abiding gun owners.",
+          "quote": "I will never vote to ban the AR-15, restrict magazine capacity, or add new hoops for law-abiding gun owners.",
+          "sourceUrl": "https://bassforcongress.com/",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He proposes bringing back individually underwritten policies and expanding access to private group-style coverage.",
+          "quote": "First: bring back fully underwritten individual policies. Let people who are healthy pay less.",
+          "sourceUrl": "https://bassforcongress.com/i-sold-health-insurance-for-a-living-heres-why-your-premium-is-broken-and-how-id-fix-it/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "morrison.house.gov · minneapolisunions.org · clerk.house.gov · lcv.org · bassforcongress.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

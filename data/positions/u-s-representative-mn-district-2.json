@@ -1,0 +1,184 @@
+{
+  "office": "U.S. Representative",
+  "district": "MN District 2",
+  "division": "mn/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Matt Little",
+      "party": "Democratic-Farmer-Labor",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He proposes raising taxes on high earners and corporations to fund tax relief for working families, alongside expanded child care and other supports.",
+          "quote": "By raising the corporate tax rate, increasing taxes on the highest earners, and eliminating loopholes like Carried Interest, we can finance the most effective tax breaks for working people to help more people afford a home, build a family, or start a business.",
+          "sourceUrl": "https://littleforcongress.com/key-issues/fighting-for-tax-cuts/",
+          "agreement": "7/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He says workers’ right to organize should be defended and that strong unions raise wages for union and non-union workers.",
+          "quote": "I’ll defend the right to organize – strong unions raise wages for union and non-union workers alike.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=3761044",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He says he will reject tariffs he considers reckless because they hurt farmers and manufacturers and raise consumer prices.",
+          "quote": "And I’ll reject reckless tariffs that hurt farmers and manufacturers while raising consumer prices.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=3761044",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He proposes raising the Social Security tax cap, opposes raising the retirement age, and says he will oppose cuts to Medicaid and SNAP.",
+          "quote": "I’ll raise the cap on Social Security taxation to stabilize the trust fund, oppose raising the retirement age, and restore the SSA staffing DOGE gutted.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=3761044",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He says he will build more housing of all types to address the housing shortage.",
+          "quote": "I’ll build more housing of all types to close the home shortage, expand the Child Tax Credit and childcare subsidies, establish universal pre-K, cap student loan interest at 2%, and close loopholes used exclusively by the ultra-wealthy.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=3761044",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He says he supported police staffing and opposed cuts to police staff while mayor and state senator.",
+          "quote": "That included preserving the pensions for police officers and firefighters, funding the Dakota County SMART center for best practices training, opposing cuts to police staff.",
+          "sourceUrl": "https://littleforcongress.com/key-issues/fighting-for-safe-neighborhoods/",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He pledged to cut ICE funding and replace the agency with a federal immigration agency that follows the law and Constitution.",
+          "quote": "Cut ICE funding immediately to pre-Trump levels, then Replace ICE with a federal immigration agency that Americans can trust and that obeys the Law and Constitution.",
+          "sourceUrl": "https://littleforcongress.com/key-issues/fighting-to-get-ice-out-of-minnesota-now/",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "As a state senator, he sponsored legislation requiring background checks for firearm transfers.",
+          "quote": "A bill for an act relating to public safety; requiring criminal background checks for firearm transfers; excepting certain transfers; amending Minnesota Statutes 2016, sections 609.66, by adding a subdivision; 624.7132, subdivision 12; proposing coding for new law in Minnesota Statutes, chapter 624; repealing Minnesota Statutes 2016, sections 609.66, subdivision 1f; 624.7132, subdivision 14.",
+          "sourceUrl": "https://www.revisor.mn.gov/bills/90/2018/0/SF/3279/versions/0/",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He says he will champion reproductive freedom and accessible reproductive healthcare.",
+          "quote": "I will champion women's reproductive freedom, ensuring every woman can actually exercise her rights through accessible, affordable healthcare in every community.",
+          "sourceUrl": "https://littleforcongress.com/key-issues/",
+          "agreement": "6/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "He pledges to support the Equality Act's protections against gender-identity discrimination in public education.",
+          "quote": "Pass the Equality Act (119th Congress: HR 15; S 1503) which amends the Civil Rights Act, among other laws, to ban discrimination based on sexual orientation, gender identity, and sex in employment, housing, public accommodations, public education, medical care, criminal justice system, credit, and federal funding, federal employment, jury service, and social services.",
+          "sourceUrl": "https://littleforcongress.com/key-issues/fighting-fot-lgbtqia2s-rights/",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports making Medicare available to all Americans and expanding Medicare and Medicaid’s ability to negotiate prescription drug prices.",
+          "quote": "Medicare for All: We CAN guarantee affordable healthcare for everyone by simply making Medicare available for all Americans.",
+          "sourceUrl": "https://littleforcongress.com/key-issues/fighting-for-healthcare/",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He says he will rejoin the Paris Agreement and restore incentives for renewable energy, electric vehicles, and grid modernization.",
+          "quote": "I’ll work to rejoin the Paris Agreement, restore tax incentives for renewable energy, EVs, and grid modernization.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=3761044",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He supports federal voting-rights legislation and automatic, same-day, and online registration, along with early and absentee voting.",
+          "quote": "I support the Freedom to Vote Act, the John Lewis Voting Rights Advancement Act, and the Voter Empowerment Act – automatic, same-day, and online registration, adequate early and absentee voting, an end to voter caging and intimidation, and restored voting rights after a sentence is served.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=3761044",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Eric Pratt",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "In an interview, Pratt said Minnesota families are overtaxed and called for pro-growth strategies to help balance the budget.",
+          "quote": "Right now, especially here in Minnesota, we are so overtaxed.",
+          "sourceUrl": "https://www.mprnews.org/story/2026/08/12/republican-eric-pratt-advances-in-competitive-2nd-congressional-district-race",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "His campaign says he supports law enforcement and policies to keep families and communities safe.",
+          "quote": "Eric Pratt supports law enforcement, first responders and policies that keep families safe and communities secure.",
+          "sourceUrl": "https://www.ericprattmn.com/",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "Pratt criticized Minnesota’s abortion protections and said Republican amendments would have recognized the rights of unborn babies.",
+          "quote": "Senate Republicans spent hours trying to offer commonsense amendments that balanced individual rights, protected parental rights, and would have recognized the rights of unborn babies.",
+          "sourceUrl": "https://www.mnsenaterepublicans.com/senate-democrats-force-through-extreme-abortion-bill/",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Pratt said he favors healthcare competition over a single-payer system, while saying everyone should have access to needed care.",
+          "quote": "I do know that that having a single-payer system would be more expensive than allowing competition back into healthcare and helping patients be better consumers.",
+          "sourceUrl": "https://www.mprnews.org/story/2026/08/12/republican-eric-pratt-advances-in-competitive-2nd-congressional-district-race",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He helped introduce legislation requiring photo identification to vote and creating a free voter-ID option.",
+          "quote": "In February, Sen. Eric Pratt, R-Prior Lake, and four other Republican senators introduced a bill, SF3571, to add a photo ID requirement and create a free voter ID card as an option.",
+          "sourceUrl": "https://swnewsmedia.com/jordan_independent/news/scott-county-voters-pick-biden-on-super-tuesday/article_deb1ea7c-efab-52bf-8e79-38164feb8ff5.html",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "littleforcongress.com · onyourballot.vote411.org · revisor.mn.gov · mprnews.org · ericprattmn.com · mnsenaterepublicans.com · swnewsmedia.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

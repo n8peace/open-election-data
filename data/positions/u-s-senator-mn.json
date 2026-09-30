@@ -1,0 +1,195 @@
+{
+  "office": "U.S. Senator",
+  "district": "MN",
+  "division": "mn/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Peggy Flanagan",
+      "party": "Democratic-Farmer-Labor",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supports a $17 federal minimum wage tied to inflation and stronger rights for workers to organize.",
+          "quote": "Peggy co-chaired the Raise the Wage campaign in Minnesota and supports a $17 federal minimum wage tied to inflation to keep up with the increased costs of food, housing, and everyday essentials.",
+          "sourceUrl": "https://peggyflanagan.com/priorities/",
+          "agreement": "3/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "As lieutenant governor, she participated in the administration that legalized adult-use cannabis in Minnesota and expunged nonviolent cannabis convictions.",
+          "quote": "Governor Walz and Lieutenant Governor Flanagan legalized adult-use cannabis and expunged nonviolent cannabis convictions in Minnesota.",
+          "sourceUrl": "https://mn.gov/governor/accomplishments/accomplishments.jsp",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Michele Tafoya",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She says Congress should spend, borrow, and tax less, and opposes middle-class tax increases.",
+          "quote": "We need outsiders who will make Congress spend less, borrow less and tax less — and invest in American workers instead of selling them out.",
+          "sourceUrl": "https://micheletafoya.com/issues/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "She says she would increase funding, equipment, and training for law enforcement.",
+          "quote": "As our Senator, Michele will push for more funding, top-quality equipment and training for the men and women who put their own safety at risk to protect us all, and fight against efforts to remove the legal protections they need to do their job.",
+          "sourceUrl": "https://micheletafoya.com/issues/",
+          "agreement": "3/5"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "She says she would pursue tougher penalties and mandatory minimum sentences for fraud offenses.",
+          "quote": "As our Senator, Michele will fight for what Minnesotans want: tougher penalties, safer neighborhoods and the rights of victims and innocent families to live in peace.",
+          "sourceUrl": "https://micheletafoya.com/issues/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "She says she would enforce immigration laws and deport criminal undocumented immigrants.",
+          "quote": "Enforce our laws, deport criminal illegal aliens and let federal, state and local law enforcement work together.",
+          "sourceUrl": "https://micheletafoya.com/issues/",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "She says she would keep men out of women’s sports and locker rooms.",
+          "quote": "The radical social experiments on our daughters have to stop. As our Senator, Michele will protect Minnesota kids from insane ideologies and keep men out of women’s sports and locker rooms.",
+          "sourceUrl": "https://micheletafoya.com/issues/",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She criticizes both government and corporate health care bureaucracies and says patients should retain control.",
+          "quote": "For decades, we had one party establishment trying to hand our healthcare decisions to faceless government bureaucrats that would leave us waiting longer for worse care, and another party establishment that let faceless corporate bureaucrats deny claims and overcharge patients for insurance premiums, procedures and prescription drugs.",
+          "sourceUrl": "https://micheletafoya.com/issues/",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "She supports using all U.S. energy sources to lower utility bills and gas prices while protecting the environment.",
+          "quote": "Our family budgets and national security depend on affordable, clean-burning American energy that doesn’t stop when the sun sets or the wind stops blowing.",
+          "sourceUrl": "https://micheletafoya.com/issues/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "She says she supports voter ID and paper ballots to protect elections.",
+          "quote": "There is no excuse for not protecting our democracy with voter ID and paper ballots.",
+          "sourceUrl": "https://micheletafoya.com/issues/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Marisa Simonetti",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She said she would oppose property-tax increases.",
+          "quote": "First, I would vote “no” on property tax increases.",
+          "sourceUrl": "https://www.eplocalnews.org/wp-content/uploads/2024/10/VoterGuide2024FINALWeb.pdf",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She supports mixed-income housing near transit and zoning reforms to promote development.",
+          "quote": "I will fight for mixed-income housing near transit, down payment assistance, and zoning reforms that promote smart, inclusive development.",
+          "sourceUrl": "https://www.marisasimonetti.com/",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports stable public school funding and expanded early childhood programs.",
+          "quote": "I will fight for stable public school funding, expanded early childhood programs, and competitive pay for our teachers.",
+          "sourceUrl": "https://www.marisasimonetti.com/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "She says immigration policy should prioritize national sovereignty and strict enforcement of constitutional borders.",
+          "quote": "Policies that prioritize absolute national sovereignty, legal clarity, and strict enforcement of constitutional borders",
+          "sourceUrl": "https://www.kaxe.org/2026-09-25/senate-flanagan-tafoya-whiting-simonetti-mn-2026-election-guide",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Her campaign supports expanding renewable energy and reducing dependence on fossil fuels while emphasizing affordability.",
+          "quote": "I support expanding access to solar, wind, and geothermal energy through incentives, grid upgrades, and community-owned renewable projects that keep profits local.",
+          "sourceUrl": "https://www.marisasimonetti.com/",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "She supports universal voter ID requirements and regular audits of voter registries.",
+          "quote": "I support universal voter ID requirements, regular auditing of voter registries, and ensuring all voting mechanisms are completely transparent.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=72683304",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Rebecca Whiting",
+      "party": "Libertarian",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Her campaign site says she opposes taxation.",
+          "quote": "Taxation is theft. Should we tax it? No.",
+          "sourceUrl": "https://whiting4senate.us/",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Her campaign calls for privatizing the VA and using the free market for veterans' care.",
+          "quote": "The VA system is a failed system. Privatize the VA, allow the free market to give veterans the best access to care when they need it and when they need it quickly.",
+          "sourceUrl": "https://whiting4senate.us/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "peggyflanagan.com · mn.gov · micheletafoya.com · eplocalnews.org · marisasimonetti.com · kaxe.org · onyourballot.vote411.org · whiting4senate.us",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

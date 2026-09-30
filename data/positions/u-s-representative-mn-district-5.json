@@ -1,0 +1,286 @@
+{
+  "office": "U.S. Representative",
+  "district": "MN District 5",
+  "division": "mn/cd-5",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Ilhan Omar",
+      "party": "Democratic-Farmer-Labor",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "She supports repealing tax cuts for high earners and raising taxes on wealthy Americans to support federal programs.",
+          "quote": "Repeal the Republican’s 2017 tax scheme that cut taxes for the nation’s highest earners while driving down revenue for important federal programs that support everyday Americans",
+          "sourceUrl": "https://ilhanomar.com/issue/economicjustice/",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Omar says she is a staunch supporter of raising the minimum wage.",
+          "quote": "That’s why I am a staunch supporter of raising the minimum wage, which will reverse the stagnant growth workers have been struggling with for decades",
+          "sourceUrl": "https://omar.house.gov/issues",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She supports strengthening Social Security and expanding Medicare coverage.",
+          "quote": "Pass Medicare for All so that every resident of the United States has guaranteed access to care. Strengthen and protect critical Social Security benefits",
+          "sourceUrl": "https://ilhanomar.com/issue/disability-accessibility-advocacy/",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Omar introduced the Homes for All Act, which would fund millions of new public and affordable rental units.",
+          "quote": "Pass my Homes for All Act to provide an influx of federal housing funding with the goal of jumpstarting the market and produce 8.5 million new units of public housing over the course of 10 years",
+          "sourceUrl": "https://ilhanomar.com/issue/housing/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Omar says she supports increasing federal funding for education programs and grants to local schools.",
+          "quote": "That means increasing federal funding for crucial education programs and grants to local schools, as well as repairing and updating classroom infrastructure.",
+          "sourceUrl": "https://omar.house.gov/issues/education",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "Omar argued for addressing root causes and justice reforms rather than expanding policing structures.",
+          "quote": "The answer is not a larger security structure or an omnipresent police state, but a system of justice that respects everyone's rights and essential dignity.",
+          "sourceUrl": "https://omar.house.gov/media/in-the-news/rep-omar-essay-atlantic-protecting-our-democracy",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Omar says she supports helping undocumented immigrants gain rights and has called for expanded refugee resettlement.",
+          "quote": "In Congress, I am committed to doing all I can to help the over 11 million undocumented immigrations living in the United States come out of the shadows and get access to rights and privileges they deserve.",
+          "sourceUrl": "https://omar.house.gov/issues",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Omar voted for an assault weapons ban and said such weapons have no place on the streets.",
+          "quote": "These weapons of war have no place on our streets.",
+          "sourceUrl": "https://omar.house.gov/media/press-releases/rep-ilhan-omar-votes-assault-weapons-ban",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Omar’s campaign says she supports codifying Roe v. Wade and ensuring access to abortion care.",
+          "quote": "All women deserve the right to accessible and affordable reproductive healthcare, and access to a safe, affordable abortion.",
+          "sourceUrl": "https://ilhanomar.com/issue/healthcare/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Omar voted against the Protection of Women and Girls in Sports Act, which based Title IX athletics rules on sex at birth.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512?Title=sports",
+          "agreement": "7/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Omar praised Minnesota’s legalization of adult-use cannabis and supported legalizing and regulating it.",
+          "quote": "I couldn’t be prouder of my state for taking action to legalize and regulate cannabis use and expunge low-level criminal records.",
+          "sourceUrl": "https://omar.house.gov/media/in-the-news/rep-ilhan-omar-support-adult-use-cannabis-minnesota",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Omar says she supports Medicare for All, a single-payer system that would guarantee coverage.",
+          "quote": "Ilhan will fight for Medicare for All, a single-payer healthcare system that guarantees quality care for every American.",
+          "sourceUrl": "https://ilhanomar.com/issue/healthcare/",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Omar says her environmental priority is reducing emissions by shifting from fossil fuels to clean energy.",
+          "quote": "In Congress, my top environmental priority is addressing climate change and helping our country reduce its carbon footprint by transitioning away from a reliance on fossil fuels and moving towards a 100% clean energy economy.",
+          "sourceUrl": "https://omar.house.gov/issues",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Omar supports rolling back restrictive voting laws and expanding voting access.",
+          "quote": "I also support rolling back restrictive voting laws that keep eligible citizens from casting a ballot.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=3761047",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "John Nagel",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Nagel says he would cut taxes and reduce government spending.",
+          "quote": "I will cut taxes, fight inflation, eliminate fraud and waste, and restore accountability in Washington.",
+          "sourceUrl": "https://nagelforcongress.com/",
+          "agreement": "3/3"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "He says he would let the market set wages rather than raise the minimum wage.",
+          "quote": "Its hurting company's, causing many to close. I would rather see no tax on tips, and let the market set wages.",
+          "sourceUrl": "https://ivoterguide.com/candidate/82129/race/12343/election/1249?culture=en-us",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He strongly supports funding models that let families choose public, private, or homeschool options.",
+          "quote": "School choice is paramount to a child's progress. Parents should have the right to choose educational avenues for their children",
+          "sourceUrl": "https://ivoterguide.com/candidate/82129/race/12343/election/1249?culture=en-us",
+          "agreement": "2/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Nagel says he would fund and support law enforcement and keep violent criminals off the streets.",
+          "quote": "In Congress, I will work with the Attorney General to make sure violent criminals are kept off our streets, schools are fully protected, and our men and women in blue receive the funding and support they deserve.",
+          "sourceUrl": "https://nagelforcongress.com/",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Nagel calls for a tightly secured border while also supporting legal immigration and faster processing.",
+          "quote": "In Congress, I will fight to make sure our border is locked down so tightly that Democrats can never tear it open again.",
+          "sourceUrl": "https://nagelforcongress.com/",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He says Minnesota's existing gun laws are sufficient and should be enforced.",
+          "quote": "Minnesota gun laws are more than sufficient, However activist judges and prosecutors are ignoring and choosing not to use our current laws",
+          "sourceUrl": "https://ivoterguide.com/candidate/82129/race/12343/election/1249?culture=en-us",
+          "agreement": "2/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He said elective abortion should be allowed to save the mother's life.",
+          "quote": "Under what circumstances should an elective abortion be allowed?\n\nSave the life of the Mother",
+          "sourceUrl": "https://ivoterguide.com/candidate/82129/race/12343/election/1249?culture=en-us",
+          "agreement": "2/3"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He strongly agreed that biological males should not participate in women's sports or use women's spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/82129/race/12343/election/1249?culture=en-us",
+          "agreement": "2/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He supports continuing Medicare for people who paid into it while offering additional private-insurance choices.",
+          "quote": "c Medicare for those who have paid in. Additional private Insurance company choices for those that wish it.",
+          "sourceUrl": "https://ivoterguide.com/candidate/82129/race/12343/election/1249?culture=en-us",
+          "agreement": "2/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Nagel says he would expand American energy production, lower costs, and reduce reliance on foreign energy.",
+          "quote": "I will fight to unleash American energy, cut costs for hardworking families, and end our dangerous reliance on foreign adversaries.",
+          "sourceUrl": "https://nagelforcongress.com/",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He says voters should be required to show identification and supports one vote per name.",
+          "quote": "We need voter id, we need one vote one name.",
+          "sourceUrl": "https://ivoterguide.com/candidate/82129/race/12343/election/1249?culture=en-us",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "DeVelle L. Jackson",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He supports taxing billionaires and the ultra-wealthy and investing the revenue in housing, health care, and public services.",
+          "quote": "I support a Rich Tax on billionaires and the ultra-wealthy, with a steeper income-tax curve at the very top and stronger action against offshore tax avoidance and corporate loopholes.",
+          "sourceUrl": "https://jacksonforcongress.us/platform/",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports stronger labor protections, union organizing and bargaining, and prevailing wages on federally funded construction.",
+          "quote": "I support stronger federal labor protections, meaningful penalties for union-busting and wage theft, prevailing wages on federally funded construction, expanded registered apprenticeships, and opposition to national right-to-work laws that weaken collective bargaining.",
+          "sourceUrl": "https://jacksonforcongress.us/platform/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He supports federal investment and transit-oriented development to expand housing supply.",
+          "quote": "I will pursue mixed-use, transit-oriented growth around Lake Street, West Bank, Franklin, Nicollet Mall, Hennepin Ave, and other important corridors by connecting housing with jobs, storefronts, reliable transit, walkability, public space, and community services.",
+          "sourceUrl": "https://jacksonforcongress.us/platform/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He supports adequate funding for public schools and opposes weakening federal support for under-resourced schools.",
+          "quote": "Public schools need adequate funding tied to clear, locally designed, measurable plans.",
+          "sourceUrl": "https://jacksonforcongress.us/platform/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "He calls immigration-enforcement spending excessive and supports due-process protections in ICE enforcement and detention.",
+          "quote": "ICE requires serious institutional reform so agents are clearly identifiable, due process is protected in the field and in detention, and misconduct carries real consequences.",
+          "sourceUrl": "https://jacksonforcongress.us/platform/",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "ilhanomar.com · omar.house.gov · clerk.house.gov · onyourballot.vote411.org · nagelforcongress.com · ivoterguide.com · jacksonforcongress.us",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
