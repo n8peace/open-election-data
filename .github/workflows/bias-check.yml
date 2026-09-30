@@ -51,9 +51,18 @@ jobs:
         id: review
         run: npm run bias-check -- pr.diff
         continue-on-error: true
+      # Posting the comment can fail when GitHub itself is having trouble; that shouldn't
+      # fail the check. Retry a few times, then carry on (the verdict is in the step above).
       - name: Post the result on the pull request
         if: always() && hashFiles('bias-report.md') != ''
-        run: gh pr comment "$PR" --repo "$GITHUB_REPOSITORY" --body-file bias-report.md --edit-last || gh pr comment "$PR" --repo "$GITHUB_REPOSITORY" --body-file bias-report.md
+        continue-on-error: true
+        run: |
+          for i in 1 2 3; do
+            gh pr comment "$PR" --repo "$GITHUB_REPOSITORY" --body-file bias-report.md --edit-last && exit 0
+            gh pr comment "$PR" --repo "$GITHUB_REPOSITORY" --body-file bias-report.md && exit 0
+            sleep 20
+          done
+          exit 1
       - name: Block on a confirmed high-severity concern
         if: steps.review.outcome == 'failure'
         run: exit 1
