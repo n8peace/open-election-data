@@ -1,0 +1,152 @@
+{
+  "office": "U.S. Representative",
+  "district": "CT District 5",
+  "division": "ct/cd-5",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jahana Hayes",
+      "party": "Democratic; Working Families",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "She voted against a budget framework that paired tax cuts for wealthy people with cuts to public programs.",
+          "quote": "My vote today reflects my unwavering opposition to a bill that prioritizes tax cuts for the ultra-rich over the fundamental needs of our children and families.",
+          "sourceUrl": "https://hayes.house.gov/2025/7/hayes-statement-on-h-r-1-the-one-big-beautiful-bill",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She introduced legislation to raise tipped workers’ wages and co-led the Raise the Wage Act.",
+          "quote": "My Tipped Worker Protection Act is about restoring dignity to the service industry and affirming a simple principle: all work has value, and every worker deserves the security of a full, fair wage.",
+          "sourceUrl": "https://hayes.house.gov/2025/9/hayes-introduces-legislation-to-ensure-workers-recieve",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She signed a petition to bring the Social Security Fairness Act to a vote and said she supports strengthening Social Security.",
+          "quote": "I have long supported efforts to repeal these harmful provisions and advocated for key reforms to strengthen Social Security so retiring seniors and young people can continue to count on this bedrock insurance program for generations to come.",
+          "sourceUrl": "https://hayes.house.gov/2024/9/hayes-signs-discharge-petition-to-force-floor-vote-on-social-security-fairness-act",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Her campaign says sustained federal investment in public schools is necessary and supports fully funding IDEA.",
+          "quote": "As a teacher in Waterbury Public Schools, she saw how sustained federal investment is necessary to ensure all students receive a free and appropriate education.",
+          "sourceUrl": "https://jahanahayes.com/issues/education/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She supported immigration reform bills that provide pathways to citizenship for Dreamers and farmworkers.",
+          "quote": "The American Dream and Promise Act finally ends the legal uncertainty Dreamers have endured by giving them the assurance they have a pathway to becoming an American citizen.",
+          "sourceUrl": "https://hayes.house.gov/2021/3/hayes-statement-passage-immigration-reform-legislation",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supported universal background check legislation and described it as a necessary step to prevent gun violence.",
+          "quote": "Universal background checks are supported by over 90% of Americans. This is not a partisan issue. This is a commonsense solution to a problem that effects every community across the country.",
+          "sourceUrl": "https://hayes.house.gov/2021/3/hayes-statement-reintroduction-universal-background-check-legislation",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Her campaign says she supports codifying a woman's right to choose after the reversal of Roe v. Wade.",
+          "quote": "Congresswoman Hayes remains committed to codifying a woman’s right to choose and has supported numerous efforts to regain this right.",
+          "sourceUrl": "https://jahanahayes.com/issues/protecting-the-right-to-choose/",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She voted to extend ACA premium tax credits and said everyone should have access to healthcare.",
+          "quote": "Every American should have access to healthcare and Republicans have failed to offer any other options.",
+          "sourceUrl": "https://hayes.house.gov/2026/1/hayes-votes-to-extend-affordable-care-act-aca-tax-credits",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Her campaign says she led legislation for zero-emission school buses and supports renewable-energy research to reduce fossil-fuel dependence.",
+          "quote": "She has also championed the cleanup of brownfields across the district and led legislation to support zero-emission school buses.",
+          "sourceUrl": "https://jahanahayes.com/issues/environment/",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She voted against the SAVE Act, saying it would impede voting and end mail-in and online voter registration.",
+          "quote": "The SAVE Act would end both mail-in and online voter registration, which could prevent millions of Americans living overseas from exercising the right to vote.",
+          "sourceUrl": "https://hayes.house.gov/2025/4/hayes-votes-against-legislation-to-block-americans-from-the-ballot-box",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Chris Shea",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Shea says he would work to reduce Connecticut families’ tax burden.",
+          "quote": "He will fight for policies that lower energy costs, reduce the tax burden, and promote practical housing solutions that help more people afford to live and work in Connecticut.",
+          "sourceUrl": "https://chrissheaforcongress.com/issues/",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He says he would fund Border Patrol and support law enforcement.",
+          "quote": "He will fight to fund border patrol, support law enforcement, and put the safety of American families first.",
+          "sourceUrl": "https://chrissheaforcongress.com/issues/",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He says he would secure the border, enforce immigration laws, and stop illegal immigration.",
+          "quote": "Chris will always fight to secure the border, enforce our immigration laws, and stop the flow of fentanyl and other deadly drugs into our neighborhoods.",
+          "sourceUrl": "https://chrissheaforcongress.com/issues/",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He says he would support policies to lower energy costs and reduce barriers that drive them up.",
+          "quote": "He will fight for policies that lower energy costs, reduce the tax burden, and promote practical housing solutions that help more people afford to live and work in Connecticut.",
+          "sourceUrl": "https://chrissheaforcongress.com/issues/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "hayes.house.gov · jahanahayes.com · chrissheaforcongress.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
