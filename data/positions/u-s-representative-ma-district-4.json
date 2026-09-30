@@ -1,0 +1,184 @@
+{
+  "office": "U.S. Representative",
+  "district": "MA District 4",
+  "division": "ma/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jake Auchincloss",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He proposed a tax on digital advertising to fund education and local journalism.",
+          "quote": "And use it to fund initiatives like local journalism and education.",
+          "sourceUrl": "https://auchincloss.house.gov/media/in-the-news/rep-jake-auchincloss-democrats-are-bereft-of-big-ideas",
+          "agreement": "6/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supported the Raise the Wage Act and said he supports a $15 minimum wage.",
+          "quote": "I supported the Raise the Wage Act, I absolutely want leadership to bring it back on the floor",
+          "sourceUrl": "https://auchincloss.house.gov/media/press-releases/video-icymi-auchincloss-american-rescue-plan-raising-wage-and-abolishing",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He opposed trade recommendations that included a new tariff regime and advocated expanding trade.",
+          "quote": "Auchincloss has emerged as a vocal advocate for expanding trade.",
+          "sourceUrl": "https://auchincloss.house.gov/media/in-the-news/rep-auchincloss-select-panel-must-sell-idea-of-more-trade-with-global-south",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He said Democrats would protect Social Security from administration attacks.",
+          "quote": "The administration is attacking Social Security. Democrats created Social Security and we will protect it.",
+          "sourceUrl": "https://auchincloss.house.gov/media/videos/democrats-created-social-security-and-we-will-protect-it",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He called for substantially more housing construction and land-use reform.",
+          "quote": "We totally have to do land-use reform. We gotta make it easier to build.",
+          "sourceUrl": "https://auchincloss.house.gov/media/in-the-news/rep-jake-auchincloss-democrats-are-bereft-of-big-ideas",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He led a letter addressing education funding for local school districts and emphasized support for public education.",
+          "quote": "dramatically increasing state aid to local school districts",
+          "sourceUrl": "https://auchincloss.house.gov/media/press-releases/release-auchincloss-markey-lead-ma-delegation-letter-treasury-department",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He backed immigration legislation with a pathway to citizenship alongside border security measures.",
+          "quote": "is a comprehensive proposal, incorporating border security, a fair and orderly pathway to citizenship, and root-cause solutions.",
+          "sourceUrl": "https://auchincloss.house.gov/media/in-the-news/auchincloss-wants-biden-to-send-assessment-team-to-boston-to-review-migrant-situation",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He called for an assault-weapons ban and measures including background checks, safe-storage rules, and red-flag laws.",
+          "quote": "We need an assault-weapons ban, because weapons of war have no place on our streets or near our schools.",
+          "sourceUrl": "https://auchincloss.house.gov/issues/ending-gun-violence",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He said he voted to codify abortion rights and would protect women's health care.",
+          "quote": "In my first term, I voted to codify abortion rights and earned a perfect rating from Planned Parenthood",
+          "sourceUrl": "https://auchincloss.house.gov/issues/protecting-reproductive-rights",
+          "agreement": "5/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "He opposed a blanket federal ban on trans women in women’s sports and favored rules developed by leagues and localities.",
+          "quote": "I voted against the Republicans’ blanket ban on trans women’s participation in women’s sports. I think that is an issue where leagues and localities need to develop rules to ensure that our trans community can pursue happiness while also respecting sportsmanship and fair play and safety.",
+          "sourceUrl": "https://auchincloss.house.gov/media/in-the-news/qanda-congressman-jake-auchincloss-on-democrats-constitutional-fight-the-massachusetts-housing-crisis-and-trans-rights",
+          "agreement": "5/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "He voted for the MORE Act, which would legalize and regulate cannabis federally.",
+          "quote": "Roll Call 107 | Bill Number: H. R. 3617",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He praised the Inflation Reduction Act as a major climate and clean-energy measure, citing its emissions-reduction goal.",
+          "quote": "the biggest, boldest climate action, clean energy bill in history",
+          "sourceUrl": "https://auchincloss.house.gov/media/in-the-news/rep-auchincloss-climate-summit-at-olin-college-of-engineering",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He supported the For the People Act and offered amendments to expand poll-worker recruitment and protect young voters from voter challenges.",
+          "quote": "The right to vote is the bedrock of our democracy, and my amendments will expand and protect this right for young people",
+          "sourceUrl": "https://auchincloss.house.gov/media/press-releases/release-auchincloss-amendments-included-passage-people-act",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Thomas Stalcup",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He calls for sharply reducing federal spending, keeping only what is needed for essential services, and returning savings to eligible families.",
+          "quote": "The federal budget must be brought under control by eliminating loopholes and reducing spending to the absolute minimum required to maintain essential services.",
+          "sourceUrl": "https://tomstalcup.com/tax-reform/",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports raising the federal minimum wage to about $15 an hour and tying it to inflation.",
+          "quote": "I would address inequality by quickly raising the federal minimum wage from $7.25 to about $15 an hour—a livable level—and then tying it to inflation.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=72660284",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He would protect some undocumented workers from deportation while setting a self-deportation period and possible removal for some recent arrivals without viable asylum claims.",
+          "quote": "I would protect from deportation undocumented workers who were already in the country before the recent surge in arrivals. Those who arrived during that surge and lack a viable asylum claim would receive a fixed period to self-deport, with an opportunity to apply to return legally.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=72660284",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports a hybrid approach combining Medicare for All with private insurance competition and protections for preexisting conditions.",
+          "quote": "On healthcare, I support an immediate hybrid of Medicare for All and private insurance competition across state lines, with protections for preexisting conditions.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=72660284",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supports requiring valid photo identification to vote and prohibiting ballot harvesting, with provisions to make acceptable identification accessible.",
+          "quote": "I would support federal legislation requiring voters to present valid photo identification and prohibiting ballot harvesting, while ensuring that eligible voters can obtain acceptable identification without unreasonable cost or difficulty.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=72660284",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "auchincloss.house.gov · clerk.house.gov · tomstalcup.com · onyourballot.vote411.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

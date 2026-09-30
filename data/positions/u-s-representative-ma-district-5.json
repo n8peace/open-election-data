@@ -1,0 +1,90 @@
+{
+  "office": "U.S. Representative",
+  "district": "MA District 5",
+  "division": "ma/cd-5",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Katherine M. Clark",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She supported funding Inflation Reduction Act investments by increasing taxes on the wealthiest Americans and corporations.",
+          "quote": "It is fully paid for by ensuring that the very wealthiest Americans and corporations pay their fair share in taxes.",
+          "sourceUrl": "https://katherineclark.house.gov/2022/8/assistant-speaker-katherine-clark-celebrates-the-passage-of-historic-legislation-to-lower-heath-care-costs-tackle-climate-crisis-and-build-stronger-green-economy",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports federal investment in public schools, early education, and Head Start.",
+          "quote": "Public education is the foundation of our democracy. Federal investments need to meet the needs of our children and families in every district around the country.",
+          "sourceUrl": "https://katherineclark.org/priorities/",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "She joined the Massachusetts delegation in announcing funding that included a community-based violence-intervention project.",
+          "quote": "$275,000 for BMA TenPoint to establish a community-based violence and crime intervention and reduction project",
+          "sourceUrl": "https://katherineclark.house.gov/2026/01/16/2026-1-clark-massachusetts-delegation-announce-92-78-million-in-federal-funding-for-93-key-projects-throughout-massachusetts/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Clark supports a pathway to citizenship for undocumented Americans and legal protections for Dreamers and TPS recipients.",
+          "quote": "That means fixing our broken, overwhelmed immigration system and forging a pathway to citizenship for undocumented Americans.",
+          "sourceUrl": "https://katherineclark.house.gov/issues/immigration/",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "She denounced a bill that would ban transgender children from school sports.",
+          "quote": "This is not a problem in our communities, on our sports fields, for our children.",
+          "sourceUrl": "https://katherineclark.house.gov/2023/04/20/2023-4-you-should-hang-your-heads-in-shame-whip-clark-slams-maga-sports-ban/",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Clark supports climate investments intended to cut carbon pollution while lowering energy bills.",
+          "quote": "With our game-changing Inflation Reduction Act, Democrats enacted the largest climate investment in history — putting us on track to slash carbon pollution by 40 percent this decade.",
+          "sourceUrl": "https://katherineclark.house.gov/issues/environment/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She denounced a bill requiring voters to prove citizenship in person and called it voter suppression.",
+          "quote": "This is a minefield of red tape that you have put in front of women and American citizens and their right to vote.",
+          "sourceUrl": "https://katherineclark.house.gov/2026/02/11/2026-2-whip-clark-on-gop-voter-suppression-bill-this-is-election-rigging/",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "katherineclark.house.gov · katherineclark.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

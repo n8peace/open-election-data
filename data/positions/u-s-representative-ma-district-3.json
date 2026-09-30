@@ -1,0 +1,214 @@
+{
+  "office": "U.S. Representative",
+  "district": "MA District 3",
+  "division": "ma/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Lori Loureiro Trahan",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She voted to preserve enforcement against wealthy tax avoidance and said people should pay their fair share.",
+          "quote": "I voted last year to close these loopholes because I believe every American should pay their fair share – especially the wealthiest one percent.",
+          "sourceUrl": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=2727",
+          "agreement": "6/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She voted to advance the Raise the Wage Act, which would gradually raise the federal minimum wage to $15 an hour.",
+          "quote": "I am proud to have voted with my colleagues to send this bill to the full House, and look forward to supporting its final passage",
+          "sourceUrl": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=53",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "She criticized Trump’s tariffs and trade war as raising prices for working families.",
+          "quote": "Trump’s ill-conceived trade war is set to unleash the largest tax increase on working families in U.S. history",
+          "sourceUrl": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3478",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She has opposed proposed cuts to Social Security and Medicare and supported legislation to strengthen Social Security benefits.",
+          "quote": "I strongly oppose any attempts to cut benefits, and I support the Social Security 2100 Act",
+          "sourceUrl": "https://trahan.house.gov/uploadedfiles/2025_eoy_report_final.pdf",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She secured federal funding for an affordable housing project and described it as expanding the region’s housing supply.",
+          "quote": "it’s about expanding the supply of housing that hardworking families in Methuen and across Massachusetts desperately need",
+          "sourceUrl": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3654",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She voted against a bill that included a permanent tax credit for private school vouchers, which she said would drain funding from public schools.",
+          "quote": "The bill creates a permanent, unlimited tax credit for private school vouchers, draining funds from public schools",
+          "sourceUrl": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3636",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She voted for a package that funded community policing and officer hiring as well as violence-prevention and mental-health responses.",
+          "quote": "The legislation will bolster local community policing programs, invest in officer hiring and training programs, provide funding for local violence prevention programs, and create grants for mental health officials",
+          "sourceUrl": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=2619",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She said she would promote naturalization and work toward a pathway to citizenship, including protections for DACA recipients and DREAMers.",
+          "quote": "Lori believes that comprehensive immigration reform starts with creating a fair and equal pathway to citizenship.",
+          "sourceUrl": "https://loritrahan.com/immigration/",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She has supported universal background checks and voted for legislation to restrict assault weapons and firearm access for domestic abusers.",
+          "quote": "This bill would mandate background checks for all gun purchases, including those at gun shows",
+          "sourceUrl": "https://trahan.house.gov/issues/issue/?IssueID=15000",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She supports codifying abortion rights and has cosponsored legislation to protect access to abortion care.",
+          "quote": "The right to abortion is a fundamental right—one that must be safeguarded in federal law.",
+          "sourceUrl": "https://trahan.house.gov/resources/know-your-reproductive-rights.htm",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "She voted against a bill barring transgender girls and women from participating in school sports consistent with their gender identity.",
+          "quote": "Today, Congresswoman Lori Trahan (MA-03) voted against House Republicans’ legislation to implement a trans and intersex sports ban.",
+          "sourceUrl": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=2889",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She identifies expanding Medicare as a priority.",
+          "quote": "Congresswoman Trahan is fighting to protect Social Security, expand Medicare, defend protections for people with preexisting conditions",
+          "sourceUrl": "https://trahan.house.gov/issues/issue/?IssueID=14900",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She voted to advance legislation supporting clean energy investment and a target of reducing greenhouse gas emissions 50–52% below 2005 levels by 2030.",
+          "quote": "The Build Back Better framework will set the United States on course to meet its climate targets – a 50-52% reduction in greenhouse gas emissions below 2005 levels by 2030",
+          "sourceUrl": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=2301",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She supported nationwide vote-by-mail during the COVID-19 pandemic and voted for legislation to expand ballot access and voting rights.",
+          "quote": "Congresswoman Trahan is strongly in favor of nationwide vote-by-mail throughout all elections that occur during the COVID-19 pandemic",
+          "sourceUrl": "https://trahan.house.gov/issues/issue/?IssueID=14903",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Gary J. Grossi",
+      "party": "Republican",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He opposes regulations he says drive up housing costs and limit supply.",
+          "quote": "Stop unrealistic regulations that drive up housing costs and limit supply.",
+          "sourceUrl": "https://www.votegarygrossi.com/issues",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports law enforcement partnerships and community-based mental health and addiction services.",
+          "quote": "Support law enforcement with community partnerships that build trust and improve public safety outcomes.",
+          "sourceUrl": "https://www.votegarygrossi.com/issues",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He says he will protect law-abiding citizens’ right to keep and bear arms.",
+          "quote": "The Second Amendment shall not be infringed. Gary will protect the constitutional right of every law-abiding citizen to keep and bear arms.",
+          "sourceUrl": "https://www.votegarygrossi.com/issues",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He says he will pursue energy solutions that lower household bills.",
+          "quote": "Gary will push for affordable, evidence-based energy solutions that lower your bills immediately.",
+          "sourceUrl": "https://www.votegarygrossi.com/issues",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Dennis R. Conlon",
+      "party": "Unenrolled",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He said housing costs would fall as the country reduced immigration and built more units.",
+          "quote": "Housing will come down as we reduce the number of uninvited guests in America and as we build more units.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73747863",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He said he would ban further immigration from more than 50 Muslim-majority countries.",
+          "quote": "The only change I would make is to ensure a ban on any further immigration from the 50 plus Muslim majority countries.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73747863",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He criticized blocked gas pipelines and clean-energy programs, saying they contributed to higher natural gas costs.",
+          "quote": "As a result of her non-scientific thinking, I am paying too much for natural gas for 2 reasons. First, she blocked 2 gas pipelines.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73747863",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "trahan.house.gov · loritrahan.com · votegarygrossi.com · onyourballot.vote411.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

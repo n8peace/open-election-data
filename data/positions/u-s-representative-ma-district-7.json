@@ -1,0 +1,130 @@
+{
+  "office": "U.S. Representative",
+  "district": "MA District 7",
+  "division": "ma/cd-7",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Ayanna S. Pressley",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Pressley called for raising the federal minimum wage to at least $15 and supported ending the separate tipped minimum wage.",
+          "quote": "We must immediately end the filibuster and pass legislation to raise the minimum wage to at least $15.",
+          "sourceUrl": "https://pressley.house.gov/2021/03/10/statement-rep-pressley-american-rescue-plan/",
+          "agreement": "4/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "She criticized Trump tariffs for raising family costs and sought exemptions for essential baby products.",
+          "quote": "I support improving manufacturing in America, but that is not going into effect overnight, like these tariffs are.",
+          "sourceUrl": "https://pressley.house.gov/2025/05/07/video-after-pressure-from-pressley-treasury-secretary-says-ending-tariffs-on-essential-baby-products-under-consideration/",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "In a House floor speech, Pressley said she would keep fighting to protect Social Security.",
+          "quote": "Social Security is a promise to workers, to our elders, to the disabled. A promise to all people who seek to age with dignity.",
+          "sourceUrl": "https://pressley.house.gov/2024/01/11/pressley-advocates-for-social-security-amid-gop-threats-to-program/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She has called for confronting exclusionary zoning and other restrictions that impede affordable housing construction.",
+          "quote": "exclusionary zoning, redlining, restrictive covenants, and land-use restrictions—which have made it difficult to build affordable housing and driven up prices for working families.",
+          "sourceUrl": "https://pressley.house.gov/2026/01/14/video-pressley-co-chairs-hearing-on-housing-affordability-demands-congress-affirm-housing-as-a-human-right/",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She has advocated continued federal funding and support for public schools and introduced bills to invest in public K-12 learning environments.",
+          "quote": "Federal dollars and programs address teacher shortages, administer financial aid, support students with disabilities, collect data on disparities, enforce civil rights protections, keep the lights on in our public schools, and so much more.",
+          "sourceUrl": "https://pressley.house.gov/2025/03/20/pressley-condemns-trump-executive-order-dismantling-education-department/",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "Pressley introduced a criminal legal reform framework that calls for reducing incarceration and refocusing police resources on solving serious crimes.",
+          "quote": "Ending the transfer of military equipment to local police and refocusing resources to dramatically increase clearance (or solve) rates for the most serious crimes",
+          "sourceUrl": "https://pressley.house.gov/2019/11/14/rep-pressley-launches-bold-progressive-criminal-legal-reform-resolution-people/",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Pressley said the immigration system should support people seeking refuge, family reunification, and opportunity.",
+          "quote": "Ayanna is working with urgency to create an immigration system grounded in the dignity and humanity of all people who come to our country seeking refuge, to be reunited with their family, or simply in search of greater opportunity.",
+          "sourceUrl": "https://ayannapressley.com/issues/immigration/",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Pressley has called for universal background checks and other restrictions on firearm purchases.",
+          "quote": "those are all the things we want: universal background checks, banning assault weapons and military grade weapons, increasing the age to purchase firearms from 18 to 21, red flag laws.",
+          "sourceUrl": "https://pressley.house.gov/2023/05/03/pressley-joins-boston-public-radio-after-hours-at-copley-library/",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Pressley has supported legislation to protect and restore abortion access nationwide.",
+          "quote": "Ayanna is co-chair of the Abortion Access Task Force and has co-led legislation, now passed twice in the House, to protect and restore access to abortion care nationwide.",
+          "sourceUrl": "https://ayannapressley.com/issues/lgbtq/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Pressley has said the country needs Medicare for All to provide consistent access to essential care.",
+          "quote": "Ayanna believes we need Medicare For All to ensure that every person in our country has consistent access to essential care.",
+          "sourceUrl": "https://ayannapressley.com/issues/climate-crisis/",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Pressley has called for a Green New Deal to address climate change and help communities adapt.",
+          "quote": "Ayanna knows it’s time for a Green New Deal, developed in partnership with communities most impacted, to fundamentally transform our political and economic systems, prioritize the preservation of our planet, mitigate the worst impacts of climate change",
+          "sourceUrl": "https://ayannapressley.com/issues/educational/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Pressley urged Massachusetts to expand early voting, make voting by mail permanent, and allow same-day registration.",
+          "quote": "I am deeply disappointed to see that my colleagues in the Massachusetts House of Representatives would consider excluding same-day voter registration from this critical bill.",
+          "sourceUrl": "https://pressley.house.gov/2022/01/26/rep-pressley-s-statement-massachusetts-voting-rights-legislation/",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "pressley.house.gov · ayannapressley.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

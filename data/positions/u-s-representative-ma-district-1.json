@@ -1,0 +1,152 @@
+{
+  "office": "U.S. Representative",
+  "district": "MA District 1",
+  "division": "ma/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Richard E. Neal",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Neal voted for the Raise the Wage Act and says he supports strong unions and fair wages.",
+          "quote": "Strong labor unions are one of the best ways to protect workers and ensure fair wages.",
+          "sourceUrl": "https://www.nealforcongress.com/economy",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Neal says he has worked to strengthen Social Security and supports increasing benefits.",
+          "quote": "Richie has worked to strengthen and enhance Social Security for all Americans.",
+          "sourceUrl": "https://www.nealforcongress.com/social-security",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Neal supports pathways to citizenship for DREAMers and other undocumented immigrants, along with expanded work visas.",
+          "quote": "He believes that we must do more to create pathways to citizenship for undocumented immigrants",
+          "sourceUrl": "https://www.nealforcongress.com/immigration",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Neal supports universal background checks and other gun safety measures, and voted for the Bipartisan Safer Communities Act.",
+          "quote": "a universal background check law would ensure that people prohibited from purchasing firearms cannot do so",
+          "sourceUrl": "https://www.nealforcongress.com/gun-violence",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Neal has called for restoring Roe and says health care decisions belong to patients and their doctors.",
+          "quote": "Health care decisions belong between patients and their doctors. We’ve given Republicans multiple chances to protect those rights",
+          "sourceUrl": "https://neal.house.gov/2025/06/24/neal-statement-on-the-third-anniversary-of-the-dobbs-decision/",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "Neal voted against the Protection of Women and Girls in Sports Act, which would have set sports eligibility rules based on sex at birth.",
+          "quote": "Protection of Women and Girls in Sports Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "3/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Neal supported the MORE Act, which would remove cannabis from the federal controlled substances list and regulate and tax it.",
+          "quote": "The MORE Act makes important changes to federal law by removing marijuana, or cannabis, from the list of federally controlled substances.",
+          "sourceUrl": "https://neal.house.gov/2020/12/04/news-documentsingle-aspx-documentid-1837/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Neal says he supports universal coverage and protecting and improving the Affordable Care Act.",
+          "quote": "As we strive for universal coverage at the federal level, I continue to look at Massachusetts’ success.",
+          "sourceUrl": "https://www.nealforcongress.com/health-care",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Neal helped advance the Inflation Reduction Act’s clean energy investments and emissions reduction goals.",
+          "quote": "The IRA supercharges our national efforts to fight climate change, using generous tax incentives to unleash the speedy development and deployment of clean energy production",
+          "sourceUrl": "https://www.nealforcongress.com/environment",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Neal voted for the For the People Act, which expanded early and absentee voting and established automatic voter registration.",
+          "quote": "Access to early and absentee voting will be expanded, and automatic voter registration will be established.",
+          "sourceUrl": "https://neal.house.gov/2019/03/08/news-documentsingle-aspx-documentid-2108/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Nadia Donya Milleron",
+      "party": "Independent/Unenrolled",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "She supports a job guarantee intended to provide a living wage to anyone who wants work.",
+          "quote": "Nadia supports an economic job guarantee so anyone who wants to work can earn a living wage doing work that strengthens our communities.",
+          "sourceUrl": "https://nadiaforcongress.com/fight/",
+          "agreement": "8/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She says she would raise Social Security benefits to keep pace with the cost of living.",
+          "quote": "She will fight to bring Social Security benefits in line with today’s cost of living so seniors can afford to live with dignity.",
+          "sourceUrl": "https://nadiaforcongress.com/fight/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She backs an assault-weapons ban, red-flag laws, and universal background checks.",
+          "quote": "She backs an assault weapons ban, red flag laws, and universal background checks, but says she is a gun owner who believes the 2024 Massachusetts state gun law priced rural families out of safety training.",
+          "sourceUrl": "https://www.ruralintelligence.com/nadia-milleron-independent-challenger-to-richard-neal-says-shed-vote-to-impeach-the-president-her-husband-serves/",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports removing corporate insurance from health care and advancing Healthcare for All legislation.",
+          "quote": "By driving popular Healthcare for All legislation, we will drastically lower costs so that you get the medical treatment you pay for.",
+          "sourceUrl": "https://nadiaforcongress.com/fight/",
+          "agreement": "9/10"
+        }
+      }
+    }
+  ],
+  "sources": "nealforcongress.com · neal.house.gov · clerk.house.gov · nadiaforcongress.com · ruralintelligence.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
