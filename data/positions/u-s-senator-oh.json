@@ -1,0 +1,291 @@
+{
+  "office": "U.S. Senator",
+  "district": "OH",
+  "division": "oh/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Sherrod Brown",
+      "party": "Democratic",
+      "stances": {
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Brown opposed voucher programs, arguing they divert resources from public schools.",
+          "quote": "we should not be siphoning critical funds to fund vouchers.",
+          "sourceUrl": "https://www.govinfo.gov/link/crec/147/S/6088",
+          "agreement": "3/5"
+        },
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "lean",
+          "text": "He voted for the First Step Act of 2018.",
+          "quote": "Question: On the Motion (Motion to Concur in the House Amendment with an Amendment to S. 756 )",
+          "sourceUrl": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1152/vote_115_2_00271.htm",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He called for Congress to pass an assault-weapons ban after the Dayton shooting.",
+          "quote": "pass the assault weapon ban that the House has passed, get it to the President's desk.",
+          "sourceUrl": "https://www.cbsnews.com/news/full-transcript-of-face-the-nation-on-august-4-2019/",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Brown said he supports abortion access and opposes a national abortion ban.",
+          "quote": "I have always been clear about where I stand: I support abortion access for all women.",
+          "sourceUrl": "https://www.cbsnews.com/news/sherrod-brown-abortion-access-ohio-senate-reelection/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "He co-introduced legislation allowing people ages 55 through 64 to buy into Medicare.",
+          "quote": "To amend title XVIII of the Social Security Act to provide for an option for any citizen or permanent resident of the United States age 55 to 64 to buy into Medicare.",
+          "sourceUrl": "https://www.congress.gov/115/bills/s1742/BILLS-115s1742is.pdf",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Jon Husted",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He backed the Working Families Tax Cuts Act, which he said would lower taxes for Ohio families, workers, seniors, and businesses.",
+          "quote": "I backed this plan because it delivers real tax relief for Ohio families, workers, seniors, and local businesses.",
+          "sourceUrl": "https://www.husted.senate.gov/contact/newsletters/one-year-of-helping-ohioans-keep-more-of-what-they-earn/",
+          "agreement": "9/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Husted voted against an amendment to allow the federal minimum wage to increase to $17 an hour.",
+          "quote": "To make sure the Senate can increase the Federal minimum wage to $17 an hour by a simple majority vote.",
+          "sourceUrl": "https://www.husted.senate.gov/legislation/voting-record/?vote_page=48&vote_year=2025",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He voted for a housing package that cuts red tape and expands housing supply.",
+          "quote": "By cutting red tape and expanding housing supply, this bill would drive down prices and help more Ohioans achieve their version of the American Dream.",
+          "sourceUrl": "https://www.husted.senate.gov/media/press-releases/husted-backed-package-to-make-housing-more-affordable-passes-senate-soon-to-become-law/",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He says he is working to expand school choice nationwide and supported school-choice tax credits.",
+          "quote": "As your U.S. Senator, I’m continuing my work to expand school choice nationwide.",
+          "sourceUrl": "https://www.husted.senate.gov/contact/newsletters/giving-parents-the-choice-for-their-kids-education/",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He supported federal funding for law enforcement and said officers should have the resources to do their jobs.",
+          "quote": "I have consistently voted to fully fund federal law enforcement because it is critical they have the tools and resources needed to do their jobs safely.",
+          "sourceUrl": "https://www.husted.senate.gov/media/press-releases/husted-votes-to-fund-federal-law-enforcement/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He backed funding for ICE and Border Patrol and called for border security and deporting criminals.",
+          "quote": "Ohioans expect their government to enforce the rule of law, deport criminals, secure the border and keep their communities safe, and that’s exactly what this bill will do.",
+          "sourceUrl": "https://www.husted.senate.gov/media/press-releases/husted-votes-to-fund-federal-law-enforcement/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "He joined legislation to expand qualified active and retired law-enforcement officers’ concealed-carry rights.",
+          "quote": "They put their lives on the line every day to serve and protect, and it’s only right that they have the tools they need to continue that service—whether they are on duty, off duty or retired.",
+          "sourceUrl": "https://www.husted.senate.gov/media/press-releases/husted-backs-bill-to-expand-law-enforcement-concealed-carry-rights/",
+          "agreement": "4/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He supported legislation to permanently bar federal funding for abortion and said he would protect unborn children.",
+          "quote": "I’ll continue to back solutions to support mothers and families and protect unborn children.",
+          "sourceUrl": "https://www.husted.senate.gov/media/press-releases/husted-supports-bill-to-prevent-taxpayer-funded-abortions-by-safeguarding-hyde-amendment/",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He voted yes on a Senate measure defining sex in school athletics by reproductive biology and genetics at birth.",
+          "quote": "A bill to provide that for purposes of determining compliance with title IX of the Education Amendments of 1972 in athletics, sex shall be recognized based solely on a person's reproductive biology and genetics at birth.",
+          "sourceUrl": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00100.htm",
+          "agreement": "8/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "After Ohio voters legalized recreational marijuana, he accepted the result and called for regulated sales with policy guardrails.",
+          "quote": "I accept the voters' verdict that recreational marijuana is now legal in Ohio. I understand that, for various reasons, people want legal, regulated methods to buy it.",
+          "sourceUrl": "https://www.linkedin.com/posts/jonhusted_lt-governor-jon-husted-released-the-following-activity-7128489183983124480-NNCg",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He introduced a bill extending ACA premium tax credits while changing marketplace-plan payment and cost-sharing rules.",
+          "quote": "American health care is not underfunded; it is under-accountable. My Accountability for Better Care Act allows Congress to address the root causes of higher health care costs, while providing Americans with stability in their premiums.",
+          "sourceUrl": "https://www.husted.senate.gov/media/press-releases/husted-introduces-plan-to-make-health-care-more-affordable-prevent-fraud-provide-premium-stability/",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He backed legislation to ease permitting for domestic energy production, saying it would lower prices.",
+          "quote": "Cutting red tape to produce domestic energy would lower prices for Ohioans, revive our economy and strengthen national security.",
+          "sourceUrl": "https://www.husted.senate.gov/media/press-releases/husted-backs-bill-to-boost-domestic-energy-production/",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He says he has repeatedly voted for proof-of-citizenship and voter-verification requirements and proposed a nationwide photo-ID requirement.",
+          "quote": "I have voted for the SAVE America Act SIX separate times because I believe requiring proof of citizenship to register to vote and strengthening voter verification are commonsense steps that will help secure our elections.",
+          "sourceUrl": "https://www.husted.senate.gov/contact/newsletters/securing-americas-elections/",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "Greg Levy",
+      "party": "Other-party candidate",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He proposes expanding public services and repealing tax cuts for wealthy people.",
+          "quote": "We will repeal Trump’s so-called “Big Beautiful” tax cuts for the rich.",
+          "sourceUrl": "https://www.greg4senate.com/",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "His platform calls for living wages and 20 million union jobs nationwide.",
+          "quote": "This will put Ohio’s proud union labor back to work at a living wage, manufacturing the renewable energy systems, transit and housing materials needed to slash emissions and rebuild America.",
+          "sourceUrl": "https://www.greg4senate.com/",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "His platform calls for free public education from pre-K through college and trade school.",
+          "quote": "It means canceling all student debt and making public education, from pre-K through college and trade school, completely free.",
+          "sourceUrl": "https://www.greg4senate.com/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "His platform calls for ending deportations and establishing a path to citizenship.",
+          "quote": "That means abolishing ICE, ending all raids and deportations, shutting down the detention camps, and establishing a clear path to citizenship.",
+          "sourceUrl": "https://www.greg4senate.com/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "His platform calls for guaranteeing free abortion.",
+          "quote": "It means guaranteeing free abortion and recognizing that access to gender-affirming care is a healthcare decision that should be between a person and their doctor.",
+          "sourceUrl": "https://www.greg4senate.com/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "His platform calls for a universal single-payer healthcare system free at the point of use.",
+          "quote": "It means establishing a universal, single-payer healthcare system, free at the point of use.",
+          "sourceUrl": "https://www.greg4senate.com/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "His platform calls for renewable energy manufacturing and other changes to slash emissions.",
+          "quote": "Ohio can be at the forefront of the green revolution—building out public transit systems connecting our cities; reorganizing our agricultural production sustainably; retooling our manufacturing expertise for renewable technology.",
+          "sourceUrl": "https://www.greg4senate.com/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "His platform opposes voter purges that he says disenfranchise Black voters.",
+          "quote": "We must outlaw the racist gerrymandering and voter purges designed to further disenfranchise Black voters.",
+          "sourceUrl": "https://www.greg4senate.com/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "William B. Redpath",
+      "party": "Libertarian",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He calls for lower taxes and proposes replacing the current tax code with a flat individual income tax and a distributed profits tax.",
+          "quote": "My campaign calls for reduced government spending, lower taxes and real respect for civil liberties.",
+          "sourceUrl": "https://billredpath.com/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports open immigration, with exceptions for people who pose serious risks to others.",
+          "quote": "All immigration should be allowed except for a handful of people who fall into the categories of criminals, terrorists, the seriously ill, or others who would harm the life, liberty, and property of people here.",
+          "sourceUrl": "https://billredpath.com/faq/",
+          "agreement": "5/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "He says the federal government should end drug prohibition and let states set their own policies.",
+          "quote": "the Federal government should end its drug prohibition and allow the states to address this issue.",
+          "sourceUrl": "https://billredpath.com/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He proposes giving Medicare enrollees cash assistance to buy insurance and shifting Medicaid responsibility to the states over time.",
+          "quote": "If people got cash assistance to help them buy insurance, and they were paying more out of their own pocket, they would be better consumers of medical services and would help lower medical prices across the board,",
+          "sourceUrl": "https://www.wtap.com/2026/05/01/ohio-us-senate-primary-candidates-outline-priorities-ahead-may-5-election/",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "govinfo.gov · senate.gov · cbsnews.com · congress.gov · husted.senate.gov · linkedin.com · greg4senate.com · billredpath.com · wtap.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

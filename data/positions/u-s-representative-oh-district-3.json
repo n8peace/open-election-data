@@ -1,0 +1,182 @@
+{
+  "office": "U.S. Representative",
+  "district": "OH District 3",
+  "division": "oh/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Joyce Beatty",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Her official site says she supports raising the federal minimum wage to $15 and strengthening collective bargaining rights.",
+          "quote": "Supports the Raise the Wage Act to gradually increase the federal minimum wage to $15 per hour.",
+          "sourceUrl": "https://beatty.house.gov/issues/jobs-and-the-economy",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Her campaign says she supports expanding Social Security, Medicare, and Medicaid and strengthening those programs.",
+          "quote": "Joyce supports expanding Social Security, Medicare, and Medicaid, and believes we should uphold the promises made to America’s seniors by strengthening these programs and ensuring their long-term solvency.",
+          "sourceUrl": "https://beattyforcongress.com/issues-page/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She secured passage of housing measures described as aimed at accelerating housing development.",
+          "quote": "moving forward a package of regulatory and community banking reforms aimed at accelerating housing development, protecting homeowners, and strengthening the local institutions responsible for financing housing",
+          "sourceUrl": "https://beatty.house.gov/media-center/press-releases/gridlock-broken-beatty-leads-affordable-housing-bill-breakthroughs",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Her campaign says she is working to increase investment in the nation’s public schools.",
+          "quote": "In Congress, Joyce is fighting hard to reduce the rising cost of college and higher education, increase investment in our nation’s public schools, address the student loan debt crisis",
+          "sourceUrl": "https://beattyforcongress.com/issues-page/",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "Her campaign advocates rehabilitation and restorative justice and opposes harsh treatment of nonviolent offenders.",
+          "quote": "That is why Joyce believes our country needs to embrace the ideals of rehabilitation, restorative justice, and to reject harsh and ineffective treatment of non-violent criminals.",
+          "sourceUrl": "https://beattyforcongress.com/issues-page/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She supports a pathway to citizenship for Dreamers and Temporary Protected Status recipients.",
+          "quote": "I support the American Dream and Promise Act to provide Dreamers, who have known no other home besides the United States, and Temporary Protected Status (TPS) recipients a pathway to citizenship.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72021486",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Her official site says she supports closing background-check loopholes and authored a broader gun violence prevention bill.",
+          "quote": "Supports the Bipartisan Background Checks Act to close background check loopholes. The bill represents the first meaningful gun violence prevention legislation to pass the House in a generation.",
+          "sourceUrl": "https://beatty.house.gov/issues/gun-violence",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Her campaign says she is working to protect abortion choice and access to birth control.",
+          "quote": "a woman’s right to choose and access to birth control is under constant assault. In Congress, Joyce is working tirelessly to address these and the many other social, economic, and political disparities that still exist for women.",
+          "sourceUrl": "https://beattyforcongress.com/issues-page/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports strengthening the Affordable Care Act and moving toward a Medicare option alongside private insurance.",
+          "quote": "I will continue to work to protect and strengthen the Affordable Care Act, while moving toward a \"Medicare-For-All-Who-Want-It\" program which would give Americans the option to access a Medicare-type system in lieu of private insurance.",
+          "sourceUrl": "https://beatty.house.gov/issues/healthcare",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She supports reducing greenhouse gas emissions, reducing fossil fuel reliance, and promoting energy efficiency.",
+          "quote": "I support taking bold steps to invest in federal programs to address climate change, prevent spending cuts to the Environmental Protection Agency (EPA), fully enforce the Clean Air Act, reduce greenhouse gas emissions, minimize our reliance on fossil fuels, and promote energy efficiency and conservation.",
+          "sourceUrl": "https://beatty.house.gov/issues/climate-change-and-the-environment",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She says she is committed to making voting easier and opposes voter purges.",
+          "quote": "The right to vote is among the most fundamental rights guaranteed by the U.S. Constitution, and any attempt to infringe upon that right poses a serious threat to our democracy. I am committed to making it easier for Americans to vote, not harder.",
+          "sourceUrl": "https://beatty.house.gov/issues/elections-and-voting-rights",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Cleophus Dulaney",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "In his VOTE411 response, Dulaney said he would eliminate property taxes.",
+          "quote": "Eliminate property tax. The government needs to have their own way to retrieve income and not rely on the property taxes of the citizens.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72021486",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Dulaney said immigration policy should be paused and that people coming to the country need better vetting.",
+          "quote": "We need to pause the immigration policy and have a better vetting situation for people coming to this country.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72021486",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "His campaign lists support for pro-life legislation as a priority.",
+          "quote": "Emphasizes protection of Second Amendment rights, support for pro-life legislation, and secure immigration policies.",
+          "sourceUrl": "https://votedulaney.org/news",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Dulaney proposed hand-counting voter IDs, restricting mail ballots, removing voting machines, and requiring proof of citizenship.",
+          "quote": "Hand count voter IDs. Eliminate mail in ballots, accept in certain cases, such as military sickness and disabilities; remove the machines. Proof of citizenship",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72021486",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Jason Fistick",
+      "party": "",
+      "stances": {
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "The American People’s Party platform calls for universal health coverage for individuals and families.",
+          "quote": "Complete coverage for you and your family, delivered with higher quality and speed than any other country on Earth.",
+          "sourceUrl": "https://theamericanpeoplesparty.org/",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "His party’s website calls for energy self-sufficiency and an energy surplus intended to lower prices.",
+          "quote": "We can make the United States 100% self sustaining with an energy surplus that deflates prices and strengthens the dollar.",
+          "sourceUrl": "https://theamericanpeoplesparty.org/",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "beatty.house.gov · beattyforcongress.com · onyourballot.vote411.org · votedulaney.org · theamericanpeoplesparty.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
