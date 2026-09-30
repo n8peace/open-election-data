@@ -1,0 +1,192 @@
+{
+  "office": "U.S. Representative",
+  "district": "SC District 5",
+  "division": "sc/cd-5",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Mallory Dittmer",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She says she would raise the federal minimum wage from $7.25 per hour.",
+          "quote": "Raise the $7.25/hour minimum wage and create more good-paying jobs that are close to home",
+          "sourceUrl": "https://www.dittmerforcongress.com/priorities/economy",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She calls for protecting coverage by improving the ACA and reversing cuts to Medicare and Medicaid.",
+          "quote": "Protect coverage by improving the Affordable Care Act (ACA) and reversing dangerous cuts to ACA subsidies, Medicare, and Medicaid",
+          "sourceUrl": "https://www.dittmerforcongress.com/priorities/health-care",
+          "agreement": "3/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She proposes expanding affordable housing supply to lower rent and home prices.",
+          "quote": "Lower rent and home prices by expanding affordable housing supply through government incentives and tax credits",
+          "sourceUrl": "https://www.dittmerforcongress.com/priorities/economy",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports keeping public education funding in public schools and fully funding the system.",
+          "quote": "Protect funding for public education and special education by ensuring public, taxpayer funds stay within the public school system",
+          "sourceUrl": "https://www.dittmerforcongress.com/priorities/education",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "She proposes federal grants for youth programs aimed at preventing juvenile violence and crime.",
+          "quote": "Address juvenile crime at the source by securing federal funding grants for youth programming that aims to prevent juvenile violence and crime before it starts",
+          "sourceUrl": "https://www.dittmerforcongress.com/priorities/safety",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports stronger border security and lawful enforcement alongside paths to citizenship and legal status for qualified workers.",
+          "quote": "I support serious immigration reform that strengthens border security, treats people with dignity, and attracts hardworking talent to the United States.",
+          "sourceUrl": "https://www.dittmerforcongress.com/priorities/immigration",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "She started a petition opposing legislation that would remove handgun permit and training requirements.",
+          "quote": "Join Forward South Carolina in protecting our kids and telling our legislators to VOTE NO on \"Constitutional Carry\" by signing this petition and encouraging others to do the same.",
+          "sourceUrl": "https://www.change.org/p/oppose-18-open-carry-without-permit-or-training-in-south-carolina",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports improving the ACA and reversing cuts to ACA subsidies, Medicare, and Medicaid.",
+          "quote": "Protect coverage by improving the Affordable Care Act (ACA) and reversing dangerous cuts to ACA subsidies, Medicare, and Medicaid",
+          "sourceUrl": "https://www.dittmerforcongress.com/priorities/health-care",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "She says she would work to lower utility and energy costs.",
+          "quote": "Lower utilities and energy costs and protect our energy infrastructure against greater strain and higher costs from AI data centers",
+          "sourceUrl": "https://www.dittmerforcongress.com/priorities/economy",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She supports simplified mail-in and absentee ballot processes and removing barriers for independent voters.",
+          "quote": "Utilize technology to encourage voter turnout via simplified and secure mail-in and absentee ballot processes",
+          "sourceUrl": "https://www.dittmerforcongress.com/priorities/elections",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Wes Climer",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "His campaign says he would vote to slash federal spending and block tax increases.",
+          "quote": "In Congress, he’ll vote to slash spending, block tax hikes, and restore federalism by returning power to states and citizens.",
+          "sourceUrl": "https://wesclimer.com/pillars/",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, he said minimum-wage price controls cause more economic injury than they heal.",
+          "quote": "As with any other market, price controls in the labor market (e.g. minimum wage) cause more economic injury than they heal.",
+          "sourceUrl": "https://ivoterguide.com/candidate/49310/race/21236/election/1229",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He strongly agreed that education funding should follow children to the school their parents choose, including private or homeschool options.",
+          "quote": "The state should fund education by allowing dollars to follow the child through programs which protect parents' freedom to choose their child's school – public, private, or homeschool. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/49310/race/21236/election/1229",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "His campaign supports building a border wall, reinstating Remain in Mexico, and defunding sanctuary cities.",
+          "quote": "Wes supports building the wall, reinstating Remain in Mexico, defunding sanctuary cities, and stopping fentanyl and human trafficking at the source.",
+          "sourceUrl": "https://wesclimer.com/pillars/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Asked what restrictions on gun ownership are needed for public safety, he answered, “None.”",
+          "quote": "What restrictions on gun ownership are needed to protect public safety? None.",
+          "sourceUrl": "https://ivoterguide.com/candidate/49310/race/21236/election/1229",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, he said elective abortion should be allowed to preserve the life of the mother.",
+          "quote": "Under what circumstances should an elective abortion be allowed? To preserve the life of the mother.",
+          "sourceUrl": "https://ivoterguide.com/candidate/49310/race/21236/election/1229",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He strongly agreed that biological males should not participate in women’s sports or occupy women’s spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/49310/race/21236/election/1229",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "In a candidate questionnaire, he selected options saying stricter environmental rules cost jobs and undermine energy independence.",
+          "quote": "Which comes closest to your view? (Select all that apply) A) Stricter environmental laws and regulations cost too many jobs and hurt the economy. B) Stricter environmental laws and regulations are worth the cost. C) Stricter environmental laws undermine U.S. energy independence and deter development of reliable electricity sources. D) Climate change is real and requires urgent policy action. A and C",
+          "sourceUrl": "https://ivoterguide.com/candidate/49310/race/21236/election/1229",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He strongly disagreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/49310/race/21236/election/1229",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "dittmerforcongress.com · change.org · wesclimer.com · ivoterguide.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

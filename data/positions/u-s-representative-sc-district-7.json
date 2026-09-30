@@ -1,0 +1,160 @@
+{
+  "office": "U.S. Representative",
+  "district": "SC District 7",
+  "division": "sc/cd-7",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "John Gregory Vincent",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He proposes raising taxes on the wealthiest Americans and corporations while investing in housing, education, childcare, and infrastructure.",
+          "quote": "Restore the Clinton-era top individual rate of 39.6%, close corporate loopholes, reform international taxation, and ensure that corporations and the wealthiest Americans pay their fair share.",
+          "sourceUrl": "https://www.vincentforcongress.com/national-fiscal-policy",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports raising the federal minimum wage to $20 an hour.",
+          "quote": "Raise the federal minimum wage to $20 an hour so a full-time job covers the basics.",
+          "sourceUrl": "https://www.vincentforcongress.com/issues/fight-to-end-government-dysfunction",
+          "agreement": "4/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He favors targeted trade agreements and opposes across-the-board tariffs that raise consumer prices.",
+          "quote": "Pursue targeted trade agreements that open markets for SC-7 agricultural and manufacturing products, rather than across-the-board tariffs that raise consumer prices and invite retaliation.",
+          "sourceUrl": "https://www.vincentforcongress.com/national-fiscal-policy",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He supports federal affordable-housing programs intended to increase housing supply.",
+          "quote": "Support the Neighborhood Homes Investment Act and LIHTC expansion to add 200,000+ affordable units nationally, with proportional benefits for SC-7 communities.",
+          "sourceUrl": "https://www.vincentforcongress.com/national-fiscal-policy",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He testified against a South Carolina bill he said would harm women and families.",
+          "quote": "This bill isn't about protecting life - it's political theater that will harm women and families.",
+          "sourceUrl": "https://www.vincentforcongress.com/news/testimony-against-state-bill-323",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports protecting Medicaid and health-care tax credits.",
+          "quote": "Protect Medicaid and keep our rural hospitals and clinics open, because in places like Marion and Dillon, the nearest emergency room can already be an hour away, and Marlboro County has no hospital at all.",
+          "sourceUrl": "https://www.vincentforcongress.com/issues/issue-2",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Russell Fry",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "His campaign says he wants to make the Trump tax cuts permanent so families and small businesses keep more of their income.",
+          "quote": "Make the Trump tax cuts permanent so families and small businesses keep more of what they earn.",
+          "sourceUrl": "https://russellfrysc.com/issues/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "His campaign says he would cut federal spending and rein in the debt.",
+          "quote": "Cut wasteful federal spending, rein in the debt, and end the bailouts and handouts to insiders.",
+          "sourceUrl": "https://russellfrysc.com/issues/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "His campaign says he supports school choice and letting education dollars follow students.",
+          "quote": "Champion school choice and let education dollars follow the student.",
+          "sourceUrl": "https://russellfrysc.com/issues/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "He said he secured funding for police equipment and vehicles in Hartsville.",
+          "quote": "The City of Hartsville Police Department will receive $360,106 for equipment and vehicles, including new cruisers, radar systems, and public safety tools, modernizing operations and enhancing officer readiness.",
+          "sourceUrl": "https://fry.house.gov/news/documentsingle.aspx?DocumentID=1029",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "His campaign calls for strengthening immigration enforcement, ending catch-and-release, and deporting criminal undocumented immigrants.",
+          "quote": "STRENGTHEN immigration law, END catch-and-release, and DEPORT criminal illegal aliens.",
+          "sourceUrl": "https://russellfrysc.com/issues/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "His campaign biography says that in the South Carolina House he worked to safeguard the Second Amendment.",
+          "quote": "As Chief Majority Whip in the State House, he fought to lower taxes, defend the unborn, and safeguard the 2nd Amendment.",
+          "sourceUrl": "https://russellfrysc.com/about/",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "His campaign biography says that in the South Carolina House he worked to defend the unborn.",
+          "quote": "As Chief Majority Whip in the State House, he fought to lower taxes, defend the unborn, and safeguard the 2nd Amendment.",
+          "sourceUrl": "https://russellfrysc.com/about/",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "He voted yes on the 2025 Protection of Women and Girls in Sports Act.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He says he supports expanding domestic energy production to lower costs and advance energy independence.",
+          "quote": "We must unleash America’s energy potential to lower costs, grow our economy, and stop having to rely on foreign dictators for energy.",
+          "sourceUrl": "https://fry.house.gov/issues/issue/?IssueID=10177",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "vincentforcongress.com · russellfrysc.com · fry.house.gov · clerk.house.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
