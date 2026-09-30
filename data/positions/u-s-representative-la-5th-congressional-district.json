@@ -1,0 +1,256 @@
+{
+  "office": "U.S. Representative",
+  "district": "LA 5th Congressional District",
+  "division": "la/cd-5",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Misti Cordell",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Cordell says she will cut taxes and federal spending to help families keep more of their earnings.",
+          "quote": "I’ll cut taxes, slash federal waste, end job-killing regulations, and defend our small businesses and workers so families can keep more of what they earn.",
+          "sourceUrl": "https://www.cordellforcongress.com/platform",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She says she will fight to protect Social Security and Medicare benefits for seniors.",
+          "quote": "As a rural healthcare expert, Misti will fight to protect Social Security and Medicare benefits for seniors - promises that must be kept.",
+          "sourceUrl": "https://www.cordellforcongress.com/veterans",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Cordell says she will fight for school choice and return education to local communities.",
+          "quote": "Parents, not Washington bureaucrats, should control what our children learn. I’ll fight for school choice, oppose woke indoctrination, and return education to local communities where it belongs.",
+          "sourceUrl": "https://www.cordellforcongress.com/platform",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "She says she will back law enforcement and restore law and order.",
+          "quote": "Every Louisiana family deserves safe streets. I’ll back our law enforcement, protect your Second Amendment rights, and restore law and order so criminals fear the law again.",
+          "sourceUrl": "https://www.cordellforcongress.com/platform",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Cordell says she will secure the border and stop illegal immigration.",
+          "quote": "A nation without borders is not a nation. I’ll secure the border, finish the wall, stop illegal immigration, shut down the cartels, and put Louisiana workers first.",
+          "sourceUrl": "https://www.cordellforcongress.com/platform",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "She says she will protect Second Amendment rights.",
+          "quote": "Every Louisiana family deserves safe streets. I’ll back our law enforcement, protect your Second Amendment rights, and restore law and order so criminals fear the law again.",
+          "sourceUrl": "https://www.cordellforcongress.com/platform",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Cordell says she will vote pro-life and believes every child deserves protection.",
+          "quote": "Louisiana is built on faith, family, and respect for life. I believe every child deserves protection, girls’ sports should be fair, and parents should guide their families. I'll vote pro-life, defend women’s sports, protect religious freedom, and stand unapologetically for the values that have shaped our communities for generations.",
+          "sourceUrl": "https://www.cordellforcongress.com/platform",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Cordell supports patient choice and market-based health care solutions.",
+          "quote": "Washington mandates have driven healthcare costs through the roof. I’ll work to expand doctor access, protect patient choice, and fight for affordable market-based solutions that put patients first.",
+          "sourceUrl": "https://www.cordellforcongress.com/platform",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Michael Echols",
+      "party": "Republican",
+      "stances": {
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He said Medicare benefits seniors have earned should be protected and the program strengthened for future generations.",
+          "quote": "Our goal should be simple: protect the benefits seniors have earned and make sure Medicare remains strong and sustainable for the long term.",
+          "sourceUrl": "https://www.michaelechols.com/issues/",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "He voted for a bill creating Louisiana’s LA GATOR education savings account program for parental choice in K–12 education.",
+          "quote": "Creates the Louisiana Giving All True Opportunity to Rise (LA GATOR) Scholarship Program to provide educational savings accounts for parental choice in K-12 education.",
+          "sourceUrl": "https://legis.la.gov/legis/BillInfo.aspx?i=246594",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He called for securing the border, returning people who enter illegally, and deporting immigrants who defraud taxpayers.",
+          "quote": "We must secure the border, end the policies that encourage illegal immigration, and ensure that those who enter the country illegally are returned to their home countries.",
+          "sourceUrl": "https://www.michaelechols.com/issues/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He said he would oppose federal efforts to restrict gun ownership and defend Americans’ right to bear arms.",
+          "quote": "In Congress, I will oppose any attempt by Washington to erode this fundamental freedom and will stand firmly for the right of Americans to keep and bear arms as the Constitution intended.",
+          "sourceUrl": "https://www.michaelechols.com/issues/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He described himself as pro-life and said he would support policies defending unborn life.",
+          "quote": "I am proudly pro-life and believe every life is a gift from God that deserves protection.",
+          "sourceUrl": "https://www.michaelechols.com/issues/",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "He voted for Louisiana legislation establishing sex-based eligibility rules for school sports.",
+          "quote": "YEAS Mr. Speaker Adams Amedee Bacala Beaullieu Bishop Bourriaque Brass Butler Carter, R. Cormier Coussan Crews Davis Deshotel DeVillier DuBuisson Echols",
+          "sourceUrl": "https://www.legis.la.gov/legis/ViewDocument.aspx?d=1280179",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He called for expanding domestic energy production and protecting Louisiana’s oil, gas, refining, and energy jobs.",
+          "quote": "By unleashing American energy, we can lower fuel costs, strengthen our economy, create high-paying jobs, and ensure the United States never again depends on hostile foreign nations for the energy we need.",
+          "sourceUrl": "https://www.michaelechols.com/issues/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He said he supports nationwide voter ID laws and proof of citizenship to register for federal elections.",
+          "quote": "I strongly support nationwide voter ID laws to ensure that only eligible citizens vote in American elections. I also support the Safeguard American Voter Eligibility (SAVE) Act, which requires proof of U.S. citizenship to register for federal elections",
+          "sourceUrl": "https://www.michaelechols.com/issues/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Gabe Firment",
+      "party": "Republican",
+      "stances": {
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He said he favors a border wall and infrastructure giving complete control over entry and exit.",
+          "quote": "I am in favor of construction of a wall and other necessary infrastructure on our border that gives complete control over entering and exiting the United States.",
+          "sourceUrl": "https://ivoterguide.com/candidate/46693/race/8192/election/664",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, he said abortion should not be allowed in any circumstance.",
+          "quote": "There is no circumstance under which abortion is necessary or should be allowed.",
+          "sourceUrl": "https://ivoterguide.com/candidate/46693/race/8192/election/664",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He said health care affordability depends on provider competition, consumer choice, and less government regulation.",
+          "quote": "The key to affordable and high quality health care is healthy competition among service providers that provides consumers with increased choices and options, and less governmental interference and regulation.",
+          "sourceUrl": "https://ivoterguide.com/candidate/46693/race/8192/election/664",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, he disagreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/46693/race/8192/election/664",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Austin Magee",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "At a candidate forum, he opposed a federal gas tax increase and said there should be no new taxes.",
+          "quote": "Magee said no new taxes and called for electing \"common sense blue collar people.\"",
+          "sourceUrl": "https://delta.creativecirclecdn.com/lpn/files/20260429-180038-f6e-2026-04-30-compressed.pdf",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Magee called for repealing the federal 45Q carbon-capture tax credit.",
+          "quote": "Magee called for repealing 45Q outright. Mebruer said the decision should be left to",
+          "sourceUrl": "https://delta.creativecirclecdn.com/lpn/files/20260429-180038-f6e-2026-04-30-compressed.pdf",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "Dan McKay",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He called for protecting or restoring SNAP benefits and said food assistance also supports farmers by increasing demand for agricultural products.",
+          "quote": "“We can afford to feed people in this country,” McKay said, arguing SNAP also benefits farmers by increasing demand for agricultural products.",
+          "sourceUrl": "https://yournews.com/2026/09/22/7202851/louisiana-congressional-candidates-clash-over-trump-iran-and-rising-costs/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "Antonio Wilson",
+      "party": "Democratic",
+      "stances": {
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "His campaign says Medicaid access should be protected and simplified through continuous eligibility and easier renewals.",
+          "quote": "Protecting and simplifying Medicaid access, including continuous eligibility periods and straightforward renewal processes, would stabilize coverage for children, low-income adults, and people with disabilities.",
+          "sourceUrl": "https://wilsonforlouisiana.com/blog/how-to-improve-rural-healthcare-access",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "cordellforcongress.com · michaelechols.com · legis.la.gov · ivoterguide.com · delta.creativecirclecdn.com · yournews.com · wilsonforlouisiana.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

@@ -1,0 +1,292 @@
+{
+  "office": "U.S. Representative",
+  "district": "LA 4th Congressional District",
+  "division": "la/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Conrad Cable",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports raising the minimum wage, indexing it to inflation, and strengthening workers’ union rights.",
+          "quote": "Workers deserve a wage that rises with inflation each year, so no one has to struggle to survive.",
+          "sourceUrl": "https://www.conrad4congress2026.com/vision",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "His campaign says Medicare and Medicaid should be protected from federal cuts.",
+          "quote": "We must protect Medicare and Medicaid so everyone can get care when they need it, without worrying about losing coverage or facing impossible bills.",
+          "sourceUrl": "https://www.conrad4congress2026.com/vision",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "In a campaign email, he said women should make decisions about their own bodies without government interference in medical exam rooms.",
+          "quote": "That women can decide what to do with their own bodies, and government should stay the hell out of our exam rooms.",
+          "sourceUrl": "https://www.politicalemails.org/messages/2370755",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "His campaign supports Medicare for All to provide universal health coverage.",
+          "quote": "Medicare for All ensures everyone can see a doctor, get medicine, and stay healthy without going into debt or skipping care.",
+          "sourceUrl": "https://www.conrad4congress2026.com/vision",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He supports automatic voter registration and national standards to protect voting rights.",
+          "quote": "We support national standards to end partisan gerrymandering and protect voting rights. That means fair maps, automatic registration, and restored protections under the Voting Rights Act.",
+          "sourceUrl": "https://www.conrad4congress2026.com/vision",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Gordon Heslop",
+      "party": "Republican",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He calls for increasing the minimum wage and proposes a $50,000 annual salary floor for K–12 educators.",
+          "quote": "I propose a national minimum salary of $50,000 per year for all K through 12 educators, and that it is increased each year by the increase in the consumer price index (CPI).",
+          "sourceUrl": "https://heslopforcongress.com/",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He calls for abolishing tariffs, including food tariffs, which he says raise consumer costs.",
+          "quote": "All tariffs on food need to be abolished because they have increased food costs for all consumers.",
+          "sourceUrl": "https://heslopforcongress.com/",
+          "agreement": "3/10"
+        },
+        "debt": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He says he wants to reduce the national debt while also pledging to save Social Security.",
+          "quote": "Laser focused on strengthening the middle class while reducing the national debt and maintaining America's role as leader of the free world.",
+          "sourceUrl": "https://heslopforcongress.com/",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He says the country needs more housing and proposes a program to help people buy first homes.",
+          "quote": "There is an urgent need for more housing in the U.S. and a need for an increased percentage of home ownership and a decrease in the average age of the first-time home buyer.",
+          "sourceUrl": "https://heslopforcongress.com/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He calls for ending chain migration, defunding sanctuary cities, and limiting immigration to government-approved applicants with needed skills, with an exception for spouses and children.",
+          "quote": "End chain migration - it may be nice for a family, but it is a bad immigration option for a country",
+          "sourceUrl": "https://heslopforcongress.com/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "He said gun violence is more about social attitudes and behavior than gun laws, emphasizing citizenship education.",
+          "quote": "The issue here is social attitudes and behavior, much more than it is gun laws. Our education system needs to focus more on what it means to be a responsible citizen.",
+          "sourceUrl": "https://ivoterguide.com/candidate/89871/race/27232/election/1415",
+          "agreement": "4/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He says he opposes abortion and supports legal protection for human life from conception.",
+          "quote": "Human life deserves legal protection from conception until natural death.",
+          "sourceUrl": "https://ivoterguide.com/candidate/89871/race/27232/election/1415",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He supports excluding biological males from women’s sports and spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/89871/race/27232/election/1415",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He favors private insurance but also supports a government plan for people who cannot obtain private coverage.",
+          "quote": "I believe private insurance is the best system but there are some people who could not obtain private insurance and government should have a plan for these people.",
+          "sourceUrl": "https://ivoterguide.com/candidate/89871/race/27232/election/1415",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He says lowering fuel costs would reduce food prices because transportation is a significant product cost.",
+          "quote": "Lowering fuel costs would also help decrease food costs as transportation costs account for a significant part of the total cost of all products.",
+          "sourceUrl": "https://heslopforcongress.com/",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He opposes voting without photo identification and says elections should require ID.",
+          "quote": "It's required for so many things and should be for elections.",
+          "sourceUrl": "https://ivoterguide.com/candidate/89871/race/27232/election/1415",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Mike Johnson",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "On his official fiscal policy page, Johnson called for permanent tax reductions and pro-growth tax reforms.",
+          "quote": "pursue continued pro-growth tax reforms and permanent tax reductions",
+          "sourceUrl": "https://mikejohnson.house.gov/issues/issue/?IssueID=14899",
+          "agreement": "9/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "Johnson voted against the 2019 Raise the Wage Act.",
+          "quote": "Vote Question: On Passage Raise the Wage Act Vote Type: Recorded Vote",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "He supported using tariffs to rebalance trade and protect U.S. workers and businesses.",
+          "quote": "So tariffs are one tool among many that he's using to try to do a rebalancing there. He's trying to rebalance trade and restore a level playing field for American workers and businesses.",
+          "sourceUrl": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=1587",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Johnson’s official fiscal policy page calls for bringing spending under control, balancing the budget and modernizing entitlement programs.",
+          "quote": "Congress has a moral and constitutional duty to resolve the crisis, bring spending under control, balance the federal budget, reform and modernize entitlement programs",
+          "sourceUrl": "https://mikejohnson.house.gov/issues/issue/?IssueID=14899",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He supported a federal tax-credit scholarship program for alternatives to public schools.",
+          "quote": "Supports School Choice: creates the first-ever federal tax credit scholarship program for K–12 students and students with special needs to access alternatives to public schools with direct financial support.",
+          "sourceUrl": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2829",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He joined an effort seeking additional funding for Louisiana law-enforcement officers after flooding.",
+          "quote": "Now, we must ensure they have the resources needed to continue their service.",
+          "sourceUrl": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=301",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Johnson supported funding border enforcement and deportations, and said the bill would provide resources to detain and deport undocumented immigrants.",
+          "quote": "provide federal law enforcement with the resources necessary to permanently fortify our borders against foreign invaders and detain and deport the millions of illegals",
+          "sourceUrl": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=1614",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Johnson voted for the Concealed Carry Reciprocity Act of 2017.",
+          "quote": "Vote Question: On Passage Concealed Carry Reciprocity Act of 2017 Vote Type: Recorded Vote",
+          "sourceUrl": "https://clerk.house.gov/Votes/2017663",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Johnson voted for and co-sponsored a bill to prohibit most abortions after 20 weeks of pregnancy and said he would continue that effort.",
+          "quote": "I will continue this fight while in Congress.",
+          "sourceUrl": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=512",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He supported legislation requiring federally funded schools to keep biological males out of women’s sports.",
+          "quote": "requiring all schools receiving federal funding to uphold the original meaning of Title IX and to keep biological men out of women's sports.",
+          "sourceUrl": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2815",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He promoted a health-care plan based on free-market options and competition rather than expanded public coverage.",
+          "quote": "There’s ways to do that that are free market-based and introduce competition and help to drive the cost down.",
+          "sourceUrl": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=24",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supported expanding domestic energy production and rolling back regulations he described as raising energy costs.",
+          "quote": "we need reliable, affordable, abundant energy.",
+          "sourceUrl": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=1587",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supported requiring proof of citizenship for registration and photo identification to vote in federal elections.",
+          "quote": "The SAVE America Act ensures, as you know, that voters have proof of citizenship to register to vote, and they show a valid ID when they turn up to vote at the ballot box.",
+          "sourceUrl": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2918",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Mike Nichols",
+      "party": "Republican",
+      "stances": {
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "Nichols said rising national debt motivated him to run and recalled that the federal budget had been balanced during his lifetime.",
+          "quote": "Well kind of what got me motivated is our debt just keeps going higher and home in Yes, sir, And you hear a lot of people say that it's no use to fight at mine. But you know, I do remember our budget being balanced under President Clinton.",
+          "sourceUrl": "https://www.iheart.com/podcast/53-leesville-tattoos-and-views-291643988/episode/louisiana-ccs-with-guest-mike-nichols-308668338/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "conrad4congress2026.com · politicalemails.org · heslopforcongress.com · ivoterguide.com · mikejohnson.house.gov · clerk.house.gov · iheart.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
