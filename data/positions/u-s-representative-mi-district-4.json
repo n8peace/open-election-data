@@ -1,0 +1,254 @@
+{
+  "office": "U.S. Representative",
+  "district": "MI District 4",
+  "division": "mi/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Sean McCann",
+      "party": "Democratic Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He said he delivered a major state tax-relief package and would cut taxes for middle-class families.",
+          "quote": "I was proud to deliver one of the largest tax relief packages in MI history. It’s time to do more: I’ll work to cut taxes for middle class families",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=25687783",
+          "agreement": "9/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He said he supports raising the federal minimum wage.",
+          "quote": "I'll stop private equity from buying up available housing to jack up rent prices. I support raising the federal minimum wage.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=25687783",
+          "agreement": "5/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He says he opposes tariffs, which he argues raise costs for families and farmers.",
+          "quote": "I’ll work to cut taxes for middle class families, oppose reckless tariffs, and stand up against forever wars that cost our country billions while jacking up gas and grocery prices.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=25687783",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He says he strongly supports public education and funding public schools, and describes actions to increase school funding.",
+          "quote": "I believe every child deserves the opportunity to reach their full potential, which is why I strongly support public education and funding our public schools.",
+          "sourceUrl": "https://seanmccannforcongress.com/issues/",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports fully funding police and also funding programs for mental health resources and gun-violence prevention.",
+          "quote": "In the Michigan Legislature, I voted time and time again to fully fund our police, our firefighters, and programs that invested in mental health resources.",
+          "sourceUrl": "https://seanmccannforcongress.com/issues/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He says he voted for universal background checks, safe-storage laws, and extreme risk protection orders.",
+          "quote": "On March 16th, my colleagues and I voted in the Michigan Senate to enact universal background checks, safe storage laws and extreme risk protection orders.",
+          "sourceUrl": "https://senatedems.com/mccann/2023/04/06/district-19-news-legislative-updates/",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He says he voted to repeal Michigan’s 1931 abortion ban and supports leaving these decisions to families and doctors.",
+          "quote": "I believe that the decision to start or grow a family is between a woman, her family, and her doctor—NOT politicians who have no place in the doctor’s office.",
+          "sourceUrl": "https://seanmccannforcongress.com/issues/",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He says he voted to expand Medicaid and supports extending Affordable Care Act tax credits and expanding public coverage.",
+          "quote": "That’s why one of my proudest votes in the Michigan Legislature was to expand access to Medicaid to over a million people in Michigan, making it possible for more families to have real, quality health care.",
+          "sourceUrl": "https://seanmccannforcongress.com/issues/",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports clean energy sources and nuclear power while also emphasizing lower energy costs for families.",
+          "quote": "Solar, wind, and nuclear energy here in Michigan will help us support US energy independence, reduce pollution, and create good-paying jobs in our community. In the Michigan Senate, I supported funding to help reopen the Palisades Nuclear Plant to help us move towards a clean energy future.",
+          "sourceUrl": "https://seanmccannforcongress.com/issues/",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He co-sponsored a Michigan bill providing voter-access and assistance provisions.",
+          "quote": "Elections: voting procedures; voter access and assistance provisions; provide for.",
+          "sourceUrl": "https://www.michiganvotes.org/legislation/2026/senate/bill-964",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Bill Huizenga",
+      "party": "Republican Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He voted for the Tax Cuts and Jobs Act and supported lowering tax rates for families and businesses.",
+          "quote": "The Tax Cuts and Jobs Act will deliver real tax relief for low and middle income families living paycheck to paycheck.",
+          "sourceUrl": "https://huizenga.house.gov/news/documentsingle.aspx?DocumentID=398579",
+          "agreement": "9/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "He voted against raising the federal minimum wage, arguing that the legislation could cost jobs.",
+          "quote": "Instead of government mandates, Washington should focus on pro-growth policies that strengthen small business job creation and reduce regulatory barriers",
+          "sourceUrl": "https://huizenga.house.gov/news/documentsingle.aspx?DocumentID=400923",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports targeted tariffs against countries with unfair practices while opposing broad tariffs on U.S. allies.",
+          "quote": "Policies of this nature should be designed to strictly focus on nations that flout fair trade practices, such as China, and other bad actors.",
+          "sourceUrl": "https://huizenga.house.gov/news/documentsingle.aspx?DocumentID=398613",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He called for a bipartisan plan to improve fiscal conditions and preserve Social Security and Medicare for current beneficiaries and future generations.",
+          "quote": "I want results that protect our seniors and current beneficiaries while preserving these key programs for future generations.",
+          "sourceUrl": "https://huizenga.house.gov/news/documentsingle.aspx?DocumentID=402741",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He has supported expanding school choice, including private, faith-based, and public charter school options.",
+          "quote": "When a school is not the best fit for a child, parents should have the flexibility to choose the school or program that best meets their child’s needs.",
+          "sourceUrl": "https://huizenga.house.gov/news/documentsingle.aspx?DocumentID=404049",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He opposed a proposed sanctuary ordinance and urged local officials to support law enforcement.",
+          "quote": "We should show our gratitude for their sacrifices by supporting them, not making their jobs more difficult.",
+          "sourceUrl": "https://huizenga.house.gov/uploadedfiles/huizenga_letter_to_kalamazoo_township.pdf",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He opposed a local sanctuary ordinance and argued that local law enforcement should cooperate with federal immigration authorities.",
+          "quote": "Subverting federal law enforcement, specifically by implementing failed sanctuary policies, will endanger our communities, potentially threaten state and federal funding opportunities",
+          "sourceUrl": "https://huizenga.house.gov/uploadedfiles/huizenga_letter_to_kalamazoo_township.pdf",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He supported concealed-carry reciprocity legislation and described himself as an advocate for Second Amendment rights.",
+          "quote": "I am committed to be an advocate for West Michigan’s Second Amendment rights and responsible gun ownership during my time in Congress, honoring the oath I took to support and defend the Constitution.",
+          "sourceUrl": "https://huizenga.house.gov/news/documentsingle.aspx?DocumentID=269506",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He has supported legislation to prevent federal funding for abortion and restrict abortion access.",
+          "quote": "Rep. Huizenga has consistently supported legislation to end federal funding for Planned Parenthood, prevent taxpayer dollars from being used to pay for abortion services",
+          "sourceUrl": "https://huizenga.house.gov/issues/issue/?IssueID=24022",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He supported overturning a policy allowing transgender girls and women to participate in women’s sports and use women’s facilities.",
+          "quote": "The Biden-Harris Administration’s effort permitting men to compete in women’s sports and enter women’s bathrooms and locker rooms has been correctly struck down.",
+          "sourceUrl": "https://huizenga.house.gov/news/email/show.aspx?ID=BHQA3XWCHKQBA77VP2EF7OL6HA",
+          "agreement": "6/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "He voted against final passage of the MORE Act, which would have federally decriminalized cannabis.",
+          "quote": "Vote Question: On Passage\n\nMORE Act\n\nVote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/2020235",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He has promoted patient choice among coverage options and market-based measures to reduce health care costs.",
+          "quote": "Congressman Huizenga believes there is a better way to reduce costs and increase access to health care for all Americans.",
+          "sourceUrl": "https://huizenga.house.gov/issues/issue/?IssueID=24023",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He voted for the Lower Energy Costs Act, which he said would expand domestic production and lower energy prices.",
+          "quote": "The Lower Energy Costs Act will strengthen our economy and lower prices for Michiganders by unleashing American energy, modernizing our sorely outdated permitting process, and increasing domestic production of critical minerals.",
+          "sourceUrl": "https://huizenga.house.gov/news/documentsingle.aspx?DocumentID=401591",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He signed a letter asking Michigan’s secretary of state to explain ballot authentication and voter-roll maintenance procedures.",
+          "quote": "please respond with a description of the processes you have in place to certify that only lawful ballots are cast and counted, including a detailed explanation of the processes that were in place for authenticating ballots in the 2020 election.",
+          "sourceUrl": "https://huizenga.house.gov/news/documentsingle.aspx?DocumentID=401412",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Shafina Che Barnett",
+      "party": "Green Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Her campaign materials list eliminating the income tax as part of her economic agenda.",
+          "quote": "Barnett's campaign materials describe an economic agenda that includes eliminating the income tax, fixing schools, and growing the economy.",
+          "sourceUrl": "https://smarter.vote/races/mi-house-04-2026/shafina-barnett/",
+          "agreement": "2/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Her campaign materials list universal healthcare as a policy priority.",
+          "quote": "Barnett's campaign materials for Michigan's 4th Congressional District list universal healthcare as a policy priority.",
+          "sourceUrl": "https://smarter.vote/races/mi-house-04-2026/shafina-barnett/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "onyourballot.vote411.org · seanmccannforcongress.com · senatedems.com · michiganvotes.org · huizenga.house.gov · clerk.house.gov · smarter.vote",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

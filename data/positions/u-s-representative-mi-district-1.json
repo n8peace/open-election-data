@@ -1,0 +1,405 @@
+{
+  "office": "U.S. Representative",
+  "district": "MI District 1",
+  "division": "mi/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Callie Barr",
+      "party": "Democratic Party",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She calls for fairer tax rates that make the wealthy pay more, alongside federal investment in local economies.",
+          "quote": "Pass common-sense tax policy, so the rich pay their fair share and working families aren’t stuck with the bill.",
+          "sourceUrl": "https://callieforcongress.com/priorities-life/",
+          "agreement": "4/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supports policies to raise wages, strengthen unions, and pass the PRO Act.",
+          "quote": "I'll support policies that raise wages, strengthen unions, invest in child care, and bring good-paying jobs to our region through infrastructure, manufacturing, agriculture, and clean energy.",
+          "sourceUrl": "https://www.wcmu.org/politics/2026-07-30/callie-barr-says-northern-michigan-needs-to-build-more-affordable-homes?_amp=true",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Her campaign platform calls for ending tariffs that raise costs, though she has said targeted tariffs may help farmers if used carefully.",
+          "quote": "End tariffs that hurt farmers and raise food prices.",
+          "sourceUrl": "https://callieforcongress.com/platform/",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She supports protecting and strengthening Social Security, including removing the payroll tax cap to support the program.",
+          "quote": "I'll fight to expand affordable housing, lower prescription drug prices by allowing the government to negotiate all drug prices, protect and strengthen Social Security, and create universal health care with a public health insurance option, like Medicare.",
+          "sourceUrl": "https://www.wcmu.org/politics/2026-07-30/callie-barr-says-northern-michigan-needs-to-build-more-affordable-homes?_amp=true",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She supports affordable homebuilding, practical zoning reform, and infrastructure investments that make new development possible.",
+          "quote": "We should expand incentives to build workforce and affordable housing, increase financing for rural communities, and invest in water, sewer, and broadband infrastructure that makes new development possible.",
+          "sourceUrl": "https://www.wcmu.org/politics/2026-07-30/callie-barr-says-northern-michigan-needs-to-build-more-affordable-homes?_amp=true",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports fully funding public education and trade schools and providing more resources to teachers and students.",
+          "quote": "We need to fully fund our public education system and trade schools so that teachers have the support they need in order for students to get the education that will help them succeed.",
+          "sourceUrl": "https://www.opencampaign.com/politicians-in-united-states/191584/callie-barr/issue-positions",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Barr supports fully funding police, firefighters, and other first responders.",
+          "quote": "Callie knows that we want to live in safe communities and to do this, she supports fully funding our police officers, firefighters, and other first responders.",
+          "sourceUrl": "https://www.opencampaign.com/politicians-in-united-states/191584/callie-barr/issue-positions",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Barr supports expanded legal immigration pathways for temporary work and permanent citizenship.",
+          "quote": "We, of course, need to provide legal paths for more immigrants, either for temporary work or permanent citizenship.",
+          "sourceUrl": "https://my.lwv.org/sites/default/files/LWV-Voter-guide-FINAL-compressed_0.pdf",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports background checks, safe storage, and red flag laws while affirming lawful gun ownership.",
+          "quote": "It’s why she supports common sense solutions that are supported by a majority of Americans and Michiganders, including background checks, safe storage, and red flag laws to prevent firearm related injuries, school shootings, and domestic violence.",
+          "sourceUrl": "https://www.opencampaign.com/politicians-in-united-states/191584/callie-barr/issue-positions",
+          "agreement": "3/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She criticized legislation without abortion exceptions and said she would work to protect women's access to health care.",
+          "quote": "He’s tied up not supporting a peaceful transition of power, not wanting to certify our votes, and co-sponsoring legislation without any exceptions for abortion, not even to save a mother’s life. As the only mom and candidate in this race born and raised here, I’ll make sure we have a voice focused on our needs - like working together to support our democracy and veterans, protecting women’s access to healthcare, supporting affordable housing and childcare, and bolstering our small, local businesses.",
+          "sourceUrl": "https://my.lwv.org/sites/default/files/LWV-Voter-guide-FINAL-compressed_0.pdf",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports universal health care with a public option and calls for protecting Medicaid and extending ACA subsidies.",
+          "quote": "I'll fight to expand affordable housing, lower prescription drug prices by allowing the government to negotiate all drug prices, protect and strengthen Social Security, and create universal health care with a public health insurance option, like Medicare.",
+          "sourceUrl": "https://www.wcmu.org/politics/2026-07-30/callie-barr-says-northern-michigan-needs-to-build-more-affordable-homes?_amp=true",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She backs clean energy investment and emissions reduction while also emphasizing energy security and lower costs.",
+          "quote": "We can strengthen America's energy security without weakening the protections that safeguard our Great Lakes, our drinking water, and the communities that depend on them.",
+          "sourceUrl": "https://www.wcmu.org/politics/2026-07-30/callie-barr-says-northern-michigan-needs-to-build-more-affordable-homes?_amp=true",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Jack Bergman",
+      "party": "Republican Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He voted for a spending package that repealed three federal health-insurance-related taxes.",
+          "quote": "Repealing 3 major Obamacare taxes – the medical device tax, the Cadillac tax, and the Health Insurer tax;",
+          "sourceUrl": "https://bergman.house.gov/news/documentsingle.aspx?DocumentID=501",
+          "agreement": "9/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He voted No on final House passage of the Raise the Wage Act.",
+          "quote": "Vote Question: On Passage Raise the Wage Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "4/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He voted for USMCA and described it as promoting fairer and freer trade.",
+          "quote": "The USMCA promotes a more fair and free trade policy, and will lead to a more prosperous Michigan.",
+          "sourceUrl": "https://bergman.house.gov/news/documentsingle.aspx?DocumentID=504",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He says he supports school choice and educational options including public, private, charter, and home schooling.",
+          "quote": "That means supporting educational freedom, whether families choose public, private, charter, career and technical education, or homeschooling.",
+          "sourceUrl": "https://www.bergmanforcongress.com/issues",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He secured federal funding to replace county patrol vehicles and enhance public-safety capabilities.",
+          "quote": "$385,000 for Houghton County to replace aging patrol vehicles and enhance public safety capabilities.",
+          "sourceUrl": "https://bergman.house.gov/news/documentsingle.aspx?DocumentID=1489",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He says he consistently supports stronger border enforcement and immigration laws, and cites support for expanded detention and enforcement resources.",
+          "quote": "Congressman Bergman has consistently supported stronger border enforcement and immigration laws.",
+          "sourceUrl": "https://www.bergmanforcongress.com/issues",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "His campaign says he is working to defend Second Amendment rights.",
+          "quote": "From securing our border and strengthening national defense to standing up for Veterans, protecting Second Amendment rights, and reining in wasteful Washington spending, Jack Bergman is your conservative voice in Congress.",
+          "sourceUrl": "https://www.bergmanforcongress.com/",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He says Congress should protect unborn life and describes supporting federal restrictions on abortion funding.",
+          "quote": "Congressman Bergman believes Congress has a responsibility to protect that right, including for the unborn, while supporting a culture that welcomes children and strengthens families.",
+          "sourceUrl": "https://www.bergmanforcongress.com/issues",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He voted for the Protection of Women and Girls in Sports Act, which would bar transgender women and girls from competing in women’s sports based on gender identity.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He voted for legislation repealing the ACA and replacing it with a choice-based approach emphasizing patients and providers.",
+          "quote": "The American Healthcare Act (AHCA) as amended puts health care decisions back in the hands of patients and providers and offers real, choice-based alternatives to Obamacare’s failures.",
+          "sourceUrl": "https://bergman.house.gov/news/documentsingle.aspx?DocumentID=41",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He warned that shutting down the Line 5 pipeline could raise heating costs and cause propane shortages.",
+          "quote": "As energy prices skyrocket across the nation due to Biden’s dangerous energy policies, shutting down Line 5 would saddle constituents with unaffordable heating costs and propane shortages as we head into the winter months.",
+          "sourceUrl": "https://www.bergmanforcongress.com/bergman-warns-biden-against-closing-line-five-pipeline",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He cosponsored the SAVE Act, which requires proof of citizenship to register for federal elections and directs states to check voter rolls.",
+          "quote": "I’m proud to have cosponsored this commonsense legislation that passed the House with bipartisan support, albeit slim.",
+          "sourceUrl": "https://bergman.house.gov/news/documentsingle.aspx?DocumentID=1292",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Arnett Satterla",
+      "party": "Libertarian Party",
+      "stances": {}
+    },
+    {
+      "name": "Doc Kovaly",
+      "party": "U.S. Taxpayers Party",
+      "stances": {
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "His campaign calls for ending abortion and opposes late-term abortion in Michigan.",
+          "quote": "To end abortion, we too must show the victims.",
+          "sourceUrl": "https://www.doc.vote/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "LaVeta Davenport",
+      "party": "Green Party",
+      "stances": {
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "She supports humane immigration policies with due process, fair legal proceedings, and protections for families.",
+          "quote": "I support immigration policies that are orderly, humane, and consistent with constitutional protections and due process. I support reforms that improve the efficiency/fairness of the immigration system, ensure access to fair legal proceedings, protect families/children from unnecessary harm, mandating law enforcement and immigration accountability.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998099",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports universal healthcare coverage and identifies affordability, access, and rural care as priorities.",
+          "quote": "I support universal healthcare. Our current heavily privatized healthcare structure fails at serving the best interests of the public. Access to care is often shaped by employment, insurance status, geography, cost, and ability to navigate complex systems, instead of medical need.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998099",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Liz Hakola",
+      "party": "Working Class Party",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "She said wages should rise in proportion to prices and that workers’ wages can be raised.",
+          "quote": "When prices go up, wage should go up by the same proportion. With the wealth created by the working class, wages can be raised, and jobs created.",
+          "sourceUrl": "https://www.recordpatriot.com/news/article/1st-Congressional-District-seat-up-for-grabs-17536746.php",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "She warned that a tax bill’s deficit could be used to justify cuts to Social Security, Medicare and Medicaid.",
+          "quote": "I think that the next step is the Republican Congress will use the deficit that they cause to rationalize cuts in spending for social security, medicare and medicaid.",
+          "sourceUrl": "https://keweenawnow.blogspot.com/2017/12/democrats-from-two-counties-march.html",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She opposed diverting public money to private schools and called for better public schools.",
+          "quote": "Public money should not be diverted to private schools or homeschools. We must fight for better public schools and a good education for working class children.",
+          "sourceUrl": "https://www.recordpatriot.com/news/article/1st-Congressional-District-seat-up-for-grabs-17536746.php",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "She criticized mass detention and lack of due process and called for a humane immigration system.",
+          "quote": "A united working class can create a rational, humane immigration system.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=25687793",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She said abortion and other reproductive-care decisions belong to women and opposed government control of those decisions.",
+          "quote": "Every woman has the right to make her own decisions about abortion and other reproductive care such as contraception, miscarriage treatment and sterilization.",
+          "sourceUrl": "https://www.recordpatriot.com/news/article/1st-Congressional-District-seat-up-for-grabs-17536746.php",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She called universal health care a human right and said care should be accessible and affordable to everyone.",
+          "quote": "Universal health care for all residents regardless of citizenship is a basic human right. Health care including reproductive health should be accessible and affordable to everyone regardless of economic class.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=25687793",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Zebulon Featherly",
+      "party": "No Party Affiliation",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He supports universal single-payer health care funded through progressive income taxes.",
+          "quote": "This system would be funded through progressive income taxes.",
+          "sourceUrl": "https://www.zebulonforcongress.com/stances",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports a nationwide minimum wage increase starting at $15–$20 per hour, adjusted for regional costs.",
+          "quote": "Zebulon supports a country wide minimum wage increase Starting between $15–$20 per hour, with adjustments based on regional cost of living.",
+          "sourceUrl": "https://www.zebulonforcongress.com/stances",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He opposes blanket tariffs but supports using tariffs carefully in some circumstances.",
+          "quote": "Tariffs are a tool to be used with care, not a threat to be thrown at trade partners and allies.",
+          "sourceUrl": "https://www.zebulonforcongress.com/stances",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He supports increasing housing supply through construction innovation and lower building costs.",
+          "quote": "Zebulon supports innovation in housing construction to reduce building costs and increase housing supply.",
+          "sourceUrl": "https://www.zebulonforcongress.com/stances",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports a path to citizenship and restructuring federal immigration enforcement by dissolving ICE and moving its responsibilities to other agencies.",
+          "quote": "Zebulon supports a clear and efficient path to citizenship. A strong immigration system welcomes people who want to work, contribute, and become part of our communities.",
+          "sourceUrl": "https://www.zebulonforcongress.com/stances",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He supports background checks for every firearm purchase while also affirming gun ownership rights.",
+          "quote": "Everyone purchasing a firearm should be required to complete a background check, regardless of where the purchase occurs.",
+          "sourceUrl": "https://www.zebulonforcongress.com/stances",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports abortion access through 24 weeks of pregnancy, with later procedures requiring medical approval.",
+          "quote": "Zebulon supports the ability to obtain an abortion up to 24 weeks of pregnancy, with procedures after that time requiring medical approval.",
+          "sourceUrl": "https://www.zebulonforcongress.com/stances",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports a government-run single-payer health-care system.",
+          "quote": "Healthcare is a human right and should not operate as a profit-driven market.",
+          "sourceUrl": "https://www.zebulonforcongress.com/stances",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports reducing reliance on fossil fuels and renewable investment, while opposing their total elimination at this time.",
+          "quote": "Zebulon does not support the total elimination of fossil fuels as an energy source at this time. A diversified energy grid ensures a more reliable and stable system.",
+          "sourceUrl": "https://www.zebulonforcongress.com/stances",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "callieforcongress.com · wcmu.org · opencampaign.com · my.lwv.org · bergman.house.gov · clerk.house.gov · bergmanforcongress.com · doc.vote · onyourballot.vote411.org · recordpatriot.com · keweenawnow.blogspot.com · zebulonforcongress.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

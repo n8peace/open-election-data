@@ -1,0 +1,335 @@
+{
+  "office": "U.S. Senate",
+  "district": "MI",
+  "division": "mi/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Abdul El-Sayed",
+      "party": "Democratic Party",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He proposes higher taxes on large fortunes and high incomes, alongside a federal tax exemption for incomes up to $50,000.",
+          "quote": "I support raising the marginal tax rate on earnings over $1 million and a billionaire tax on wealth over $1 billion.",
+          "sourceUrl": "https://abdulforsenate.com/priority/money-in-your-pocket/",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports union rights and fair wages, and proposes a $60,000 minimum salary for teachers.",
+          "quote": "I believe that every worker deserves the right to join a union and to earn a fair wage.",
+          "sourceUrl": "https://abdulforsenate.com/priority/money-in-your-pocket/",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "He supports targeted tariffs to protect Michigan manufacturing and help develop future industries.",
+          "quote": "I support targeted, smart tariffs that would help protect Michigan manufacturing and incubate the industries of the future with unions at the forefront.",
+          "sourceUrl": "https://abdulforsenate.com/priority/money-in-your-pocket/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He proposes expanding Medicare coverage and strengthening Social Security, including by lifting the payroll tax cap.",
+          "quote": "They deserve Medicare that actually covers all their health needs, Social Security they can live on, and a home they can afford to stay in.",
+          "sourceUrl": "https://abdulforsenate.com/2026/06/the-aaa-plan-for-seniors-aging-affordably-in-america/",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He proposes a large increase in homebuilding and streamlined local regulations to make construction easier.",
+          "quote": "We need a building boom. And to create that we need to massively invest in building new housing in communities across the country, and to streamline local regulations that are making it way too hard to build anything in America.",
+          "sourceUrl": "https://abdulforsenate.com/priority/money-in-your-pocket/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He supports public schools and opposes vouchers that direct public money to private education.",
+          "quote": "Public school should be truly public–and I oppose efforts to privatize public education through vouchers and other programs intended to move public money into private pockets.",
+          "sourceUrl": "https://abdulforsenate.com/priority/money-in-your-pocket/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He proposes replacing ICE with a system that funds immigration courts and creates a pathway to citizenship.",
+          "quote": "I believe that ICE funds should be repurposed to build out the legal infrastructure of courts to create a clear pathway to citizenship for those who are stuck in limbo in our current system.",
+          "sourceUrl": "https://abdulforsenate.com/priority/money-out-of-politics/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He says he will work to codify the rights protected by Roe v. Wade into federal law.",
+          "quote": "I’ll fight to codify the rights once protected by Roe v. Wade into federal law.",
+          "sourceUrl": "https://www.ballotready.org/people/abdul-el-sayed",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports expanding Medicare to cover every American while allowing workers to keep supplemental private insurance.",
+          "quote": "I believe in expanding Medicare to cover every single American from cradle to grave while sustaining the option for workers to keep supplemental private insurance their unions or employers may provide.",
+          "sourceUrl": "https://abdulforsenate.com/2026/07/new-ad-1-844-abdul-4-u/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He supports a transition to 100% renewable energy through large investments in clean power and efficiency.",
+          "quote": "That’s why I’ll fight for a pathway to 100% renewable energy.",
+          "sourceUrl": "https://abdulforsenate.com/priority/money-out-of-politics/",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He opposes mandatory voter ID laws and supports automatic registration, early voting, and no-reason absentee ballots.",
+          "quote": "I oppose mandatory Voter ID laws like the “SAVE Act” that impose unnecessary barriers to citizens voting. Instead, I believe in making voting easier.",
+          "sourceUrl": "https://abdulforsenate.com/priority/money-out-of-politics/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Mike Rogers",
+      "party": "Republican Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He said he prefers lower taxes and would consider a lower corporate rate in the context of other tax priorities.",
+          "quote": "“I would look at the number and see how we would balance it out with everything else we are trying to accomplish,” Rogers said.",
+          "sourceUrl": "https://www.washingtonexaminer.com/news/campaigns/congressional/3096545/gop-michigan-senate-contender-backs-key-trump-trade-priority/",
+          "agreement": "4/5"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "He says tariffs are important for returning manufacturing to the United States.",
+          "quote": "You know, the most important thing about tariffs is getting back to Made in America.",
+          "sourceUrl": "https://rogersforsenate.com/news/rogers-on-the-revival-of-michigan-manufacturing",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "His current campaign website says he will protect Social Security and Medicare for seniors.",
+          "quote": "That means bringing manufacturing jobs back home, lowering the cost of gas, groceries, & prescription drugs, protecting seniors’ social security & medicare, and setting our kids up for success by prioritizing education not indoctrination.",
+          "sourceUrl": "https://rogersforsenate.com/",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "His housing plan proposes incentives for new construction and residential housing zones to encourage homebuilding.",
+          "quote": "Incentivizes new home construction with residential housing zones where 100% of new construction is tax free",
+          "sourceUrl": "https://rogersforsenate.com/housingplan",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "As a congressman, he publicly opposed universal background checks and other gun-control legislation.",
+          "quote": "As a proud gun owner, I will stand strong against universal gun registrations, universal background checks and any other anti-gun legislation liberal Democrats are trying to pass,” Rogers said.",
+          "sourceUrl": "https://mikerogers.house.gov/news/documentsingle.aspx?DocumentID=1815",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He has described himself as pro-life but says he would oppose a national ban and would not vote to undo Michigan’s constitutional abortion protections.",
+          "quote": "I believe that the states are the best place to have this discussion. And Michigan citizens said in an overwhelming fashion that we want abortion legal and made it a part of our state Constitution.",
+          "sourceUrl": "https://www.michiganpublic.org/politics-government/2024-07-24/michigans-u-s-senate-race-meet-republican-candidate-mike-rogers",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He proposed copays for preventive care and insurance pools for people with high medical costs, and said his plan would rely on the free market.",
+          "quote": "“You know, if you go up and have to pay the doctor $50 for your annual physical, that’s probably okay, right?”",
+          "sourceUrl": "https://bridgemi.com/michigan-government/senate-hopeful-mike-rogers-floats-copays-high-risk-pools-for-health-care/",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Lydia Christensen",
+      "party": "Libertarian Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She supports eliminating federal income tax on earnings under $150,000.",
+          "quote": "I support a $15 federal minimum wage, adjusted for inflation, and zero federal income tax on earnings under $150,000",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998089",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supports a $15 federal minimum wage and adjusting it for inflation.",
+          "quote": "I support a $15 federal minimum wage, adjusted for inflation, and zero federal income tax on earnings under $150,000",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998089",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "She says tariffs raise household costs and that she would remove them.",
+          "quote": "Tariffs cost the average household about $1,745 a year; I will remove them.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998089",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She proposes incentives for localities that change zoning to allow multifamily and missing-middle housing.",
+          "quote": "I will create a federal incentive fund, opt-in, for localities that reform zoning to allow multi-family and missing-middle housing.",
+          "sourceUrl": "https://www.lydialynnchristensen.com/issues/solving-michigan-s-housing-crisis",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "She opposes summary deportations and supports due process and legal counsel for immigrants.",
+          "quote": "We need a fair immigration system that treats people with dignity, ends summary deportations, creates truly independent courts, and guarantees legal counsel.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998089",
+          "agreement": "9/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "She says she will push for federal cannabis legalization and a regulated industry.",
+          "quote": "Lydia will push for federal legalization of both, ending unjust criminal penalties and creating a safe, regulated industry that benefits businesses, workers, and patients alike.",
+          "sourceUrl": "https://www.lydialynnchristensen.com/issues/legalizing-cannabis-psilocybin-with-worker-safety",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports an opt-in public Medicaid plan alongside employer or union coverage.",
+          "quote": "I support Medicaid for All as an opt-in plan: keep your employer or union plan if you want it, or enroll in a public plan with one transparent premium, no deductibles, no surprise bills, and income-based costs that are zero for lower-income families.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998089",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "She supports ending fossil-fuel subsidies and decommissioning Line 5.",
+          "quote": "I support ending $35 billion a year in fossil fuel subsidies and decommissioning Line 5 in the Straits of Mackinac",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998089",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She opposes new voting documentation requirements and voter ID rules that can reject eligible citizens because of name or gender-marker changes.",
+          "quote": "Oppose any voter ID requirement that fails to account for legal name or gender-marker changes, so a documentation mismatch unrelated to eligibility can't be used to turn away a legal citizen",
+          "sourceUrl": "https://www.lydialynnchristensen.com/issues/protecting-the-right-to-vote",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Tim Long",
+      "party": "U.S. Taxpayers Party",
+      "stances": {}
+    },
+    {
+      "name": "Douglas P. Marsh",
+      "party": "Green Party",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He says he will advocate for a universal basic income for adult U.S. citizens, with a higher amount for descendants of chattel slavery.",
+          "quote": "I will advocate in the U.S. Senate for a Universal Basic Income of $1,000 per month for every U.S. citizen over 18 years of age and $1,500 per month for descendants of chattel slavery.",
+          "sourceUrl": "https://www.electmarsh.org/home",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "In a 2024 questionnaire, Marsh said federal restrictions on guns strip rights from poor people.",
+          "quote": "Federal restrictions on abortion and guns strip rights from poor folk while leaving them more or less intact for the wealthy.",
+          "sourceUrl": "https://wdet.org/2024/07/30/michigan-primary-2024-voter-guide-united-states-senate/",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "Marsh opposed federal abortion restrictions, saying they strip rights from poor people.",
+          "quote": "Federal restrictions on abortion and guns strip rights from poor folk while leaving them more or less intact for the wealthy.",
+          "sourceUrl": "https://wdet.org/2024/07/30/michigan-primary-2024-voter-guide-united-states-senate/",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Marsh advocated a single-payer system to provide health services to U.S. citizens.",
+          "quote": "The best way to ensure this is with a single-payer system.",
+          "sourceUrl": "https://www.electmarsh.org/home",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "He calls for green-energy infrastructure and contrasts it with support for big oil.",
+          "quote": "Michiganders need quality, longterm jobs rebuilding our bridges and roads, and developing green energy infrastructure for our children, instead of kowtowing to big oil.",
+          "sourceUrl": "https://www.electmarsh.org/home",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Walter P. Kristy",
+      "party": "Natural Law Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "He said lowering taxes and reducing government borrowing by eliminating wasteful spending would help families.",
+          "quote": "Of course, lowering taxes and the amount our government borrows by eliminating wasteful spending would help.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998089",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "He said government should intervene to ensure workers earn a living wage.",
+          "quote": "the government needs to intercede for the workers to ensure that they are making a living wage.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998089",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "abdulforsenate.com · ballotready.org · washingtonexaminer.com · rogersforsenate.com · mikerogers.house.gov · michiganpublic.org · bridgemi.com · onyourballot.vote411.org · lydialynnchristensen.com · electmarsh.org · wdet.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
