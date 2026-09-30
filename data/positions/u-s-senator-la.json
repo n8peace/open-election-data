@@ -1,0 +1,199 @@
+{
+  "office": "U.S. Senator",
+  "district": "LA",
+  "division": "la/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jamie Davis",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He proposes rolling back parts of the 2025 tax law that cut taxes for billionaires.",
+          "quote": "Roll back portions of the 2025 tax law that added as much as $4 trillion to the debt to cut taxes for the billionaires.",
+          "sourceUrl": "https://jamieforlouisiana.com/issues",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Davis supports creating affordable housing opportunities for working families.",
+          "quote": "Build and create affordable housing opportunities — prioritize housing that working families can actually afford,",
+          "sourceUrl": "https://jamieforlouisiana.com/issues",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Davis supports strengthening public education for Louisiana students.",
+          "quote": "An effective Department of Education that serves every child — one that strengthens public education and, above all, stands up for the 1 in 7 Louisiana kids who count on an IEP and the families behind them.",
+          "sourceUrl": "https://jamieforlouisiana.com/issues",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports border security while also favoring an accessible path to citizenship.",
+          "quote": "Davis said he supports securing the border, while also saying he does not want a path to citizenship to be overly burdensome.",
+          "sourceUrl": "https://www.wafb.com/2026/06/24/farmers-longshot-jamie-daviss-bid-us-senate/?outputType=amp",
+          "agreement": "5/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Davis supports codifying Roe and keeping government out of abortion decisions.",
+          "quote": "We should restore women’s right to healthcare, trust them as the mothers to make important family and personal decisions, codify Roe, and keep the government out of their business.",
+          "sourceUrl": "https://www.wrkf.org/politics/2026-06-24/q-a-louisiana-u-s-senate-candidates-sound-off-on-important-issues-ahead-of-primary-run-off?_amp=true",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Davis supports expanding health coverage to everyone in Louisiana.",
+          "quote": "Expand coverage to everyone in Louisiana with fair pay for the doctors and nurses who care for us.",
+          "sourceUrl": "https://jamieforlouisiana.com/issues",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "He supports Louisiana workers building the energy transition.",
+          "quote": "Louisiana energy workers should build what comes next, not be left out of it.",
+          "sourceUrl": "https://jamieforlouisiana.com/issues",
+          "agreement": "6/10"
+        },
+        "voting": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports voter identification but also argues for expanded voting access and criticizes policies that make voting harder.",
+          "quote": "When asked whether voters should have to identify themselves to vote, Davis said yes, while also arguing for expanded access.",
+          "sourceUrl": "https://www.wafb.com/2026/06/24/farmers-longshot-jamie-daviss-bid-us-senate/?outputType=amp",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Julia Letlow",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Her Senate plan calls for extending the Trump tax cuts and making tax exemptions for tips and overtime permanent.",
+          "quote": "It's time to bring costs down and help families keep more of what they earn.",
+          "sourceUrl": "https://www.julialetlow.com/policyplan",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "She signed a congressional letter urging the Labor Department to withdraw its proposed $15 minimum wage requirement for federal contractors.",
+          "quote": "We are concerned that mandating a $15 minimum wage for federal contractors will destroy jobs and hurt small businesses.",
+          "sourceUrl": "https://edworkforce.house.gov/uploadedfiles/082721_comment_letter_on_15_minimum_wage_for_federal_contractors.pdf",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "She says she will continue fighting for school choice and educational freedom.",
+          "quote": "I'll continue fighting for school choice, parents' rights, transparency in education and protecting girls' sports and opportunities for the next generation.",
+          "sourceUrl": "https://www.krvs.org/louisiana-news/2026-06-24/q-a-louisiana-u-s-senate-candidates-sound-off-on-important-issues-ahead-of-primary-run-off",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "She made border security and public safety her first priority and called for deportations, fentanyl enforcement and support for law enforcement.",
+          "quote": "First, border security and public safety. We must make President Trump's border policies permanent, deport criminal illegal aliens, stop fentanyl and support law enforcement.",
+          "sourceUrl": "https://www.wwno.org/2026-06-24/q-a-louisiana-u-s-senate-candidates-sound-off-on-important-issues-ahead-of-primary-run-off",
+          "agreement": "5/10"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "lean",
+          "text": "She supports the death penalty for the most heinous crimes.",
+          "quote": "I support the death penalty for the most heinous crimes. There are evil acts so horrific that the ultimate punishment is justified.",
+          "sourceUrl": "https://www.krvs.org/louisiana-news/2026-06-24/q-a-louisiana-u-s-senate-candidates-sound-off-on-important-issues-ahead-of-primary-run-off",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Her plan calls for finishing the border wall, deporting criminal undocumented immigrants, ending catch-and-release, and requiring nationwide E-Verify.",
+          "quote": "America is a nation of laws, and no nation can remain sovereign without secure borders.",
+          "sourceUrl": "https://www.julialetlow.com/policyplan",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "She supports expanding concealed carry and opposes burdensome fees on gun owners.",
+          "quote": "I have consistently supported legislation to protect the rights of law-abiding gun owners, including expanding concealed carry and eliminating burdensome fees.",
+          "sourceUrl": "https://letlow.house.gov/issues",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "She describes herself as pro-life and says she has opposed taxpayer funding for abortion and supported legislation defending the unborn.",
+          "quote": "I am unapologetically pro-life. As a mother, I believe every life is precious and worth protecting.",
+          "sourceUrl": "https://www.krvs.org/louisiana-news/2026-06-24/q-a-louisiana-u-s-senate-candidates-sound-off-on-important-issues-ahead-of-primary-run-off",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Her plan supports keeping transgender girls and women out of women's sports and codifying protections for women's athletics under Title IX.",
+          "quote": "Girls deserve a level playing field, and parents deserve confidence that common sense still matters in America.",
+          "sourceUrl": "https://www.julialetlow.com/policyplan",
+          "agreement": "10/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "She voted against the MORE Act, which would have legalized and regulated cannabis federally.",
+          "quote": "Roll Call 107 | Bill Number: H. R. 3617",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "4/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Her plan calls for expanding oil and natural gas production, reversing anti-energy regulations, and protecting Louisiana energy jobs.",
+          "quote": "Louisiana powers America. We should be leading the world in energy production instead of begging foreign countries for resources we already have.",
+          "sourceUrl": "https://www.julialetlow.com/policyplan",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Her plan calls for proof of citizenship in federal elections, stronger voter ID requirements, and cleaning up voter rolls.",
+          "quote": "Louisianans deserve confidence that every legal vote counts and that elections are secure, transparent, and trustworthy.",
+          "sourceUrl": "https://www.julialetlow.com/policyplan",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "jamieforlouisiana.com · wafb.com · wrkf.org · julialetlow.com · edworkforce.house.gov · krvs.org · wwno.org · letlow.house.gov · clerk.house.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

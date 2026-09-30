@@ -1,0 +1,323 @@
+{
+  "office": "U.S. Representative",
+  "district": "LA 1st Congressional District",
+  "division": "la/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Randall Arrington",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "In a 2024 questionnaire, he proposed an income tax cut as a way for Americans to keep more of their income and wealth.",
+          "quote": "What actions would you take that would allow Americans to retain more of their income and wealth? Income Tax cut",
+          "sourceUrl": "https://ivoterguide.com/candidate/85253/race/20900/election/1127",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "He said he supports school choice, including vouchers and private, charter, and home schools.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools. Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/85253/race/20900/election/1127",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "He disagreed with redirecting police-department funds to community programs.",
+          "quote": "I support redirecting funds from police departments to community programs.\n\nDisagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/85253/race/20900/election/1127",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He strongly agreed that the United States should do more to physically secure the southern border.",
+          "quote": "The U.S. should do more to physically secure the southern border. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/85253/race/20900/election/1127",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He said no gun-ownership restrictions are needed to protect public safety.",
+          "quote": "What restrictions on gun ownership are needed to protect public safety?\n\nNone",
+          "sourceUrl": "https://ivoterguide.com/candidate/85253/race/20900/election/1127",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "He said elective abortion should generally be allowed in the first trimester, with later abortions limited to specified circumstances.",
+          "quote": "Does the federal government have a role to play in limiting abortion, and if so what federal steps and/or federal legislation would you support? First Trimester or life of the mother, rape, incest.",
+          "sourceUrl": "https://ivoterguide.com/candidate/85253/race/20900/election/1127",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He strongly agreed that biological males should not participate in women's sports or occupy women's spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/85253/race/20900/election/1127",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He selected the option that Medicaid and Medicare should remain available but no other taxpayer-funded health programs are necessary.",
+          "quote": "What most closely matches your view on healthcare: A) Healthcare for all should be guaranteed and funded by the government with no private healthcare option. (includes \"universal healthcare,\" \"medicare for all,\" etc.) B) Healthcare insurance funded by the government should be available for all who want it, along with private healthcare options. C) Medicaid and Medicare should remain available, but no other taxpayer-funded programs are necessary.",
+          "sourceUrl": "https://ivoterguide.com/candidate/85253/race/20900/election/1127",
+          "agreement": "3/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He strongly disagreed that human-caused climate change requires urgent political action.",
+          "quote": "Man-made climate change is a global threat and requires urgent political action.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/85253/race/20900/election/1127",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "He disagreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/85253/race/20900/election/1127",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Liddy Glass",
+      "party": "Independent",
+      "stances": {}
+    },
+    {
+      "name": "Lauren Jewett",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "She proposes wealth taxes to fund public goods and infrastructure for working-class communities.",
+          "quote": "Enact wealth taxes on wealthiest individuals and corporations to ensure that working class people have access to public goods and infrastructure in their communities",
+          "sourceUrl": "https://www.laurenjewett.com/issues/modern-economy",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supports raising the federal minimum wage and strengthening workers’ rights to organize and bargain collectively.",
+          "quote": "Raise the federal minimum wage and index it to inflation, so workers never again go a generation without a raise. Strengthen the right to organize and collectively bargain, including supporting the PRO Act to give workers real power at the negotiating table, regardless of \"right-to-work\" laws designed to weaken them.",
+          "sourceUrl": "https://www.laurenjewett.com/issues/modern-economy",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She says Social Security should be protected from cuts and proposes increasing funding for senior services.",
+          "quote": "Protect Social Security from cuts and increase funding for senior services to ensure our older Americans can retire with dignity after a lifetime of hard work",
+          "sourceUrl": "https://www.laurenjewett.com/issues/social-security",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She says affordable housing requires building more housing and increasing federal investment in development.",
+          "quote": "That means tackling insurance costs, building more housing, and making sure federal disaster recovery actually reaches the families who need it",
+          "sourceUrl": "https://www.laurenjewett.com/issues/affordable-housing",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She opposes voucher and education-savings-account programs that would reduce public-school funding.",
+          "quote": "Oppose billionaire backed voucher and educational savings account schemes that jeopardize public school funding",
+          "sourceUrl": "https://www.laurenjewett.com/issues/stronger-schools",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She supports pathways to citizenship and a permanent legislative fix for Dreamers, and opposes current ICE operations.",
+          "quote": "Support the creation of new humane, accountable, and community-centered structures that uphold immigrant rights, prioritizing pathways to citizenship, community safety, and fair labor standards",
+          "sourceUrl": "https://www.laurenjewett.com/issues/immigration",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports universal background checks, red flag laws, and closing loopholes for domestic abusers and stalkers.",
+          "quote": "Pass sensible gun legislation that keeps everyone safe. This includes supporting universal background checks, red flag laws that give families and law enforcement a real tool to intervene before tragedy, and closing the loopholes that let domestic abusers and stalkers slip through.",
+          "sourceUrl": "https://www.laurenjewett.com/issues/public-safety",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports Medicare for All, expanding the Affordable Care Act, and closing the Medicaid coverage gap.",
+          "quote": "Cosponsor Medicare for All so that we have a system of care based on need, not profit, with no premiums or deductibles standing in the way",
+          "sourceUrl": "https://www.laurenjewett.com/issues/quality-healthcare",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She supports automatic and same-day registration, expanded mail voting, and accessibility measures.",
+          "quote": "Support automatic and same-day voter registration to make it easier, not harder, for eligible citizens to vote.",
+          "sourceUrl": "https://www.laurenjewett.com/issues/protect-the-right-to-vote",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Steve Scalise",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Scalise voted for the Tax Cuts and Jobs Act, which reduced federal taxes.",
+          "quote": "Vote Question: On Motion to Concur in the Senate Amendment Tax Cuts and Jobs Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2017699",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He voted against the Protecting the Right to Organize Act in 2020 and 2021.",
+          "quote": "Vote Question: On Passage Protecting the Right to Organize Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/202170",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "He said tariffs can be used as leverage to obtain fairer trade and support American jobs.",
+          "quote": "One of the things President Trump used tariffs to do is to leverage those tariffs to get fair trade.",
+          "sourceUrl": "https://scalise.house.gov/press-releases/scalise-highlights-trumps-economic-success-ahead-of-state-of-the-union",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "He cosponsored and voted for legislation repealing provisions that reduced some Social Security benefits.",
+          "quote": "Congressman Steve Scalise is committed to ensuring that Social Security fulfills its promises to America's seniors.",
+          "sourceUrl": "https://scalise.house.gov/WEP/GPOResources",
+          "agreement": "3/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He backed permitting reform intended to make homebuilding easier.",
+          "quote": "We've got a great permitting reform bill that would be really important to help Americans build again. I mean, everything from homebuilding to roads and bridges that take ten years and sometimes just get shelved because of ridiculous, overriding bureaucracy.",
+          "sourceUrl": "https://scalise.house.gov/press-releases/scalise-house-republicans-advance-agenda-to-strengthen-affordability-security-and-trust",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "He promoted a nationwide school-choice tax-credit program.",
+          "quote": "You look at the first ever school choice program. It's opt-in, opt-out.",
+          "sourceUrl": "https://scalise.house.gov/press-releases/scalise-voters-face-a-clear-choice-as-the-democrat-party-moves-further-left",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He supported funding law-enforcement officers to enforce immigration laws and keep violent criminals out of communities.",
+          "quote": "especially the law enforcement officers who risk their lives to keep our communities safe and enforce our immigration laws, keeping violent criminals out of our communities.",
+          "sourceUrl": "https://scalise.house.gov/press-releases/scalise-democrats-once-again-side-with-open-borders-over-public-safety",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He voted for the Secure the Border Act, a border enforcement bill.",
+          "quote": "Vote Question: On Passage Secure the Border Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2023209",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He voted against the Bipartisan Background Checks Act in 2019 and 2021.",
+          "quote": "Vote Question: On Passage Bipartisan Background Checks Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/202175",
+          "agreement": "3/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He voted for the Pain-Capable Unborn Child Protection Act.",
+          "quote": "Vote Question: On Passage\n\nPain-Capable Unborn Child Protection Act\n\nVote Type: Recorded Vote\n\nStatus: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2017549",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He voted for the Protection of Women and Girls in Sports Act, which sets eligibility rules for school sports based on sex.",
+          "quote": "Vote Question: On Passage Protection of Women and Girls in Sports Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "9/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "Scalise voted against the MORE Act, which would have changed federal marijuana law.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He voted for the American Health Care Act, which proposed replacing the Affordable Care Act.",
+          "quote": "Vote Question: On Passage American Health Care Act Vote Type: Recorded Vote Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2017256",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Scalise voted for the Lower Energy Costs Act, which focused on reducing energy costs.",
+          "quote": "Vote Question: On Passage Lower Energy Costs Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2023182",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supported requiring proof of citizenship to register and photo identification when voting.",
+          "quote": "One is to register to vote, you have to prove citizenship, real common sense legislation.",
+          "sourceUrl": "https://scalise.house.gov/press-releases/scalise-exposes-democrat-hypocrisy-on-voter-id",
+          "agreement": "4/10"
+        }
+      }
+    }
+  ],
+  "sources": "ivoterguide.com · laurenjewett.com · clerk.house.gov · scalise.house.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
