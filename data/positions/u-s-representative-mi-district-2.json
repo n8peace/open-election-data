@@ -1,0 +1,227 @@
+{
+  "office": "U.S. Representative",
+  "district": "MI District 2",
+  "division": "mi/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Ben Ambrose",
+      "party": "Democratic Party",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He opposes a trade war with Canada and supports fair trade while confronting unfair practices.",
+          "quote": "I strongly oppose picking a trade war with Canada, our closest ally and one of Michigan’s most important economic partners.",
+          "sourceUrl": "https://www.michigansthumb.com/news/article/michigan-2nd-candidates-issues-22435067.php",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He said Congress should encourage more housing construction and limit corporate purchases of residential properties.",
+          "quote": "Congress should encourage the construction of more housing while limiting corporations from buying up residential properties.",
+          "sourceUrl": "https://www.bigrapidsnews.com/news/article/ben-ambrose-outlines-healthcare-housing-platform-22333908.php",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports modernizing legal immigration pathways, protecting due process, and focusing enforcement on actual threats.",
+          "quote": "We should reduce processing backlogs, modernize legal immigration pathways, and ensure decisions are made efficiently and fairly.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=25687788",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "He said he would break with Democrats to protect the Second Amendment and law-abiding citizens’ right to own firearms.",
+          "quote": "I would also break with Democrats to protect the Second Amendment and the right of law-abiding citizens to own firearms.",
+          "sourceUrl": "https://www.michigansthumb.com/news/article/michigan-2nd-candidates-issues-22435067.php",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports clean energy sources and innovation while saying energy should remain affordable and opposing mandates that burden consumers.",
+          "quote": "I support an all-of-the-above energy strategy that includes wind, hydroelectric, solar, and other emerging technologies while ensuring energy remains affordable for working families.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=25687788",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "John Moolenaar",
+      "party": "Republican Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He voted for H.R. 1 and said it would prevent a tax hike on Michigan families.",
+          "quote": "This bill delivers on our promises to the American people to prevent a tax hike that would cost them thousands",
+          "sourceUrl": "https://moolenaar.house.gov/media-center/press-releases/moolenaar-statement-passage-hr-1",
+          "agreement": "3/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He voted against the 2019 Raise the Wage Act, which proposed increasing the federal minimum wage.",
+          "quote": "Vote Question: On Passage\nRaise the Wage Act\nVote Type: Recorded Vote\nStatus: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "He backed tariffs on Chinese imports and introduced legislation to revoke China’s permanent normal trade relations status.",
+          "quote": "President Trump’s recent tariffs and the Restoring Trade Fairness Act, which I introduced earlier this year to revoke China's permanent normal trade relations status, will finally put an end to this abuse—holding China accountable and protecting American jobs.",
+          "sourceUrl": "https://chinaselectcommittee.house.gov/media/press-releases/chairman-moolenaar-backs-trump-tariffs-calls-urgent-action-end-chinas-trade",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says changes to Social Security and Medicare should be grandfathered so they do not reduce benefits for retirees or people nearing retirement.",
+          "quote": "any changes to these programs must be grandfathered in so they do not affect the benefits retirees and individuals nearing retirement receive.",
+          "sourceUrl": "https://moolenaar.house.gov/issues/seniors",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He requested funding for local housing projects that he said would increase supply and improve affordability.",
+          "quote": "The project is a valuable use of taxpayer funds because it will increase housing supply and improve home affordability",
+          "sourceUrl": "https://moolenaar.house.gov/communityprojectfunding",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He said parents should be able to choose schools that fit their students’ needs and has co-chaired the Congressional School Choice Caucus.",
+          "quote": "I believe when parents are given the power to choose the school that fits the needs of their students, they will make the right choice.",
+          "sourceUrl": "https://moolenaar.house.gov/media-center/press-releases/icymi-moolenaar-holds-education-roundtable-secretary-mcmahon",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "On opioid policy, he said communities need resources for prevention, treatment, and law enforcement.",
+          "quote": "The fight against the opioid crisis takes many forms and I am working on all fronts to make sure our communities have the resources they need for prevention, treatment and law enforcement.",
+          "sourceUrl": "https://moolenaar.house.gov/issues/health-care?page=10",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He voted for H.R. 1, which he said would empower Border Patrol and ICE to secure the southern border.",
+          "quote": "empower U.S. Border Patrol and ICE to secure the southern border",
+          "sourceUrl": "https://moolenaar.house.gov/media-center/press-releases/moolenaar-statement-passage-hr-1",
+          "agreement": "6/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He describes the right to bear arms as a fundamental principle and says it must be preserved.",
+          "quote": "As a supporter of the Second Amendment, I believe the right to bear arms is a fundamental principle upon which the founders built our nation.",
+          "sourceUrl": "https://moolenaar.house.gov/issues/second-amendment",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He says life begins at conception and has publicly pledged to defend unborn life.",
+          "quote": "I believe that everyone has an unalienable right to life and that life begins at conception.",
+          "sourceUrl": "https://moolenaar.house.gov/issues/life-and-adoption",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He voted for the Protection of Women and Girls in Sports Act, which addresses participation in sports by sex.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512?Title=sports",
+          "agreement": "9/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "He voted against the MORE Act, a bill to legalize marijuana federally.",
+          "quote": "Vote Question: On Passage\nMORE Act\nVote Type: Yea-And-Nay\nStatus: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He rejects a single-payer Medicare-for-All system and favors patient and family choice in coverage and treatment.",
+          "quote": "A single-payer, Medicare for All approach is not the answer.",
+          "sourceUrl": "https://www.johnmoolenaarforcongress.com/issues-health-care",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supports an all-of-the-above energy strategy using domestic resources and says energy policy should reduce prices.",
+          "quote": "Our nation's long-term energy policy must be aimed at reducing prices for American families and businesses. I support an all-of-the-above energy strategy that utilizes our nation's abundant domestic resources so we can continue to be an energy-independent nation.",
+          "sourceUrl": "https://moolenaar.house.gov/issues/energy",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "He supports the SAVE America Act and said reforms are needed to prevent non-citizens from registering and voting.",
+          "quote": "It makes clear that reforms are needed to stop non-citizens from registering and casting a vote.",
+          "sourceUrl": "https://moolenaar.house.gov/media-center/press-releases/moolenaar-supports-save-america-act-secure-federal-elections",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "Charlotte Magoon",
+      "party": "Green Party",
+      "stances": {
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She says immigration-related constitutional protections should be expanded to all individuals regardless of citizenship.",
+          "quote": "the only improvements that I could support are those that would increase the rights of all individuals regardless of citizenship.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=25687788",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She says she fully supports a single-payer system covering preventive and urgent care, prescriptions, mental health, dental, and eye care.",
+          "quote": "I 100% support a single payer system for all preventative and urgent care needs including prescriptions, mental health, dental, and eye care.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=25687788",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Richard Sills",
+      "party": "Natural Law Party",
+      "stances": {}
+    }
+  ],
+  "sources": "michigansthumb.com · bigrapidsnews.com · onyourballot.vote411.org · moolenaar.house.gov · clerk.house.gov · chinaselectcommittee.house.gov · johnmoolenaarforcongress.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

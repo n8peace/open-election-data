@@ -1,0 +1,214 @@
+{
+  "office": "U.S. Representative",
+  "district": "MI District 3",
+  "division": "mi/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Hillary Scholten",
+      "party": "Democratic Party",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "She said she would fight for fair wages and workers’ right to bargain collectively.",
+          "quote": "And it means fighting for fair wages and the right for workers to collectively bargain.",
+          "sourceUrl": "https://hillaryscholten.com/jobs-and-the-economy/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She opposed raising the retirement age or cutting or privatizing Social Security and Medicare.",
+          "quote": "I oppose efforts to raise the retirement age, or to cut or privatize our social safety net.",
+          "sourceUrl": "https://hillaryscholten.com/social-security-and-medicare/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She said she would work to strengthen Michigan public schools and support classroom educators.",
+          "quote": "That’s why I will never stop working to strengthen Michigan public schools to make sure our students are prepared and ready to engage in a 21st-century economy.",
+          "sourceUrl": "https://hillaryscholten.com/education/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, she called for due-process protections, access to counsel where appropriate, and a meaningful opportunity to be heard.",
+          "quote": "No person should be deprived of liberty or property without fair procedures, access to counsel where appropriate, and a meaningful opportunity to be heard.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=25687786",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She said she supports universal background checks, safe-storage laws, and red-flag laws.",
+          "quote": "I’m proud to have been recognized by Moms Demand Action as a Gun Sense Candidate for my commitment to common-sense gun safety reforms like universal background checks, safe gun storage laws, and red flag laws.",
+          "sourceUrl": "https://hillaryscholten.com/priorities/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She said the decision about whether and when to become a parent belongs to women and pledged to protect abortion rights.",
+          "quote": "I will always protect a woman’s right to choose.",
+          "sourceUrl": "https://hillaryscholten.com/priorities/",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "She voted against H.R. 28, the Protection of Women and Girls in Sports Act.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512?Title=sports",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "She said she defends the Affordable Care Act and works to expand it.",
+          "quote": "I vote to cap the cost of critical prescription drugs and insulin, and I defend the Affordable Care Act and work every day to expand on it.",
+          "sourceUrl": "https://hillaryscholten.com/healthcare/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports renewable-energy investment while also calling for immediate use of U.S. oil reserves to lower energy costs.",
+          "quote": "We need to invest in renewable energy – and tap our nation’s oil reserves right now – to bring down the cost of energy.",
+          "sourceUrl": "https://hillaryscholten.com/priorities/",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She called for federal legislation to expand vote-by-mail and early voting nationwide.",
+          "quote": "including: ending voter suppression and expanding vote-by-mail and early-vote nationwide; ending partisan gerrymandering; and protecting against attempts to subvert or overturn the results of our elections.",
+          "sourceUrl": "https://hillaryscholten.com/priorities/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Terri DeBoer",
+      "party": "Republican Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Her campaign says she would cut taxes and reduce government spending to fight inflation.",
+          "quote": "Cut taxes and reduce government spending to fight inflation.",
+          "sourceUrl": "https://www.terrideboer.com/priorities",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "She favors reducing regulations so small businesses can hire and offer competitive wages.",
+          "quote": "Slash onerous regulations (like healthcare rules) so small companies can hire more and pay competitive wages.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=25687786",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Her campaign says she will protect Social Security while making health care more affordable.",
+          "quote": "She’ll put people before politics, fight to make healthcare more affordable, protect Social Security, work to bring good-paying jobs home, and stand up for greater accountability in Congress, including an end to insider trading by members of Congress.",
+          "sourceUrl": "https://www.terrideboer.com/media",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "She says education funding should follow students to the school their parents choose.",
+          "quote": "I will protect the fundamental right of parents to direct their children’s medical care and education, ensuring funding follows the student to the school of their choice.",
+          "sourceUrl": "https://www.ballotready.org/people/terri-deboer",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "She supports repealing what she calls soft-on-crime policies to strengthen enforcement against crime.",
+          "quote": "Stop illegal immigration and repeal soft-on-crime policies so our laws protect law-abiding Michigan families—not criminals.",
+          "sourceUrl": "https://www.wktvjournal.org/tag/kentwood/",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "She supports securing the border, enforcing immigration laws, and removing dangerous criminals who entered illegally.",
+          "quote": "Secure the border and enforce immigration laws. Stop illegal immigration and human exploitation. Remove dangerous criminals who enter the country illegally.",
+          "sourceUrl": "https://www.terrideboer.com/priorities",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "She supports expanding healthcare choice and competition, including direct primary care and health savings accounts.",
+          "quote": "Expand healthcare choice and competition to lower costs.",
+          "sourceUrl": "https://www.terrideboer.com/priorities",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "She supports affordable, reliable energy and opposes mandates that raise utility bills.",
+          "quote": "Support an all-of-the-above energy strategy to keep energy affordable and reliable. Expand clean, dependable nuclear energy production. Oppose costly energy mandates that increase utility bills for families.",
+          "sourceUrl": "https://www.terrideboer.com/priorities",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "She supports requiring photo identification to vote.",
+          "quote": "Restore trust in our democracy by securing our elections and requiring a valid photo ID to vote.",
+          "sourceUrl": "https://www.wktvjournal.org/tag/kentwood/",
+          "agreement": "3/10"
+        }
+      }
+    },
+    {
+      "name": "Joe Jock",
+      "party": "Green Party",
+      "stances": {
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He said he would fight for tax-funded health care distribution and argued that health care should not be for profit.",
+          "quote": "I would fight for tax funder healthcare distribution as far as prescription medication research and development largely relies on taxpayer funding",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=25687786",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "He proposed a phased renewable-energy program beginning with federal buildings and expanding to other buildings.",
+          "quote": "I believe we should have a renewable energy phase program, where the first phase of the program is all federal buildings must be equipped with renewable power sources.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=25687786",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "hillaryscholten.com · onyourballot.vote411.org · clerk.house.gov · terrideboer.com · ballotready.org · wktvjournal.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
