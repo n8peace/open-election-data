@@ -1,0 +1,139 @@
+{
+  "office": "U.S. Representative",
+  "district": "TN District 5",
+  "division": "tn/cd-5",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Charlie Hatcher",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Hatcher says he will fight for lower taxes and small businesses.",
+          "quote": "In Congress, he will fight for small businesses, lower taxes, less unnecessary regulation, and an economy that rewards hard work, investment, and entrepreneurship.",
+          "sourceUrl": "https://charliehatcher.com/about/",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "Hatcher said he supports tariffs as a way to seek better trade deals, while acknowledging their effects on farmers.",
+          "quote": "He admitted this has been a tough time for farmers, but believes President Trump is using tariffs to get better trade deals for the future.",
+          "sourceUrl": "https://www.newschannel5.com/news/newschannel-5-investigates/republican-charlie-hatcher-challenges-andy-ogles-in-tennessees-5th-congressional-district-calling-him-a-show-horse",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Hatcher supports reducing the national debt while promising not to break commitments to seniors and veterans.",
+          "quote": "He will fight wasteful spending, demand greater accountability from federal agencies, support efforts to eliminate fraud and duplication, and work toward reducing the national debt without breaking promises made to seniors and veterans.",
+          "sourceUrl": "https://charliehatcher.com/platform/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Hatcher supports law enforcement and says local agencies should have the tools to keep communities safe.",
+          "quote": "That means demanding better accountability and service from the VA, supporting those who protect our communities, fighting the flow of fentanyl and illegal drugs, and ensuring local agencies have access to the tools they need to keep people safe.",
+          "sourceUrl": "https://charliehatcher.com/platform/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Hatcher says he will defend gun owners’ rights and oppose restrictions on responsible gun ownership.",
+          "quote": "Charlie will defend the right of law-abiding Americans to keep and bear arms and oppose efforts by Washington to create unnecessary restrictions on responsible gun ownership.",
+          "sourceUrl": "https://charliehatcher.com/platform/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Hatcher describes himself as pro-life and says he supports the sanctity of human life.",
+          "quote": "Hatcher describes himself as a \"pro-life, pro-gun, pro-Trump\" conservative, but President Trump has endorsed Ogles.",
+          "sourceUrl": "https://www.newschannel5.com/news/newschannel-5-investigates/republican-charlie-hatcher-challenges-andy-ogles-in-tennessees-5th-congressional-district-calling-him-a-show-horse",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Hatcher supports domestic energy production and emphasizes affordable, dependable energy and lower utility bills.",
+          "quote": "Affordable and dependable energy means lower utility bills for families and lower operating costs for farmers, manufacturers, and small businesses.",
+          "sourceUrl": "https://charliehatcher.com/platform/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Chaz Molder",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "As mayor, he passed eight balanced budgets without property tax increases while investing in education and public safety.",
+          "quote": "He’s passed eight balanced budgets with no property tax increases, while simultaneously investing in education and public safety.",
+          "sourceUrl": "https://chazmolder.com/meet-chaz/",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "He says he will support workers’ right to organize and strengthen labor protections.",
+          "quote": "We also must empower workers by standing up for the right to organize and strengthening labor protections.",
+          "sourceUrl": "https://chazmolder.com/issues/",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "His campaign says he will work to expand health insurance coverage and invest in preventive services.",
+          "quote": "We must work to eliminate barriers to care, expand health insurance coverage, and invest in preventive services to keep our communities healthy.",
+          "sourceUrl": "https://chazmolder.com/issues/",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "James A. Johnson",
+      "party": "Independent",
+      "stances": {}
+    },
+    {
+      "name": "Micheál (Me-Haul) O'Leary",
+      "party": "Independent",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He said government should zone for affordable housing when existing project funding runs out.",
+          "quote": "But when that funding runs out, what are we going to do? We have to zone for affordable housing.",
+          "sourceUrl": "https://patch.com/california/culvercity/micheal-o-leary-the-intersection-of-pubs-and-politics",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "charliehatcher.com · newschannel5.com · chazmolder.com · patch.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
