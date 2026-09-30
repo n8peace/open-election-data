@@ -1,0 +1,133 @@
+{
+  "office": "U.S. Representative",
+  "district": "MO District 8",
+  "division": "mo/cd-8",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jason T. Smith",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Smith said keeping taxes low would remain a priority for him.",
+          "quote": "My priority will always be keeping taxes low for these hardworking folks.",
+          "sourceUrl": "https://jasonsmith.house.gov/2023/01/13/putting-working-class-families-first/",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "Smith supported an America First trade agenda that uses tariffs to seek fair treatment for U.S. producers.",
+          "quote": "I look forward to working with President Trump to implement an America First trade agenda.",
+          "sourceUrl": "https://jasonsmith.house.gov/2025/04/04/liberation-day/",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Smith said the Ways and Means Committee would protect and preserve Social Security and Medicare benefits.",
+          "quote": "the Republican-led Ways and Means Committee will protect and preserve seniors’ Social Security and Medicare benefits.",
+          "sourceUrl": "https://jasonsmith.house.gov/2023/01/13/putting-working-class-families-first/",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Smith authored legislation to let families use 529 savings for K–12 education expenses and choose where children attend school.",
+          "quote": "I thank Senator Cruz for his partnership on this important issue to expand school choice and uphold individual liberty.",
+          "sourceUrl": "https://jasonsmith.house.gov/2018/12/20/rep-smith-and-sen-cruzs-bill-to-help-families-save-for-education-expenses-passes-u-s-house/",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Smith backed a commitment to increase funding for police officers.",
+          "quote": "we will actually INCREASE funding for our police officers who put their lives on the line every day and for our country.",
+          "sourceUrl": "https://jasonsmith.house.gov/2020/09/18/the-commitment-to-america/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Smith endorsed a mass deportation operation and said he would advance legislation to secure the border.",
+          "quote": "Trump’s plan to launch a mass deportation operation is exactly what we need to make our communities safer.",
+          "sourceUrl": "https://jasonsmith.house.gov/2024/11/29/making-the-border-secure-again/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Smith said he voted against bills that would expand background check requirements and delay firearm purchases.",
+          "quote": "I was proud to stand up to support Americans’ constitutional rights by voting against H.R. 8 and H.R. 1446, bills that would delay legal firearm purchases and take the first steps to creating a national gun registry.",
+          "sourceUrl": "https://jasonsmith.house.gov/2021/03/26/a-rush-to-judgement/",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Smith said he believes life begins at conception and supported legislation restricting abortion after 20 weeks.",
+          "quote": "I believe that life for everyone begins at conception, and we must do everything we can to protect those unborn.",
+          "sourceUrl": "https://jasonsmith.house.gov/2017/10/06/protecting-the-unborns-right-to-life/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Smith supported rescinding the Clean Power Plan, saying it would lower electricity prices and keep coal plants and jobs in Missouri.",
+          "quote": "Rescinding the Clean Power Plan stops the Obama Administration’s costly rules for energy production, lowers the price of electricity, and keeps coal plants and jobs in Missouri.",
+          "sourceUrl": "https://jasonsmith.house.gov/2017/03/28/rep-smith-joins-president-to-lower-electric-bills-save-jobs/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Smith supported photo ID at polling places and opposed legislation he said would block state voter ID laws.",
+          "quote": "Simple protections like witness signatures on absentee ballots, official postmarks, photo ID at your polling place and in-person voting by all who are able are all commonsense concepts to ensure that every legal vote counts.",
+          "sourceUrl": "https://jasonsmith.house.gov/2021/06/25/for-the-politicians/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Chris Reichard",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He says he will back the PRO Act to strengthen worker rights and unions and secure better pay and safer conditions.",
+          "quote": "Back pro-labor bills like the PRO Act to protect lower- and middle-class families by strengthening worker rights against employers, banning union-busting tactics, and ensuring fair bargaining for better pay and safer conditions.",
+          "sourceUrl": "https://reichardforrep.com/issues/support_working_families",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Rebecca Sharpe Lombard",
+      "party": "Libertarian",
+      "stances": {}
+    }
+  ],
+  "sources": "jasonsmith.house.gov · reichardforrep.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

@@ -1,0 +1,166 @@
+{
+  "office": "U.S. Representative",
+  "district": "MO District 6",
+  "division": "mo/cd-6",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Chris Stigall",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He supports making the tax cuts permanent and opposes raising taxes on working Americans.",
+          "quote": "I support making President Trump's tax cuts permanent and will fight against any effort to raise taxes on hardworking Americans.",
+          "sourceUrl": "https://www.stigallforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He backed a proposal to stop Pennsylvania from automatically collecting union dues for unions.",
+          "quote": "The state of Pennsylvania ought not to be in the business of collecting union dues and handing them over to union bosses to fund the Democratic party machine.",
+          "sourceUrl": "https://www.cbsnews.com/philadelphia/news/chris-stigall-unions-need-to-change-their-ways/",
+          "agreement": "2/3"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "He said farmers recognize that Trump's tariffs respond to foreign countries selling goods cheaply in the United States.",
+          "quote": "President Trump is the first president, in a very long time, who came in and said, this isn’t right.",
+          "sourceUrl": "https://ny1.com/nyc/brooklyn/news/2026/08/20/chris-stigall-sits-down-for-a-q-a-ahead-of-2026-midterm-election",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "His campaign biography says he and his wife worked to promote school choice through the Herzog Foundation.",
+          "quote": "Chris and his wife Christine have worked actively to promote school choice through the Herzog Foundation for families struggling to find quality education in their communities.",
+          "sourceUrl": "https://www.stigallforcongress.com/",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "He says he would focus accountability for violent crime on criminals rather than responsible gun owners.",
+          "quote": "I will fight to defend our right to keep and bear arms while ensuring criminals, not responsible citizens, are held accountable for violent crime.",
+          "sourceUrl": "https://www.stigallforcongress.com/issues",
+          "agreement": "2/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supports securing the border, finishing the wall, ending catch-and-release, and deporting dangerous criminal undocumented immigrants.",
+          "quote": "I support President Trump's efforts to secure the border, finish the wall, end catch-and-release policies, and deport dangerous criminal illegal immigrants.",
+          "sourceUrl": "https://www.stigallforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He opposes federal efforts to restrict gun rights and says he will defend the right to keep and bear arms.",
+          "quote": "I support President Trump's commitment to protecting the constitutional rights of law-abiding gun owners and will oppose efforts to restrict those rights through federal overreach.",
+          "sourceUrl": "https://www.stigallforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He describes himself as pro-life and supports policies to defend the unborn and protect what he calls innocent life.",
+          "quote": "I am proudly pro-life and believe every human life is a gift from God that deserves protection.",
+          "sourceUrl": "https://www.stigallforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supports the SAVE Act, which he says would ensure only U.S. citizens can vote in federal elections.",
+          "quote": "I also support the SAVE Act to ensure only American citizens can vote in federal elections.",
+          "sourceUrl": "https://www.stigallforcongress.com/issues",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Josh Smead",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Smead says Congress should invest in public needs rather than give wealthy people more tax breaks.",
+          "quote": "Instead of giving the wealthy more tax breaks, we need to invest in our people, our children, our schools, our roads, and our rural hospitals.",
+          "sourceUrl": "https://votesmead.com/2025/03/20/opening-statement/",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He argues that cutting Medicare and Social Security would harm people who have paid into those programs.",
+          "quote": "To cut programs such as Medicaid, possibly Medicare, and Social Security is to do a horrific disservice to the tens of millions of Americans who have paid into the system our whole working lives",
+          "sourceUrl": "https://votesmead.com/why-are-they-eliminating-medicaid-medicare-and-social-security/",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Andy Maidment",
+      "party": "Libertarian",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Maidment says he wants to reduce taxes and argues that the federal income tax should end.",
+          "quote": "You work hard for your money and no one has any business saying you should have to give it up.",
+          "sourceUrl": "https://www.maidmentformissouri.com/issues",
+          "agreement": "3/3"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He says the U.S. should pursue peaceful trade to support prosperity.",
+          "quote": "We can focus our efforts on maintaining a robust national defense, trading peacefully with others so we can all become more prosperous.",
+          "sourceUrl": "https://www.maidmentformissouri.com/issues",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "Maidment called the national debt a major problem and criticized spending bills he said add to it.",
+          "quote": "I look at $31 trillion and I look at my son, who is a teenager, and I'm like, your kids are gonna be paying this off. And that's not fair.",
+          "sourceUrl": "https://www.kbia.org/2022-11-02/candidate-conversations-andy-maidment",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "His campaign says he wants to extend the right to keep and bear arms.",
+          "quote": "Extend our right to keep and bear arms so we can protect ourselves and our other rights.",
+          "sourceUrl": "https://www.maidmentformissouri.com/issues",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "stigallforcongress.com · cbsnews.com · ny1.com · votesmead.com · maidmentformissouri.com · kbia.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

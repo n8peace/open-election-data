@@ -1,0 +1,278 @@
+{
+  "office": "U.S. Representative",
+  "district": "MO District 7",
+  "division": "mo/cd-7",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Eric W. Burlison",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "His campaign says he would cut government spending so Missourians keep more of their earnings.",
+          "quote": "Cut wasteful government spending and let hardworking Missourians keep more of what they earn.",
+          "sourceUrl": "https://www.ericburlisonforcongress.com/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He introduced a balanced-budget amendment that would cap federal debt and require spending not to exceed revenue.",
+          "quote": "This amendment forces the federal government to live within its means—just like every American family has to.",
+          "sourceUrl": "https://burlison.house.gov/about/bills-introduced",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "He introduced a bill to authorize law-enforcement agencies to deploy counter-drone systems and respond to hostile drones.",
+          "quote": "Local law enforcement is often the first to confront these threats, but current law limits their ability to respond.",
+          "sourceUrl": "https://burlison.house.gov/media/press-releases/burlison-introduces-bill-expand-counter-drone-authority-state-and-local-law",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "His campaign identifies securing the southern border as a priority.",
+          "quote": "Secure our southern border and defend the constitutional rights of every law-abiding American.",
+          "sourceUrl": "https://www.ericburlisonforcongress.com/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He introduced legislation to repeal the National Firearms Act and described its restrictions on gun owners as unconstitutional.",
+          "quote": "The Repeal the NFA Act will end the ATF’s reign of regulatory tyranny, strike a blow against bureaucratic overreach, and ensure that Americans are no longer subjected to this unjust tax-and-registration scheme.",
+          "sourceUrl": "https://burlison.house.gov/media/press-releases/congressman-burlison-reintroduces-repeal-nfa-act",
+          "agreement": "3/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He voted for the Protection of Women and Girls in Sports Act, which bases athletic eligibility on sex at birth.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "His healthcare proposal emphasizes health savings accounts, competition, and expanded consumer choices.",
+          "quote": "expanding access to Health Savings Accounts, increasing price transparency, encouraging competition, expanding healthcare choices",
+          "sourceUrl": "https://burlison.house.gov/great-american-healthcare-act-explained",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He has argued that natural gas is affordable and reliable and opposed bans that he says raise household energy costs.",
+          "quote": "natural gas has remained an affordable and reliable form of energy for American households",
+          "sourceUrl": "https://burlison.house.gov/media/press-releases/burlison-opens-hearing-state-and-local-natural-gas-bans-increasing-energy",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Missi Hesketh",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Her campaign proposes expanding Social Security contributions by lifting the wage cap and taxing investment income for earners over $400,000 to protect benefits.",
+          "quote": "Lift the wage cap on Social Security contributions and apply the tax to investment income for earners over $400k.",
+          "sourceUrl": "https://www.missiformo.com/affordability-for-all",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Her campaign supports a federal minimum salary floor for public-school teachers.",
+          "quote": "The above bill establishes a minimum $60,000 federal floor salary for public school teachers through state grant incentives.",
+          "sourceUrl": "https://www.missiformo.com/protect-our-kids-future",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She said she would work to make Social Security more secure and lists funding and protecting it as a campaign priority.",
+          "quote": "In addition to that, I think that they could probably see their Social Security more secure.",
+          "sourceUrl": "https://www.ksmu.org/news/2024-07-31/missouri-7th-congressional-district-democrat-missi-hesketh?_amp=true",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She says she would support federal legislation for public education and opposes reserving education for people who can afford private schools.",
+          "quote": "I will vote for legislation that reinforces that apparatus needed for good public education.",
+          "sourceUrl": "https://www.missiformo.com/education",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "She called for fairer, faster access to immigration processes and supported a bipartisan immigration bill.",
+          "quote": "There should be a fair and balanced access to immigration in this country, not one that takes a year or two years or 10 years to go through for people.",
+          "sourceUrl": "https://www.ksmu.org/news/2024-07-31/missouri-7th-congressional-district-democrat-missi-hesketh?_amp=true",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She lists red-flag laws, expanded background checks, waiting periods, and an assault-weapons ban among measures she supports.",
+          "quote": "I am game for doing whatever we can do to limit instances such as Columbine, Uvalde, Newtown, Austin, Parkland, and so, so many more.",
+          "sourceUrl": "https://www.missiformo.com/the-second-amendment-and-gun-safety",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She said reproductive freedom should be left to individuals and doctors and that she would support codifying Roe.",
+          "quote": "So if I were sent to D.C. and we flipped the House and had the Senate, I think that we should codify Roe and get this issue off of the table completely.",
+          "sourceUrl": "https://www.ksmu.org/show/informed-voter-coalition/2024-10-24/u-s-house-of-representatives-missouri-7th-congressional-district?_amp=true",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Her campaign proposes a public health plan option for people who want it while keeping private insurance available.",
+          "quote": "Establish a public plan option open to all with a sliding scale based on income level, while still leaving private insurance intact.",
+          "sourceUrl": "https://www.missiformo.com/healthcare-that-works-for-all",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She supported automatic voter registration, mail-in ballots, and absentee voting as ways to expand access to voting.",
+          "quote": "I think that mail-in ballots are essential to individuals who do not have reliable transportation. I think absentee voting is another avenue for people to get in, instead of just keeping it down to the one day.",
+          "sourceUrl": "https://www.ksmu.org/news/2024-07-31/missouri-7th-congressional-district-democrat-missi-hesketh?_amp=true",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Kevin Craig",
+      "party": "Libertarian",
+      "stances": {
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "In a campaign policy page, he called for abolishing minimum wage laws and letting workers bid for jobs.",
+          "quote": "Abolish minimum wage laws; let young, unskilled workers bid for jobs to increase their skills, move up the ladder",
+          "sourceUrl": "https://www.kevincraig.us/minimum_wage.htm",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He supports cutting the growth of Social Security benefits and moving toward private retirement accounts.",
+          "quote": "reform Social Security by cutting the growth in government benefits and adding a system of private accounts;",
+          "sourceUrl": "https://kevincraig.us/program.htm",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He supports repealing planning laws and replacing long-range planning with market-based local decisions.",
+          "quote": "Congress and the states should repeal planning laws. Instead of long-range planning, cities and counties should solve problems using markets and user fees.",
+          "sourceUrl": "https://kevincraig.us/sprawl.htm",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He called for separating government from education and said private education costs less.",
+          "quote": "The Libertarian Party believes in the separation of school and state. If we abolished all contact between the government and schools or education, the means of education, the cost of education would go down tremendously.",
+          "sourceUrl": "https://www.ksmu.org/show/informed-voter-coalition/2024-10-24/u-s-house-of-representatives-missouri-7th-congressional-district?_amp=true",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "He agreed with redirecting police department funds to mental health and community programs.",
+          "quote": "I support redirecting funds from police departments to mental health and community programs.",
+          "sourceUrl": "https://ivoterguide.com/candidate/10896/race/854/election/977",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He described himself as favoring open borders and said the country should be more welcoming to immigrants.",
+          "quote": "My personal belief is on the open borders side. Now, 300 years ago, when America was a more of a Christian nation than today",
+          "sourceUrl": "https://www.ksmu.org/news/2024-07-31/missouri-7th-congressional-district-libertarian-kevin-craig?_amp=true",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He answered that no restrictions on gun ownership are needed to protect public safety.",
+          "quote": "What restrictions on gun ownership are needed to protect public safety? None.",
+          "sourceUrl": "https://ivoterguide.com/candidate/10896/race/854/election/977",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He called himself pro-life and supported a personhood view, while saying abortion should not be a federal issue.",
+          "quote": "Well, my views on abortion are pro-life, and I would call myself an advocate of the personhood idea that a person begins at conception.",
+          "sourceUrl": "https://www.ksmu.org/news/2024-07-31/missouri-7th-congressional-district-libertarian-kevin-craig?_amp=true",
+          "agreement": "9/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Craig says marijuana and other drugs should be legalized.",
+          "quote": "Marijuana and other drugs should once again be \"legalized,\" and the billions of dollars presently squandered by the government should be used as families deem fit to prevent substance abuse.",
+          "sourceUrl": "https://www.kevincraig.us/drugs.htm",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He selected the option calling for abolishing taxpayer-funded health care, including Medicaid and Medicare.",
+          "quote": "D)Tax-payer funded health care should be abolished in all forms, and Medicaid and Medicare should be de-funded. D.",
+          "sourceUrl": "https://ivoterguide.com/candidate/10896/race/854/election/977",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He selected the view that stricter environmental regulations cost too many jobs and hurt the economy.",
+          "quote": "Which comes closest to your view? A) Stricter environmental laws and regulations cost too many jobs and hurt the economy. B) Stricter environmental laws and regulations are worth the cost. A.",
+          "sourceUrl": "https://ivoterguide.com/candidate/10896/race/854/election/977",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "He disagreed that people should be able to vote without photo identification and favored paper ballots and Election-Day voting.",
+          "quote": "People should be able to vote without photo identification. Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/10896/race/854/election/977",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "ericburlisonforcongress.com · burlison.house.gov · clerk.house.gov · missiformo.com · ksmu.org · kevincraig.us · ivoterguide.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

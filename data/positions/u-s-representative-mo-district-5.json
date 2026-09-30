@@ -1,0 +1,222 @@
+{
+  "office": "U.S. Representative",
+  "district": "MO District 5",
+  "division": "mo/cd-5",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Rick Brattin",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He says he has voted against tax hikes and supports cutting taxes.",
+          "quote": "With a proven record of opposing tax hikes in the Missouri legislature and fighting for legislation to place real limits on property taxes",
+          "sourceUrl": "https://rickbrattin.com/issues/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "He says he will oppose federal spending he considers reckless because it increases the national debt.",
+          "quote": "he’ll fight in Congress against reckless spending that drives up our national debt and fuels inflation",
+          "sourceUrl": "https://rickbrattin.com/issues/",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He says he would support building the border wall, fully funding ICE, and deporting criminal undocumented immigrants.",
+          "quote": "In Congress, he’ll back President Trump’s efforts to build the wall, fully fund ICE, deport criminal illegal aliens",
+          "sourceUrl": "https://rickbrattin.com/issues/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He says he will oppose attempts to restrict the right to keep and bear arms.",
+          "quote": "In Congress, he’ll bring that same fight to the national level and stand firm against any attempt to infringe on our God-given right to keep and bear arms.",
+          "sourceUrl": "https://rickbrattin.com/issues/",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He says he is pro-life, supported longer abortion waiting periods, and would seek to defund Planned Parenthood.",
+          "quote": "In Congress, he’ll fight hard to defund Planned Parenthood and protect our most vulnerable citizens, the unborn.",
+          "sourceUrl": "https://rickbrattin.com/issues/",
+          "agreement": "5/5"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "strong",
+          "text": "He opposed Missouri’s recreational marijuana legalization measure and said he would vote against it.",
+          "quote": "I have supported criminal justice reform related to possession of marijuana but legalization for recreational use is reckless and dangerous. On top of that, with Amendment 3 legalized, pot would be enshrined in the state constitution",
+          "sourceUrl": "https://www.senate.mo.gov/Media/newsDetails?id=177",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He supports fracking and said stricter environmental rules hurt the economy and raise costs.",
+          "quote": "Stricter environmental laws are nonsense. They destroy the economy for no reason, and drive up the cost of everything.",
+          "sourceUrl": "https://ivoterguide.com/candidate/958/race/851/election/900",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He opposed voting without photo identification and supported ending unsolicited absentee ballot distribution.",
+          "quote": "Nationally, I support taking several of the steps we took this year in Missouri, including putting an end to Zuckerbucks, banning the distribution of unsolicited absentee ballots",
+          "sourceUrl": "https://ivoterguide.com/candidate/958/race/851/election/900",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Emanuel Cleaver, II",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He argued against cutting programs that support struggling Americans and favored public investment.",
+          "quote": "Instead of reckless cuts to programs that support Americans who are struggling, we need to focus our attention on rebuilding an economy that works for everyone, including investments in job creation, education, and policies that provide a hand up to struggling families.",
+          "sourceUrl": "https://cleaver.house.gov/issues/economy-and-jobs",
+          "agreement": "3/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Cleaver called for raising the minimum wage and tying it to inflation, and said he continues to push for a vote on an increase.",
+          "quote": "We need to raise the minimum wage and tie it to inflation so that a family breadwinner's pay keeps up with the rising costs of housing and other basic needs.",
+          "sourceUrl": "https://cleaver.house.gov/issues/economy-and-jobs",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He warned that tariffs can raise consumer prices and cause business layoffs.",
+          "quote": "tariffs can have negative effects on the price of goods for American consumers.",
+          "sourceUrl": "https://cleaver.house.gov/media-center/ec-dc/i-want-hear-you",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He opposed replacing traditional Medicare with a voucher system.",
+          "quote": "Like me, many of you have serious concerns about plans to privatize Medicare.",
+          "sourceUrl": "https://cleaver.house.gov/media-center/ec-dc/ec-dc-april-15-2011",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Cleaver backed legislation to build nearly three million homes and incentivize communities to remove zoning restrictions.",
+          "quote": "This bill would turbocharge affordable housing construction, incentivize communities to remove exclusionary and unfair zoning restrictions, and ensure that first-generation homebuyers including veterans get their chance at building wealth through homeownership too.",
+          "sourceUrl": "https://cleaver.house.gov/media-center/press-releases/cleaver-warren-warnock-re-introduce-comprehensive-bill-lower-housing",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He cosponsored legislation to improve public school facilities.",
+          "quote": "provide for long-term improvement of public school facilities",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/CRI-2021/html/CRI-2021-CLEAVER-EMANUEL-BE8E6.htm",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He urged DHS to create a centralized process for people who were wrongfully or unjustly deported to seek return.",
+          "quote": "a single, central unit within DHS is urgently needed to ensure that people unjustly separated from their families and loved ones by deportation receive a meaningful review",
+          "sourceUrl": "https://cleaver.house.gov/sites/evo-subsites/cleaver.house.gov/files/evo-media-document/letter-to-secretary-mayorkas-to-assist-the-unjustly-deported-6.20.2023.pdf",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He cosponsored legislation requiring background checks for every firearm sale.",
+          "quote": "To require a background check for every firearm sale.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-118hr715ih",
+          "agreement": "5/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "His office lists the Women’s Health Protection Act among legislation that passed with his support.",
+          "quote": "With Representative Cleaver’s support, the U.S. House of Representatives passed numerous pieces of vital legislation in 2021, including:",
+          "sourceUrl": "https://cleaver.house.gov/sites/evo-subsites/cleaver-evo.house.gov/files/Year%20in%20Review%202021%20FINAL.pdf",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "He voted against the Protection of Women and Girls in Sports Act, which would impose sex-at-birth rules for school sports.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "3/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "He cosponsored legislation to legalize marijuana federally and review past marijuana sentences.",
+          "quote": "make marijuana legal at the Federal level, incentivize States to change marijuana laws that disproportionately impact minority communities, and allow retroactive review of marijuana sentences",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/CRI-2018/html/CRI-2018-CLEAVER-EMANUEL-BE8E6.htm",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Cleaver praised the Affordable Care Act and supported Medicaid expansion to cover more people, though he opposed a single-payer Medicare-for-All program in his 2024 questionnaire.",
+          "quote": "Under the Affordable Care Act, Medicaid, the government run program that provides health insurance for low income and disabled individuals, was expanded to include more people.",
+          "sourceUrl": "https://cleaver.house.gov/issues/health-0",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Cleaver supported the Inflation Reduction Act, which he described as a major climate investment, and said it would put the country on track to reduce emissions.",
+          "quote": "Last year, I was proud to join House Democrats in supporting President Biden's Inflation Reduction Act, helping pass into law the largest investment in climate action in American history.",
+          "sourceUrl": "https://cleaver.house.gov/constituent-services/inflation-reduction-act-energy-cost-savings",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Randall (Randy) Langkraehr",
+      "party": "Libertarian",
+      "stances": {
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "In his 2022 congressional campaign, he focused on federal debt and said the country should show stronger financial responsibility.",
+          "quote": "One issue he focuses on within his campaign is the trillions of dollars in debt that he says the U.S. government has yet to pay off.",
+          "sourceUrl": "https://www.kbia.org/2022-11-03/what-are-we-voting-for-in-the-november-2022-election-here-is-everything-on-boone-countys-ballot?_amp=true",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "rickbrattin.com · senate.mo.gov · ivoterguide.com · cleaver.house.gov · govinfo.gov · clerk.house.gov · kbia.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
