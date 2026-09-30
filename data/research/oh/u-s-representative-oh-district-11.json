@@ -5,12 +5,16 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Shontel Brown",
+      "name": "Shontel M. Brown",
       "party": "Democratic"
     },
     {
       "name": "Mike Kirchner",
       "party": "Republican"
+    },
+    {
+      "name": "Cortney Peterson",
+      "party": "Independent"
     }
   ]
 }

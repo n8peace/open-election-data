@@ -5,12 +5,16 @@
   "kind": "candidate",
   "choices": [
     {
+      "name": "Mike Turner",
+      "party": "Republican"
+    },
+    {
       "name": "Kristina Knickerbocker",
       "party": "Democratic"
     },
     {
-      "name": "Mike Turner",
-      "party": "Republican"
+      "name": "Thomas F. McMasters",
+      "party": "Libertarian"
     }
   ]
 }

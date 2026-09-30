@@ -5,15 +5,16 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Carey Coleman",
-      "party": "Republican"
-    },
-    {
       "name": "Emilia Sykes",
       "party": "Democratic"
     },
     {
-      "name": "Sandeep Dixit"
+      "name": "Carey Coleman",
+      "party": "Republican"
+    },
+    {
+      "name": "Sandeep S. Dixit",
+      "party": ""
     }
   ]
 }

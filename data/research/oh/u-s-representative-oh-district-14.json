@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "David P. Joyce",
-      "party": "Republican"
-    },
-    {
       "name": "Maria Jukic",
       "party": "Democratic"
+    },
+    {
+      "name": "Dave Joyce",
+      "party": "Republican"
     }
   ]
 }

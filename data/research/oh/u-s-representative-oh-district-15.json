@@ -5,16 +5,16 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Brennan Barrington",
-      "party": "Libertarian"
-    },
-    {
       "name": "Mike Carey",
       "party": "Republican"
     },
     {
       "name": "Don Leonard",
       "party": "Democratic"
+    },
+    {
+      "name": "Brennan Barrington",
+      "party": "Libertarian"
     }
   ]
 }

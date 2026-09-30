@@ -5,12 +5,16 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Brian Shaver",
+      "name": "Bob Latta",
+      "party": "Republican"
+    },
+    {
+      "name": "Brian A. Shaver",
       "party": "Democratic"
     },
     {
-      "name": "Bob Latta",
-      "party": "Republican"
+      "name": "Dalton Franklin",
+      "party": "Independent"
     }
   ]
 }
