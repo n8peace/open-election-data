@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Representative",
+  "district": "LA 4th Congressional District",
+  "division": "la/cd-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Conrad Cable",
+      "party": "Democratic"
+    },
+    {
+      "name": "Gordon Heslop",
+      "party": "Republican"
+    },
+    {
+      "name": "Mike Johnson",
+      "party": "Republican"
+    },
+    {
+      "name": "Mike Nichols",
+      "party": "Republican"
+    }
+  ]
+}

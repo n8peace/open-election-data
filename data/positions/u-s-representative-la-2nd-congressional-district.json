@@ -1,0 +1,104 @@
+{
+  "office": "U.S. Representative",
+  "district": "LA 2nd Congressional District",
+  "division": "la/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Lisa Ballay",
+      "party": "Libertarian",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She favors restraint in federal spending and says federal finances cannot be fixed by continually raising taxes.",
+          "quote": "Her argument is straightforward: you cannot fix this country’s finances by raising taxes forever.",
+          "sourceUrl": "https://ballayforcongress.com/issues",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "She rejects a freer-trade approach for imported seafood and supports country-of-origin labeling, equal inspections and enforcement of existing trade laws.",
+          "quote": "That is not free trade. That is one set of rules for our families and another set for everybody else.",
+          "sourceUrl": "https://ballayforcongress.com/issues",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "She supports fiscal reform and spending discipline while saying that fixing federal finances should not cut the benefits or care people depend on.",
+          "quote": "Fixing the books is not the same thing as cutting the care.",
+          "sourceUrl": "https://ballayforcongress.com/",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She says increasing the housing supply is the solution to expensive housing and would address barriers that slow construction.",
+          "quote": "The solution to expensive housing is more housing. Lisa opposes federal rent and price controls as the primary answer.",
+          "sourceUrl": "https://ballayforcongress.com/issues",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "She calls for more competition and less administrative burden in health care rather than another federal bureaucratic layer.",
+          "quote": "Patients should know what their care and their prescriptions actually cost, before they receive a bill. We need more competition, less unnecessary administrative burden, and a system where healthcare dollars reach patients and the people treating them instead of being consumed by the machinery in between.",
+          "sourceUrl": "https://ballayforcongress.com/issues",
+          "agreement": "4/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "She supports domestic energy production and says Louisiana should have some of the country’s cheapest household energy.",
+          "quote": "Cheap Energy Louisiana should be one of the cheapest places in America to power a home.",
+          "sourceUrl": "https://ballayforcongress.com/",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Peter Williams",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "He said he would advocate for tax breaks for working-class people and stable prices for food, health care, and insurance.",
+          "quote": "Advocate for lower and fairer tax breaks for the working class equal to the wealthy.",
+          "sourceUrl": "https://ivoterguide.com/candidate/25233/race/20905/election/1127",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He supported limiting elective abortion to life-threatening medical circumstances, rape, or incest, with strict enforcement of those exceptions.",
+          "quote": "Legislation that strictly enforce the rules exceptions for medical life threatening situations for mother, Rape or Incest",
+          "sourceUrl": "https://ivoterguide.com/candidate/25233/race/20905/election/1127",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "ballayforcongress.com · ivoterguide.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

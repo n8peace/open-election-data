@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "LA 2nd Congressional District",
+  "division": "la/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Lisa Ballay",
+      "party": "Libertarian"
+    },
+    {
+      "name": "Peter Williams",
+      "party": "Republican"
+    }
+  ]
+}

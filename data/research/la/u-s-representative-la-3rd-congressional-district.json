@@ -1,0 +1,28 @@
+{
+  "office": "U.S. Representative",
+  "district": "LA 3rd Congressional District",
+  "division": "la/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Kate Cotten",
+      "party": "Republican"
+    },
+    {
+      "name": "John Day",
+      "party": "Democratic"
+    },
+    {
+      "name": "Priscilla Gonzalez",
+      "party": "Democratic"
+    },
+    {
+      "name": "Clay Higgins",
+      "party": "Republican"
+    },
+    {
+      "name": "Tia LeBrun",
+      "party": "Independent"
+    }
+  ]
+}

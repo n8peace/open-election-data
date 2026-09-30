@@ -1,0 +1,32 @@
+{
+  "office": "U.S. Representative",
+  "district": "LA 5th Congressional District",
+  "division": "la/cd-5",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Misti Cordell",
+      "party": "Republican"
+    },
+    {
+      "name": "Michael Echols",
+      "party": "Republican"
+    },
+    {
+      "name": "Gabe Firment",
+      "party": "Republican"
+    },
+    {
+      "name": "Austin Magee",
+      "party": "Republican"
+    },
+    {
+      "name": "Dan McKay",
+      "party": "Democratic"
+    },
+    {
+      "name": "Antonio Wilson",
+      "party": "Democratic"
+    }
+  ]
+}

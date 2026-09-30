@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Representative",
+  "district": "LA 1st Congressional District",
+  "division": "la/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Randall Arrington",
+      "party": "Republican"
+    },
+    {
+      "name": "Liddy Glass",
+      "party": "Independent"
+    },
+    {
+      "name": "Lauren Jewett",
+      "party": "Democratic"
+    },
+    {
+      "name": "Steve Scalise",
+      "party": "Republican"
+    }
+  ]
+}
