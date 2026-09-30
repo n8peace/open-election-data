@@ -1,0 +1,462 @@
+{
+  "office": "U.S. Representative",
+  "district": "LA 6th Congressional District",
+  "division": "la/cd-6",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Monique Appeaning",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, she supported eliminating several taxes and flattening the corporate tax.",
+          "quote": "I support comprehensive tax reform (eliminate personal income tax, eliminate the franchise tax, flatten the corporate tax and eliminate the inventory tax)",
+          "sourceUrl": "https://ivoterguide.com/candidate/76940",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "Her campaign says she would work toward a balanced federal budget and reduce the national debt.",
+          "quote": "Work toward a balanced federal budget and reduce national debt",
+          "sourceUrl": "https://www.appeaningforcongress.com/",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, she strongly agreed with supporting school choice, including voucher programs.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/76940",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Her campaign says she backs law enforcement and supports cracking down on violent crime and trafficking.",
+          "quote": "Back the Blue Crack down on violent crime and trafficking",
+          "sourceUrl": "https://www.appeaningforcongress.com/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, she strongly agreed that the U.S. should do more to secure the southern border and said immigrants should follow the established process.",
+          "quote": "The U.S. should do more to physically secure the southern border. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/76940",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, she answered that no restrictions on gun ownership are needed to protect public safety.",
+          "quote": "What restrictions on gun ownership are needed to protect public safety? None",
+          "sourceUrl": "https://ivoterguide.com/candidate/76940",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, she said abortion should be allowed only when medically necessary to save the mother's life.",
+          "quote": "Under what circumstances should abortion be allowed? Medically necessary to save the life of the mother",
+          "sourceUrl": "https://ivoterguide.com/candidate/76940",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, she said stricter environmental laws cost too many jobs and strongly agreed with using fracking.",
+          "quote": "A) Stricter environmental laws and regulations cost too many jobs and hurt the economy",
+          "sourceUrl": "https://ivoterguide.com/candidate/76940",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, she strongly disagreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/76940",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Chauna Banks",
+      "party": "Democratic",
+      "stances": {
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Her 2026 congressional agenda includes protecting Social Security and Medicare.",
+          "quote": "protect Social Security and Medicare, expand affordable housing and strengthen federal flood protection and infrastructure programs.",
+          "sourceUrl": "https://www.brweeklypress.com/chauna-banks-enters-congressional-race-with-focus-on-opportunity-and-economic-security/",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Her 2026 congressional agenda includes expanding affordable housing.",
+          "quote": "protect Social Security and Medicare, expand affordable housing and strengthen federal flood protection and infrastructure programs.",
+          "sourceUrl": "https://www.brweeklypress.com/chauna-banks-enters-congressional-race-with-focus-on-opportunity-and-economic-security/",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "In a 2023 candidate questionnaire, she agreed with a statement supporting school choice, including vouchers and private schools.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools. Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/76932",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "In a 2023 candidate questionnaire, she said abortion should be allowed in cases of under-age rape or incest, risk to the mother’s life, or profound fetal abnormalities.",
+          "quote": "Under what circumstances should abortion be allowed? Under-age rape or incest Threatens mother's life Fetuses with profound abnormalities",
+          "sourceUrl": "https://ivoterguide.com/candidate/76932",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "In a 2023 candidate questionnaire, she selected government-funded health insurance as an option for anyone who wants it, alongside private insurance.",
+          "quote": "Healthcare insurance funded by the government should be available for all who want it, along with private healthcare options.",
+          "sourceUrl": "https://ivoterguide.com/candidate/76932",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "She said stricter environmental laws and regulations are worth their economic cost.",
+          "quote": "Stricter environmental laws and regulations are worth the cost.",
+          "sourceUrl": "https://ivoterguide.com/candidate/76932/race/8233/election/1075",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "In a 2023 candidate questionnaire, she disagreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/76932",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Rufus Craig",
+      "party": "Libertarian",
+      "stances": {
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "He supported requiring universal background checks for firearm purchases.",
+          "quote": "Do you support restricting access to firearms by requiring universal background checks? Yes",
+          "sourceUrl": "https://powercoalition.org/survey_ushouse_2022/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supported women's access to safe, legal abortion.",
+          "quote": "Do you believe every woman should have access to the full range of reproductive health care services, including access to safe and legal abortion. Will you support a woman's right to safe, legal abortion? Yes",
+          "sourceUrl": "https://powercoalition.org/survey_ushouse_2022/",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He opposed the Green New Deal, federal investment in renewable energy, and a petrochemical-buildout moratorium.",
+          "quote": "Do you support federal investment in renewable energy? No",
+          "sourceUrl": "https://powercoalition.org/survey_ushouse_2022/",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Rick Edmonds",
+      "party": "Republican",
+      "stances": {
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He strongly agreed with supporting school choice, including voucher programs, tax credits, charter schools, private schools, and home schools.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/46382/race/8111/election/1038",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He sponsored a 2026 law providing funding for peace officers’ bulletproof vests.",
+          "quote": "Provides relative to funding of bulletproof vests for peace officers.",
+          "sourceUrl": "https://www.legis.la.gov/legis/BillInfo.aspx?b=SB143&s=26rs&sbi=y",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "He strongly agreed that the United States should do more to physically secure the southern border.",
+          "quote": "The U.S. should do more to physically secure the southern border. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/46382/race/8111/election/1038",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He strongly agreed that abortion providers should not receive public funds.",
+          "quote": "Abortion providers, including Planned Parenthood, should not receive funds from federal, state, or local governments (including Title X grants). Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/46382/race/8111/election/1038",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He chose the view that stricter environmental laws cost too many jobs and hurt the economy, and strongly agreed with using fracking to extract oil and natural gas.",
+          "quote": "Which comes closest to your view? A) Stricter environmental laws and regulations cost too many jobs and hurt the economy. B) Stricter environmental laws and regulations are worth the cost. A",
+          "sourceUrl": "https://ivoterguide.com/candidate/46382/race/8111/election/1038",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He strongly disagreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/46382/race/8111/election/1038",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Michael Mebruer",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He supports simplifying the tax code and reducing the overall tax burden on American workers.",
+          "quote": "Michael supports comprehensive tax reform that simplifies the tax code and reduces the overall tax burden on American workers.",
+          "sourceUrl": "https://www.mebruerforcongress.com/about",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "He supports restructuring major entitlement programs to improve their long-term sustainability as part of restoring fiscal discipline.",
+          "quote": "His proposals focus on restructuring major entitlement programs to ensure their long-term sustainability, simplifying the federal tax code to promote economic growth, and reducing unnecessary federal bureaucracy.",
+          "sourceUrl": "https://www.mebruerforcongress.com/about",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supports nationwide E-Verify, stronger border enforcement, and penalties for employers who knowingly hire unauthorized workers.",
+          "quote": "Michael Mebruer believes that the American dream and the opportunities it represents must be protected for American citizens and for those who follow the legal immigration process.",
+          "sourceUrl": "https://www.mebruerforcongress.com/about",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He supports legal protections for unborn life and policies to support mothers and families.",
+          "quote": "Protecting life should not only involve legal protections for the unborn, but also policies that make it easier for families to welcome children into the world and raise them in stable, supportive environments.",
+          "sourceUrl": "https://www.mebruerforcongress.com/about",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He supports shifting Medicare toward competing private plans and expanding private insurance options in Medicaid.",
+          "quote": "Michael supports transitioning Medicare toward a system that gives seniors greater flexibility when choosing their healthcare coverage while maintaining strong protections for beneficiaries.",
+          "sourceUrl": "https://www.mebruerforcongress.com/about",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Blake Miguez",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He says he will cut taxes and federal red tape to support employers and Louisiana industries.",
+          "quote": "Blake will cut the taxes and federal red tape that drive employers out, back the trades and technical training that put people to work without six figures of debt",
+          "sourceUrl": "https://blakemiguez.com/issues/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "As a state senator, he voted for the LA GATOR education-savings-account program for parental choice in K-12 education.",
+          "quote": "Creates the Louisiana Giving All True Opportunity to Rise (LA GATOR) Scholarship Program to provide educational savings accounts for parental choice in K-12 education.",
+          "sourceUrl": "https://legis.la.gov/legis/BillInfo.aspx?i=246594",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He says he will fund police and support sheriffs and deputies with resources and legal backing.",
+          "quote": "Fund the police, prosecute violent criminals, and stop treating repeat offenders like first-timers.",
+          "sourceUrl": "https://blakemiguez.com/issues/",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He says he will finish the border wall, fund agents, end catch-and-release, and require E-Verify.",
+          "quote": "In Congress he’ll finish the wall, fund the agents, end catch-and-release, mandate E-Verify, and treat the cartels as the foreign terrorist organizations they are.",
+          "sourceUrl": "https://blakemiguez.com/issues/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He opposes a national gun registry, red-flag confiscation, and an assault weapon ban, and supports concealed-carry reciprocity.",
+          "quote": "No national registry, no red-flag confiscation, no \"assault weapon\" ban, end the NFA, and pass national concealed carry reciprocity.",
+          "sourceUrl": "https://blakemiguez.com/issues/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He identifies as pro-life and says he will oppose taxpayer funding for abortion and support those who choose life.",
+          "quote": "In Congress he will vote against taxpayer funding for abortion, protect the conscience rights of doctors and nurses, and stand with mothers who choose life.",
+          "sourceUrl": "https://blakemiguez.com/issues/",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He says he helped lead efforts to exclude transgender girls and women from girls’ bathrooms and women’s sports.",
+          "quote": "Blake helped lead the effort to keep men out of girls’ bathrooms and out of women’s sports.",
+          "sourceUrl": "https://blakemiguez.com/issues/",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He says he will support Louisiana’s energy industry, pursue LNG exports and Gulf leasing, and lower energy bills.",
+          "quote": "In Congress, Blake will fight to get LNG export permits approved, stop the slow-walking of Gulf leasing, and push real permitting reform that actually works.",
+          "sourceUrl": "https://blakemiguez.com/issues/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supports voter ID and proof-of-citizenship requirements and says Congress should pass the SAVE America Act.",
+          "quote": "Voter ID, proof of citizenship, and no foreign money running our elections.",
+          "sourceUrl": "https://blakemiguez.com/issues/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Stephen Wagley",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He says he will make the Trump tax cuts permanent and simplify the tax code.",
+          "quote": "I will fight to make sure that the Trump tax cuts stay permanent, the tax code is simplified and oppose any new federal regulations and mandates so our small businesses can succeed.",
+          "sourceUrl": "https://www.wagleyforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "He says Washington should stop borrowing and spending beyond its means.",
+          "quote": "Every dollar Washington borrows today is inflation you pay for tomorrow. No more blank checks.",
+          "sourceUrl": "https://www.wagleyforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "His campaign says he has advocated for and fought for school choice.",
+          "quote": "He has fought for school choice, veterans’ education benefits and growing the workforce to create jobs.",
+          "sourceUrl": "https://www.wagleyforcongress.com/",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He says he would prioritize police grants, equipment, and support for law enforcement.",
+          "quote": "Our heroic police and sheriffs can count on me to fight against any effort by the Left to defund the federal grants which ensure our parish sheriffs' offices and municipal police departments to ensure they have the manpower, training, and equipment they need.",
+          "sourceUrl": "https://www.wagleyforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He says he would secure the border and enforce immigration law.",
+          "quote": "I will fight to secure the border and enforce the law.",
+          "sourceUrl": "https://www.wagleyforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He says he would oppose firearm restrictions and efforts to reinstate an assault weapons ban.",
+          "quote": "I will fight in Washington to protect Louisiana's constitutional carry law from federal overreach and oppose any legislation and restrictions on law abiding citizens' right to carry a firearm.",
+          "sourceUrl": "https://www.wagleyforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He says protecting unborn life is a priority and opposes efforts to expand abortion access.",
+          "quote": "Life begins at conception. As a Christian, it is my duty to protect the unborn.",
+          "sourceUrl": "https://www.wagleyforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He says he would push for transparency and competition among insurance companies.",
+          "quote": "I'll fight for real transparency and competition, so families aren't stuck footing the bill for an industry that answers to shareholders instead of you.",
+          "sourceUrl": "https://www.wagleyforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He calls cheap, reliable energy a way to reduce household costs and supports unleashing American energy.",
+          "quote": "Unleash American energy. Cheap, reliable energy is the fastest way to cut costs on gas, groceries, and your electric bill — full stop.",
+          "sourceUrl": "https://www.wagleyforcongress.com/issues",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supports the SAVE America Act, which he says requires proof of citizenship to vote.",
+          "quote": "The SAVE AMERICA ACT simply requires proof of citizenship to vote. Every citizen has identification.",
+          "sourceUrl": "https://www.wagleyforcongress.com/issues",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "ivoterguide.com · appeaningforcongress.com · brweeklypress.com · powercoalition.org · legis.la.gov · mebruerforcongress.com · blakemiguez.com · wagleyforcongress.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
