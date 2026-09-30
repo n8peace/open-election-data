@@ -1,0 +1,262 @@
+{
+  "office": "U.S. Representative",
+  "district": "CT District 4",
+  "division": "ct/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jim Himes",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He voted for legislation funding health care and climate programs, paid for largely through increased taxes on billion-dollar companies.",
+          "quote": "The spending and deficit reduction in the Inflation Reduction Act are entirely paid for, largely through increased taxes on billion-dollar companies.",
+          "sourceUrl": "https://himes.house.gov/2022/08/12/2022-8-himes-house-pass-inflation-reduction-act/",
+          "agreement": "6/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He cosponsored and supported a bill to raise the federal minimum wage to $10.10 per hour.",
+          "quote": "People who work hard should not have to struggle to meet their basic needs.",
+          "sourceUrl": "https://himes.house.gov/2014/02/26/2014-2-himes-joins-effort-force-vote-raise-minimum-wage/",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He described himself as coming from a free-trade philosophy while noting concerns about the effects of past trade changes on manufacturing.",
+          "quote": "I sort of come from a free trade philosophy.",
+          "sourceUrl": "https://www.brookings.edu/wp-content/uploads/2024/11/fp_20241206_us_china_himes_transcript.pdf",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He opposed Medicare changes that would shift rising health-care costs onto seniors.",
+          "quote": "I will continue to oppose any legislation that forces our seniors to shoulder the burden of rising health care costs alone.",
+          "sourceUrl": "https://himes.house.gov/2011/6/45th-anniversary-program-himes-continues-protect-medicare",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "In a 2024 candidate questionnaire, he said his district needs more housing and that it should enrich local communities.",
+          "quote": "Housing is also a critical problem for our area at most income levels. We must build more housing in ways that enrich our many and diverse towns and cities.",
+          "sourceUrl": "https://www.ctinsider.com/election/article/4th-us-congressional-district-himes-goldstein-2024-19824266.php",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He says public schools should be robustly funded and cites his votes for increased Title I school funding.",
+          "quote": "We must ensure our public schools are robustly funded and work to address educational disparities.",
+          "sourceUrl": "https://himes.house.gov/issues/education/",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "He supports funding community violence intervention programs and mental health services as part of gun-violence prevention.",
+          "quote": "I support expanded state crisis intervention programs (including Red Flag Laws), funding for community violence intervention programs and mental health services",
+          "sourceUrl": "https://himes.house.gov/issues/gun-violence-prevention/",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports immigration legislation that overhauls legal immigration and creates a pathway to citizenship for Dreamers.",
+          "quote": "Congress must pass legislation that addresses asylum issues, improves the immigration court system, overhauls legal immigration, and establishes a tough but fair pathway to citizenship",
+          "sourceUrl": "https://himes.house.gov/issues/immigration/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He supports measures including expanded background checks, red-flag laws, and penalties for straw purchases and firearms trafficking.",
+          "quote": "I support expanded state crisis intervention programs (including Red Flag Laws), funding for community violence intervention programs and mental health services, enhanced background checks for individuals under 21",
+          "sourceUrl": "https://himes.house.gov/issues/gun-violence-prevention/",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports federal legislation protecting abortion access and opposes government restrictions on reproductive-health decisions.",
+          "quote": "I have been a longtime supporter of the Women’s Health Protection Act, which would prohibit medically unnecessary requirements or restrictions on abortion services",
+          "sourceUrl": "https://himes.house.gov/issues/reproductive-freeom/",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "He voted no on the Protection of Women and Girls in Sports Act.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2023192",
+          "agreement": "3/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "He voted for the MORE Act, which passed the House in 2022.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports expanding eligibility for insurance coverage and has backed expanded health-insurance subsidies and public-health funding.",
+          "quote": "Moving forward, I will continue to support measures that expand eligibility for insurance coverage and fund public health and medical communities",
+          "sourceUrl": "https://himes.house.gov/issues/health-care/",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He voted for the Inflation Reduction Act and supports policies to reduce greenhouse-gas emissions and expand clean energy.",
+          "quote": "I believe we should put a price on carbon to boost demand for renewable energy technologies, improve public health, create new jobs, and reduce greenhouse gas emissions.",
+          "sourceUrl": "https://himes.house.gov/issues/climate-environment/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He cosponsored and voted for the John R. Lewis Voting Rights Advancement Act, which he says would restore federal oversight of voting policies.",
+          "quote": "I will continue doing everything I can to get a remedy passed into law as quickly as possible so every American will have an equal opportunity to vote.",
+          "sourceUrl": "https://himes.house.gov/issues/voting-rights/",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Michael Goldstein",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Goldstein said he would extend the expiring Trump tax cuts to boost business and create jobs.",
+          "quote": "Goldstein said that if elected, he would extend the tax cuts passed during the Trump presidency, which expire in 2025.",
+          "sourceUrl": "https://ctexaminer.com/2024/10/30/himes-and-challengers-clash-in-spirited-debate-over-immigration-the-middle-east-and-democracy/",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He said he would seek to begin reducing the federal debt.",
+          "quote": "fight against pork barrel legislation and starting reducing federal debt.",
+          "sourceUrl": "https://www.ctinsider.com/election/article/4th-us-congressional-district-himes-goldstein-2024-19824266.php/",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "His campaign platform promotes school choice, and he describes it as a way to offer alternatives to public schools.",
+          "quote": "I believe in School Choice and have written articles on this. It is the only way to make education competitive while providing opportunities and alternatives to public schools that are failing our children throughout our nation.",
+          "sourceUrl": "https://ivoterguide.com/candidate/55301/race/5263/election/1250",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He says he fully supports law enforcement and qualified immunity for officers.",
+          "quote": "I fully support law enforcement and qualified immunity for our law enforcement officers.",
+          "sourceUrl": "https://ivoterguide.com/candidate/55301/race/5263/election/1250",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He has called for closing the border and strongly supports physically securing it.",
+          "quote": "Our Border needs to be closed and can easily be closed as it was in the prior administration.",
+          "sourceUrl": "https://ivoterguide.com/candidate/55301/race/5263/election/1250",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He said he supports no restrictions on gun ownership beyond removing illegal firearms from illegal owners.",
+          "quote": "None except the removal of illegal firearms from the hands of illegal gun owners, especially in our cities.",
+          "sourceUrl": "https://ivoterguide.com/candidate/55301/race/5263/election/1250",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "He said abortion policy should be decided state by state and by voters rather than protected by a federal abortion-rights law.",
+          "quote": "Goldstein, who is a physician, said it is up to each state to decide and that voters should be able to vote on the issue in a referendum.",
+          "sourceUrl": "https://westportjournal.com/politics/4th-congressional-district-himes-vs-goldstein-vs-wesley/",
+          "agreement": "7/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He opposes allowing biological males to participate in women’s sports or use women’s spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/55301/race/5263/election/1250",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He favors reducing health care regulation and increasing competition, while saying Medicare and Medicaid should remain available.",
+          "quote": "C) Medicaid and Medicare should remain available, but no other taxpayer-funded programs are necessary. I also believe in catastrophic health care coverage as American should be forced into bankruptcy from a hospital admission.",
+          "sourceUrl": "https://ivoterguide.com/candidate/55301/race/5263/election/1250",
+          "agreement": "4/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supports expanding natural gas pipeline capacity and an all-of-the-above energy strategy to lower electricity costs.",
+          "quote": "I will fight for federal legislation that unblocks pipeline expansion, embraces an all-of-the-above energy strategy — natural gas, nuclear, and renewables — and stops forcing Connecticut families to pay the highest electricity bills in the continental United States.",
+          "sourceUrl": "https://goldsteinforcongress.com/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He says photo identification is critical in elections and strongly disagrees with voting without it.",
+          "quote": "We need photo ID for our daily lives. It is critical in elections to have photo ID.",
+          "sourceUrl": "https://ivoterguide.com/candidate/55301/race/5263/election/1250",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Benjamin Wesley",
+      "party": "Independent",
+      "stances": {
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "At a debate, he said he would support federal legislation codifying the protections once covered by Roe v. Wade.",
+          "quote": "both Himes and Wesley said they would support legislation to codify the protections that were once covered under Roe v. Wade into federal law.",
+          "sourceUrl": "https://westportjournal.com/politics/4th-congressional-district-himes-vs-goldstein-vs-wesley/",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "himes.house.gov · brookings.edu · ctinsider.com · clerk.house.gov · ctexaminer.com · ivoterguide.com · westportjournal.com · goldsteinforcongress.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

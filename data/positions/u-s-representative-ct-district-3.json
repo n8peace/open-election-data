@@ -1,0 +1,246 @@
+{
+  "office": "U.S. Representative",
+  "district": "CT District 3",
+  "division": "ct/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Rosa L. DeLauro",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "She opposes tax cuts for billionaires and says the revenue should support community investment.",
+          "quote": "I will always oppose tax cuts for billionaires so we can invest in our communities.",
+          "sourceUrl": "https://rosadelauro.com/issue/the-cost-of-living/",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supports unions, workers’ bargaining rights, and raising the minimum wage.",
+          "quote": "I am a strong supporter of unions and every worker’s right to bargain for better wages and benefits.",
+          "sourceUrl": "https://rosadelauro.com/issue/the-cost-of-living/",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "She has opposed trade agreements that reduce wages or send jobs overseas and supports worker protections.",
+          "quote": "Rosa has also fought to stop trade agreements that lower wages and ships jobs overseas, while also protecting the rights of employees and unions.",
+          "sourceUrl": "https://delauro.house.gov/about-rosa",
+          "agreement": "3/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She says she will protect Social Security and Medicare benefits people have earned.",
+          "quote": "Defend Social Security and Medicare. You paid into these programs your entire life. I will protect the benefits you have earned.",
+          "sourceUrl": "https://rosadelauro.com/issue/the-cost-of-living/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She supported Connecticut legislation that encourages new affordable and workforce housing and voted for a federal housing bill.",
+          "quote": "including incentives supporting the creation of new housing, supporting good jobs across the state.",
+          "sourceUrl": "https://rosadelauro.com/delauro-joins-governor-ned-lamont-in-work-to-bring-more-affordable-housing-options-to-connecticut-residents/",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports directing federal resources to public schools, including Title I funding and programs in New Haven Public Schools.",
+          "quote": "Our public schools are the heart of our communities and the engine of our future success.",
+          "sourceUrl": "https://rosadelauro.com/issue/education/",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports community violence prevention and crisis response teams while also directing federal funds to local police departments.",
+          "quote": "I believe we must tackle this epidemic from every angle, by keeping weapons of war off our streets and by investing in community-based solutions that prevent violence before it starts.",
+          "sourceUrl": "https://rosadelauro.com/issue/gun-violence-prevention/",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She calls for border security while also criticizing enforcement that targets people following legal immigration processes.",
+          "quote": "We can—and must—strengthen border security and manage immigration in a way that upholds the legal values that define our nation.",
+          "sourceUrl": "https://rosadelauro.com/issue/immigration/",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports universal background checks, an assault-weapons ban, gun-violence research, and accountability for gun manufacturers.",
+          "quote": "Congress has a moral responsibility to enact universal background checks, ban assault weapons, allow research on gun violence, keep guns out of the hands of potential terrorists, and hold gun manufacturers accountable for crimes committed with their weapons.",
+          "sourceUrl": "https://delauro.house.gov/issues/gun-safety",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She supports codifying abortion protections and protecting access to reproductive health care.",
+          "quote": "I am leading the effort to codify the protections of Roe v. Wade into federal law and to protect access to the full range of reproductive healthcare.",
+          "sourceUrl": "https://rosadelauro.com/issue/health-care/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "She voted against the Protection of Women and Girls in Sports Act, which would have based school-sports eligibility on sex at birth.",
+          "quote": "Vote Question: On Passage Protection of Women and Girls in Sports Act Vote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "5/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "She voted for House passage of the MORE Act.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports strengthening the ACA, Medicare, and Medicaid and expanding access to affordable coverage.",
+          "quote": "That is why I fight for policies that will strengthen the Affordable Care Act, Medicare, and Medicaid (known in Connecticut as HUSKY) and reduce costs to make health care more affordable",
+          "sourceUrl": "https://rosadelauro.com/issue/health-care/",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She supports clean energy investment, including offshore wind, advanced batteries, and green hydrogen.",
+          "quote": "I am working to attract investment for offshore wind energy, advanced battery manufacturing, and green hydrogen technology.",
+          "sourceUrl": "https://rosadelauro.com/issue/climate-crisis/",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "She voted for House passage of the For the People Act.",
+          "quote": "Vote Question: On Passage For the People Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/202162",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Christopher Lancia",
+      "party": "Republican",
+      "stances": {
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "He said taking care of Social Security is among his campaign priorities.",
+          "quote": "We need affordability, we need better energy prices, we need to take care of our Social Security, and we need to take care of our veterans",
+          "sourceUrl": "https://thewaterburytimes.com/2026/06/09/christopher-lancia-launches-connecticut-3rd-district-congressional-campaign/",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He calls border security national security and says the border chaos must end.",
+          "quote": "We must end the chaos at our border that’s flooding our communities with crime, drugs, and fear.",
+          "sourceUrl": "https://lanciaforcongress2026.org/",
+          "agreement": "3/10"
+        },
+        "abortion": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He personally opposes abortion but says states, rather than the federal government, should decide the issue and that he respects Connecticut law.",
+          "quote": "He personally opposes abortion and says states, not the federal government, should decide the issue, though he also said he respects Connecticut law on the matter.",
+          "sourceUrl": "https://theinnercitynews.com/cable-guy-runs-shhh-for-congress/",
+          "agreement": "4/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He said affordability and better energy prices are campaign priorities.",
+          "quote": "We need affordability, we need better energy prices",
+          "sourceUrl": "https://thewaterburytimes.com/2026/06/09/christopher-lancia-launches-connecticut-3rd-district-congressional-campaign/",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "Tom Egan",
+      "party": "Independent Party",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He said redevelopment could lower taxes while fully funding schools, fixing potholes, and funding municipal pensions.",
+          "quote": "“We’re going to be able to go ahead and fix all our budget issues, get the schools fully funded, get all the potholes fixed, make sure all of the pensions and municipal employees are fully funded,”",
+          "sourceUrl": "https://valley.newhavenindependent.org/2025/08/01/tom_egan_is_running_again_for_mayor_of_ansonia/",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "He said he supports raising the federal hourly minimum wage.",
+          "quote": "He spoke of raising the $7.25 federal hourly minimum wage.",
+          "sourceUrl": "https://theinnercitynews.com/delauro-challenger-targets-insurers/",
+          "agreement": "5/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "He said tariffs were bringing manufacturing back to the United States and Ansonia.",
+          "quote": "“These tariffs are actually bringing back manufacturing here, and it’s bringing it back here to Ansonia, of all things. If it helps us, it helps us,”",
+          "sourceUrl": "https://valley.newhavenindependent.org/2025/08/01/tom_egan_is_running_again_for_mayor_of_ansonia/",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "In a 2024 interview, Egan said he supported more multi-unit housing and zoning changes, and his candidate questionnaire proposed expanding affordable housing.",
+          "quote": "I think we may need more multi-unit or family apartments. Ansonia doesn’t always allow for that,",
+          "sourceUrl": "https://valley.newhavenindependent.org/2024/09/30/egan_says_time_is_right_for_independent_representation_for_ansonia_derby/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "He said he favors ending current federal immigration raids and creating a citizenship pathway for undocumented residents already in the country.",
+          "quote": "In the interview, Egan spoke of boosting high-speed rail and ending current federal immigration raids in favor of a pathway to citizenship for undocumented people already here.",
+          "sourceUrl": "https://theinnercitynews.com/delauro-challenger-targets-insurers/",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He advocated renewable energy and reduced fossil-fuel dependence while also seeking lower electricity rates and review of rate-driving policies.",
+          "quote": "If elected, I will prioritize diversifying our energy sources and expanding renewable energy programs to reduce dependence on volatile, fossil-fuel-powered electricity. I will also advocate for a thorough review of current policies driving these increases, particularly focusing on how the public benefits charge is structured,",
+          "sourceUrl": "https://valley.newhavenindependent.org/2024/10/23/state_104_voter_guide_whos_running_and_where_do_they_stand_on_the_issues/",
+          "agreement": "3/10"
+        }
+      }
+    }
+  ],
+  "sources": "rosadelauro.com · delauro.house.gov · clerk.house.gov · thewaterburytimes.com · lanciaforcongress2026.org · theinnercitynews.com · valley.newhavenindependent.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

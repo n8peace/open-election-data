@@ -5,20 +5,20 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "JONNY LARSEN",
-      "party": "Democratic"
-    },
-    {
       "name": "TAYLOR WRIGHT",
       "party": "Libertarian"
     },
     {
-      "name": "MIKE KENNEDY",
-      "party": "Republican"
+      "name": "JONNY LARSEN",
+      "party": "Democratic"
     },
     {
       "name": "STEVEN BURT",
       "party": "Unaffiliated"
+    },
+    {
+      "name": "MIKE KENNEDY",
+      "party": "Republican"
     }
   ]
 }

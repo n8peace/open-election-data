@@ -5,6 +5,10 @@
   "kind": "candidate",
   "choices": [
     {
+      "name": "KENT S. UDELL",
+      "party": "Democratic"
+    },
+    {
       "name": "CASSIE EASLEY",
       "party": "Constitution"
     },
@@ -13,7 +17,7 @@
       "party": "Republican"
     },
     {
-      "name": "ADONIS HOOSLYN",
+      "name": "AYDEN SCOTT",
       "party": "Unaffiliated"
     },
     {
@@ -21,12 +25,8 @@
       "party": "Libertarian"
     },
     {
-      "name": "AYDEN SCOTT",
+      "name": "ADONIS HOOSLYN",
       "party": "Unaffiliated"
-    },
-    {
-      "name": "KENT S. UDELL",
-      "party": "Democratic"
     }
   ]
 }
