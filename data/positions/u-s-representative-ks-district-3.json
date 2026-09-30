@@ -1,0 +1,278 @@
+{
+  "office": "U.S. Representative",
+  "district": "KS District 3",
+  "division": "ks/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Sharice L. Davids",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She says she voted to raise the federal minimum wage and strengthen worker pensions.",
+          "quote": "I also believe that anyone who works hard and plays by the rules should be able to earn a decent living—which is why I voted to raise the federal minimum wage, which hasn’t been increased in nearly a decade, and shore up worker pensions.",
+          "sourceUrl": "https://davids.house.gov/issues/jobs-economy-small-businesses",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "She opposed reckless tariffs and called for policies that lower grocery prices and support farmers.",
+          "quote": "We need policies that keep our farms thriving and lower grocery prices — not reckless tariffs and uncertainty that make it harder for folks to succeed.",
+          "sourceUrl": "https://davids.house.gov/media/press-releases/davids-brings-kansas-farmers-union-executive-director-state-union",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She introduced legislation to prevent some seniors and people with disabilities from losing Social Security benefits because of help they receive from others.",
+          "quote": "My new bill, which I’m leading with my colleague Rep. Scanlon, fixes it so people don’t lose out on their Social Security just because of the way Kansans naturally look out for each other.",
+          "sourceUrl": "https://davids.house.gov/media/press-releases/davids-scanlon-introduce-bill-stop-social-security-cuts-seniors-people",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She voted for a housing bill aimed at expanding affordable housing supply and said it would take practical steps to build more housing.",
+          "quote": "This bipartisan bill takes practical steps to build more housing, strengthen protections for renters and homeowners, and crack down on large corporate investors buying up homes.",
+          "sourceUrl": "https://davids.house.gov/media/press-releases/davids-votes-advance-bipartisan-housing-package-lower-costs-expand-affordable",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She announced a $1.9 million federal grant for Olathe Public Schools' Head Start program and said she was fighting to preserve funding.",
+          "quote": "Head Start is incredibly important to our community and I am fighting to preserve funding so kids have the resources they need.",
+          "sourceUrl": "https://davids.house.gov/media/press-releases/davids-announces-new-grant-strengthen-olathe-head-start-programs",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports funding local police and also advocates crime prevention and mental health services as part of public safety efforts.",
+          "quote": "Helped secure more than $27 million in federal public safety grants to hire more local police officers, prevent crime, and get criminals off our streets.",
+          "sourceUrl": "https://shariceforcongress.com/priorities/",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "She supports comprehensive immigration reform with a pathway to citizenship for Dreamers alongside border-security resources.",
+          "quote": "we need comprehensive reform that secures our borders, provides pathways to citizenship for Dreamers, and treats those seeking a better life with dignity and fairness.",
+          "sourceUrl": "https://shariceforcongress.com/priorities/",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supported the Safer Communities Act and says she supports universal background checks and red flag laws.",
+          "quote": "Supported universal background checks and red flag laws to keep firearms out of dangerous hands.",
+          "sourceUrl": "https://shariceforcongress.com/priorities/",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She says she supports legal abortion access and voted for the Women’s Health Protection Act.",
+          "quote": "I believe in protecting access to reproductive health care, including the right to safe and legal abortion.",
+          "sourceUrl": "https://shariceforcongress.com/priorities/",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "She voted against the Protection of Women and Girls in Sports Act of 2025, a bill based on sex classifications.",
+          "quote": "Vote Question: On Passage Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512?Title=sports",
+          "agreement": "3/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "She voted for House passage of the MORE Act in 2022.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports strengthening the Affordable Care Act and expanding Medicaid to widen access to health coverage.",
+          "quote": "That means protecting and strengthening the Affordable Care Act, expanding Medicaid, and lowering the cost of prescription drugs so families don’t have to choose between their health and financial stability.",
+          "sourceUrl": "https://shariceforcongress.com/priorities/",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She supports climate action and clean energy investment, including the Inflation Reduction Act and lower-emissions fuel alternatives.",
+          "quote": "I believe we can tackle climate change while unlocking the economic opportunities of clean energy.",
+          "sourceUrl": "https://shariceforcongress.com/priorities/",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She supports expanding early voting and vote-by-mail where appropriate and introduced legislation addressing barriers to voting in Tribal communities.",
+          "quote": "I support protecting voting rights, expanding early voting and vote-by-mail where appropriate, strengthening election security, and ensuring local election officials have the resources they need to administer safe elections.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68742135",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Eric Jenkins",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "His campaign says he would extend tax cuts, oppose broad-based tax increases, and protect taxpayers.",
+          "quote": "Extend and make permanent the Trump-era tax cuts for working families",
+          "sourceUrl": "https://ericjenkinsforkansas.com/",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He opposes deficit spending and supports a balanced-budget framework to address national debt.",
+          "quote": "Oppose deficit spending and push for a balanced budget framework",
+          "sourceUrl": "https://ericjenkinsforkansas.com/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports stricter border enforcement while also supporting legal immigration pathways.",
+          "quote": "Support legal immigration pathways while cracking down on illegal entry",
+          "sourceUrl": "https://ericjenkinsforkansas.com/",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "His campaign says he would defend Second Amendment rights against restrictions it considers unconstitutional.",
+          "quote": "Defend Second Amendment rights against any unconstitutional restrictions",
+          "sourceUrl": "https://ericjenkinsforkansas.com/",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "A candidate questionnaire rates him as supporting biological-sex distinctions in law, including for sports and private spaces.",
+          "quote": "Will you support legislation that preserves biological sex distinctions in law, including for sports and private spaces such as restrooms and locker rooms",
+          "sourceUrl": "https://kansasfamilyvoterguide.com/2026-primary-voter-guide/",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "His campaign opposes the Green New Deal and energy policies it says would raise household costs.",
+          "quote": "Oppose the Green New Deal and energy policies that raise household costs",
+          "sourceUrl": "https://ericjenkinsforkansas.com/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Steven A Hohe",
+      "party": "Libertarian",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "In a 2024 candidate questionnaire, he advocated lower property assessments and taxes and cited local spending he wanted cut.",
+          "quote": "Lower the the Outrageous Property Assements which bring higher property tax. Quit these unnessesary Pet Projects like the Johnson County Homeless Shelter placing the tax burden on Johnson County residents which presently have no need for it.",
+          "sourceUrl": "https://cdn.ymaws.com/www.lkm.org/resource/resmgr/files/2024_general_candidate_questionnaires/hd_18_steven_hohe.pdf",
+          "agreement": "6/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "His campaign material proposed a staged tariff system on imports.",
+          "quote": "Hohe supports abolishing the current federal income tax and business tax systems and replacing them with a flat tax (not to exceed 10% on the employed, plus a set percentage on corporate profits) and a staged tariff system on imports.",
+          "sourceUrl": "https://www.civoren.com/candidate/steve-hohe-vorry",
+          "agreement": "3/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He proposed downsizing the federal government and cutting its budget by 20% across branches, offices and programs.",
+          "quote": "One of the planks of my platform is to go into crisis mode and downsize the federal government. First: a 20% cut of the budget across the board on any branches, offices and programs.",
+          "sourceUrl": "https://johnsoncountypost.com/2022/10/18/u-s-house-district-3-candidates-on-the-issues-inflation-184501/",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "In a 2024 candidate questionnaire, he proposed education accounts controlled by parents for public education.",
+          "quote": "It's far past time to provide students Educational Accounts controlled by thier parents for thier public education.",
+          "sourceUrl": "https://cdn.ymaws.com/www.lkm.org/resource/resmgr/files/2024_general_candidate_questionnaires/hd_18_steven_hohe.pdf",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "In a 2020 questionnaire, Hohe strongly agreed that mandatory minimum sentences should be required and enforced for violent crimes.",
+          "quote": "Mandatory minimum sentencing should be required and enforced for violent crimes.",
+          "sourceUrl": "https://ivoterguide.com/candidate/34376/race/1372/election/797",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "In a 2020 questionnaire, he strongly agreed with building a border wall and disagreed that ICE should be abolished.",
+          "quote": "I am in favor of construction of a wall and other necessary infrastructure on our border that gives complete control over entering and exiting the United States.",
+          "sourceUrl": "https://ivoterguide.com/candidate/34376/race/1372/election/797",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He said abortion was wrong, opposed federal funding for it, and favored leaving its legality to the states.",
+          "quote": "Personally Abortion is wrong. As for myself and other taxpayers I would not Federally fund Abortion. It is sad that women would end a life out of convenience. I would leave it to States to license doctors and legalize abortion or Not.",
+          "sourceUrl": "https://www.kshb.com/news/election-2020/kansas-3rd-congressional-district-davids-and-adkins",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "In a 2020 questionnaire, he disagreed that government should ensure everyone has health insurance and strongly disagreed with eliminating private health insurance.",
+          "quote": "I support the elimination of private healthcare insurance.",
+          "sourceUrl": "https://ivoterguide.com/candidate/34376/race/1372/election/797",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He opposed stricter environmental regulation, calling the EPA over-regulatory and favoring state oversight.",
+          "quote": "Absolutely! The Environmental Protection Agency over-regulates. EPA should be taken from the Federal government and handed to each state to monitor.",
+          "sourceUrl": "https://ivoterguide.com/candidate/34376/race/1372/election/987",
+          "agreement": "3/10"
+        }
+      }
+    }
+  ],
+  "sources": "davids.house.gov · shariceforcongress.com · clerk.house.gov · onyourballot.vote411.org · ericjenkinsforkansas.com · kansasfamilyvoterguide.com · cdn.ymaws.com · civoren.com · johnsoncountypost.com · ivoterguide.com · kshb.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

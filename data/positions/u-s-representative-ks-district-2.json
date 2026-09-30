@@ -1,0 +1,118 @@
+{
+  "office": "U.S. Representative",
+  "district": "KS District 2",
+  "division": "ks/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Don Coover",
+      "party": "Democratic",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He said tariffs had destroyed overseas markets for agricultural products and criticized the policy.",
+          "quote": "The tariffs that we’ve instituted have destroyed our overseas markets",
+          "sourceUrl": "https://www.iolaregister.com/news/local-news/house-hopeful-talks-tough",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He said he was against school vouchers.",
+          "quote": "Coover said he was against school vouchers and opposed redistricting efforts.",
+          "sourceUrl": "https://www.iolaregister.com/news/local-news/house-hopeful-talks-tough",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Derek Schmidt",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "His campaign says he would extend tax relief for families, small businesses, farmers, and ranchers.",
+          "quote": "Fighting to curb runaway federal spending, lower inflation, and extend tax relief for Kansas families, small businesses, and farmers and ranchers through the Working Families Tax Cut.",
+          "sourceUrl": "https://derekschmidt.com/",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "He called for funding school security improvements and putting more police officers in schools that want them.",
+          "quote": "He also wants to put more police officers in schools that want them.",
+          "sourceUrl": "https://www.kcur.org/news/2022-11-01/kansas-governor-election-2022-laura-kelly-derek-schmidt-issues",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He cosponsored and voted for the Laken Riley Act, which requires detention and deportation for certain noncitizens charged with crimes.",
+          "quote": "S. 5 will make communities in Kansas and across the country safer by requiring the detention and deportation of illegal immigrants",
+          "sourceUrl": "https://schmidt.house.gov/media/press-releases/schmidt-cosponsored-border-bill-passes-congress-heads-presidents-desk",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He cosponsored bills to expand concealed-carry reciprocity and reduce federal restrictions on firearms and firearm businesses.",
+          "quote": "The Constitution is clear that Americans’ Second Amendment rights shall not be infringed,",
+          "sourceUrl": "https://schmidt.house.gov/media/press-releases/schmidt-works-defend-second-amendment",
+          "agreement": "5/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He said he wanted Kansas to have fewer abortions and supported defending existing abortion restrictions.",
+          "quote": "I am for a Kansas that has fewer abortions — not more,",
+          "sourceUrl": "https://www.kshb.com/news/local-news/kansas-gov-laura-kelly-ag-derek-schmidt-debate-hot-button-items-ahead-of-election",
+          "agreement": "4/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He said he would sign a bill barring athletes identified male at birth from competing in girls’ and women’s sports.",
+          "quote": "People who are biologically male should not be allowed to compete in sports that are reserved for female athletes.",
+          "sourceUrl": "https://www.kcur.org/news/2022-10-05/governor-candidates-kelly-and-schmidt-split-over-a-kansas-transgender-ban-in-female-sports",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "John Hauer",
+      "party": "Libertarian",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He calls for eliminating the federal income tax and drastically cutting spending.",
+          "quote": "Eliminate federal income tax and drastically cut spending",
+          "sourceUrl": "https://www.hauerforcongress.com/",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "iolaregister.com · derekschmidt.com · kcur.org · schmidt.house.gov · kshb.com · hauerforcongress.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

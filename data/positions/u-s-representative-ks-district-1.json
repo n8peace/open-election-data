@@ -1,0 +1,173 @@
+{
+  "office": "U.S. Representative",
+  "district": "KS District 1",
+  "division": "ks/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Lauren Reinhold",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Her campaign emphasizes unions and worker rights, and her biography says she advocated for fair wages and stronger labor-law enforcement.",
+          "quote": "Served as a federal union officer, advocating for worker protections, fair wages, and stronger enforcement of labor law.",
+          "sourceUrl": "https://www.laurenforkansas.com/about",
+          "agreement": "5/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "She called tariffs a problem and said Congress should reclaim authority over them.",
+          "quote": "Congress needs to take back its power and say ... tariffs are up to us, Trump.",
+          "sourceUrl": "https://www.laurenforkansas.com/post/our-campaign-was-featured-in-the-topeka-capitol-journal-march-12-2026",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She proposes lifting the Social Security payroll tax cap to fund the program and increase benefits.",
+          "quote": "An important strategy for protecting Social Security and Medicare for Kansas families is raising or scrapping the cap on what people put into contribute right now.",
+          "sourceUrl": "https://kclyradio.com/blog/congressional-candidate-outlines-priorities-for-social-security-agriculture-and-health-care/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Her economic plan identifies expanding housing supply as a way to address inflation.",
+          "quote": "It also addresses inflation without sacrificing jobs by coordinating fiscal policy with the Federal Reserve, expanding housing and energy supply, and targeting overheated sectors rather than imposing broad, blunt austerity.",
+          "sourceUrl": "https://www.laurenforkansas.com/prosperity",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She said federal funding should help community schools stay open and educators keep their jobs.",
+          "quote": "I will demand that the federal government do its part to fund our schools — so that community schools stay open, educators keep their jobs, and all of our children have an excellent education.",
+          "sourceUrl": "https://anvil.gbtribune.com/news/local-news/dems-debate-in-great-bend/",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports expanded Medicaid coverage, restored ACA tax credits, and adding a public insurance option.",
+          "quote": "I will be a steadfast supporter of policies and bills that ensure expanded Medicaid coverage, the return of ACA tax credits, and adding a public option, so that all Kansans — and all Americans — can be insured.",
+          "sourceUrl": "https://anvil.gbtribune.com/news/local-news/dems-debate-in-great-bend/",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Tracey Mann",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Mann backed a House bill that he said would lower taxes and reduce federal spending.",
+          "quote": "bringing down everyday costs, reining in our federal spending, lowering taxes, rolling back burdensome regulations",
+          "sourceUrl": "https://mann.house.gov/media/press-releases/rep-mann-applauds-one-big-beautiful-bill-acts-wins-america",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Mann voted against the Protecting the Right to Organize Act, which would strengthen workers’ organizing rights.",
+          "quote": "Vote Question: On Passage Protecting the Right to Organize Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202170",
+          "agreement": "3/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "His campaign platform says free trade is important for expanding agricultural markets.",
+          "quote": "Free and fair trade is crucial for increasing demand for our livestock products and crops around the world.",
+          "sourceUrl": "https://www.traceymann.com/agriculture",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "In his 2023 priorities, Mann called for hiring and retaining local law enforcement officers.",
+          "quote": "Support the hiring and retention of state and local law enforcement officers",
+          "sourceUrl": "https://mann.house.gov/sites/evo-subsites/mann.house.gov/files/evo-media-document/2023-annual-report-final.pdf",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Mann said he supports securing the southern border by constructing a wall.",
+          "quote": "We must secure our southern border by constructing a wall. This is a national security issue, a human trafficking issue, a drug trafficking issue and just makes common sense.",
+          "sourceUrl": "https://www.traceymann.com/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Mann described the right to bear arms as fundamental and said it is part of the nation’s constitutional foundation.",
+          "quote": "The right to bear arms is fundamental to our Bill of Rights and is part of the bedrock of what makes America exceptional in the world.",
+          "sourceUrl": "https://www.traceymann.com/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Mann said life begins at conception and that he would fight to protect unborn life.",
+          "quote": "I believe that life begins at conception and will fight to protect the innocent life of the unborn.",
+          "sourceUrl": "https://www.traceymann.com/",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He voted for the Protection of Women and Girls in Sports Act of 2023.",
+          "quote": "Vote Question: On Passage Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2023192",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "In announcing his campaign, he opposed efforts to impose government-run health care.",
+          "quote": "Efforts to impose government-run health care, increase taxes, restrict religious freedom and erode the Second Amendment are part of the same agenda.",
+          "sourceUrl": "https://www.traceymann.com/news",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Mann criticized the federal electric-vehicle mandate, citing energy costs for American families.",
+          "quote": "Rather than focus on reducing the record-high energy costs facing American families, the Biden-Harris Administration has again chosen to ignore the facts and focus on its radical climate agenda.",
+          "sourceUrl": "https://mann.house.gov/media/press-releases/rep-mann-blocks-biden-harris-electric-vehicle-mandate",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Steven Jacob",
+      "party": "Libertarian",
+      "stances": {}
+    }
+  ],
+  "sources": "laurenforkansas.com · kclyradio.com · anvil.gbtribune.com · mann.house.gov · clerk.house.gov · traceymann.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

@@ -1,0 +1,253 @@
+{
+  "office": "U.S. Senator",
+  "district": "KS",
+  "division": "ks/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Adam Hamilton",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He said the federal minimum wage should rise so full-time workers can afford a decent life.",
+          "quote": "“It’s time to raise the minimum wage so everyone who works hard can afford a decent life.”",
+          "sourceUrl": "https://www.christianpost.com/news/adam-hamilton-releases-pro-choice-anti-tariff-platform.html?page=5",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "His campaign says Congress should make it easier to build homes and increase the housing supply.",
+          "quote": "Congress should make it easier to buy a home and easier to build one.",
+          "sourceUrl": "https://hamiltonforkansas.com/issues/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "His campaign supports expanding Medicare coverage to include vision and dental care.",
+          "quote": "Expand Medicare to cover vision and dental so seniors are no longer forced to dig into their savings or skip care entirely because of holes in their coverage.",
+          "sourceUrl": "https://hamiltonforkansas.com/issues/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supports an all-of-the-above energy strategy focused on lower consumer costs and domestic production.",
+          "quote": "We need a comprehensive, all of the above strategy that creates jobs and increases energy independence while bringing down costs for consumers today.",
+          "sourceUrl": "https://hamiltonforkansas.com/issues/",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Roger Marshall",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Marshall praised tax cuts in the 2025 reconciliation bill and said he believes cutting taxes helps the economy grow.",
+          "quote": "They don’t realize that when you cut taxes, the economy grows.",
+          "sourceUrl": "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-when-you-cut-taxes-the-economy-grows/",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He voted against a motion to increase the federal minimum wage and introduced legislation he said would protect workers from union bosses.",
+          "quote": "protects workers from overbearing and unaccountable union bosses and small business owners from unelected bureaucrats in Washington.",
+          "sourceUrl": "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-scott-legislation-protects-workers-rights/",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Marshall supported a Senate bill that encourages zoning and permitting changes to expand housing supply.",
+          "quote": "Encouraging state and local governments to streamline permitting and zoning processes that limit housing development.",
+          "sourceUrl": "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-applauds-senate-passage-of-road-to-housing-act/",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He supported school-choice scholarships and expanded education-savings flexibility.",
+          "quote": "I think the Republican Party has shown our support for this school choice in the Working Family Tax Cuts Bill.",
+          "sourceUrl": "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-education-is-the-backbone-of-america/",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He introduced a bill allowing school-relief funds to pay for security measures and armed school resource officers.",
+          "quote": "such as locks, panic buttons, individual room security systems, video surveillance, and hiring and paying the salaries of armed school resource officers.",
+          "sourceUrl": "https://www.marshall.senate.gov/newsroom/press-releases/sen-marshall-votes-against-gun-grabbing-scheme/",
+          "agreement": "8/10"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "lean",
+          "text": "He joined legislation creating sentencing enhancements and an additional prison term for specified federal offenses involving flag burning.",
+          "quote": "which would enact sentencing enhancements for individuals who burn the American flag in the course of committing a federal offense.",
+          "sourceUrl": "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-joins-senators-hawley-and-lee-in-introducing-legislation-to-increase-penalties-against-criminal-flag-burners/",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He has supported border security measures including a border wall and stricter enforcement of immigration laws.",
+          "quote": "We must secure our southern border and stop drugs and violent crime from coming into our nation. I support President Trump’s efforts to build the wall, and secure our communities.",
+          "sourceUrl": "https://ivoterguide.com/candidate/31978/race/11249/election/797",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He voted against a federal gun-reform bill and criticized its red-flag-law provisions.",
+          "quote": "Kansans expect me to protect their Constitutional freedoms in the U.S. Senate, and I will not sacrifice those freedoms for this gun grabbing scheme.",
+          "sourceUrl": "https://www.marshall.senate.gov/newsroom/press-releases/sen-marshall-votes-against-gun-grabbing-scheme/",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Marshall said he believes life begins at conception and welcomed the end of Roe v. Wade as a new beginning for unborn children.",
+          "quote": "Because of these wonderful moments and experiences, I believe life begins at conception. In fact, this is why today’s historic decision signals a new beginning for millions of unborn American children.",
+          "sourceUrl": "https://www.marshall.senate.gov/newsroom/press-releases/video-sen-marshall-statement-on-end-of-roe-v-wade%EF%BF%BC/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He introduced legislation to restrict participation in girls’ and women’s sports based on biological sex.",
+          "quote": "I find it un-American to allow biological boys to compete against biological girls when it comes to athletics.",
+          "sourceUrl": "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-introduces-legislation-to-protect-girls-sports/",
+          "agreement": "9/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, Marshall strongly disagreed with legalizing recreational marijuana.",
+          "quote": "I support the legalization of recreational marijuana. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/31978/race/11249/election/797",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He opposed eliminating private health insurance and described his health care approach as increasing consumer choice and innovation.",
+          "quote": "I support the elimination of private healthcare insurance. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/31978/race/11249/election/797",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He introduced a bill to block regulations that he said would slow oil and gas production and raise gasoline prices.",
+          "quote": "that’s what my legislation does is to have a regulatory pause on anything that would slow down our oil and gas energy.",
+          "sourceUrl": "https://www.marshall.senate.gov/newsroom/press-releases/icymi-sen-marshall-rips-bidens-energy-policies-as-americans-struggle-to-pay-for-high-prices-at-the-pump/",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He backed legislation requiring proof of citizenship to register for federal elections and voter ID.",
+          "quote": "It’s a straightforward bill that requires proof of citizenship to register to vote in our federal elections, along with voter ID and validating mail-in ballots.",
+          "sourceUrl": "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-whats-stopping-democrats-from-backing-voter-id/",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "David C Graham",
+      "party": "Libertarian",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He said taxes, especially the sales tax, should be greatly reduced.",
+          "quote": "All taxes, especially the sales tax, should be greatly reduced.",
+          "sourceUrl": "https://kclyradio.com/blog/general-election-survey-for-candidates-running-for-senator/",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He opposed redirecting police funds to mental-health and community programs, while also saying more police funding does not necessarily increase safety.",
+          "quote": "I do not support de-funding the police. However, i do not believe that giving the police more money necessarily increases public safety.",
+          "sourceUrl": "https://ivoterguide.com/candidate/74609/race/11249/election/987",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He described immigration as needing to be measured and orderly and said illegal immigration must not be tolerated.",
+          "quote": "Immigration should be measured and orderly. Illegal immigration must not be tolerated. Open borders are a national security risk.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=24843003",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He said he would not vote for more national gun laws and opposed limits on lawful gun owners.",
+          "quote": "I pledge that as a United States Senator, I shall never vote for more national gun laws.",
+          "sourceUrl": "https://kclyradio.com/blog/general-election-survey-for-candidates-running-for-senator/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He said abortion should be allowed only when necessary to save the mother's physical life or after the preborn child has died.",
+          "quote": "Abortion should be allowed if imminently necessary to save the physical life of the mother. It also should be allowed if the preborn child has died.",
+          "sourceUrl": "https://ivoterguide.com/candidate/74609/race/11249/election/987",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He opposes government involvement in health care and says free enterprise should operate in the sector.",
+          "quote": "The government should get out of the healthcare business. Free enterprise should be allowed to operate in the healthcare sector.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=24843003",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He agreed that stricter environmental rules can cost jobs and hurt the economy, and supports fracking.",
+          "quote": "A) Stricter environmental laws and regulations cost too many jobs and hurt the economy.",
+          "sourceUrl": "https://ivoterguide.com/candidate/74609/race/11249/election/987",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supports paper ballots and absentee voting for people who need it, but wants to eliminate early voting.",
+          "quote": "I would continue to allow absentee ballots for those who need them, but would eliminate early voting.",
+          "sourceUrl": "https://kclyradio.com/blog/general-election-survey-for-candidates-running-for-senator/",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "christianpost.com · hamiltonforkansas.com · marshall.senate.gov · ivoterguide.com · kclyradio.com · onyourballot.vote411.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
