@@ -1,0 +1,294 @@
+{
+  "office": "U.S. Senate",
+  "district": "MS",
+  "division": "ms/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Scott Colom",
+      "party": "Democrat",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He criticized tariffs, saying they raise costs and hurt farmers and small businesses.",
+          "quote": "She’s given a loud voice to tariffs on tariffs, which have caused costs to go up and betrayed farmers and small businesses.",
+          "sourceUrl": "https://www.wcbi.com/scott-colom-talks-primary-win-and-november-showdown-with-hyde%E2%80%91smith/",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He supports directing federal funding to Mississippi public schools and school programs.",
+          "quote": "We’ve got to get money to our schools. That’s the short of it, and we’ve got to make sure it’s going to the programs that are building on the momentum of the miracle",
+          "sourceUrl": "https://thedmonline.com/colom-seeks-to-become-first-democratic-u-s-senator-in-mississippi-since-1989/",
+          "agreement": "3/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "His campaign describes a combined approach of prosecuting violent crime while promoting jobs and opportunities to prevent crime.",
+          "quote": "Scott has emphasized the importance of preventing crime by making sure criminals know they will be held accountable – and also pushing for more jobs and opportunities, which he knows is the best way to prevent crime.",
+          "sourceUrl": "https://scottcolom.com/",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "He criticized the Supreme Court decision that weakened Voting Rights Act protections.",
+          "quote": "I know the right to vote in this state was won at a cost, and I know Mississippians have never backed down from a fight worth having.",
+          "sourceUrl": "https://scottcolom.com/district-attorney-colom-responds-to-supreme-court-ruling-gutting-the-voting-rights-act/",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "Ty Pinkins",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He proposed cutting taxes for middle-class families while also increasing federal funding for affordable housing.",
+          "quote": "I’ll also work to cut taxes for middle-class families and push for increased federal funding for affordable housing",
+          "sourceUrl": "https://www.typinkins.com/issues-1/housing",
+          "agreement": "6/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "His campaign says it is an active ally of labor unions and workers’ rights.",
+          "quote": "In solidarity with labor movements and unions, the Ty Pinkins for U.S. Senate campaign is dedicated to being a vocal and active ally in the fight against economic inequality and for workers' rights.",
+          "sourceUrl": "https://www.typinkins.com/terms-of-service",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He supports enhancing Social Security and Medicare and opposing benefit reductions.",
+          "quote": "I back the ongoing enhancement of our Social Security and Medicare programs, safeguarding them against any efforts by Republicans to reduce benefits that Mississippians have rightfully earned.",
+          "sourceUrl": "https://www.linkedin.com/posts/ty-pinkins_typinkinsforussenate-mississippiseniors-activity-7219068761415290885-7EmO",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He supports new construction, infill development, and rehabilitation of older homes.",
+          "quote": "Support new construction, infill development, and the rehabilitation of older homes",
+          "sourceUrl": "https://www.typinkins.com/issues-1/housing",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He supports fully funding public schools and expanding services and staffing in them.",
+          "quote": "That starts with fully and fairly funding our schools and supporting the people who make education possible—our teachers, counselors, and staff.",
+          "sourceUrl": "https://www.typinkins.com/issues-1/education",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports rehabilitation and reentry while also calling for responsible police funding.",
+          "quote": "Supporting rehabilitation doesn’t just benefit the individual—it strengthens families, reduces recidivism, and makes communities safer.",
+          "sourceUrl": "https://www.typinkins.com/issues-1/criminal-justice",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports an earned legal-status pathway for long-term, law-abiding immigrants alongside orderly border enforcement.",
+          "quote": "I support an immigration system that is orderly, humane, and economically realistic: modern ports of entry, efficient asylum processing, serious action against trafficking and fentanyl networks, and a long-overdue pathway to earned legal status for long-term, law-abiding contributors.",
+          "sourceUrl": "https://www.mississippifreepress.org/us-senate-candidate-questionnaire-ty-pinkins-independent/",
+          "agreement": "6/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He supports common-sense gun-control measures including red-flag laws and safe-storage requirements while supporting the Second Amendment.",
+          "quote": "With regard to common-sense gun control, I support that.",
+          "sourceUrl": "https://thedmonline.com/prepping-for-primaries-pinkins-goes-independent-for-2026-senate-election/",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports reproductive freedom and opposes politicians interfering in personal health decisions.",
+          "quote": "I believe strongly in a woman’s right to make personal decisions about her health and her future.",
+          "sourceUrl": "https://www.mississippifreepress.org/us-senate-candidate-questionnaire-ty-pinkins-independent/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He favors context-specific, medically informed standards for sports rather than sweeping bans.",
+          "quote": "On sports and other settings where safety and fairness are legitimate concerns, I support thoughtful, standards-based approaches that reflect medical science and the specific context—rather than sweeping bans that create fear and invite discrimination.",
+          "sourceUrl": "https://www.mississippifreepress.org/us-senate-candidate-questionnaire-ty-pinkins-independent/",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports Medicare for All and guaranteeing access to affordable health care for every American.",
+          "quote": "I believe healthcare is a fundamental human right—not a privilege based on your job, your ZIP code, or your luck.",
+          "sourceUrl": "https://www.typinkins.com/issues-1/healthcare",
+          "agreement": "3/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He calls climate change man-made and supports action including climate-smart practices that reduce emissions.",
+          "quote": "For decades, science has made it clear: climate change is real, it’s man-made, and we’re running out of time to act.",
+          "sourceUrl": "https://www.typinkins.com/issues-1/environment",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Cindy Hyde-Smith",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She supports federal tax cuts and says workers should keep more of their earnings.",
+          "quote": "She supports the tax cuts and reforms enacted by President Trump and the Republican-majority Congress.",
+          "sourceUrl": "https://www.hydesmith.senate.gov/jobs-and-economy",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "She voted against a 2021 amendment whose stated purpose was to increase the federal minimum wage.",
+          "quote": "Statement of Purpose: To provide for increases in the Federal minimum wage.",
+          "sourceUrl": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1171/vote_117_1_00074.htm",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "She introduced and cosponsored bills that would increase tariffs on imported shrimp to protect U.S. producers.",
+          "quote": "The Ecuador Shrimp Tariff Act would authorize a multi-phased regimen that increases tariffs on specified shrimp and prepared shrimp products imported from Ecuador",
+          "sourceUrl": "https://www.hydesmith.senate.gov/hyde-smith-introduces-bill-protect-gulf-shrimpers-influx-imported-shrimp-ecuador",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "She introduced legislation requiring the president and Congress to approve a balanced federal budget each year.",
+          "quote": "The Senator has introduced legislation to amend the U.S. Constitution to require the President to submit, and Congress to approve, a balanced budget each year.",
+          "sourceUrl": "https://www.hydesmith.senate.gov/issues/budget",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She urged HUD to increase affordable housing production through mass-timber construction and local zoning decisions.",
+          "quote": "Tackling housing affordability successfully requires producing more housing, which in turn involves a combination of local zoning decisions as well as scaling up the use of non-traditional building materials, especially when it comes to the use of mass timber.",
+          "sourceUrl": "https://www.hydesmith.senate.gov/hyde-smith-encourages-hud-use-more-mass-timber-accelerate-affordable-housing-construction",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "She sponsored resolutions promoting school choice and said they should strengthen families' educational options.",
+          "quote": "With these resolutions, we promote the benefits of school choice and the need to strengthen the options available to families in Mississippi and across the nation.",
+          "sourceUrl": "https://www.hydesmith.senate.gov/wicker-hyde-smith-back-national-school-choice-week-resolutions",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "She says she supports programs and policies that help law enforcement and first responders do their jobs.",
+          "quote": "she will continue to support programs and policies that enable these public servants to do their jobs more effectively.",
+          "sourceUrl": "https://www.hydesmith.senate.gov/law-enforcement-public-safety",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "She supports stronger border security, enforcement of immigration laws and a nationwide E-Verify system.",
+          "quote": "She is a strong proponent of strengthening border security and the enforcement of U.S. immigration laws.",
+          "sourceUrl": "https://www.hydesmith.senate.gov/border-security",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "She says she supports protecting gun rights and opposing federal limits on law-abiding gun owners.",
+          "quote": "The Senator has authored and supported federal legislation defending Second Amendment rights and is committed to supporting efforts that would prevent the federal government from infringing upon those rights.",
+          "sourceUrl": "https://www.hydesmith.senate.gov/second-amendment",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "She supports legislation to protect unborn children and opposes measures that encourage abortion.",
+          "quote": "She is committed to supporting policies and legislation to protect the lives of unborn children.",
+          "sourceUrl": "https://www.hydesmith.senate.gov/pro-life",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "She introduced legislation to block a Title IX rule after arguing that biological males in girls' sports harm women and girls.",
+          "quote": "Women are disproportionately harmed when biological reality is ignored.",
+          "sourceUrl": "https://cindyhydesmith.com/hyde-smith-miller-introduce-bill-to-protect-title-ix/",
+          "agreement": "8/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "She signed a Senate Republican letter urging the administration not to reclassify marijuana.",
+          "quote": "In light of the documented dangers of marijuana, facilitating the growth of the marijuana industry is at odds with growing our economy and encouraging healthy lifestyles for Americans,",
+          "sourceUrl": "https://www.hydesmith.senate.gov/trump-signs-order-loosen-federal-restrictions-marijuana-its-still-illegal",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Her official Senate website supports health-insurance reforms without expanding the government's role in health care.",
+          "quote": "Senator Hyde-Smith supports common-sense, patient-centered health care reforms to help Mississippi families afford health insurance coverage without expanding the government’s role in providing health care.",
+          "sourceUrl": "https://www.hydesmith.senate.gov/health-care",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "She supports domestic energy exploration and production, including biofuels and other energy sources.",
+          "quote": "The Senator supports responsible exploration and production of Mississippi’s and the nation’s energy resources, including the development of new technologies to support the production of biofuels and other energy sources.",
+          "sourceUrl": "https://www.hydesmith.senate.gov/energy-and-environment",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "She opposed federal election legislation that would have limited voter-ID rules and expanded registration and voting access.",
+          "quote": "I am totally against this and will fight it every day. We need to have confidence that our vote counts and that there’s one person for one vote.",
+          "sourceUrl": "https://www.hydesmith.senate.gov/hyde-smith-slams-expansive-democrat-election-reform-scheme",
+          "agreement": "7/10"
+        }
+      }
+    }
+  ],
+  "sources": "wcbi.com · thedmonline.com · scottcolom.com · typinkins.com · linkedin.com · mississippifreepress.org · hydesmith.senate.gov · senate.gov · cindyhydesmith.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

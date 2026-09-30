@@ -1,0 +1,254 @@
+{
+  "office": "U.S. Representative",
+  "district": "MS District 4",
+  "division": "ms/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Carl Boyanton",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "He said his fiscal goal is to return as much money as possible to taxpayers through budget balancing and spending cuts.",
+          "quote": "As a fiscal conservative my goal is to bring as much money back to tax payers as possible.",
+          "sourceUrl": "https://ivoterguide.com/candidate/51745/race/11108/election/1093",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He supports cutting federal spending, zero-based budgeting and a balanced-budget amendment to address the national debt.",
+          "quote": "To fix this, I support zero-based budgeting at the federal level.",
+          "sourceUrl": "https://carl4congress.com/position-on-federal-budget/",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He strongly agreed with expanding school choice through vouchers, tax credits, charter schools, private schools, and home schools.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools.",
+          "sourceUrl": "https://ivoterguide.com/candidate/51745/race/11108/election/1093",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He said he would fund and expand police departments and punish criminals.",
+          "quote": "Fund the police and expand police departments. Punish criminals and not victims.",
+          "sourceUrl": "https://ivoterguide.com/candidate/51745/race/11108/election/1093",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supports stronger border security and deporting as many people who entered illegally as possible, while also supporting legal immigration and migrant workers.",
+          "quote": "We should deport as many illegal entrants as possible, focusing on criminals, recent arrivals, and those who refuse to assimilate.",
+          "sourceUrl": "https://carl4congress.com/position-on-immigration/",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He said no additional gun-ownership restrictions are needed for public safety.",
+          "quote": "None. Politicians want to punish the 99.999 percent of legal gun owners for the deeds of .001 percent.",
+          "sourceUrl": "https://ivoterguide.com/candidate/51745/race/11108/election/1093",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He says abortion should be prohibited with limited exceptions, and supports federal policies to uphold pro-life principles.",
+          "quote": "Abortion is not a form of healthcare or a casual choice—it is the ending of a human life, and as such, it should be prohibited in all but the most exceptional circumstances.",
+          "sourceUrl": "https://carl4congress.com/position-on-life-and-abortion/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He strongly agreed that biological males should not participate in women's sports or occupy women's spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/51745/race/11108/election/1093",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He rejects urgent action on human-caused climate change and identifies oil and nuclear power as reliable sources that should not be eliminated.",
+          "quote": "Oil and Nuclear. We will eventually find other sources but we don't need to eliminate any sources today.",
+          "sourceUrl": "https://ivoterguide.com/candidate/51745/race/11108/election/1093",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supports voter ID and a more stringent voting process.",
+          "quote": "Require voter ID and a more stringent voting process. We need to keep our elections safe and fair.",
+          "sourceUrl": "https://ivoterguide.com/candidate/51745/race/11108/election/889?culture=en-us",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Mike Ezell",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He voted for the One Big Beautiful Bill and said it would make the 2017 tax cuts permanent.",
+          "quote": "It restores common sense to Washington by making the Trump tax cuts permanent, securing our borders, stopping taxpayer abuse, and ensuring American energy powers our economy, not foreign adversaries.",
+          "sourceUrl": "https://ezell.house.gov/news/documentsingle.aspx?DocumentID=1854",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "He said strategic tariffs can protect domestic industries and strengthen supply chains.",
+          "quote": "Strategic tariffs, when used responsibly, help level the playing field, protect domestic industries, and strengthen supply chains vital to our national security.",
+          "sourceUrl": "https://ezell.house.gov/news/documentsingle.aspx?DocumentID=2023",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "He pledged to protect Social Security and Medicare.",
+          "quote": "I will continue working to strengthen our economy, support our military and veterans, protect Social Security and Medicare, and ensure government remains accountable to the American people.",
+          "sourceUrl": "https://ezell.house.gov/news/documentsingle.aspx?DocumentID=2023",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He strongly agreed with expanding school choice through vouchers, tax credits, charter schools, private schools, and home schools.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools.",
+          "sourceUrl": "https://ivoterguide.com/candidate/59784/race/11108/election/1093",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He said he will never support defunding police departments.",
+          "quote": "As a career law enforcement officer, I will never support \"defunding\" the police.",
+          "sourceUrl": "https://ivoterguide.com/candidate/59784/race/11108/election/1093",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He strongly supported doing more to physically secure the southern border.",
+          "quote": "The U.S. should do more to physically secure the southern border.",
+          "sourceUrl": "https://ivoterguide.com/candidate/59784/race/11108/election/1093",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He said law-abiding Americans should be able to own any firearms they desire.",
+          "quote": "The Constitution is clear that law-abiding Americans should be able to own whatever firearms they desire.",
+          "sourceUrl": "https://ivoterguide.com/candidate/59784/race/11108/election/1093",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He said he believes in the right to life of the unborn and would oppose taxpayer-funded abortions.",
+          "quote": "While overturning Roe v. Wade was an important win for the pro-life cause, Mike knows that the fight is not over.",
+          "sourceUrl": "https://www.mikeezell.ms/issues/protect-our-unborn-children",
+          "agreement": "3/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He strongly agreed that biological males should not participate in women's sports or use women's spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/59784/race/11108/election/1093",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He said he would lower fuel and other prices by increasing domestic energy production.",
+          "quote": "He'll fight to lower the prices of gas, groceries, and fertilizer by increasing domestic energy production and bringing critical supply chain jobs back to America from China.",
+          "sourceUrl": "https://www.mikeezell.ms/issues/put-america-mississippi-first",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He voiced support for the SAVE America Act and said voter ID requirements are important to elections.",
+          "quote": "I don’t know, I hope we can get that moved out, it’s very important to our elections.",
+          "sourceUrl": "https://www.mikeezell.ms/rep-ezell-save-act-very-important-to-our-elections",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Jeffrey Hulum III",
+      "party": "Democrat",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He called Mississippi’s $7.25 minimum wage unlivable and called for raising it to $15 or more.",
+          "quote": "Hulum said the minimum wage in Mississippi of $7.25 is not a livable wage and called for raising it to $15 or more.",
+          "sourceUrl": "https://www.wlox.com/2026/09/27/hulum-outlines-priorities-bid-mississippis-4th-congressional-district/",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "His campaign supports strong public schools and investing taxpayer dollars in children’s education.",
+          "quote": "Every child deserves a quality education, no matter their ZIP code. Strong schools build strong communities — investing tax payer dollars in our children is the best investment we can make in our future.",
+          "sourceUrl": "https://www.jeffreyhulumiiiforcongress.com/issues",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "His campaign says public safety should go together with fairness, accountability, and rehabilitation.",
+          "quote": "Our justice system should keep communities safe while ensuring fairness, accountability, and rehabilitation.",
+          "sourceUrl": "https://www.jeffreyhulumiiiforcongress.com/issues",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "He said access to healthcare should not depend on a person’s job title and described healthcare as a basic necessity.",
+          "quote": "It should not be about our job title. We’re Americans. We pay taxes.",
+          "sourceUrl": "https://www.wlox.com/2026/02/08/state-rep-hulum-emphasizes-veterans-care-healthcare-congressional-bid/",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "His campaign says every Mississippi citizen should have the right and access to participate in the democratic process.",
+          "quote": "Every citizen of Mississippi deserves the right and access to participate in the democratic process.",
+          "sourceUrl": "https://www.jeffreyhulumiiiforcongress.com/issues",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "ivoterguide.com · carl4congress.com · ezell.house.gov · mikeezell.ms · wlox.com · jeffreyhulumiiiforcongress.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
