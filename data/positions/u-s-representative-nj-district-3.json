@@ -1,0 +1,364 @@
+{
+  "office": "U.S. Representative",
+  "district": "NJ District 3",
+  "division": "nj/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "HERB CONAWAY",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "He says he would reduce the tax burden on middle-class families and supports expanding the SALT deduction.",
+          "quote": "who fights hard to lessen the tax burden on middle-class families, protect small businesses, and bring more job opportunities to NJ-03.",
+          "sourceUrl": "https://www.herbforcongress.com/issues",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "He cosponsored the Raise the Wage Act of 2025, which would increase the federal minimum wage.",
+          "quote": "James P. McGovern (MA); Sydney Kamlager-Dove (CA); Al Green (TX); Jonathan L. Jackson (IL); Joe Courtney (CT); Herbert C. Conaway, Jr. (NJ); Doris O. Matsui (CA); LaMonica McIver (NJ); Andrea Salinas (OR); Andre Carson (IN)",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr2743ih",
+          "agreement": "3/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He criticized tariffs as a tax that raises consumer costs.",
+          "quote": "He has talked about tariffs, he’s imposed them, and a tariff is nothing but a tax on the American people.",
+          "sourceUrl": "https://newjerseyglobe.com/congress/an-interview-with-herb-conaway/",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He sponsored legislation allowing hospitals to develop housing for people who are homeless or housing insecure, including with zoning exemptions.",
+          "quote": "deemed a permitted use in all residential and nonresidential districts of a municipality and shall be exempt from local zoning restrictions",
+          "sourceUrl": "https://pub.njleg.gov/Bills/2020/A3500/3326_R1.HTM",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "As a state assemblyman, he sponsored New Jersey’s school funding formula and supported district accountability and public school standards.",
+          "quote": "sponsored New Jersey’s school funding formula; increased fiscal accountability within school districts; added technology to core curriculum standards; and modernized nutritional standards in public schools.",
+          "sourceUrl": "https://www.herbforcongress.com/about",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "He opposed additional ICE and DHS funding until agents are subject to stronger oversight and due-process protections.",
+          "quote": "I will also continue to oppose additional ICE and DHS funding until they rein in their agents and recommit to our nation’s longstanding principles of due process and humane treatment.",
+          "sourceUrl": "https://conaway.house.gov/media/press-releases/congressman-herb-conaway-jr-md-statement-visiting-delaney-hall-protests",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "He has supported federal background-check legislation and safe-storage requirements for firearms.",
+          "quote": "Since being elected to Congress, he has continued that work by supporting legislation such as the Bipartisan Background Checks Act of 2025 and Ethan’s Law",
+          "sourceUrl": "https://giffords.org/candidates/herb-conaway-2/",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports codifying Roe v. Wade into federal law and protecting abortion access.",
+          "quote": "It is of the utmost importance that we codify Roe v. Wade into national law so that we can protect the women of this country and their right to choose.",
+          "sourceUrl": "https://www.herbforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "He supports environmental research and expanding electric-vehicle charging infrastructure in his district.",
+          "quote": "This includes funding research aimed at maintaining sustainable environmental practices and supporting legislation to expand access to electric vehicle charging infrastructure in our district.",
+          "sourceUrl": "https://www.herbforcongress.com/issues",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He supports the John Lewis Voting Rights Act and has sponsored state bills to improve ballot counting and increase participation.",
+          "quote": "In Congress, I enthusiastically support its passage. In the Assembly, I sponsored bills that improve the ballot counting process and have fought to establish a Voting Improvement Task Force.",
+          "sourceUrl": "https://www.herbforcongress.com/issues",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "MICHAEL P. MCGUIRE",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He says he would lower the tax burden on middle- and working-class families.",
+          "quote": "It means lowering the tax burden on middle- and working-class families so they can keep more of their earnings.",
+          "sourceUrl": "https://michaelmcguireforcongress.com/issues/",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He strongly agreed that the government should cut spending to reduce the national debt.",
+          "quote": "The government should cut spending in order to reduce the national debt.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92248/race/27210/election/1411",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He supports providing local law enforcement with resources, training, and equipment.",
+          "quote": "On public safety, we must support our local law enforcement with resources, training, and equipment while securing our borders to halt the flow of fentanyl.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198480",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports strong border enforcement alongside expanded lawful work visas and a streamlined legal pathway for qualified immigrants.",
+          "quote": "A secure nation requires both strong borders and a modern, functional legal immigration system.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198480",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "He describes the Second Amendment as fundamental and emphasizes protecting law-abiding gun owners’ rights.",
+          "quote": "The Second Amendment is a fundamental right. We should enforce laws against criminals while protecting the rights of law-abiding citizens to defend themselves and their families.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92248/race/27210/election/1411",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He supports legal protections for unborn life, with exceptions for rape, incest, and the life of the mother.",
+          "quote": "I support common-sense protections for unborn life with standard exceptions for rape, incest, and to save the life of the mother.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198480",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He strongly agreed that biological males should not participate in women's sports or occupy women's spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92248/race/27210/election/1411",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He proposes expanding insurance competition by allowing plans to be purchased across state lines and expanding health savings accounts.",
+          "quote": "Expanding Competition: Allowing health insurance plans to be purchased across state lines and expanding Health Savings Accounts (HSAs) for everyday families.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198480",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He supports restoring American energy independence to lower gas and grocery prices.",
+          "quote": "To tackle inflation, we must rein in reckless federal spending, audit government programs for waste, and restore American energy independence to lower gas and grocery prices.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198480",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supports photo ID and proof-of-citizenship requirements for federal elections, as well as other election safeguards.",
+          "quote": "I support: Mandatory Photo ID: Requiring a valid government-issued photo ID for federal elections, a common-sense measure supported by the vast majority of Americans. Proof of Citizenship: Ensuring only American citizens participate in federal elections.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198480",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "RYAN MICHAEL KELLY",
+      "party": "AFFORDABILITY, ACCOUNTABILITY, PEOPLE",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Kelly supports a living wage, stronger protections for organizing and collective bargaining, and policies modeled on the PRO Act.",
+          "quote": "I oppose so-called Right to Work laws and support stronger federal protections for organizing, a living wage, universal paid parental leave, and policies modeled on the PRO Act.",
+          "sourceUrl": "https://www.kellyfornj03.com/en/issues",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Kelly says the country needs substantially more affordable housing, with infrastructure and planning for new development.",
+          "quote": "We need substantially more affordable housing, including public and social housing, while making sure new development is supported by appropriate infrastructure and thoughtful planning.",
+          "sourceUrl": "https://www.kellyfornj03.com/en/issues",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "Kelly supports shifting resources toward prevention, treatment, social services, and community intervention while focusing law enforcement on serious threats and violent crime.",
+          "quote": "I support shifting resources toward social workers, mental-health professionals, violence prevention, treatment, and community services while focusing law enforcement resources on serious threats and violent crime.",
+          "sourceUrl": "https://www.kellyfornj03.com/en/issues",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Kelly supports protecting asylum, refugee, and TPS programs and creating paths to legal status and citizenship; he also supports abolishing ICE.",
+          "quote": "I support protecting asylum, refugee and TPS programs and providing workable paths to legal status and citizenship.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198480",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports expanded background checks and other gun-safety measures while opposing a broad ban on commonly owned firearms and an assault-weapons-ban reinstatement.",
+          "quote": "I also support expanded background checks, secure firearm storage, community-based violence prevention, suicide prevention, and Extreme Risk Protection Orders with strong due-process protections.",
+          "sourceUrl": "https://www.kellyfornj03.com/en/issues",
+          "agreement": "5/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Kelly supports federal protections for reproductive healthcare and says abortion decisions belong primarily to patients and their providers.",
+          "quote": "I support reproductive freedom and believe decisions about abortion, contraception, fertility care, pregnancy, and other reproductive healthcare belong primarily to patients in consultation with their healthcare providers—not politicians.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198480",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He says sports and sex-separated-space policies require case-specific consideration rather than one blanket rule.",
+          "quote": "I do not believe one blanket rule appropriately addresses every situation.",
+          "sourceUrl": "https://ivoterguide.com/candidate/94800/race/33266/election/1478",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Kelly supports universal single-payer healthcare covering medical, prescription, mental-health, and preventive care.",
+          "quote": "I support a universal single-payer healthcare system that includes medical, prescription, mental health, and preventive care.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198480",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Kelly supports accelerating clean energy while protecting consumers and workers during the transition.",
+          "quote": "I also support accelerating clean energy while protecting consumers and workers during the transition.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198480",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Kelly supports accessible registration and voting, including early and mail voting, and opposes discriminatory barriers.",
+          "quote": "I support strong voting-rights protections, accessible registration and voting, early and mail voting, adequate polling locations, language and disability access, and reliable paper records and election audits.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198480",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "STEVEN WELZER",
+      "party": "Green Party",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Welzer proposes reducing taxes for below-median-income households while also advocating strongly progressive taxation and higher estate taxes.",
+          "quote": "Reduce taxes on incomes below the real median income of $75,000 per household.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198480",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports a living wage and expanding workers’ right to unionize.",
+          "quote": "we need an Economic Bill of Rights establishing the rights to a living-wage job, housing, healthcare, and a secure retirement.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198480",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He proposes strengthening Social Security and applying its payroll tax to all income, including capital gains and dividends.",
+          "quote": "Strengthen Social Security; remove the artificial cap on the Social Security tax for the wealthy, and apply the Social Security payroll tax to all income, including capital gains and dividends.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198480",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He proposes public investment to make a large share of housing high-quality and income-based.",
+          "quote": "Implement public housing investment with a goal to make 60% of the market high-quality, income-based units (i.e., social housing).",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198480",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He says education should be a priority, with adequate resources and more equal school funding.",
+          "quote": "We must stop disinvestment in education and instead put it at the top of our social and economic agenda.",
+          "sourceUrl": "https://snapcoalition.org/initiatives/stance-on-science/candidates/nj/steven-welzer",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports a timely, dignified path to citizenship and non-custodial processing for immigrants, asylum seekers, and refugees.",
+          "quote": "We need properly funded institutions to ensure a timely, ethical, transparent, and dignified path to citizenship for immigrants, asylum seekers, and refugees.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198480",
+          "agreement": "6/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "In a 2016 campaign, he supported banning semi-automatic weapons and background checks.",
+          "quote": "Wants to ban semi-automatic weapons, and supports background checks.",
+          "sourceUrl": "https://whyy.org/articles/2016-new-jersey-voter-guide/",
+          "agreement": "3/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, he strongly agreed that marijuana should be legalized and regulated.",
+          "quote": "Marijuana should be legalized and regulated like tobacco and alcohol.",
+          "sourceUrl": "https://ivoterguide.com/candidate/23245/race/2138/election/495",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports a universal single-payer health system, including coverage for mental and preventive care.",
+          "quote": "Under a universal, comprehensive, single-payer system, the administrative waste of private insurance corporations would be redirected to patient care.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198480",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "herbforcongress.com · govinfo.gov · newjerseyglobe.com · pub.njleg.gov · conaway.house.gov · giffords.org · michaelmcguireforcongress.com · ivoterguide.com · onyourballot.vote411.org · kellyfornj03.com · snapcoalition.org · whyy.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

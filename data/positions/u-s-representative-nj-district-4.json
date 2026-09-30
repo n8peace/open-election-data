@@ -1,0 +1,192 @@
+{
+  "office": "U.S. Representative",
+  "district": "NJ District 4",
+  "division": "nj/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "CHRISTOPHER H. SMITH",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Smith voted for the 2025 One Big Beautiful Bill and cited its tax cuts as a benefit.",
+          "quote": "Today, I voted for and the House passed legislation to secure our economy, the border, and the future for all American families. President Trump’s One Big Beautiful Bill provides the largest tax cut in American history",
+          "sourceUrl": "https://chrissmith.house.gov/news/documentsingle.aspx?DocumentID=414832",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Smith supported legislation to raise the federal minimum wage and praised its proposed increase.",
+          "quote": "This is a well-deserved and long-overdue raise for the millions of American workers who are now earning the current minimum wage",
+          "sourceUrl": "https://chrissmith.house.gov/news/documentsingle.aspx?DocumentID=55617",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "He endorsed President Trump's tariffs as a way to seek trade reciprocity and reindustrialize the United States.",
+          "quote": "President Trump deserves special thanks for demanding fairness and reciprocity in international trade",
+          "sourceUrl": "https://chrissmith.house.gov/news/documentsingle.aspx?DocumentID=413615",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Smith sponsored education tax credit legislation and backed scholarships for families choosing among public and private schools.",
+          "quote": "Children should have the opportunity to attend the school system that is most conducive to developing their abilities, and parents should have a free and fair choice to send their child to the school that best meets their needs.",
+          "sourceUrl": "https://chrissmith.house.gov/news/documentsingle.aspx?DocumentID=413612",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Smith secured federal funding for police staffing and patrol vehicles in Manchester Township.",
+          "quote": "This federal support will enable the Manchester Police Department to continue delivering critical emergency and law enforcement services to a geographically large municipality",
+          "sourceUrl": "https://chrissmith.house.gov/news/documentsingle.aspx?DocumentID=411971",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Smith supported border legislation that expanded enforcement and required additional vetting of people entering the country.",
+          "quote": "This comprehensive legislation will put an end to the ongoing catastrophe at our border and make sure that all those traveling to the country are properly vetted and processed",
+          "sourceUrl": "https://chrissmith.house.gov/news/documentsingle.aspx?DocumentID=412118",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He voted for the 2019 universal-background-check bill and endorsed its expansion of Brady background checks to private sales.",
+          "quote": "Universal background checks prescribed in H.R. 8 are an attempt to ensure that firearms are procured, owned and used by responsible, law abiding citizens.",
+          "sourceUrl": "https://chrissmith.house.gov/news/documentsingle.aspx?DocumentID=401750",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Smith introduced legislation to prohibit federal taxpayer funding for abortion.",
+          "quote": "The American people strongly oppose taxpayer funding for abortion",
+          "sourceUrl": "https://chrissmith.house.gov/news/documentsingle.aspx?DocumentID=397841",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Smith supported legislation restricting participation in girls’ and women’s sports based on biological sex.",
+          "quote": "The Protection of Women and Girls in Sports Act will help ensure that female athletes who play their sport competitively are safeguarded from radical ideologies seeking to redefine gender and allow biological men on women’s teams",
+          "sourceUrl": "https://chrissmith.house.gov/news/documentsingle.aspx?DocumentID=411392",
+          "agreement": "9/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "He voted against the MORE Act, which would decriminalize and deschedule cannabis federally.",
+          "quote": "Vote Question: On Passage\n\nMORE Act\n\nVote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Smith advocated reforming private insurance and replacing the Affordable Care Act with a system emphasizing individual choice.",
+          "quote": "Current private health insurance should be reformed to put patients first and to eliminate denials of pre-existing conditions and lifetime caps.",
+          "sourceUrl": "https://chrissmith.house.gov/news/documentsingle.aspx?DocumentID=190782",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He urged cancellation of offshore-wind projects, describing them as prohibitively expensive and harmful to other interests.",
+          "quote": "these offshore wind energy projects have proven to be prohibitively expensive, a real threat to radar, national security, the environment, and our fishing industry.",
+          "sourceUrl": "https://chrissmith.house.gov/news/documentsingle.aspx?DocumentID=413509",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Smith supported requiring proof of citizenship to register for federal elections and said he supports voter identification laws.",
+          "quote": "As a member of the House Election Integrity Caucus, I am committed to protecting voter identification laws across the country and safeguarding the right to vote that so many brave men and women in uniform have courageously fought—and died—to defend",
+          "sourceUrl": "https://chrissmith.house.gov/news/documentsingle.aspx?DocumentID=413281",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "RACHEL PEACE",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Her campaign says taxes should fund education, child care, and medical visits.",
+          "quote": "You want your taxes to cover: a quality education for your kids (from pre-k to college), daycare & aftercare while you work, doctors visits when your family’s sick.",
+          "sourceUrl": "https://www.peace4shore.com/about",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She said she would advocate for living wages adjusted for inflation and local costs.",
+          "quote": "I’ll advocate for living wages for everyone, adjusting for inflation and geographic realities.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=68198481",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She proposed a worker visa and job portal to let immigrants register for work independently of an employer.",
+          "quote": "Meaningful reform should include the creation of a “missing middle” visa and job portal.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=68198481",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She supports broad access to reproductive care and says legislators should not interfere in medical decisions.",
+          "quote": "I support full spectrum reproductive care, including proactive preventive medically accurate education, contraception, IVF, prenatal care, elective and medically necessary D&Cs, doula and postpartum care",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=68198481",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports moving toward universal coverage and says everyone should be able to see a doctor when sick.",
+          "quote": "Our campaign is grounded in the premise that everyone should be able to see the doctor when they are sick.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=68198481",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "She called for expanding clean energy and reducing pollution, alongside investment in coastal resilience.",
+          "quote": "Additionally, we must expand clean energy and promote transit-oriented development to reduce pollution and congestion.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=68198481",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "chrissmith.house.gov · clerk.house.gov · peace4shore.com · onyourballot.vote411.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

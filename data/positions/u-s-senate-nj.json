@@ -1,0 +1,380 @@
+{
+  "office": "U.S. Senate",
+  "district": "NJ",
+  "division": "nj/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "CORY BOOKER",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He proposed making the first $75,000 of household income tax-free while requiring the wealthiest people and large corporations to pay more.",
+          "quote": "cuts taxes for working Americans and unrigs America’s tax system by requiring the wealthiest few and big corporations to finally pay their fair share",
+          "sourceUrl": "https://www.booker.senate.gov/news/press/booker-announces-keep-your-pay-act",
+          "agreement": "7/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He co-sponsored the PRO Act to strengthen workers’ rights to organize and bargain, and the Raise the Wage Act to increase the federal minimum wage.",
+          "quote": "protect the rights of workers to come together and bargain for higher wages, better benefits, and safer workplaces",
+          "sourceUrl": "https://www.booker.senate.gov/news/press/booker-menendez-announce-the-introduction-of-the-richard-l-trumka-pro-act-of-2023-to-protect-workers-right-to-organize",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He joined a request to ensure removing tariffs on grocery imports lowers consumer prices.",
+          "quote": "It was a necessary but late step to remove these tariffs.",
+          "sourceUrl": "https://www.booker.senate.gov/news/press/-booker-gallego-whitehouse-push-administration-to-ensure-tariff-exemptions-actually-result-in-lowering-grocery-costs/",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He publicly criticized efforts he said could strip Social Security benefits and dismantle the program.",
+          "quote": "efforts to lay off thousands of Social Security employees, strip benefits from millions of Americans, and dismantle a critical program that has served Americans for nearly a century",
+          "sourceUrl": "https://www.booker.senate.gov/news/videos/watch/calling-out-trump-and-musk-efforts-to-slash-social-security_cory-bookers-long-senate-speech",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He introduced legislation to expand affordable housing near transit hubs and increase housing supply.",
+          "quote": "This bipartisan legislation will help communities build more homes and make meaningful reforms to ensure fairness in the home appraisal process.",
+          "sourceUrl": "https://www.booker.senate.gov/news/press/booker-statement-on-senate-passage-of-bipartisan-housing-affordability-legislation",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "He introduced legislation to fund community-based violence intervention and prevention programs.",
+          "quote": "Community violence should no longer be a problem for law enforcement to react to after it has occurred. We must invest in community-based violence intervention and prevention initiatives that stop this violence from happening in the first place.",
+          "sourceUrl": "https://www.booker.senate.gov/news/press/booker-introduces-critical-legislation-to-fund-community-violence-intervention",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He called for a pathway to citizenship for Dreamers, farmworkers, and other longtime residents as part of comprehensive immigration reform.",
+          "quote": "We need common sense solutions, such as a pathway to citizenship for Dreamers, farmworkers, and other longtime residents",
+          "sourceUrl": "https://www.booker.senate.gov/news/press/booker-statement-on-bipartisan-security-supplemental-deal",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He has supported universal background checks and introduced legislation requiring a federal license to purchase or receive a firearm.",
+          "quote": "We should be doing much more, including closing the gun show loophole, implementing universal background checks, and limiting high-capacity magazines.",
+          "sourceUrl": "https://www.booker.senate.gov/news/press/booker-menendez-join-senators-in-introducing-common-sense-gun-laws",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He condemned the Supreme Court decision overturning Roe v. Wade and called for efforts to protect abortion rights.",
+          "quote": "It is now up to us to deliver on efforts to protect Americans' most basic and fundamental rights.",
+          "sourceUrl": "https://www.booker.senate.gov/news/press/booker-statement-on-supreme-court-decision-overturning-roe-v-wade",
+          "agreement": "7/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "He joined in introducing the Equality Act and said federal law should bar discrimination based on gender identity.",
+          "quote": "Congress must act to ensure that no person is discriminated against based on their gender identity or who they love.",
+          "sourceUrl": "https://www.booker.senate.gov/news/press/booker-menendez-introduce-anti-discrimination-bill-hailed-by-new-jersey-lgbtq-groups-as-urgently-needed",
+          "agreement": "5/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "He co-led legislation to end federal cannabis prohibition and establish a regulatory framework.",
+          "quote": "the Cannabis Administration and Opportunity Act would finally dismantle the outdated federal marijuana prohibition, expunge past convictions for people with low-level cannabis offenses, and ensure restorative justice",
+          "sourceUrl": "https://www.booker.senate.gov/news/press/booker-schumer-wyden-lead-reintroduction-of-cannabis-administration-and-opportunity-act-legislation-to-end-federal-prohibition-of-cannabis",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He joined colleagues in introducing Medicare for All legislation to guarantee health care to every American.",
+          "quote": "a bill to guarantee health care to every American as a right, not a privilege",
+          "sourceUrl": "https://www.booker.senate.gov/news/press/booker-joins-colleagues-in-introducing-medicare-for-all",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He supported the Inflation Reduction Act’s clean-energy investments and emissions-reduction goals.",
+          "quote": "moving our country toward cleaner energy production and reducing carbon emissions by roughly 40% within the decade",
+          "sourceUrl": "https://www.booker.senate.gov/news/press/booker-statement-on-senate-passage-of-inflation-reduction-act",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He called for expanding vote by mail and adopting automatic and same-day voter registration.",
+          "quote": "We should pass the John R. Lewis Voting Rights Advancement Act, expand vote by mail, institute automatic and same-day registration",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72197695",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "JUSTIN MURPHY",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He supports reducing taxes on families and businesses and replacing the tax code with a flat tax.",
+          "quote": "We need as Republicans to reduce the tax burden on our families and businesses.",
+          "sourceUrl": "https://www.pbs.org/video/nj-spotlight-news-june-11-2026-1781198095/",
+          "agreement": "5/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "He proposes tariffs on goods made in China in response to intellectual property theft and economic harm.",
+          "quote": "Policies: Tariff goods manufactured in China to compensate for the intellectual property theft and the damage the corona-virus caused to America’s economy;",
+          "sourceUrl": "https://jerseyjustin4senate.org/issue-china/",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He says housing supply should expand and proposes urban homesteading to facilitate homeownership.",
+          "quote": "So the supply needs to expand. We should be homesteading urban areas and facilitating home ownership policy through homesteading.",
+          "sourceUrl": "https://www.pbs.org/video/nj-spotlight-news-june-11-2026-1781198095/",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He supports school choice and proposes using federal education funds for local public schools and voucher programs.",
+          "quote": "I believe in school choice for parents and competition between all schools as a way to strengthen our education system.",
+          "sourceUrl": "https://jerseyjustin4senate.org/",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "He proposes federal charges when state or local prosecutors fail to enforce criminal codes.",
+          "quote": "bring federal charges against criminals when state and local prosecutors fail to enforce criminal codes.",
+          "sourceUrl": "https://jerseyjustin4senate.org/",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supports border enforcement and withholding federal aid from jurisdictions that declare themselves sanctuaries for undocumented immigrants.",
+          "quote": "I believe in withholding federal aid to cities and states that declare themselves ‘sanctuary for illegal aliens’.",
+          "sourceUrl": "https://jerseyjustin4senate.org/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He supports Constitutional Carry and opposes government efforts to restrict gun rights.",
+          "quote": "I will oppose any attempt by the government that threatens to take away our Constitutional right to bear arms and protect ourselves, our families, and our property. I will oppose all attempts to suppress 2A rights whether from domestic or international bodies. I support Constitutional Carry.",
+          "sourceUrl": "https://jerseyjustin4senate.org/",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He says he is pro-life, supports exceptions for the life of the mother and rape or incest, and opposes taxpayer funding for abortion.",
+          "quote": "I am pro-life; I believe life begins at conception, and there is inherent value in each individual life. My exceptions are the life of the mother, and the rape/incest exceptions.",
+          "sourceUrl": "https://jerseyjustin4senate.org/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He opposes biological males participating in women’s sports and occupying women’s spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/80916/race/6803/election/1112",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He opposes government-run health care and supports a national market where people can buy insurance from any insurer.",
+          "quote": "Promotes Competition – allow all Americans to purchase health insurance from any insurance company in the country, creating a national insurance market.",
+          "sourceUrl": "https://jerseyjustin4senate.org/",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supports expanding domestic energy production, citing energy costs and jobs in the industry.",
+          "quote": "Energy policy affects the cost of our mobility and freedom of movement as reflected in gasoline prices; it affects the economic security for millions of Americans that are employed throughout the energy industry;",
+          "sourceUrl": "https://jerseyjustin4senate.org/issue-energy/",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He disagrees that people should be able to vote without photo identification and says he supports voter ID.",
+          "quote": "People should be able to vote without photo identification. Strongly Disagree I support voter ID/",
+          "sourceUrl": "https://ivoterguide.com/candidate/80916/race/6803/election/1112",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "VERONICA FERNANDEZ",
+      "party": "END THE CORRUPTION!",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She says Medicare for All would expand coverage while lowering taxes and reducing insurance costs in property taxes.",
+          "quote": "We all hear M4A will raise taxes but that is not true. Taxes will go DOWN! Right now our local property taxes are loaded with billions in ins premiums that go to a handful of companies who provide NO medical products or services.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72197695",
+          "agreement": "6/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "A 2020 voter guide listed Fernandez as supporting a $15 minimum wage.",
+          "quote": "Supports Medicare for All • Supports $15 minimum wage • Supports Green New Deal",
+          "sourceUrl": "https://kace.org/wp-content/uploads/2020/10/2020-NY-NJ-Voter.pdf",
+          "agreement": "3/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She said Social Security should be funded as a priority and protected from cuts.",
+          "quote": "I would make sure it is funded as a priority and pass legislation it is not to be touched.",
+          "sourceUrl": "https://ivoterguide.com/candidate/55672/race/6803/election/786?culture=en-us",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "She agreed that taxpayer-funded public education should be guaranteed through college.",
+          "quote": "Taxpayer-funded public education should be guaranteed through college. Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/55672/race/6803/election/786?culture=en-us",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Her campaign calls for abolishing ICE and replacing it with a fast-tracked path to citizenship.",
+          "quote": "ABOLISH immediately and replace with a vigorous and fast-tracked path to citizenship.",
+          "sourceUrl": "https://veronicaforsenate.com/policies",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She called for reinstating the assault weapons ban and requiring gun buyers to meet safety qualifications, including background checks.",
+          "quote": "Re-instate the ban on assault weapons. Gun violence is out of control and has been for too long",
+          "sourceUrl": "https://ivoterguide.com/candidate/55672/race/6803/election/786?culture=en-us",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She said she has always supported abortion rights and called abortion health care.",
+          "quote": "I have been and always will be Pro Choice. Abortion is Healthcare. Full stop!",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72197695",
+          "agreement": "10/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "She strongly agreed with legalizing recreational marijuana.",
+          "quote": "I support the legalization of recreational marijuana. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/55672/race/6803/election/786?culture=en-us",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports Medicare for All as a way to expand coverage and reduce health care costs.",
+          "quote": "As a former licensed underwriter (including Health) in our state, I can assure you that nothing would bring down the cost of living AND improve the quality of our lives more than the implementation of Medicare for All.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72197695",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She supports rejoining the Paris Climate Agreement and moving away from fossil-fuel dependence.",
+          "quote": "We need to rejoin the Paris Climate Agreement and not leave the UNFCC.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72197695",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Her campaign supports opening primaries to all registered voters without requiring a party declaration.",
+          "quote": "I will work with anyone to open our primaries for ALL registered voters without having to declare a party.",
+          "sourceUrl": "https://veronicaforsenate.com/policies",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "JOANNE KUNIANSKY",
+      "party": "SOCIALIST WORKERS PARTY",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supports building unions and a public works program that pays workers union-scale wages.",
+          "quote": "The Socialist Workers Party calls on workers to build solidarity with unions fighting attacks on our wages and conditions",
+          "sourceUrl": "https://whyy.org/articles/election-2026-new-jersey-senate-voter-guide-booker/",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She called for automatic cost-of-living increases to Social Security benefits.",
+          "quote": "we demand automatic cost-of-living increases in union contracts, pensions, and social security.",
+          "sourceUrl": "https://whyy.org/articles/election-2026-new-jersey-senate-voter-guide-booker/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She called for amnesty for workers in the United States without papers.",
+          "quote": "calling for an amnesty for workers in the U.S. without papers.",
+          "sourceUrl": "https://whyy.org/articles/election-2026-new-jersey-senate-voter-guide-booker/",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She called for women’s access to family planning, including safe abortion.",
+          "quote": "Along that road working people need to fight for the right of women to family planning, including safe and secure birth control and abortion, essential for winning women’s emancipation.",
+          "sourceUrl": "https://www.nj.gov/state/elections/assets/pdf/election-results/2021/2021-gubernatorial-candidate-statements-english.pdf",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "booker.senate.gov · onyourballot.vote411.org · pbs.org · jerseyjustin4senate.org · ivoterguide.com · kace.org · veronicaforsenate.com · whyy.org · nj.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

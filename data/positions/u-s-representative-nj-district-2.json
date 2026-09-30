@@ -1,0 +1,206 @@
+{
+  "office": "U.S. Representative",
+  "district": "NJ District 2",
+  "division": "nj/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "JEFF VAN DREW",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He opposed proposed New Jersey tax increases and called for more responsible spending instead.",
+          "quote": "Higher taxes are not the solution. New Jersey is already generating record revenue, yet the state government continues to overspend.",
+          "sourceUrl": "https://vandrew.house.gov/news/documentsingle.aspx?DocumentID=1777",
+          "agreement": "5/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "He said the United States should expand rather than eliminate tariffs on Chinese goods.",
+          "quote": "The Biden Administration should be expanding tariffs on Chinese goods, not eliminating them.",
+          "sourceUrl": "https://vandrew.house.gov/news/documentsingle.aspx?DocumentID=441",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He said he would not support cuts to Medicare, Social Security, or Medicaid for eligible beneficiaries.",
+          "quote": "These programs are lifelines for our seniors, individuals with disabilities, and working families, and I will never support cuts to them.",
+          "sourceUrl": "https://vandrew.house.gov/news/documentsingle.aspx?DocumentID=1824",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Called for local police to coordinate with ICE, DHS, and federal law enforcement to maintain order.",
+          "quote": "Local police must keep working with ICE, DHS, and federal law enforcement to maintain order.",
+          "sourceUrl": "https://vandrew.house.gov/news/documentsingle.aspx?DocumentID=2042",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He called for passage of the Secure the Border Act, which includes more border agents, tighter asylum standards, and ending catch and release.",
+          "quote": "I will continue to call out the lack of action by Democrat leaders and fight to protect our citizens by returning to a nation of law and order.",
+          "sourceUrl": "https://vandrew.house.gov/news/documentsingle.aspx?DocumentID=639",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He opposed New Jersey gun-control proposals, saying they would punish legal gun owners.",
+          "quote": "This is not common-sense gun legislation, this is legislation that will make it tougher for law-abiding New Jerseyans to purchase a gun and will not stop criminals from committing gun violence.",
+          "sourceUrl": "https://vandrew.house.gov/news/documentsingle.aspx?DocumentID=402",
+          "agreement": "4/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He praised the Supreme Court’s decision overturning Roe v. Wade and said abortion laws should be made by the states.",
+          "quote": "The Supreme Court made the right decision to return this issue to the states so they can create their own laws regarding abortion.",
+          "sourceUrl": "https://vandrew.house.gov/news/documentsingle.aspx?DocumentID=443",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He introduced legislation opposing New Jersey school guidance allowing facility use according to gender identity.",
+          "quote": "we should not be compromising the safety of our young children by allowing restrooms and changing rooms be available to any child regardless of their actual gender.",
+          "sourceUrl": "https://vandrew.house.gov/news/documentsingle.aspx?DocumentID=427",
+          "agreement": "6/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "He voted against the MORE Act, which would have federally legalized and regulated marijuana.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2020235",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He opposed offshore-wind projects, citing higher utility rates and costs to taxpayers.",
+          "quote": "I have been fighting against these projects for years because we knew from the start they would be a financial disaster for our state.",
+          "sourceUrl": "https://vandrew.house.gov/news/documentsingle.aspx?DocumentID=1839",
+          "agreement": "6/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He voted for the Safeguard American Voter Eligibility Act, which would require proof of citizenship to register for federal elections.",
+          "quote": "Safeguard American Voter Eligibility Act Vote Type: Recorded Vote Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2024345",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "ZACK MULLOCK",
+      "party": "Democratic",
+      "stances": {
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports a compassionate process centered on a path to citizenship rather than detention centers.",
+          "quote": "One that prioritizes a clear path to citizenship over detention centers.",
+          "sourceUrl": "https://aapinewjersey.org/resources/voting-in-new-jersey/candidate-questionnaire-for-midterm-elections-2026/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "RAMON MORA JR.",
+      "party": "INDEPENDENT",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He proposes no income tax for people earning under $40,000 and says some programs would be funded by cutting military spending and increasing taxes on wealthy people.",
+          "quote": "Paid for by reducing military budgets by cutting fraudulent spending there; increasing taxes on the wealthy cheats; and increased tax collection from better paid careers without increasing tax rates.",
+          "sourceUrl": "https://www.southjerseygrit.com/issues/general-cost-savings",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He proposes transitional housing and taxpayer-funded citizen-owned apartment units, with some proceeds reinvested in building more units.",
+          "quote": "This 10-20% profit would then be reinvested into building more units, or into the communities in which they serve to be able to improve the towns that host them.",
+          "sourceUrl": "https://www.southjerseygrit.com/issues/housing-affordability",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "He calls for federal funding for community centers and youth projects as essential public services.",
+          "quote": "These NEED to be essential services because the Streets are recruiting for worse and we need to be recruiting for better",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72197712",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He proposes abolishing and replacing ICE and says people should be held responsible for their own offenses rather than targeted as a group.",
+          "quote": "Whether it be immigrants, protests, white, black, POC, Trans, Gay or straight on any issue. We should punish offenders of crimes, not a collective.",
+          "sourceUrl": "https://www.southjerseygrit.com/issues/law-enforcement-ice",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He says abortion should remain a personal choice and opposes forcing that choice on others.",
+          "quote": "Every woman, EVERY person, deserves to be able to have full autonomy over their own body full stop.",
+          "sourceUrl": "https://www.southjerseygrit.com/issues/healthcare-agenda",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports government-quality health care for everyone and proposes getting rid of insurance companies.",
+          "quote": "Government Employees like congress get the best healthcare in the country, and I believe that should be extended to every American.",
+          "sourceUrl": "https://www.southjerseygrit.com/issues/healthcare-agenda",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He proposes expanding the grid with solar, wind, water and nuclear options to reduce electric bills.",
+          "quote": "Expanding the grid with unique solar, wind, water, and nuclear solutions can reduce electric bills significantly.",
+          "sourceUrl": "https://www.southjerseygrit.com/issues/sample_issue",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He proposes free documentation for voter ID requirements alongside expanded vote-by-mail and says his approach should improve access and ease of voting.",
+          "quote": "Republicans get what they want better ID based voting Democrats get what they want, easier voting process.",
+          "sourceUrl": "https://www.southjerseygrit.com/issues/government-reform",
+          "agreement": "4/10"
+        }
+      }
+    }
+  ],
+  "sources": "vandrew.house.gov · clerk.house.gov · aapinewjersey.org · southjerseygrit.com · onyourballot.vote411.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
