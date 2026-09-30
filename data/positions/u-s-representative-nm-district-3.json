@@ -1,0 +1,184 @@
+{
+  "office": "U.S. Representative",
+  "district": "NM District 3",
+  "division": "nm/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "TERESA LEGER FERNANDEZ",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She backed an investment plan funded in part by taxes on billionaires and corporations, while cutting taxes for typical families.",
+          "quote": "Billionaires and corporations who now avoid taxes will pay their fair share. No one who makes $400,000 will see an increase in their taxes. Instead, the typical American family will see their costs and their taxes cut.",
+          "sourceUrl": "https://fernandez.house.gov/news/documentsingle.aspx?DocumentID=50",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supported an NDAA provision establishing a $15 minimum wage for covered federal service and construction contracts.",
+          "quote": "Establishes a $15 minimum wage for covered DOD service and construction contracts.",
+          "sourceUrl": "https://fernandez.house.gov/news/documentsingle.aspx?DocumentID=178",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "She led a letter urging President Trump to end the tariff war and focus on lowering everyday costs.",
+          "quote": "Led a letter to President Trump insisting that he end the tariff war and focus on policies that lower everyday costs for women and families.",
+          "sourceUrl": "https://fernandez.house.gov/forms/form/?ID=3",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She said Social Security is an earned benefit that must be protected and backed legislation to increase benefits.",
+          "quote": "I also believe that Social Security is an earned benefit that we must protect.",
+          "sourceUrl": "https://fernandez.house.gov/issues/issue/?IssueID=14904",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She cosponsored housing measures intended to increase supply and reduce costs.",
+          "quote": "I also cosponsored the Neighborhood Homes Investment Act and the Affordable Housing Credit Improvement Act to increase the supply of housing and bring down costs.",
+          "sourceUrl": "https://fernandez.house.gov/issues/issue/?IssueID=14891",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She joined a letter opposing proposed changes that would turn Tribal education and Bureau of Indian Education programs into school voucher programs.",
+          "quote": "do not support proposed efforts by the Administration to restructure tribal education and BIE programs into school voucher programs.",
+          "sourceUrl": "https://fernandez.house.gov/forms/form/?ID=3",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She supports comprehensive immigration reform with an earned path to citizenship alongside enhanced border security.",
+          "quote": "If enacted, this legislation would create an earned path to citizenship, address the root causes of migration that cause people to flee their countries, and enhance effective border security and drug interdiction technology.",
+          "sourceUrl": "https://fernandez.house.gov/issues/issue/?IssueID=14897",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She voted yes on passage of the Bipartisan Background Checks Act.",
+          "quote": "Roll Call 75 | Bill Number: H. R. 8",
+          "sourceUrl": "https://clerk.house.gov/Votes/202175",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She voted for the Women’s Health Protection Act and said Congress should codify the right to choose.",
+          "quote": "Congress must codify the right to choose under law as soon as possible.",
+          "sourceUrl": "https://fernandez.house.gov/news/documentsingle.aspx?DocumentID=139",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "She spoke against a bill requiring school sports participation to be based on sex at birth and urged a no vote.",
+          "quote": "Nearly one in five trans kids attempted suicide that year. I want our trans kids to live.",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/CREC-2023-04-18/pdf/CREC-2023-04-18.pdf",
+          "agreement": "7/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "She urged passage of the MORE Act, which would decriminalize cannabis federally.",
+          "quote": "This landmark legislation is one of the most important criminal justice reform bills in recent history: delivering justice for those harmed by the brutal and unfair consequences of criminalization; opening the doors of opportunity for all to participate in this rapidly growing industry; and decriminalizing cannabis at the Federal level",
+          "sourceUrl": "https://www.congress.gov/117/crec/2022/03/31/168/57/CREC-2022-03-31-pt1-PgH4023-2.pdf",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She said she strongly supports funding and strengthening Medicare, Medicaid, and community health centers.",
+          "quote": "I strongly support fully funding and strengthening Medicare, Medicaid, and our nation’s network of community health centers to make sure everyone can access care.",
+          "sourceUrl": "https://fernandez.house.gov/issues/issue/?IssueID=14895",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She introduced legislation to fund a fair transition for communities moving away from fossil fuel dependence.",
+          "quote": "That is why I introduced the Just Transition for Energy Communities Act - to provide states and Tribes with necessary funds to ensure a fair and successful energy transition.",
+          "sourceUrl": "https://fernandez.house.gov/news/documentsingle.aspx?DocumentID=72",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She voted against the SAVE America Act and described it as voter suppression, citing its limits on registration options in New Mexico.",
+          "quote": "You will now have to register in person at your County Clerk's office—instead of online and by mail which is allowed in New Mexico.",
+          "sourceUrl": "https://fernandez.house.gov/news/documentsingle.aspx?DocumentID=584",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "MARTIN ZAMORA",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Zamora says he will pursue policies that lower taxes and support small businesses.",
+          "quote": "I will champion pro-growth policies that lower taxes, cut red tape, and support small businesses—the true job creators in our economy.",
+          "sourceUrl": "https://zamorafornewmexico.com/jobs/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Zamora proposes increasing penalties for violent offenders and funding rural law enforcement recruitment and training.",
+          "quote": "That means increasing penalties for violent offenders and giving law enforcement the resources they need.",
+          "sourceUrl": "https://zamorafornewmexico.com/crime/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supports finishing the border wall, increasing Border Patrol resources, ending catch-and-release, and requiring detention for people who cross illegally.",
+          "quote": "I will work to finish the wall, reinstate the Remain in Mexico policy, and stop the flow of illegal immigration, human trafficking, and deadly drugs.",
+          "sourceUrl": "https://zamorafornewmexico.com/border/",
+          "agreement": "5/5"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "strong",
+          "text": "A Vote Smart key-vote summary records his no votes on recreational-marijuana legalization, marijuana-sale authorization, and reduced possession penalties.",
+          "quote": "HB 12: Authorizes the Legalization of Recreational Marijuana",
+          "sourceUrl": "https://vote.norml.org/politicians/180813",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "fernandez.house.gov · clerk.house.gov · govinfo.gov · congress.gov · zamorafornewmexico.com · vote.norml.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

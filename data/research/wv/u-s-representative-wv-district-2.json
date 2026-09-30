@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Ace Parsi",
-      "party": "Democratic"
-    },
-    {
       "name": "Riley Moore",
       "party": "Republican"
+    },
+    {
+      "name": "Ace Parsi",
+      "party": "Democratic"
     }
   ]
 }

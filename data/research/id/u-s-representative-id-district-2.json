@@ -5,6 +5,10 @@
   "kind": "candidate",
   "choices": [
     {
+      "name": "Ellie Gilbreath",
+      "party": "Democratic"
+    },
+    {
       "name": "Emre Houser",
       "party": "Independent"
     },
@@ -21,8 +25,8 @@
       "party": "Republican"
     },
     {
-      "name": "Ellie Gilbreath",
-      "party": "Democratic"
+      "name": "C. Sierra - ID Law - Idaho Lorax",
+      "party": "Constitution"
     }
   ]
 }

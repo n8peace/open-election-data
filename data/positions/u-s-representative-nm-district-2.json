@@ -1,0 +1,240 @@
+{
+  "office": "U.S. Representative",
+  "district": "NM District 2",
+  "division": "nm/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "GREGORY CUNNINGHAM",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He said New Mexico should reduce taxes and described its tax system as burdensome to small businesses.",
+          "quote": "That means less red tape, lower taxes, and water infrastructure that keeps farms farming.",
+          "sourceUrl": "https://www.abqjournal.com/election/2nd-congressional-district-greg-cunningham-r/3129065",
+          "agreement": "4/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "He supports targeted tariffs as a negotiating tool to protect New Mexico producers, but not as a permanent tax.",
+          "quote": "I support targeted tariffs as a tool to get fair trade deals, not as a permanent tax.",
+          "sourceUrl": "https://www.abqjournal.com/election/2nd-congressional-district-greg-cunningham-r/3129065",
+          "agreement": "8/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He strongly agreed that government spending should be cut to reduce the national debt.",
+          "quote": "The government should cut spending in order to reduce the national debt.",
+          "sourceUrl": "https://ivoterguide.com/candidate/65420/race/26301/election/1399?culture=en-us",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He proposed cutting red tape that he said blocks new housing.",
+          "quote": "New Mexico must fund law enforcement, enforce our laws, grow our job market, and cut the red tape blocking new housing.",
+          "sourceUrl": "https://www.abqjournal.com/election/2nd-congressional-district-greg-cunningham-r/3129065",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He called for school choice in which education dollars follow students rather than remain tied to districts.",
+          "quote": "On top of passing real school choice in New Mexico, where dollars follow students and they are no longer chained to failing school districts",
+          "sourceUrl": "https://www.abqjournal.com/election/house-district-29-greg-cunningham-candidate-qa/417655",
+          "agreement": "3/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He proposed more law-enforcement funding and enforcement of laws as part of his approach to public safety.",
+          "quote": "New Mexico must fund law enforcement, enforce our laws, grow our job market, and cut the red tape blocking new housing.",
+          "sourceUrl": "https://www.abqjournal.com/election/2nd-congressional-district-greg-cunningham-r/3129065",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He said the Second Amendment should not be infringed.",
+          "quote": "The Second Amendment shall not be infringed, according to the Constitution.",
+          "sourceUrl": "https://ivoterguide.com/candidate/65420/race/26301/election/1399?culture=en-us",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He signed a pledge committing to ending abortion in New Mexico.",
+          "quote": "I pledge to defend life from conception to natural death. In making and keeping this pledge, I am committed to ending all abortion and all assisted suicide in the state of New Mexico.",
+          "sourceUrl": "https://www.abortionfreenm.com/news/2022-primary-election-analysis-pro-life-pledge-signers",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "In a candidate profile, he strongly agreed that biological males should not participate in women’s sports or occupy women’s spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/65420/race/26301/election/1399?culture=en-us",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He said he would defend New Mexico oil and gas, citing its jobs and effect on farm costs.",
+          "quote": "Defend New Mexico oil and gas and the thousands of jobs it supports, because that energy keeps farm costs down.",
+          "sourceUrl": "https://www.cunninghamfornm.com/nmfarmersfirst",
+          "agreement": "6/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supports requiring voters to provide identification and proof of citizenship when registering and voting.",
+          "quote": "Proving you're a citizen to vote in American elections is common sense. Gabe Vasquez voted against the SAVE Act, which requires proof of citizenship to register. I'd vote yes.",
+          "sourceUrl": "https://www.abqjournal.com/election/2nd-congressional-district-greg-cunningham-r/3129065",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "GABRIEL VASQUEZ",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports repealing tax cuts benefiting wealthy people while also supporting tax cuts for working families.",
+          "quote": "Gabe also understands that New Mexicans are struggling to pay their bills because of rising prices, and that’s why he’ll support policies that cut taxes on working families while lowering the cost of healthcare, childcare, and utilities.",
+          "sourceUrl": "https://gabeforcongress.com/issues/",
+          "agreement": "3/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He cosponsored a bill to end the subminimum wage for tipped workers.",
+          "quote": "Cosponsored the Tipped Income Protection and Support (TIPS) Act to permanently eliminate federal income taxes on tips and end the sub-minimum wage for tipped workers.",
+          "sourceUrl": "https://vasquez.house.gov/lowercosts",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He criticized tariffs, saying they raise costs for American families.",
+          "quote": "More tariffs are the exact opposite of what American families need as they grapple with the cost increases caused by this Administration’s reckless actions, including soaring gas prices due to the war in Iran and skyrocketing healthcare and utility bill costs because of the Republican tax law,",
+          "sourceUrl": "https://vasquez.house.gov/media/press-releases/rep-vasquez-presses-administration-return-tariff-taxes-new-mexicans-not",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He said he is committed to protecting Social Security and Medicare benefits.",
+          "quote": "Rep. Vasquez remains committed to protecting New Mexicans’ Social Security and Medicare benefits, protecting Americans’ privacy, and protecting our nation’s financial systems financial security from potential political interference or misuse of taxpayer dollars.",
+          "sourceUrl": "https://vasquez.house.gov/media/press-releases/representative-gabe-vasquez-demands-answers-treasury-secretary-scott-bessent",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He voted for a housing bill that funds affordable housing and speeds up new construction.",
+          "quote": "The bill funds additional affordable housing projects to boost housing stock and bring down prices. The bill also establishes new HUD grant programs to expedite new home construction and allow communities to convert commercial or industrial buildings into affordable housing.",
+          "sourceUrl": "https://vasquez.house.gov/media/press-releases/rep-vasquez-votes-pass-bipartisan-housing-bill-bring-down-housing-costs-and",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He said public education supports students and that investing in the system is critical.",
+          "quote": "Our public education system supports the next generation of leaders in our nation’s workforce. It provides them with the resources they need to lead successful lives. Investing in our education system is critical to our future.",
+          "sourceUrl": "https://vasquez.house.gov/issues",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He requested $5 million for Albuquerque Police Department surveillance camera upgrades to support security and investigations.",
+          "quote": "This project is an appropriate use of taxpayer funds because it will increase public safety.",
+          "sourceUrl": "https://vasquez.house.gov/sites/evo-subsites/vasquez.house.gov/files/evo-media-document/Real%20Time%20Crime%20Center%20Camera%20Upgrades%20Federal%20Nexus%20and%20Disclosure%20Statement.pdf",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports border security and deporting violent criminals while also supporting protection for DREAMers and permanent legal status for working families.",
+          "quote": "Gabe knows we must protect DREAMERS and provide hard-working families with a permanent path to legal status, while ensuring we have a safe and secure border.",
+          "sourceUrl": "https://gabeforcongress.com/issues/",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He supports background checks and an assault weapons ban, alongside other gun safety measures.",
+          "quote": "He is leading common sense gun violence prevention bills including the Bipartisan Background Checks Act to keep guns out of the hands of dangerous criminals and the Assault Weapons Ban to keep our children safe.",
+          "sourceUrl": "https://vasquez.house.gov/issues/rights",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He announced support for legislation protecting access to abortion medication and said politicians should not make personal health care decisions.",
+          "quote": "Abortion is health care, and politicians have no business making these deeply personal decisions for women and their families. Every woman deserves the freedom to make her own health care decisions in consultation with her doctor and guided by her own faith and values — not the government’s.",
+          "sourceUrl": "https://vasquez.house.gov/media/press-releases/rep-gabe-vasquez-marks-four-years-roe-v-wade-was-overturned-announces-support",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "He voted against the Protection of Women and Girls in Sports Act, which would have based sports eligibility on reproductive biology and genetics at birth.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512?Title=sports",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He said he opposed a tax law that reduced Medicaid coverage and supports defending Medicaid coverage for constituents who rely on it.",
+          "quote": "Defending Medicaid coverage for the 38,000 New Mexicans in the district who rely on it for the care they need",
+          "sourceUrl": "https://vasquez.house.gov/media/press-releases/rep-vasquez-unveils-affordability-agenda-albuquerque",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports an all-of-the-above energy approach that includes oil, gas, and clean energy.",
+          "quote": "He believes in an all-of-the-above approach with oil and gas and clean energy to diversify our economy and bring more jobs to New Mexico.",
+          "sourceUrl": "https://vasquez.house.gov/issues",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He cosponsored the Freedom to Vote Act and the John R. Lewis Voting Rights Advancement Act to protect voting access.",
+          "quote": "Cosponsor of both the John R. Lewis Voting Rights Advancement Act and the Freedom to Vote Act to safeguard voting rights for all Americans",
+          "sourceUrl": "https://vasquez.house.gov/issues/rights",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "abqjournal.com · ivoterguide.com · abortionfreenm.com · cunninghamfornm.com · gabeforcongress.com · vasquez.house.gov · clerk.house.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

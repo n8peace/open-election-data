@@ -5,7 +5,11 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Brendan J. Gomez",
+      "name": "Russ Fulcher",
+      "party": "Republican"
+    },
+    {
+      "name": "Brendan J Gomez",
       "party": "Constitution"
     },
     {
@@ -15,10 +19,6 @@
     {
       "name": "Sarah Zabel",
       "party": "Independent"
-    },
-    {
-      "name": "Russ Fulcher",
-      "party": "Republican"
     }
   ]
 }

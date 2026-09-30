@@ -1,0 +1,144 @@
+{
+  "office": "U.S. Representative",
+  "district": "NM District 1",
+  "division": "nm/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "NDIDIAMAKA EKWUA CHARLENE OKPAREKE",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Her candidate profile says she would reduce taxes while directing federal spending to investments in New Mexico.",
+          "quote": "Slash reckless federal spending to instead allocate dollars for critical investments in New Mexico, and putting money back in your pocket through tax reductions.",
+          "sourceUrl": "https://www.ballotready.org/people/ndidiamaka-ekwua-charlene-okpareke",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "MELANIE ANN STANSBURY",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She voted against a tax bill that she said would finance tax breaks with cuts to health care and food assistance.",
+          "quote": "Today, the GOP showed who they’re really fighting for in passing a shameful package that will strip millions of veterans, working families, and children of access to healthcare and food assistance—in order to provide permanent tax breaks to billionaires.",
+          "sourceUrl": "https://stansbury.house.gov/media/press-releases/video-rep-stansbury-votes-no-gop-tax-bill-after-29-hour-fight",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She cosponsored the Raise the Wage Act, which would increase the federal minimum wage.",
+          "quote": "To provide for increases in the Federal minimum wage, and for other purposes.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr2743ih/related",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She celebrated a housing law intended to increase affordable housing construction and cut red tape.",
+          "quote": "The bill became law on July 11th without the President’s signature after Congress passed the legislation to dramatically increase the building of affordable housing, cut red tape, expand access to capital",
+          "sourceUrl": "https://stansbury.house.gov/media/press-releases/rep-stansbury-announces-76-million-affordable-housing-programs-and-passage",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "She says improving public safety requires investment in health care and behavioral-health systems.",
+          "quote": "to improve public safety and reduce crime, we must invest in our health care and behavioral health systems",
+          "sourceUrl": "https://www.melaniefornewmexico.com/issues",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She supports family reunification, a path to citizenship, and humane immigration policies.",
+          "quote": "Families must be reunited and we must provide a path to citizenship.",
+          "sourceUrl": "https://www.melaniefornewmexico.com/issues",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports universal background checks, an assault-weapons ban, and regulation of ghost guns.",
+          "quote": "Universal background checks an assault weapons ban regulating ghost guns and the components that are associated with them",
+          "sourceUrl": "https://www.pbs.org/video/us-rep-melanie-stansbury-2024-candidate-conversations-tygsab/",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She supports people making their own reproductive-health-care decisions and protecting coverage.",
+          "quote": "I will always make sure that women have the right to make their own reproductive health care choices and protect reproductive health care coverage.",
+          "sourceUrl": "https://www.melaniefornewmexico.com/issues",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "She opposed an amendment restricting sex and gender categories, saying sports associations and service academies should address participation with respect for transgender people and fairness.",
+          "quote": "Athletic associations and the service academies are better prepared to understand the sports that they regulate and how to provide both respect for transgender people and fairness in sports.",
+          "sourceUrl": "https://www.congress.gov/119/crec/2025/09/10/171/148/CREC-2025-09-10-house.pdf",
+          "agreement": "3/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "She voted for the MORE Act, which would legalize and regulate cannabis at the federal level.",
+          "quote": "Vote Question: On Passage\n\nMORE Act\n\nVote Type: Yea-And-Nay\n\nStatus: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports Medicare for All and expanding access to health care.",
+          "quote": "That means supporting Medicare for All and working to make sure that everyone, regardless of pre-existing conditions, has access to quality health care",
+          "sourceUrl": "https://www.melaniefornewmexico.com/issues",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "She supports climate legislation and development of renewable energy.",
+          "quote": "In Congress, I continue to fight to pass meaningful legislation to address climate change, develop more renewable energy",
+          "sourceUrl": "https://www.melaniefornewmexico.com/issues",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "She voted against the Safeguard American Voter Eligibility Act, which would tighten federal voter registration requirements.",
+          "quote": "Vote Question: On Passage\n\nSafeguard American Voter Eligibility Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2024345",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "ballotready.org · stansbury.house.gov · govinfo.gov · melaniefornewmexico.com · pbs.org · congress.gov · clerk.house.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

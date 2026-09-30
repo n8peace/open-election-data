@@ -5,20 +5,20 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Matt Loesby",
-      "party": "Libertarian"
-    },
-    {
-      "name": "Jim Risch",
-      "party": "Republican"
-    },
-    {
       "name": "Todd Achilles",
       "party": "Independent"
     },
     {
       "name": "Natalie M Fleming",
       "party": "Independent"
+    },
+    {
+      "name": "Matt Loesby",
+      "party": "Libertarian"
+    },
+    {
+      "name": "Jim Risch",
+      "party": "Republican"
     }
   ]
 }

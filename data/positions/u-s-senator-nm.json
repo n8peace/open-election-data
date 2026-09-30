@@ -1,0 +1,175 @@
+{
+  "office": "U.S. Senator",
+  "district": "NM",
+  "division": "nm/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "BEN R LUJAN",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "In a campaign ad, he said he opposed closing VA clinics and cutting Medicaid.",
+          "quote": "So when Washington wanted to close our VA clinics, sell our lands, and cut Medicaid, all while raising costs on you and your families? I said no.",
+          "sourceUrl": "https://benraylujan.com/lujan-launches-first-general-election-ad-bull-highlighting-fight-to-protect-new-mexico-priorities-lower-costs/",
+          "agreement": "4/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "His official biography says he has fought to raise the minimum wage.",
+          "quote": "He’s fought to raise the minimum wage, close the gender pay gap, and expand broadband for rural communities.",
+          "sourceUrl": "https://www.lujan.senate.gov/about/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He introduced the Housing for All Act to address housing shortages and expand affordable housing options.",
+          "quote": "As housing programs and services face ongoing attacks and funding cuts, the need to expand affordable housing options has never been greater.",
+          "sourceUrl": "https://www.lujan.senate.gov/newsroom/press-releases/heinrich-lujan-introduce-legislation-to-build-more-homes-for-new-mexicans-reduce-homelessness/",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He introduced legislation to expand full-service community schools and provide resources to public schools and districts.",
+          "quote": "Investing in our community schools is an investment in our future.",
+          "sourceUrl": "https://www.lujan.senate.gov/newsroom/press-releases/lujan-brown-van-hollen-gillibrand-introduce-legislation-to-expand-community-schools-to-improve-student-outcomes/",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He joined legislation to expand a path to permanent legal status for long-term U.S. residents.",
+          "quote": "legislation to expand a pathway to permanent legal status for millions of long-term U.S. residents.",
+          "sourceUrl": "https://www.lujan.senate.gov/newsroom/press-releases/lujan-joins-colleagues-to-introduce-legislation-to-broaden-legal-pathway-to-citizenship/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He cosponsored the Background Check Expansion Act, which would require checks for firearm sales.",
+          "quote": "To require a background check for every firearm sale.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-118s494is",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "He voted against advancing a bill that would define sex in school athletics solely by reproductive biology and genetics at birth.",
+          "quote": "A bill to provide that for purposes of determining compliance with title IX of the Education Amendments of 1972 in athletics, sex shall be recognized based solely on a person's reproductive biology and genetics at birth.",
+          "sourceUrl": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00100.htm",
+          "agreement": "3/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "As a House member, he became an additional sponsor of the MORE Act, which would decriminalize and deschedule cannabis and expunge certain offenses.",
+          "quote": "Mr. Luján, Ms. Pingree, Ms. Titus, Mr. Morelle, Mr. Meeks, Mr. Carbajal, Ms. Tlaib",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-116hr3884rh",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He reintroduced legislation to create a Medicaid-based public health insurance option.",
+          "quote": "A state public option puts us one step closer to universal coverage for all Americans, and I’m honored to re-introduce this legislation alongside Senator Schatz to bolster our health care system.",
+          "sourceUrl": "https://www.lujan.senate.gov/newsroom/press-releases/lujan-schatz-reintroduce-legislation-to-create-public-health-insurance-option-provide-new-mexicans-with-affordable-health-care/",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He reintroduced legislation expanding community solar and said it would help combat the climate crisis.",
+          "quote": "I’m proud to reintroduce the Community Solar Consumer Choice Act to expand access to solar power through community solar projects for all Americans and create more good-paying, clean energy jobs. This bill is a step forward in combating the climate crisis, and I look forward to working with Representative Castor to get this bill passed.",
+          "sourceUrl": "https://www.lujan.senate.gov/newsroom/press-releases/as-congressional-republicans-take-an-axe-to-clean-energy-lujan-reintroduces-commonsense-legislation-to-expand-access-to-solar-energy-for-families-and-businesses/",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He joined legislation supporting mail ballots, early voting, and Election Day voter registration.",
+          "quote": "That’s why Senate Democrats have united to reintroduce the Freedom to Vote Act to oppose voter suppression and improve ballot box access in New Mexico and across the nation.",
+          "sourceUrl": "https://www.lujan.senate.gov/newsroom/press-releases/heinrich-lujan-introduce-legislation-to-protect-the-freedom-to-vote-and-strengthen-our-democracy/",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "LARRY E MARKER",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He strongly disagreed that people who can afford higher taxes should pay more to provide relief for working families, and strongly agreed that government should cut spending to reduce the national debt.",
+          "quote": "People who can afford to pay more taxes should do so in order to provide relief for working families. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/80381/race/32669/election/1474?culture=en-us",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "He pledged to support Border Patrol and local law enforcement and to direct federal resources toward border surveillance and interdiction.",
+          "quote": "I will use the appropriations process to tie Department of Homeland Security funding to strict performance metrics, ensuring that resources are only directed to programs that achieve verifiable, 100% border surveillance and interdiction.",
+          "sourceUrl": "https://larrymarker.com/secure-new-mexico-borders/",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He said elective abortion should be allowed only for the mother's health, advised by a doctor, and supported enforcing the Comstock Act.",
+          "quote": "Under what circumstances should an elective abortion be allowed? Only for health of the Mother, advised by a Doctor.",
+          "sourceUrl": "https://ivoterguide.com/candidate/80381/race/32669/election/1474?culture=en-us",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He agreed that biological males should not participate in women's sports or occupy biological women's spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/80381/race/32669/election/1474?culture=en-us",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supports protecting New Mexico's existing energy industry and identified natural gas, coal, and nuclear as reliable energy sources.",
+          "quote": "The answer is not retreat. It is an all-of-the-above strategy that respects New Mexico’s current strength while opening the door to hydrogen, nuclear, and next-generation industrial growth.",
+          "sourceUrl": "https://larrymarker.com/new-mexico-energy-independence/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He disagreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/80381/race/32669/election/1474?culture=en-us",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "benraylujan.com · lujan.senate.gov · govinfo.gov · senate.gov · ivoterguide.com · larrymarker.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
