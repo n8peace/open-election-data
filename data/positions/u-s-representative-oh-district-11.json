@@ -1,0 +1,168 @@
+{
+  "office": "U.S. Representative",
+  "district": "OH District 11",
+  "division": "oh/cd-11",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Shontel M. Brown",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She voted against a reconciliation bill that paired tax cuts for wealthy people with cuts to Medicaid and nutrition assistance.",
+          "quote": "The legislation includes drastic cuts to Medicaid, the Supplemental Nutrition Assistance Program and other basic benefits, to pay for tax cuts for the wealthy and well-connected.",
+          "sourceUrl": "https://shontelbrown.house.gov/media/press-releases/congresswoman-brown-statement-republican-reconciliation-bill",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Brown says she supports a $15 minimum wage indexed to inflation and backing legislation to strengthen unions.",
+          "quote": "I support a path to a $15 minimum wage that indexes to inflation so it has built-in increases.",
+          "sourceUrl": "https://shontelbrown.com/priorities/",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "She called for repeal of President Trump's tariffs, saying they raise consumer costs.",
+          "quote": "We also need to repeal the President’s tariffs, which are making everything from coffee and meat to electronics and clothes more expensive.",
+          "sourceUrl": "https://shontelbrown.house.gov/media/press-releases/brown-condemns-trump-cuts-celebrates-northeast-ohios-resilience-honors-local",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She helped pass legislation restoring Social Security benefits for public workers and retirees.",
+          "quote": "Shontel Brown helped pass the Social Security Fairness Act, which restored benefits for public workers and retirees who had been unfairly penalized.",
+          "sourceUrl": "https://shontelbrown.com/",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Brown says she will work to increase the housing supply and supports equitable zoning as part of addressing housing needs.",
+          "quote": "I will also work to make housing more affordable by ending discriminatory practices like redlining; provide down-payment assistance through a refundable tax credit; and will work to increase the supply of housing.",
+          "sourceUrl": "https://shontelbrown.com/priorities/",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "She introduced legislation to help public schools reduce class sizes in early grades.",
+          "quote": "Establishes a new program to help schools reduce class sizes in K-3 grades to 18 students per class",
+          "sourceUrl": "https://shontelbrown.com/accomplishments/",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "Brown supports crisis response options that reduce reliance on police and says she will champion the CAHOOTS Act.",
+          "quote": "In Cuyahoga County, I have sought to develop options so that people who call 911 have a crisis intervention option, and don’t have to rely on the police.",
+          "sourceUrl": "https://shontelbrown.com/priorities/",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She voted for legislation extending Temporary Protected Status for Haitians and urged Senate passage.",
+          "quote": "In April, I proudly voted for legislation that passed the House to extend TPS status for Haiti.",
+          "sourceUrl": "https://shontelbrown.house.gov/media/press-releases/brown-criticizes-devastating-supreme-court-ruling-supporting-mass-deportation",
+          "agreement": "6/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Brown supports universal background checks, an assault weapons ban, and other restrictions on gun sales and accessories.",
+          "quote": "Requiring Universal Background Checks for gun sales. Every person purchasing a gun should undergo a background check.",
+          "sourceUrl": "https://shontelbrown.com/priorities/",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Brown called for passage of the Women’s Health Protection Act to establish a nationwide right to reproductive care, including abortion.",
+          "quote": "the need to pass the Women’s Health Protection Act, which would establish a nationwide right to the full range of reproductive care: abortion, contraception, family planning, miscarriage management, IVF and more.",
+          "sourceUrl": "https://shontelbrown.house.gov/issues/reproductive-rights",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "She voted against the House bill that would have required sex-at-birth rules for Title IX athletics.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "3/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "She voted yea on House passage of the MORE Act.",
+          "quote": "Roll Call 107 | Bill Number: H. R. 3617",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Brown says she supports a public option to expand coverage and would vote for Medicare for All if it came to the House floor.",
+          "quote": "I will work with the Biden-Harris Administration to pass a high-quality public option that will lower costs, drive down prescription drug costs, and expand coverage to achieve universal health care.",
+          "sourceUrl": "https://shontelbrown.com/priorities/",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Brown supports aggressive climate action, including net-zero emissions by 2050 and a carbon-free power sector by 2035.",
+          "quote": "I support the principles laid out in the Green New Deal and I am committed to aggressive action on climate change with net-zero emissions by 2050 and a carbon-free power sector by 2035.",
+          "sourceUrl": "https://shontelbrown.com/priorities/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Brown supports voting rights legislation that would expand ballot access and says voter registration should be easier.",
+          "quote": "We have to make it easier to register voters, and Congress should and needs to step up.",
+          "sourceUrl": "https://vote411-prod.s3.amazonaws.com/2021-07/lwvvoterguidedistrict11v3lessthan2m.pdf",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Mike Kirchner",
+      "party": "Republican",
+      "stances": {
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He proposed ending future Social Security benefit accruals in 2027 and redirecting the employee OAS payroll tax to deferred tax accounts.",
+          "quote": "Stop the benefit accruals in 2027 and stop the 5.3% Employee FICA Tax (OAS portion) from being deposited into the OAS trust.",
+          "sourceUrl": "https://mikekirchner.com/wp-content/uploads/2026/09/Preparing-for-the-OAS-Catastrophe-A31.pdf",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "shontelbrown.house.gov · shontelbrown.com · clerk.house.gov · vote411-prod.s3.amazonaws.com · mikekirchner.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

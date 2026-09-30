@@ -1,0 +1,238 @@
+{
+  "office": "U.S. Representative",
+  "district": "OH District 9",
+  "division": "oh/cd-9",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Marcy Kaptur",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Kaptur voted for the Inflation Reduction Act, which raised a minimum tax on large corporations and funded health, energy, and other programs.",
+          "quote": "By closing tax loopholes and establishing a minimum corporate tax applied only to the 150 largest corporations, the Inflation Reduction Act lowers healthcare and energy costs, expands American energy production, and reduces the federal deficit by $300 billion without raising taxes on small businesses or households making less than $400,000.",
+          "sourceUrl": "https://kaptur.house.gov/media-center/press-releases/inflation-reduction-act-kaptur-votes-lower-healthcare-and-energy-costs",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She cosponsored the Raise the Wage Act of 2025, which would increase the federal minimum wage.",
+          "quote": "Marcy Kaptur (OH); Maxine Dexter (OR); Jared Huffman (CA)",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr2743ih",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "Her campaign says she supports tariffs to protect Ohio factories and companies.",
+          "quote": "She is fighting to bring jobs home, take away tax breaks from companies that ship jobs overseas, and for tariffs that protect Ohio-based factories and companies.",
+          "sourceUrl": "https://marcykaptur.com/priorities/",
+          "agreement": "8/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Her campaign says she has fought to protect Social Security and Medicare from cuts and privatization.",
+          "quote": "She has fought to protect Social Security and Medicare from cuts and privatization, because working people have spent years paying into the system and they deserve to be covered.",
+          "sourceUrl": "https://marcykaptur.com/priorities/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Her campaign says she supports increasing affordable housing supply, while noting that communities have different housing needs.",
+          "quote": "Marcy is a leader in efforts to increase the supply of affordable housing, while reducing the dangers of lead in legacy homes.",
+          "sourceUrl": "https://marcykaptur.com/priorities/",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Kaptur submitted a funding request for a Toledo Public Schools campus revitalization project.",
+          "quote": "Toledo Public Schools acquired the Scott Park Campus, launching an ambitious project to transform it into a hub for education, residential living, and recreation.",
+          "sourceUrl": "https://kaptur.house.gov/services/fy2025-community-project-funding-requests",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Kaptur voted against a funding measure she said cut local law-enforcement funding and argued that police need more resources.",
+          "quote": "Less money for police means fewer officers on the streets and fewer resources to keep our communities safe.",
+          "sourceUrl": "https://kaptur.house.gov/media-center/press-releases/kaptur-statement-senate-passage-government-funding-legislation",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Her platform combines expanded border security with legal immigration and comprehensive reform.",
+          "quote": "Marcy believes in secure borders and legal immigration.",
+          "sourceUrl": "https://marcykaptur.com/priorities/",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Kaptur cosponsored the Bipartisan Background Checks Act of 2023.",
+          "quote": "To require a background check for every firearm sale.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-118hr715ih",
+          "agreement": "7/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "Kaptur voted for House passage of the MORE Act in 2020.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/2020235",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Her official health-care page promotes the Affordable Care Act and public programs such as Medicaid to expand affordable coverage.",
+          "quote": "The Affordable Care Act, which was signed into law on March 23, 2010, puts consumers in charge by ensuring access to quality, affordable health care.",
+          "sourceUrl": "https://kaptur.house.gov/issues/health-care",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Her platform combines an all-of-the-above energy policy with renewable energy, lower costs, energy independence, and emissions reductions.",
+          "quote": "Marcy believes we need an “all of the above” energy policy.",
+          "sourceUrl": "https://marcykaptur.com/priorities/",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Kaptur cosponsored the John R. Lewis Voting Rights Advancement Act of 2025.",
+          "quote": "To amend the Voting Rights Act of 1965 to revise the criteria for determining which States and political subdivisions are subject to section 4 of the Act, and for other purposes.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr14ih",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "Derek Merrin",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Merrin says he led efforts to cut Ohio’s income tax and calls himself a strong advocate for lower taxes.",
+          "quote": "He is a strong advocate for lower taxes, simplifying the tax code, and promoting transparency.",
+          "sourceUrl": "https://www.derekmerrin.com/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "His campaign says he pushed through a law delaying property-tax increases on subdivided lots until development or sale.",
+          "quote": "After a five-year push, Merrin pushed through the Affordable Homebuilding & Housing Act, which blocks property tax increases on subdivided lots until the home is built or lot is sold.",
+          "sourceUrl": "https://www.derekmerrin.com/",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "His campaign says he led efforts to expand school choice.",
+          "quote": "Derek successfully led efforts to cut the state's income tax, reduce regulations, and expand school choice.",
+          "sourceUrl": "https://www.derekmerrin.com/",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Merrin said he would stand by law enforcement and work to ensure police have the resources and manpower to protect residents.",
+          "quote": "I will stand by our law enforcement officers. I’m honored to have their support and look forward to continuing to work to ensure they have the resources and manpower necessary",
+          "sourceUrl": "https://www.derekmerrin.com/merrin-sweeps-toledo-law-enforcement-endorsements",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Merrin said he would champion election integrity and secure the border, and supports requiring proof of citizenship to vote in federal elections.",
+          "quote": "I will continue to champion the integrity of our elections and the need to secure our border to ensure the safety of Northwest Ohio families.",
+          "sourceUrl": "https://www.derekmerrin.com/merrin-statement-on-kaptur-vote-against-election-integrity",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Merrin cosponsored and voted for Ohio legislation allowing qualifying adults to carry concealed handguns without a license.",
+          "quote": "a right of a qualifying adult to carry a concealed handgun in the same manner as if the person was a licensee.",
+          "sourceUrl": "https://ohiohouse.gov/legislation/134/sb215",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Merrin cosponsored Ohio’s bill prohibiting abortion after a detectable fetal heartbeat and voted for it in the House.",
+          "quote": "to enact the Human Rights and Heartbeat Protection Act.",
+          "sourceUrl": "https://ohiohouse.gov/legislation/133/sb23",
+          "agreement": "3/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Merrin cosponsored Ohio’s SAFE Act and Save Women’s Sports Act, which restrict gender transition services for minors and require school sports teams to be designated by sex.",
+          "quote": "to enact the Save Women's Sports Act to require schools, state institutions of higher education, and private colleges to designate separate single-sex teams and sports for each sex.",
+          "sourceUrl": "https://ohiohouse.gov/legislation/135/hb68",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Merrin championed Ohio’s photo ID requirement law and said he would support proof-of-citizenship requirements for federal elections.",
+          "quote": "As one of the leaders of Ohio's photo ID requirement law, once elected to the U.S. House of Representatives, I will continue to champion the integrity of our elections",
+          "sourceUrl": "https://www.derekmerrin.com/merrin-statement-on-kaptur-vote-against-election-integrity",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Matthew Althaus",
+      "party": "Libertarian",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "His campaign platform calls for lowering and simplifying taxes for working families and small businesses.",
+          "quote": "Lower and simplify taxes for working families and small businesses",
+          "sourceUrl": "https://www.ballotready.org/people/matthew-althaus",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "His campaign platform opposes federal mandates that raise energy prices.",
+          "quote": "Oppose federal mandates that raise energy prices",
+          "sourceUrl": "https://www.ballotready.org/people/matthew-althaus",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "kaptur.house.gov · govinfo.gov · marcykaptur.com · clerk.house.gov · derekmerrin.com · ohiohouse.gov · ballotready.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

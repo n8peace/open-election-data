@@ -1,0 +1,248 @@
+{
+  "office": "U.S. Representative",
+  "district": "OH District 8",
+  "division": "oh/cd-8",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Vanessa Enoch",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She said she would rather have the wealthiest 1% pay their fair share to help people in need.",
+          "quote": "I would rather see the wealthiest 1% pay their fair share so we can actually help people in need.",
+          "sourceUrl": "https://enochforcongress.com/about-ohios-8th-congressional-district/",
+          "agreement": "4/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Enoch said she would support raising the federal minimum wage.",
+          "quote": "I will support legislation to raise the minimum wage, lower prescription drug prices, and expand Medicare to ensure health care is affordable for all​.",
+          "sourceUrl": "https://www.wvxu.org/politics/2024-10-03/vanessa-enoch-ohio-8th-district",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "In a candidate questionnaire, Enoch called for opening new markets for trade.",
+          "quote": "We need to open new markets for trade with African countries and those with untapped resources.",
+          "sourceUrl": "https://enochforcongress.com/meet-the-candidate/",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Enoch said cutting Social Security benefits for people who paid into the system would be theft.",
+          "quote": "to cut Social Security benefits for anyone who has paid into the system would equate to theft!",
+          "sourceUrl": "https://www.wcpo.com/news/government/elections-local/davidson-vs-enoch-what-to-know-about-the-race-for-ohios-8th-congressional-district",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Enoch proposed changing land-use rules and investing in mixed-income developments to expand access to housing.",
+          "quote": "We can change course by rewriting land‑use rules, investing in mixed‑income developments, and ensuring that teachers, nurses and firefighters can live near their workplaces.",
+          "sourceUrl": "https://enochforcongress.com/issue/homes-and-communities-as-foundations-for-wellbeing/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "She said she supports equitable public school funding.",
+          "quote": "I support equitable public school funding and sensible gun laws to prevent mass shootings.",
+          "sourceUrl": "https://news.ballotpedia.org/2024/03/18/all-candidates-for-u-s-house-ohio-district-8-democratic-primary-complete-ballotpedias-candidate-connection-survey/",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "Enoch said she wanted to end mass incarceration and the school-to-prison pipeline.",
+          "quote": "I would also like to leave a legacy of having introduced and passed legislation to end mass incarceration and to bring an end to the school to prison pipeline.",
+          "sourceUrl": "https://enochforcongress.com/meet-the-candidate/",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Enoch said immigration policy should address root causes rather than treat people entering legally inhumanely.",
+          "quote": "fix the root causes of the immigration crisis, rather than advocating for the inhumane treatment of people who enter this country legally.",
+          "sourceUrl": "https://www.wcpo.com/news/government/elections-local/davidson-vs-enoch-what-to-know-about-the-race-for-ohios-8th-congressional-district",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Enoch supports background checks and safe-storage rules as measures to reduce gun violence.",
+          "quote": "Responsible policies such as safe storage practices, stronger enforcement against illegal gun trafficking, and thorough background checks are reasonable steps that protect lives without infringing on the rights of responsible gun owners.",
+          "sourceUrl": "https://enochforcongress.com/issue/responsible-gun-ownership/",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Enoch said she would fight for accessible reproductive care and supports reproductive rights.",
+          "quote": "If you give me the honor of representing you in Congress, I will fight every day for a woman’s right to safe, accessible, and affordable reproductive care.",
+          "sourceUrl": "https://enochforcongress.com/2024/08/01/i-will-fight-every-day-for-a-womans-right-to-safe-accessible-and-affordable-reproductive-care/",
+          "agreement": "10/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "She strongly agreed that recreational marijuana should be legalized.",
+          "quote": "I support the legalization of recreational marijuana. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/42583/race/139/election/766?culture=en-us",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Enoch supports expanding Medicare and empowering Medicare and Medicaid to negotiate drug prices.",
+          "quote": "We can redesign health‑care rules to put people first: empower Medicare and Medicaid to negotiate drug prices, cap out‑of‑pocket costs, fund community clinics and invest in preventive care.",
+          "sourceUrl": "https://enochforcongress.com/issue/reducing-rising-healthcare-costs/",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Enoch called climate change a pressing danger and supported cleaner energy and pollution-control measures.",
+          "quote": "I believe the most pressing policy issue we face as a nation right now is climate change. Climate change is a clear and present danger to the entire globe.",
+          "sourceUrl": "https://vote411-prod.s3.amazonaws.com/2022-10/LWVOxfordOH_VIG_2022.pdf",
+          "agreement": "3/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Enoch said voter registration should be automatic at age 18 and that ballot access should be protected.",
+          "quote": "The government should ensure that voter registration is automatic at age 18.",
+          "sourceUrl": "https://vote411-prod.s3.amazonaws.com/2022-10/LWVOxfordOH_VIG_2022.pdf",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Warren Davidson",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He praised the 2017 tax package and said tax cuts for job creators help the economy.",
+          "quote": "Cutting taxes for job creators is giving our economy the shot in the arm it needs to get moving again.",
+          "sourceUrl": "https://davidson.house.gov/2018/1/davidson-statement-presidents-state-union-address",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He voted against the Raise the Wage Act, which would have increased the federal minimum wage.",
+          "quote": "Vote Question: On Passage Raise the Wage Act Vote Type: Recorded Vote Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "4/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He said he favors free trade and opposed broad tariffs because they could disrupt economic growth.",
+          "quote": "I’m a free trade guy so I don’t like tariffs. I like free trade.",
+          "sourceUrl": "https://davidson.house.gov/2018/1/davidson-previews-issues-state-union",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He praised Ohio’s EdChoice scholarships and argued that funding should follow students through their parents.",
+          "quote": "The surest remedy to accountability is to fund students (via parents) rather than schools.",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg51823/pdf/CHRG-118hhrg51823.pdf",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supports immigration enforcement and says he opposes amnesty or rewards for illegal immigration.",
+          "quote": "I will oppose any policy that supports amnesty or rewards illegal immigration.",
+          "sourceUrl": "https://davidson.house.gov/immigration",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He opposes universal background-check legislation and says restrictions on gun owners should be limited to specified cases.",
+          "quote": "I oppose gun control measures including red flag laws, expanded restrictions on lawful transfers, magazine bans, and others.",
+          "sourceUrl": "https://www.davidsonforcongress.com/2nd-amendment",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He says life begins at conception and commits to defending the unborn.",
+          "quote": "Life begins at conception, and the right to life is the first freedom government has a duty to protect.",
+          "sourceUrl": "https://davidson.house.gov/pro-life-and-family-issues",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He supports sex-based rules for women’s sports and says policy should recognize biological differences between women and men.",
+          "quote": "Federal policy should recognize the truth that women and men are biologically different. I support protecting women’s sports and private spaces from policies that deny biological reality.",
+          "sourceUrl": "https://davidson.house.gov/pro-life-and-family-issues",
+          "agreement": "5/5"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "strong",
+          "text": "He voted against the MORE Act, which would have decriminalized and descheduled cannabis.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He supports competition and more affordable coverage options and opposes a one-size-fits-all public system.",
+          "quote": "More competition and more affordable coverage options would help bring costs down without forcing Americans into a one-size-fits-all system.",
+          "sourceUrl": "https://davidson.house.gov/health-care",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supported the Lower Energy Costs Act, which he said would increase domestic production and streamline energy infrastructure.",
+          "quote": "The Lower Energy Costs Act will increase domestic energy production, streamline American energy infrastructure, and reverse the anti-energy agenda of the Biden administration.",
+          "sourceUrl": "https://davidson.house.gov/2023/3/rep-davidson-statement-on-passage-of-lower-energy-costs-act",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He voted for the SAVE Act, which would add citizenship documentation requirements for federal voter registration.",
+          "quote": "Vote Question: On Passage SAVE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2025102?BillNum=H.R.22&RollCallNum=102",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "enochforcongress.com · wvxu.org · wcpo.com · news.ballotpedia.org · ivoterguide.com · vote411-prod.s3.amazonaws.com · davidson.house.gov · clerk.house.gov · govinfo.gov · davidsonforcongress.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
