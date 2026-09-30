@@ -1,0 +1,208 @@
+{
+  "office": "U.S. Representative",
+  "district": "WA District 8",
+  "division": "wa/cd-8",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Kim Schrier",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Her campaign says she would increase taxes on wealthy corporations while protecting middle-class families, and support more federal investment in research and infrastructure.",
+          "quote": "I will bring financial relief to families experiencing these rising costs by finally making sure the wealthiest corporations pay their fair share of taxes, without raising taxes on middle-class families.",
+          "sourceUrl": "https://drkimschrier.com/economy/",
+          "agreement": "7/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "She says she would support legislation to ensure workers earn a livable wage.",
+          "quote": "I will support legislation to ensure that all workers earn a livable wage that can provide for a family.",
+          "sourceUrl": "https://drkimschrier.com/economy/",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "She signed a congressional letter urging the administration to ease tariffs and facilitate imports.",
+          "quote": "we write to urge you to ease tariffs, facilitate imports, and bolster domestic production for goods that are crucial to supply chain logistics",
+          "sourceUrl": "https://d12t4t5x3vyizu.cloudfront.net/spanberger.house.gov/uploads/2022/06/Letter-to-President-Biden-on-Tariffs-on-Supply-Chain-Logistics-Goods.pdf",
+          "agreement": "3/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She secured federal funding for a 41-unit affordable multifamily housing development in Cle Elum.",
+          "quote": "The multi-family development received $2 million in federal funding that was secured by Schrier in 2023.",
+          "sourceUrl": "https://schrier.house.gov/media/in-the-news/congresswoman-schrier-makes-trip-cle-elum-visit-hopesource-project",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She says children deserve access to excellent public education and cites her own family’s ties to public schools.",
+          "quote": "Our children all deserve access to an excellent public education, regardless of zip code.",
+          "sourceUrl": "https://drkimschrier.com/education/",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She supports a path to citizenship, expanded worker visas, and legal protections for DACA recipients and DREAMers.",
+          "quote": "I will continue pursuing comprehensive immigration reform with a path to citizenship on a bipartisan basis.",
+          "sourceUrl": "https://drkimschrier.com/immigration/",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She says she cosponsored universal background check legislation and supports other measures to reduce gun violence.",
+          "quote": "I cosponsored universal, comprehensive background check legislation in Congress because guns should never be allowed in the hands of someone with a history of domestic violence, a violent criminal record, convicted stalkers, or those with severe mental illness.",
+          "sourceUrl": "https://drkimschrier.com/gun-safety/",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She says she supports a woman’s right to choose and has voted for the Women’s Health Protection Act.",
+          "quote": "I trust women to make their own personal decisions about health and family planning, in consultation with their doctors.",
+          "sourceUrl": "https://drkimschrier.com/womens-health/",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "She voted against the Protection of Women and Girls in Sports Act of 2025, which would have restricted participation in federally funded girls’ and women’s sports based on sex at birth.",
+          "quote": "Protection of Women and Girls in Sports Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "5/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "She voted for the MORE Act, which passed the House and would remove marijuana from the federal list of scheduled substances.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Her campaign proposed improving and expanding Medicare through a public option to make coverage available to everyone.",
+          "quote": "improving Medicare and creating a Medicare-based public option, taking on Big Pharma, and stabilizing the insurance market to ensure that everyone has access to quality healthcare.",
+          "sourceUrl": "https://drkimschrier.com/2018/07/10/dr-kim-schrier-doubles-down-on-healthcare-in-first-two-ads-comprehensive-reform-proposal/",
+          "agreement": "3/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She says climate change requires immediate action and supports clean energy jobs and policies to reduce carbon emissions.",
+          "quote": "Climate change is real and I know we must take immediate action.",
+          "sourceUrl": "https://drkimschrier.com/climate-change-and-the-environment/",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "She voted for the For the People Act, a federal election reform bill.",
+          "quote": "Vote Question: On Passage For the People Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/202162",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Spencer Meline",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He said he opposes higher taxes on higher earners.",
+          "quote": "I oppose policies that punish success through higher taxes on those who earn more.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92992/race/28770/election/1435",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He said the government should cut spending to reduce the national debt.",
+          "quote": "The government must cut spending to reduce our unsustainable national debt.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92992/race/28770/election/1435",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "He opposed sanctuary cities and said immigrants should follow U.S. laws.",
+          "quote": "I support the existence of sanctuary cities to protect undocumented persons. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/92992/race/28770/election/1435",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He said licensed-dealer background checks are acceptable but few additional gun restrictions are needed.",
+          "quote": "I’m okay with background checks for new gun purchases from licensed dealers. They help keep firearms out of the hands of felons and the dangerously mentally ill. Beyond that, almost no additional restrictions are needed.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92992/race/28770/election/1435",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He said elective abortion should be prohibited and supported legal protection for human life from conception.",
+          "quote": "Elective abortion ends an innocent human life and should be prohibited.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92992/race/28770/election/1435",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He said biological males should not participate in women’s sports or occupy women’s spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92992/race/28770/election/1435",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He said Medicare and Medicaid should remain available, while favoring free-market competition and personal choice in health care.",
+          "quote": "True healthcare reform comes from free-market competition, price transparency, and expanding personal choice.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92992/race/28770/election/1435",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He strongly disagreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/92992/race/28770/election/1435",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "drkimschrier.com · d12t4t5x3vyizu.cloudfront.net · schrier.house.gov · clerk.house.gov · ivoterguide.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

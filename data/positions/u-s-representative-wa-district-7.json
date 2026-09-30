@@ -1,0 +1,200 @@
+{
+  "office": "U.S. Representative",
+  "district": "WA District 7",
+  "division": "wa/cd-7",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Pramila Jayapal",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "She introduced a wealth tax on fortunes over $50 million to fund public investments and community programs.",
+          "quote": "The Ultra-Millionaire Tax Act will help level the playing field, narrow the racial wealth gap, ensure the wealthiest finally begin to pay their fair share, and invest trillions of dollars into our communities so we can make a real difference in the lives of people across America.",
+          "sourceUrl": "https://jayapal.house.gov/2021/03/01/wealth-tax/",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She introduced legislation to raise the federal minimum wage to $15 and said raising wages benefits workers and families.",
+          "quote": "I know that raising the wage is good for workers, families, businesses and the economy,",
+          "sourceUrl": "https://jayapal.house.gov/2021/01/26/raise-the-wage-act/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She said expanded Social Security would benefit working families and criticized claims that there is no money for it.",
+          "quote": "Every year, Republicans tell us that we have no money for Medicare for All, College for All, childcare, or expanded Social Security that would benefit millions of working families across the country.",
+          "sourceUrl": "https://jayapal.house.gov/2023/12/14/jayapal-statement-on-vote-against-bloated-pentagon-budget/",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She introduced legislation to invest in housing infrastructure and said more affordable housing should be built.",
+          "quote": "we can and must invest in proven solutions to build more affordable housing.",
+          "sourceUrl": "https://jayapal.house.gov/2025/07/16/jayapal-meng-introduce-housing-is-a-human-right-act/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "She called for mental health resources and investment in violence interruption as part of addressing gun violence.",
+          "quote": "I will continue to fight for a fulsome approach to addressing the gun violence crisis in our country, including mental health resources, gun safety legislation, and investing in violence interruption,",
+          "sourceUrl": "https://jayapal.house.gov/2022/11/08/jayapal-statement-on-shooting-at-seattle-high-school/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She introduced an immigration reform proposal that promotes citizenship and a fair process centered on family unity.",
+          "quote": "This immigration reform proposal develops and implements a Roadmap to Freedom by promoting citizenship, protecting and strengthening a fair process centered on family unity, promoting and preserving diversity and establishing a just, humane immigration system.",
+          "sourceUrl": "https://jayapal.house.gov/2021/01/27/roadmap-to-freedom/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She said the right to safe, legal abortion should be protected and backed legislation to safeguard access.",
+          "quote": "I unapologetically stand with the vast majority of Americans on both sides of the aisle who firmly believe that the right to safe, legal abortion care should be protected.",
+          "sourceUrl": "https://jayapal.house.gov/2020/06/29/reproductive-rights-are-human-rights/",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "She introduced legislation supporting transgender students’ participation in school sports with their peers.",
+          "quote": "ensuring they can participate in school sports with their peers, and ensuring access to an inclusive curriculum.",
+          "sourceUrl": "https://jayapal.house.gov/2023/03/30/jayapal-markey-introduce-landmark-trans-bill-of-rights/",
+          "agreement": "5/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "She opposed returning to marijuana prohibition and said she would defend Washington voters’ decision to legalize it.",
+          "quote": "Washington voters led the way in legalizing marijuana five years ago, taking an important step in reducing mass incarceration, strengthening public health, and bolstering our economy – and I will fight for them.",
+          "sourceUrl": "https://jayapal.house.gov/2018/01/04/jayapal-blasts-sessions-marijuana-crackdown/",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She called for a transition to renewable energy and voted against a climate bill she said fell short of the crisis.",
+          "quote": "Instead of investing in more technologies that generate hazardous, radioactive waste or that increase our dependence on fossil fuel technologies, we should be working towards a 100 percent renewable energy future.",
+          "sourceUrl": "https://jayapal.house.gov/2020/09/24/clean-economy-jobs-and-innovation-act/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She supported nationwide no-excuse absentee voting during emergencies and funding for states to implement mail voting.",
+          "quote": "Provide for nationwide no-excuse absentee voting as long as at least one-quarter of states are under emergency,",
+          "sourceUrl": "https://jayapal.house.gov/2020/03/23/jayapal-pocan-lead-congressional-progressive-caucus-in-outlining-top-priorities-for-next-covid-19-pandemic-response-legislation/",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Nirav Sheth",
+      "party": "Republican",
+      "stances": {
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He strongly agrees that the government should cut spending to reduce the national debt.",
+          "quote": "The government should cut spending in order to reduce the national debt. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/77553/race/28769/election/1435",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He proposed tying federal transportation funding to affordable housing near light rail stations.",
+          "quote": "Attaching federal transportation budget with Housing to use Light rail project for affordable housing near light rail stations",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=72589075",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "He supports opting into a federal scholarship tax credit that would add choice, including for private and vocational schools.",
+          "quote": "Support HB 2444 to require the Governor to opt in to the Federal Scholarship Tax Credit ($1,700 per student) — privately donated funds that add choice without cutting funding for public schools.",
+          "sourceUrl": "https://shethforcongress.com/issues/education-and-local-control/",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports Second Amendment rights while also calling for firearm training and safe storage.",
+          "quote": "I support second amendment. Everyone should have training for handling firearms along with safety training. Weapons should be secured all the time in gun safe if they are not getting used.",
+          "sourceUrl": "https://ivoterguide.com/candidate/77553/race/28769/election/1435",
+          "agreement": "4/10"
+        },
+        "abortion": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "In the same questionnaire, he agreed that life deserves legal protection from conception but said abortion choice belongs to the doctor or pregnant woman.",
+          "quote": "Statement from a male candidate about abortion choices are irrelevant. This choice is only belong to either doctor or pregnant woman.",
+          "sourceUrl": "https://ivoterguide.com/candidate/77553/race/28769/election/1435",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He strongly agreed that biological males should not participate in women's sports or occupy women's spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/77553/race/28769/election/1435",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He selected the questionnaire option to abolish taxpayer-funded health care, including Medicaid and Medicare.",
+          "quote": "D) Taxpayer funded health care should be abolished in all forms, and Medicaid and Medicare should be defunded. D, I have witnessed personally where this programs are just getting abused for fraud",
+          "sourceUrl": "https://ivoterguide.com/candidate/77553/race/28769/election/1435",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He proposed small modular nuclear reactors as a way to lower local electricity costs while providing continuous carbon-free power.",
+          "quote": "By utilizing factory-manufactured SMR modules, we can avoid the massive cost overruns of traditional nuclear projects and lower the cost of local electricity production.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=72589075",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports Washington's mail-in voting system and voter access, alongside stronger signature verification and updated voter rolls; he also opposes voting without photo identification.",
+          "quote": "We should protect voter access while bolstering security measures—such as robust signature verification and ensuring voter registration rolls are clean and updated—so every legal voter knows their voice is counted fairly.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=72589075",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "jayapal.house.gov · ivoterguide.com · onyourballot.vote411.org · shethforcongress.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

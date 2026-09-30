@@ -1,0 +1,232 @@
+{
+  "office": "U.S. Representative",
+  "district": "WA District 5",
+  "division": "wa/cd-5",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Michael Baumgartner",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He voted for and praised a 2025 bill that extended the Trump tax cuts.",
+          "quote": "It locks in the Trump Tax Cuts, supports small businesses, secures our southern border, and invests in rural health care and energy independence.",
+          "sourceUrl": "https://baumgartner.house.gov/2025/07/03/baumgartner-issues-statement-upon-final-passage-one-big-beautiful-bill-act/",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "In a 2026 debate, he supported fair, predictable trade and protecting industries, while also defending tariffs as leverage in negotiations.",
+          "quote": "So, again, everybody should have fair trade. It should be predictable. But there are real reasons for America to negotiate these, these trade deals, and make sure that, our industries are protected and our strategic interests are protected.",
+          "sourceUrl": "https://www.pbs.org/video/vote-2026-congressional-debate-ei1bay/",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says seniors should receive all the Social Security and Medicare benefits they were promised.",
+          "quote": "Senior citizens should receive every penny of the Social Security and Medicare benefits that they have been promised.",
+          "sourceUrl": "https://baumgartner.house.gov/issues/",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He supported reducing regulations he said slow development and raise housing costs.",
+          "quote": "Baumgartner supports reducing regulations, particularly “onerous environmental and labor regulations,” which he argues slow the rate of development and raise housing costs.",
+          "sourceUrl": "https://www.spokesman.com/grids/2024/aug/30/congress-general-election-issues/",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "He supports parental choice and options in children’s schools.",
+          "quote": "I support local control of education and empowering parents to have choice and options in their children’s schools.",
+          "sourceUrl": "https://baumgartner.house.gov/issues/",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "His campaign says he secured funding for a local campus consolidating police, fire, and court operations, and for jail upgrades.",
+          "quote": "Delivered $1.5 Million to consolidate police, fire, and municipal court operations into a single Public Safety Campus.",
+          "sourceUrl": "https://www.votebaumgartner.com/",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He says he strongly supports border security and enforcement of existing immigration laws.",
+          "quote": "I strongly support securing our border and enforcing existing immigration laws to prevent drugs and unvetted migrants from entering the country illegally.",
+          "sourceUrl": "https://baumgartner.house.gov/issues/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He says the Second Amendment must be protected and supports policies guaranteeing gun rights.",
+          "quote": "I support policies that guarantee Americans their 2nd Amendment rights. The 2nd Amendment must be protected, not only for personal freedom and hunting but also as a safeguard against government tyranny.",
+          "sourceUrl": "https://baumgartner.house.gov/issues/",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "In a 2024 questionnaire, he said life begins at conception, described himself as pro-life, and said he opposes abortion.",
+          "quote": "Life begins at conception. I am pro-life, as taught by my Catholic faith. I am opposed to abortion and euthanasia.",
+          "sourceUrl": "https://44626085.fs1.hubspotusercontent-na1.net/hubfs/44626085/Michael-Baumgartner-Washington-5th-Congressional-District-2.pdf",
+          "agreement": "3/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He voted for the Protection of Women and Girls in Sports Act, which would set sports eligibility rules based on sex at birth.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "7/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "In 2012, he endorsed Washington’s marijuana legalization initiative and called it a step away from prohibition.",
+          "quote": "They’ve checked all the boxes as far as what you would want to see happen in terms of provisions to keep it away from children and limiting access in the public space.",
+          "sourceUrl": "https://www.heraldnet.com/2012/10/03/gop-u-s-senate-candidate-supports-legalizing-pot/",
+          "agreement": "4/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He said he helped block a carbon tax he described as expensive.",
+          "quote": "I helped block plans for an expensive carbon tax while finally securing funding for Spokane’s North-South freeway.",
+          "sourceUrl": "https://www.sos.wa.gov/sites/default/files/2024-09/Voters%20Pamphlet%202024%20-%20Edition%2017%20-%20Franklin%20-%20English.pdf",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "He voted for the SAVE Act, which would require documentary proof of citizenship to register to vote in federal elections.",
+          "quote": "Roll Call 102 | Bill Number: H. R. 22",
+          "sourceUrl": "https://clerk.house.gov/Votes/2025102",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Carmela Conroy",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She said a top priority would be raising revenue equitably from those who benefit from government services.",
+          "quote": "Passing a timely budget, and equitably raising revenue from those who most benefit from government services, would be a top priority.",
+          "sourceUrl": "https://tricitiesvote.com/2026/questionnaires/us-house-district-5",
+          "agreement": "7/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supports an inflation-indexed federal minimum wage, paid time off, and paid sick leave.",
+          "quote": "Pass an inflation-indexed federal minimum wage law with paid time off and paid sick leave.",
+          "sourceUrl": "https://conroy4congress.com/priorities/",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "She calls for ending tariffs, saying they raise costs for consumers and businesses.",
+          "quote": "End the tariff chaos. That will cut prices for consumers and for businesses, both importers and exporters.",
+          "sourceUrl": "https://conroy4congress.com/priorities/",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Her campaign explicitly supports protections for Social Security, Medicare, and Medicaid.",
+          "quote": "Medicare, Medicaid, and Social Security protections, lower health care costs, stronger rural hospitals, and veteran support.",
+          "sourceUrl": "https://conroy4congress.com/",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "In a public comment on Spokane ADU rules, she supported more flexible unit-size rules and eliminating off-street parking requirements.",
+          "quote": "Two particularly salient advantages of the revisions are greater flexibility in the size of the ADU, and in eliminating the need for offstreet parking.",
+          "sourceUrl": "https://static.spokanecity.org/documents/bcc/commissions/plan-commission/agendas/2022/05/plan-agenda-2022-05-11.pdf",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports restoring public education funding and keeping public funds from being used for religious schools.",
+          "quote": "Restore funding for public education, including support for children with special educational needs. Ensure public funds are not used in violation of the separation of church and state.",
+          "sourceUrl": "https://conroy4congress.com/priorities/",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports border security while also calling for an end to detention centers and humane release of most detainees.",
+          "quote": "Defund construction and operation of detention centers as fast as humanely possible. Restore funding to the Federal Emergency Management Agency (FEMA) so it may respond to weather and other emergencies, and lead the orderly and humane release of anyone detained by other elements of DHS, except for anyone facing criminal charges or subject to the jurisdiction of a criminal court.",
+          "sourceUrl": "https://conroy4congress.com/priorities/",
+          "agreement": "5/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She said politicians should not interfere with a woman's medical decisions and pledged to oppose efforts to restrict abortion rights.",
+          "quote": "I believe career politicians like my opponent have no business getting between a woman and her doctor.",
+          "sourceUrl": "https://www.rangemedia.co/wa-congress-representative-d5-carmela-conroy-michael-baumgartner/",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports restoring Medicare and Medicaid funding and extending Medicaid coverage to children through age 18.",
+          "quote": "Extend Medicaid coverage to all children from birth to their 19th birthdays. This will correct the five-to-one spending imbalance between seniors and youth and protect families from the prospect of crushing medical debt.",
+          "sourceUrl": "https://conroy4congress.com/priorities/",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "She supported incentives to reduce emissions and investments to help people adapt to climate change.",
+          "quote": "She supports investments to help people adapt to climate change and incentives to slow emissions.",
+          "sourceUrl": "https://www.spokesman.com/grids/2024/aug/30/congress-general-election-issues/",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "She supports protecting voting rights and keeping elections accessible.",
+          "quote": "Congress should protect the right to vote, keep elections secure and accessible, and respect the results whether or not its members like them.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=72589004",
+          "agreement": "3/10"
+        }
+      }
+    }
+  ],
+  "sources": "baumgartner.house.gov · pbs.org · spokesman.com · votebaumgartner.com · 44626085.fs1.hubspotusercontent-na1.net · clerk.house.gov · heraldnet.com · sos.wa.gov · tricitiesvote.com · conroy4congress.com · static.spokanecity.org · rangemedia.co · onyourballot.vote411.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

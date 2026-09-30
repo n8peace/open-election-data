@@ -1,0 +1,143 @@
+{
+  "office": "U.S. Representative",
+  "district": "WA District 10",
+  "division": "wa/cd-10",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Marilyn Strickland",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She supported raising federal taxes on high earners and capital gains, and argued for federal funding to help states maintain vital services.",
+          "quote": "In Congress, I will fight for efforts to make our federal tax system more progressive and equitable, including voting for legislation to increase income taxes on the highest earners and on capital gains.",
+          "sourceUrl": "https://31stdistrictdemocrats.org/wp-content/uploads/2020/09/MarilynStrickland31stLDQuestionnaire.pdf",
+          "agreement": "6/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She said she led efforts to raise Tacoma’s minimum wage and supports collective bargaining and workers’ ability to organize.",
+          "quote": "I led successful efforts to raise the minimum wage and pass paid sick leave, paving the way for statewide action.",
+          "sourceUrl": "https://31stdistrictdemocrats.org/wp-content/uploads/2020/09/MarilynStrickland31stLDQuestionnaire.pdf",
+          "agreement": "7/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "She criticized tariffs for raising costs and disrupting markets, and requested relief for shellfish growers harmed by them.",
+          "quote": "Tariffs and retaliatory tariffs have led to higher consumer prices, altered supply chains, reduced availability, higher equipment costs, and market instability for farmers of all kinds, including shellfish growers.",
+          "sourceUrl": "https://strickland.house.gov/2026/02/06/strickland-asks-admin-for-relief-for-shellfish-growers/",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "After voting for the Fiscal Responsibility Act, she said it would keep Social Security, Medicare, and Medicaid benefits intact.",
+          "quote": "I voted to protect families, jobs, seniors, veterans, children and our economy from irreversible harm and ensure that Social Security, Medicare, and Medicaid benefits are intact.",
+          "sourceUrl": "https://strickland.house.gov/2023/06/21/my-june-newsletter-2/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She called for federal investment in affordable housing construction and more resources for local housing authorities.",
+          "quote": "That is why I will advocate for a massive federal investment in affordable and workforce housing.",
+          "sourceUrl": "https://31stdistrictdemocrats.org/wp-content/uploads/2020/09/MarilynStrickland31stLDQuestionnaire.pdf",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports increased Title I funding and universal pre-K and free meals for public school students.",
+          "quote": "I support increasing Title 1 funding for schools to improve equity, and support the expansion of vocational-technical training and apprenticeship programs in our public high schools.",
+          "sourceUrl": "https://31stdistrictdemocrats.org/wp-content/uploads/2020/09/MarilynStrickland31stLDQuestionnaire.pdf",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Her campaign supported a pathway to citizenship for undocumented immigrants already in the country and protections for DREAMers.",
+          "quote": "She supports comprehensive immigration reform that focuses on streamlining the process of legal permanent residency, creating a fair pathway to citizenship for undocumented immigrants already in this country, and protections for DREAMERs.",
+          "sourceUrl": "https://mail.stricklandforwashington.com/priorities.html",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She has supported universal background checks and a ban on assault weapons for civilian use.",
+          "quote": "We want commonsense gun ownership, universal background checks popular with the general public, not so much bipartisan in Congress.",
+          "sourceUrl": "https://strickland.house.gov/2021/04/01/media-in-the-news-opportunity-crisis-reimagining-just-society/",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She said abortion should be legal and accessible and pledged to oppose attempts to overturn Roe v. Wade.",
+          "quote": "Abortion should be safe, legal, accessible, affordable and culturally competent. Access to free birth control and to safe, legal, affordable abortions is a fundamental part of comprehensive health care, regardless of income.",
+          "sourceUrl": "https://31stdistrictdemocrats.org/wp-content/uploads/2020/09/MarilynStrickland31stLDQuestionnaire.pdf",
+          "agreement": "9/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "She voted to pass the MORE Act to end federal marijuana prohibition and remove criminal penalties for marijuana possession and distribution.",
+          "quote": "The MORE Act will remove marijuana from the list of scheduled substances under the Controlled Substances Act and eliminate criminal penalties for an individual who manufactures, distributes, or possesses marijuana.",
+          "sourceUrl": "https://strickland.house.gov/2022/04/01/media-press-releases-strickland-votes-end-federal-prohibition-cannabis/",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports a public health insurance option, Medicaid expansion, and exploring a lower Medicare eligibility age.",
+          "quote": "I strongly support a public health care option, which will increase coverage and will lead to better insurance plans from private insurers through increased competition.",
+          "sourceUrl": "https://31stdistrictdemocrats.org/wp-content/uploads/2020/09/MarilynStrickland31stLDQuestionnaire.pdf",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She supports efforts to reduce carbon emissions, including cap-and-trade legislation and investment in lower-carbon choices.",
+          "quote": "I strongly support efforts to reduce CO2 emissions, including cap and trade legislation, and making investments that will incentivize us as consumers and users of transportation to make choices that reduce our carbon footprint.",
+          "sourceUrl": "https://31stdistrictdemocrats.org/wp-content/uploads/2020/09/MarilynStrickland31stLDQuestionnaire.pdf",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She supports automatic voter registration and said it would be a step toward removing barriers to voting.",
+          "quote": "We have a responsibility to knock down barriers to the ballot box for all Americans. Automatic voter registration is a long-overdue step that I would support in Congress.",
+          "sourceUrl": "https://31stdistrictdemocrats.org/wp-content/uploads/2020/09/MarilynStrickland31stLDQuestionnaire.pdf",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Chris D. Chung",
+      "party": "Republican",
+      "stances": {}
+    }
+  ],
+  "sources": "31stdistrictdemocrats.org · strickland.house.gov · mail.stricklandforwashington.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
