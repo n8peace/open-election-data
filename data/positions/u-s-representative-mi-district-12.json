@@ -1,0 +1,282 @@
+{
+  "office": "U.S. Representative",
+  "district": "MI District 12",
+  "division": "mi/cd-12",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Rashida Tlaib",
+      "party": "Democratic Party",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Her campaign says she proposed higher taxes on companies with very high CEO-to-worker pay to fund services for working families.",
+          "quote": "This bill would address that, and taxes on corporations would fund critical services for working families.",
+          "sourceUrl": "https://rashidaforcongress.com/issues/economic-and-housing-justice/",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She said she would keep fighting for higher wages and workplace protections, and her campaign describes her support for workers’ rights and unions.",
+          "quote": "I will continue to fight for higher wages, better jobs, workplace rights and protections.",
+          "sourceUrl": "https://wdet.org/2022/10/25/michigan-voter-guide-2022-12th-congressional-district/",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She called for fully funding Social Security while criticizing claims that the deficit prevents domestic investments.",
+          "quote": "Fixing our underfunded schools. Boldly tackling the climate crisis. Cancelling student debt. Fully funding social security.",
+          "sourceUrl": "https://tlaib.house.gov/posts/tlaib-opposes-more-funding-for-weapons-never-enough-to-feed-the-poor",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supported federal gun-safety legislation and called for safe-storage requirements, expanded background checks, and an assault-weapons ban.",
+          "quote": "We must bring legislation up for a vote that will provide more resources to support mental health, require safe storage of firearms, make gun owners report lost or stolen firearms within 48 hours, require background checks for gun shows and online sales, and ban assault rifles like AR-15s.",
+          "sourceUrl": "https://tlaib.house.gov/posts/congresswoman-tlaib-statement-on-the-safer-communities-gun-legislation",
+          "agreement": "3/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "She opposed a federal ban on transgender students playing sports and said trans students should be free from discrimination.",
+          "quote": "Every child deserves the freedom to be themselves. Trans kids, like every other American, deserve to live their lives free from discrimination.",
+          "sourceUrl": "https://tlaib.house.gov/posts/tlaib-statement-on-republicans-discriminatory-trans-sports-ban",
+          "agreement": "3/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "She was listed as a cosponsor of the MORE Act, which would decriminalize and deschedule cannabis.",
+          "quote": "To decriminalize and deschedule cannabis, to provide for reinvestment in certain persons adversely impacted by the War on Drugs",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-118hr5601ih",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She co-sponsored the Medicare for All Act and has advocated expanding Medicare coverage.",
+          "quote": "Co-sponsored the Medicare For All Act and co-led a virtual rally to unveil the legislation.",
+          "sourceUrl": "https://rashidaforcongress.com/issues/healthcare-for-all/",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "She said she authored legislation to make voting easier and secured amendments to expand voting rights.",
+          "quote": "I’ve authored legislation that would make it easier to vote, and I’ve introduced legislation to end discrimination in auto insurance.",
+          "sourceUrl": "https://wdet.org/2022/10/25/michigan-voter-guide-2022-12th-congressional-district/",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "James D. Hooper",
+      "party": "Republican Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He says tax policy should leave more of families’ and businesses’ earnings with them and less going to Washington.",
+          "quote": "We need taxation policy that focuses on keeping MORE of your hard-earned dollars in your pocket and LESS going to waste in Washington D.C.",
+          "sourceUrl": "https://jameshooperforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He says parents should be able to choose among public, private, charter, and home schooling options.",
+          "quote": "That parents should choose the best educational delivery model for their children: Traditional Public School, Private School, Charter School, Home schooling, or any combination thereof.",
+          "sourceUrl": "https://jameshooperforcongress.com/about",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He says unchecked illegal immigration is dangerously unacceptable and frames border control as a sovereignty and security issue.",
+          "quote": "It is dangerously unacceptable to have unchecked illegal immigration which disguises drug trafficking, human and child trafficking, and terrorists crossing an abandoned border.",
+          "sourceUrl": "https://jameshooperforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He calls the Second Amendment non-negotiable and says it should remain un-infringeable.",
+          "quote": "I am a strong proponent of the Un-infringeable nature of the Second Amendment.",
+          "sourceUrl": "https://jameshooperforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He describes himself as pro-life from conception to natural death.",
+          "quote": "I am Pro-Life from conception to natural death.",
+          "sourceUrl": "https://jameshooperforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He favors a free-market approach to health care and more focus on holistic and preventive medicine.",
+          "quote": "More focus and resources should be available for more holistic approaches and preventative medicine, including mental health. This should be done through a free market approach.",
+          "sourceUrl": "https://jameshooperforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He strongly disagreed that human-caused climate change requires urgent political action and identified fossil fuels as currently most reliable.",
+          "quote": "Man-made climate change is a global threat and requires urgent political action.",
+          "sourceUrl": "https://ivoterguide.com/candidate/69746/race/844/election/1244",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Marc Joseph Sosnowski",
+      "party": "U.S. Taxpayers Party",
+      "stances": {
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "He opposed mandated wage controls and advocated entrepreneurship as a path to prosperity.",
+          "quote": "Rather than mandating controls on wages, let’s open the way to prosperity through individual efforts.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998155",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He said people who arrived since 2020 should be returned, while those who arrived earlier should stay with a path to legal status.",
+          "quote": "The illegals in the USA since 2020 must be returned to their land of origin. Those here longer should stay, since enforcement had been ignored, with a path to legal status.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998155",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "His campaign site calls for ending abortion and opposes late-term abortion in Michigan.",
+          "quote": "To end abortion, we too must show the victims.",
+          "sourceUrl": "https://www.marc.vote/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He advocated price disclosure and competition to lower health care costs.",
+          "quote": "Instead of shopping for monthly premium value, we must demand disclosure of the pricing of procedures and services to promote competition to bring down costs.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998155",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He advocated making more fuel available to lower consumer energy costs.",
+          "quote": "Making the abundance of fuel available will drive down costs for consumers in Michigan, in the USA, and across the world.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998155",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Brenda K. Sanders",
+      "party": "Green Party",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She said she has long advocated raising the federal minimum wage to at least $21.",
+          "quote": "I have always espoused that the federal minimum wage be raised to at least 21.00.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998155",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She called for accelerating climate remedies and stopping further harmful chemical and radioactive pollution.",
+          "quote": "We have to accelerate the implementation of climate change remedies. Stopping and prohibiting further harmful chemical and radioactive substances into are breathing spaces should be ongoing.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998155",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Gary Walkowicz",
+      "party": "Working Class Party",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Walkowicz said tax money should fund the public services people need.",
+          "quote": "There is plenty of money from these taxes that could be used for all the public services we need.",
+          "sourceUrl": "https://www.workingclassfight.com/elections/michigan-2018/speech-by-gary-walkowicz-9-23-2018/",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He called for a much higher minimum wage and wages that keep pace with inflation.",
+          "quote": "The minimum wage should be 5 times higher. Our pay should keep up with inflation. When prices go up, our wages should go up equally and immediately.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998155",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He said public money should be invested in public schools so children can attend safely.",
+          "quote": "The same way public money has been taken away from public health, it has also been taken away from public education. When Covid hit, public money could have been put into the schools to equip them to have children there safely.",
+          "sourceUrl": "https://www.workingclassfight.com/blog/gary-walkowicz-speech-at-the-working-class-party-convention-2022/",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He said immigrants who come to work should receive full citizenship rights.",
+          "quote": "Every immigrant who comes here to work should get full citizenship rights.",
+          "sourceUrl": "https://my.lwv.org/sites/default/files/leagues/wysiwyg/%5Bcurrent-user%3Aog-user-node%3A1%3Atitle%5D/lowv_2022_102_pages_-corrected.pdf",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He criticized the end of federal abortion protections, saying women had lost the right to choose an abortion.",
+          "quote": "Roe v. Wade, meaning that for many millions of women it will now be against the law for them to choose to have an abortion.",
+          "sourceUrl": "https://www.workingclassfight.com/blog/gary-walkowicz-speech-at-the-working-class-party-convention-2022/",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He called health care a human right and advocated for a national health care system.",
+          "quote": "Health care should be a human right, not a profit-making industry. We must have a national health care system.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998155",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "rashidaforcongress.com · wdet.org · tlaib.house.gov · govinfo.gov · jameshooperforcongress.com · ivoterguide.com · onyourballot.vote411.org · marc.vote · workingclassfight.com · my.lwv.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

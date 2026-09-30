@@ -1,0 +1,249 @@
+{
+  "office": "U.S. Representative",
+  "district": "MI District 11",
+  "division": "mi/cd-11",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jeremy Moss",
+      "party": "Democratic Party",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports strengthening organized labor and protecting workers’ rights.",
+          "quote": "Strengthening organized labor, and protecting workers’ rights so everyone benefits from economic growth",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=25687892",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He called for stopping the chaotic tariff policy, which he says raises costs.",
+          "quote": "Stopping the chaotic tariff policy",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=25687892",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says he will fight threats to Social Security, Medicare, and Medicaid.",
+          "quote": "In Congress, he’ll push back against Donald Trump’s reckless policies that are tanking our economy, fight looming threats to Social Security, Medicare, and Medicaid",
+          "sourceUrl": "https://www.votejeremymoss.com/",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He supports major federal investment to build affordable housing and repair homes.",
+          "quote": "We need major federal investments to build more affordable housing, creative incentives to repair housing in disrepair, and crack down on corporate investors driving up prices.",
+          "sourceUrl": "https://votejeremymoss.com/priorities/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports legal pathways to citizenship for DACA recipients and changes to the visa system.",
+          "quote": "We must create legal pathways to citizenship for those protected under DACA and revamp the outdated visa system.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=25687892",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He says he implemented gun safety laws as a Michigan state senator.",
+          "quote": "As our State Senator and President Pro Tem of the Michigan Senate, he successfully implemented effective gun safety laws",
+          "sourceUrl": "https://www.votejeremymoss.com/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He says he acted to safeguard reproductive health care after Roe was overturned.",
+          "quote": "And when Roe was overturned, he acted swiftly to safeguard reproductive healthcare.",
+          "sourceUrl": "https://www.votejeremymoss.com/",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports a robust public option as a pathway to universal coverage.",
+          "quote": "I strongly support a robust public option as a pathway to universal coverage.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=25687892",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "He says he voted for a 100% clean energy standard and supports progress toward a clean grid.",
+          "quote": "We have a moral imperative to make progress towards a clean energy grid, enact strong environmental protections, and prepare our communities for extreme weather events.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=25687892",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He says he reduced barriers to voting and expanded ballot access as chair of the Michigan Senate Elections Committee.",
+          "quote": "As chair of the Michigan Senate Elections Committee, he reduced barriers to voting and expanded access to the ballot box.",
+          "sourceUrl": "https://www.votejeremymoss.com/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Ethan Baker",
+      "party": "Republican Party",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Baker said he supports increasing housing supply and reducing barriers to growth.",
+          "quote": "We must lower costs by increasing housing supply, reducing barriers to economic growth, and making childcare and healthcare more affordable.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=25687892",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "In his 2024 State of the City address, Baker said Troy should prioritize public safety spending and keep it properly funded.",
+          "quote": "By far and away, the bulk of our annual budget is dedicated toward Public Safety—our Police Department, our Fire Department and EMS—and that is exactly where we should be focused. Public Safety is Priority #1. Plain and simple. The reality is, we would sacrifice everything else to make sure Public Safety is properly funded",
+          "sourceUrl": "https://cms6.revize.com/revize/citytroymi/Community/City%20Council/State%20of%20the%20City%20Address%202024%20-%20Mayor%20Ethan%20Baker_final.pdf",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Baker supports secure borders and fair enforcement alongside legal immigration reforms and constitutional protections.",
+          "quote": "At the same time, we must maintain secure borders and enforce immigration laws fairly and effectively. I support reforms that improve border security, modernize the legal immigration system, and ensure enforcement actions are conducted consistent with constitutional principles and the rule of law.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=25687892",
+          "agreement": "8/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "As a Troy city councilman, Baker voted against licensing medical-marijuana facilities.",
+          "quote": "who voted to “opt out” of licensing marijuana facilities last February.",
+          "sourceUrl": "https://www.wxyz.com/news/troy-police-investigating-fake-medical-marijuana-petition-signatures",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Baker proposed lowering health care costs by increasing competition and expanding access to primary and mental health care.",
+          "quote": "Healthcare should be affordable, accessible, and focused on patients, not insurance company profits. In Congress, I will work to lower prescription drug costs, expand access to primary and mental health care, protect coverage for people with preexisting conditions, and increase competition to reduce costs.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=25687892",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Baker supports affordable domestic energy and an all-of-the-above strategy while also supporting pollution reduction and clean technologies.",
+          "quote": "We need an energy strategy that is reliable, affordable, and responsible. I support an all-of-the-above approach that strengthens our electric grid, invests in next-generation energy technologies, like clean and safe nuclear power, and protects our natural resources, including the Great Lakes. We should encourage innovation, modernize infrastructure, and expand domestic energy production while reducing pollution.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=25687892",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Farid Ishac",
+      "party": "Libertarian Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Ishac said he supports reducing property and income taxes.",
+          "quote": "I support reducing taxes, especially property tax and income tax.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=25687892",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Ryan Teasdale",
+      "party": "Green Party",
+      "stances": {}
+    },
+    {
+      "name": "Anil Kumar",
+      "party": "No Party Affiliation",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "In his 2016 questionnaire, Kumar supported increasing the top marginal tax rate and investing in job training.",
+          "quote": "increasing the top marginal tax rate, and investing in job training",
+          "sourceUrl": "https://my.lwv.org/sites/default/files/LOWV2016Final.pdf",
+          "agreement": "4/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports policies to raise wages, without specifying a minimum wage or union policy.",
+          "quote": "I support policies that raise wages, create good-paying jobs, support small businesses, lower everyday costs, and make housing, childcare, and education more affordable.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998153",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He said Social Security and Medicare are promises to seniors that must be kept.",
+          "quote": "I am proud to be a supporter of women's rights, and a protector of Social Security and Medicare. I understand that Social Security and Medicare are promises to our seniors that must be kept",
+          "sourceUrl": "https://www.prnewswire.com/news-releases/dr-anil-kumar-md-files-his-candidacy-for-united-states-congress-11th-district-in-michigan-255334641.html",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Kumar supported immigration reform with a pathway to citizenship and expanded legal employment verification.",
+          "quote": "I support immigration reform with a pathway to citizenship and an expansion of the E-Verify system",
+          "sourceUrl": "https://my.lwv.org/sites/default/files/LOWV2016Final.pdf",
+          "agreement": "3/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "In a 2014 tweet, he supported reasonable regulations to stop illegal gun sales and close loopholes.",
+          "quote": "I support the Second Amendment, but we need some reasonable regulations to prevent illegal gun sales and close loopholes.",
+          "sourceUrl": "https://michiganindependent.com/Politics/democrats-challenging-michigan-u-s-rep-james-oppose-him-on-abortion-gun-safety",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He says health care is a right and supports Medicare for All.",
+          "quote": "As a physician, I believe heathcare is a right and Medicare for All.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998153",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports affordable, reliable energy while also expanding clean energy and reducing pollution.",
+          "quote": "I support an energy strategy that is affordable and reliable while expanding clean energy and protecting Michigans Great Lakes and reducing pollution.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998153",
+          "agreement": "8/10"
+        }
+      }
+    }
+  ],
+  "sources": "onyourballot.vote411.org · votejeremymoss.com · cms6.revize.com · wxyz.com · my.lwv.org · prnewswire.com · michiganindependent.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

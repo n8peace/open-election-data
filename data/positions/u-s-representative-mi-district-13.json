@@ -1,0 +1,305 @@
+{
+  "office": "U.S. Representative",
+  "district": "MI District 13",
+  "division": "mi/cd-13",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Donavan McKinney",
+      "party": "Democratic Party",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He supports raising taxes on billionaires and corporations to fund community investments.",
+          "quote": "Raising taxes on billionaires and corporations could fund crucial investments our community needs for housing, education, clean air & water, fair paying jobs and healthcare.",
+          "sourceUrl": "https://www.donavanforcongress.com/priorities",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports living wages and the right of workers to form unions.",
+          "quote": "I’m fighting for all my union family and for every worker to have the right to form a union, earn a living wage, and be able to provide for their family.",
+          "sourceUrl": "https://www.donavanforcongress.com/priorities",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He supports a national housing guarantee that would fund millions of new public and affordable housing units.",
+          "quote": "We could build 8.5 million new public housing units, fund local development of 3.5 million new private, permanent affordable housing projects",
+          "sourceUrl": "https://www.donavanforcongress.com/priorities",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He supports federal investment in public schools, teachers, and public education programs.",
+          "quote": "I’m going to Washington to put federal dollars back in our public schools; to invest in paying our teachers higher wages, nationwide universal free school lunches",
+          "sourceUrl": "https://www.donavanforcongress.com/priorities",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "He supports shifting resources toward social, health, and rehabilitation services to prevent incarceration.",
+          "quote": "It includes reallocating funding to invest in social, health, and rehab services so that we are able to reach people who are at risk of incarceration",
+          "sourceUrl": "https://www.donavanforcongress.com/priorities",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports a pathway to citizenship for immigrants and changes to the asylum process.",
+          "quote": "We need a pathway to citizenship for all immigrants, tackle the bureaucracy that makes immigrating to this country so difficult, reform our asylum process",
+          "sourceUrl": "https://www.donavanforcongress.com/priorities",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports codifying abortion rights and protecting access to medication abortion nationwide.",
+          "quote": "We must codify abortion rights at the federal level and particularly protect access to medication abortion nationwide",
+          "sourceUrl": "https://www.donavanforcongress.com/priorities",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports Medicare for All as a path to universal coverage and lower health care costs.",
+          "quote": "Healthcare must be a right for every American, not a privilege for the wealthy few. Which is why I support Medicare for All.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73025663",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He supports a Green New Deal transitioning to 100% clean and renewable energy.",
+          "quote": "A Green New Deal transitioning to 100% clean and renewable energy, would protect our planet’s future and create millions of good-paying green union jobs in Michigan.",
+          "sourceUrl": "https://www.donavanforcongress.com/priorities",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "As a state representative, he cosponsored a bill to allow voter preregistration beginning at age 16.",
+          "quote": "Elections: registration; preregistration to vote at age 16; provide for.",
+          "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2023-HB-4569",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "T.P. Nykoriak",
+      "party": "Republican Party",
+      "stances": {
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He calls for reducing the national debt and eliminating unnecessary federal programs.",
+          "quote": "Advocate for responsible federal spending, reduce the national debt, eliminate unnecessary government programs, and ensure taxpayer dollars are spent efficiently and transparently.",
+          "sourceUrl": "https://tp313.org/",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "His campaign says police should have training, equipment, and legal protections to protect the public.",
+          "quote": "Ensure that police officers have the training, equipment, legal protections, and community partnerships necessary to protect the public while maintaining the highest professional standards.",
+          "sourceUrl": "https://tp313.org/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "His campaign supports strong border security and enforcing existing immigration laws, while describing legal immigration as orderly, fair, and secure.",
+          "quote": "Support strong border security, enforce existing immigration laws, combat human trafficking and fentanyl trafficking, and ensure that legal immigration remains orderly, fair, and secure.",
+          "sourceUrl": "https://tp313.org/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "His campaign supports the right of law-abiding citizens to keep and bear arms while enforcing existing laws against violent criminals.",
+          "quote": "Protect the constitutional right of law-abiding citizens to keep and bear arms while enforcing existing laws against violent criminals.",
+          "sourceUrl": "https://tp313.org/",
+          "agreement": "10/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "His campaign supports federal decriminalization and removing marijuana from the federal list of controlled substances where appropriate.",
+          "quote": "TP Nykoriak believes Congress should work with the President to remove marijuana from the federal list of controlled substances where appropriate and modernize federal law to reflect the reality that many states, including Michigan, have adopted a different approach.",
+          "sourceUrl": "https://tp313.org/",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "His campaign supports domestic energy production and policies to lower energy costs; it does not specify emissions targets.",
+          "quote": "Promote domestic energy production, modern infrastructure, and policies that lower energy costs while strengthening national security and economic independence.",
+          "sourceUrl": "https://tp313.org/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supports enforcing election laws and maintaining accurate voter rolls.",
+          "quote": "Support fair, transparent, and secure elections by enforcing existing election laws, ensuring accurate voter rolls, and strengthening public confidence in the electoral process.",
+          "sourceUrl": "https://tp313.org/",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Chris Dardzinski",
+      "party": "U.S. Taxpayers Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He urged Congress to eliminate federal taxes on tips.",
+          "quote": "Eliminate Federal taxes on Tips, now! I'm glad to see the major party Presidential candidates agree, on eliminating federal taxes on tips.",
+          "sourceUrl": "https://leadership1776.com/op-eds",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He supports cutting federal spending to reduce debt and proposed raising the Social Security retirement age for future recipients.",
+          "quote": "The government should cut spending in order to reduce the national debt. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/74652/race/845/election/976?culture=en-us",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He said he supports quality public education and would favor substantially higher K-12 teacher pay if possible.",
+          "quote": "I support quality public education, and if it were possible, I'd pay K-12 teachers a million dollars a year.",
+          "sourceUrl": "https://leadership1776.com/",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "In a questionnaire, he disagreed with redirecting police funds to mental-health and community programs.",
+          "quote": "It is way more complicated. each community needs to be looked at, by their local government and decide accordingly.",
+          "sourceUrl": "https://ivoterguide.com/candidate/74652/race/845/election/976",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "He said gun owners should be at least 18 and undergo a background check.",
+          "quote": "What restrictions on gun ownership are needed to protect public safety? 18 years old and back ground check.",
+          "sourceUrl": "https://ivoterguide.com/candidate/74652/race/845/election/976?culture=en-us",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "He identifies as pro-life and supports withholding public funds from abortion providers, while saying family decisions should remain personal.",
+          "quote": "I'm Pro-Life and I don't apologize for it. If someone is pro-choice I don't make them apologize for it.",
+          "sourceUrl": "https://ivoterguide.com/candidate/74652/race/845/election/976?culture=en-us",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "On a questionnaire, he selected the option to abolish taxpayer-funded health care, including Medicaid and Medicare.",
+          "quote": "D)Tax-payer funded health care should be abolished in all forms, and Medicaid and Medicare should be de-funded. D.",
+          "sourceUrl": "https://ivoterguide.com/candidate/74652/race/845/election/976?culture=en-us",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supports fracking and said energy independence benefits national security and the economy.",
+          "quote": "Energy independence is good for natiuonal secuity, and the economy and free enterprise.",
+          "sourceUrl": "https://ivoterguide.com/candidate/74652/race/845/election/976?culture=en-us",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He opposes voting without photo identification and supports hand-counted paper ballots and stronger chain-of-custody requirements.",
+          "quote": "People should be able to vote without photo identification. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/74652/race/845/election/976?culture=en-us",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Raelyn Light",
+      "party": "Green Party",
+      "stances": {}
+    },
+    {
+      "name": "Simone R. Coleman",
+      "party": "Working Class Party",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Coleman said needed services are worth paying for and criticized corporate tax breaks and wealthy loopholes.",
+          "quote": "I believe if services are needed, they are worth being paid for.",
+          "sourceUrl": "https://www.workingclassfight.com/elections/michigan-2020/simone-r-coleman/",
+          "agreement": "2/3"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She said a living wage should be the starting wage for every job.",
+          "quote": "A living wage should be the starting wage of all jobs.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73025663",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "She said immigrants should have due process and protections against illegal searches and seizures.",
+          "quote": "Everyone living here, including immigrants, should have the right to due process. People should have the right to freedom of speech (no harm to others) and peaceful assembly.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73025663",
+          "agreement": "2/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supported universal health care and redirecting money from health care corporations toward care.",
+          "quote": "Everyone in America deserves universal health care. Taker away the profits of the insurance companies, hospital corporations and drug companies, and put money toward health care, and everyone in the country will have good health care.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73025663",
+          "agreement": "2/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "She called for regulating energy prices to what working people can afford and reducing rates.",
+          "quote": "Energy prices should be regulated to what working people can afford. Rates should be reduced, while money that is taken in should be used to increase reliability.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73025663",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "donavanforcongress.com · onyourballot.vote411.org · legislature.mi.gov · tp313.org · leadership1776.com · ivoterguide.com · workingclassfight.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
