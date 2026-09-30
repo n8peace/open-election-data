@@ -1,0 +1,282 @@
+{
+  "office": "U.S. Representative",
+  "district": "MI District 10",
+  "division": "mi/cd-10",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Christina Bertrand Hines",
+      "party": "Democratic Party",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She proposes eliminating the Social Security earnings cap so higher earners contribute more to fund the program.",
+          "quote": "Everyone who pays taxes benefits from Social Security, and everyone should contribute comparably.",
+          "sourceUrl": "https://christinahinesforcongress.substack.com/p/keeping-promises-for-generations",
+          "agreement": "8/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She says she will reject cuts to Social Security benefits.",
+          "quote": "I will reject any such cuts to Social Security, disability, or survivor benefits.",
+          "sourceUrl": "https://christinahinesforcongress.substack.com/p/keeping-promises-for-generations",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She proposes increasing housing supply, rewarding communities that build, and cutting permitting delays.",
+          "quote": "Expand tax incentives that help build affordable housing, and increase the supply of homes available to working families in our district.",
+          "sourceUrl": "https://christinahinesforcongress.substack.com/p/the-american-dream-is-frozen",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She opposes defunding public education and proposes increasing federal support for school programs and staff.",
+          "quote": "Our schools are falling short because we’ve allowed state and federal politics, underfunding, and misplaced priorities to hold us back.",
+          "sourceUrl": "https://christinahinesforcongress.substack.com/p/from-warren-woods-to-washington-c3b",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She calls for border security alongside efficient pathways to citizenship and constitutional protections for immigrants.",
+          "quote": "We need bipartisan solutions to secure our border, stop fentanyl and other drugs, and create efficient pathways to citizenship.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998143",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She has made stronger gun laws, including safe-storage rules, red-flag laws, and universal background checks, a campaign priority.",
+          "quote": "If elected, she is committed to making the passage of stronger gun laws a top priority, from strengthening safe storage requirements to implementing red flag laws and universal background checks on gun sales.",
+          "sourceUrl": "https://giffords.org/candidates/christina-hines/",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "She says protecting reproductive freedom is a reason she is running for Congress.",
+          "quote": "Hines says she’s running to lower healthcare costs, guard voting rights, and protect reproductive freedom.",
+          "sourceUrl": "https://www.wcmu.org/local-regional-news/2026-09-28/10th-congressional-race-michigan-michael-bouchard-christina-hines?_amp=true",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports universal health care and proposes expanding Medicare, Medicaid, and the Affordable Care Act.",
+          "quote": "I support universal healthcare. Growing up, my mom was chronically ill, and my family experienced firsthand how exhausting it can be to navigate our healthcare system.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998143",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "She supports clean-energy investment and legislation to reduce carbon emissions.",
+          "quote": "I will support legislation like the Inflation Reduction Act that helps bring clean energy manufacturing back to the United States while reducing carbon emissions and strengthening our domestic supply chains.",
+          "sourceUrl": "https://christinahinesforcongress.substack.com/p/my-plan-to-protect-michigans-water",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Michael Bouchard",
+      "party": "Republican Party",
+      "stances": {
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says he will protect Medicare and Social Security while addressing waste and fraud.",
+          "quote": "I will always protect Medicare and Social Security. We need to root out the waste and the fraud that threatens these critical programs.",
+          "sourceUrl": "https://www.bouchardforcongress.com/a-7-lightbox.html",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supports finishing the border wall, ending catch-and-release, and deporting criminal immigrants who endanger citizens.",
+          "quote": "I stand for finishing the wall, restoring the “Remain in Mexico” policy, and ending catch-and-release once and for all.",
+          "sourceUrl": "https://www.bouchardforcongress.com/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He favors letting people choose their health care and criticizes a government-run, one-size-fits-all program.",
+          "quote": "I want you to pick the health care that works for you and your family. It should be low cost, high quality, and transparent about what you are paying for.",
+          "sourceUrl": "https://www.bouchardforcongress.com/a-8-lightbox.html",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Mike Saliba",
+      "party": "Libertarian Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He pledged support for the FAIRtax to replace federal income and other listed taxes with a consumption tax.",
+          "quote": "It replaces federal income taxes including personal, estate, gift, capital gains, alternative minimum, Social Security, Medicare, self-employment, and corporate taxes.",
+          "sourceUrl": "https://votesaliba.com/legislation/",
+          "agreement": "2/3"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He said the United States should be willing to trade with countries that are willing to engage.",
+          "quote": "We must be willing to talk to all countries and offer friendship and trade and travel to all who are willing.",
+          "sourceUrl": "https://votesaliba.com/issues/",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He said the national debt should not increase and that the government should pay its bills as it goes.",
+          "quote": "I believe that there should be no increase in the national debt. The burden of debt placed on the next generation is unjust and already threatening our economy and the value of our dollar.",
+          "sourceUrl": "https://votesaliba.com/issues/",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "He supported redirecting police funding to mental health and community programs.",
+          "quote": "I support redirecting funds from police departments to mental health and community programs.",
+          "sourceUrl": "https://ivoterguide.com/candidate/56013/race/842/election/976",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He said almost anyone who poses no threat should be allowed to immigrate to the United States.",
+          "quote": "Pretty much anyone who wants to and doesn't pose any threat, i.e. 99.99% of immigrants.",
+          "sourceUrl": "https://ivoterguide.com/candidate/56013/race/842/election/976",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He said no restrictions on gun ownership are needed to protect public safety.",
+          "quote": "What restrictions on gun ownership are needed to protect public safety? None",
+          "sourceUrl": "https://ivoterguide.com/candidate/56013/race/842/election/976",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "He said abortion should be allowed to protect the mother's health and before quickening.",
+          "quote": "To protect the health of the mother and before \"quickening\"",
+          "sourceUrl": "https://ivoterguide.com/candidate/56013/race/842/election/976",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He opposed the Affordable Care Act and called for a free market health care system with more competition and fewer mandates.",
+          "quote": "We need a completely free market health care. Allow insurance across state lines, expand HSAs, end coverage mandates, require upfront pricing, repeal certificate-of-need laws, reduce licensing barriers, expand direct primary care, increase drug competition",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998143",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supported using fracking to extract oil and natural gas.",
+          "quote": "I support the use of hydraulic fracking to extract oil and natural gas resources.",
+          "sourceUrl": "https://ivoterguide.com/candidate/56013/race/842/election/976",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "He disagreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/56013/race/842/election/976",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "Kwabena Nkromo",
+      "party": "Green Party",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He supports expanding affordable housing and Community Land Trusts.",
+          "quote": "Congress should protect workers, strengthen local businesses, expand truly affordable housing and Community Land Trusts, reinvest in education for an AI-driven economy, and direct federal investment toward locally rooted economic development.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998143",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports humane immigration reform, due process, family unity, asylum and labor rights, and a pathway to citizenship.",
+          "quote": "I support humane immigration reform that protects due process, family unity, asylum and labor rights, and a workable pathway to citizenship.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998143",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "He supports accelerating the transition away from fossil fuels while also emphasizing affordable, reliable energy.",
+          "quote": "I support accelerating the transition away from overdependence on fossil fuels while investing in resilient infrastructure, efficiency, cleaner energy, and good local jobs.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998143",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Andrea L. Kirby",
+      "party": "Working Class Party",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "She criticized the treatment of California fast-food workers who secured a $20 hourly minimum wage.",
+          "quote": "The reality is that they are persecuting California fast food workers for securing a $20 per hour minimum wage.",
+          "sourceUrl": "https://the-spark.net/paper/1201/andrea-kirby-the-economic-impact-on-workers/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She called for expanding legal immigration and creating paths to legal status for workers already in the country and people brought here as children.",
+          "quote": "We also need to ensure a path to legal status for those workers who are already here and have been contributing to a healthy society and economy.",
+          "sourceUrl": "https://my.lwv.org/sites/default/files/LWV-Voter-guide-FINAL-compressed_2.pdf",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She called for health care to be free, high quality, and treated as a human right.",
+          "quote": "Healthcare should be a human right—free of charge, of excellent quality, and performed by well-paid healthcare workers.",
+          "sourceUrl": "https://the-spark.net/paper/1199/state-of-the-working-class/",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "christinahinesforcongress.substack.com · onyourballot.vote411.org · giffords.org · wcmu.org · bouchardforcongress.com · votesaliba.com · ivoterguide.com · the-spark.net · my.lwv.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

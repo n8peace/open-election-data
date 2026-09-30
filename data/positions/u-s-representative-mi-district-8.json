@@ -1,0 +1,281 @@
+{
+  "office": "U.S. Representative",
+  "district": "MI District 8",
+  "division": "mi/cd-8",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Kristen McDonald Rivet",
+      "party": "Democratic Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "She has made cutting taxes for working and middle-class families a stated priority and led a tax-cut effort in the Michigan Senate.",
+          "quote": "Her top priorities include cutting taxes for the working and middle class, lowering the cost of groceries, housing, prescription drugs, and childcare, and bringing good-paying jobs to mid-Michigan.",
+          "sourceUrl": "https://mcdonaldrivet.house.gov/about",
+          "agreement": "9/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She promoted an affordability agenda that calls for increasing the minimum wage and protecting workers’ rights.",
+          "quote": "To lower the cost of groceries and household essentials: roll back tariffs, reverse harmful cuts to federal nutrition programs, provide flexibility in federal lending and subsidy programs for small- and mid-size farmers, increase the minimum wage, and protect workers’ rights.",
+          "sourceUrl": "https://mcdonaldrivet.house.gov/media/press-releases/icymi-rep-mcdonald-rivet-new-democrat-coalition-unveil-policy-agenda-make-life",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "She called for rolling back tariffs, saying they raise costs for families and threaten Michigan industries.",
+          "quote": "tariffs are making everything more expensive",
+          "sourceUrl": "https://mcdonaldrivet.house.gov/media/press-releases/icymi-rep-mcdonald-rivet-new-democrat-coalition-unveil-policy-agenda-make-life",
+          "agreement": "8/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She said Social Security and Medicare are hard-earned benefits that should be protected.",
+          "quote": "She believes we must protect hard-earned benefits, like Social Security and Medicare.",
+          "sourceUrl": "https://mcdonaldrivet.house.gov/about",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports expanding school funding for social workers, nurses, and counselors in school buildings.",
+          "quote": "I support expanded funding for schools to increase the number of social workers, nurses and counselors in our school buildings.",
+          "sourceUrl": "https://www.ourmidland.com/news/article/Kristen-McDonald-Rivet-answers-questions-from-17483003.php",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "She increased funding for local police as a city commissioner and has backed federal funding for law enforcement.",
+          "quote": "As a Bay City Commissioner, she increased funding to hire additional officers, and in the state Senate, she brought back to local departments millions to fund more officers, tools, and training.",
+          "sourceUrl": "https://kristenmcdonaldrivet.com/priority/supporting-public-safety/",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "As a state senator, she introduced Michigan's safe gun-storage legislation.",
+          "quote": "When I introduced this legislation, it was my hope that it would never be used,",
+          "sourceUrl": "https://www.clickondetroit.com/news/local/2024/02/20/michigan-sees-first-charges-filed-under-new-safe-gun-storage-law-after-baby-girl-shoots-herself/",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She helped repeal Michigan’s abortion ban and enshrine abortion rights in the state constitution.",
+          "quote": "After the Dobbs decision, Kristen helped repeal Michigan’s extreme abortion ban and enshrine the right to abortion into Michigan’s constitution.",
+          "sourceUrl": "https://mcdonaldrivet.house.gov/about",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "She voted against the 2025 House bill that would define sex for federally supported athletics solely by reproductive biology and genetics at birth.",
+          "quote": "Protection of Women and Girls in Sports Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Her campaign says she is fighting to allow every American to buy into Medicare.",
+          "quote": "she is fighting to let every American have the choice to buy into Medicare.",
+          "sourceUrl": "https://kristenmcdonaldrivet.com/priority/healthcare-we-can-afford/",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She publicly committed to expanding voting rights.",
+          "quote": "I am proudly committed to working with Defend The Vote and doing everything in my power to preserve and strengthen our democracy, stand up to special interests, and expand voting rights.",
+          "sourceUrl": "https://wedefendthevote.org/endorsement/kristen-mcdonald-rivet-2/",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "Thomas J. Smith",
+      "party": "Republican Party",
+      "stances": {}
+    },
+    {
+      "name": "C. Mia Pettus",
+      "party": "Libertarian Party",
+      "stances": {
+        "housing": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Her platform combines neighborhood preservation with affordable housing and removal of unnecessary barriers to development.",
+          "quote": "Affordable housing • Homelessness prevention • Neighborhood preservation • Homeownership • Removal of unnecessary barriers",
+          "sourceUrl": "https://pettusforcongress.org/priorities/",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Her platform supports multiple school options and says funding should follow the student.",
+          "quote": "Parental involvement • School choice • Public, charter, private & homeschool options • Funding follows the student • Public-fund accountability",
+          "sourceUrl": "https://pettusforcongress.org/priorities/",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Her platform supports law enforcement resources as well as youth programs and employment preparation.",
+          "quote": "Professional, trained & fairly compensated officers • Recruitment & retention • Equipment • Emergency response & ambulances • Civilian oversight • Body cameras • Constitutional accountability • Youth programs, coding, trades, financial literacy & employment preparation",
+          "sourceUrl": "https://pettusforcongress.org/priorities/",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Her platform calls for border enforcement alongside orderly legal immigration and due process.",
+          "quote": "Secure borders • Credible enforcement • Orderly legal immigration • Barbara Jordan/U.S. Commission on Immigration Reform framework • Employer accountability • Serious-crime enforcement • Due process • Human dignity • National security",
+          "sourceUrl": "https://pettusforcongress.org/priorities/",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Her platform supports reproductive healthcare decisions, patient autonomy, and medical privacy while distinguishing personal faith from governmental authority.",
+          "quote": "Patient autonomy • Reproductive healthcare decisions • Medical privacy • HIPAA protections • Stronger safeguards for government access to medical records",
+          "sourceUrl": "https://pettusforcongress.org/priorities/",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports universal healthcare coverage and public financing while seeking lower costs and broader access.",
+          "quote": "Universal access • Public financing with private/nonprofit providers • Preventive/community care • Capitation & continuity of care • Prescription affordability • Generic competition",
+          "sourceUrl": "https://pettusforcongress.org/priorities/",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Jim Casha",
+      "party": "Green Party",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He called for higher taxes on wealthy people and large businesses to fund infrastructure improvements.",
+          "quote": "Increase taxes on the wealthy and big business and use the money for infrastructure improvements.",
+          "sourceUrl": "https://my.lwv.org/sites/default/files/LOWV_2014.pdf",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He called for raising the federal minimum wage to a living wage indexed to living costs.",
+          "quote": "Raise the federal minimum wage to a ‘living wage’, with cost of living adjustments, so more people can buy Chryslers, Fords and GM’s not Ferraris.",
+          "sourceUrl": "https://my.lwv.org/sites/default/files/LOWV_2014.pdf",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He called both for a secure border and for sympathy and openness toward people seeking to live in the United States, and said he supported the DREAM Act.",
+          "quote": "We need a secure border and be sympathetic and open to the needs of those who want to live in the United States.",
+          "sourceUrl": "https://my.lwv.org/sites/default/files/LOWV_2014.pdf",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He endorsed a single-payer universal health-care system modeled on Canada’s.",
+          "quote": "We need a Single-payer, Universal Health Care System, much like Canada.",
+          "sourceUrl": "https://my.lwv.org/sites/default/files/LOWV_2014.pdf",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Kathy Goodwin",
+      "party": "Working Class Party",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She said wages, pensions, and disability payments should rise automatically when prices increase.",
+          "quote": "I think wages, pensions and disability payments need to automatically and immediately increase whenever prices increase.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998133",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "She said immigrants and noncitizens should have due-process and Fourth Amendment rights.",
+          "quote": "It is wrong that immigrants and non-citizens are denied these rights.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998133",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "She said she would support curbing semiautomatic weapons and limiting magazines.",
+          "quote": "to curtail those semiautomatic weapons and to have those limits on magazines. I would be happy to see those things",
+          "sourceUrl": "https://www.michiganpublic.org/politics-government/2022-10-11/dnp-meet-8th-district-working-class-party-candidate-kathy-goodwin",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She said abortion should be legal in all circumstances.",
+          "quote": "So I believe abortion must be legal in all circumstances.",
+          "sourceUrl": "https://www.michiganpublic.org/politics-government/2022-10-11/dnp-meet-8th-district-working-class-party-candidate-kathy-goodwin",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She described healthcare for all as part of a society that provides for working people.",
+          "quote": "In a decent society that provided for the working class, there would be healthcare for all, affordable housing and wonderful schools.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998133",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "She supports a transition to renewable and cleaner energy financed by those who profited from fossil fuels.",
+          "quote": "there would be some kind of renewable energy, but that should be paid for out of the profits that have been amassed for generations from the old fossil fuels industry.",
+          "sourceUrl": "https://www.michiganpublic.org/politics-government/2022-10-11/dnp-meet-8th-district-working-class-party-candidate-kathy-goodwin",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She said voting should be easier, with absentee voting and fewer restrictions.",
+          "quote": "So opening up voting, opening up absentee voting, having less restrictions, having people have the day off from work so that they don't have to try to finish a 15 hour day like my coworkers do, and then try to figure out when to vote would be important.",
+          "sourceUrl": "https://www.michiganpublic.org/politics-government/2022-10-11/dnp-meet-8th-district-working-class-party-candidate-kathy-goodwin",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "mcdonaldrivet.house.gov · ourmidland.com · kristenmcdonaldrivet.com · clickondetroit.com · clerk.house.gov · wedefendthevote.org · pettusforcongress.org · my.lwv.org · onyourballot.vote411.org · michiganpublic.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

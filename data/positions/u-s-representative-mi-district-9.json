@@ -1,0 +1,302 @@
+{
+  "office": "U.S. Representative",
+  "district": "MI District 9",
+  "division": "mi/cd-9",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Ray Pooley",
+      "party": "Democratic Party",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports cutting taxes for working families while making the wealthy and corporations pay their fair share.",
+          "quote": "That means simplifying the tax code so the ultra-wealthy pay their fair share, allowing us to cut taxes for working families, as well as closing all the tax loopholes these corporations take advantage of.",
+          "sourceUrl": "https://www.pooley4congress.com/copy-of-the-issues",
+          "agreement": "7/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports raising the minimum wage and protecting workers’ rights to organize and join unions.",
+          "quote": "It means fighting for trade deals that protect workers instead of shipping more jobs overseas, raising the minimum wage while putting a maximum ratio for CEO pay",
+          "sourceUrl": "https://www.pooley4congress.com/copy-of-the-issues",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He endorsed ending trade wars and tariffs, saying tariffs had hurt farming and manufacturing.",
+          "quote": "Yes to all of these. I've raised chickens since I was 8, and while I never operated a combine or planted soybeans, I've learned a thing or two over the years when it comes to farming and have no problems meeting with these hard workers. I also know that both farming and manufacturing got slammed by Trumps tariffs his first term",
+          "sourceUrl": "https://themeanzine.substack.com/p/candidate-questions-with-ray-pooley",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports a secure border alongside a faster legal immigration process and a pathway to citizenship for people who follow the rules.",
+          "quote": "This means a clear, swift pathway to citizenship for those who follow the rules, so they can pay taxes, start businesses, and contribute to our communities legally",
+          "sourceUrl": "https://www.pooley4congress.com/copy-of-the-issues",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He supports raising the firearm purchasing age, background checks on all sales, and closing access loopholes for domestic violence abusers.",
+          "quote": "Raising the purchasing age for firearms, ensuring all sales require a background check, closing loopholes that allow domestic violence abusers to access such weapons, and expanding mental healthcare.",
+          "sourceUrl": "https://www.pooley4congress.com/copy-of-the-issues",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports Medicare for All to expand access to affordable health care.",
+          "quote": "I will fight to break the corporate monopolies on healthcare to ensure every American has the freedom to access quality, affordable care, providing the security and peace of mind you deserve through Medicare For All.",
+          "sourceUrl": "https://www.pooley4congress.com/copy-of-the-issues",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He advocates expanding clean energy while seeking abundant, affordable power and lower utility bills.",
+          "quote": "By harnessing American-made solar, wind, and other innovative technologies, we can produce abundant, cheap, and clean power right here at home.",
+          "sourceUrl": "https://www.pooley4congress.com/copy-of-the-issues",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Lisa McClain",
+      "party": "Republican Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Her campaign says she supports reducing taxes on working Americans.",
+          "quote": "Americans want the government out of the way, higher take home pay, and lower taxes. I will support reducing taxes on hard working Americans and rolling back regulations that stifle small business growth.",
+          "sourceUrl": "https://www.lisamcclainforcongress.com/meet-lisa",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "In a 2021 hearing, McClain opposed eliminating the disability-worker 14(c) subminimum-wage program and criticized one-size-fits-all federal mandates.",
+          "quote": "Employers with 14(c) certificates are not artificially keeping paychecks low; they are giving individuals an opportunity to contribute where no opportunity existed.",
+          "sourceUrl": "https://edworkforce.house.gov/uploadedfiles/mcclain_opening_statement_7.21.21.pdf",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "McClain introduced housing legislation to expand supply and encourage communities to simplify permitting and zoning.",
+          "quote": "The Build Now Act strengthens the Community Development Block Grant (CDBG) program to encourage more housing development by:",
+          "sourceUrl": "https://mcclain.house.gov/2025/11/chairwoman-lisa-mcclain-leads-house-republican-effort-to-make-housing-affordable-again",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "A congressional report says McClain offered an amendment to expand public-school options, including charter schools.",
+          "quote": "Rep. Lisa McClain (R–MI) offered an amendment that would have ensured that the Department and local grantees could expand public school options, including to attend public charter schools, as a means of reducing racial and socioeconomic isolation.",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/CRPT-117hrpt176/pdf/CRPT-117hrpt176.pdf",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "She supported House legislation to equip law enforcement officers and strengthen their readiness and safety.",
+          "quote": "This week, we passed three pieces of legislation to strengthen law enforcement readiness and keep our officers safe.",
+          "sourceUrl": "https://mcclain.house.gov/2025/5/chairwoman-mcclain-celebrates-police-week-votes-to-equip-and-support-men-and-women-in-uniform",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Her campaign calls for building a border wall and enforcing immigration laws to the fullest extent.",
+          "quote": "We need to build a wall and enforce our immigration laws to the fullest extent.",
+          "sourceUrl": "https://www.lisamcclainforcongress.com/meet-lisa",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "She introduced a resolution to block a federal rule expanding firearms definitions and said she opposes restrictions on gun owners.",
+          "quote": "This ghost gun rule will do nothing to stop rising crime rates throughout the country. It targets lawful gunowners, not criminals.",
+          "sourceUrl": "https://mcclain.house.gov/2022/5/rep-mcclain-41-colleagues-introduce-cra-to-prohibit-ghost-gun-rule",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "She says life begins at conception and opposes repealing the Hyde Amendment.",
+          "quote": "Life begins at conception, and I will always protect the sanctity of Life. I will not support any attempt to repeal the Hyde Amendment, which prohibits the use of taxpayer dollars to fund abortions.",
+          "sourceUrl": "https://mcclain.house.gov/life",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "She introduced legislation to bar federally funded schools from allowing biological males to compete in girls’ and women’s athletics.",
+          "quote": "This legislation would prohibit schools that receive Federal financial assistance from allowing biological males to compete against females in athletics.",
+          "sourceUrl": "https://mcclain.house.gov/2023/12/mcclain-introduces-save-women-in-sports-act",
+          "agreement": "8/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "The House Clerk's roll call records McClain voting against the MORE Act, which would have federally legalized and regulated cannabis.",
+          "quote": "Roll Call 107 | Bill Number: H. R. 3617",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Her campaign advocates for more competition among insurers and free-market health care solutions.",
+          "quote": "I believe a combination of free-market solutions will make health care more affordable and accessible for Michiganders.",
+          "sourceUrl": "https://www.lisamcclainforcongress.com/meet-lisa",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Her official website prioritizes domestic energy production to lower energy costs and supports expanding oil and gas production.",
+          "quote": "Congress must pass laws that promote domestic production of this abundant resource to help lower energy costs for all Americans.",
+          "sourceUrl": "https://mcclain.house.gov/energy",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Kevin Vayko",
+      "party": "Libertarian Party",
+      "stances": {
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "He said elective abortion should be allowed in cases of rape, irreparable harm to the mother, or medically determined stillbirth.",
+          "quote": "1) In all cases of rape, 2) where the mother will bear irreparable harm not typical of a pregnancy, and 3) where the child has been medically determined to be stillborn.",
+          "sourceUrl": "https://ivoterguide.com/candidate/86139/race/841/election/1244",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "He supported subsidizing health care for U.S. citizens and simplifying care to enable preventive treatment.",
+          "quote": "If the US can afford to subsidize Isreali healthcare and useless foreign conflicts, why not subsidize healthcare for its own citizens?",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998137",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "John Vlahos",
+      "party": "U.S. Taxpayers Party",
+      "stances": {}
+    },
+    {
+      "name": "Destiny Clayton",
+      "party": "Green Party",
+      "stances": {}
+    },
+    {
+      "name": "Jim Walkowicz",
+      "party": "Working Class Party",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He criticized tax breaks and subsidies for wealthy people as depriving working families of needed social support.",
+          "quote": "In this society, what is prioritized is tax breaks and subsidies for the wealthy. This robs working families of the pay and social safety net necessary to live decently.",
+          "sourceUrl": "https://my.lwv.org/sites/default/files/LWV-Voter-guide-FINAL-compressed_1.pdf",
+          "agreement": "4/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He said wages for the lowest-paid workers should rise and everyone should receive a living wage that keeps pace with inflation.",
+          "quote": "Wages for those making the least amount of money, needs to go up. Everyone should receive a living wage. When inflation goes up, the wages of everyone should go up by an equal or greater amount.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998137",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He said Social Security benefits should be increased.",
+          "quote": "Social Security needs to be raised. Health care needs to be made affordable for everyone.",
+          "sourceUrl": "https://my.lwv.org/sites/default/files/leagues/wysiwyg/%5Bcurrent-user%3Aog-user-node%3A1%3Atitle%5D/lowv_2022_102_pages_-corrected.pdf",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "He linked crime to poverty, inequality and unemployment and said reducing those causes would reduce reliance on prisons.",
+          "quote": "I think if we lived in a world where there was not so much poverty, where there's not so much inequality, where people weren't frustrated, they didn't have jobs, I think crime wouldn't be to the extent that it is, we wouldn't have as much need for huge prison complexes and things like that.",
+          "sourceUrl": "https://www.michiganpublic.org/politics-government/2022-10-12/meet-9th-district-working-class-party-candidate-jim-walkowicz",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He called for dignity, respect, and legal protections for all people, including immigrants.",
+          "quote": "The demonizing of immigrants has to stop. We are all either immigrants or descendants of immigrants. All human beings, no matter where they are from, should be treated with dignity, respect, and legal protections.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998137",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "He said he is against assault weapons, while arguing gun policy should also address underlying causes of crime.",
+          "quote": "I'm absolutely against assault weapons. That's just crazy. But I think it's not as simple as saying ban them, because I think you have to look at the bigger issue.",
+          "sourceUrl": "https://www.michiganpublic.org/politics-government/2022-10-12/meet-9th-district-working-class-party-candidate-jim-walkowicz",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He said Congress should guarantee a woman's right to control her own body without government interference.",
+          "quote": "I think a woman has a right to control her own body without government interference. Point blank, I think it's not my business. It's nobody else's. So to answer your question, I think Congress needs to pass laws that guarantee a right for a woman to control her own body without government interference.",
+          "sourceUrl": "https://www.michiganpublic.org/politics-government/2022-10-12/meet-9th-district-working-class-party-candidate-jim-walkowicz",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He described health care as a basic right and said the country can provide it to everyone.",
+          "quote": "Everyone is entitled to health care. This should be a basic right for all people. The United States spends over $1 Trillion a year on the military. One person in this country is now a Trillionaire. So the money is there to provide health care to everyone in this country.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72998137",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "He criticized restrictions on voting rights and said everyone should have the right to vote.",
+          "quote": "And so people need to stop crying about that and look forward. But it is sad to see the restrictions on voting rights that came out of that. I think everybody should have the right to vote.",
+          "sourceUrl": "https://www.michiganpublic.org/politics-government/2022-10-12/meet-9th-district-working-class-party-candidate-jim-walkowicz",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "pooley4congress.com · themeanzine.substack.com · lisamcclainforcongress.com · edworkforce.house.gov · mcclain.house.gov · govinfo.gov · clerk.house.gov · ivoterguide.com · onyourballot.vote411.org · my.lwv.org · michiganpublic.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
