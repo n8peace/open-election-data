@@ -1,0 +1,202 @@
+{
+  "office": "U.S. Senator",
+  "district": "SC",
+  "division": "sc/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Annie Andrews",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "In an interview, Andrews called for raising the federal minimum wage, including to $15 an hour.",
+          "quote": "We need to raise the federal minimum wage. How long have we been having a conversation about a $15 minimum wage? And it’s beyond time to raise the federal minimum wage.",
+          "sourceUrl": "https://www.contrariannews.org/p/the-doctor-is-in-and-her-sights-are",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Her campaign platform calls for investment in classrooms and full funding for public schools and special education.",
+          "quote": "Invest in modern classrooms, technology, and school safety",
+          "sourceUrl": "https://drannieandrews.com/issue/strong-schools-affordable-child-care/",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "Andrews supports increased funding for hospital and community violence intervention programs.",
+          "quote": "increased funding for hospital and community-based violence intervention programs",
+          "sourceUrl": "https://www.contrariannews.org/p/the-doctor-is-in-and-her-sights-are",
+          "agreement": "6/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports universal background checks, along with other gun safety measures.",
+          "quote": "We can respect the Second Amendment and still protect our kids. That means: Universal background checks",
+          "sourceUrl": "https://drannieandrews.com/issue/an-end-to-gun-violence/",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Her platform says she will fight to restore Roe v. Wade protections and expand reproductive health access.",
+          "quote": "These decisions belong to women and families, not to politicians. I’ll fight to: Restore the protections of Roe v. Wade",
+          "sourceUrl": "https://drannieandrews.com/issue/reproductive-freedom-trust-women/",
+          "agreement": "7/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, Andrews said she supports full legalization and regulation of marijuana.",
+          "quote": "Legalization and regulation is the best way to ensure safe purchasing and consumption of marijuana.",
+          "sourceUrl": "https://vote.norml.org/politicians/205516",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Her platform supports a public option and expanding Medicaid and Medicare.",
+          "quote": "Advocate for policies like a public option that expand access to affordable healthcare for all South Carolinians",
+          "sourceUrl": "https://drannieandrews.com/issue/healthcare-is-a-right-not-a-privilege/",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She supports accessible elections and opposes efforts that make participation harder for eligible voters.",
+          "quote": "I support secure, fair, and accessible elections, and I will oppose efforts that make it harder for eligible voters to participate.",
+          "sourceUrl": "https://berkeleyobserver.com/2026/06/03/democratic-senate-candidate-annie-andrews-highlights-healthcare-affordability-ahead-of-june-9-primary/",
+          "agreement": "3/10"
+        }
+      }
+    },
+    {
+      "name": "Darline Graham",
+      "party": "Republican",
+      "stances": {
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "She supports police funding, training, and equipment and opposes defunding police.",
+          "quote": "She opposes every effort to defund the police, supports the funding, training, and equipment our officers need, and backs tough penalties for fentanyl traffickers and violent repeat offenders.",
+          "sourceUrl": "https://www.darlinegraham.com/issues",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "She supports a border wall, increased border enforcement, ending catch-and-release, and removal of criminal immigrants without legal status.",
+          "quote": "Darline supports finishing the wall, fully funding border enforcement, and ending catch-and-release.",
+          "sourceUrl": "https://www.darlinegraham.com/issues",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "She backed proposals expanding gun rights, including concealed-carry reciprocity and ending magazine-capacity restrictions.",
+          "quote": "We must ensure that law-abiding Americans can protect themselves and their loved ones without fear of prosecution. It’s my sworn duty to preserve that right.",
+          "sourceUrl": "https://www.dgraham.senate.gov/press-releases/senator-darline-graham-vows-to-protect-second-amendment-rights/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "She called herself pro-life, said she would not waver in that support, and co-sponsored several bills restricting abortion access.",
+          "quote": "I’m proud to be pro-life and to stand up for the unborn and expecting moms. I will not waver in my support for life, pregnant women, and families.",
+          "sourceUrl": "https://www.dgraham.senate.gov/press-releases/senator-darline-graham-proudly-stands-for-life/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "She publicly characterized government-run health care as a bad idea.",
+          "quote": "Gun control, government-run healthcare, abortion until the moment of birth, bad idea after bad idea, Annie Andrews backs them all.",
+          "sourceUrl": "https://transcripts.cnn.com/show/cnap/date/2026-08-26/segment/01",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "She co-sponsored the SAVE America Act, which requires photo ID and proof of citizenship for federal voting and calls for removing ineligible voters from rolls.",
+          "quote": "These reforms are common sense and need to be enacted quickly. I look forward to working closely with President Trump to get the SAVE America Act signed into law.",
+          "sourceUrl": "https://www.dgraham.senate.gov/press-releases/senator-darline-graham-cosponsors-the-save-america-act/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Mark Hackett",
+      "party": "Constitution",
+      "stances": {}
+    },
+    {
+      "name": "Kasie Whitener",
+      "party": "Libertarian",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "She argues that raising taxes will not solve the debt problem and calls for spending reform and a simpler tax code.",
+          "quote": "we can’t tax our way out of this. That is not a viable “fix it” option.",
+          "sourceUrl": "https://kasiesouthcarolina.com/we-cant-tax-our-way-out-of-this/",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "She wrote that abortion rates need not be reduced by outlawing access to safe medical treatment.",
+          "quote": "To actually reduce abortion rates, we don’t need to outlaw access to safe medical treatment.",
+          "sourceUrl": "https://sclp.org/2022/06/roe-v-wade-abortion-and-libertarians/",
+          "agreement": "4/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "She called for decriminalizing cannabis and ending arrests for cannabis-related conduct.",
+          "quote": "Stop arresting people for growing, harvesting, selling, buying, and consuming cannabis.",
+          "sourceUrl": "https://sclp.org/2023/02/5-things-more-important-than-abortion-on-the-2023-sc-legislative-agenda/",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "She favors consumer-driven private insurance and says government should leave the health-insurance market.",
+          "quote": "Finally, and most importantly, government needs to get out of the health insurance market.",
+          "sourceUrl": "https://kasiesouthcarolina.com/second-verse-same-as-the-first/",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "She said she supports voter-identification laws such as the SAVE Act while generally opposing federal mandates on states.",
+          "quote": "As a Libertarian, Whitener doesn’t support foreign intervention, like the actions in Iran, but does support the concepts of voter ID laws, like what can be found in the SAVE Act.",
+          "sourceUrl": "https://www.live5news.com/2026/07/17/we-palmetto-meet-candidate-kasie-whitener-us-senate/",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "contrariannews.org · drannieandrews.com · vote.norml.org · berkeleyobserver.com · darlinegraham.com · dgraham.senate.gov · transcripts.cnn.com · kasiesouthcarolina.com · sclp.org · live5news.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

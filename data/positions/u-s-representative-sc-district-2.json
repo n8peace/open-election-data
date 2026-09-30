@@ -1,0 +1,189 @@
+{
+  "office": "U.S. Representative",
+  "district": "SC District 2",
+  "division": "sc/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Zyon Khalifa",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "His campaign platform proposes increasing the minimum wage so full-time workers can support their families.",
+          "quote": "Implement a minimum wage increase so that full-time workers can achieve financial stability and support their families.",
+          "sourceUrl": "https://www.khalifaforcongress.com/platform",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "His campaign platform calls for increased funding and resources for public schools.",
+          "quote": "Prioritize increased funding for public schools to improve facilities, classroom resources, and educational programs, ensuring every student has access to quality education.",
+          "sourceUrl": "https://www.khalifaforcongress.com/platform",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "His platform proposes guiding young people away from incarceration and toward education and careers.",
+          "quote": "Create pathways that guide youth away from the prison pipeline and towards meaningful careers, ensuring a brighter future for all.",
+          "sourceUrl": "https://www.khalifaforcongress.com/platform",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "His platform proposes faster case processing and a clear process for people following immigration law.",
+          "quote": "Create a clear, streamlined process so individuals who are following the law can move through the system efficiently",
+          "sourceUrl": "https://www.khalifaforcongress.com/platform",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "His platform proposes improving enrollment in available health programs and enhancing Medicare services.",
+          "quote": "Focus on reducing the approximately nine percent of South Carolinians who are uninsured by enhancing outreach and enrollment efforts for available health programs.",
+          "sourceUrl": "https://www.khalifaforcongress.com/platform",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "His campaign platform supports renewable energy policies to reduce emissions and legislation aimed at net-zero greenhouse gas emissions.",
+          "quote": "Supporting legislation that aims for net-zero greenhouse gas emissions by a specified target year.",
+          "sourceUrl": "https://www.khalifaforcongress.com/platform",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Joe Wilson",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Wilson says he supports tax cuts and opposes policies that could lead to higher taxes.",
+          "quote": "we must continue to protect American prosperity by avoiding actions today that could lead to hyperinflation, high interest rates, and higher taxes in the future.",
+          "sourceUrl": "https://joewilson.house.gov/issues/economy-and-jobs",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "Wilson reintroduced legislation to make union dues voluntary and said workers and employers should negotiate employment terms.",
+          "quote": "South Carolina is a right-to-work state, and we have seen tremendous economic growth by expanding economic freedom for our businesses.",
+          "sourceUrl": "https://joewilson.house.gov/media/press-releases/wilson-reintroduces-national-right-work-act",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He voted yes on passage of the United States-Mexico-Canada Agreement Implementation Act.",
+          "quote": "Vote Question: On Passage United States-Mexico-Canada Agreement Implementation Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019701",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Wilson says he supports school choice and local governance of schools.",
+          "quote": "Every child is unique, which is why I support school choice and local governance of schools.",
+          "sourceUrl": "https://joewilson.house.gov/issues/education",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Wilson says immigration laws should be strongly enforced and opposes amnesty for undocumented immigrants.",
+          "quote": "Until the appropriate laws already on the books are strongly enforced, illegal immigrants will continue to pour across our borders and weaken our national security.",
+          "sourceUrl": "https://joewilson.house.gov/issues/immigration",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "Wilson said he introduced legislation to block an ATF rule on pistol braces and argued for protecting gun owners’ rights.",
+          "quote": "So I introduced the PISTOL Act to block the ATF from redefining pistol braces as short-barreled rifles.",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/CREC-2023-02-08/pdf/CREC-2023-02-08.pdf",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Wilson has publicly supported legislation to protect unborn life, including the Born-Alive Abortion Survivors Protection Act.",
+          "quote": "I am grateful to stand with my colleagues in Congress to defend the right to life for the unborn.",
+          "sourceUrl": "https://www.congress.gov/116/crec/2020/01/15/CREC-2020-01-15-pt1-PgH287.pdf",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He strongly agreed that biological males should not participate in women’s sports or use women’s spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces",
+          "sourceUrl": "https://ivoterguide.com/candidate/2425/race/27671/election/1421",
+          "agreement": "8/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "He voted no on passage of the MORE Act.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/2020235",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He selected a position retaining Medicare and Medicaid while opposing additional taxpayer-funded health programs.",
+          "quote": "Medicaid and Medicare should remain available, but no other taxpayer-funded programs are necessary.",
+          "sourceUrl": "https://ivoterguide.com/candidate/2425/race/27671/election/1421",
+          "agreement": "3/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Wilson supports an all-of-the-above energy strategy that he says lowers costs and includes domestic energy production.",
+          "quote": "He is a leading voice for expanding energy infrastructure—including small modular reactors, next-generation nuclear technology, and responsible domestic production.",
+          "sourceUrl": "https://joewilsonforcongress.com/issues/",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He strongly disagreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification.",
+          "sourceUrl": "https://ivoterguide.com/candidate/2425/race/27671/election/1421",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Dayna Alane Smith",
+      "party": "Workers",
+      "stances": {}
+    }
+  ],
+  "sources": "khalifaforcongress.com · joewilson.house.gov · clerk.house.gov · govinfo.gov · congress.gov · ivoterguide.com · joewilsonforcongress.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

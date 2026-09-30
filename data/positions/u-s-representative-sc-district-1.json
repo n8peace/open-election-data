@@ -1,0 +1,174 @@
+{
+  "office": "U.S. Representative",
+  "district": "SC District 1",
+  "division": "sc/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Nancy Lacore",
+      "party": "Democratic",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "She opposes blanket tariffs, supports targeted trade enforcement, and calls for ending tariffs she says raise costs for South Carolina families.",
+          "quote": "Support targeted trade enforcement instead of blanket tariffs.",
+          "sourceUrl": "https://www.nancylacore.com/priorities",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She proposes increasing multifamily housing for local workers by tying federal funding to housing and infrastructure in the district.",
+          "quote": "Increase multifamily housing needed for our local workforce by tying federal money for infrastructure / transportation / federal housing in the district.",
+          "sourceUrl": "https://www.nancylacore.com/priorities",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She says immigration policy should secure and enforce the border while also improving fair, timely processing and protections.",
+          "quote": "We can secure the border, enforce the law, and uphold our values at the same time.",
+          "sourceUrl": "https://www.nancylacore.com/priorities",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She says she will work to guarantee women’s reproductive freedom in law and opposes government interference in decisions made with a doctor and family.",
+          "quote": "I will work to guarantee women’s reproductive freedom in law.",
+          "sourceUrl": "https://www.nancylacore.com/priorities",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports reversing Medicaid cuts, restoring ACA premium subsidies and offering a nonprofit insurance option like Medicare to all Americans.",
+          "quote": "Offer all Americans a non-profit insurance option like Medicare, an insurance that prioritizes patients over profits.",
+          "sourceUrl": "https://www.nancylacore.com/priorities",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Jenny Costa Honeycutt",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She signed a pledge to oppose and vote against tax increases.",
+          "quote": "a written commitment to the voters of South Carolina to oppose and vote against tax hikes.",
+          "sourceUrl": "https://atr.org/jenny-costa-honeycutt-makes-no-new-taxes-promise-to-south-carolina-voters/",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "Asked about the national debt, she proposed reviewing spending, ending programs she considers outdated, and increasing spending accountability.",
+          "quote": "Takes going through every single line item in our budget to ensure that we are spending what needs to be spent and not wasting. That means sunsetting programs that are no longer important. That means providing accountability for spending, not doing things like Joe Biden did by sending billions of dollars overseas,",
+          "sourceUrl": "https://www.live5news.com/2026/06/18/councilwoman-jenny-costa-honeycutt-state-rep-mark-smith-face-off-gop-1st-district-runoff-debate/",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "As a county council candidate, she said she supported zoning changes including accessory dwelling units and density bonuses to increase housing supply.",
+          "quote": "I have supported zoning modifications such as ADU’s and density bonuses to help increase supply but look forward to finding creative solutions to incentivize attainable housing.",
+          "sourceUrl": "https://charlestoncitypaper.com/wp-content/uploads/2022/10/22COUNCIL9_honeycutt.pdf",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "She said that as chair of the county public safety committee she worked to provide the sheriff’s office with resources and equipment.",
+          "quote": "I have consistently worked to provide our Sheriff’s Office with support, resources, and equipment to protect and serve our community.",
+          "sourceUrl": "https://scfop.org/2026/07/scfop-congressional-election-guide-2026/",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "She says she will advocate for the unborn and believes every life deserves protection.",
+          "quote": "Jenny believes every life is precious and deserving of protection, and she will be a steadfast advocate for the unborn.",
+          "sourceUrl": "https://www.jennycostahoneycutt.com/platform",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "She says she is committed to keeping men out of women’s sports.",
+          "quote": "As a girls’ sports coach and former collegiate athlete, Jenny is committed to keeping men out of women’s sports.",
+          "sourceUrl": "https://www.jennycostahoneycutt.com/platform",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Bill Reeside",
+      "party": "Libertarian",
+      "stances": {
+        "debt": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He proposes stabilizing Social Security and Medicare by protecting current recipients’ benefits while extending eligibility ages.",
+          "quote": "Without touching the benefits for current recipients, I will legislate to:",
+          "sourceUrl": "https://www.reesideforcongress.com/priorities",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "He proposes repealing nonviolent drug laws and redirecting federal enforcement budgets toward demand-side solutions.",
+          "quote": "I will work to reduce the federal prison population by repealing nonviolent drug laws and opening banking privileges for legal drug sales. I will also redirect DEA, ATF, and CBP budgets toward addressing demand-side solutions.",
+          "sourceUrl": "https://www.reesideforcongress.com/priorities",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He proposes unlimited work visas and a citizenship path for Dreamers while ending asylum and Temporary Protected Status.",
+          "quote": "Legislate to eliminate asylum and Temporary Protected Status (TPS) and replace them with unlimited, free work visas for low-skilled workers and high-skilled workers (H-2A, H-1B and H-2B)",
+          "sourceUrl": "https://www.reesideforcongress.com/priorities",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "He supports returning abortion legislation to the states and says he would use federal legislation to reduce demand for abortion.",
+          "quote": "Bill supports the Supreme Court's return of abortion legislation to the states. He will legislate at the Federal level to reduce the demand for abortion.",
+          "sourceUrl": "https://www.reesideforcongress.com/priorities",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He proposes reducing the role of government and insurance companies in health care and relying more on market forces.",
+          "quote": "By removing third-party payers like insurance companies and the government, market forces will keep costs down.",
+          "sourceUrl": "https://www.reesideforcongress.com/priorities",
+          "agreement": "8/10"
+        }
+      }
+    }
+  ],
+  "sources": "nancylacore.com · atr.org · live5news.com · charlestoncitypaper.com · scfop.org · jennycostahoneycutt.com · reesideforcongress.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

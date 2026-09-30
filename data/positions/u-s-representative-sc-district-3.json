@@ -1,0 +1,238 @@
+{
+  "office": "U.S. Representative",
+  "district": "SC District 3",
+  "division": "sc/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Eunice Lehmacher",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She said taxes should fully fund public schools and teachers.",
+          "quote": "Taxes should fully fund public schools and public school teachers.",
+          "sourceUrl": "https://ivoterguide.com/candidate/82864/race/16287/election/1229",
+          "agreement": "3/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She said she wants to raise the minimum wage to at least $15 an hour in South Carolina.",
+          "quote": "I would like to raise the minimum wage to at least $15/hour in SC.",
+          "sourceUrl": "https://ivoterguide.com/candidate/82864/race/16287/election/1229",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Her campaign calls for reducing tariffs to ease costs for families.",
+          "quote": "Rein in tariffs and unnecessary foreign conflicts, easing the burden they impose on families like yours",
+          "sourceUrl": "https://www.euniceforsc.com/lower-todays-high-prices",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Her campaign says she would restore funding to Medicare and expand Medicare eligibility.",
+          "quote": "Restore funding to Medicare, Medicaid, and the Affordable Care Act.",
+          "sourceUrl": "https://www.euniceforsc.com/healthcare",
+          "agreement": "3/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Her housing plan includes funding projects that build housing near jobs and transit.",
+          "quote": "Fund smart-growth projects that build housing near jobs and public transportation while incorporating child care centers.",
+          "sourceUrl": "https://www.euniceforsc.com/restoring-housing-opportunity",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She opposes vouchers and supports more funding for public schools and teachers.",
+          "quote": "Trust teachers and librarians to make decisions for schools and libraries; oppose vouchers; increase salaries for teachers and funding for public schools and public libraries; increase federal money going to Title 1 schools.",
+          "sourceUrl": "https://indivisibleupstatesc.org/2026/09/iusc-endorses-eunice-lehmacher-for-south-carolinas-3rd-congressional-district/",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She favors keeping police funding at its current level while adding taxpayer-supported community programs to prevent crime.",
+          "quote": "I prefer not to take any existing funding from police departments. Rather I would like to keep police funding at the current level and add tax payer supported community programs that help prevent crime.",
+          "sourceUrl": "https://ivoterguide.com/candidate/82864/race/16287/election/1229",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "She supports civil-rights protections and due process for immigrants.",
+          "quote": "Pass laws to protect everyone’s civil rights and return due process also for immigrants.",
+          "sourceUrl": "https://indivisibleupstatesc.org/2026/09/iusc-endorses-eunice-lehmacher-for-south-carolinas-3rd-congressional-district/",
+          "agreement": "4/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports background checks on all gun purchases, safe-storage requirements, and an age limit of 21 for gun ownership.",
+          "quote": "I support background checks on all gun purchases regardless of where they are purchased. I support laws that require guns to be locked when not in use, especially in homes with children.",
+          "sourceUrl": "https://ivoterguide.com/candidate/82864/race/16287/election/1229",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She said women should make the decision about abortion for their families.",
+          "quote": "I trust women to make the best decision for their family.",
+          "sourceUrl": "https://ivoterguide.com/candidate/82864/race/16287/election/1229",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "She said transgender women should be treated as women and transgender men as men.",
+          "quote": "Transgender women are women and should be allowed to do what women do. Transgender men should be allowed to do what men do.",
+          "sourceUrl": "https://ivoterguide.com/candidate/82864/race/16287/election/1229",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Her campaign supports restoring public health-program funding and lowering the Medicare eligibility age.",
+          "quote": "Lower the enrollment age for Medicare to 64 next year.",
+          "sourceUrl": "https://www.euniceforsc.com/healthcare",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She called for expanding green-energy funding, speeding solar and wind permitting, and restoring EPA standards.",
+          "quote": "Restore and expand funding for green energy projects for homes, governments and businesses; Permitting reform to allow solar and wind projects to be completed quicker; restore EPA standards.",
+          "sourceUrl": "https://indivisibleupstatesc.org/2026/09/iusc-endorses-eunice-lehmacher-for-south-carolinas-3rd-congressional-district/",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She supports voting-rights legislation and opposes the SAVE Act.",
+          "quote": "Pass the John Lewis Voting Rights Advancement Act and other acts that support voting rights. Oppose the SAVE act.",
+          "sourceUrl": "https://indivisibleupstatesc.org/2026/09/iusc-endorses-eunice-lehmacher-for-south-carolinas-3rd-congressional-district/",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Sheri Biggs",
+      "party": "Republican",
+      "stances": {
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "Her campaign describes excessive spending and debt as harmful to future generations and says she will fight for fiscal responsibility.",
+          "quote": "As our next Congresswoman, Sheri will fight for fiscal responsibility, accountability, and transparency of our hard-earned tax dollars.",
+          "sourceUrl": "https://www.sheribiggs.com/issues",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "She voted for H.R. 1, which created a federal tax credit for contributions to scholarship-granting organizations.",
+          "quote": "Congresswoman Sheri Biggs (R-SC-03) today voted to pass H.R. 1, the One Big Beautiful Bill Act.",
+          "sourceUrl": "https://www.legistorm.com/stormfeed/view_rss/2528412/member/3825/title/congresswoman-sheri-biggs-votes-to-advance-president-trumps-agenda-protect-south-carolina-families-with-passage-of-the-one-big-beautiful-bill.html",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Her campaign says she will build the wall, stop illegal immigration and replace catch-and-release with stop-and-deport.",
+          "quote": "As our next Member of Congress, Sheri will work tirelessly to build the wall, stop the flow of illegal aliens and drugs into our country, and replace “catch-and-release” with “stop-and-deport.”",
+          "sourceUrl": "https://www.sheribiggs.com/issues",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "She introduced bills to remove federal firearm mailing and short-barreled-shotgun restrictions.",
+          "quote": "Law-abiding citizens will no longer have to pay a $200 tax or complete months-long paperwork just to own a practical firearm for self-defense.",
+          "sourceUrl": "https://sheribiggs.house.gov/media/press-releases/gun-rights-protected-under-two-new-bills-authored-congresswoman-sheri-biggs",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Her campaign says she will use her voice to protect the sanctity of life and advance a culture of life.",
+          "quote": "AS our Member of Congress, Sheri will use her voice and story to protect the sanctity of life and advance a true culture of life in this country.",
+          "sourceUrl": "https://www.sheribiggs.com/issues",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "She voted for the Protection of Women and Girls in Sports Act, which bases Title IX athletic eligibility on reproductive biology and genetics at birth.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512?Title=sports",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Her official health-policy page identifies competition and flexibility as policy cornerstones.",
+          "quote": "Competition, flexibility, transparency, and an emphasis on rural communities must remain cornerstones of proposed policy initiatives.",
+          "sourceUrl": "https://sheribiggs.house.gov/issues",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Brian Corriea",
+      "party": "Libertarian",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He argues that protective tariffs distort markets and limit consumer choice.",
+          "quote": "Brian maintains that you cannot support a “pro-market” position while endorsing protective tariffs or state interference in trade, as this distorts markets and limits consumer choice.",
+          "sourceUrl": "https://www.brianforliberty.com/policies",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "He says he consistently criticizes spending and budget practices that increase debt.",
+          "quote": "Yes — he consistently criticizes wasteful spending, unsustainable budget practices, and policies that increase debt without corresponding value to citizens.",
+          "sourceUrl": "https://www.brianforliberty.com/policies",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He opposes expanding government in health care and favors market-oriented reforms and competition.",
+          "quote": "Brian believes the current healthcare system is hampered by both parties’ plans that rely on government centralization. He advocates for market-oriented reforms that expand choice, reduce regulatory barriers, and let competition lower costs.",
+          "sourceUrl": "https://www.brianforliberty.com/policies",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "ivoterguide.com · euniceforsc.com · indivisibleupstatesc.org · sheribiggs.com · legistorm.com · sheribiggs.house.gov · clerk.house.gov · brianforliberty.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
