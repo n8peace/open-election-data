@@ -5,16 +5,16 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Jessica Ethridge",
-      "party": "Libertarian"
-    },
-    {
       "name": "Courtney McClain",
       "party": "Democratic"
     },
     {
       "name": "William Timmons",
       "party": "Republican"
+    },
+    {
+      "name": "Jessica Ethridge",
+      "party": "Libertarian"
     }
   ]
 }

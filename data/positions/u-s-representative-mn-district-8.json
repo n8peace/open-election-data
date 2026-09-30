@@ -1,0 +1,184 @@
+{
+  "office": "U.S. Representative",
+  "district": "MN District 8",
+  "division": "mn/cd-8",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Trina Swanson",
+      "party": "Democratic-Farmer-Labor",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She said federal funding should support childcare, schools, hospitals, and programs used by working-class people.",
+          "quote": "To make this a reality, we must enact universal healthcare, ensure proper federal funding for childcare, schools, hospitals, and the programs the working class relies upon, and attract new industries with good-paying, union jobs to the district.",
+          "sourceUrl": "https://www.kaxe.org/2026-09-28/cd8-stauber-swanson-congress-mn-2026-election-guide",
+          "agreement": "6/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "She said Minnesotans deserve livable wages and strong union protections.",
+          "quote": "Minnesotans deserve jobs close to home with livable wages, strong union protections, and stability.",
+          "sourceUrl": "https://trinaforcongress.com/priorities/",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "She said she would oppose the administration's tariffs as part of seeking more stable markets.",
+          "quote": "Fight to keep good jobs here. Bring stability to markets by standing up to this Administration's whiplash tariffs and punitive slashing of stimulus programs and funding.",
+          "sourceUrl": "https://trinaforcongress.com/voter-concerns/",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She supports expanding housing options, lowering barriers to building, and offering tax credits for homes priced below the local median.",
+          "quote": "Trina will work to expand housing options, lower barriers to building new homes, and help ensure working families, young people, and seniors aren’t priced out of the communities where they live and work.",
+          "sourceUrl": "https://trinaforcongress.com/voter-concerns/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports collective bargaining rights and opposes private-school vouchers.",
+          "quote": "Swanson supports collective bargaining rights and opposes private school vouchers.",
+          "sourceUrl": "https://educationminnesota.org/news/press-release/education-minnesota-endorses-little-swanson-for-congress/",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She supports permanent legal status for Dreamers and an earned path to citizenship, alongside border security and targeted enforcement.",
+          "quote": "I support permanent legal status for Dreamers who grew up here and contribute to our communities. An earned path to citizenship is both fair and practical.",
+          "sourceUrl": "https://trinaforcongress.com/priorities/",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She said reproductive freedom is under attack and expressed pride in standing with a pro-choice organization.",
+          "quote": "At a time when reproductive freedom and women’s rights are under attack, I’m proud to stand with an organization that has spent decades helping elect leaders to regain control of Congress and put people ahead of corporate interests.",
+          "sourceUrl": "https://trinaforcongress.com/emilys-list-endorses-trina-swanson-for-congress/",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports universal health care and protecting rural health services and Medicaid reimbursement.",
+          "quote": "I will fight for universal healthcare. I will protect health insurance tax credits so 90,000 Minnesotans don’t see costs jump $177 a month, on average.",
+          "sourceUrl": "https://trinaforcongress.com/priorities/",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Pete Stauber",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "He asked the IRS to reverse federal taxation of Minnesota state tax rebates.",
+          "quote": "I am writing to express strong concern about the Internal Revenue Service (IRS) decision requiring Minnesotans to pay federal taxes on their state tax rebates.",
+          "sourceUrl": "https://stauber.house.gov/sites/evo-subsites/stauber.house.gov/files/evo-media-document/stauber-letter-to-irs.pdf",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "He introduced legislation requiring faster bargaining for first union contracts, including mediation and binding arbitration.",
+          "quote": "when workers vote to form a union, employers are not allowed to drag out negotiations on a collective bargaining agreement.",
+          "sourceUrl": "https://stauber.house.gov/media/press-releases/stauber-legislation-speed-first-contracts-new-unions-passes-house",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Stauber has said that more should be done to support law enforcement and make communities safer.",
+          "quote": "His experience as a police officer solidified his view that more must be done to support law enforcement and create safer communities.",
+          "sourceUrl": "https://stauber.house.gov/about",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Stauber opposed Minnesota legislation limiting cooperation with federal immigration enforcement and called for enforcing immigration laws.",
+          "quote": "the only way to protect our communities from the very real danger they bring is by cooperating with the agencies that are equipped to enforce our immigration laws.",
+          "sourceUrl": "https://stauber.house.gov/media/press-releases/minnesota-republican-delegation-condemns-effort-make-minnesota-sanctuary-state",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Stauber voted against the Bipartisan Background Checks Act, which would have expanded background checks.",
+          "quote": "Feb 27, 2019, 03:44 PM | 116th Congress, 1st Session\n\nVote Question: On Passage\n\nBipartisan Background Checks Act\n\nVote Type: Yea-And-Nay\n\nStatus: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/201999",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He publicly described himself as pro-life and opposed abortion access without limits through birth.",
+          "quote": "I rise today to voice my strong opposition to the Democrats’ abortion on demand until birth act",
+          "sourceUrl": "https://www.congress.gov/117/crec/2021/09/21/167/163/CREC-2021-09-21-pt1-PgH4564-5.pdf",
+          "agreement": "7/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Stauber voted for the Protection of Women and Girls in Sports Act, which bases athletic eligibility on sex at birth.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "8/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "strong",
+          "text": "During debate on the MORE Act, Stauber criticized prioritizing a marijuana legalization bill over pandemic relief.",
+          "quote": "Our priority should not be legalizing drugs or banning tigers;",
+          "sourceUrl": "https://www.congress.gov/116/crec/2020/12/04/CREC-2020-12-04-pt1-PgH6819-2.pdf",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "His congressional-review resolution overturning the federal mining ban in the Superior National Forest became law.",
+          "quote": "President Trump is the most pro-mining President in American history",
+          "sourceUrl": "https://stauber.house.gov/media/press-releases/president-trump-signs-stauber-bill-law-ending-bidens-illegal-mining-ban",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He introduced legislation conditioning Minnesota election assistance on supplying voter-registration and election data for a federal review.",
+          "quote": "they need to get serious about election security.",
+          "sourceUrl": "https://stauber.house.gov/media/press-releases/stauber-introduces-minnesota-voter-integrity-act-protect-states-elections",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "kaxe.org · trinaforcongress.com · educationminnesota.org · stauber.house.gov · clerk.house.gov · congress.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

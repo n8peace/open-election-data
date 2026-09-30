@@ -5,7 +5,11 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "John Peterson",
+      "name": "Jim Clyburn",
+      "party": "Democratic"
+    },
+    {
+      "name": "John A. Peterson",
       "party": "Republican"
     }
   ]

@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Senator",
+  "district": "SC",
+  "division": "sc/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Annie Andrews",
+      "party": "Democratic"
+    },
+    {
+      "name": "Darline Graham",
+      "party": "Republican"
+    },
+    {
+      "name": "Mark Hackett",
+      "party": "Constitution"
+    },
+    {
+      "name": "Kasie Whitener",
+      "party": "Libertarian"
+    }
+  ]
+}

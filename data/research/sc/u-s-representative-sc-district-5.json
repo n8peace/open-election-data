@@ -5,16 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Wes Climer",
-      "party": "Republican"
-    },
-    {
       "name": "Mallory Dittmer",
       "party": "Democratic"
     },
     {
-      "name": "Andy Kaplan",
-      "party": "Forward"
+      "name": "Wes Climer",
+      "party": "Republican"
     }
   ]
 }

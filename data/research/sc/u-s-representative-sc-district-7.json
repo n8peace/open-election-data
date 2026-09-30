@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Russell Fry",
-      "party": "Republican"
-    },
-    {
       "name": "John Gregory Vincent",
       "party": "Democratic"
+    },
+    {
+      "name": "Russell Fry",
+      "party": "Republican"
     }
   ]
 }
