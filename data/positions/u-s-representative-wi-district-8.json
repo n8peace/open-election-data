@@ -1,0 +1,160 @@
+{
+  "office": "U.S. Representative",
+  "district": "WI District 8",
+  "division": "wi/cd-8",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Tony Wied",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, Wied said cutting taxes and reducing regulation would help the economy.",
+          "quote": "Cutting taxes and reining in regulation will all help the economy.",
+          "sourceUrl": "https://doorcountyknock.org/2024/08/understanding-the-primary-ballot-for-wisconsins-8th-congressional-district-race",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "He praised Trump’s reciprocal tariffs as a way to bring jobs and manufacturing back to the United States.",
+          "quote": "These tariffs are a crucial first step towards making that a reality",
+          "sourceUrl": "https://appletonwi.org/congressman-tony-wieds-update-april-4-2025-tariffs/",
+          "agreement": "3/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He said Washington needs to control reckless spending because the country is adding debt rapidly.",
+          "quote": "right now we need to control the reckless spending that we see in Washington",
+          "sourceUrl": "https://www.wbay.com/2024/11/01/your-voice-your-vote-tony-wied-speaks-with-action-2-news/",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Wied cosponsored a bill to repeal the federal ban on possessing or transferring machine guns.",
+          "quote": "To repeal the Hughes Amendment to the Firearm Owners’ Protection Act.",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/BILLS-119hr9009ih/pdf/BILLS-119hr9009ih.pdf",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "He called himself personally pro-life while saying abortion policy is for states to decide.",
+          "quote": "I’m personally pro-life, having four children my wife and I, it is the greatest joy of our life",
+          "sourceUrl": "https://www.wbay.com/2024/11/01/your-voice-your-vote-tony-wied-speaks-with-action-2-news/",
+          "agreement": "4/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He voted for the Protection of Women and Girls in Sports Act.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Wied backed legislation promoting association health plans, employer-funded options, and insurance competition.",
+          "quote": "Yesterday, House Republicans passed the Lower Health Care Premiums for All Americans Act to reform our broken system, expand choice and competition, and provide the transparency needed to lower health care costs for all Americans.",
+          "sourceUrl": "https://www.wisbusiness.com/2025/u-s-rep-wied-statement-on-vote-to-lower-healthcare-premiums/",
+          "agreement": "3/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Wied said reducing regulation and expanding American energy production would help lower inflation.",
+          "quote": "Lastly, we need to unleash American energy by reducing regulation and becoming energy dominant.",
+          "sourceUrl": "https://www.pbs.org/video/2024-candidate-statement-tony-wied-us-house-8th-congressional-district-iewqaf/",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "He cosponsored legislation requiring proof of U.S. citizenship for federal voter registration.",
+          "quote": "require proof of U.S. citizenship to register to vote in Federal elections",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/CRI-2026/html/CRI-2026-WIED-TONY-7AD4A4.htm",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Rick Crosson",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He said he would support a billionaire tax along with free public college and federally funded child care.",
+          "quote": "He has said he would back a tax on billionaires, free four-year public college and a universal, federally funded childcare program.",
+          "sourceUrl": "https://www.aol.com/articles/rick-crosson-wins-democratic-nomination-053801000.html",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Crosson supports a living wage tied to the cost of living.",
+          "quote": "That means a living wage tied to the real cost of living, universal healthcare, fixing the tax system so the super rich and large corporations fairly contribute their share, stable supply chains, and a revived middle class, so families can cover the basics: food, housing, and health care.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72718027",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Crosson says he will defend Medicare and Social Security against cuts or privatization.",
+          "quote": "Rick will defend them against any attempt to cut, privatize, or gamble away the benefits people earned.",
+          "sourceUrl": "https://rickcrosson.com/issues/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Crosson supports building affordable homes and protecting renters.",
+          "quote": "Rick supports building more affordable homes, protecting renters, and giving first-time buyers a fair shot.",
+          "sourceUrl": "https://rickcrosson.com/issues/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Crosson supports modernizing legal immigration pathways and clearing visa and work-authorization backlogs.",
+          "quote": "The solution is to clear those backlogs and modernize legal pathways to meet the times. End arbitrary and for-profit detention.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72718027",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Crosson supports expanding Medicaid to close health coverage gaps.",
+          "quote": "I would close coverage gaps by expanding Medicaid, so more Wisconsinites can see a doctor without going broke.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72718027",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "doorcountyknock.org · appletonwi.org · wbay.com · govinfo.gov · clerk.house.gov · wisbusiness.com · pbs.org · aol.com · onyourballot.vote411.org · rickcrosson.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

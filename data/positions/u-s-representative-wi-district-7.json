@@ -1,0 +1,136 @@
+{
+  "office": "U.S. Representative",
+  "district": "WI District 7",
+  "division": "wi/cd-7",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Michael Alfonso",
+      "party": "Republican",
+      "stances": {
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Alfonso says he supports school choice and homeschooling protections.",
+          "quote": "Parents — not bureaucrats — should decide what’s best for their children. Michael Alfonso will support school choice, boost homeschooling protections, and end Marxist race and gender indoctrination in classrooms.",
+          "sourceUrl": "https://www.alfonsoforwisconsin.com/issues/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Alfonso says he supports constitutional carry and opposes efforts to weaken gun rights.",
+          "quote": "Our right to bear arms is non-negotiable. Michael Alfonso will protect the Second Amendment against any attempt to weaken it. He backs constitutional carry and our right to defend ourselves.",
+          "sourceUrl": "https://www.alfonsoforwisconsin.com/issues/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Alfonso says he believes in a right to life from conception and opposes expanding access to abortion pills.",
+          "quote": "Like our Founding Fathers, Michael believes every person has an inherent right to life—from conception to natural death. He applauds President Trump, without whom Roe v. Wade would not have been overturned, restoring states’ ability to protect the unborn.",
+          "sourceUrl": "https://www.alfonsoforwisconsin.com/issues/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Fred Clark",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "As a state representative, he co-sponsored legislation setting minimum wages and allowing local living-wage ordinances.",
+          "quote": "Finally, current law prohibits a city, village, town, or county from enacting and administering an ordinance establishing a living wage. This bill eliminates that prohibition.",
+          "sourceUrl": "https://badgerpolitics.org/bills/2013/sb4/",
+          "agreement": "3/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He supports incentives for builders to increase the supply of affordable housing.",
+          "quote": "Creating incentives for builders to increase the supply of affordable housing.",
+          "sourceUrl": "https://www.clarkforwi.com/issues/a-real-affordability-agenda",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "As a state representative, he backed a rural-school assistance package that included grants to districts.",
+          "quote": "by providing grants to allow districts to improve efficiencies, we want to send a message",
+          "sourceUrl": "https://www.wrn.com/rural-dems-propose-help-for-schools-audio/",
+          "agreement": "3/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "He cosponsored legislation funding substance-abuse treatment and diversion from incarceration.",
+          "quote": "Providing grants to counties that offer substance abuse treatment and diversion from incarceration and making an appropriation.",
+          "sourceUrl": "https://badgerpolitics.org/legislators/fred-clark/",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports changing visa programs to let businesses hire legal immigrant workers and opposes mass, quota-driven deportations.",
+          "quote": "Reforming our visa programs so that farms, manufacturers, and service businesses can complement their labor force with legal immigrant workers.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72718011",
+          "agreement": "3/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports federal legal protections for abortion access and reproductive health care.",
+          "quote": "Passage of the Women’s Health Protection Act, creating a new legal protection for the right to provide and access abortion",
+          "sourceUrl": "https://www.clarkforwi.com/issues/supporting-womens-rights-and-womens-health",
+          "agreement": "10/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "As an Assembly member, he cosponsored a bill that would have created a medical-use defense and regulated marijuana distribution centers.",
+          "quote": "The bill requires DHS to license and regulate nonprofit corporations, known as compassion centers, that distribute or deliver marijuana or drug paraphernalia",
+          "sourceUrl": "https://badgerpolitics.org/bills/2013/sb363/",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports expanding Medicare and Medicaid and creating a public health care option available to everyone.",
+          "quote": "Providing a public health care option available for everyone.",
+          "sourceUrl": "https://www.clarkforwi.com/issues/issue-2",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He supports timely delivery of mailed ballots and opposes legislation he says would disenfranchise voters.",
+          "quote": "Legislation to assure that the Post Office deliver ALL mailed ballots without delay. Oppose any legislation like the SAVE ACT that would dis-enfranchise voters.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72718011",
+          "agreement": "9/10"
+        }
+      }
+    }
+  ],
+  "sources": "alfonsoforwisconsin.com · badgerpolitics.org · clarkforwi.com · wrn.com · onyourballot.vote411.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

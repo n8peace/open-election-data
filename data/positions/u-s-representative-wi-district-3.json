@@ -1,0 +1,340 @@
+{
+  "office": "U.S. Representative",
+  "district": "WI District 3",
+  "division": "wi/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Alexander Valiensi Kent",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "In a questionnaire response, Kent said voters want government revenue used to support parents, children, and families.",
+          "quote": "the vast, vast majority of voters obviously want our government to use our tax dollars and other revenues to support parents, children, and families.",
+          "sourceUrl": "https://9to5.org/resource/2026-wisconsin-midterms-candidate-positions/",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "He calls the U.S. immigration system inhumane and supports a humane, worker-friendly, safe-for-all policy.",
+          "quote": "There are many really good examples of national immigration and refugee policy around the world. The system in the U.S. is insane and inhumane for various terrible reasons. However, humane, helpful, worker friendly, and safe-for-all immigration and refugee policy is definitely possible.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72717911",
+          "agreement": "4/10"
+        },
+        "abortion": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He describes himself as both pro-life and pro-choice, reflecting a mixed position.",
+          "quote": "All human life is a miracle from birth to death and should be supported accordingly. I also consider myself honestly Pro-Life and Pro-Choice.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72717911",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "He called health care a human right and said the government should recognize and act on that principle.",
+          "quote": "Healthcare is a human right. Many other countries recognize this truth and that the U.S. does not is perpetually enraging and heart breaking.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72717911",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He said Election Day should be a holiday and mail-in ballots should be protected, while existing voter ID laws need not change.",
+          "quote": "Election Day needs to be a holiday, mail-in ballots must be protected, and the Voting ID laws that have existed for decades do not need to be changed.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72717911",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Rustin Provance",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "On his campaign site, Provance says people should keep their money and decide how to invest it.",
+          "quote": "It's your money, you should keep it, you know how to invest it better.",
+          "sourceUrl": "https://rustinforcongress.wixsite.com/website/projects-1",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "He calls for cutting congressional pay and retirement benefits.",
+          "quote": "Reducing congressional wages and reduce or take away congressional retirement benefits.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72717911",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He says homeschoolers should receive education funding comparable to public school students.",
+          "quote": "Those in home school capacities should get funding to support their education, just as if they were in public school.",
+          "sourceUrl": "https://rustinforcongress.wixsite.com/website/projects-1",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "He lists lower-cost criminal-justice reform intended to reduce recidivism as a priority.",
+          "quote": "Criminal Justice reform. Lower cost while working on how to reducing the recidivism rate in our country as well as Wisconsin.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72717911",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "In a candidate questionnaire, he proposed treating immigrants who break the rules like people convicted of crimes in the United States.",
+          "quote": "I would set their treatment the same way we currently treat our inmates. As a felon.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72717911",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "He proposes a federally backed three-tier health-care plan with basic coverage.",
+          "quote": "I would push a bill that would require any Healthcare facility in America wanting any funding from the federal government to provide their staff with Healthcare. Start a 3 tier government Healthcare plan. Something that covers the basic.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72717911",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Derrick Van Orden",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "In Ways and Means testimony, he urged Congress to extend the 2017 tax cuts and support tax exemptions on tips and Social Security.",
+          "quote": "No Tax on Tips, No Tax on Social Security, and the extension of President Trump’s ‘Tax Cuts and Jobs Act’ or TCJA.",
+          "sourceUrl": "https://waysandmeans.house.gov/wp-content/uploads/2025/01/Van-Orden-Derrick-Testimony.pdf",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "He defended the tariff plan, saying tariffs could level the playing field with trade partners.",
+          "quote": "he wants the playing field with our closest trade partners to be leveled.",
+          "sourceUrl": "https://www.weau.com/2025/04/04/congressman-derrick-van-orden-speaks-tariff-plan/",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He said he would work to protect seniors’ benefits and backed eliminating taxes on Social Security benefits.",
+          "quote": "I take my commitment to our senior citizens seriously and will always work to ensure they are taken care of and their benefits are protected.",
+          "sourceUrl": "https://waysandmeans.house.gov/wp-content/uploads/2025/01/Van-Orden-Derrick-Testimony.pdf",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "He signed a congressional letter supporting a federal scholarship program described as strengthening Wisconsin's school-choice program.",
+          "quote": "Doing so not only strengthens Wisconsin’s already successful school choice program but also extends critical support to students, including those enrolled in public school, who need additional educational assistance.",
+          "sourceUrl": "https://steil.house.gov/sites/evo-subsites/steil.house.gov/files/evo-media-document/letter-to-governor-evers-regarding-letter-to-governor-evers-regarding-federal-tax-credit-scholarship-program-2.pdf",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "His campaign says he supports legislation to strengthen law enforcement and provide officers with resources.",
+          "quote": "supporting legislation that combats crime, strengthens law enforcement, and ensures officers have the tools and resources they need to keep our communities safe.",
+          "sourceUrl": "https://www.vanordenforcongress.com/issues/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supports securing the border and deporting criminal undocumented immigrants.",
+          "quote": "Derrick has staunchly supported President Trump’s border policies and his efforts to deport criminal illegal aliens",
+          "sourceUrl": "https://www.vanordenforcongress.com/issues/",
+          "agreement": "6/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "His campaign said he would advocate for gun owners and publicized his NRA endorsement.",
+          "quote": "Derrick Van Orden has shown that he will advocate tirelessly for law abiding gun owners.",
+          "sourceUrl": "https://www.vanordenforcongress.com/derrick-van-orden-receives-nra-endorsement-pfaff-receives-f-grade/",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He called for a 15-week abortion limit, with exceptions for the mother’s life, rape, and incest.",
+          "quote": "We should have a law in the state of Wisconsin right now that says we have exceptions for the life of the mother, rape and incest and we need to talk about a pain-capable, 15-week limit on abortion.",
+          "sourceUrl": "https://politifact.com/factchecks/2023/jun/01/derrick-van-orden/van-orden-half-flips-opinion-on-abortion-ban/",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He voted for a bill defining sex for Title IX athletics by reproductive biology and genetics at birth.",
+          "quote": "the bill (H.R. 734) to amend the Education Amendments of 1972 to provide that for purposes of determining compliance with title IX of such Act in athletics, sex shall be recognized based solely on a person’s reproductive biology and genetics at birth",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/CREC-2023-04-20/pdf/CREC-2023-04-20-pt1-PgH1893-3.pdf",
+          "agreement": "9/10"
+        },
+        "cannabis": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He said he supports medical marijuana but opposes recreational legalization.",
+          "quote": "I support the legalization of medical marijuana, not recreational.",
+          "sourceUrl": "https://vote.norml.org/politicians/192343",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He calls for repealing Obamacare and creating healthcare competition while also citing funding he secured for BadgerCare.",
+          "quote": "Derrick will work to make sure individuals with preexisting conditions are protected when Obamacare is fully repealed and a new system is implemented allowing for true competition in healthcare, driving costs down. While that work continues in Washington, Derrick is working to ensure that every Wisconsinite has access to high quality, readily available, and actually affordable healthcare. Under Derrick’s leadership, he secured $1 billion annually for BadgerCare",
+          "sourceUrl": "https://www.vanordenforcongress.com/issues/",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He backed expanding domestic energy production and permitting, saying it would lower energy costs.",
+          "quote": "This will return the U.S. to an all-of-the-above energy approach and in turn, lower energy costs for hardworking Americans.",
+          "sourceUrl": "https://couleeconservatives.com/article/protecting-american-energy",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "He introduced legislation to add citizenship markings to state-issued driver's licenses and identification cards for election verification.",
+          "quote": "On July 13, 2023, Representative Derrick Van Orden (WI–03) introduced H.R. 4597, the Citizen Vote Protection Act.",
+          "sourceUrl": "https://www.congress.gov/118/crpt/hrpt978/CRPT-118hrpt978.pdf",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Rebecca Cooke",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports middle-class tax relief while saying the wealthiest 1% should pay their fair share.",
+          "quote": "I support middle class tax relief and ensuring the 1% pay their fair share.",
+          "sourceUrl": "https://wisconsinindependent.com/politics/wisconsins-3rd-district-candidates-differ-sharply-on-gun-safety-and-abortion-rights/",
+          "agreement": "4/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supports raising the federal minimum wage to $15 an hour and passing the PRO Act to strengthen workers’ organizing rights.",
+          "quote": "Raise the federal minimum wage to $15/hour.",
+          "sourceUrl": "https://cookeforwisconsin.com/priorities/",
+          "agreement": "4/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "She proposes ending tariffs that she says have disrupted trade and agricultural markets.",
+          "quote": "End the use of tariffs that have created trade tensions globally and cut off agricultural marketplaces.",
+          "sourceUrl": "https://cookeforwisconsin.com/priorities/",
+          "agreement": "8/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She proposes raising the Social Security taxable-income cap to keep the program solvent while expanding Medicare benefits.",
+          "quote": "Scrap the cap on Social Security so that higher earners are paying their fair share and keeping the program solvent for all of us.",
+          "sourceUrl": "https://cookeforwisconsin.com/priorities/",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She supports federal grants and tax credits for affordable housing projects, including in rural communities.",
+          "quote": "Expansion of federal community block grants that offer dollars for affordable housing projects, particularly in rural communities in west central Wisconsin where current housing is aging out or doesn’t accommodate growing populations.",
+          "sourceUrl": "https://cookeforwisconsin.com/priorities/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "She supports increasing public investment in early-childhood education.",
+          "quote": "Increase funding to early childhood education like Head Start and preschool.",
+          "sourceUrl": "https://cookeforwisconsin.com/priorities/",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "She calls for fully funding law enforcement for community safety and border protection.",
+          "quote": "Fully fund law enforcement to keep our communities safe and protect our borders.",
+          "sourceUrl": "https://cookeforwisconsin.com/priorities/",
+          "agreement": "6/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports universal background checks, closing the Charleston loophole, and enforcing red-flag laws.",
+          "quote": "That said, I think we need to require universal background checks, close the Charleston loophole, and enforce red flag laws.",
+          "sourceUrl": "https://wisconsinindependent.com/politics/wisconsins-3rd-district-candidates-differ-sharply-on-gun-safety-and-abortion-rights/",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She says she will protect reproductive health care, supports Roe v. Wade, and opposes the Hyde Amendment.",
+          "quote": "In Congress, I will always protect reproductive healthcare and the personal freedoms of all Wisconsinites.",
+          "sourceUrl": "https://cookeforwisconsin.com/priorities/",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports expanding Medicare benefits and coverage, including through a public option and lower eligibility age.",
+          "quote": "Expand Medicare to cover vision, dental and hearing – the very things that deteriorate as we age.",
+          "sourceUrl": "https://cookeforwisconsin.com/priorities/",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "She supports federal investment in renewable energy, mass transit to lower emissions, and regulation of major polluters.",
+          "quote": "Draw federal funds for investment in green energy projects that harness our natural resources like wind, solar and hydro energy.",
+          "sourceUrl": "https://cookeforwisconsin.com/priorities/",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She supports reducing barriers to voting and making participation easier for eligible voters.",
+          "quote": "We need to be making it easier, not harder, for eligible voters to participate in our democratic process by exercising their right to vote.",
+          "sourceUrl": "https://cookeforwisconsin.com/wp-content/uploads/2024/07/2024.07.25-Cooke-Red-Box-Backup.pdf",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "9to5.org · onyourballot.vote411.org · rustinforcongress.wixsite.com · waysandmeans.house.gov · weau.com · steil.house.gov · vanordenforcongress.com · politifact.com · govinfo.gov · vote.norml.org · couleeconservatives.com · congress.gov · wisconsinindependent.com · cookeforwisconsin.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
