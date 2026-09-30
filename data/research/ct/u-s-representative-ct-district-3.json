@@ -5,12 +5,16 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Rosa DeLauro",
+      "name": "Rosa L. DeLauro",
       "party": "Democratic"
     },
     {
       "name": "Christopher Lancia",
       "party": "Republican"
+    },
+    {
+      "name": "Tom Egan",
+      "party": "Independent Party"
     }
   ]
 }

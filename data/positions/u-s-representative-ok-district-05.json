@@ -1,0 +1,178 @@
+{
+  "office": "U.S. Representative",
+  "district": "OK District 05",
+  "division": "ok/cd-5",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "STEPHANIE BICE",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She supported the Working Families Tax Cuts Act and said it lowers taxes so people keep more of what they earn.",
+          "quote": "By lowering taxes, we are helping Americans keep more of what they earn and invest in their futures.",
+          "sourceUrl": "https://bice.house.gov/media/weekly-columns/what-know-tax-season",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "She introduced legislation to prevent federal contracting preferences for unionized workers.",
+          "quote": "The government should not favor one individual over another simply because their workers are part of a union.",
+          "sourceUrl": "https://bice.house.gov/media/press-releases/bice-and-womack-introduce-no-preference-act",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "She voted for 2024 appropriations legislation and supported its reductions in non-defense spending.",
+          "quote": "This package provides targeted cuts to wasteful non-defense programs. Importantly, it strategically reduces spending in a responsible and sustainable manner.",
+          "sourceUrl": "https://bice.house.gov/media/press-releases/congresswoman-bice-votes-consolidated-appropriations-act-2024",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "She opposed defunding police and called for law enforcement to receive the tools it needs.",
+          "quote": "Now more than ever we must provide law enforcement with the tools they need to ensure peace and safety in our communities.",
+          "sourceUrl": "https://bice.house.gov/media/weekly-columns/senseless-defund-police-movement",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Her campaign says she supports stronger immigration enforcement and border security.",
+          "quote": "Bice supports common-sense immigration reforms and stronger enforcement to protect national security and uphold the rule of law.",
+          "sourceUrl": "https://biceforcongress.com/issues/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "She says she opposes congressional efforts that would limit Second Amendment rights.",
+          "quote": "I will oppose radical efforts in Congress that would limit this important right.",
+          "sourceUrl": "https://bice.house.gov/issues/values",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "She praised the reversal of Roe v. Wade and said she would continue to fight for unborn babies.",
+          "quote": "In Congress, I will continue to fight for unborn babies and advocate for policies that support moms who wish to give their child the gift of life through adoption.",
+          "sourceUrl": "https://bice.house.gov/media/press-releases/bice-applauds-reversal-roe-vs-wade",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "She voted yes on passage of the Protection of Women and Girls in Sports Act.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512?Title=sports",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "She supports Oklahoma’s oil and gas industry and opposes regulations she says threaten domestic energy production and jobs.",
+          "quote": "She supports Oklahoma’s oil and gas industry which is responsible for producing over 10,000 barrels of oil per day and reduces our reliance on hostile foreign nations.",
+          "sourceUrl": "https://biceforcongress.com/issues/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "She supported legislation requiring proof of citizenship to register and photo ID to vote in federal elections.",
+          "quote": "This legislation strengthens election safeguards by requiring proof of citizenship when registering to vote and a valid photo ID when casting a ballot in federal elections.",
+          "sourceUrl": "https://bice.house.gov/media/weekly-columns/strengthening-election-security",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "JENA NELSON",
+      "party": "Democrat",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She calls for windfall-profit taxes and expanded food and family assistance.",
+          "quote": "We need to crack down on corporate greed with stronger antitrust enforcement, windfall profit taxes and penalties for food and fuel price manipulation.",
+          "sourceUrl": "https://jenanelson.com/issues/",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She proposes raising the minimum wage to $17 per hour.",
+          "quote": "Raise the minimum wage to $17/hour, expand the Child Tax Credit and slash healthcare costs by letting Medicare negotiate drug prices.",
+          "sourceUrl": "https://jenanelson.com/issues/",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "She cited Trump’s tariff increases as a source of economic harm.",
+          "quote": "We’re suffering with uninterrupted inflation, Trump Tariff increases, skyrocketing gas prices due to Trump’s Iran War and healthcare cost increases.",
+          "sourceUrl": "https://jenanelson.com/press-release/jena-nelson-officially-files-for-cd-5-congressional-seat/",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She says Social Security, Medicare and Medicaid should be protected and strengthened.",
+          "quote": "These programs are lifelines for vulnerable Americans—we must protect and strengthen them. These programs keep families afloat—we can’t afford to lose them.",
+          "sourceUrl": "https://jenanelson.com/issues/",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She supports building more housing for working families.",
+          "quote": "Support building more new housing for Oklahoma working families, ban junk fees and provide tax credits for first-time homebuyers.",
+          "sourceUrl": "https://jenanelson.com/issues/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She says she would protect and strengthen Medicare and Medicaid and invest in preventive care.",
+          "quote": "These programs are lifelines for vulnerable Americans—we must protect and strengthen them. These programs keep families afloat—we can’t afford to lose them.",
+          "sourceUrl": "https://jenanelson.com/issues/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "ROBERT P. HENRI",
+      "party": "Independent",
+      "stances": {}
+    },
+    {
+      "name": "AUSTIN NIEVES",
+      "party": "Independent",
+      "stances": {}
+    }
+  ],
+  "sources": "bice.house.gov · biceforcongress.com · clerk.house.gov · jenanelson.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

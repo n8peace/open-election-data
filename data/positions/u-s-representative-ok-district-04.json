@@ -1,0 +1,237 @@
+{
+  "office": "U.S. Representative",
+  "district": "OK District 04",
+  "division": "ok/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "TOM COLE",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Cole says he supports low individual tax rates and voted for legislation increasing the standard deduction and child tax credit.",
+          "quote": "I support maintaining low individual tax rates and permitting Americans to keep more of their hard-earned money",
+          "sourceUrl": "https://cole.house.gov/issues/taxes",
+          "agreement": "9/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Cole voted against the Raise the Wage Act.",
+          "quote": "Vote Question: On Passage\n\nRaise the Wage Act\n\nVote Type: Recorded Vote",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Cole voted for implementing the United States-Mexico-Canada Agreement.",
+          "quote": "Vote Question: On Passage\n\nUnited States-Mexico-Canada Agreement Implementation Act\n\nVote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019701",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Cole voted for legislation expanding housing supply and reducing regulatory barriers to new construction.",
+          "quote": "This legislation will expand the housing supply of all types of homes, including single-family, multifamily, apartment complexes, and other factory-built housing.",
+          "sourceUrl": "https://cole.house.gov/media/press-releases/cole-votes-expand-affordability-our-nations-housing-market",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Cole voted for an appropriations package that supported state and local law enforcement.",
+          "quote": "Maintains longstanding Hyde-like pro-life riders.\n\nSupports state and local law enforcement.\n\nIncreases funding for the National Weather Service.",
+          "sourceUrl": "https://cole.house.gov/media/press-releases/cole-votes-favor-commerce-justice-science-energy-and-water-development-and",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Cole says border security and enforcement of immigration laws should be priorities and opposes amnesty for people who broke those laws.",
+          "quote": "we must not reward those who broke our laws by providing them with amnesty.",
+          "sourceUrl": "https://cole.house.gov/issues/immigration",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Cole says he opposes proposals that limit law-abiding gun owners’ rights and supports protecting the Second Amendment.",
+          "quote": "overly broad executive orders and legislative proposals that limit the rights of law-abiding gun owners are not the answer to gun violence.",
+          "sourceUrl": "https://cole.house.gov/issues/second-amendment",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Cole says protecting unborn life is a priority and opposes repealing the Hyde Amendment and other pro-life provisions.",
+          "quote": "I vehemently oppose any efforts to repeal the Hyde Amendment and other pro-life provisions traditionally included in funding legislation",
+          "sourceUrl": "https://cole.house.gov/issues/life",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Cole voted to pass the Protection of Women and Girls in Sports Act.",
+          "quote": "Vote Question: On Passage\n\nProtection of Women and Girls in Sports Act\n\nVote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "8/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "Cole voted against passage of the MORE Act.",
+          "quote": "Vote Question: On Passage\n\nMORE Act\n\nVote Type: Yea-And-Nay\n\nStatus: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Cole supports private enterprise and market-based solutions in health care, including expanding health savings accounts.",
+          "quote": "I strongly support a role for private enterprise in American healthcare and believe the answers to our nation’s health care problems entail market-based solutions",
+          "sourceUrl": "https://cole.house.gov/issues/healthcare",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Cole supports domestic energy production and job growth while also supporting some renewable energy development.",
+          "quote": "Hampering domestic energy production is not the path towards a robust economy and job growth.",
+          "sourceUrl": "https://cole.house.gov/issues/energy",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Cole voted for the SAVE Act, which would require proof of citizenship to register and remove noncitizens from voter rolls.",
+          "quote": "which would require an individual to provide proof of citizenship when registering to vote in federal elections, as well as remove non-citizens from its voter registration rolls",
+          "sourceUrl": "https://cole.house.gov/media/press-releases/cole-votes-restrict-non-citizens-voting-american-elections",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "MITCHELL JACOB",
+      "party": "Democrat",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He says tax dollars should prioritize broadly beneficial public services rather than tax breaks for wealthy people.",
+          "quote": "I conclude that the United States must use its tax dollars to benefit the greatest number of persons possible with each dollar spent.",
+          "sourceUrl": "https://www.mitchelljacob.com/blog/we-must-invest-in-services-that-benefit-the-greatest-number-of-americans",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "His campaign says he supports a livable wage, without specifying a minimum-wage or union policy.",
+          "quote": "believes in a livable wage and economic opportunity for all.",
+          "sourceUrl": "https://www.mitchelljacob.com/media",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He describes tariffs as a tool to protect domestic industry but opposes unpredictable tariff disputes and favors Congress deciding when to use them.",
+          "quote": "while the true purpose of tariffs is to build American markets and protect American industry. That is why we need Congress to decide when tariffs are needed and take this power away from the Unitary Executive. True stability and lower prices will not come from short-term tariff pauses or retaliatory trade wars with our closest allies.",
+          "sourceUrl": "https://www.mitchelljacob.com/blog/the-beef-with-tariffsnbsp",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He calls for spending cuts and eliminating the federal debt.",
+          "quote": "We need to stop raising the debt limit, cut spending, and eliminate the federal debt.",
+          "sourceUrl": "https://www.mitchelljacob.com/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He says public schools should receive funding and provide free meals.",
+          "quote": "Our public schools should be funded and provide free meals. Our kids are the future.",
+          "sourceUrl": "https://www.mitchelljacob.com/",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "He says rehabilitation should be the first pillar of criminal justice and supports investment in education to reduce recidivism.",
+          "quote": "I believe the first pillar of criminal justice is rehabilitation, followed by punishment.",
+          "sourceUrl": "https://www.mitchelljacob.com/",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports fair processing of work visas, asylum claims, and refugee requests and criticizes increased immigration enforcement.",
+          "quote": "We should process work visas, asylum claims, and refugee requests fairly and swiftly, allowing people to contribute to our economy.",
+          "sourceUrl": "https://www.mitchelljacob.com/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports the right to bear arms and opposes one-size-fits-all federal rules, while proposing accountability for adults who provide firearms to minors or store them negligently.",
+          "quote": "Instead of a one-size-fits-all federal rule, the HOPE Act targets the root cause by holding everyone accountable.",
+          "sourceUrl": "https://www.mitchelljacob.com/blog/rights-with-responsibility-responsible-gun-ownership",
+          "agreement": "5/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports individuals making personal medical decisions with their physicians and says abortion rights should not vary by state.",
+          "quote": "I believe in a government that respects individuals' rights to make personal medical choices in consultation with their physicians.",
+          "sourceUrl": "https://www.mitchelljacob.com/",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "He criticizes prioritizing tax breaks over access to universal health care and other public services.",
+          "quote": "We are sacrificing education, small business investments, access to housing, universal healthcare, and so much more, all so that we can give the wealthiest Americans tax breaks.",
+          "sourceUrl": "https://www.mitchelljacob.com/blog/we-must-invest-in-services-that-benefit-the-greatest-number-of-americans",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He opposes the SAVE Act’s citizenship-document requirements and says voting should be made more accessible for eligible voters.",
+          "quote": "protecting our democracy means making voting more accessible to eligible voters, not adding additional hurdles.",
+          "sourceUrl": "https://www.mitchelljacob.com/blog/the-save-act",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "ROCCO BONACCI",
+      "party": "Independent",
+      "stances": {}
+    }
+  ],
+  "sources": "cole.house.gov · clerk.house.gov · mitchelljacob.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
