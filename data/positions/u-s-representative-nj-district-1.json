@@ -1,0 +1,208 @@
+{
+  "office": "U.S. Representative",
+  "district": "NJ District 1",
+  "division": "nj/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "DONALD NORCROSS",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He sponsored a bill to raise the federal minimum wage to $15 and supported making it easier for workers to unionize.",
+          "quote": "I am proud to sponsor a bill that would raise the federal minimum wage to $15 by 2023.",
+          "sourceUrl": "https://norcross.house.gov/sponsored-legislation",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He has said he will protect Social Security and Medicare and voted for a budget agreement that preserved those benefits.",
+          "quote": "In Congress, I will always honor our commitments to seniors and protect the Social Security and Medicare programs that they have worked hard to fund.",
+          "sourceUrl": "https://www.donaldnorcrossforcongress.com/issues/",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He introduced legislation investing $130 billion in public school infrastructure and education jobs.",
+          "quote": "Investing in our nation’s public schools will create good-paying jobs, improve educational outcomes and ensure that students learn in state-of-the-art buildings that are safe and secure",
+          "sourceUrl": "https://norcross.house.gov/2021/1/norcross-education-leaders-introduce-bills-reopen-and-rebuild-america-s",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supported a public safety package that funded mental health crisis responders and provided resources to local police departments.",
+          "quote": "Today, we’re again proving our unwavering commitment to public safety by giving local police departments the resources they need to build trust in the communities they serve and funding mental health crisis responders.",
+          "sourceUrl": "https://norcross.house.gov/2022/9/rep-norcross-votes-to-pass-public-safety-package",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He called for immigration reform that provides a path to citizenship and supported protections for Dreamers.",
+          "quote": "We need comprehensive immigration reform – like the plan that passed the Senate in 2015 – that provides a pathway to citizenship and enhances our security.",
+          "sourceUrl": "https://norcross.house.gov/2017/9/norcross-statement-daca-0",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He voted for bills requiring background checks on all gun sales and transfers.",
+          "quote": "Today, U.S. Congressman Donald Norcross (NJ-01) voted to pass H.R. 8, the Bipartisan Background Checks Act and H.R. 1446, the Enhanced Background Checks Act, two commonsense gun violence prevention measures to require background checks on all gun sales",
+          "sourceUrl": "https://norcross.house.gov/2021/3/norcross-votes-lifesaving-commonsense-gun-violence-prevention-bills",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He voted for the Women’s Health Protection Act and said Congress should protect reproductive health and legal abortion access.",
+          "quote": "Today I voted to protect reproductive health for all women in America.",
+          "sourceUrl": "https://norcross.house.gov/2021/9/norcross-statement-woman-s-right-choose",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "He criticized H.R. 28 for banning transgender children from school sports teams.",
+          "quote": "banning transgender kids as young as kindergarten from playing on school sports teams with their friends.",
+          "sourceUrl": "https://norcross.house.gov/2025/1/rep-norcross-releases-statement-on-h-r-28-vote",
+          "agreement": "6/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "He voted yes on House passage of the MORE Act.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He backed legislation to expand Medicare benefits and protect Medicare and children’s public health coverage.",
+          "quote": "This bill will expand Medicare benefits to include much needed dental, vision and hearing health services.",
+          "sourceUrl": "https://norcross.house.gov/2019/12/norcross-votes-lower-cost-prescription-drugs",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He has supported investment in solar power and clean energy to reduce carbon emissions.",
+          "quote": "I’m proud to support towns across the state to invest in solar projects, especially with the billions in federal funds included in the Infrastructure Investment and Jobs Act, to increase the security of our energy supply and reduce our carbon footprint in the process.",
+          "sourceUrl": "https://norcross.house.gov/2022/5/rep-norcross-hails-new-solar-park-gloucester-township",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "He voted for the John Lewis Voting Rights Advancement Act and explicitly supports making voting easier.",
+          "quote": "I’ve always supported making voting easier, not harder, and today, I proudly voted to pass the John Lewis Voting Rights Advancement Act,",
+          "sourceUrl": "https://norcross.house.gov/2021/8/norcross-votes-protect-right-vote-all-americans",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "DAMON GALDO",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He says he would reduce federal spending and protect tax relief for working families.",
+          "quote": "My priority will be to reduce unnecessary federal spending, support affordable, reliable American energy, encourage economic growth, cut burdensome regulations, and protect tax relief for working families.",
+          "sourceUrl": "https://votedamongaldo.com/my-platform-orig",
+          "agreement": "2/3"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "In a 2022 candidate questionnaire, he agreed that the government should cut spending to reduce the national debt.",
+          "quote": "The government should cut spending in order to reduce the national debt. Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/67307/race/6822/election/925",
+          "agreement": "2/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He says he would fight regulations that raise housing and construction costs.",
+          "quote": "I will fight regulations that drive up housing and construction costs and make it harder for working people to succeed.",
+          "sourceUrl": "https://votedamongaldo.com/my-platform-orig",
+          "agreement": "2/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He supports law enforcement, tougher penalties for violent criminals and drug traffickers, and coordination among agencies.",
+          "quote": "I will support our law enforcement officers, strengthen penalties for violent criminals and drug traffickers, combat the fentanyl epidemic, and improve coordination between local, state, and federal agencies to keep our communities safe.",
+          "sourceUrl": "https://votedamongaldo.com/my-platform-orig",
+          "agreement": "2/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supports secure borders, enforcement of existing immigration laws, and cooperation between federal and local law enforcement.",
+          "quote": "I will support secure borders, enforce existing immigration laws, strengthen cooperation between federal and local law enforcement, improve the legal immigration process, and ensure taxpayer dollars are used to serve American citizens first.",
+          "sourceUrl": "https://votedamongaldo.com/my-platform-orig",
+          "agreement": "2/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "In a 2022 questionnaire, he expressed a preference for carrying a pregnancy to term and opposed public funding for abortion providers, while accepting abortion in cases of rape.",
+          "quote": "Although I believe every life is so important and should be given a chance, if a woman was raped and became pregnant I would understand if they wanted an abortion. I would hope that somehow they would find a way to get through the absolute evil that was done to them and give that baby life but that’s a hard thing to ask of someone and I would completely understand and be fine with that.",
+          "sourceUrl": "https://ivoterguide.com/candidate/67307/race/6822/election/925",
+          "agreement": "2/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He supports price transparency, health savings accounts, and competition to lower health-care costs.",
+          "quote": "I will support greater price transparency, expand access to Health Savings Accounts, encourage competition that lowers healthcare costs, protect patients with preexisting conditions, and work to make prescription medications more affordable.",
+          "sourceUrl": "https://votedamongaldo.com/my-platform-orig",
+          "agreement": "2/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "WHYY reports that he wants an energy policy aimed at lowering utility and transportation costs.",
+          "quote": "Galdo said he wants to lower the cost-of-living by reducing government spending, lower taxes for working families and pursue an energy policy that lowers utility and transportation costs.",
+          "sourceUrl": "https://whyy.org/articles/election-2026-new-jersey-1st-congressional-district-voter-guide/",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supports voter ID, citizenship verification, voter-roll maintenance, and stronger mail-ballot security.",
+          "quote": "I will support requiring proof of citizenship to vote in federal elections, requiring voter identification, improving the accuracy of voter rolls, strengthening mail in ballot security, and increasing transparency throughout the election process.",
+          "sourceUrl": "https://votedamongaldo.com/my-platform-orig",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "norcross.house.gov · donaldnorcrossforcongress.com · clerk.house.gov · votedamongaldo.com · ivoterguide.com · whyy.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
