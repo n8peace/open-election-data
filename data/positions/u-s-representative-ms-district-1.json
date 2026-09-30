@@ -1,0 +1,174 @@
+{
+  "office": "U.S. Representative",
+  "district": "MS District 1",
+  "division": "ms/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Johnny Baucom",
+      "party": "Libertarian",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He says he aligns with a political outlook that favors less government and no taxation.",
+          "quote": "As they believe in less government, regulation, and no taxation. The belief in the founding principles of this nation as the end all be all to all arguments of civil liberty and personal rights. That is something I can get behind.",
+          "sourceUrl": "https://lp.org/candidate/johnny-michael-baucom-jr/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He proposes incentivizing more home construction and making building materials cheaper to reduce housing costs.",
+          "quote": "My main focus on lowering the cost of housing would be to make the materials for building these houses cheaper to buy and incentivizing the production of more houses through contractor friendly means.",
+          "sourceUrl": "https://lp.org/candidate/johnny-michael-baucom-jr/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He supports school choice legislation and more competition between districts.",
+          "quote": "I support school choice legislation and open curriculums that aren’t mandated so extensively. Allowing for competition between districts in education.",
+          "sourceUrl": "https://snapcoalition.org/initiatives/stance-on-science/candidates/ms/johnny-michael-baucom",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He pledged to oppose bills he considers government overreach into personal choices, especially gun ownership.",
+          "quote": "Baucom also pledged to “vote against any bill that intends to overreach the government’s power over Americans and their personal choices of how they live their life.”",
+          "sourceUrl": "https://magnoliatribune.com/2026/08/26/johnson-baucom-hope-to-unseat-heavily-favored-incumbent-kelly-in-mississippis-1st-congressional-district/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Cliff Johnson",
+      "party": "Democrat",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Johnson said he and Scott Colom had discussed raising the minimum wage to around $15 an hour.",
+          "quote": "To have the same buying power as it did so many years ago, it would have to be well over $12 an hour, and (Colom) and I have both talked about numbers more like $15 an hour for the minimum wage.",
+          "sourceUrl": "https://thedmonline.com/scott-colom-and-cliff-johnson-joint-campaign-rally-highlights-key-campaign-promises/",
+          "agreement": "4/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He criticized tariff imposition as part of policies creating economic uncertainty and higher prices.",
+          "quote": "a single person declares war, imposes tariffs, threatens the judiciary and in doing that creates tremendous economic uncertainty that drives up prices and makes things worse",
+          "sourceUrl": "https://thedmonline.com/cliff-johnson-campaigns-for-transparency-and-accountability/",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "His campaign calls for funding reentry and substance-abuse programs to address causes of crime and poverty.",
+          "quote": "refusing to fund reentry and substance abuse programs to actually get at the core causes of crime and poverty.",
+          "sourceUrl": "https://www.cliffjohnsonforcongress.com/",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Johnson supported immigration reform that would let employers hire needed workers and give people a way to work and support their families.",
+          "quote": "I support immigration reform to ensure that employers can hire the workers they need and good people who want to work to support their families will have a way to do so.",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/CHRG-116hhrg40465/pdf/CHRG-116hhrg40465.pdf",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports access to reproductive health care in consultation with a patient’s physician.",
+          "quote": "I want them to have access to whatever healthcare they need in consultation with their physician.",
+          "sourceUrl": "https://newslab.org/cliff-johnson-campaigns-for-transparency-and-accountability/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Trent Kelly",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He said he supported legislation making the Trump tax cuts permanent.",
+          "quote": "It makes the Trump Tax Cuts permanent and delivers the largest tax cut ever for working families.",
+          "sourceUrl": "https://trentkelly.house.gov/newsroom/documentsingle.aspx?DocumentID=8888",
+          "agreement": "3/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "His official site posted a commitment to pursue more free and fair trade deals.",
+          "quote": "Implementing the China Task Force recommendations to move our supply chain for medicine, protective medical equipment, and technology out of China, increase U.S. manufacturing, and reach more free and fair trade deals",
+          "sourceUrl": "https://trentkelly.house.gov/uploadedfiles/09.17.2020_commitment_to_america_pdf.pdf",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He said he would not support legislation that restricts legal gun owners’ rights.",
+          "quote": "I will not support any legislation that infringes on the rights of legal gun owners and gives more power and authority to the federal government.",
+          "sourceUrl": "https://trentkelly.house.gov/issues/issue/?IssueID=15021",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He said the nation has a duty to protect unborn lives and supported overturning Roe v. Wade.",
+          "quote": "As your voice in Congress, I believe it is our duty as a nation to protect the lives of the unborn.",
+          "sourceUrl": "https://trentkelly.house.gov/issues/issue/?IssueID=14936",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He emphasized individual choice in health care, including choosing a doctor, and said decisions should not be controlled by the federal government.",
+          "quote": "Mississippians and all Americans need to be in charge of their healthcare decisions, not the federal government. A person should be able to choose their doctor and receive the best possible treatment options.",
+          "sourceUrl": "https://trentkelly.house.gov/issues/issue/?IssueID=14935",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supports an all-of-the-above energy strategy focused on reliable, affordable energy and domestic oil and gas production.",
+          "quote": "Americans deserve access to reliable and affordable energy, and the federal government does not need to be in the business of picking winners and losers.",
+          "sourceUrl": "https://trentkelly.house.gov/issues/issue/?IssueID=14933",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He voted yes on the Safeguard American Voter Eligibility Act.",
+          "quote": "Vote Question: On Passage\n\nSafeguard American Voter Eligibility Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2024345",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "lp.org · snapcoalition.org · magnoliatribune.com · thedmonline.com · cliffjohnsonforcongress.com · govinfo.gov · newslab.org · trentkelly.house.gov · clerk.house.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

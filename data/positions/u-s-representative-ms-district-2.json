@@ -1,0 +1,214 @@
+{
+  "office": "U.S. Representative",
+  "district": "MS District 2",
+  "division": "ms/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Ron Eller",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He has called for lower taxes and cutting government spending.",
+          "quote": "We need to cut waste and spending, at the same time lower taxes.",
+          "sourceUrl": "https://ivoterguide.com/candidate/59671/race/11608/election/1093",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He supports school choice, including voucher programs, charter schools, private schools, and homeschooling.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools.",
+          "sourceUrl": "https://ivoterguide.com/candidate/59671/race/11608/election/1093",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He strongly disagreed with redirecting police-department funds to community programs.",
+          "quote": "I support redirecting funds from police departments to community programs.",
+          "sourceUrl": "https://ivoterguide.com/candidate/59671/race/11608/election/1093",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supports physically securing the border and restricting aid and voting eligibility for people who entered the country illegally.",
+          "quote": "Any individual who entered the country illegally is not entitled to federal or state aid. Additionally if by chance they ever become a citizen since they initially entered the country illegally. Then they would never be allowed to vote in a federal election.",
+          "sourceUrl": "https://ivoterguide.com/candidate/59671/race/11608/election/1093",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He supports national recognition of concealed-carry permits and describes gun ownership as rooted in the Second Amendment.",
+          "quote": "Concealed Carry Permits need to be recognized nationally, like an individuals driver license.",
+          "sourceUrl": "https://www.mississippifreepress.org/candidate-questionnaire-ron-eller-2nd-congressional-district-republican-primary/",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He described himself as pro-life and said Mississippi’s abortion law should remain in effect.",
+          "quote": "Mississippis State law 15 week rule is the law of the land. I am a Pro-Life Candidate. Abortion is a state issue and not a federal issue.",
+          "sourceUrl": "https://www.mississippifreepress.org/candidate-questionnaire-ron-eller-2nd-congressional-district-republican-primary/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He clarified that he opposes biological males participating in women’s sports and spaces.",
+          "quote": "Biological males (transgender) have no place is women's sports and restrooms.",
+          "sourceUrl": "https://ivoterguide.com/candidate/59671/race/11608/election/1093",
+          "agreement": "6/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "He proposed a federal medical-marijuana law that would legalize the industry with prescribing limited to specified medical fields.",
+          "quote": "We need a Federal Medical Marijuana law. It needs to implemented so that it would over ride state laws and legalize the industry.",
+          "sourceUrl": "https://www.mississippifreepress.org/candidate-questionnaire-ron-eller-2nd-congressional-district-republican-primary/",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He said Medicare and Medicaid should remain available, opposed other taxpayer-funded health programs, and endorsed private health insurance.",
+          "quote": "C; and Private Health Insurance. Socialized Medicine has been a failure in most places it has been tried.",
+          "sourceUrl": "https://ivoterguide.com/candidate/59671/race/11608/election/1093",
+          "agreement": "3/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supports using fossil fuels alongside other energy sources and opposes limiting their use before alternatives are ready.",
+          "quote": "We need to use all of our resources. Energy is the life blood of the American Economy and a national security issue. Eventually, a clean form of renewable energy will win out. But until that day we should not hamstring the American People and Economy for what at this time is a pie in the sky dream.",
+          "sourceUrl": "https://www.mississippifreepress.org/candidate-questionnaire-ron-eller-2nd-congressional-district-republican-primary/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supports government-issued photo ID and required signature matching for voting.",
+          "quote": "Photo ID (State/Government) issued is the gold standard. In addition there should a required signature match.",
+          "sourceUrl": "https://www.mississippifreepress.org/candidate-questionnaire-ron-eller-2nd-congressional-district-republican-primary/",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Bennie Foster",
+      "party": "Independent",
+      "stances": {
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He supports allowing parents to move a student to another district or choose alternative education methods.",
+          "quote": "If a parent wants to transfer their student to another district, or even choose an alternative education method to best serve their child, they should not be punished or forced to pay into a system they do not reap the benefits of.",
+          "sourceUrl": "https://www.electbenniefoster.com/policies",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "Foster says ICE is necessary to secure the borders and enforce immigration law, while calling for accountability and changes to agent practices.",
+          "quote": "While I believe ICE is necessary to secure our borders and enforce immigration law legally, current policies have created negative side effects.",
+          "sourceUrl": "https://www.mississippifreepress.org/us-house-candidate-questionnaire-bennie-foster-independent/",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Foster opposes elective abortions but supports exceptions in emergencies, including when the mother’s life is at risk.",
+          "quote": "While I do not support elective abortions for reasons like unplanned pregnancy or disability, I believe our laws must consider the life of the mother.",
+          "sourceUrl": "https://www.mississippifreepress.org/us-house-candidate-questionnaire-bennie-foster-independent/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Foster says sports participation and access to women’s restrooms should be based on biological sex at birth.",
+          "quote": "I believe only biological females should be allowed in women’s restrooms and that men and women should compete in sports according to their biological birth status.",
+          "sourceUrl": "https://www.mississippifreepress.org/us-house-candidate-questionnaire-bennie-foster-independent/",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Bennie G. Thompson",
+      "party": "Democrat",
+      "stances": {
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He said Congress should protect Social Security and Medicare.",
+          "quote": "Congress must keep investing in rural infrastructure, protect Social Security and Medicare, and defend civil rights so every Mississippian has the same fair chance as anyone else in this country.",
+          "sourceUrl": "https://www.mississippifreepress.org/us-house-candidate-questionnaire-bennie-thompson-democrat/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "He voted for the Bipartisan Background Checks Act of 2021.",
+          "quote": "Vote Question: On Passage Bipartisan Background Checks Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2021075",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He said abortion and other reproductive-care decisions should be made by women with their families and doctors, and opposed efforts to take those rights away.",
+          "quote": "Decisions about abortion, IVF, birth control, and reproductive care should be made by women, their families, and their doctors. Not politicians in Washington.",
+          "sourceUrl": "https://www.mississippifreepress.org/us-house-candidate-questionnaire-bennie-thompson-democrat/",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "He opposed attempts to restrict any group’s participation in activities and said decisions should account for individual well-being and professional input.",
+          "quote": "Any attempt to restrict participation towards any group should be prohibited.",
+          "sourceUrl": "https://www.mississippifreepress.org/us-house-candidate-questionnaire-bennie-thompson-democrat/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports Medicaid expansion to cover working families and help keep hospitals open.",
+          "quote": "I am the only member of Mississippi’s congressional delegation who supports Medicaid expansion because it would cover working families and help keep hospitals open.",
+          "sourceUrl": "https://www.mississippifreepress.org/us-house-candidate-questionnaire-bennie-thompson-democrat/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "He said the federal government should invest in clean energy alongside disaster prevention and resilient infrastructure.",
+          "quote": "I support practical solutions that protect Mississippi families, our natural resources, and our future.",
+          "sourceUrl": "https://www.mississippifreepress.org/us-house-candidate-questionnaire-bennie-thompson-democrat/",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "ivoterguide.com · mississippifreepress.org · electbenniefoster.com · clerk.house.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
