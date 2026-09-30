@@ -1,0 +1,243 @@
+{
+  "office": "U.S. Representative",
+  "district": "VA District 3",
+  "division": "va/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Robert C. \"Bobby\" Scott",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He opposed a budget proposal that he said would finance tax cuts for corporations and billionaires through cuts to education and nutrition programs.",
+          "quote": "As the Ranking Member of the Committee on Education and Workforce, I am particularly outraged Republicans want to fund tax cuts for corporations and billionaires by making cuts in educational and nutritional programs.",
+          "sourceUrl": "https://bobbyscott.house.gov/media-center/press-releases/scott-republican-budget-big-bad-bill",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He introduced the Raise the Wage Act of 2025 to increase the federal minimum wage to $17 by 2030.",
+          "quote": "The Raise the Wage Act of 2025 would gradually raise the minimum wage to $17 by 2030 and give roughly 22 million Americans a long-overdue raise.",
+          "sourceUrl": "https://bobbyscott.house.gov/media-center/press-releases/labor-leaders-introduce-bill-raise-minimum-wage-1",
+          "agreement": "4/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Scott voted against legislation that would expand presidential tariff powers, saying tariffs and trade wars raise prices for families.",
+          "quote": "However, I cannot support legislation that uses support for Ukraine as leverage to give Donald Trump even more authority to impose his reckless tariffs and trade wars that raise prices on American families.",
+          "sourceUrl": "https://bobbyscott.house.gov/media-center/press-releases",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Scott introduced legislation to repeal a federal tax credit voucher scheme and keep public funding in public education.",
+          "quote": "That is why I am proud to support the Keep Public Funds in Public Schools Act of 2026 to undo the harm caused by Republicans' 'Big Ugly Bill' and ensure that public dollars are spent on public education.",
+          "sourceUrl": "https://democrats-edworkforce.house.gov/media/press-releases/scott-moore-bonamici-frost-grijalva-and-pocan-introduce-keep-public-funds-in-public-schools-act-of-2026",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "Scott introduced criminal justice and youth justice legislation that supports diversion, reentry, and evidence-based prevention programs.",
+          "quote": "Bobby remains committed to comprehensive sentencing reform, a total elimination of mandatory minimums, and implementing evidence-based prevention and intervention programs and strategies.",
+          "sourceUrl": "https://www.bobbyscottforcongress.com/affordable-health-care-for-all",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "In remarks on career education, Scott criticized stalled immigration reform and argued for a path to citizenship for DREAMers and their families.",
+          "quote": "There are some on the other side of the aisle who claim to support a pathway to citizenship for DREAMers and their families, but vote time and time again to block or undermine attempts to help these students.",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/CHRG-113hhrg87139/pdf/CHRG-113hhrg87139.pdf",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "As a vice chair of the House Gun Violence Prevention Task Force, he supports strengthening gun restrictions including an assault-weapons ban.",
+          "quote": "Reinstate and strengthen a prospective federal ban on assault weapons.",
+          "sourceUrl": "https://bobbyscott.house.gov/issues/gun-safety",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Scott requested a report on the effects of abortion restrictions and said access to reproductive health care supports women’s economic security.",
+          "quote": "A woman’s ability to determine how and when she starts a family is directly tied to her economic security. When women have access to full reproductive health care, they are more likely to pursue higher education, join the workforce, and avoid financial distress,",
+          "sourceUrl": "https://democrats-edworkforce.house.gov/media/press-releases/new-government-watchdog-agency-releases-report-on-negative-economic-effects-of-state-abortion-bans",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "Scott opposed a bill restricting transgender women and girls’ participation in sports, calling it an attack on their participation.",
+          "quote": "Mr. Chairman, this bill is a mean-spirited attack on transgender women and girls’ participation in sports.",
+          "sourceUrl": "https://democrats-edworkforce.house.gov/media/press-releases/icymi-ranking-member-scott-leads-opposition-to-politics-over-participation-act",
+          "agreement": "3/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "Scott said marijuana should not be a federal crime, while the report also notes his support for medicinal marijuana.",
+          "quote": "But the fact that it's sold over the counter for recreational use in several states now, shows that we really need to reevaluate it. My view is that it should not be a federal crime.",
+          "sourceUrl": "https://www.wvtf.org/news/2017-09-27/the-wide-ranging-opinions-on-marijuana-legalization-among-virginias-lawmakers",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Scott supports Medicare for All and a Medicare-style public option, and has supported expanding the Affordable Care Act.",
+          "quote": "While Bobby supports Medicare for All and has been a cosponsor since his first term in Congress, he understands that it can’t be done overnight.",
+          "sourceUrl": "https://www.bobbyscottforcongress.com/fighting-for-our-students",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Scott has supported efforts to reduce climate pollution, invest in renewable energy, and address climate change through federal action.",
+          "quote": "Bobby believes it is critical that the federal government aggressively address climate change. He has supported efforts to restore the United States’ commitment to the Paris Climate Accord, as well as other legislative and regulatory efforts to reduce climate change contributing CO2 emissions, and invest in clean, renewable sources of energy.",
+          "sourceUrl": "https://www.bobbyscottforcongress.com/fighting-for-our-veterans",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Scott voted for the For the People Act, which included election and voting reforms.",
+          "quote": "Vote Question: On Passage For the People Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/202162",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Edwin Rivera, Jr.",
+      "party": "Republican",
+      "stances": {}
+    },
+    {
+      "name": "Makiba A. Gaines",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Gaines describes taxes and government fees as a burden on households and small businesses, and says she would reduce financial burdens by cutting government waste.",
+          "quote": "Not only are household and family costs increasing but everyday Americans are being buried under federal, state, and local taxes, sales taxes, real estate and personal property taxes, tolls, and more government mandated expenses.",
+          "sourceUrl": "https://www.makibagaines4congress.com/blank-1",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Her campaign says Social Security benefits should increase and Medicare, Medicaid, and Social Security should receive proper funding.",
+          "quote": "We must increase Social Security benefits for our senior citizens and our disabled fellow-citizens who rely on our support.",
+          "sourceUrl": "https://www.makibagaines4congress.com/blank-1",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "Gaines says she would increase funding for community programs and incentives to help address crime, while partnering with law enforcement.",
+          "quote": "I intend to increase funding to community programs to establish strong partnerships with Americans who want to create change and lead programs and incentives in their own communities.",
+          "sourceUrl": "https://www.makibagaines4congress.com/blank-1",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Stephen C. Woll",
+      "party": "Independent",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He said he would work to increase the federal minimum wage.",
+          "quote": "Then, I would work to increase the federal minimum wage, which has not been adjusted since 2009 and to which the Virginia state minimum wage is tied.",
+          "sourceUrl": "https://www.wvtf.org/3rd-district-candidate-steve-woll-i",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He favors rescinding broad tariffs while retaining narrowly targeted, congressionally approved tariffs for unfair trade practices.",
+          "quote": "Across-the-board tariffs imposed by this Administration as a way to fight a trade war with most of the world should be rescinded, leaving only highly targeted tariffs that are approved by Congress, are imposed in response to unfair trade practices from a trading partner, and are used as a last resort after other negotiations have failed.",
+          "sourceUrl": "https://www.wvtf.org/3rd-district-candidate-steve-woll-i",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "He said Congress should rein in deficit spending, including spending on the entitlement system, and make hard choices.",
+          "quote": "One that will have long term negative consequences is its failure to rein in our deficit spending, including but not limited to the entitlement system",
+          "sourceUrl": "https://www.wvtf.org/3rd-district-candidate-steve-woll-i",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He proposed changing zoning requirements to increase the supply of multifamily housing and accessory dwelling units.",
+          "quote": "adjust zoning requirements to increase the supply of multi-family dwellings and Additional Dwelling Units (ADUs), providing more housing availability",
+          "sourceUrl": "https://www.wvtf.org/3rd-district-candidate-steve-woll-i",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He said he would oppose mass deportations of undocumented workers who are willing to attain legal status.",
+          "quote": "stop the mass deportation of undocumented workers who are willing to work hard, pay taxes, and attain legal status while performing some of our most difficult and low-paying jobs",
+          "sourceUrl": "https://www.wvtf.org/3rd-district-candidate-steve-woll-i",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He said he favors protecting the fetus as far back as possible, while respecting abortion laws set by each state.",
+          "quote": "my view is that until such a consensus emerges, the most moral position is to be as conservative as possible, and to protect the fetus as far back as possible.",
+          "sourceUrl": "https://www.wvtf.org/3rd-district-candidate-steve-woll-i",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He said he would support at least a transition to a single-payer health care system.",
+          "quote": "Therefore, beyond restoring Medicaid and ACA premium supports, I would support at a minimum a transition to a single payer system",
+          "sourceUrl": "https://www.wvtf.org/3rd-district-candidate-steve-woll-i",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "He proposed requiring new energy sources for data centers to use clean, renewable sources.",
+          "quote": "any new energy sources commissioned for data centers must be from clean, renewable sources",
+          "sourceUrl": "https://www.wvtf.org/3rd-district-candidate-steve-woll-i",
+          "agreement": "6/10"
+        }
+      }
+    }
+  ],
+  "sources": "bobbyscott.house.gov · democrats-edworkforce.house.gov · bobbyscottforcongress.com · govinfo.gov · wvtf.org · clerk.house.gov · makibagaines4congress.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

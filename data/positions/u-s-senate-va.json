@@ -1,0 +1,168 @@
+{
+  "office": "U.S. Senate",
+  "district": "VA",
+  "division": "va/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Mark R. Warner",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He opposed a tax plan he said would cut taxes for the wealthy while reducing funding for health care, education and public safety.",
+          "quote": "the GOP plans to provide tax breaks for billionaires while slashing health care, education and public safety",
+          "sourceUrl": "https://www.warner.senate.gov/newsroom/press-releases/warner-files-amendments-to-republican-budget-plan/",
+          "agreement": "4/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He voted for a $15 federal minimum-wage amendment and said raising the wage should remain a priority.",
+          "quote": "I voted for this amendment to underscore my belief that raising the minimum wage must remain a top congressional priority.",
+          "sourceUrl": "https://www.warner.senate.gov/newsroom/press-releases/statement-of-u-s-sen-mark-r-warner-after-governor-northam-signed-privacy-legislation-into-law/",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He opposed broad steel and aluminum import tariffs, citing higher costs for consumers and businesses, while supporting trade enforcement against unfair practices.",
+          "quote": "These tariffs will significantly increase input costs for small businesses, put homeownership further out of reach for Virginians, and threaten good-paying manufacturing jobs across America.",
+          "sourceUrl": "https://www.warner.senate.gov/newsroom/press-releases/warner-slams-trump-tariffs-that-are-set-to-make-life-more-expensive-for-virginians/",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He called for strengthening Social Security and Medicare while also seeking a balanced long-term fiscal solution.",
+          "quote": "We need to work together to strengthen Social Security and Medicare so they can still be here for future generations.",
+          "sourceUrl": "https://www.warner.senate.gov/newsroom/press-releases/statement-of-sen-warner-on-long-term-solvency-of-social-security-and-medicare/",
+          "agreement": "3/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He championed legislation to increase housing supply and encourage localities to address zoning and land-use barriers to development.",
+          "quote": "will help get more housing built, expand access to homeownership, and make sure federal programs are doing their job effectively.",
+          "sourceUrl": "https://www.warner.senate.gov/newsroom/press-releases/warner-bills-to-boost-housing-supply-and-make-housing-more-affordable-pass-key-congressional-hurdle/",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He voted to block a measure he said threatened public school funding and has supported legislation to help modernize school buildings.",
+          "quote": "not ones that threaten to defund public schools and gut world-class American colleges and universities.",
+          "sourceUrl": "https://www.warner.senate.gov/newsroom/press-releases/warner-kaine-on-legislation-that/",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He has supported funding for law enforcement as well as prevention, behavioral health response and community-based crime reduction programs.",
+          "quote": "law enforcement officers, behavioral health professionals, and community partners receiving the tools and training they need to respond effectively to public safety crises.",
+          "sourceUrl": "https://www.warner.senate.gov/newsroom/press-releases/warner-kaine-announce-over-6-million-in-federal-funding-to-boost-public-safety-support-local-law-enforcement/",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports comprehensive immigration reform with a pathway to citizenship and enforcement focused on people who pose threats to communities.",
+          "quote": "the path forward lies in a comprehensive reform that combines a meaningful pathway to citizenship with secure borders",
+          "sourceUrl": "https://www.warner.senate.gov/about/priorities/immigration/",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He has sponsored legislation to expand background checks to gun sales and supported additional gun violence prevention measures.",
+          "quote": "sponsored two bills aimed at protecting Virginians from gun violence through expanded background checks on gun sales and banning military-style assault weapons.",
+          "sourceUrl": "https://www.warner.senate.gov/newsroom/press-releases/warner-backs-legislation-to-protect-virginians-from-gun-violence/",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He has supported legislation to codify abortion rights and said he would continue working to protect access to legal abortion.",
+          "quote": "I will continue working to protect needed access to safe, legal abortion.",
+          "sourceUrl": "https://www.warner.senate.gov/newsroom/press-releases/statement-of-u-s-sen-mark-r-warner-5/",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "He opposed a federal measure barring transgender athletes from women’s sports and said decisions about integrating transgender students should be left to parents, educators and state athletic associations.",
+          "quote": "leave the decision of how to best integrate transgender students into sports in the hands of parents, educators and state athletic associations",
+          "sourceUrl": "https://www.warner.senate.gov/newsroom/press-releases/warner-kaine-on-legislation-that/",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He introduced a health care bill that would create a public insurance option and expand Medicaid coverage.",
+          "quote": "There is still a lot of work to be done to get to universal coverage, but my comprehensive Health CARE Act includes life-saving provisions to meaningfully improve health care and lower costs",
+          "sourceUrl": "https://www.warner.senate.gov/newsroom/press-releases/warner-introduces-new-sweeping-health-care-bill-to-lower-costs-expand-coverage-and-improve-access-to-care/",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports reducing emissions and investing in clean energy while also emphasizing affordable energy and domestic production.",
+          "quote": "He supports an all-of-the-above energy strategy that invests in clean energy, strengthens domestic production, modernizes the electric grid, and reduces reliance on foreign fuel sources.",
+          "sourceUrl": "https://www.warner.senate.gov/about/priorities/energy-environment/",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He introduced and backed legislation supporting same-day registration, early voting and mail voting.",
+          "quote": "legislation to improve access to the ballot for Americans, advance commonsense federal election standards and campaign finance reforms, and protect American democracy.",
+          "sourceUrl": "https://www.warner.senate.gov/newsroom/press-releases/warner-kaine-colleagues-introduce-legislation-to-protect-the-freedom-to-vote-and-strengthen-american-democracy/",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Bert Mizusawa",
+      "party": "Republican",
+      "stances": {
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports secure borders while making legal immigration easier.",
+          "quote": "We must keep our borders secure while making legal immigration for those seeking the American Dream an easier process.",
+          "sourceUrl": "https://www.ballotready.org/people/bert-mizusawa",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He says he will defend the right to bear arms and oppose efforts to infringe on it.",
+          "quote": "Our Constitutional right to keep and bear arms is key to the security of freedom and individual liberty. I will defend our rights to citizen self-defense and fight any effort to infringe on that right.",
+          "sourceUrl": "https://www.ballotready.org/people/bert-mizusawa",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "warner.senate.gov · ballotready.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

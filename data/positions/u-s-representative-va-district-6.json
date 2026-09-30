@@ -1,0 +1,224 @@
+{
+  "office": "U.S. Representative",
+  "district": "VA District 6",
+  "division": "va/cd-6",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Beth A. Macy",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "She says wealthy people should pay more in taxes to help fund health coverage and keep Social Security solvent.",
+          "quote": "Reverse those tax cuts, and we can make sure every American has the health coverage they need.",
+          "sourceUrl": "https://www.wmra.org/2026-09-18/beth-macy-q-a-6th-congressional-district?_amp=true",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She says she would fight to raise the federal minimum wage.",
+          "quote": "As your congresswoman, I will fight like hell to raise the minimum wage.",
+          "sourceUrl": "https://bethmacy.substack.com/p/welcome-to-the-worst-kept-secret",
+          "agreement": "4/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "She says Congress should end tariffs, which she argues raise costs for consumers and farmers.",
+          "quote": "It should end tariffs, which are really a tax on purchased items.",
+          "sourceUrl": "https://bethmacyforcongress.com/priorities/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She opposes privatizing Medicare and Social Security and says the wealthy should pay more to help keep Social Security solvent.",
+          "quote": "Congress needs to stop ongoing attempts to privatize programs that have long been part of the American social contract, including Medicare and Veterans Administration benefits.",
+          "sourceUrl": "https://bethmacyforcongress.com/priorities/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She supports incentives for local zoning reform to make more affordable housing possible.",
+          "quote": "Congress should create incentives for state and local governments to enact reforms that pave the way for more affordable housing, including zoning reform.",
+          "sourceUrl": "https://bethmacyforcongress.com/priorities/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She supports restoring legal pathways to permanent status or citizenship and reforming visas for year-round farm workers.",
+          "quote": "America must restore and preserve legal pathways for permanent legal status and/or citizenship.",
+          "sourceUrl": "https://www.wmra.org/2026-09-18/beth-macy-q-a-6th-congressional-district?_amp=true",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She says she would work to codify Roe v. Wade into federal law and remove restrictions on abortion and related care.",
+          "quote": "I will work with Democratic majorities to codify Roe v. Wade into federal law.",
+          "sourceUrl": "https://www.wmra.org/2026-09-18/beth-macy-q-a-6th-congressional-district?_amp=true",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports universal health coverage, including Medicare for All, and says Medicaid cuts should be rescinded.",
+          "quote": "I will fight for universal healthcare coverage including Medicare for All so that anyone can join and stop worrying about how they’ll pay for an emergency room visit or a hospital stay.",
+          "sourceUrl": "https://bethmacyforcongress.com/priorities/",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Macy supports requiring or encouraging data-center builders to use renewable energy and reduce greenhouse gases.",
+          "quote": "Data center builders must be encouraged, either through market or legislative forces, to use renewable energies and invest in technologies that reduce greenhouse gases.",
+          "sourceUrl": "https://bethmacyforcongress.com/priorities/",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Ben L. Cline",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Cline says lowering taxes is a priority for economic growth.",
+          "quote": "The Congressman is fighting to reduce the regulatory burden on businesses and employees and is also committed to lowering taxes that stunt economic growth.",
+          "sourceUrl": "https://cline.house.gov/issues/economy/",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "Cline voted against the 2019 Raise the Wage Act.",
+          "quote": "Jul 18, 2019, 12:01 PM | 116th Congress, 1st Session Vote Question: On Passage Raise the Wage Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "7/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Cline says he supports promoting free trade agreements.",
+          "quote": "He also believes in promoting free trade agreements and policies that benefit farmers and small businesses in Virginia’s Sixth Congressional District.",
+          "sourceUrl": "https://cline.house.gov/issues/economy/",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "He voted for H.R. 1 and said its provisions made no changes to Social Security or Medicare.",
+          "quote": "Among its key provisions, the legislation eliminates taxes on tips, overtime pay, and car loan interest, delivers additional tax relief for seniors, makes no changes to Social Security or Medicare, strengthens Medicaid by cracking down on fraud and protecting access for those who need it most, and ensures robust funding for our national defense.",
+          "sourceUrl": "https://cline.house.gov/news/documentsingle.aspx?DocumentID=1589",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He said the Republican Study Committee framework he helped advance would expand housing supply and make more federal property available for private housing.",
+          "quote": "As Vice-Chair of the RSC, we are advancing a common sense framework that expands housing supply, unlocks underutilized federal property for private-sector housing and removes tax barriers that discourage home sales and first-time ownership alike.",
+          "sourceUrl": "https://cline.house.gov/news/documentsingle.aspx?DocumentID=2654",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He says he is a strong advocate for school choice across public, private, charter, and homeschool options.",
+          "quote": "In Congress, I have been a strong advocate for school choice policies that put parents at the center of their child’s education.",
+          "sourceUrl": "https://cline.house.gov/news/documentsingle.aspx?DocumentID=2654",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "He voted for legislation making an assault on a law-enforcement officer by a noncitizen a deportable offense.",
+          "quote": "This bill to make an assault on a law enforcement officer by a criminal alien a deportable offense is a good step toward helping to protect those who protect us.",
+          "sourceUrl": "https://cline.house.gov/news/documentsingle.aspx?DocumentID=1230",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Cline supported a bill funding border wall construction, expanded detention, and more removals.",
+          "quote": "We fund the construction of 701 miles of the border wall, provide for one million removals annually, add 10,000 new ICE personnel, and expand detention capacity to hold 100,000 illegal aliens on any given day.",
+          "sourceUrl": "https://cline.house.gov/news/documentsingle.aspx?DocumentID=1592",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Cline says defending Second Amendment rights is a significant priority and opposes gun control laws.",
+          "quote": "Both in Richmond as a Delegate and now in Washington as a Congressman, I have made it a significant priority to stand in defense of our Second Amendment rights.",
+          "sourceUrl": "https://cline.house.gov/news/documentsingle.aspx?DocumentID=1019",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Cline says he supports pro-life legislation and will keep advocating to protect unborn life.",
+          "quote": "I have always been a champion of pro-life legislation that protects our God-given right to life, and I’ll never stop fighting for the unborn.",
+          "sourceUrl": "https://bencline.com/issues/protecting-the-unborn/",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Cline voted for legislation barring athletes whose sex is male from women’s and girls’ sports programs.",
+          "quote": "States that the qualifications of “sex” are based on an individual’s reproductive biology and genetics at birth.",
+          "sourceUrl": "https://cline.house.gov/news/documentsingle.aspx?DocumentID=1203",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Cline says he favors free-market approaches to healthcare and affordability in the healthcare marketplace.",
+          "quote": "Congressman Cline has made it a priority to address America’s healthcare issues using effective, free-market solutions, while protecting patients with preexisting conditions.",
+          "sourceUrl": "https://cline.house.gov/issues/health/",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Cline supports energy policies he says will protect energy jobs and avoid high household energy costs.",
+          "quote": "Congressman Cline believes in supporting policies that serve to bolster both American security and economic interests, and also safeguard our natural resources in a responsible manner that does not jeopardize Virginia’s energy jobs or burdens Virginia’s families with high energy costs.",
+          "sourceUrl": "https://cline.house.gov/issues/energy/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Cline says he supports voter ID requirements and election safeguards.",
+          "quote": "I support voter ID requirements which will ensure only legal votes are cast, as well as safeguards to ensure your ballot is protected throughout the counting process.",
+          "sourceUrl": "https://bencline.com/issues/upholding-election-integrity/",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "wmra.org · bethmacy.substack.com · bethmacyforcongress.com · cline.house.gov · clerk.house.gov · bencline.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

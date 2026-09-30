@@ -1,0 +1,182 @@
+{
+  "office": "U.S. Representative",
+  "district": "VA District 4",
+  "division": "va/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jennifer L. McClellan",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She cosponsored the Raise the Wage Act of 2025, which would increase the federal minimum wage.",
+          "quote": "To provide for increases in the Federal minimum wage, and for other purposes.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr2743ih",
+          "agreement": "3/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "She led colleagues in urging the administration to revise or rescind tariffs on Canada and Mexico, citing their effects on Virginia farmers.",
+          "quote": "Virginia’s farmers depend on fair and open trade policies",
+          "sourceUrl": "https://mcclellan.house.gov/2025/03/05/virginia-house-democrats-call-trump-administration-revise-or-rescind-25/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She supported a budget agreement that she said safeguarded Social Security and Medicare.",
+          "quote": "Protects Americans’ health care and retirement, safeguarding Social Security, Medicare, Medicaid, and the Affordable Care Act",
+          "sourceUrl": "https://mcclellan.house.gov/2023/06/04/weekly-newsletter-632023/",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She says she has worked at the state and federal level to expand affordable housing supply.",
+          "quote": "Jenn has worked at the state and federal level to expand the supply of affordable housing.",
+          "sourceUrl": "https://jennifermcclellan.com/issue/economic-opportunity/",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She says she has fought cuts to school programs and opposes efforts to defund public education.",
+          "quote": "She has fought Republican efforts to cut Head Start and Title I funding that Virginia schools depend on, and she will continue to oppose any effort to defund the public education system that millions of Virginian children rely on.",
+          "sourceUrl": "https://jennifermcclellan.com/issue/education-and-child-care/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She called for an efficient pathway for legal immigration and asylum claims and voted against a bill she said would undermine the asylum system.",
+          "quote": "We need to work together to build an efficient pathway for legal immigration and asylum claims to afford everyone an opportunity to succeed in this country.",
+          "sourceUrl": "https://mcclellan.house.gov/category/immigration/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She says abortion decisions should be made by patients and providers and has supported legislation expanding abortion rights.",
+          "quote": "Jenn believes how, when, and whether to become parents should be left to patients and their providers.",
+          "sourceUrl": "https://jennifermcclellan.com/issue/healthcare/",
+          "agreement": "3/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "She voted against a bill barring transgender girls and women from participating in women’s sports and criticized it as discriminatory.",
+          "quote": "In a blatant example of gender discrimination, the bill seeks to bar transgender girls and women from participating in women’s sports.",
+          "sourceUrl": "https://mcclellan.house.gov/2025/01/14/mcclellan-statement-voting-against-hr-28/",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She has supported expanding Medicaid and protecting Affordable Care Act coverage and premium tax credits.",
+          "quote": "She helped lead the fight to expand Medicaid in Virginia during her time in the General Assembly, delivering coverage to 400,000 Virginians.",
+          "sourceUrl": "https://jennifermcclellan.com/issue/healthcare/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She championed Virginia’s 100% clean-energy standard and supports expanding clean energy and energy efficiency.",
+          "quote": "While in the General Assembly, she championed the Virginia Clean Economy Act to make Virginia the first state in the South with a 100% clean energy standard.",
+          "sourceUrl": "https://jennifermcclellan.com/issue/energy-and-environment/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She introduced a bill to make absentee voting easier and has supported measures to protect and expand voting rights.",
+          "quote": "She introduced her first voting rights bill in 2006 to make absentee voting easier in Virginia.",
+          "sourceUrl": "https://jennifermcclellan.com/issue/voting-rights/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Robert P. \"Family Man\" Murray, Jr.",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He proposed ending individual income taxes and shifting the tax burden to corporations and overseas suppliers.",
+          "quote": "We need to end the IRS mandate for individual income taxes and shift tax burdens to corporations and overseas suppliers.",
+          "sourceUrl": "https://www.vpm.org/elections/2026-09-18/va04-mcclellan-murray-candidate-survey/",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He calls for closing what he describes as unpayable debt while also saying this would cure Social Security.",
+          "quote": "This will close the $18T in mathematically unpayable debt and restore fiscal sanity to federal spending.",
+          "sourceUrl": "https://www.vpm.org/elections/2026-09-18/va04-mcclellan-murray-candidate-survey/",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He said deregulating housing would accelerate construction and help lower housing costs.",
+          "quote": "A better, more sustainable solution is deregulating housing (to accelerate construction) and resolving immigration that has raised travel costs.",
+          "sourceUrl": "https://www.vpm.org/elections/2026-09-18/va04-mcclellan-murray-candidate-survey/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supported fast-tracking some immigrants while saying immigrants who do not assimilate should not receive taxpayer-funded support.",
+          "quote": "We must keep and fast-track brilliant, ethical, hard-working talents. All immigrants who do not wish to assimilate into America must not be paid to stay by taxpayers.",
+          "sourceUrl": "https://www.vpm.org/elections/2026-09-18/va04-mcclellan-murray-candidate-survey/",
+          "agreement": "4/10"
+        },
+        "abortion": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He said he respects “your body, your choice” and opposes federal involvement in reproductive rights, while also saying he believes life begins at conception.",
+          "quote": "I respect civil rights and “your body, your choice.” I do not want the federal government involved in reproductive rights. I would prefer to mirror programs in northern Europe that financially and socially encourages births, even if only for adoption.",
+          "sourceUrl": "https://www.vpm.org/elections/2026-09-18/va04-mcclellan-murray-candidate-survey/",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Joan E. \"Andrews\" Bell",
+      "party": "Independent",
+      "stances": {
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "In a letter criticizing IVF, she called selective abortion an evil and said every child conceived through IVF is fully human.",
+          "quote": "Another evil of IVF is that sometimes multiple children are implanted into the womb, and because two or more of the children are growing, the doctor will recommend “selective abortion” with the idea that fewer babies in the womb will allow those remaining a better chance to survive.",
+          "sourceUrl": "https://humanlifereview.com/wp-content/uploads/2024/11/2024-summer-fall-50th-anniversary-issue.pdf",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "govinfo.gov · mcclellan.house.gov · jennifermcclellan.com · vpm.org · humanlifereview.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
