@@ -1,0 +1,216 @@
+{
+  "office": "U.S. Representative",
+  "district": "IA District 3",
+  "division": "ia/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Zach Nunn",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He opposes tax-and-spend policies and voted for legislation he said would prevent the hiring of additional IRS agents.",
+          "quote": "We must stop the tax-and-spend policies that have driven us to record cost levels and help get Americans back to work",
+          "sourceUrl": "https://zachnunn.com/issues/",
+          "agreement": "8/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He introduced legislation to protect Social Security and Medicare benefits and has said he opposes cuts to those programs.",
+          "quote": "I am 100% opposed to cutting Social Security and Medicare.",
+          "sourceUrl": "https://nunn.house.gov/2023/07/11/protecting-social-security-and-medicare/",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "His affordable-housing bill became law and, according to his office, makes it easier for communities to build affordable homes.",
+          "quote": "I was proud to see my bill that makes it easier for communities to build affordable homes signed into law.",
+          "sourceUrl": "https://nunn.house.gov/2024/05/20/fighting-for-affordable-housing/",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "He supports giving parents education options when public schools do not meet their children's needs.",
+          "quote": "In the case that every child’s needs aren’t being met, we should be able to provide options for parents to look at when deciding the best fit for their child.",
+          "sourceUrl": "https://nunn.house.gov/priorities/issues/helping-families-kids/",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "He says communities need to support law enforcement and provide officers with proper training, while also supporting criminal justice reform.",
+          "quote": "we must support our law enforcement and give them the proper training needed to do their job.",
+          "sourceUrl": "https://nunn.house.gov/priorities/issues/helping-families-kids/",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He voted for legislation requiring migrants convicted of specified offenses to be barred from entry or swiftly deported.",
+          "quote": "The Violence Against Women by Illegal Aliens Act will make it so migrants with a criminal history of sex offenses or domestic violence can’t enter our country, and swiftly deport those who commit such crimes once here.",
+          "sourceUrl": "https://nunn.house.gov/2024/09/18/i-think-we-can-all-agree/",
+          "agreement": "4/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "His campaign says he is a firm believer in the right to bear arms.",
+          "quote": "he’s a firm believer in the right to free speech and the right to bear arms.",
+          "sourceUrl": "https://zachnunn.com/issues/",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "His campaign describes him as committed to fighting for the unborn and identifies him as a pro-life leader.",
+          "quote": "He is a recognized pro-life leader, committed to fighting for the unborn.",
+          "sourceUrl": "https://zachnunn.com/issues/",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He championed legislation defining athletes' sex for school sports by reproductive biology and genetics at birth.",
+          "quote": "Ensure the sex of an individual athlete is based on reproductive biology and genetics at birth.",
+          "sourceUrl": "https://nunn.house.gov/2025/01/14/for-our-daughters/",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He pushed for year-round E15 and said biofuels would reduce energy costs for Americans.",
+          "quote": "Biofuels produced here in America are a national security opportunity. They are an energy independence opportunity. And most importantly, they drive down costs for every American.",
+          "sourceUrl": "https://www.iowapbs.org/shows/iowapress/episode/13736/us-representative-zach-nunn",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supported the SAVE America Act and said voters should show identification when voting.",
+          "quote": "It's called the Save America Act. It passed overwhelmingly. And I think that this is a real standard of saying you have to have an I.D. if you want to go vote.",
+          "sourceUrl": "https://www.iowapbs.org/shows/iowapress/episode/13736/us-representative-zach-nunn",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Sarah Trone Garriott",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She says she will support the PRO Act, protect collective bargaining, and pursue fair prevailing wages on federally funded projects.",
+          "quote": "In Congress, I’ll support passage of the PRO Act to strengthen and enforce these rights, and I’ll work to ensure strong enforcement of the Davis-Bacon Act so that federally funded infrastructure projects pay workers fair, prevailing wages.",
+          "sourceUrl": "https://sarahforiowa.com/issue/the-right-to-organize-and-the-dignity-of-work/",
+          "agreement": "7/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "She says she will vote to end tariffs that she argues raise costs for Iowa families and farmers.",
+          "quote": "Farmers are paying more for fertilizer and more for equipment, and then they watch their customers overseas go somewhere else. Families are paying more at the grocery store and the hardware store. Our congressman voted eight times to keep those tariffs going and called it winning. I will vote to end them.",
+          "sourceUrl": "https://sarahforiowa.com/trone-garriott-campaigns-in-montgomery-and-page-counties-talks-lowering-costs/",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She says she will oppose cuts or privatization of Social Security and Medicare and fight to strengthen those programs.",
+          "quote": "That’s why I’ll never support cuts or privatization schemes—or attempts to weaken or eliminate IPERS here in Iowa for our public employees like teachers, firefighters, and police. Instead, I’ll fight to strengthen these programs—so every Iowan can retire with dignity",
+          "sourceUrl": "https://sarahforiowa.com/issue/standing-up-for-your-retirement-and-your-health/",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She opposes diverting public funds to private school vouchers and says she will protect federal support for public schools.",
+          "quote": "I’ve also seen politicians attempt to play politics with schools and dismantle public education—diverting millions of taxpayer dollars to private school vouchers while rural schools are forced to consolidate or close altogether.",
+          "sourceUrl": "https://sarahforiowa.com/issue/protect-great-public-schools-for-every-child-in-every-community/",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "She emphasizes preventing crime and funding school safety while also holding dangerous criminals accountable.",
+          "quote": "Public safety means preventing crime, not just responding after it happens, to make communities safer for everyone.",
+          "sourceUrl": "https://www.ballotready.org/people/sarah-trone-garriott-d9c31e4d-a5a5-4789-b944-10eadaeb8d43",
+          "agreement": "3/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "She co-sponsored an Iowa bill proposing trigger locks for certain firearms and a public safety trigger-lock fund.",
+          "quote": "A bill for an act relating to trigger locks for firearms, including the establishment of a public safety trigger lock fund and requiring trigger locks on certain firearms, and providing penalties.",
+          "sourceUrl": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=SF2247&ga=90",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She says she will work to restore nationwide protections for abortion access and safeguard related reproductive health care.",
+          "quote": "In Congress, I’ll work to restore nationwide protections for abortion access and safeguard the right to contraception, IVF, and prenatal care.",
+          "sourceUrl": "https://sarahforiowa.com/issue/reproductive-freedom-is-personal-and-non-negotiable/",
+          "agreement": "10/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "She co-sponsored legislation to license retail marijuana and regulate its manufacture, delivery, and possession.",
+          "quote": "Senate File 73, by Petersen, Trone Garriott, Celsi, Boulton, Dotzler, Jochum, T. Taylor, Donahue, Knox, Bennett, Weiner, Winckler, and Giddens, a bill for an act relating to marijuana, including the manufacture, delivery, and possession of marijuana and the licensure of retail marijuana, providing fees, including excise taxes, establishing funds, and including penalties.",
+          "sourceUrl": "https://www.legis.iowa.gov/docs/publications/SJNL/20230112_SJNL.pdf",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports a public insurance option, expanded Medicare access, and restoring Medicaid funding.",
+          "quote": "I’ll also expand mental health and substance use treatment and push for increased support for rural providers—because nobody should have to drive 90 miles or wait six months to see a doctor.",
+          "sourceUrl": "https://sarahforiowa.com/issue/health-care-thats-affordable-and-there-when-you-need-it/",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "She supports investments in wind, solar and biofuels and says climate action can strengthen Iowa’s economy.",
+          "quote": "In Congress, I’ll support investments in clean energy like wind, solar, and biofuels—which already power thousands of Iowa jobs—and I’ll work with farmers to promote sustainable practices that keep our soil healthy and our water safe.",
+          "sourceUrl": "https://sarahforiowa.com/issue/protecting-iowas-land-water-and-clean-energy-future/",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "She co-sponsored legislation concerning voter-registration activities at schools.",
+          "quote": "A bill for an act relating to voter registration activities at schools.",
+          "sourceUrl": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=SF205&ga=90",
+          "agreement": "3/10"
+        }
+      }
+    }
+  ],
+  "sources": "zachnunn.com · nunn.house.gov · iowapbs.org · sarahforiowa.com · ballotready.org · legis.iowa.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
