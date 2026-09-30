@@ -1,0 +1,246 @@
+{
+  "office": "U.S. Representative",
+  "district": "VA District 11",
+  "division": "va/cd-11",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "James R. Walkinshaw",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "He helped lead Fairfax County's implementation of collective bargaining for employees.",
+          "quote": "Walkinshaw also helped lead county efforts to implement collective bargaining for employees, reduce plastic waste",
+          "sourceUrl": "https://walkinshaw.house.gov/about/",
+          "agreement": "3/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He criticized President Trump’s tariffs for raising prices and threatening Virginia jobs.",
+          "quote": "He is pushing back against President Trump’s tariffs that raise prices and threaten Virginia jobs",
+          "sourceUrl": "https://jameswalkinshaw.org/about/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says he defends Medicaid and Medicare against proposed cuts.",
+          "quote": "defends Medicaid and Medicare from Republican attempts to cut them.",
+          "sourceUrl": "https://jameswalkinshaw.org/priorities/",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He supported streamlining zoning and permitting and supports reforms to allow more housing options.",
+          "quote": "James supports legislation to strengthen the Low-Income Housing Tax Credit (LIHTC), increase funding for the Housing Trust Fund, and incentivize local governments to reform restrictive zoning laws to allow more housing options.",
+          "sourceUrl": "https://jameswalkinshaw.org/priorities/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He has supported increased funding for Fairfax County Public Schools and supports federal funding for public education programs.",
+          "quote": "In Congress, James fights to protect the Department of Education, fully fund IDEA and Title I, and increase support for military-connected students through the federal Impact Aid program.",
+          "sourceUrl": "https://jameswalkinshaw.org/priorities/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports police funding and higher police pay, as well as behavioral health co-responder teams and community-oriented policing.",
+          "quote": "James has supported higher pay for police officers, the creation of co-responder teams for behavioral health crises, the deployment of police body cameras, and strengthening of the County’s independent Police Civilian Review Panel.",
+          "sourceUrl": "https://jameswalkinshaw.org/priorities/",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports a path to citizenship for undocumented immigrants, protections for Dreamers, and improvements to legal immigration processes.",
+          "quote": "He supports comprehensive immigration reform that creates a path to citizenship for undocumented immigrants, protects Dreamers, and secures family reunification.",
+          "sourceUrl": "https://jameswalkinshaw.org/priorities/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He supports requiring background checks on all gun sales and banning assault weapons and high-capacity magazines.",
+          "quote": "In Congress, he supports legislation to ban assault weapons and high-capacity magazines, close the Charleston loophole, require background checks on all gun sales",
+          "sourceUrl": "https://jameswalkinshaw.org/priorities/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports strengthening the Affordable Care Act and defending Medicaid and Medicare from cuts.",
+          "quote": "In Congress, James supports legislation to lower prescription drug prices, expand access to primary and mental health care, and protect and strengthen the Affordable Care Act.",
+          "sourceUrl": "https://jameswalkinshaw.org/priorities/",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He supports federal clean energy investment and has led local efforts to reduce emissions.",
+          "quote": "In Congress, James supports bold federal investments in clean energy innovation, energy efficiency, and electrification.",
+          "sourceUrl": "https://jameswalkinshaw.org/priorities/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He supports the Freedom to Vote Act and has led efforts to expand access to early voting.",
+          "quote": "In Congress, James supports the John R. Lewis Voting Rights Advancement Act and the Freedom to Vote Act.",
+          "sourceUrl": "https://jameswalkinshaw.org/priorities/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Arthur G. Purves",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He says he has spent 29 years studying how to cut taxes and argues for reducing demand rather than cutting programs.",
+          "quote": "As president of the Fairfax County Taxpayers Alliance, I've spent 29 years studying how to cut taxes.",
+          "sourceUrl": "https://www.votepurves.org/",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He strongly agreed that government should cut spending to reduce the national debt.",
+          "quote": "The government should cut spending in order to reduce the national debt.",
+          "sourceUrl": "https://ivoterguide.com/candidate/46325/race/31329/election/1463",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He says school districts should give vouchers to students who leave for private or home schooling.",
+          "quote": "School districts should give vouchers to students who attend for at least a year and then leave for private or home-schooling.",
+          "sourceUrl": "https://www.votepurves.org/",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "In a questionnaire, Purves agreed that mandatory minimum sentences should be required and enforced for violent crimes.",
+          "quote": "Mandatory minimum sentencing should be required and enforced for violent crimes.",
+          "sourceUrl": "https://ivoterguide.com/candidate/46325/race/8151/election/711",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He calls for vetting immigrants before entry and barring traffickers and gang members.",
+          "quote": "Do not let in the drug- and sex-traffickers and gang members from whom other immigrants are trying to flee.",
+          "sourceUrl": "https://www.votepurves.org/",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "He argues that complex gun laws can turn law-abiding gun owners into inadvertent felons.",
+          "quote": "What's not debatable is that these laws turn law-abiding citizens into inadvertent felons.",
+          "sourceUrl": "https://www.votepurves.org/",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He says abortion should remain legal only in rare cases to save the mother's life.",
+          "quote": "Keep abortion legal for those rare cases but encourage marriage.",
+          "sourceUrl": "https://www.votepurves.org/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Purves strongly agreed that biological males should not participate in women's sports or occupy women's spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces",
+          "sourceUrl": "https://ivoterguide.com/candidate/46325/race/31329/election/1463",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He proposed reducing health-care costs through free-market pricing and consumer cost-sharing.",
+          "quote": "Reduce healthcare costs by restoring free-market forces. Specifically, reduce premiums and eliminate fixed deductibles and co-pays",
+          "sourceUrl": "https://ivoterguide.com/candidate/46325/race/8151/election/711",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He opposes carbon-credit policies that he says raise the cost of fossil fuels and gas.",
+          "quote": "Its only purpose is to drive up the cost of fossil fuel.",
+          "sourceUrl": "https://www.votepurves.org/",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He disagreed that people should be allowed to vote without photo identification and says mail-in ballots enable fraud.",
+          "quote": "People should be able to vote without photo identification.",
+          "sourceUrl": "https://ivoterguide.com/candidate/46325/race/31329/election/1463",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Dianne L. Blais",
+      "party": "Green",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Blais said federal programs cut by DOGE should be restored.",
+          "quote": "Many federal programs that were cut by DOGE should be reinstated.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73041231",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Blais said the minimum wage must be raised so full-time workers would not need federal assistance.",
+          "quote": "No full-time worker should need federal assistance so the minimum wage must be raised.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73041231",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Blais said the country needs a national health care program.",
+          "quote": "We badly need a national health care program.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73041231",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "walkinshaw.house.gov · jameswalkinshaw.org · votepurves.org · ivoterguide.com · onyourballot.vote411.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

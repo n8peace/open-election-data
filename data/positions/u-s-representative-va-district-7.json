@@ -1,0 +1,391 @@
+{
+  "office": "U.S. Representative",
+  "district": "VA District 7",
+  "division": "va/cd-7",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Eugene S. Vindman",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "His campaign says cutting taxes for working families is his top priority.",
+          "quote": "His top priority is cutting taxes and lowering costs for working families across the Commonwealth and the country.",
+          "sourceUrl": "https://vindmanforcongress.com/issues/",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He says he strongly supports workers' rights to organize and collectively bargain for fair wages.",
+          "quote": "That’s why he strongly supports workers’ right to organize, collectively bargain, and earn fair wages for their work.",
+          "sourceUrl": "https://vindmanforcongress.com/issues/",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He warned that tariffs can raise costs for families and small businesses.",
+          "quote": "He has also warned that reckless tariffs can drive up costs on everyday goods, disrupt supply chains, and make it harder for working families and small businesses to get ahead.",
+          "sourceUrl": "https://vindmanforcongress.com/issues/",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He said he would oppose cuts to Social Security, Medicare, or Medicaid.",
+          "quote": "In Congress, Eugene will stand firmly against any attempt to cut Social Security, Medicare, or Medicaid.",
+          "sourceUrl": "https://vindmanforcongress.com/issues/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He led a bill to cut red tape, lower housing costs, and increase the supply of homes.",
+          "quote": "The U.S. House of Representatives yesterday passed bipartisan legislation led by Congressman Eugene Vindman (D-Va.-07) to cut red tape, lower housing costs, and increase the supply of homes in rural communities across the country.",
+          "sourceUrl": "https://vindman.house.gov/2026/02/10/u-s-house-passes-vindman-led-bill-to-increase-housing-supply-lower-costs/",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He supports federal funding and resources for public schools.",
+          "quote": "That’s why he’s fighting to ensure Congress provides the funding, resources, and support our schools need so that every student has a fair shot at success.",
+          "sourceUrl": "https://vindmanforcongress.com/issues/",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports fully funding police while also saying public safety requires addressing poverty, addiction, and lack of opportunity.",
+          "quote": "He also understands that lasting public safety also requires addressing the root causes of crime, like poverty, addiction, and lack of opportunity.",
+          "sourceUrl": "https://vindmanforcongress.com/issues/",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports enforcement against transnational crime and violent criminals alongside simpler legal pathways.",
+          "quote": "Eugene supports cracking down on transnational crime and violent criminals, alongside simpler, legal pathways for people who pay their taxes and are trying to do things the right way.",
+          "sourceUrl": "https://vindmanforcongress.com/issues/",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "He cosponsored a bill requiring background checks for every firearm sale.",
+          "quote": "To require a background check for every firearm sale.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr18ih",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports restoring abortion access nationwide and opposes bans on reproductive health care.",
+          "quote": "Eugene will vote against any attempt to ban reproductive healthcare including abortion, IVF, or contraceptives.",
+          "sourceUrl": "https://vindmanforcongress.com/issues/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "He voted against the Protection of Women and Girls in Sports Act, which would set sports rules based on sex at birth.",
+          "quote": "Vote Question: On Passage\n\nProtection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "4/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "A voter guide records that he expressed support for federal cannabis legalization during a 2024 primary debate.",
+          "quote": "During a 2024 primary debate, Vindman expressed his support for federal legalization.",
+          "sourceUrl": "https://vote.norml.org/politicians/216844",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports strengthening the Affordable Care Act and protecting Medicare and Medicaid.",
+          "quote": "In Congress, he’s working to lower the cost of prescription drugs, strengthen the Affordable Care Act, protect Medicare and Medicaid, and close the gaps in access that leave too many communities behind.",
+          "sourceUrl": "https://vindmanforcongress.com/issues/",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He supports clean energy investment, reducing carbon emissions, and transitioning away from fossil fuels.",
+          "quote": "He supports bold investments in clean energy, efforts to reduce carbon emissions, transitioning away from fossil fuels, lowering energy bills for Virginians and policies that position Virginia as a leader in the green economy.",
+          "sourceUrl": "https://vindmanforcongress.com/issues/",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Doug A. Ollivant",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He says he would ease the tax burden while maintaining essential services and reducing unnecessary spending.",
+          "quote": "I’m committed to easing the tax burden on families and businesses by promoting fiscal responsibility and reducing unnecessary spending.",
+          "sourceUrl": "https://www.dougforvirginia.com/issues/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He said Social Security benefits should remain at their current level for older Americans.",
+          "quote": "absolutely need to maintain the status quo of Social Security",
+          "sourceUrl": "https://www.dougforvirginia.com/2026/02/28/with-districts-in-flux-culpeper-veteran-announces-run-as-republican-in-the-7th/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He supports increasing housing supply by reducing development regulations and creating more units.",
+          "quote": "all levels of government should be promoting policies to increase housing supply.",
+          "sourceUrl": "https://www.dougforvirginia.com/issues/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "At a candidate forum, he advocated school choice options.",
+          "quote": "On parental rights, all emphasized parents’ primary role. Smithers shared personal sacrifices for Christian schooling. Harding linked strong families to solving societal issues. Ollivant advocated school choice options.",
+          "sourceUrl": "https://www.potomaclocal.com/2026/06/19/republican-candidates-outline-priorities-on-energy-data-centers-and-parental-rights-at-fredericksburg-forum/",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He supports resourcing law enforcement, investing in policing, and holding criminals accountable.",
+          "quote": "I stand with law enforcement and believe they deserve the resources, training, and respect they need to do their jobs effectively.",
+          "sourceUrl": "https://www.dougforvirginia.com/issues/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supports strong enforcement of immigration laws to deter unlawful entry.",
+          "quote": "I support strong enforcement of our immigration laws to stop unlawful entry and deter those who exploit our system.",
+          "sourceUrl": "https://www.dougforvirginia.com/issues/",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He supports concealed-carry reciprocity and opposes requiring a government permit to purchase a firearm.",
+          "quote": "I support national concealed carry reciprocity so that law-abiding gun owners are not treated as criminals when they cross a state line.",
+          "sourceUrl": "https://www.dougforvirginia.com/issues/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He prioritizes affordable, reliable power and supports natural gas and nuclear energy as central parts of an all-of-the-above approach.",
+          "quote": "Virginia’s families deserve affordable energy, and our communities need reliable power they can count on.",
+          "sourceUrl": "https://www.dougforvirginia.com/issues/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Taner E. Demirci Lopez",
+      "party": "Libertarian",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He said he would reduce unnecessary federal spending and lower Americans’ tax burden.",
+          "quote": "My approach is straightforward: Spend less, tax less, avoid unnecessary foreign conflicts, and leave more money in the pockets of the American people.",
+          "sourceUrl": "https://www.wvtf.org/7th-district-candidate-taner-demirci-lopez-l",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He supports significant spending cuts to reduce the national debt.",
+          "quote": "Government should remove itself from many areas it has no business being in and significantly cut spending in order to reduce the national debt.",
+          "sourceUrl": "https://ivoterguide.com/candidate/97249/race/31325/election/1463",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He supports reducing unnecessary regulations and permitting barriers to increase housing supply.",
+          "quote": "I would also encourage policies that allow states and local communities to reduce unnecessary permitting delays and barriers to increasing housing supply.",
+          "sourceUrl": "https://www.wvtf.org/7th-district-candidate-taner-demirci-lopez-l",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He proposes both restoring border control and a vetted legal-work process for undocumented immigrants already in the country.",
+          "quote": "The American Controlled Immigration, Workforce and Security Act would restore control at the border while creating a lawful, vetted, accountable process for undocumented immigrants already here to come out of the shadows, work legally, pay taxes, and comply with our laws.",
+          "sourceUrl": "https://lopezforva.com/",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He describes abortion policy as primarily a state matter, supports access in serious medical circumstances and after rape, and favors protections for developing life later in pregnancy.",
+          "quote": "I believe a woman should have access to abortion when a pregnancy presents a serious threat to her health or when the pregnancy resulted from rape or other forced circumstances.",
+          "sourceUrl": "https://www.wvtf.org/7th-district-candidate-taner-demirci-lopez-l",
+          "agreement": "6/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He says biological males should not compete in women's sports because he considers it unfair to female athletes.",
+          "quote": "Biological males should not compete in women’s sports. They are physically stronger, and it is unfair to female athletes.",
+          "sourceUrl": "https://ivoterguide.com/candidate/97249/race/31325/election/1463",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, he strongly disagreed with allowing people to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification.",
+          "sourceUrl": "https://ivoterguide.com/candidate/97249/race/31325/election/1463",
+          "agreement": "3/10"
+        }
+      }
+    },
+    {
+      "name": "Alaha Ahrar",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She supports asking people with greater means to contribute more to provide relief for working families.",
+          "quote": "Those with greater financial means can reasonably contribute more, while our policies should respect hard work and personal responsibility.",
+          "sourceUrl": "https://ivoterguide.com/candidate/96568/race/31325/election/1463",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "She supported reducing government spending to reduce the national debt, while opposing across-the-board cuts.",
+          "quote": "I believe fiscal responsibility requires clear priorities, not across-the-board cuts.",
+          "sourceUrl": "https://ivoterguide.com/candidate/96568/race/31325/election/1463",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "She strongly opposes eliminating the U.S. Department of Education and favors strengthening its role in equal access, civil rights, and quality education.",
+          "quote": "Rather than eliminating the U.S. Department of Education, we should strengthen its role in protecting equal access, civil rights, and quality education while working with states and local communities.",
+          "sourceUrl": "https://ivoterguide.com/candidate/96568/race/31325/election/1463",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She supports timely, fair immigration processing, protecting refugees, and work authorization when authorized.",
+          "quote": "Applicants who meet legal requirements and pose no criminal or national security threat should receive a timely and fair process.",
+          "sourceUrl": "https://ivoterguide.com/candidate/96568/race/31325/election/1463",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports comprehensive background checks, secure firearm storage, and measures to keep guns from people posing serious dangers.",
+          "quote": "I support comprehensive background checks, enforcement of existing gun laws, secure firearm storage, and reasonable measures",
+          "sourceUrl": "https://ivoterguide.com/candidate/96568/race/31325/election/1463",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "She says abortion should be limited to specified exceptional circumstances, including serious health risks, rape, incest, or hardship.",
+          "quote": "I believe abortion should be limited to exceptional circumstances, including serious risks to the pregnant woman’s life or health, rape or incest",
+          "sourceUrl": "https://ivoterguide.com/candidate/96568/race/31325/election/1463",
+          "agreement": "6/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "She agreed that biological males should not participate in women’s sports or occupy women’s intimate and vulnerable spaces.",
+          "quote": "I believe women and girls deserve fairness, safety, dignity, and privacy, particularly in competitive sports and intimate or vulnerable settings.",
+          "sourceUrl": "https://ivoterguide.com/candidate/96568/race/31325/election/1463",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports a government-funded health coverage option for everyone while preserving the option of private insurance.",
+          "quote": "I support a strong government-funded healthcare option available to all, while preserving the freedom of individuals and families to choose private insurance if they prefer.",
+          "sourceUrl": "https://ivoterguide.com/candidate/96568/race/31325/election/1463",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She proposes a diversified mix of nuclear and renewable sources with storage and a stronger grid while seeking reliable, affordable, clean energy.",
+          "quote": "I believe America needs a diverse energy strategy combining nuclear power, solar, wind and hydropower, supported by energy storage & a stronger grid.",
+          "sourceUrl": "https://ivoterguide.com/candidate/96568/race/31325/election/1463",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "She supports access for eligible voters and secure alternatives so voters are not turned away for lacking a specific photo ID.",
+          "quote": "Voters should not be unnecessarily denied the right to vote because they lack a specific form of photo identification.",
+          "sourceUrl": "https://ivoterguide.com/candidate/96568/race/31325/election/1463",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Joshua E. Ertle",
+      "party": "Independent",
+      "stances": {}
+    },
+    {
+      "name": "Randall A. Terry",
+      "party": "Independent",
+      "stances": {
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "In a candidate questionnaire, he agreed that government should enforce border laws and prevent illegal entry.",
+          "quote": "Government should enforce laws designed to protect the border and to prevent illegal entry of persons into the country. Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/11389/race/1311/election/199",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, Terry said abortion should be allowed only when the mother's physical life is in jeopardy.",
+          "quote": "Should abortion be allowed under extenuating circumstances? If so, what circumstances? When mother's physical life in jeopardy",
+          "sourceUrl": "https://ivoterguide.com/candidate/11389/race/1311/election/199",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "vindmanforcongress.com · vindman.house.gov · govinfo.gov · clerk.house.gov · vote.norml.org · dougforvirginia.com · potomaclocal.com · wvtf.org · ivoterguide.com · lopezforva.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

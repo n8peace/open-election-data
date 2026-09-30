@@ -1,0 +1,286 @@
+{
+  "office": "U.S. Representative",
+  "district": "VA District 10",
+  "division": "va/cd-10",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Suhas Subramanyam",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "His official biography says he passed bipartisan bills that lowered taxes.",
+          "quote": "He also co-founded a caucus dedicated to bipartisanship and passed bipartisan bills to improve K-12 education, lower taxes, and address gun safety.",
+          "sourceUrl": "https://subramanyam.house.gov/about",
+          "agreement": "4/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "He cosponsored H.R. 2743, the Raise the Wage Act of 2025, which would increase the federal minimum wage.",
+          "quote": "To provide for increases in the Federal minimum wage, and for other purposes.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr2743ih",
+          "agreement": "6/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He called for ending unnecessary tariffs, saying they raise costs and make business planning harder.",
+          "quote": "We need to stop using unnecessary and burdensome tariffs and stop using them as a foreign policy tool.",
+          "sourceUrl": "https://www.wvtf.org/10th-district-candidate-rep-suhas-subramanyam",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He said Medicare and Social Security are vital programs that must be protected from cuts.",
+          "quote": "We must protect programs like Medicare, Social Security, and Veterans benefits in particular. These programs are vital to so many constituents in our district, and Project 2025 would allow cuts to these critical programs.",
+          "sourceUrl": "https://www.suhasforvirginia.com/press-and-media/plan-to-protect-economy",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He requested $5 million in federal project funding to construct affordable rental housing in Loudoun County.",
+          "quote": "$5,000,000 for Loudoun County to construct affordable rental housing.",
+          "sourceUrl": "https://www.legistorm.com/stormfeed/view_rss/2521765/member/3818/title/congressman-suhas-subramanyam-announces-15-requests-for-local-projects-in-government-funding-legislation.html",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "In a candidate questionnaire, he supported keeping and expanding free meal programs in public schools.",
+          "quote": "Since many students rely on school meals for the majority of their daily nutrition, I support keeping and expanding existing free meal programs and public schools.",
+          "sourceUrl": "https://nakasecactionfund.org/wp-content/uploads/sites/68/2019/10/House-87-Google-Docs.pdf",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports comprehensive immigration reform, the Dream Act pathway to citizenship, and reducing visa processing delays.",
+          "quote": "I am pushing for the Dream Act to provide a pathway to citizenship for Dreamers and legislation to reduce visa processing delays that impact so many families in our district.",
+          "sourceUrl": "https://www.wvtf.org/10th-district-candidate-rep-suhas-subramanyam",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He supported gun safety legislation, including measures to restrict some firearms and establish a waiting period for purchases.",
+          "quote": "In the legislature, Suhas has actively supported common sense gun safety laws, and he proudly pushed several measures which passed the General Assembly just this year",
+          "sourceUrl": "https://www.suhasforvirginia.com/issues",
+          "agreement": "5/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He said Congress should prioritize access to reproductive health care and supported a state constitutional amendment to protect reproductive freedom.",
+          "quote": "Suhas believes that Congress must prioritize making sure everyone, no matter their zip code, has access to affordable, reliable, and safe reproductive health care.",
+          "sourceUrl": "https://www.suhasforvirginia.com/issues",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "A 2020 legislative voting scorecard records him supporting a transgender-student policy for K-12 public schools.",
+          "quote": "treatment of transgender and non-binary students in K-12 public schools",
+          "sourceUrl": "https://equalityvirginia.org/wp-content/uploads/2021/01/2020-SCORECARD-1.pdf",
+          "agreement": "3/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "As a Virginia senator, he voted yes on SB 448, which would establish a regulated retail marijuana market.",
+          "quote": "SB 448 Cannabis control; establishes a framework for creation of a retail marijuana market, penalties.",
+          "sourceUrl": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?241+vot+SV0409SB0448+SB0448=",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "In a candidate questionnaire, he supported reducing Medicaid work requirements and pursuing a public option.",
+          "quote": "We also need to address the cost of care by examining medical fraud, waste, and abuse, and by pushing our colleagues at the federal level to introduce a public option, or else consider introducing one at the state level.",
+          "sourceUrl": "https://nakasecactionfund.org/wp-content/uploads/sites/68/2019/10/House-87-Google-Docs.pdf",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "He described climate change as an emergency and said he advanced an environmental and conservation agenda.",
+          "quote": "Suhas believes we are facing a climate emergency that poses a grave threat to the future of our planet.",
+          "sourceUrl": "https://www.suhasforvirginia.com/issues",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He opposes restrictive voter ID laws and supports early voting to broaden access to the polls.",
+          "quote": "He will continue to fight against restrictive voter ID laws that are designed to suppress the vote, protect early voting to ensure greater access to the polls,",
+          "sourceUrl": "https://www.suhasforvirginia.com/issues",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Dave T. Beckwith",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "His campaign says he would keep taxes low and pursue policies to lower costs for families and small businesses.",
+          "quote": "Dave will fight to keep taxes low, cut burdensome regulations, and pursue an all-of-the-above energy strategy that lowers costs for families and small businesses.",
+          "sourceUrl": "https://www.beckwithforcongress.com/key-issues",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He said Congress should cut spending to reduce the national debt and oppose further deficits.",
+          "quote": "Congress needs to quit the debt-laden government spending spree – it stifles private investment in new technology, creates inflation, saddles taxpayers with interest payments to foreign financiers, and mortgages the economic prosperity of future generations.",
+          "sourceUrl": "https://ivoterguide.com/candidate/66779/race/6820/election/917",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He supports parents choosing public, charter, private, vocational, or homeschool education.",
+          "quote": "Dave believes every family should have the right to direct their child's education, whether that is a public school, a charter school, a private school, a vocational program, or a homeschool curriculum.",
+          "sourceUrl": "https://www.beckwithforcongress.com/education-for-our-modern-economy",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "His campaign describes him as a staunch supporter of law enforcement and says agencies should be well resourced.",
+          "quote": "Dave is a staunch supporter of law enforcement and believes that well-resourced law enforcement agencies make safer communities.",
+          "sourceUrl": "https://www.beckwithforcongress.com/key-issues",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He called for funding the border wall and supporting border patrol and immigration enforcement agencies.",
+          "quote": "Congress needs to immediately fund the completion of the border wall; put a stop to the Biden Administration's disastrous immigration policies and practices; and fully fund and support our border patrol and immigration enforcement agencies.",
+          "sourceUrl": "https://ivoterguide.com/candidate/66779/race/6820/election/917",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He said he supports overturning Roe v. Wade and opposes abortion except when a nonviable pregnancy puts the woman's life at grave risk.",
+          "quote": "I will bring the strongest support possible to overturn Roe vs Wade, defend states' 10th Amendment right to set abortion regulations at the state level, and fight any attempt to codify abortion in federal law.",
+          "sourceUrl": "https://ivoterguide.com/candidate/66779/race/6820/election/917",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He supports health savings accounts, catastrophic coverage, and competition rather than government-backed insurance subsidies.",
+          "quote": "Dave supports expanding access to Health Savings Accounts paired with low-cost catastrophic coverage, letting families keep more of their paycheck month to month while still being protected if something serious happens.",
+          "sourceUrl": "https://www.beckwithforcongress.com/health-communities",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "His campaign supports an all-of-the-above energy strategy, including nuclear power, to lower costs and create jobs.",
+          "quote": "Dave supports an all-of-the-above energy strategy that ends market-distorting subsidies and unleashes American innovation, including a bold reinvestment in nuclear power to lower costs and create good jobs.",
+          "sourceUrl": "https://www.beckwithforcongress.com/key-issues",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He called for universal photo ID, in-person voting as the default, and an excuse requirement for absentee ballots.",
+          "quote": "Photo IDs must be universally required. In-person voting must be the default voting method. Any absentee ballot must be requested with a valid excuse.",
+          "sourceUrl": "https://ivoterguide.com/candidate/66779/race/6820/election/917",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Ahsen Mujeeb Malik",
+      "party": "Independent",
+      "stances": {
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "He said he generally favors more liberal borders and proposed permanent residency without a path to citizenship for undocumented immigrants.",
+          "quote": "I believe that we should offer them permanent residency with no path to citizenship.",
+          "sourceUrl": "https://ivoterguide.com/candidate/97252/race/31328/election/1463",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "He said existing restrictions on gun ownership are sufficient.",
+          "quote": "What restrictions on gun ownership are needed to protect public safety? The ones already in place.",
+          "sourceUrl": "https://ivoterguide.com/candidate/97252/race/31328/election/1463",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports abortion access in the first trimester and restrictions later in pregnancy, with an exception for danger to the mother’s life.",
+          "quote": "I am pro-choice in the first trimester and pro-life in the last trimester with the exception of the pregnancy being harmful to the life of the mother",
+          "sourceUrl": "https://ahsenmalik.com/issues-abortion.html",
+          "agreement": "6/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He agreed that biological males should not participate in women's sports or occupy women's spaces.",
+          "quote": "I believe the overwhelming majority of women across the political spectrum would agree as well.",
+          "sourceUrl": "https://ivoterguide.com/candidate/97252/race/31328/election/1463",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports a single-payer system covering citizens and lawful residents, through a state Medicaid-for-all or federal Medicare-for-all approach.",
+          "quote": "I support a single payer health insurance system that enrolls all citizens and lawful residents in our country.",
+          "sourceUrl": "https://ivoterguide.com/candidate/97252/race/31328/election/1463",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "He supports aggressive clean-energy expansion, domestic supply-chain investment and permitting reform, while retaining cost and reliability limits.",
+          "quote": "I support a bipartisan climate bill that aggressively expands clean and renewable energy, invests in the mineral supply chains and domestic manufacturing capacity, includes real permitting reform, and addresses issues beyond energy sources",
+          "sourceUrl": "https://ahsenmalik.com/issues-climate-policy.html",
+          "agreement": "3/10"
+        },
+        "voting": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He took no side on photo-ID voting rules and said states should be free to use differing approaches.",
+          "quote": "Since a reasonable case can be made either way, I don't take a position and am supportive of the diversity of approaches.",
+          "sourceUrl": "https://ivoterguide.com/candidate/97252/race/31328/election/1463",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "subramanyam.house.gov · govinfo.gov · wvtf.org · suhasforvirginia.com · legistorm.com · nakasecactionfund.org · equalityvirginia.org · legacylis.virginia.gov · beckwithforcongress.com · ivoterguide.com · ahsenmalik.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

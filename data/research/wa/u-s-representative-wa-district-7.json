@@ -1,15 +1,15 @@
 {
   "office": "U.S. Representative",
-  "district": "WA District 2",
-  "division": "wa/cd-2",
+  "district": "WA District 7",
+  "division": "wa/cd-7",
   "kind": "candidate",
   "choices": [
     {
-      "name": "Rick Larsen",
+      "name": "Pramila Jayapal",
       "party": "Democratic"
     },
     {
-      "name": "Edwin H. Feller",
+      "name": "Nirav Sheth",
       "party": "Republican"
     }
   ]
