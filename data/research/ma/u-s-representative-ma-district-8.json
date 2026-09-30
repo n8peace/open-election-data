@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "MA District 8",
+  "division": "ma/cd-8",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Stephen F. Lynch",
+      "party": "Democratic"
+    },
+    {
+      "name": "Robert G. Burke",
+      "party": "Republican"
+    },
+    {
+      "name": "Rasheed Nicholas Walters",
+      "party": "Independent"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "MA District 4",
+  "division": "ma/cd-4",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Jake Auchincloss",
+      "party": "Democratic"
+    },
+    {
+      "name": "Thomas Stalcup",
+      "party": "Republican"
+    }
+  ]
+}

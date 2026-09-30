@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "MA District 9",
+  "division": "ma/cd-9",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Bill Keating",
+      "party": "Democratic"
+    },
+    {
+      "name": "R. Tyler Macallister",
+      "party": "Republican"
+    }
+  ]
+}

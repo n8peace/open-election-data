@@ -1,0 +1,340 @@
+{
+  "office": "U.S. Senator",
+  "district": "TN",
+  "division": "tn/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Marquita Bradshaw",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Her campaign says she supports policies to expand affordable housing and assist renters and first-time homebuyers.",
+          "quote": "She will support policies that expand affordable housing, strengthen assistance for renters and first-time homebuyers, address homelessness, and protect families from unfair housing practices.",
+          "sourceUrl": "https://www.marquitabradshaw.com/priorities",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Her campaign supports well-funded public schools and investment in classrooms, teachers, and student services.",
+          "quote": "Every student deserves a well-funded public school, and every teacher deserves competitive pay, strong resources, and respect.",
+          "sourceUrl": "https://www.marquitabradshaw.com/priorities",
+          "agreement": "5/5"
+        },
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "lean",
+          "text": "She supports restorative justice and says she signed the Justice Guarantee pledge.",
+          "quote": "I support community policing, restorative justice and signed the justice guarantee pledge.",
+          "sourceUrl": "https://ontheissues.org/Domestic/Marquita_Bradshaw_Crime.htm",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She supports restoring DACA protections and a citizenship pathway for undocumented immigrants.",
+          "quote": "I support restoring DACA protections and providing a pathway to citizenship for undocumented immigrants.",
+          "sourceUrl": "https://www.ontheissues.org/international/Marquita_Bradshaw_Immigration.htm",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supported universal background checks and additional firearm safety requirements in a statement attributed to her 2020 campaign website.",
+          "quote": "I support universal background checks. Require a gun safety education, storage, and a license in order to own a gun",
+          "sourceUrl": "https://www.ontheissues.org/domestic/Marquita_Bradshaw_Gun_Control.htm",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Her campaign says eligible Tennesseans should have equal ballot access and supports fair voting laws.",
+          "quote": "Marquita believes every eligible Tennessean should have equal access to the ballot and a meaningful voice in government.",
+          "sourceUrl": "https://www.marquitabradshaw.com/priorities",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Tharon Chandler",
+      "party": "Independent",
+      "stances": {}
+    },
+    {
+      "name": "Andrew Gerena",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He proposes redirecting federal war spending to education, infrastructure, research, and job training programs.",
+          "quote": "Re-direct federal funding from the War Budget towards Education, Infrastructure, Research, and Job training programs",
+          "sourceUrl": "https://jeranimo4senate.org/issues",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Bill Hagerty",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He opposed a large spending package and warned that it would raise taxes, arguing for spending control.",
+          "quote": "limited opportunity, less innovation, crushing taxes, a bloated government bureaucracy, and cradle-to-grave government dependency.",
+          "sourceUrl": "https://www.hagerty.senate.gov/press-releases/2021/08/09/hagerty-urges-colleagues-to-oppose-infrastructure-bill/",
+          "agreement": "3/3"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He voted against waiving budget rules for an amendment to increase the federal minimum wage.",
+          "quote": "Statement of Purpose: To provide for increases in the Federal minimum wage.",
+          "sourceUrl": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1171/vote_117_1_00074.htm",
+          "agreement": "2/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He introduced the Freedom to Build Act to reduce regulatory barriers and expand housing supply, and voted for a housing supply bill.",
+          "quote": "My Freedom to Build Act streamlines costly and often redundant regulations to reduce the cost of a new home in our country.",
+          "sourceUrl": "https://www.hagerty.senate.gov/press-releases/2026/04/14/hagerty-introduces-freedom-to-build-act-to-make-housing-affordable-again/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He publicly supported expanding school choice and education options for students.",
+          "quote": "we’re committed to expanding school choice and education options for students to succeed",
+          "sourceUrl": "https://www.hagerty.senate.gov/press-releases/2026/02/05/hagerty-praises-governor-lees-state-of-the-state-address-on-senate-floor/",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He introduced legislation to redirect funds to local law enforcement and said communities need more police officers and prosecutors.",
+          "quote": "American communities need more police officers and prosecutors—not more IRS agents",
+          "sourceUrl": "https://www.hagerty.senate.gov/press-releases/2022/09/16/hagerty-blackburn-introduce-the-restoring-law-and-order-act/",
+          "agreement": "2/3"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "He co-introduced a bill proposing bail and pretrial detention to keep dangerous offenders from returning to communities.",
+          "quote": "Use public safety tools such as bail and pretrial detention to prevent dangerous offenders from returning to communities.",
+          "sourceUrl": "https://www.hagerty.senate.gov/press-releases/2022/09/16/hagerty-blackburn-introduce-the-restoring-law-and-order-act/",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He introduced legislation to prevent entry by undocumented immigrants convicted of DUI and automatically deport those who commit DUI in the United States.",
+          "quote": "I’m pleased to introduce this commonsense legislation that would strengthen our ability to hold illegal immigrants accountable and protect our citizens.",
+          "sourceUrl": "https://www.hagerty.senate.gov/press-releases/2024/02/29/hagerty-colleagues-introduce-legislation-to-deport-illegal-immigrants-that-commit-duis/",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He opposed the 2022 Senate gun legislation and said he would not support bills he believes infringe on Second Amendment rights.",
+          "quote": "any bill that infringes upon the Second Amendment right of law-abiding citizens would not have my support.",
+          "sourceUrl": "https://www.hagerty.senate.gov/press-releases/2022/06/23/hagerty-statement-on-the-gun-legislation/",
+          "agreement": "2/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He said he has a moral duty to protect unborn children and would continue advocating for pro-life policies.",
+          "quote": "I believe we have a moral duty to protect unborn children who cannot protect themselves.",
+          "sourceUrl": "https://www.hagerty.senate.gov/press-releases/2022/06/24/hagerty-statement-on-u-s-supreme-courts-decision-properly-returning-abortion-authority-to-the-american-people/",
+          "agreement": "3/3"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He voted to advance a bill recognizing sex for Title IX athletics based on reproductive biology and genetics at birth.",
+          "quote": "A bill to provide that for purposes of determining compliance with title IX of the Education Amendments of 1972 in athletics, sex shall be recognized based solely on a person's reproductive biology and genetics at birth.",
+          "sourceUrl": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00100.htm",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He criticized a Medicare-for-All approach, saying it would take private health coverage away from many Americans.",
+          "quote": "He would take away the private health care… of 160 million Americans… and push us into a Medicare-For-All type of system.",
+          "sourceUrl": "https://www.hagerty.senate.gov/press-releases/2021/02/24/icymi-hagerty-joins-fox-friends-first-to-talk-hhs-nominee-immigration/",
+          "agreement": "2/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He urged the administration to expand domestic energy production and opposed policies he said impeded it and raised gas prices.",
+          "quote": "The solution is obvious: instead of making excuses, the Biden Administration must end its war on American energy production.",
+          "sourceUrl": "https://www.hagerty.senate.gov/press-releases/2022/03/17/hagerty-introduces-resolution-unarguable-facts-show-bidens-policies-have-generated-higher-gas-prices/",
+          "agreement": "2/3"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He urged the Senate to pass the SAVE America Act, which would require proof of citizenship to vote in federal elections.",
+          "quote": "I urge my colleagues on the other side of the aisle to do the very thing they were sent to Washington to do – represent those who sent them here. Vote in favor of the SAVE America Act.",
+          "sourceUrl": "https://www.hagerty.senate.gov/press-releases/2026/03/18/hagerty-urges-senate-to-pass-the-save-america-act-ensuring-only-american-citizens-vote-in-american-elections/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "Jeremy Dean Hearn",
+      "party": "Independent",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He says businesses should pay workers at least the local average salary and proposes an Equal Earnings Act.",
+          "quote": "INVESTMENT requires an ability to provide HUMAN WORKERS at least the HUMAN AVERAGE SALARY FROM LOCAL.",
+          "sourceUrl": "https://www.jeremydeanhearnforsenate.com/home",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Robert Jones",
+      "party": "Independent",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Jones calls for investment and prefabricated housing approaches to make quality housing more achievable.",
+          "quote": "We must use a combination of technological advancements, byproducts and recyclables, and investment to make quality housing achievable.",
+          "sourceUrl": "https://www.robertfortn.com/issues",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Jones welcomed law-abiding immigration and immigrants’ contributions while supporting enforcement for people who break laws, with proof and due process.",
+          "quote": "Welcoming the business and labor of our immigrants and foreign tourists should bring hope. We are a land of opportunity, after all. Anyone deemed to be breaking our laws should be dealt with accordingly. However, this must be done on the basis of proof. Innocent until found guilty. We must not preemptively judge.",
+          "sourceUrl": "https://www.robertfortn.com/issues",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Jones supports the right to bear arms and says some gun controls can be accepted to reduce needless tragedies.",
+          "quote": "We can also accept some controls and procedures if that means we have less needless tragedies within our country.",
+          "sourceUrl": "https://www.robertfortn.com/issues",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Jones opposes a blanket abortion ban and says medical professionals should be able to protect patients without fear of repercussions.",
+          "quote": "having a blanket ban undermines equality and the freedom a woman has in protecting her own life, and that of her potential child.",
+          "sourceUrl": "https://www.robertfortn.com/issues",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "James William Macon III",
+      "party": "Independent",
+      "stances": {}
+    },
+    {
+      "name": "Yoshi D. Matthews",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Matthews said she would pursue tax relief for working families and reduce government spending.",
+          "quote": "I will also work to reduce unnecessary government spending, support policies that lower costs for families and small businesses, and pursue tax reforms that provide relief to working Americans while encouraging economic growth.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72801110",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Matthews supports increasing housing supply and reducing regulatory barriers to make housing more affordable.",
+          "quote": "Congress should focus on reducing inflationary spending, lowering taxes for working families, encouraging affordable housing through increased supply and reduced regulatory barriers",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72801110",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Matthews said Congress should expand school choice and parental involvement.",
+          "quote": "Congress should support high academic standards, increase accountability for federal education funding, expand parental involvement and school choice, and prioritize student achievement",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72801110",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Matthews supports stronger border enforcement and streamlining legal immigration, expressing positions on both sides of this issue.",
+          "quote": "I will introduce and support legislation to strengthen border security, enforce existing immigration laws, and streamline legal immigration.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72801110",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "David Sutman, Jr.",
+      "party": "Independent",
+      "stances": {}
+    },
+    {
+      "name": "Catherine Barcel \"Barcy\" Whitson",
+      "party": "Independent",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She proposes creating safe tiny-house communities as part of an affordable-housing response for unhoused residents.",
+          "quote": "Affordable Housing and help for the 10,000 currently unhoused Tennesseans via partnering with churches, businesses, etc. to create safe tiny house communities and such.",
+          "sourceUrl": "https://senatorbarcy.org/",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports boosting public-school funding while also promoting private and home schooling.",
+          "quote": "Boosting funding for public schools and expanding vocational training programs as well as promoting private and home schooling initiatives.",
+          "sourceUrl": "https://senatorbarcy.org/issues",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She says migrant workers’ rights to remain without fear of deportation should be protected.",
+          "quote": "Protect the migrant workers and their rights to be here without fear of deportation.",
+          "sourceUrl": "https://senatorbarcy.org/",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "marquitabradshaw.com · ontheissues.org · jeranimo4senate.org · hagerty.senate.gov · senate.gov · jeremydeanhearnforsenate.com · robertfortn.com · onyourballot.vote411.org · senatorbarcy.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

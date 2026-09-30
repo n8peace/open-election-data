@@ -1,0 +1,154 @@
+{
+  "office": "U.S. Representative",
+  "district": "MA District 2",
+  "division": "ma/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "James P. McGovern",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He supported public investment in infrastructure and education and said the very wealthy and large corporations should pay their fair share in taxes.",
+          "quote": "Public investment in our economy used to be 7% — today, it’s less than half that.",
+          "sourceUrl": "https://mcgovern.house.gov/issues/issue/?IssueID=120515",
+          "agreement": "3/3"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He voted for and strongly supports raising the federal minimum wage to $17 by 2028.",
+          "quote": "That’s why I voted for and strongly support the Raise The Wage Act, which would raise the federal minimum wage to $17 by 2028",
+          "sourceUrl": "https://mcgovern.house.gov/issues/issue/?IssueID=120515",
+          "agreement": "2/3"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He called for abolishing tariffs that he said were raising costs for farmers.",
+          "quote": "If we care about our farmers, we need to ABOLISH the tariffs that are making it harder for our farmers to earn a living!",
+          "sourceUrl": "https://mcgovern.house.gov/news/email/show.aspx?ID=F3ND3GWVCQZFGSVA3GTATLU5AI",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He argued that cutting Social Security and Medicare is not a responsible way to address the debt.",
+          "quote": "Slashing Medicare and Social Security while protecting tax cuts for the wealthy is not a responsible solution.",
+          "sourceUrl": "https://mcgovern.house.gov/news/documentsingle.aspx?DocumentID=396332",
+          "agreement": "3/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He supported federal programs that help communities construct new affordable housing and preserve existing homes.",
+          "quote": "The Community Development Block Grant program, which helps provide affordable housing for working families by enabling them to purchase homes and helps our communities construct new affordable housing and preserve and rehabilitate existing housing.",
+          "sourceUrl": "https://mcgovern.house.gov/issues/issue/?IssueID=120523",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He said investing in public schools is the best way to give children the opportunity to thrive.",
+          "quote": "I believe that investing in our public schools is the best way to ensure that every child has the opportunity to thrive.",
+          "sourceUrl": "https://mcgovern.house.gov/issues/issue/?IssueID=120516",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "He cosponsored the Justice in Policing Act, which included community-based programs intended to reimagine public safety.",
+          "quote": "Reinvests in our communities by supporting critical community-based programs to change the culture of law enforcement and empower our communities to reimagine public safety in an equitable and just way.",
+          "sourceUrl": "https://mcgovern.house.gov/news/email/show.aspx?ID=LJCWZJNIK2RRGNEPTBPBNAFUWI",
+          "agreement": "2/3"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports stronger border security as well as a path to citizenship for undocumented immigrants already in the country.",
+          "quote": "First, we must improve the effectiveness of our border security to prevent people from crossing the border illegally. Second, we must crack down on employers who recruit, hire and exploit illegal workers. Third, we must develop a common-sense approach to people who are already here illegally, to bring them out of the shadows and onto a path to citizenship.",
+          "sourceUrl": "https://mcgovern.house.gov/issues/issue/?IssueID=120525",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He voted to expand background checks to cover all gun sales and most transfers.",
+          "quote": "That’s why I proudly voted for the Bipartisan Background Checks Act of 2019 to expand background checks to cover all gun sales and most transfers.",
+          "sourceUrl": "https://mcgovern.house.gov/issues/issue/?IssueID=120520",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He says he voted for three bills intended to protect abortion-related health freedom and access.",
+          "quote": "While serving you in Congress, I voted to pass three critical pieces of legislation to protect women’s health freedom and more importantly—their lives:",
+          "sourceUrl": "https://mcgovern.house.gov/news/email/show.aspx?ID=KJIZX5WV4RH7P54OF4JS3QZBZA",
+          "agreement": "2/3"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "He voted against the Protection of Women and Girls in Sports Act, which set participation rules based on sex.",
+          "quote": "Protection of Women and Girls in Sports Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "2/3"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "He voted for the MORE Act, which would decriminalize and deschedule cannabis.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2020235",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He has stated that he favors both a single-payer health system and a public option.",
+          "quote": "That’s why I’ve always favored a single-payer system and that is why I favor a public option.",
+          "sourceUrl": "https://mcgovern.house.gov/news/documentsingle.aspx?DocumentID=396950",
+          "agreement": "2/3"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He supports bold action on climate change, including transitioning to green energy and reducing emissions.",
+          "quote": "Our children’s future depends on investing in clean, sustainable energy sources — and taking bold steps to address the damage we have already done to our fragile planet.",
+          "sourceUrl": "https://mcgovern.house.gov/issues/issue/?IssueID=120518",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He voted for the For the People Act, which expanded same-day registration and vote-by-mail access.",
+          "quote": "Strengthening vote by mail, early voting, and ballot access.",
+          "sourceUrl": "https://mcgovern.house.gov/news/documentsingle.aspx?DocumentID=398680",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "mcgovern.house.gov · clerk.house.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

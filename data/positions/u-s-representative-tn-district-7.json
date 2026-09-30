@@ -1,0 +1,154 @@
+{
+  "office": "U.S. Representative",
+  "district": "TN District 7",
+  "division": "tn/cd-7",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Matt Van Epps",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He said he would have supported the One Big Beautiful Bill because it provided tax cuts and pledged to continue supporting the president’s agenda.",
+          "quote": "I would have voted for the Big Beautiful Bill, now Law, which has provided the biggest tax cuts in American history. I stand with the President in these efforts and will continue supporting his agenda to unleash the American economy.",
+          "sourceUrl": "https://ivoterguide.com/candidate/88567/race/23450/election/1330?culture=en-us",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He strongly agreed that he supports school choice, including vouchers, tax credits, charter schools, private schools, and homeschooling.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/88567/race/23450/election/1330?culture=en-us",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He strongly disagreed with redirecting funds from police departments to community programs.",
+          "quote": "I support redirecting funds from police departments to community programs. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/88567/race/23450/election/1330?culture=en-us",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He said border security should be followed by prioritizing deportation of undocumented immigrants.",
+          "quote": "President Trump has already done a phenomenal job in securing our border, now we must prioritize the deportation of illegal immigrants.",
+          "sourceUrl": "https://ivoterguide.com/candidate/88567/race/23450/election/1330?culture=en-us",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He said the federal government should not prevent people from protecting themselves, their families, or their property.",
+          "quote": "The federal government does not have a place in preventing people from protecting themselves, their families, or their property.",
+          "sourceUrl": "https://ivoterguide.com/candidate/88567/race/23450/election/1330?culture=en-us",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He described himself as pro-life, supported exceptions for rape, incest, and the mother’s life, and said abortion policy should return to the states.",
+          "quote": "I share President Trump's position on this issue. I'm pro-life and support exceptions for rape, incest, and life of the mother. I will promote families and a culture of life.",
+          "sourceUrl": "https://ivoterguide.com/candidate/88567/race/23450/election/1330?culture=en-us",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He opposed urgent political action on man-made climate change and said he supports continued fossil-fuel and natural-gas use, as well as nuclear development.",
+          "quote": "I support the continued use of fossil fuels and natural gas. We must also prioritize the development of nuclear energy.",
+          "sourceUrl": "https://ivoterguide.com/candidate/88567/race/23450/election/1330?culture=en-us",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He strongly disagreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/88567/race/23450/election/1330?culture=en-us",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Andrew J. Koontz",
+      "party": "Independent",
+      "stances": {}
+    },
+    {
+      "name": "Darden Copeland",
+      "party": "Democratic",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He called for stopping many of President Trump’s tariffs, saying they raise prices for consumers.",
+          "quote": "I think Congress should take back its constitutional authority away from this president and stop many of the tariffs that President Donald Trump has put in place",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72800829",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He said public schools should be available to all students and opposed cuts to the Department of Education.",
+          "quote": "A quality public school education should be available to all students in this country, no matter their zip code.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72800829",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "At a town hall, he voiced support for red flag laws and reinstating an assault weapons ban.",
+          "quote": "his support for gun reform, such as red flag laws and reinstating an assault weapons ban.",
+          "sourceUrl": "https://www.williamsonscene.com/news/democrats-see-williamson-county-as-important-in-congressional-primary-race/article_1c5b6703-ff65-4a7c-b22c-6f9982b725b0.html",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "At a candidate forum, he pledged to protect a woman’s right to choose.",
+          "quote": "Copeland pledged to always protect a woman’s right to choose while also addressing AI regulation and data privacy concerns.",
+          "sourceUrl": "https://tntribune.com/three-democratic-candidates-address-key-issues-affecting-voters/",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports extending health insurance subsidies and expanding Medicare.",
+          "quote": "I am in favor of extending healthcare subsidies to help Americans pay for their insurance premiums. I also want to see more done to cap the costs of certain drugs. I will also work with our state legislature to expand Medicare.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72800829",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Lowell Reynolds",
+      "party": "Independent",
+      "stances": {}
+    }
+  ],
+  "sources": "ivoterguide.com · onyourballot.vote411.org · williamsonscene.com · tntribune.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

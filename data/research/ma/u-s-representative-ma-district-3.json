@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "MA District 3",
+  "division": "ma/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Lori Loureiro Trahan",
+      "party": "Democratic"
+    },
+    {
+      "name": "Gary J. Grossi",
+      "party": "Republican"
+    },
+    {
+      "name": "Dennis R. Conlon",
+      "party": "Unenrolled"
+    }
+  ]
+}

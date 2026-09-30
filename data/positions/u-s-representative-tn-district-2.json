@@ -1,0 +1,276 @@
+{
+  "office": "U.S. Representative",
+  "district": "TN District 2",
+  "division": "tn/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Tim Burchett",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "His campaign says he opposes tax increases and supports a balanced budget amendment that would make raising taxes harder.",
+          "quote": "Tim supports a Balanced Budget Amendment to the Constitution that will force the big spenders in Washington to live within their means and make it harder for them to raise taxes.",
+          "sourceUrl": "https://burchettforcongress.com/issue/taxes-and-spending/",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He voted against House passage of the Raise the Wage Act in 2019.",
+          "quote": "Vote Question: On Passage Raise the Wage Act Vote Type: Recorded Vote Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "6/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "He introduced legislation to use tariff revenue to increase the standard deduction and reduce taxpayers' annual tax obligations.",
+          "quote": "Thanks to President Trump’s tariff revenue, taxes could be lowered through the TTRA.",
+          "sourceUrl": "https://burchett.house.gov/media/press-releases/rep-burchett-introduces-trump-tariff-rebate-act",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He says Social Security and Medicare benefits should be protected while also calling for reforms to make the programs sustainable.",
+          "quote": "In order to protect these programs, we need to make responsible reforms that make the programs sustainable and ensure our seniors get the benefits they need.",
+          "sourceUrl": "https://burchett.house.gov/issues/social-security-medicare",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "He requested $1.8 million in federal funding to relocate and rebuild Knoxville’s Police Department K-9 Unit.",
+          "quote": "The Knoxville Police Department K-9 unit is comprised of 12 teams that provide a variety of services to the citizens of Knoxville.",
+          "sourceUrl": "https://burchett.house.gov/sites/evo-subsites/burchett.house.gov/files/evo-media-document/FY25%20Knoxville%20K9_Burchett%20Financial%20Disclosure%20Statement.pdf",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He said people who enter the country illegally should be deported and called for completing the border wall and ending catch-and-release.",
+          "quote": "anyone who tries to enter this country illegally has no business being here and should be deported.",
+          "sourceUrl": "https://burchett.house.gov/issues/border-security",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He cites his sponsorship of legislation to expand gun rights and pledges to protect Second Amendment rights.",
+          "quote": "As a lifetime NRA member, you can count on Tim to protect our Second Amendment rights.",
+          "sourceUrl": "https://burchettforcongress.com/issue/guns/",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "His campaign says he sponsored legislation to protect unborn life and opposes using taxpayer dollars to support abortions.",
+          "quote": "In the state legislature, he sponsored legislation to amend the state constitution to protect unborn life.",
+          "sourceUrl": "https://burchettforcongress.com/issue/life/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He voted for House passage of the Protection of Women and Girls in Sports Act in 2025.",
+          "quote": "Vote Question: On Passage Protection of Women and Girls in Sports Act Vote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "9/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "He voted against House passage of the MORE Act in 2022.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "His campaign supports domestic energy development, describing it as a source of cheap energy and jobs, and calls for fewer offshore drilling restrictions.",
+          "quote": "We are blessed with an abundance of natural resources that can provide our own people with cheap energy, create jobs, and protect our country.",
+          "sourceUrl": "https://burchettforcongress.com/issue/energy-independence/",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He voted for the SAVE America Act, which would require documentary proof of citizenship to register and photo ID to vote in federal elections.",
+          "quote": "If Americans have to show an ID to purchase a six pack, check into a hotel room, or fly on a plane, they should have to do the same when they go to vote.",
+          "sourceUrl": "https://burchett.house.gov/media/press-releases/congressman-burchett-votes-favor-save-america-act",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Michaela Barnett",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She says she would close tax loopholes for wealthy people and establish a minimum tax on extreme wealth.",
+          "quote": "Cosponsor legislation to close billionaire tax loopholes and end carried interest deductions, crack down on offshore sheltering, and establish a minimum tax on extreme wealth so the ultra-rich pay what working Tennesseans already do",
+          "sourceUrl": "https://www.michaelafortennessee.com/an-economy-that-works-for-all",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She says she would support a federal minimum wage increase to at least $15 per hour and stronger enforcement of labor laws.",
+          "quote": "Cosponsor and vote for a federal minimum wage increase – pushing to raise the floor to at least $15/hour with phased increases so workers can afford to live and small businesses can plan ahead",
+          "sourceUrl": "https://www.michaelafortennessee.com/an-economy-that-works-for-all",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "She says she would fight to repeal Trump’s tariffs on materials used to build in the United States.",
+          "quote": "First, I will fight to repeal President Trump’s unpopular tariffs, particularly on the materials needed to build here in America.",
+          "sourceUrl": "https://www.aol.com/articles/u-house-district-2-primary-075128000.html",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "She says the federal debt must be reduced and proposes tax changes and limits on spending on foreign wars as ways to address it.",
+          "quote": "If we are going to fix our roads, improve our schools, invest in job growth, and make sure that Tennesseans can afford health care, we must reduce the federal debt.",
+          "sourceUrl": "https://www.aol.com/articles/u-house-district-2-primary-075128000.html",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She supports building more housing and reducing red tape in urban and suburban areas while protecting rural areas and farmland.",
+          "quote": "Push for federal incentives that reduce red tape in existing urban and suburban areas so that the market can respond to our housing shortage before more families are priced out while protecting our rural areas and farmland",
+          "sourceUrl": "https://www.michaelafortennessee.com/building-better-infrastructure",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She proposes federal funding for school renovations, new construction and classroom technology in her district.",
+          "quote": "Push for federal education infrastructure dollars to address the $330 million backlog in school renovations and new construction projects across our district, and make sure every classroom has the technology students need to compete",
+          "sourceUrl": "https://www.michaelafortennessee.com/building-better-infrastructure",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She says she would support expanded legal pathways and work visas as part of a secure and humane immigration system.",
+          "quote": "In Congress, I would support expanded legal pathways and work visas, particularly for the crucial jobs that American workers cannot or do not or wish to undertake.",
+          "sourceUrl": "https://www.aol.com/articles/u-house-district-2-primary-075128000.html",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Her campaign is described as strongly supporting abortion access and opposing abortion bans.",
+          "quote": "Strong support for abortion access and opposition to abortion bans.",
+          "sourceUrl": "https://www.youaredone.org/candidate/michaela-barnett",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports a universal health care option alongside expanded ACA subsidies and public programs that lower health care costs.",
+          "quote": "Advocate for a universal healthcare option, while preserving your freedom to purchase additional insurance coverage",
+          "sourceUrl": "https://www.michaelafortennessee.com/healthcare-focused-on-people-not-profits",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "She supports directing clean-energy tax credits, grants, and manufacturing incentives toward East Tennessee.",
+          "quote": "Support legislation that directs clean energy tax credits, grants, and manufacturing incentives to East Tennessee to bring clean energy investment and jobs to our region while building on our region's existing strengths in energy production",
+          "sourceUrl": "https://www.michaelafortennessee.com/building-better-infrastructure",
+          "agreement": "3/10"
+        }
+      }
+    },
+    {
+      "name": "Bruce Fine",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Fine said he would support tax relief for working families as part of lowering costs.",
+          "quote": "supporting tax relief for working families, reducing prescription drug prices, expanding competition, and strengthening workforce training.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72800716",
+          "agreement": "7/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He said Congress should end tariffs unless they are targeted for strategic purposes.",
+          "quote": "Congress can improve affordability by ending tariffs that are not specifically targeted for strategic purpose and ending our military aggression in the Middle East.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72800716",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He proposed incentives for new construction and rehabilitation to increase affordable housing.",
+          "quote": "Affordable housing could be increased through incentives for new construction and rehabilitation, first-time homebuyer assistance, and streamlined federal programs.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72800716",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He said federal dollars should support public education rather than private-school vouchers.",
+          "quote": "Federal dollars should support public education, not private-school vouchers, so every child has a fair shot and every taxpayer sees results.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72800716",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Adam Heimerman",
+      "party": "Independent",
+      "stances": {
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He called for fully funding public education and improving teacher pay and pensions.",
+          "quote": "Fully fund public education. Give teachers a better salary and part of a public pension to ensure they are not burdened further while educating our future generation.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=68459308",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "The campaign lists securing borders alongside a compassionate legal route for immigration.",
+          "quote": "Secure Boarders with a Compassionate Legal Route of Immigration",
+          "sourceUrl": "https://projectcuria.com/elections/candidate/H-TN-02/H6TN02188",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "burchettforcongress.com · clerk.house.gov · burchett.house.gov · michaelafortennessee.com · aol.com · youaredone.org · onyourballot.vote411.org · projectcuria.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
