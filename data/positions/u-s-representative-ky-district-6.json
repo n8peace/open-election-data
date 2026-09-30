@@ -1,0 +1,316 @@
+{
+  "office": "U.S. Representative",
+  "district": "KY District 6",
+  "division": "ky/cd-6",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Ralph Alvarado",
+      "party": "Republican Party",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "As primary sponsor, he proposed making local property-tax increases easier to challenge and requiring the compensating rate when an increase failed.",
+          "quote": "require the local governmental entity or school to levy a tax rate that is equal to the compensating tax rate when an election on the tax rate levy is canceled or when the election is held and the vote on the proposed increase fails to pass",
+          "sourceUrl": "https://apps.legislature.ky.gov/record/19rs/sb26.html",
+          "agreement": "3/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He co-sponsored a bill to exempt school construction from prevailing-wage requirements.",
+          "quote": "Amend KRS 337.010 to exclude the construction of educational buildings and facilities from the definition of \"public works\" and from meeting the requirements of the prevailing wage law.",
+          "sourceUrl": "https://apps.legislature.ky.gov/record/16rs/sb9.html",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He was the primary sponsor of a bill expanding education opportunity accounts for private-school tuition and fees.",
+          "quote": "allow funds in an education opportunity account to also be used for tuition or fees to attend a prekindergarten to grade twelve nonpublic school",
+          "sourceUrl": "https://apps.legislature.ky.gov/record/22rs/sb50.html",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He has called for both enforcement against unlawful entry and expanded worker visas for lawful immigration.",
+          "quote": "On immigration, Alvarado advocated for a system that rewards lawful entry and expands worker visas.",
+          "sourceUrl": "https://www.wuky.org/text/wuky-news/2026-07-07/6th-district-congressional-forum-sees-democrat-republican-adopting-different-strategies-on-trump",
+          "agreement": "3/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "As a state senator, he sponsored legislation allowing adults to carry concealed weapons without a license.",
+          "quote": "allow concealed deadly weapons to be carried by persons age 21 and over without a license",
+          "sourceUrl": "https://apps.legislature.ky.gov/record/19rs/sb150.html",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, he strongly agreed that human life deserves legal protection from conception through natural death.",
+          "quote": "Human life deserves legal protection from conception until natural death.",
+          "sourceUrl": "https://ivoterguide.com/candidate/20429/race/24301/election/1358",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He co-sponsored a law opposing state dealings with financial companies that boycott fossil-fuel energy companies.",
+          "quote": "declare findings regarding the financial harms of boycotting energy companies for dealing in fossil-fuel based energy",
+          "sourceUrl": "https://apps.legislature.ky.gov/record/22rs/sb205.html",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He sponsored a bill establishing voter identification requirements in Kentucky.",
+          "quote": "AN ACT relating to voter identification and making an appropriation therefor.",
+          "sourceUrl": "https://apps.legislature.ky.gov/record/20rs/sb2.html",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "Zach Dembo",
+      "party": "Democratic Party",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports a $15 minimum wage and the right to unionize.",
+          "quote": "Everyone should make a living wage of at least $15 an hour",
+          "sourceUrl": "https://zachdembo.com/priority/rebuild-the-american-dream/",
+          "agreement": "3/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He supports increasing housing supply through construction research, partnerships, and homebuyer programs.",
+          "quote": "We need to do everything we can to increase housing supply to reduce housing prices",
+          "sourceUrl": "https://zachdembo.com/priority/rebuild-the-american-dream/",
+          "agreement": "4/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports legal abortion access and says he would vote to codify Roe v. Wade.",
+          "quote": "In Congress. I would be a vote to codify Roe v. Wade, which worked for over 50 years, and protect fertility treatments like IVF.",
+          "sourceUrl": "https://zachdembo.com/priority/let-women-make-their-own-healthcare-decisions-and-support-families/",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports restoring Medicaid funding and creating a public option for health coverage.",
+          "quote": "and fight for a public option in healthcare so everyone can afford care.",
+          "sourceUrl": "https://zachdembo.com/priority/make-healthcare-affordable-for-everyone/",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Jay J Bowman",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He proposes exempting the first $100,000 of individual income from federal income tax.",
+          "quote": "The first $100,000 of your individual income is completely tax-exempt.",
+          "sourceUrl": "https://www.bowman2026.com/copy-of-tax-reform-10-10-plan",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He proposes raising the federal minimum wage and indexing it to inflation.",
+          "quote": "Increase the federal minimum wage to a level that reflects the cost of living in different regions, and index it to inflation to ensure it keeps pace with rising costs.",
+          "sourceUrl": "https://www.bowman2026.com/issues",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He calls for reversing tariffs but separately proposes a market-access fee on certain imported goods.",
+          "quote": "Reverse the Course: On tariffs and other economically restrictive measures. Congress needs to assert itself on behalf of farmers if we are to avoid a widespread collapse of American agriculture and our rural communities.",
+          "sourceUrl": "https://www.bowman2026.com/issues",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says his proposed spending cuts would not reduce Social Security checks or Medicare coverage.",
+          "quote": "Your monthly Social Security checks and Medicare health coverage are 100% safe and will not be touched.",
+          "sourceUrl": "https://www.bowman2026.com/copy-of-the-home-mortgage-deduction-5",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports expanding legal, merit-based immigration pathways while also supporting strong borders and enforcement against illegal entry.",
+          "quote": "We are a nation of immigrants, and legal immigration should be actively promoted and encouraged for anyone who meets our constitutional guidelines. However, we must have absolutely strong borders—without secure borders, we are not a sovereign nation.",
+          "sourceUrl": "https://ivoterguide.com/candidate/93710/race/31125/election/1461",
+          "agreement": "6/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He opposes federal registries and restrictions on responsible gun owners, while supporting gun-free school zones.",
+          "quote": "While I support gun-free school zones to protect our children, overall public safety is achieved by aggressively prosecuting violent criminals and hardening school security, not by placing restrictions on responsible gun owners.",
+          "sourceUrl": "https://ivoterguide.com/candidate/93710/race/31125/election/1461",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "He opposes government restrictions on elective abortion while opposing federal funding for abortion services.",
+          "quote": "Therefore, I oppose government restrictions on elective abortion. However, to protect taxpayers and maintain a balanced budget, I firmly oppose any federal funding, subsidies, or government support for abortion services.",
+          "sourceUrl": "https://ivoterguide.com/candidate/93710/race/31125/election/1461",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He supports basing women’s sports and designated female spaces on biological sex.",
+          "quote": "To ensure absolute fairness and safety, biological males should not compete in women's sports or occupy designated female spaces.",
+          "sourceUrl": "https://ivoterguide.com/candidate/93710/race/31125/election/1461",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He proposes a phased-in single-payer health system covering essential medical services.",
+          "quote": "Design a single-payer healthcare system that covers essential medical services, such as preventive care, hospitalization, prescription drugs, and long-term care",
+          "sourceUrl": "https://www.bowman2026.com/issues",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "He says the country should prioritize and invest in renewable energy to meet growing electricity demand.",
+          "quote": "To meet our nation's rapidly growing electrical demand, we must prioritize and invest in renewable energy sources.",
+          "sourceUrl": "https://ivoterguide.com/candidate/93710/race/31125/election/1461",
+          "agreement": "6/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supports photo identification for voting, with provisional ballots for voters who lack ID on Election Day.",
+          "quote": "I believe photo identification is essential to maintaining the integrity of our elections. Provisional Safeguard: If a voter does not have a photo ID on election day, they should be allowed to cast a provisional ballot",
+          "sourceUrl": "https://ivoterguide.com/candidate/93710/race/31125/election/1461",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Pete Lynch",
+      "party": "Kentucky Party",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "His platform would lower taxes for households earning under $250,000 and raise rates for households earning over $1 million.",
+          "quote": "Lower taxes for households earning under $250,000 and raise rates for those earning over $1 million",
+          "sourceUrl": "https://petelynchforkentucky.com/Policies/",
+          "agreement": "7/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports local living-wage minimums and stronger collective bargaining rights for workers.",
+          "quote": "Implement minimum wages that reflect local living wages, with annual adjustments based on local cost of living changes",
+          "sourceUrl": "https://petelynchforkentucky.com/Policies/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "His platform calls for federal matching funds to help individuals build homes.",
+          "quote": "Provide federal matching funds for individual building their own homes",
+          "sourceUrl": "https://petelynchforkentucky.com/Policies/",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "His platform proposes free breakfast for every student and support for teachers with competitive pay and resources.",
+          "quote": "Provide free breakfast for every student in every school",
+          "sourceUrl": "https://petelynchforkentucky.com/Policies/",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "He proposes that at least half of convictions result in alternatives to prison, including fines and community service.",
+          "quote": "Require that at least 50% of convictions do not result in prison, relying instead on fines, community service, and other penalties that are more humane than prison",
+          "sourceUrl": "https://petelynchforkentucky.com/Policies/",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Calls for abolishing ICE and replacing it with an immigration-enforcement organization emphasizing human life and the rule of law.",
+          "quote": "Abolish ICE and replace it with in immigration enforcement organization that respects human life and the rule of law",
+          "sourceUrl": "https://petelynchforkentucky.com/Policies/",
+          "agreement": "3/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "He supports legalizing and regulating recreational marijuana, citing benefits for farmers, communities, and consumers.",
+          "quote": "Prohibition has failed, and Kentucky can lead responsibly. Legal marijuana can benefit farmers, communities, and consumers:",
+          "sourceUrl": "https://petelynchforkentucky.com/Policies/",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports universal health coverage, eliminating out-of-pocket costs for essential care and prescriptions.",
+          "quote": "Healthcare is a human right, not a privilege. Americans pay more than any other country but get far less access.",
+          "sourceUrl": "https://petelynchforkentucky.com/Policies/",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "His platform supports public power and renewable energy as ways to lower bills and create jobs.",
+          "quote": "By expanding public power, investing in renewables, and holding large energy users accountable, we can lower bills, create jobs, and strengthen local control.",
+          "sourceUrl": "https://petelynchforkentucky.com/Policies/",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "His platform calls for restoring voting rights to people who have completed their sentences.",
+          "quote": "Restore voting rights to all convicts who have served their time",
+          "sourceUrl": "https://petelynchforkentucky.com/Policies/",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "apps.legislature.ky.gov · wuky.org · ivoterguide.com · zachdembo.com · bowman2026.com · petelynchforkentucky.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
