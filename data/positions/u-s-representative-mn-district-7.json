@@ -1,0 +1,216 @@
+{
+  "office": "U.S. Representative",
+  "district": "MN District 7",
+  "division": "mn/cd-7",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Erik Osberg",
+      "party": "Democratic-Farmer-Labor",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "He supports union organizing, collective bargaining, prevailing-wage standards, and stronger enforcement of labor law.",
+          "quote": "Protect the right of workers to organize and bargain collectively",
+          "sourceUrl": "https://www.erikosberg4congress.com/priorities/workers-rights-union-protections/",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He opposes Social Security benefit cuts and raising the retirement age, and supports protecting Medicare from cuts and privatization.",
+          "quote": "Erik will oppose cuts to Social Security benefits and efforts to raise the retirement age.",
+          "sourceUrl": "https://www.erikosberg4congress.com/priorities/protecting-our-seniors/",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He supports increasing housing supply and removing unnecessary barriers that slow development.",
+          "quote": "Erik supports practical steps to increase housing supply, including incentives for affordable housing construction, infrastructure investments that make new housing possible, and removing unnecessary barriers that slow responsible development.",
+          "sourceUrl": "https://www.erikosberg4congress.com/priorities/housing-homelessness/",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He supports strengthening public schools and restoring federal education funding, including Title I.",
+          "quote": "Erik supports restoring and expanding federal education support, including Title I, so quality education does not depend on a student’s ZIP code.",
+          "sourceUrl": "https://www.erikosberg4congress.com/priorities/strengthening-public-education/",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He supports background checks, waiting periods, and red-flag laws with due-process protections while defending lawful gun ownership.",
+          "quote": "Support background checks that keep guns out of the hands of people who should not have them",
+          "sourceUrl": "https://www.erikosberg4congress.com/priorities/firearms-gun-safety/",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports restoring federal protections for reproductive rights and opposes abortion bans without exceptions for rape, incest, or the mother’s health.",
+          "quote": "The decision to continue or end a pregnancy is one of the most personal decisions a person can face.",
+          "sourceUrl": "https://www.erikosberg4congress.com/priorities/reproductive-rights/",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports protecting Medicare and Medicaid, restoring ACA subsidies, and expanding access to affordable coverage, including through public options.",
+          "quote": "He is open to serious conversations about the best way to get there, including single-payer models, Medicare for All, public options, and other approaches that expand access and lower costs.",
+          "sourceUrl": "https://www.erikosberg4congress.com/priorities/healthcare-for-everyone/",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "He says climate change should be taken seriously and supports investing in clean energy such as wind and solar.",
+          "quote": "That means taking climate change seriously, investing in clean energy, keeping public lands public, protecting the Boundary Waters, and supporting farmers as partners in long-term stewardship.",
+          "sourceUrl": "https://www.erikosberg4congress.com/priorities/environmental-stewardship/",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He opposes voter-suppression tactics and unnecessary barriers that make it harder for eligible citizens to vote.",
+          "quote": "Erik will oppose voter suppression tactics that make it harder for eligible citizens to cast a ballot and have that ballot counted.",
+          "sourceUrl": "https://www.erikosberg4congress.com/priorities/defend-the-constitution/",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Michelle Fischbach",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She backed making the 2017 tax cuts permanent and said she carried a zero-based budgeting bill in the Minnesota Senate.",
+          "quote": "With Zero Based Budgeting, the budget would start from ZERO rather than the current approach of adjusting up or down from existing spending levels.",
+          "sourceUrl": "https://www.fischbachforcongress.com/issues/",
+          "agreement": "7/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "She voted against the PRO Act, while saying she supports employees’ right to collectively bargain.",
+          "quote": "I voted against the PRO Act, which is a monumental rewrite of federal labor law that massively tips the scales in favor of Big Labor.",
+          "sourceUrl": "https://fischbach.house.gov/2021/3/rep-fischbach-pro-act-windfall-big-labor",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She supported housing legislation aimed at streamlining permitting to speed homebuilding and increase affordable single-family homes.",
+          "quote": "Both initiatives focus on cutting through red tape and streamlining permitting to pave the way for faster homebuilding and increased availability of affordable, single-family homes in rural communities.",
+          "sourceUrl": "https://fischbach.house.gov/2026/6/rep-fischbach-met-with-morris-business-leaders-to-discuss-housing-legislation-boosting-the-workforce",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "She answered that she strongly supports school choice, including vouchers, tax credits, charter schools, private schools, and home schools.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools.",
+          "sourceUrl": "https://ivoterguide.com/candidate/53981/race/2069/election/1122",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "She introduced legislation to provide education grants to students who commit to serving as law enforcement officers.",
+          "quote": "I am proud to introduce the Law Enforcement Education Grant Program Act to inspire the next generation and establish a targeted approach to specifically invest in well-trained and highly educated police officers.",
+          "sourceUrl": "https://fischbach.house.gov/2025/5/rep-fischbach-introduces-legislation-to-encourage-law-enforcement-recruitment-and-retention",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "She called for law enforcement to enforce immigration laws and opposed efforts to abolish ICE and promote sanctuary cities.",
+          "quote": "we need to support law enforcement officials at all levels to enforce our immigration laws. I continue to stand up to efforts by the radical left to abolish Immigration and Customs Enforcement (ICE) and promote sanctuary cities.",
+          "sourceUrl": "https://www.fischbachforcongress.com/issues/",
+          "agreement": "6/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "She said she would defend lawful gun owners’ right to keep and bear arms.",
+          "quote": "I will continue to defend the Constitutional right and vote to protect the right of every lawful gun owner in the United States to keep America free.",
+          "sourceUrl": "https://www.fischbachforcongress.com/issues/",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "She said she supports legislation protecting life from conception and opposes federal funding for abortion.",
+          "quote": "I will always support legislation that protects human life at all stages.",
+          "sourceUrl": "https://www.fischbachforcongress.com/issues/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "She voted for legislation defining sex for school athletics by reproductive biology and genetics at birth.",
+          "quote": "This law states that sex in the athletic context must be recognized based only on a person's reproductive biology and genetics at birth.",
+          "sourceUrl": "https://fischbach.house.gov/2023/4/rep-fischbach-votes-for-the-protection-of-women-and-girls-in-sports-act",
+          "agreement": "7/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "strong",
+          "text": "She voted against the MORE Act, which would have decriminalized cannabis federally and established a regulated tax structure for its sale.",
+          "quote": "the bill decriminalizes cannabis on the federal level, provides a taxation structure for the sale of cannabis",
+          "sourceUrl": "https://www.congress.gov/117/crec/2022/03/31/168/57/CREC-2022-03-31-house.pdf",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "She criticized the Affordable Care Act and called for reforms that increase competition and offer families more health plan choices.",
+          "quote": "I have and will continue to work to protect the promises we have made to our seniors and pass patient-centered reforms that increase competition and lower costs",
+          "sourceUrl": "https://www.fischbachforcongress.com/issues/",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "She introduced a bill aimed at halting policies she said raised gas prices and constrained domestic energy production.",
+          "quote": "I am proud to introduce this bill, which would stop these targeted policies from continuing until Americans start seeing gas cost $2.60 per gallon",
+          "sourceUrl": "https://fischbach.house.gov/2022/3/fischbach-newhouse-marshall-introduce-bicameral-gas-prices-relief-act",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "She joined a letter urging Minnesota to consider voter identification, ending same-day registration, and prohibiting automatic mailed ballots.",
+          "quote": "in future elections we urge you to consider best practices, such as voter identification, elimination of same-day voter registration, and prohibition of automatic mailed ballots.",
+          "sourceUrl": "https://fischbach.house.gov/2024/11/minnesota-republican-delegation-sends-letter-to-secretary-simon-demanding-action-to-restore-election-integrity",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "erikosberg4congress.com · fischbachforcongress.com · fischbach.house.gov · ivoterguide.com · congress.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

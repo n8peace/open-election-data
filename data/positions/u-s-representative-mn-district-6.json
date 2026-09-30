@@ -1,0 +1,224 @@
+{
+  "office": "U.S. Representative",
+  "district": "MN District 6",
+  "division": "mn/cd-6",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Doug Chapin",
+      "party": "Democratic-Farmer-Labor",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He says he would repeal tax cuts for billionaires while preserving more income for working families.",
+          "quote": "I will vote to repeal billionaires' tax cuts so that everyone pays their fair share - and working families get to keep more of their hard-earned money.",
+          "sourceUrl": "https://www.chapinforcongress.com/issues",
+          "agreement": "6/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "His campaign describes fighting for workers' rights and unions as essential to protecting working families.",
+          "quote": "Unions have always been a source of strength for this party because they share a core belief: fighting for workers’ rights is essential to protecting working families.",
+          "sourceUrl": "https://dougchapinforcongress.substack.com/p/standing-with-workers-fighting-for",
+          "agreement": "3/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "His campaign lists open markets among the economic priorities he is working for.",
+          "quote": "An economy that works for all of us - good jobs, livable pay, fair taxes and open markets",
+          "sourceUrl": "https://www.chapinforcongress.com/",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says he would reverse Medicare and Medicaid cuts and fully fund those programs.",
+          "quote": "I will fight to reverse Medicare and Medicaid cuts - and not just restore the lost funding but ensure that these programs are fully funded in order to keep the promises we have made to one another as Americans.",
+          "sourceUrl": "https://www.chapinforcongress.com/issues",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports immigration reform with a clear path to citizenship and less time, cost, and red tape.",
+          "quote": "we need immigration laws that establish clear rules as well as a straightforward and clear path to citizenship.",
+          "sourceUrl": "https://www.chapinforcongress.com/issues",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports lawful gun ownership for hunting and self-protection while opposing assault-style weapons.",
+          "quote": "I will defend that right. But assault-style weapons are different; they are mass killing machines - and I will fight to keep them off of our streets.",
+          "sourceUrl": "https://www.chapinforcongress.com/issues",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports full reproductive rights and says reproductive health decisions belong to patients and their providers.",
+          "quote": "Reproductive health care decisions are purely a matter between a woman and her medical providers. I support full reproductive rights.",
+          "sourceUrl": "https://www.chapinforcongress.com/issues",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports policies such as Medicare for All or a public option to expand access to care.",
+          "quote": "I will fight for new policies like \"Medicare for All\" or a public option so that people can get the care they need without fear of going broke.",
+          "sourceUrl": "https://www.chapinforcongress.com/issues",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He supports returning to the Paris Accords and transitioning away from fossil fuels.",
+          "quote": "I will fight to get the US back into the Paris Accords - and here at home will resist any effort to halt the transition away from non-renewable energy resources like fossil fuels.",
+          "sourceUrl": "https://www.chapinforcongress.com/issues",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "His campaign describes his prior election-policy work as including online voter registration and making reliable election information easier to find.",
+          "quote": "Doug’s work touched military and overseas voting, online voter registration and efforts with Google and other organizations to make reliable election information easier for voters to find.",
+          "sourceUrl": "https://dougchapinforcongress.substack.com/p/meet-doug-chapin?action=share",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "Tom Emmer",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He praised the Working Families Tax Cuts for lowering taxes and supported the legislation.",
+          "quote": "Thanks to House Republicans and President Trump, everyday Americans are keeping more of their hard-earned money.",
+          "sourceUrl": "https://emmer.house.gov/media-center/press-releases/new-data-highlights-everyday-americans-winning-big-from-gop-s-working-families-tax-cuts",
+          "agreement": "4/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He voted against the Raise the Wage Act, which would have increased the federal minimum wage.",
+          "quote": "Vote Question: On Passage Raise the Wage Act Vote Type: Recorded Vote Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "6/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "He publicly praised President Trump's reciprocal-tariff approach as a way to address countries taking advantage of the United States.",
+          "quote": "The master negotiator strikes again. @POTUS is realigning the playing field with countries that have taken advantage of us for far too long and delivering on his promise to put America FIRST.",
+          "sourceUrl": "https://www.whitehouse.gov/releases/2025/02/president-trump-demands-fair-reciprocal-trade/",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He said he would keep pushing Congress and the administration to reduce federal debt and the deficit.",
+          "quote": "continue to push Congress and the Administration to reduce the federal debt and deficit",
+          "sourceUrl": "https://mna.org/assets/2020-MNA-Pol-qs-TEmmer.pdf",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "His campaign says he champions school-choice policies.",
+          "quote": "Tom is putting the needs of parents and students first by championing school choice policies",
+          "sourceUrl": "https://emmerforcongress.com/principles-key-issues/",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "His campaign says he backed border security legislation and the Laken Riley Act, which provides for deportation of undocumented immigrants who commit crimes in the U.S.",
+          "quote": "Tom successfully worked to pass the Laken Riley Act, which is now law, to ensure illegal aliens who commit crimes in the U.S. are quickly and permanently deported from our country.",
+          "sourceUrl": "https://emmerforcongress.com/principles-key-issues/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "He voted to pass the Concealed Carry Reciprocity Act of 2017.",
+          "quote": "Vote Question: On Passage\n\nConcealed Carry Reciprocity Act of 2017\n\nVote Type: Recorded Vote",
+          "sourceUrl": "https://clerk.house.gov/Votes/2017663",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "He voted to pass the Born-Alive Abortion Survivors Protection Act.",
+          "quote": "Vote Question: On Passage\n\nBorn-Alive Abortion Survivors Protection Act\n\nVote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/2025027",
+          "agreement": "5/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He voted for the Protection of Women and Girls in Sports Act.",
+          "quote": "Vote Question: On Passage Protection of Women and Girls in Sports Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2023192",
+          "agreement": "9/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "He voted against passage of the MORE Act, which would have changed federal marijuana policy.",
+          "quote": "Vote Question: On Passage\n\nMORE Act\n\nVote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He supported expanding association health plans and health savings accounts as ways to provide coverage and lower costs.",
+          "quote": "Expanding AHPs allows small businesses owners and individuals to purchase health coverage for their families and employees across state lines and at a much lower cost.",
+          "sourceUrl": "https://mna.org/assets/2020-MNA-Pol-qs-TEmmer.pdf",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "His campaign emphasizes energy independence and relief from high energy costs.",
+          "quote": "Tom is focused on fighting the affordability crisis to restore energy independence and provide immediate economic relief to Minnesota families struggling with the high costs of groceries, gas, and electricity.",
+          "sourceUrl": "https://emmerforcongress.com/principles-key-issues/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "His campaign supports the SAVE Act’s proof-of-citizenship requirement for voter registration and removal of ineligible voters from state rolls.",
+          "quote": "Tom supports commonsense policies in Congress, such as the Safeguard American Voter Eligibility (SAVE) Act to require a proof of citizenship before registering to vote and to mandate states like Minnesota remove ineligible voters off their voter rolls.",
+          "sourceUrl": "https://emmerforcongress.com/principles-key-issues/",
+          "agreement": "8/10"
+        }
+      }
+    }
+  ],
+  "sources": "chapinforcongress.com · dougchapinforcongress.substack.com · emmer.house.gov · clerk.house.gov · whitehouse.gov · mna.org · emmerforcongress.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
