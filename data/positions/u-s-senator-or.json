@@ -1,0 +1,314 @@
+{
+  "office": "U.S. Senator",
+  "district": "OR",
+  "division": "or/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jeff Merkley",
+      "party": "Democrat",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Merkley supported major climate and health investments funded partly by a minimum corporate tax.",
+          "quote": "The 15% minimum corporate tax in the Inflation Reduction Act stops big corporations from exploiting loopholes to evade taxes",
+          "sourceUrl": "https://www.merkley.senate.gov/merkley-applauds-passage-of-inflation-reduction-act-today-is-a-big-day-for-america/",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He has backed raising the federal minimum wage and strengthening workers’ rights to organize and bargain for higher wages.",
+          "quote": "Jeff has long advocated to raise the minimum wage to a living wage and to phase out subminimum wages for tipped workers, youth workers, and workers with disabilities.",
+          "sourceUrl": "https://www.merkley.senate.gov/legislative-priorities/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He has introduced legislation to increase the housing supply and expand affordable housing resources.",
+          "quote": "He’s introduced innovative housing policies to increase our supply of housing, address racial discrimination in federal housing policies, and provide housing and supportive services to reduce chronic homelessness.",
+          "sourceUrl": "https://www.merkley.senate.gov/legislative-priorities/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He introduced legislation to fund school districts so they can reduce class sizes in public elementary schools.",
+          "quote": "It’s time to make sure our schools have the resources they need to support educators and help every child receive a quality learning experience.",
+          "sourceUrl": "https://www.merkley.senate.gov/merkley-mcbath-brown-champion-legislation-to-improve-educational-outcomes-and-experiences/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "He backed legislation encouraging police reforms that include mental health support and community-based restorative justice.",
+          "quote": "Encourage the Justice Department to look beyond traditional law enforcement mechanisms when fashioning remedies with police departments, and consider reform mechanisms such as mental health support, civilian oversight bodies, and community-based restorative justice programs.",
+          "sourceUrl": "https://www.merkley.senate.gov/wyden-merkley-reintroduce-legislation-to-strengthen-accountability-and-combat-discriminatory-police-practices/",
+          "agreement": "4/5"
+        },
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "lean",
+          "text": "Merkley voted for the First Step Act, which included sentencing reforms and programs for nonviolent prisoners.",
+          "quote": "The FIRST STEP Act is the most significant criminal justice reform law in a generation.",
+          "sourceUrl": "https://www.congress.gov/116/crec/2019/12/18/CREC-2019-12-18-pt1-PgS7126-2.pdf",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He has supported immigration reform that includes protections for Dreamers and a path to citizenship for longtime undocumented residents.",
+          "quote": "including protections for our Dreamers, comprehensive reforms for the treatment of children, a solution to critical worker shortages, and a pathway to citizenship for undocumented, longtime-contributing residents of this country.",
+          "sourceUrl": "https://www.merkley.senate.gov/merkley-republicans-playing-politics-with-crisis-at-southern-border/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He voted for the Women’s Health Protection Act and has called for protecting legal abortion care.",
+          "quote": "I will never give up the fight for protecting and promoting access to health care, including safe and legal abortion care.",
+          "sourceUrl": "https://www.merkley.senate.gov/following-senate-vote-merkley-vows-to-keep-fighting-to-protect-americans-rights-22/",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "He introduced legislation opposing an executive order that would prohibit transgender students from participating in school sports.",
+          "quote": "An executive order to prohibit transgender students from participating in school sports.",
+          "sourceUrl": "https://www.merkley.senate.gov/merkley-balint-fight-back-against-trumps-hateful-anti-lgbtq-policies/",
+          "agreement": "4/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "He cosponsored legislation to decriminalize cannabis and let states set their own cannabis laws.",
+          "quote": "Additionally, Merkley is a cosponsor of the Cannabis Administration and Opportunity Act to decriminalize cannabis and empower states to create their own cannabis laws.",
+          "sourceUrl": "https://www.merkley.senate.gov/merkley-senators-urge-va-to-expand-access-to-medical-cannabis-for-americas-veterans/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "His campaign says he supports giving every American the opportunity to enroll in Medicare for All.",
+          "quote": "We should give every American the opportunity to participate in simple, seamless, cost-effective Medicare for All.",
+          "sourceUrl": "https://www.jeffmerkley.com/issues/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He supported the Inflation Reduction Act and said it would drive a faster transition from fossil fuels to renewable energy.",
+          "quote": "But overall, the bill does a lot to drive a fast transition from fossil to renewable energy, and that is a massive stride in the right direction.",
+          "sourceUrl": "https://www.merkley.senate.gov/merkley-applauds-passage-of-inflation-reduction-act-today-is-a-big-day-for-america/",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He has supported national vote-by-mail and same-day registration, and backed legislation to protect mail voting.",
+          "quote": "Champion voter empowerment with required early voting periods, vote-by-mail, and same-day registration.",
+          "sourceUrl": "https://www.jeffmerkley.com/issues/",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "David Brock Smith",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "His campaign says he opposes new taxes and wants to reduce unnecessary government spending.",
+          "quote": "That means no new taxes, more support for our local businesses, eliminating fraud, and reducing unnecessary government spending.",
+          "sourceUrl": "https://www.davidbrocksmithfororegon.com/issues",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He sponsored workforce-housing legislation and said Oregon needs to increase housing supply.",
+          "quote": "Economist and data agree that to help solve our housing crisis, we need to create supply and build more housing that our workforce can afford.",
+          "sourceUrl": "https://www.oregonlegislature.gov/smithd/Documents/PR%20Vote%20on%20workforce%20housing%20HB%202377.pdf",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He sponsored a resolution proposing a constitutional right to choose a school option and funding for school choice.",
+          "quote": "Establishes the right of a parent to choose a school choice option. Provides funding for a school choice option.",
+          "sourceUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SJR33",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He says he supports law enforcement, consequences for repeat offenders, and effective drug and mental-health treatment.",
+          "quote": "I support law enforcement, accountability for repeat offenders, and restoring consequences that keep our kids and communities safe.",
+          "sourceUrl": "https://www.davidbrocksmithfororegon.com/issues",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He sponsored a bill to repeal Oregon restrictions on public assistance to federal immigration enforcement.",
+          "quote": "Repeals the prohibition on the use of public resources to assist federal immigration enforcement.",
+          "sourceUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Measures/Overview/SB486",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He opposed SB 243, objecting that its firearm age requirements and other provisions burdened Second Amendment rights.",
+          "quote": "this bill is extremely problematic, not just because it very potentially violates both the Oregon Constitution and United States Constitution’s 2nd Amendment",
+          "sourceUrl": "https://apps.oregonlegislature.gov/liz/2025R1/Downloads/PublicTestimonyDocument/171587",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "He answered yes to a candidate-questionnaire position supporting abortion restrictions with exceptions for rape, incest, and the pregnant person's life.",
+          "quote": "Supports restricting abortion except for rape, incest, or the life of the mother.",
+          "sourceUrl": "https://www.bakercityharvest.org/uploads/5/1/4/0/51404295/ofc_vg_2020_primary_email.pdf",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He praised a ruling barring biological males from girls’ scholastic sports and said he drafted SB 787 to protect girls’ sports.",
+          "quote": "Girls deserve a level playing field. They deserve to compete, to excel, and to win based on their own hard work and talent, which is why I drafted SB 787.",
+          "sourceUrl": "https://www.oregonlegislature.gov/smithd/Documents/SCOTUS%20Title%20IX%20Ruling.pdf",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He sponsored SB 210, which would make in-person voting the standard and require government-issued identification when voting or requesting a mail ballot.",
+          "quote": "Makes in-person voting on the date of an election the standard method for conducting an election. Allows an elector to request a ballot that may be voted by mail",
+          "sourceUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB210",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Gary Lyndon Dye",
+      "party": "Libertarian",
+      "stances": {}
+    },
+    {
+      "name": "Chris Henry",
+      "party": "Progressive",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He said he supported Measure 97 without equivocation.",
+          "quote": "I am the only candidate for Treasurer who supported Measure 97 without equivocation.",
+          "sourceUrl": "https://chrishenryfororegonstaterepresentative.weebly.com/my-positions.html",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Henry proposed a $25-an-hour minimum wage in a 2024 candidate interview.",
+          "quote": "Combined with policies to support economic justice—like a $25-an-hour minimum wage—we can stimulate economic activity and provide an attractive future for working families in Portland.",
+          "sourceUrl": "https://www.wweek.com/news/city/2024/11/01/city-council-entrance-interview-chris-henry/",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He proposed using Oregon investment funds for housing and related public works.",
+          "quote": "Oregon should use its investment funds for public works (transportation, bridges, water systems), housing, and small business opportunities in Oregon",
+          "sourceUrl": "https://www.indparty.com/chris-henry",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He supported publicly funded education from daycare and pre-K through trade guilds and higher education.",
+          "quote": "I support working people, democratization of the workplace, publicly-funded education from daycare and pre-K to trade guilds and higher education",
+          "sourceUrl": "https://www.hoodrivercounty.gov/vertical/Sites/%7B4BB5BFDA-3709-449E-9B16-B62A0A0DD6E4%7D/uploads/Voters_Pamphlet_General_Election_2022_for_Crook_Hood_River_Jefferson_Wasco_Counties.pdf",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "He said Portland should fully fund non-police community response and address underlying causes of crime and poverty.",
+          "quote": "Firstly, we need to fully fund non-policing community response, such as Portland Street Response.",
+          "sourceUrl": "https://www.wweek.com/news/city/2024/11/01/city-council-entrance-interview-chris-henry/",
+          "agreement": "7/10"
+        },
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "lean",
+          "text": "On people camping in public who refuse shelter, he opposed jail and said housing and mental health services should be provided.",
+          "quote": "Incarceration only exacerbates the struggles of houseless people while failing to resolve the systemic factors that reproduce homelessness.",
+          "sourceUrl": "https://www.opb.org/article/2024/09/27/meet-chris-henry-candidate-for-portland-city-council-district-4/",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "In his 2022 Senate candidate statement, Henry supported protecting immigrants and other marginalized communities.",
+          "quote": "Protect the Rights of the BiPOC, LGBTQ, Immigrant, Abled, and other marginalized communities.",
+          "sourceUrl": "https://www.columbiacountyor.gov/media/Election/2022-11-08/book11a.pdf",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Henry supported Oregon’s Measure 114 and background checks for all gun purchases.",
+          "quote": "I support criminal background checks for all gun purchases and safety training.",
+          "sourceUrl": "https://www.lwvklamath.org/wp-content/uploads/2024/04/LWV-OR-Engish_Email-Proof.pdf",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Henry said he supported federal funding for abortion care and protecting the right to choose.",
+          "quote": "I do not support any restrictions or limitations on a woman’s right to choose.",
+          "sourceUrl": "https://www.lwvklamath.org/wp-content/uploads/2024/04/LWV-OR-Engish_Email-Proof.pdf",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Henry endorsed Medicare for All in his 2022 Senate candidate statement.",
+          "quote": "I support working people, democratization of the workplace, publicly-funded education from daycare and pre-K to trade guilds and higher education, Medicare for All, strong workplace safety regulations, and protecting the environment and climate.",
+          "sourceUrl": "https://www.columbiacountyor.gov/media/Election/2022-11-08/book11a.pdf",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Henry supported a Green New Deal and incentives to reduce fossil fuel use.",
+          "quote": "I support a Green New Deal which prioritizes Green jobs and the transition to a sustainable Green economy.",
+          "sourceUrl": "https://www.lwvklamath.org/wp-content/uploads/2024/04/LWV-OR-Engish_Email-Proof.pdf",
+          "agreement": "8/10"
+        }
+      }
+    }
+  ],
+  "sources": "merkley.senate.gov · congress.gov · jeffmerkley.com · davidbrocksmithfororegon.com · oregonlegislature.gov · olis.oregonlegislature.gov · apps.oregonlegislature.gov · bakercityharvest.org · chrishenryfororegonstaterepresentative.weebly.com · wweek.com · indparty.com · hoodrivercounty.gov · opb.org · columbiacountyor.gov · lwvklamath.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

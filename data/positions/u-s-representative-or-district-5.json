@@ -1,0 +1,182 @@
+{
+  "office": "U.S. Representative",
+  "district": "OR District 5",
+  "division": "or/cd-5",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Janelle S Bynum",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She said she helped raise Oregon's minimum wage and would continue seeking fair wages and worker protections.",
+          "quote": "Together, we have achieved meaningful progress in the Oregon State Legislature, including raising the minimum wage, expanding paid family leave, and securing funding for essential public services",
+          "sourceUrl": "https://www.janellebynum.com/news/new-news-News",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Her affordability agenda calls for rolling back Trump tariffs.",
+          "quote": "Restore certainty by rolling back Trump’s tariffs and advancing smarter, durable trade policies.",
+          "sourceUrl": "https://bynum.house.gov/media/press-releases/rep-bynum-unveils-affordability-agenda-lower-costs",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Her campaign says she will fight to protect Social Security and Medicare benefits.",
+          "quote": "Janelle Bynum will fight to protect these hard-earned benefits so that our seniors can retire with dignity.",
+          "sourceUrl": "https://www.janellebynum.com/news/icymi-janelle-bynum-will-fight-for-oregonians",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She said she introduced legislation addressing housing shortages and affordability barriers while expanding homeownership opportunities.",
+          "quote": "including introducing legislation to tackle housing shortages, workforce gaps, and affordability barriers while expanding pathways to homeownership and addressing youth homelessness.",
+          "sourceUrl": "https://www.janellebynum.com/issues/lowering-the-cost-of-housing",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "She introduced an education agenda to equip schools with resources and support educators.",
+          "quote": "In Congress, she introduced legislation to invest in our students from kindergarten through college or trade school by equipping schools with resources, supporting educators, and expanding access to mental health and special education services.",
+          "sourceUrl": "https://www.janellebynum.com/issues/improving-education-access",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "She cosponsored the American Dream and Promise Act, which would create a route to permanent status for eligible immigrants including people who arrived as children.",
+          "quote": "To authorize the cancellation of removal and adjustment of status of certain aliens, and for other purposes.",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/BILLS-119hr1589ih/pdf/BILLS-119hr1589ih.pdf",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She says she is fighting to defend reproductive rights and codify Roe v. Wade federally.",
+          "quote": "In Congress, she is fighting to defend reproductive rights and codify Roe v. Wade at the federal level.",
+          "sourceUrl": "https://www.janellebynum.com/issues/protecting-reproductive-rights",
+          "agreement": "9/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "She sponsored legislation directing revenue from Oregon’s marijuana account to an economic-equity investment program.",
+          "quote": "Provides permanent revenue stream from Oregon Marijuana Account to fund Economic Equity Investment Program created under chapter 103, Oregon Laws 2022 (Enrolled Senate Bill 1579).",
+          "sourceUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB3431/Introduced",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Her campaign says she fought to protect Medicare and expand Medicaid.",
+          "quote": "She also fought to protect Medicare, expand Medicaid, and lower the cost of prescription drug prices.",
+          "sourceUrl": "https://www.janellebynum.com/issues/lowering-cost-of-healthcare",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "She supports taking climate action, expanding clean energy, and transitioning away from fossil fuels.",
+          "quote": "She is supporting efforts to generate more clean energy – which creates good jobs – transition away from fossil fuels, and protect our communities, property, and land from wildfires.",
+          "sourceUrl": "https://www.janellebynum.com/issues/taking-climate-action",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She said she has supported measures that remove voting barriers and would support federal voting-rights legislation.",
+          "quote": "I have consistently advocated for measures that protect and expand access to the ballot box, including supporting legislation that removes barriers to voting and working to combat voter suppression.",
+          "sourceUrl": "https://www.opb.org/article/2024/10/18/janelle-bynum-democrat-oregon-5th-congressional-district/",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Patti Adair",
+      "party": "Republican, Libertarian",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She says she would make tax cuts for tips, overtime, and Social Security permanent and increase their limits.",
+          "quote": "Make no tax on tips, overtime, and Social Security permanent, and increase the limits.",
+          "sourceUrl": "https://www.pattiforcongress.com/priorities",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She says she testified in support of accessory dwelling units to increase affordable housing.",
+          "quote": "Testified for SB 391 in support of Accessory Dwelling Units in coordination with SB 762 which will increase affordable housing.",
+          "sourceUrl": "https://www.pattiforcongress.com/priorities",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "She says she increased law-enforcement funding and supports providing police with resources to keep communities safe.",
+          "quote": "Fully support law enforcement to keep our communities safe.",
+          "sourceUrl": "https://www.pattiforcongress.com/priorities",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "During a 2019 county discussion of proposed local gun restrictions, she said gun rights should be maintained, though this is not a detailed federal gun-policy platform.",
+          "quote": "We have to send a message to Salem that we do have our rights, which we want our citizens to be able to maintain",
+          "sourceUrl": "https://smarter.vote/races/or-05-house-2026/compare/",
+          "agreement": "3/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "As a county commissioner, she voted in two consecutive years to exclude most abortion coverage from the county employee health plan.",
+          "quote": "The last two years, commissioners Tony DeBone and Patti Adair voted to exclude providing county dollars towards employees getting abortions, except in the case of incest, rape, or if an employee is endangered by a continued pregnancy.",
+          "sourceUrl": "https://ktvz.com/news/2023/10/18/after-loophole-closed-deschutes-county-commissioners-vote-3-0-to-fully-cover-abortion-services-for-county-workers/",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Andrea Thorn Townsend",
+      "party": "Pacific Green",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She said she would address the housing crisis through deeply affordable social housing and tenant protections.",
+          "quote": "My top campaign issues are ending war and redirecting resources toward human and ecological needs; addressing the housing crisis through deeply affordable social housing and tenant protections; confronting climate change while protecting land, water, and biodiversity; and building an economy that supports working people, young people, and communities that have been dispossessed or excluded from political power.",
+          "sourceUrl": "https://www.pacificgreens.org/meet_the_candidates_for_nomination_andrea_townsend",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "janellebynum.com · bynum.house.gov · govinfo.gov · olis.oregonlegislature.gov · opb.org · pattiforcongress.com · smarter.vote · ktvz.com · pacificgreens.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
