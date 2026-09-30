@@ -1,0 +1,192 @@
+{
+  "office": "U.S. Representative",
+  "district": "VA District 9",
+  "division": "va/cd-9",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Joy A. Powers",
+      "party": "Democratic",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "She says tariffs raise costs for farmers and families and have cost producers export markets.",
+          "quote": "Trade fights and tariffs have raised the cost of fuel, fertilizer, and a lot of what farmers buy and what families pay at checkout.",
+          "sourceUrl": "https://www.joyforva.com/copy-of-priorities",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She proposes expanding rural housing supply and converting vacant buildings into workforce housing.",
+          "quote": "My HOME plan would update USDA Section 502 loan limits to reflect current costs, help renovate vacant Main Street buildings and other existing structures into workforce housing, and invest in water and sewer infrastructure where the lack of utilities prevents new homes from being built.",
+          "sourceUrl": "https://www.vpm.org/elections/2026-09-21/va09-griffith-powers-candidate-survey/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She calls for strong public school funding, fair teacher pay, and investment in career and technical education.",
+          "quote": "I want strong funding for our schools, fair pay for the teachers we already struggle to keep, and real investment in career and technical education and our community colleges.",
+          "sourceUrl": "https://www.joyforva.com/copy-of-priorities",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She supports federal protection for access to reproductive health care and says decisions belong to patients and providers.",
+          "quote": "I believe reproductive healthcare decisions should be made by patients and their healthcare providers, not politicians, and I support protecting access to reproductive healthcare at the federal level.",
+          "sourceUrl": "https://www.vpm.org/elections/2026-09-21/va09-griffith-powers-candidate-survey/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She says she would protect Medicaid funding that helps keep rural hospitals open.",
+          "quote": "I would fight to protect that funding, because for rural hospitals it is not extra. It is the difference between open and closed.",
+          "sourceUrl": "https://www.joyforva.com/copy-of-priorities",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "H. Morgan Griffith",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "His campaign says high taxes hinder business and job growth, and he supports reducing tax burdens.",
+          "quote": "High taxes, unnecessary regulation, and an over-reliance on foreign industry have strangled private businesses in our communities and prevented job growth.",
+          "sourceUrl": "https://www.morgangriffithforcongress.com/issues/",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He voted against the 2019 Raise the Wage Act.",
+          "quote": "Raise the Wage Act Vote Type: Recorded Vote Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "3/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "He described tariffs as a tool for addressing unfair trade practices that harm U.S. industry and jobs.",
+          "quote": "Tariffs are a tool that can be used to reorganize trade deals and remedy unfair dumping of semi-finished and manufactured goods that harm American industry and jobs.",
+          "sourceUrl": "https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=404296",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He supported budget cuts and deficit reduction, and discussed raising the Social Security retirement age as one possible change, while expressing reservations about it.",
+          "quote": "Griffith supports House bills that cut the budget and get the deficit under control, including the Ryan budget plan.",
+          "sourceUrl": "https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=295485",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "He said the 2017 tax law benefited families by facilitating school choice through 529 savings plans.",
+          "quote": "Families also benefitted from the tax bill because it facilitated school choice.",
+          "sourceUrl": "https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=404153",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "He voted for a grant program to assist smaller police departments.",
+          "quote": "H.R. 6448 On Passage of the Bill Yea Invest to Protect Act of 2022",
+          "sourceUrl": "https://morgangriffith.house.gov/voterecord/?Page=100",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supports border security measures, including a border wall and more border patrol agents, while welcoming people who immigrate legally.",
+          "quote": "Morgan is working to secure our border and crack down on illegal immigration. Morgan welcomes immigrants who want to come here legally and share in the American dream.",
+          "sourceUrl": "https://www.morgangriffithforcongress.com/issues/",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He voted against 2022 legislation that imposed additional gun-ownership restrictions.",
+          "quote": "The Senate’s gun bill threatens the Second Amendment rights of law-abiding gun owners.",
+          "sourceUrl": "https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=402685",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He said he opposes abortion and opposes using taxpayer dollars to support it.",
+          "quote": "I don’t support abortion, and certainly not to use the taxpayers’ dollars to support abortion. I think it is wrong,",
+          "sourceUrl": "https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=295486",
+          "agreement": "6/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He cosponsored legislation requiring school sports participation rules to recognize sex-based biology.",
+          "quote": "I was an original cosponsor. Women fought for years for equal opportunities in sports. Why should women be forced to sacrifice playing time and scholarship opportunities? They shouldn’t.",
+          "sourceUrl": "https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=402900",
+          "agreement": "8/10"
+        },
+        "cannabis": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports medicinal marijuana use and research but opposes recreational legalization.",
+          "quote": "My own position is in favor of medicinal marijuana and opposed to recreational use, but for all uses, we need more data.",
+          "sourceUrl": "https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=402230",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He voted to repeal and replace the Affordable Care Act and described the replacement as offering more choices, while also supporting access to care for rural residents and people with pre-existing conditions.",
+          "quote": "I voted in support of the repeal and replacement of the failed health insurance program known as Obamacare. The new bill guarantees everyone has access to health insurance.",
+          "sourceUrl": "https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=398727",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supports domestic coal production and opposes emissions rules he says could raise costs and threaten jobs.",
+          "quote": "I support coal use and production. Coal is a vital component of the American economy, with a fifth of the nation’s electricity being generated from it.",
+          "sourceUrl": "https://morgangriffith.house.gov/issues/issue/?IssueID=44643",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "His campaign supports voter ID, removing deceased people from voter rolls, and proof of citizenship to register.",
+          "quote": "Morgan supports commonsense solutions to secure our elections, such as requiring voter ID, clearing the deceased from voter rolls, and requiring proof of citizenship to register to vote.",
+          "sourceUrl": "https://www.morgangriffithforcongress.com/issues/",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "joyforva.com · vpm.org · morgangriffithforcongress.com · clerk.house.gov · morgangriffith.house.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

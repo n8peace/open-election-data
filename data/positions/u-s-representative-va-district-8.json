@@ -1,0 +1,308 @@
+{
+  "office": "U.S. Representative",
+  "district": "VA District 8",
+  "division": "va/cd-8",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Donald S. Beyer, Jr.",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He called for wealthy people and corporations to pay more in taxes to finance investments in workers and infrastructure.",
+          "quote": "asking the wealthy and large corporations to pay their fair share in taxes to finance further investments in American workers and infrastructure.",
+          "sourceUrl": "https://beyer.house.gov/issues/issue/?IssueID=15200",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He said the minimum wage should be raised.",
+          "quote": "We must raise the minimum wage, end government shutdowns and brinksmanship over spending, and promote tax policies that empower workers and grow the middle class.",
+          "sourceUrl": "https://beyer.house.gov/issues/issue/?IssueID=15200",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He opposed Trump’s tariffs, saying they raise prices and risk harming the economy and American producers.",
+          "quote": "The trade war Trump is igniting will weaken our economy and cause chaos in our marketplace as Americans pay the cost in the form of higher prices on everyday items.",
+          "sourceUrl": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=6419",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He opposed using debt-limit negotiations to cut Social Security and Medicare.",
+          "quote": "House Republicans announced their intentions to hold the debt limit hostage in order to slash vital programs",
+          "sourceUrl": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=5694",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He said he wants to lower housing prices by incentivizing construction of affordable homes.",
+          "quote": "My near-term priorities include lowering housing prices by incentivizing the construction of new affordable homes",
+          "sourceUrl": "https://beyer.house.gov/issues/issue/?IssueID=15200",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He supports strengthening public schools and opposes vouchers and school-choice initiatives that undermine them.",
+          "quote": "I oppose any initiative (like vouchers or “school choice”) that would undermine our public schools or re-segregate our society.",
+          "sourceUrl": "https://beyer.house.gov/issues/issue/?IssueID=15222",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports comprehensive immigration reform, including pathways to citizenship and legal status for Dreamers.",
+          "quote": "I strongly support comprehensive immigration reform, but also believe we cannot afford to wait if there are opportunities to advance fixes to our broken immigration system.",
+          "sourceUrl": "https://beyer.house.gov/issues/issue/?IssueID=15201",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He supports universal background checks, red-flag laws, and bans on assault weapons and high-capacity magazines.",
+          "quote": "Do you support universal background checks? — Yes. I voted for HR 8 and HR 1446.",
+          "sourceUrl": "https://beyer.house.gov/news/documentsingle.aspx?documentid=5592",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He voted for legislation to protect abortion access and said it would restore that right nationwide.",
+          "quote": "It would restore the right to an abortion nationwide – upholding all Americans’ freedom to make their own health care decisions as well as providers’ freedom to provide abortion care.",
+          "sourceUrl": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=5645",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "He supports nondiscrimination protections based on gender identity and opposes school censorship concerning sexuality and gender.",
+          "quote": "I am a proud cosponsor of the Equality Act, which would prohibit discrimination on the basis of sex, gender identity, and sexual orientation.",
+          "sourceUrl": "https://beyer.house.gov/issues/issue/?IssueID=15198",
+          "agreement": "4/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "He signed a congressional letter supporting legislative descheduling and an end to cannabis prohibition.",
+          "quote": "You can meet this moment and help end our failed punitive policy of cannabis prohibition.",
+          "sourceUrl": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=5089",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He cosponsors Medicare-for-All legislation and supports making Medicare available to more people.",
+          "quote": "I am a cosponsor of Medicare for All and a sponsor of the Choose Medicare Act because I firmly believe in a future with universal healthcare.",
+          "sourceUrl": "https://beyer.house.gov/issues/issue/?IssueID=15197",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He supports the Inflation Reduction Act’s climate provisions and investment in clean and renewable energy.",
+          "quote": "The climate provisions in the IRA are projected to cut greenhouse gas emissions by 40% by 2030",
+          "sourceUrl": "https://beyer.house.gov/issues/issue/?IssueID=15199",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He voted for legislation that expands same-day registration, mail voting, and early voting.",
+          "quote": "The For the People Act includes provisions that would: • Expand automatic voter registration and same day registration • Strengthen vote by mail, early voting and ballot access",
+          "sourceUrl": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=5070",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Tony A. Sabio",
+      "party": "Republican",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He proposed incentives to build more starter and workforce homes and reduce federal barriers that add construction time and cost.",
+          "quote": "My Attainable Housing Plan would increase the supply of starter and workforce homes by creating incentives for builders to construct homes that working and middle-income families can actually afford, while reducing unnecessary federal barriers that add time and cost to construction.",
+          "sourceUrl": "https://www.wvtf.org/8th-district-candidate-tony-sabio-r",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He said he would support strong law enforcement and removing violent criminal immigrants.",
+          "quote": "I will support secure borders, strong law enforcement, and the removal of violent criminal illegal immigrants.",
+          "sourceUrl": "https://www.jcouncil.org/2026-voters-guide/virginia",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports border enforcement and removing dangerous criminals, while also proposing renewable legal work status for some people already in the country, without a path to citizenship.",
+          "quote": "I support the Dignity Act of 2025 as a first step toward real immigration reform, but I would work to strengthen it.",
+          "sourceUrl": "https://www.wvtf.org/8th-district-candidate-tony-sabio-r",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "In a 2023 candidate questionnaire, he agreed that human life begins at conception and deserves legal protection through natural death.",
+          "quote": "Human life begins at conception and deserves legal protection at every stage until natural death.",
+          "sourceUrl": "https://ivoterguide.com/candidate/77270/race/19288/election/1054",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He proposed lowering energy costs and expanding advanced nuclear energy to provide reliable American-made power.",
+          "quote": "My Promise for America agenda offers specific proposals to lower energy costs, create good paying private sector jobs, strengthen small businesses and manufacturing, improve healthcare, and make our region less dependent on the federal government.",
+          "sourceUrl": "https://www.wvtf.org/8th-district-candidate-tony-sabio-r",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Shelly M. Arnoldi",
+      "party": "Libertarian",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She says she would cut taxes and red tape that hurt small businesses.",
+          "quote": "Cut taxes and red tape that hurt small businesses so our local economy can thrive.",
+          "sourceUrl": "https://shellyarnoldi4va.org/",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "She strongly agreed that the government should cut spending to reduce the national debt.",
+          "quote": "The government should cut spending in order to reduce the national debt. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/87927/race/31326/election/1463",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, she strongly supported school choice, including voucher programs and private schools.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/87927/race/18943/election/1312",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "She strongly disagreed with redirecting police funds to mental health and community programs.",
+          "quote": "I support redirecting funds from police departments to mental health and community programs. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/87927/race/18943/election/1312",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "She said undocumented immigrants should be returned to their home countries and may apply to return legally.",
+          "quote": "Every illegal immigrant should be returned to their home country. They can apply to return legally. Tax funded public services should not be paying for illegal immigrants.",
+          "sourceUrl": "https://ivoterguide.com/candidate/87927/race/31326/election/1463",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "She said no restrictions on gun ownership are needed.",
+          "quote": "None. The 2nd Amendment is absolute. The right to defend ourselves shall not be infringed.",
+          "sourceUrl": "https://ivoterguide.com/candidate/87927/race/31326/election/1463",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "She said elective abortion should never be allowed and that human life should always be protected.",
+          "quote": "Never. A human life should always be protected.",
+          "sourceUrl": "https://ivoterguide.com/candidate/87927/race/31326/election/1463",
+          "agreement": "2/3"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "She strongly agreed that biological males should not participate in women's sports or occupy women's spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/87927/race/31326/election/1463",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "She selected abolishing taxpayer-funded health care, including Medicare and Medicaid, and called for a major system reform.",
+          "quote": "D. We need a total reform of our sick care system. Holistic and homeopathic medicine should be revived and the current pharma controlled system should be shut down.",
+          "sourceUrl": "https://ivoterguide.com/candidate/87927/race/31326/election/1463",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "She said stricter environmental laws and regulations cost too many jobs and harm the economy.",
+          "quote": "Stricter environmental laws and regulations cost too many jobs and hurt the economy.",
+          "sourceUrl": "https://ivoterguide.com/candidate/87927/race/18943/election/1312",
+          "agreement": "2/3"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "She proposed in-person same-day voting with ID and opposed mail ballots, drop boxes, and voting machines.",
+          "quote": "Same day voting w/ ID in person & manual counting. No voting machines. No drop boxes and no mail in ballots.",
+          "sourceUrl": "https://ivoterguide.com/candidate/87927/race/18943/election/1312",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Tim S. Sharman",
+      "party": "Independent",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He said he would work to increase the supply of housing to address affordability.",
+          "quote": "I'm not going to pretend I have a policy on each and every aspect of affordability, but that doesn't mean I wouldn't be working to find ways to increase the supply of housing and childcare, and to address the structural issues that make these resources expensive and hard to find.",
+          "sourceUrl": "https://www.wvtf.org/8th-district-candidate-tim-sharman-i",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports ending illegal immigration as much as possible, while offering a path to citizenship for law-abiding people who have established lives in the United States and deporting people with serious criminal records.",
+          "quote": "People who have established their lives here and obeyed our laws should have a path to legal status and ultimately citizenship. If they have a serious criminal record, deport them.",
+          "sourceUrl": "https://www.wvtf.org/8th-district-candidate-tim-sharman-i",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "beyer.house.gov · wvtf.org · jcouncil.org · ivoterguide.com · shellyarnoldi4va.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
