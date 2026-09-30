@@ -1,0 +1,344 @@
+{
+  "office": "U.S. Representative",
+  "district": "UT District 3",
+  "division": "ut/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "KENT S. UDELL",
+      "party": "Democratic",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He supports initiatives to build starter homes near family-friendly resources.",
+          "quote": "I support initiatives that focus on building starter homes in communities with access to family-friendly resources such as good schools, parks and churches.",
+          "sourceUrl": "https://www.kentudellforcongress.com/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "He calls for lawful, humane immigration policies that respect rights and treat people with dignity.",
+          "quote": "We need lawful, humane, and workable policies that respect the rule of law, treat people with dignity, and support communities, employers, and border states.",
+          "sourceUrl": "https://www.kentudellforcongress.com/",
+          "agreement": "3/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "He called for mandatory safety training for first-time gun buyers and said he would be open to stopping sales of AR-15s.",
+          "quote": "I would like to see them have a mandatory safety training and have somebody there that is really good at marksmanship, understands guns, understands safety and work through people that are buying those guns",
+          "sourceUrl": "https://www.castlecountryradio.com/2026/02/26/building-bridges-kent-udell-announces-bid-for-utahs-third-congressional-district/",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports expanding programs such as Medicare so they are accessible to all.",
+          "quote": "expand programs, such as Medicare, to be accessible to all.",
+          "sourceUrl": "https://www.kentudellforcongress.com/",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports reliable, affordable energy and an all-of-the-above approach that includes clean-energy technologies.",
+          "quote": "I support an all-of-the-above approach grounded in science, innovation, and economics. We can strengthen energy security, protect water and land, and lead in clean-energy technologies",
+          "sourceUrl": "https://www.kentudellforcongress.com/",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "CASSIE EASLEY",
+      "party": "Constitution",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She proposed repealing the Sixteenth Amendment and changing how federal taxes are collected.",
+          "quote": "I would advocate to have the Sixteenth amendment repealed and taxes be collected based on Article 1, Section 2, where it would be apportioned among the States, according to their respective number and to include all persons.",
+          "sourceUrl": "https://ivoterguide.com/candidate/73520/race/2216/election/1233?culture=en-us",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "She strongly agreed that the government should cut spending to reduce the national debt.",
+          "quote": "The government should cut spending in order to reduce the national debt. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/73520/race/19279/election/1070?culture=en-us",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "She disagreed with redirecting police department funds to community programs.",
+          "quote": "I support redirecting funds from police departments to community programs. Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/73520/race/2216/election/1233?culture=en-us",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "She supported securing the southern border and suspending immigration temporarily before resuming legal immigration.",
+          "quote": "Due to the current invasion at the Southern Border we should suspend all immigration until we can ascertain the ramification of our current situation. Then resume legal immigration according to our laws.",
+          "sourceUrl": "https://ivoterguide.com/candidate/73520/race/2216/election/1233?culture=en-us",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "She said no government restrictions on gun ownership are needed.",
+          "quote": "None. The Second amendment says shall not be infringed, therefore there should be no government restrictions.",
+          "sourceUrl": "https://ivoterguide.com/candidate/73520/race/2216/election/1233?culture=en-us",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "She said elective abortion should not be allowed under any circumstances.",
+          "quote": "Under what circumstances should an elective abortion be allowed? None",
+          "sourceUrl": "https://ivoterguide.com/candidate/73520/race/2216/election/1233?culture=en-us",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "She strongly agreed that biological males should not participate in women's sports or occupy women's spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/73520/race/2216/election/1233?culture=en-us",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "She favored ending taxpayer-funded health care, including gradually defunding Medicare for current beneficiaries.",
+          "quote": "D. I do believe that Medicare should be defunded, but gradually for those who paid into it and are currently receiving it.",
+          "sourceUrl": "https://ivoterguide.com/candidate/73520/race/2216/election/1233?culture=en-us",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "She rejected urgent political action on man-made climate change and said fossil fuels and nuclear power were currently the most reliable energy sources.",
+          "quote": "Currently fossil fuels and nuclear energy are the most reliable sources. With the growing demand for electricity we do not have the infrastructure to sustain other sources at this time.",
+          "sourceUrl": "https://ivoterguide.com/candidate/73520/race/2216/election/1233?culture=en-us",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "She strongly disagreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/73520/race/2216/election/1233?culture=en-us",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "CELESTE MALOY",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Her campaign says she passed legislation cutting taxes, including taxes on tips and overtime.",
+          "quote": "Celeste recently passed legislation that delivered the largest tax cut in American history.",
+          "sourceUrl": "https://www.celesteforutah.com/issues",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Her campaign says she supports border security and voted to fund the border wall and Border Patrol resources.",
+          "quote": "She voted to fully fund President Trump’s border wall and provide funding and technology to our Border Patrol agents",
+          "sourceUrl": "https://www.celesteforutah.com/issues",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Her campaign says she will defend gun owners’ Second Amendment rights.",
+          "quote": "She will fight the gun grabbers in Washington DC and defend our constitutional rights.",
+          "sourceUrl": "https://www.celesteforutah.com/issues",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Her campaign says she will stand up for unborn life and pro-life values in Congress.",
+          "quote": "Celeste believes all human life is sacred and will stand up for the unborn and our pro-life values in Congress.",
+          "sourceUrl": "https://www.celesteforutah.com/issues",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "She voted for the Protection of Women and Girls in Sports Act.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Her campaign says she voted to expand domestic energy production and refining capacity, emphasizing affordability.",
+          "quote": "She voted to bolster U.S. energy production and affordability by expanding and protecting American refining capacity.",
+          "sourceUrl": "https://www.celesteforutah.com/issues",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "She voted for passage of the Safeguard American Voter Eligibility Act.",
+          "quote": "Roll Call 345 | Bill Number: H. R. 8281",
+          "sourceUrl": "https://clerk.house.gov/Votes/2024345",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "AYDEN SCOTT",
+      "party": "Unaffiliated",
+      "stances": {
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He calls the national debt a security crisis and says he will pursue a balanced budget and cut wasteful programs.",
+          "quote": "Our national debt is a national security crisis. I will push for a balanced budget amendment, oppose continuing resolutions that fund bloated government indefinitely, and demand independent, transparent accountability for every dollar of federal spending.",
+          "sourceUrl": "https://www.aydenscott4congress.com/Stances-On-Issues/",
+          "agreement": "3/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He supports reducing construction regulations and cutting delays to new housing, with housing decisions led locally.",
+          "quote": "At the federal level, I'll fight to reduce regulations that drive up construction costs, cut red tape that delays new housing, and ensure federal resources are directed to the states that need them most.",
+          "sourceUrl": "https://www.aydenscott4congress.com/Stances-On-Issues/",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports making legal immigration easier while also securing the border and firmly enforcing immigration laws.",
+          "quote": "I want to make it easier to immigrate legally while maintaining strict, fair standards. That means fixing the broken legal pathway so people don't feel forced into illegal entry, while securing our border through every available means and enforcing our laws firmly and consistently.",
+          "sourceUrl": "https://www.aydenscott4congress.com/Stances-On-Issues/",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He opposes federal gun restrictions including red flag laws, magazine bans, and mandatory buyback programs.",
+          "quote": "I will oppose any legislation that infringes on the constitutional right to keep and bear arms, including red flag laws, magazine bans, and mandatory buyback programs.",
+          "sourceUrl": "https://www.aydenscott4congress.com/Stances-On-Issues/",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He says life begins at conception, supports policies protecting the unborn, and opposes federal taxpayer funding of abortion.",
+          "quote": "I am proudly pro-life. I believe life begins at conception and that every life deserves protection. I support policies that protect the unborn and will oppose taxpayer funding of abortion at the federal level.",
+          "sourceUrl": "https://www.aydenscott4congress.com/Stances-On-Issues/",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He favors market-based health care measures and opposes a government-run system that he says would reduce patient choice.",
+          "quote": "I support free-market solutions that increase transparency, expand Health Savings Accounts, and break the barriers that prevent real price competition.",
+          "sourceUrl": "https://www.aydenscott4congress.com/Stances-On-Issues/",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He supports an all-of-the-above, market-driven energy strategy and expanding domestic energy production.",
+          "quote": "I support an all-of-the-above energy strategy that includes oil, gas, coal, nuclear, and renewables",
+          "sourceUrl": "https://www.aydenscott4congress.com/Stances-On-Issues/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "MICHAEL R. STODDARD",
+      "party": "Libertarian",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He proposes indexing savings and investment for inflation so taxes apply only to real gains.",
+          "quote": "I'll work to index savings and investment to the dollar's decline, count the saver's own money first, and give every family a simple after-tax account with no warden at the door.",
+          "sourceUrl": "https://2amike4congress.org/",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He calls for protecting the right to bear arms and opposes state-level disarmament.",
+          "quote": "Protect the armed body of the people from both federal overreach and state-level disarmament — the right to keep and bear arms and the duty of common defense are two faces of one design.",
+          "sourceUrl": "https://2amike4congress.org/",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He proposes expanding individual choice and competition in health coverage, with direct public funding for people who are uninsurable.",
+          "quote": "I’ll unchain coverage from employment, re-legalize real catastrophic insurance for the rare disaster, restore honest up-front prices, and fund the genuinely uninsurable in the daylight instead of hiding them inside everyone’s premium.",
+          "sourceUrl": "https://2amike4congress.org/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "ADONIS HOOSLYN",
+      "party": "Unaffiliated",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He proposes increasing taxes on billionaires and providing a robust safety net.",
+          "quote": "Increase taxes for billionaires to ensure they pay their fair share toward our national prosperity.",
+          "sourceUrl": "https://www.hooslynforhouse.com/",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He calls for abolishing ICE and redirecting its funding to campaign priorities.",
+          "quote": "Abolish ICE and reallocate funds toward Core 4 policies that protect American families.",
+          "sourceUrl": "https://www.hooslynforhouse.com/",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports transitioning to a Medicare for All system.",
+          "quote": "Transition to a Medicare 4 All System. Healthcare must be a right, not a privilege tied to employment or wealth.",
+          "sourceUrl": "https://www.hooslynforhouse.com/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "kentudellforcongress.com · castlecountryradio.com · ivoterguide.com · celesteforutah.com · clerk.house.gov · aydenscott4congress.com · 2amike4congress.org · hooslynforhouse.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

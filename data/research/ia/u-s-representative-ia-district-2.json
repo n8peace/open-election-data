@@ -1,0 +1,24 @@
+{
+  "office": "U.S. Representative",
+  "district": "IA District 2",
+  "division": "ia/cd-2",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Joe Mitchell",
+      "party": "Republican"
+    },
+    {
+      "name": "Lindsay James",
+      "party": "Democratic"
+    },
+    {
+      "name": "Rick Stewart",
+      "party": "Libertarian"
+    },
+    {
+      "name": "Dave Bushaw",
+      "party": "No Party"
+    }
+  ]
+}

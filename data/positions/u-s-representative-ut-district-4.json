@@ -1,0 +1,171 @@
+{
+  "office": "U.S. Representative",
+  "district": "UT District 4",
+  "division": "ut/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "TAYLOR WRIGHT",
+      "party": "Libertarian",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "His campaign opposes tariffs and says it favors free trade.",
+          "quote": "Government should not distort markets or punish consumers through policies like tariffs.",
+          "sourceUrl": "https://wrightforutah.com/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "JONNY LARSEN",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He called for wages that let families live and said he would defend workers’ right to organize.",
+          "quote": "I will fight for wages that let families live, not just scrape by... The right to organize is not a relic. It is how working people hold power. I will always defend it.",
+          "sourceUrl": "https://www.civoren.com/candidate/jonny-larsen",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He pledged to protect public school funding and teachers and opposed diverting public funds to private vouchers.",
+          "quote": "I will fight to protect public school funding, support our teachers, and make sure that when families pay taxes for education, those dollars actually reach the classroom.",
+          "sourceUrl": "https://www.civoren.com/candidate/jonny-larsen",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He said abortion and other health care decisions belong to women and their doctors, not politicians.",
+          "quote": "Women deserve equal pay and full control over their own healthcare decisions. That is between a woman and her doctor. Not a politician and a lobbyist.",
+          "sourceUrl": "https://www.civoren.com/candidate/jonny-larsen",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "STEVEN BURT",
+      "party": "Unaffiliated",
+      "stances": {}
+    },
+    {
+      "name": "MIKE KENNEDY",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "His campaign says he supported eliminating taxes on tips and overtime and supported strengthening the Child Tax Credit.",
+          "quote": "Supported and helped advance eliminating taxes on tips and overtime so working Utahns keep more of what they earn",
+          "sourceUrl": "https://mikekennedyforutah.com/issues/",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports considering cost-cutting options while maintaining promises to seniors.",
+          "quote": "Keeping options on the table allows us to explore common-sense solutions to cut costs and uphold our promises to seniors.",
+          "sourceUrl": "https://www.kuer.org/politics-government/2024-05-31/2024-gop-primary-voter-guide-cd3-jr-bird-john-dougall-mike-kennedy-case-lawrence-stewart-peay?_amp=true",
+          "agreement": "3/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He said Utah should build housing on public land and lower costs for building materials.",
+          "quote": "Utah could solve these issues by reducing tariffs and taxes on building materials and by building housing on public land.",
+          "sourceUrl": "https://www.upr.org/politics/2024-10-18/3rd-congressional-district-candidates-debate-tenant-rights-affordable-housing",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He said he supports vouchers and other school-choice options.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools.",
+          "sourceUrl": "https://ivoterguide.com/candidate/41476/race/2217/election/1233",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He strongly disagreed with redirecting police funding to community programs.",
+          "quote": "I support redirecting funds from police departments to community programs. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/41476/race/2217/election/1233",
+          "agreement": "6/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "His campaign says he has defended the Second Amendment.",
+          "quote": "Defended the right to life, the Second Amendment, and religious liberty",
+          "sourceUrl": "https://mikekennedyforutah.com/issues/",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He described himself as proudly pro-life and said abortion is generally a state issue.",
+          "quote": "I am proudly pro-life and believe this is, by and large, a state issue.",
+          "sourceUrl": "https://www.kuer.org/politics-government/2024-05-31/2024-gop-primary-voter-guide-cd3-jr-bird-john-dougall-mike-kennedy-case-lawrence-stewart-peay?_amp=true",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He voted yea on final passage of the Protection of Women and Girls in Sports Act.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512?Title=sports",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He said he would expand health savings accounts and increase health-care competition.",
+          "quote": "Will increase cost transparency and competition to lower prices and improve care.",
+          "sourceUrl": "https://ivoterguide.com/candidate/41476/race/2217/election/1233",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "His campaign says he worked to expand domestic energy production to support Utah jobs and lower costs.",
+          "quote": "Worked to expand domestic energy production to support Utah jobs and lower costs",
+          "sourceUrl": "https://mikekennedyforutah.com/issues/",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He strongly disagreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/41476/race/2217/election/1233",
+          "agreement": "6/10"
+        }
+      }
+    }
+  ],
+  "sources": "wrightforutah.com · civoren.com · mikekennedyforutah.com · kuer.org · upr.org · ivoterguide.com · clerk.house.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

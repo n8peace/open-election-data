@@ -1,0 +1,227 @@
+{
+  "office": "U.S. Representative",
+  "district": "UT District 1",
+  "division": "ut/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "JESSE WEST",
+      "party": "Libertarian",
+      "stances": {}
+    },
+    {
+      "name": "BEN MCADAMS",
+      "party": "Democratic",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He opposes Trump’s tariffs, saying they raise the cost of groceries and everyday items.",
+          "quote": "I’m focused on tackling the affordability crisis by standing against Trump’s tariffs that are driving up the cost of groceries and everyday items",
+          "sourceUrl": "https://benmcadams.com/platform/lowering-costs-and-building-economic-security-for-working-families/",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says he will oppose cuts to Social Security benefits and increases to the retirement age.",
+          "quote": "I will oppose efforts to privatize the program, cut benefits, or push the retirement age further out for working families.",
+          "sourceUrl": "https://benmcadams.com/social-security-is-a-promise-americans-already-paid-for/",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He supports increasing housing supply and cutting red tape to lower housing costs.",
+          "quote": "I’ll work to bring down the cost of housing, expand opportunities for first time homebuyers, increase housing supply, cut red tape that drives up costs",
+          "sourceUrl": "https://benmcadams.com/platform/lowering-costs-and-building-economic-security-for-working-families/",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He says he supports investment in strong public schools.",
+          "quote": "That means investing in strong public schools, standing up for LGBTQ+ individuals, and protecting the fundamental right to make personal health decisions",
+          "sourceUrl": "https://benmcadams.com/platform/defending-human-rights-and-opportunity-for-every-utahn/",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports expanding legal status, protecting asylum seekers, and creating a pathway to citizenship.",
+          "quote": "I support permanently protecting Dreamers, expanding access to legal status, defending asylum protections, and ending policies that criminalize families seeking safety.",
+          "sourceUrl": "https://benmcadamsutah.com/platform/defending-human-rights-and-opportunity-for-every-utahn/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He supports universal background checks, including for gun-show and private sales.",
+          "quote": "So I support universal background checks, closing the loopholes for gun shows and private sales, which is what that is.",
+          "sourceUrl": "https://www.deseret.com/opinion/2019/9/4/20850194/q-a-utah-rep-ben-mcadams-talks-the-equality-act-gun-control-and-what-to-do-about-health-care/",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports restoring Roe protections in federal law and says abortion decisions should not be made by politicians.",
+          "quote": "I support codifying Roe into federal law to ensure women’s health decisions are protected nationwide.",
+          "sourceUrl": "https://benmcadams.com/platform/defending-human-rights-and-opportunity-for-every-utahn/",
+          "agreement": "6/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "He voted for the MORE Act, which would remove marijuana from the federal Controlled Substances Act.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2020235",
+          "agreement": "3/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He supports curbing greenhouse gas emissions and expanding clean energy.",
+          "quote": "I will work in Congress to curb greenhouse gas emissions and address the many other environmental crises facing our state",
+          "sourceUrl": "https://benmcadams.com/platform/protecting-the-environment/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "He voted for the For the People Act, an election reform bill that included measures to expand voter access.",
+          "quote": "Vote Question: On Passage For the People Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019118",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "ELIAS HENRY MONTGOMERY",
+      "party": "Unaffiliated",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He proposes ending federal income taxes on individuals over ten years and shifting revenue authority to the states.",
+          "quote": "End federal income taxation on individual citizens over a locked 10-year horizon, restoring the original constitutional design by shifting revenue authority entirely back to the states.",
+          "sourceUrl": "https://www.eliasmontgomery.com/",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "He calls for halting federal money printing as part of his fiscal platform.",
+          "quote": "Stop Over-Spending: Halt the reckless federal money-printing that drives up the daily cost of gas, groceries, and housing.",
+          "sourceUrl": "https://www.eliasmontgomery.com/",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He proposes legalizing and streamlining missing-middle housing, including duplexes, townhomes, and small apartments.",
+          "quote": "Legalize and streamline \"missing-middle\" housing like duplexes, townhomes, and small apartments.",
+          "sourceUrl": "https://www.eliasmontgomery.com/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "He describes support for decentralized education pathways and an open marketplace of school choice; the page does not specify vouchers.",
+          "quote": "Decentralized educational pathways, absolute parental authority over data exposure, customizable learning tracks, and an open marketplace of competitive school choice without uniform state dictation.",
+          "sourceUrl": "https://www.eliasmontgomery.com/",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He says his plan would protect Second Amendment rights, oppose sweeping restrictions, and focus enforcement on violent offenders and illegal supply chains.",
+          "quote": "To reduce violence by treating root environmental and psychological causes while completely protecting your Second Amendment rights:",
+          "sourceUrl": "https://www.eliasmontgomery.com/",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "He opposes criminal bans and supports legal protections for emergencies, rape, and incest, while saying his goal is to reduce abortions through support for families.",
+          "quote": "Criminalizing abortion does not work to eradicate the practice. To reduce abortion through compassionate, practical support rather than police power, our focus centers on root-cause solutions:",
+          "sourceUrl": "https://www.eliasmontgomery.com/",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He proposes a universal catastrophic-care safety net while keeping everyday care open to private competition and restricting some public benefits to lawful residents.",
+          "quote": "Establishing a universal safety net for major medical emergencies while keeping everyday care open to honest, competitive choice, and ensuring baseline public health rules apply uniformly to protect community stability.",
+          "sourceUrl": "https://www.eliasmontgomery.com/",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "RILEY OWEN",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "After the debate, Owen opposed higher taxes and called for market-based incentives and more efficient services.",
+          "quote": "One of us wanted bigger taxes and more taxation and bigger government, and I want creative solutions, market-based incentives, making services more efficient.",
+          "sourceUrl": "https://www.ksl.com/article/news/utah/politics/ben-mcadams-riley-owen-find-much-to-agree-on-in-debate-for-utahs-1st-congressional-district/51630194",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He called free trade the best policy but endorsed targeted tariffs to punish bad actors or support domestic industries.",
+          "quote": "Owen said he believes free trade is the best economic policy, but said tariffs can be a tool used to \"punish bad actors\" or to incentivize or grow domestic industries.",
+          "sourceUrl": "https://www.ksl.com/article/51630194/watch-live-ben-mcadams-riley-owen-debate-for-utahs-new-1st-congressional-district",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Owen opposed cutting Social Security benefits or raising the retirement age and proposed investing the fund in the stock market.",
+          "quote": "Owen said he does not support a tax increase, raising the retirement age or cutting benefits to keep the fund solvent.",
+          "sourceUrl": "https://www.kuer.org/politics-government/2026-09-29/1st-congressional-debate-recap-ben-mcadams-riley-owen-debt-medicaid-social-security?_amp=true",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Owen says he would tie federal funding to local zoning reform as a way to support affordable housing.",
+          "quote": "Riley will fight for affordable housing through conditionalizing federal funding to localities implementing common-sense zoning reform.",
+          "sourceUrl": "https://www.utahriley.com/issues",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "In a candidate questionnaire, Owen supported investment and funding for school-based mental-health services as part of public education.",
+          "quote": "One of the most impactful approaches to improving access to mental health services for young people in Utah is investing in school-based mental health support as a foundational component of public education.",
+          "sourceUrl": "https://www.utahsswa.org/2026candidate-responses",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "benmcadams.com · benmcadamsutah.com · deseret.com · clerk.house.gov · eliasmontgomery.com · ksl.com · kuer.org · utahriley.com · utahsswa.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

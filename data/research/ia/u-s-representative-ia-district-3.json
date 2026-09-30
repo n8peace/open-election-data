@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "IA District 3",
+  "division": "ia/cd-3",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Zach Nunn",
+      "party": "Republican"
+    },
+    {
+      "name": "Sarah Trone Garriott",
+      "party": "Democratic"
+    }
+  ]
+}
