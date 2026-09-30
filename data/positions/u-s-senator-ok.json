@@ -1,0 +1,208 @@
+{
+  "office": "U.S. Senator",
+  "district": "OK",
+  "division": "ok/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "KEVIN HERN",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He says he helped extend tax cuts and authored additional tax cuts for seniors, families, and businesses.",
+          "quote": "I worked with President Trump and my House Republican colleagues to ensure that we not only extended President Trump’s historic tax cuts, but found new areas to cut taxes for seniors, hardworking Americans, and families.",
+          "sourceUrl": "https://hernforsenate.com/promises-kept/",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He said wage growth comes from a free market and said the country should return to that approach.",
+          "quote": "When you encourage people to get into jobs, there’s a natural free market.",
+          "sourceUrl": "https://hern.house.gov/news/documentsingle.aspx?DocumentID=529",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He says he advocates school choice and backed expanding tax-advantaged education accounts for K–12 expenses.",
+          "quote": "That is why I am a passionate advocate for school choice.",
+          "sourceUrl": "https://hernforsenate.com/promises-kept/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He says he supports law enforcement and cosponsored legislation creating federal penalties for assaults on officers.",
+          "quote": "I will always support the police, sheriffs, and troopers across Oklahoma who keep our communities safe.",
+          "sourceUrl": "https://hernforsenate.com/promises-kept/",
+          "agreement": "4/5"
+        },
+        "sentencing": {
+          "toward": "tougher sentences",
+          "strength": "strong",
+          "text": "He cosponsored legislation that would impose federal penalties, including life imprisonment, for certain crimes against law-enforcement officers.",
+          "quote": "This legislation would create federal criminal penalties for assaulting a law enforcement officer, including life in prison for the murder or kidnapping of an officer.",
+          "sourceUrl": "https://hernforsenate.com/promises-kept/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He says he cosponsored the Remain in Mexico Act and backed border security funding and enforcement.",
+          "quote": "I have also cosponsored many pieces of legislation to codify President Trump’s border policies including the Remain in Mexico Act",
+          "sourceUrl": "https://hernforsenate.com/promises-kept/",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He says he cosponsored legislation restricting abortion funding and chemical abortion access and supports protections for unborn life.",
+          "quote": "I will always champion the strong pro-life protections guaranteed by the state of Oklahoma and advocate for Congressional policy that protects the lives of the unborn.",
+          "sourceUrl": "https://hernforsenate.com/promises-kept/",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He cosponsored legislation barring federal funding for schools that allow biological males to compete in girls’ or women’s sports.",
+          "quote": "This legislation would prohibit federal funding for any school that sponsors athletic programs which permit biological males to compete in sports designated for women or girls.",
+          "sourceUrl": "https://hernforsenate.com/promises-kept/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "As Republican Study Committee chair, he backed a budget opposing Medicare for All and promoting insurance-market competition.",
+          "quote": "The RSC Budget supports policies that are geared toward increasing innovation and market competition to drive down patient costs.",
+          "sourceUrl": "https://hern.house.gov/UploadedFiles/RSC_FY_2025_Budget-Section_by_SectionFINAL325.pdf",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He backed policies to expand domestic energy production and said restoring energy independence was a priority.",
+          "quote": "We will continue to push policies that empower domestic energy producers and get the United States back to the position of energy independence we held before Biden took office.",
+          "sourceUrl": "https://hern.house.gov/news/documentsingle.aspx?DocumentID=795",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He cosponsored the SAVE America Act, which he says would require proof of citizenship to register and photo identification to vote.",
+          "quote": "This legislation would simply ensure that an individual provides proof of citizenship when registering to vote and photo identification when at the polls.",
+          "sourceUrl": "https://hernforsenate.com/promises-kept/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "N'KIYLA JASMINE THOMAS",
+      "party": "Democrat",
+      "stances": {
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She says she will fight to restore Roe v. Wade federally and protect access to reproductive care.",
+          "quote": "Decisions about pregnancy belong to patients, not politicians. I will fight to: Restore Roe v. Wade federally",
+          "sourceUrl": "https://www.jasmineforok.com/policies",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She proposes Medicare for All to provide universal health coverage.",
+          "quote": "Establish Medicare for All to guarantee universal healthcare coverage for every American and ensure that no one is denied care because they cannot afford it.",
+          "sourceUrl": "https://www.jasmineforok.com/policies",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "SEVIER WHITE",
+      "party": "Libertarian",
+      "stances": {}
+    },
+    {
+      "name": "RON MEINHARDT",
+      "party": "Independent",
+      "stances": {
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supports securing the border, streamlining deportation, and enforcing immigration laws.",
+          "quote": "That means securing the border, streamlining deportation, and ensuring a process that is constitutional, enforceable, and accountable.",
+          "sourceUrl": "https://www.running4ok.com/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He says affordable domestic energy is important because it affects household costs and jobs.",
+          "quote": "Affordable domestic energy is not just an industry issue. It affects groceries, transportation, utilities, jobs, family budgets, and the cost of nearly everything.",
+          "sourceUrl": "https://www.running4ok.com/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "CURTIS STINNETT",
+      "party": "Independent",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He proposes tying the federal minimum wage to a county-based living-wage measure and says he would vote for minimum-wage increases.",
+          "quote": "As an elected representative I would obviously be a yes vote for any measure that raises the minimum wage.",
+          "sourceUrl": "https://www.stinnettforsenate.org/main-ideas/living-wage",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He opposes funding ICE under current practices and supports more judicial resources and higher immigration quotas.",
+          "quote": "Votes to increase the quotas of immigrants to our country would have my support.",
+          "sourceUrl": "https://www.stinnettforsenate.org/main-ideas/good-neighbors",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He opposes making abortion illegal and says he would advocate for women’s bodily autonomy as a senator.",
+          "quote": "Making this very valid medical procedure illegal, however, I will oppose utterly.",
+          "sourceUrl": "https://www.stinnettforsenate.org/main-ideas/codify-roe",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports moving to a Medicare for All system that would roll existing public programs into Medicare.",
+          "quote": "If I were leading the charge in Washington on how to overhaul runaway healthcare costs I would switch us to a Medicare for All system.",
+          "sourceUrl": "https://www.stinnettforsenate.org/main-ideas/medicare-for-all",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "hernforsenate.com · hern.house.gov · jasmineforok.com · running4ok.com · stinnettforsenate.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

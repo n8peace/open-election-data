@@ -1,0 +1,135 @@
+{
+  "office": "U.S. Representative",
+  "district": "OK District 03",
+  "division": "ok/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "FRANK D. LUCAS",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "His campaign says he supports lower taxes and voted for the Tax Cuts and Jobs Act.",
+          "quote": "Frank supports lowering taxes, reducing burdensome regulations, and increasing free and fair trade",
+          "sourceUrl": "https://frankdlucas.com/issues/",
+          "agreement": "9/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He voted against the 2007 Fair Minimum Wage Act.",
+          "quote": "Vote Question: On Passage Fair Minimum Wage Act Vote Type: Recorded Vote",
+          "sourceUrl": "https://clerk.house.gov/Votes/200718",
+          "agreement": "6/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "His campaign supports free trade, and he urged Congress to adopt the U.S.-Mexico-Canada Agreement.",
+          "quote": "Frank stands up for rural Oklahoma- providing for Oklahoma’s farmers, pushing for an increase in rural broadband, fighting to save rural hospitals, and encourages more fair and free trade between our trading partners.",
+          "sourceUrl": "https://frankdlucas.com/issues/",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "His campaign calls for reducing government size and cutting wasteful spending to avoid leaving debt to future generations.",
+          "quote": "Reducing the size of government in Washington and cutting wasteful governmental spending, we can lift the fear of leaving behind a crushing debt to our children and grandchildren.",
+          "sourceUrl": "https://frankdlucas.com/issues/",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports stronger border security and enforcement while also proposing legal immigration reforms for skilled and agricultural workers.",
+          "quote": "Frank supports President Trump and believes we must do more to secure the Southern border and provide more resources to our law enforcement and border patrol officials to keep our communities safe. Immigration reform also means modernizing America’s outdated immigration policies",
+          "sourceUrl": "https://frankdlucas.com/issues/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "His campaign describes the ability of law-abiding citizens to bear arms as a fundamental right.",
+          "quote": "Frank believes protecting the ability of law-abiding citizens to bear arms is a fundamental right.",
+          "sourceUrl": "https://frankdlucas.com/issues/",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He has said protecting unborn life is a priority and voted for the Born-Alive Abortion Survivors Protection Act.",
+          "quote": "Safeguarding the right to life has always been one of my highest priorities as a Congressman.",
+          "sourceUrl": "https://lucas.house.gov/posts/lucas-stands-up-for-pro-life-agenda-3",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "He voted for the Protection of Women and Girls in Sports Act.",
+          "quote": "Vote Question: On Passage Protection of Women and Girls in Sports Act Vote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "6/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "He voted against the MORE Act, which would have changed federal marijuana policy.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He voted to repeal the Affordable Care Act and said health reform should give people choice in health care.",
+          "quote": "It is time to sit down and start over with reforms that don’t scare employers from hiring, reforms that allow the American people to have a choice in their health care, and save rather than cost the people of Oklahoma money.",
+          "sourceUrl": "https://lucas.house.gov/posts/lucas-votes-to-repeal-government-takeover-of-health-care",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supports affordable energy and domestic production alongside renewable energy solutions.",
+          "quote": "America’s energy supply should be stable, diverse, and affordable, which is why I support an all-of-the-above energy strategy that encourages domestic production, reduces our dependency on foreign oil, and explores renewable energy solutions.",
+          "sourceUrl": "https://lucas.house.gov/resources/energy-environment",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "He voted for the SAVE Act.",
+          "quote": "Vote Question: On Passage SAVE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2025102",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "SUZIE BYRD",
+      "party": "Democrat",
+      "stances": {}
+    }
+  ],
+  "sources": "frankdlucas.com · clerk.house.gov · lucas.house.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
