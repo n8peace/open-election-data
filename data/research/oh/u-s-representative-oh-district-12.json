@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Troy Balderson",
-      "party": "Republican"
-    },
-    {
       "name": "Jerrad Christian",
       "party": "Democratic"
+    },
+    {
+      "name": "Troy Balderson",
+      "party": "Republican"
     }
   ]
 }

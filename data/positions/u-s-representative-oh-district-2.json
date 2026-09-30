@@ -1,0 +1,128 @@
+{
+  "office": "U.S. Representative",
+  "district": "OH District 2",
+  "division": "oh/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jennifer Mazzuckelli",
+      "party": "Democratic",
+      "stances": {
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She said universal health care should become a reality and that health care is a right.",
+          "quote": "Universal health care should not seem like a dream or some far fetched idea. It is only a matter of time and having the proper leadership before we make it a reality.",
+          "sourceUrl": "https://battlegroundvote.com/ohio/jen-mazzuckelli",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "She said policymakers should investigate ways to reduce energy costs.",
+          "quote": "We also need to directly and aggressively investigate ways to reduce housing, healthcare, and energy costs.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=72021464",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "She said she would work to advance the John Lewis Voting Rights Act and the For the People Act.",
+          "quote": "I would help make sure the John Lewis Voting Rights Act and the For the People Act have a chance to be passed.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=72021464",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "David J. Taylor",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Taylor said he would cut families’ tax burden as part of restoring the economy.",
+          "quote": "Part of restoring our economy is easing the burden of inflation on working families by cutting their tax burden and bringing American jobs back to America.",
+          "sourceUrl": "https://davetaylorforcongress.com/on-the-issues/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "His campaign said he would propose requiring Congress to balance the budget and spend within its means to address the national debt.",
+          "quote": "As your next representative, I will author legislation that requires Congress to balance the budget before they get paid, and forces them to only spend within our means to help us regain control of our future.",
+          "sourceUrl": "https://davetaylorforcongress.com/on-the-issues/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Taylor said he would expand school choice and restore parental rights in education.",
+          "quote": "I’ll end the madness by defunding and dismantling the failed experiment called the Department of Education, restoring parental rights, and expanding school choice.",
+          "sourceUrl": "https://davetaylorforcongress.com/on-the-issues/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Taylor said he would equip law enforcement with tools to do their jobs and hold criminals accountable.",
+          "quote": "I will continue working in Congress to equip law enforcement with the tools they need to do their jobs and hold criminals accountable for their actions.",
+          "sourceUrl": "https://taylorforms.house.gov/news/email/show.aspx?ID=OQXJ37NNQCG2S",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Taylor said he would support a border wall, more resources for Border Patrol, and prosecution of criminals and cartels.",
+          "quote": "In Washington, I’ll fight to secure the border by finishing President Trump’s wall, increasing funding and resources for Border Patrol officers, and deploying military personnel when necessary.",
+          "sourceUrl": "https://davetaylorforcongress.com/on-the-issues/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Taylor said he would vote to protect the right to bear arms.",
+          "quote": "The Second Amendment is clear and unequivocal. Without this right, we cede our ability to protect ourselves to the government and give up our right to fight back against tyranny. I will always vote to protect it.",
+          "sourceUrl": "https://davetaylorforcongress.com/on-the-issues/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Taylor described himself as pro-life and said the unborn should be protected by law.",
+          "quote": "I am a pro-life conservative. I believe the unborn deserve to be protected by the law.",
+          "sourceUrl": "https://davetaylorforcongress.com/on-the-issues/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Taylor called for expanding fossil fuels and nuclear energy.",
+          "quote": "We need to end the stigma on fossil fuels, and lean into nuclear energy.",
+          "sourceUrl": "https://davetaylorforcongress.com/on-the-issues/",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "battlegroundvote.com · onyourballot.vote411.org · davetaylorforcongress.com · taylorforms.house.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

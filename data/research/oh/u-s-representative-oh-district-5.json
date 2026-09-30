@@ -5,16 +5,16 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Bob Latta",
-      "party": "Republican"
-    },
-    {
       "name": "Brian A. Shaver",
       "party": "Democratic"
     },
     {
-      "name": "Dalton Franklin",
-      "party": "Independent"
+      "name": "Bob Latta",
+      "party": "Republican"
+    },
+    {
+      "name": "Michael J. Veloff",
+      "party": "Libertarian"
     }
   ]
 }

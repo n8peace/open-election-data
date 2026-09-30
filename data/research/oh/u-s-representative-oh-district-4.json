@@ -5,16 +5,16 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Jim Jordan",
-      "party": "Republican"
-    },
-    {
       "name": "Joshua D. Kolasinski",
       "party": "Democratic"
     },
     {
+      "name": "Jim Jordan",
+      "party": "Republican"
+    },
+    {
       "name": "Tracey L. Tackett",
-      "party": ""
+      "party": "Independent"
     }
   ]
 }

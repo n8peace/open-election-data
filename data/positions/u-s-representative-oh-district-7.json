@@ -1,0 +1,104 @@
+{
+  "office": "U.S. Representative",
+  "district": "OH District 7",
+  "division": "oh/cd-7",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Brian Poindexter",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He said he would seek a federal minimum-wage increase and supports workers’ right to organize.",
+          "quote": "I would immediately seek to raise the minimum wage at the federal level, which hasn't been raised since 2009.",
+          "sourceUrl": "https://actionnetwork.org/user_files/user_files/000/137/729/original/brian-poindexter-endorsement-questionnaire.pdf",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Max Miller",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "His campaign says he supports making tax cuts permanent and eliminating taxes on tips and overtime.",
+          "quote": "That’s why he has voted to support making tax cuts permanent, no tax on tips, and no tax on overtime.",
+          "sourceUrl": "https://www.votemaxmiller.com/priorities",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "His campaign says he will seek increased funding and support for law enforcement.",
+          "quote": "Max will fight for increased funding and support for law enforcement.",
+          "sourceUrl": "https://www.votemaxmiller.com/priorities",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "His campaign says he will continue to fight to maintain a secure southern border.",
+          "quote": "Max will continue to fight to maintain the secure border.",
+          "sourceUrl": "https://www.votemaxmiller.com/priorities",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "He voted for a resolution disapproving an ATF rule on firearms with stabilizing braces.",
+          "quote": "Vote Question: On Passage Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Alcohol, Tobacco, Firearms, and Explosives",
+          "sourceUrl": "https://clerk.house.gov/Votes/2023252",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "He voted for the Born-Alive Abortion Survivors Protection Act.",
+          "quote": "Vote Question: On Passage\n\nBorn-Alive Abortion Survivors Protection Act\n\nVote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/202527",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He voted for a bill that would base Title IX athletics sex determinations on reproductive biology and genetics at birth.",
+          "quote": "Protection of Women and Girls in Sports Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2023192",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "His campaign says he supports energy policies intended to develop U.S. energy independence and reduce gas and electricity costs.",
+          "quote": "Max will continue to support the policies of the Trump administration to develop American energy independence and reduce the costs of gas and electricity.",
+          "sourceUrl": "https://www.votemaxmiller.com/priorities",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "actionnetwork.org · votemaxmiller.com · clerk.house.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
