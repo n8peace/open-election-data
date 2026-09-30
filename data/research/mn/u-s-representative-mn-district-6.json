@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Tom Emmer",
-      "party": "Republican"
-    },
-    {
       "name": "Doug Chapin",
       "party": "Democratic-Farmer-Labor"
+    },
+    {
+      "name": "Tom Emmer",
+      "party": "Republican"
     }
   ]
 }

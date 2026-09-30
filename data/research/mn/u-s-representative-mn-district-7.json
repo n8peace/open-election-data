@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Michelle Fischbach",
-      "party": "Republican"
-    },
-    {
       "name": "Erik Osberg",
       "party": "Democratic-Farmer-Labor"
+    },
+    {
+      "name": "Michelle Fischbach",
+      "party": "Republican"
     }
   ]
 }

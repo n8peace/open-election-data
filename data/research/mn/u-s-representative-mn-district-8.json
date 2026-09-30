@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Pete Stauber",
-      "party": "Republican"
-    },
-    {
       "name": "Trina Swanson",
       "party": "Democratic-Farmer-Labor"
+    },
+    {
+      "name": "Pete Stauber",
+      "party": "Republican"
     }
   ]
 }

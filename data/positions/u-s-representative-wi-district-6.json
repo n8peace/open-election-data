@@ -1,0 +1,402 @@
+{
+  "office": "U.S. Representative",
+  "district": "WI District 6",
+  "division": "wi/cd-6",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Elizabeth Anne Fitzgibbon",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "She supports tax relief for working families and small businesses alongside cuts to wasteful spending.",
+          "quote": "We need sound money, affordable domestic energy, more competition in health care, and tax relief for working families and small businesses.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72717963",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She says Social Security and Medicare should be protected so seniors can retire securely.",
+          "quote": "Protect Social Security and Medicare so seniors can retire with dignity and financial security.",
+          "sourceUrl": "https://www.fitzgibbonforcongress.com/issues",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She supports practical solutions to expand housing supply and make housing more attainable.",
+          "quote": "Make housing more attainable by supporting practical solutions that expand supply, strengthen communities, and help working families stay rooted where they live.",
+          "sourceUrl": "https://www.fitzgibbonforcongress.com/issues",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "She favors more health care competition, price transparency, and alternatives such as direct primary care and telehealth.",
+          "quote": "I support expanding competition, price transparency, direct primary care, telehealth, and reforms that reduce the power of insurance, hospital, pharmaceutical, and government middlemen.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72717963",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "She identifies affordable domestic energy as part of her approach to lowering living costs.",
+          "quote": "We need sound money, affordable domestic energy, more competition in health care, and tax relief for working families and small businesses.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72717963",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports accessible polling and absentee voting while also backing voter ID requirements and clear registration rules.",
+          "quote": "I support clear voter registration rules, reasonable voter ID requirements, accessible polling places, secure absentee voting, transparent ballot handling, and faster public reporting of election procedures and results.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72717963",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Mike Thurow",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He proposes cutting taxes for middle-class families and small businesses while closing corporate tax loopholes.",
+          "quote": "We can lower taxes for regular Americans without raising the deficit by closing corporate tax loopholes, targeting wasteful government spending, and cracking down on fraud.",
+          "sourceUrl": "https://www.thurowforcongress.com/platform",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He says he will seek passage of the PRO Act to strengthen workers' organizing rights and labor-law enforcement.",
+          "quote": "That is why I will fight to pass the PRO Act, to protect the right to organize by strengthening labor law enforcement and cracking down on companies that illegally fight unions.",
+          "sourceUrl": "https://www.thurowforcongress.com/platform",
+          "agreement": "5/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "He says he would oppose NAFTA- and TPP-style trade deals that outsource manufacturing jobs.",
+          "quote": "I will oppose bad trade deals (like NAFTA and TPP) backed by both parties that outsource manufacturing jobs and support federal programs for companies that hire locally.",
+          "sourceUrl": "https://www.thurowforcongress.com/platform",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says he would oppose raising the retirement age or cutting Social Security benefits and pensions.",
+          "quote": "I will not allow Washington to raise the age of retirement, cut social security benefits, and play games with workers retirement funds just because their banker buddies want a slice of our pie.",
+          "sourceUrl": "https://www.thurowforcongress.com/platform",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He supports affordable-housing programs and incentives for developers to build workforce housing.",
+          "quote": "I will fight to expand federal and state affordable housing programs, including incentives for developers to build workforce housing, and advocate for tax relief targeted to middle-class families, not billionaires and large corporations.",
+          "sourceUrl": "https://www.thurowforcongress.com/platform",
+          "agreement": "4/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "He supports further cannabis and hemp legalization and opposes criminalizing people for cannabis.",
+          "quote": "Pharma lobbyists have spent billions of dollars fighting cannabis and hemp legalization not because it's bad for you, but because it's bad for their business.",
+          "sourceUrl": "https://www.thurowforcongress.com/platform",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He says he would support legislation to reduce energy costs through grid modernization and competition.",
+          "quote": "That’s why I will back legislation to reduce energy costs through competition and modernization of the power grid.",
+          "sourceUrl": "https://www.thurowforcongress.com/platform",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Glenn Grothman",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He supported the 2017 Tax Cuts and Jobs Act and praised its tax cuts.",
+          "quote": "The Tax Cuts and Jobs Act has led to record-low unemployment in Wisconsin, including youth unemployment",
+          "sourceUrl": "https://grothman.house.gov/issues-home/",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He opposed a bill to raise the federal minimum wage to $15, citing projected job losses.",
+          "quote": "$15/hr. does no good if you don’t have a job!",
+          "sourceUrl": "https://grothman.house.gov/news/email/show.aspx?ID=RX2RBOEKAC7CI",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He said he would fight to preserve Social Security for current and future retirees.",
+          "quote": "I’ll fight to protect and preserve Social Security so current and future retirees have the program available to them.",
+          "sourceUrl": "https://grothman.house.gov/issues-home/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "He endorsed parents’ ability to choose among public, charter, private, online, and home education options.",
+          "quote": "we’re grateful for Wisconsin parents’ ability to choose the best K-12 education option for their children, including public schools, charter schools, private schools, online academies and homeschooling.",
+          "sourceUrl": "https://grothman.house.gov/news/email/show.aspx?ID=Z4JK3C5FZN5IWEB2AFF44EOASY",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "He introduced legislation intended to require schools to report suspected student crimes to police.",
+          "quote": "If a student commits, or is suspected of committing a crime, police need to know about it.",
+          "sourceUrl": "https://grothman.house.gov/news/documentsingle.aspx?DocumentID=603",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He called for action on immigration enforcement and said border security was necessary for national security.",
+          "quote": "Congress needs to address our immigration crisis now. That is why I am a member of the Border Security Caucus in the U.S. House of Representatives.",
+          "sourceUrl": "https://grothman.house.gov/issues-home/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He said he supports legislation protecting gun rights and opposes undermining the rights of law-abiding gun owners.",
+          "quote": "I believe the rights of law-abiding citizens should not be undermined.",
+          "sourceUrl": "https://grothman.house.gov/issues-home/",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He said he is committed to protecting life from conception and has supported pro-life legislation.",
+          "quote": "I am committed to protecting life from conception to natural death.",
+          "sourceUrl": "https://grothman.house.gov/issues-home/",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He introduced legislation to protect school funding for schools that maintain biological distinctions between boys and girls.",
+          "quote": "to prohibit the Department of Agriculture (USDA) from withholding federal funds from schools that maintain biological distinctions between boys and girls.",
+          "sourceUrl": "https://grothman.house.gov/news/documentsingle.aspx?DocumentID=3037",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He supports replacing the Affordable Care Act with a more market-based system and competition among insurers and providers.",
+          "quote": "I support repealing and replacing Obamacare with a more free-market system, while keeping parts of Obamacare that make sense",
+          "sourceUrl": "https://grothman.house.gov/issues/issue/?IssueID=14888",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He supported the Keystone XL pipeline, citing jobs, energy security, and lower gas prices.",
+          "quote": "Not only will it provide thousands of good-paying jobs for hardworking Wisconsin families, but also benefit all Wisconsinites with lower gas prices at the pump.",
+          "sourceUrl": "https://grothman.house.gov/UploadedFiles/WI-Letter_to_President_Biden_RE_Keystone_XL.pdf",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He criticized proposals to expand mail voting and same-day registration without safeguards.",
+          "quote": "H.R. 1 will force states to implement online voter registration, automatic voter registration, and same-day voter registration with no safeguards.",
+          "sourceUrl": "https://grothman.house.gov/uploadedfiles/hr_1_top_ten_problems.pdf",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Brad Smith",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He supports ending the largest tax breaks for people at the top.",
+          "quote": "I support livable wages, stronger worker protections, and a tax system that stops giving the biggest breaks to the people already at the top.",
+          "sourceUrl": "https://www.bradsmithforcongress.com/priorities-and-positions",
+          "agreement": "4/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Smith supports raising the minimum wage and strengthening workers’ bargaining rights.",
+          "quote": "Raise minimum wage, expand apprenticeships, and reward companies that create and expand jobs right here at home.",
+          "sourceUrl": "https://www.bradsmithforcongress.com/",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Smith supports protecting and strengthening Social Security, but does not state a position here on Medicare benefits.",
+          "quote": "I support protecting and strengthening Social Security and pushing back against any effort to weaken it.",
+          "sourceUrl": "https://www.bradsmithforcongress.com/priorities-and-positions",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Smith supports building more affordable housing and expanding options such as duplexes and triplexes.",
+          "quote": "I support building more affordable housing near jobs and schools, expanding practical options like duplexes and triplexes",
+          "sourceUrl": "https://www.bradsmithforcongress.com/priorities-and-positions",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Smith said his campaign shares a commitment to strengthening public education and supporting educators.",
+          "quote": "This endorsement reflects our shared commitment to strengthening public education, supporting educators, and ensuring every student has the opportunity to succeed.",
+          "sourceUrl": "https://www.bradsmithforcongress.com/press-releases/brad-smith-earns-wisconsin-educator-association-endorsement-in-6th-congressional-district-race",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Smith supports more legal work pathways and a path to legal status for long-term, law-abiding residents.",
+          "quote": "We need more legal pathways for people to work where our economy clearly needs them, along with a realistic path to legal status for law-abiding long-term workers who are already part of our communities.",
+          "sourceUrl": "https://www.bradsmithforcongress.com/priorities-and-positions",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Smith supports universal background checks, red flag laws, and secure storage requirements.",
+          "quote": "I support common-sense safety measures such as universal background checks, red flag laws, and secure storage.",
+          "sourceUrl": "https://www.bradsmithforcongress.com/",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Smith supports reproductive freedom and access to reproductive health care, including abortion care.",
+          "quote": "I support reproductive freedom, women’s right to make their own medical decisions, and ensuring complete access to the full range of women’s healthcare.",
+          "sourceUrl": "https://www.bradsmithforcongress.com/priorities-and-positions",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He says different questions involving transgender people require different rules rather than one blanket policy.",
+          "quote": "Competitive sports, bathrooms, shelters, housing, and correctional facilities present different considerations and should not be governed by one blanket rule.",
+          "sourceUrl": "https://ivoterguide.com/candidate/96922/race/34169/election/1497",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Smith supports a strong public option and building toward universal health coverage.",
+          "quote": "I support protecting and strengthening the Affordable Care Act, lowering prescription drug prices, expanding rural clinics and telehealth, and building toward universal coverage through a strong public option that actually gives people a lower-cost choice.",
+          "sourceUrl": "https://www.bradsmithforcongress.com/priorities-and-positions",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Smith supports a transition to renewable energy, including expanded solar, wind, and electrification.",
+          "quote": "I support a serious transition to renewable energy and a cleaner economy.",
+          "sourceUrl": "https://www.bradsmithforcongress.com/priorities-and-positions",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Smith supports expanding early and absentee voting, same-day registration, and a national Election Day holiday or paid time off.",
+          "quote": "I support expanding early voting, no-excuse absentee voting, and making Election Day a national holiday or guaranteed paid time off.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72717971",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "Matthew Arndt",
+      "party": "Wisconsin Green",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports raising wages and strengthening labor rights.",
+          "quote": "I support breaking up monopolies, strengthening labor rights, and raising wages because strong wages build strong communities.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72717963",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He supports taxing Wall Street mega-bank profits to help pay down the national debt.",
+          "quote": "That is why I support a Wall Street mega-bank tax: profits would be taxed after regular employee pay, but before executive compensation.",
+          "sourceUrl": "https://endthecartel.com/where-i-stand/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports due-process protections and legal counsel for immigration detainees to prevent wrongful deportations.",
+          "quote": "Guarantee due process by providing access to legal counsel for all detainees to prevent wrongful deportation.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72717963",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He says abortion decisions should be made by patients and their health care providers, not politicians.",
+          "quote": "I support protecting access to contraception and IVF, and I believe reproductive healthcare decisions, including abortion, should remain between a patient and their healthcare provider rather than politicians.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72717963",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports Medicare for All to provide comprehensive health coverage regardless of income or employment.",
+          "quote": "I support a Medicare for All system that guarantees every American access to comprehensive healthcare regardless of income, employment, or preexisting conditions.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72717963",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He supports expanded early voting, accessible absentee voting, and simpler voter registration.",
+          "quote": "I support ending partisan gerrymandering through independent redistricting commissions, expanding early voting opportunities, and maintaining accessible absentee voting for eligible voters.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72717963",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "onyourballot.vote411.org · fitzgibbonforcongress.com · thurowforcongress.com · grothman.house.gov · bradsmithforcongress.com · ivoterguide.com · endthecartel.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

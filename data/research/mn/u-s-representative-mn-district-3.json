@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Tyler Bass",
-      "party": "Republican"
-    },
-    {
       "name": "Kelly Morrison",
       "party": "Democratic-Farmer-Labor"
+    },
+    {
+      "name": "Tyler Bass",
+      "party": "Republican"
     }
   ]
 }
