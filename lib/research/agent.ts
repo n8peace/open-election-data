@@ -7,7 +7,7 @@ import { z } from 'zod';
 import { fetchSource, researchChoice, type Source } from '../ai/research';
 import { issueById, type IssueId } from '../issues';
 import type { AgentResult } from './consensus';
-import { runCliAgent } from './backends';
+import { runCliAgent, isCli } from './backends';
 
 // Server default (GitHub Actions rechecks): cheap models, verified against approved research.
 const DEFAULT_MODELS = 'gateway:openai/gpt-5.6-luna,gateway:google/gemini-3.8-flash,gateway:openai/gpt-5.6-terra';
@@ -81,7 +81,7 @@ export function msUntilReset(msg: string, now = new Date()): number {
 /** Runs one full agent: its own search, its own reading, verified quotes only. */
 export async function runAgent(opts: { name: string; office: string; issues: IssueId[]; run: number; isMeasure?: boolean; seedUrls?: string[] }): Promise<AgentResult> {
   const backend = modelFor(opts.run);
-  if (backend === 'claude-code' || backend === 'codex') {
+  if (isCli(backend)) {
     try {
       return await runCliAgent(backend, opts);
     } catch (e) {

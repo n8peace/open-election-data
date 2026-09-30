@@ -82,12 +82,18 @@ async function viaClaudeCode(prompt: string): Promise<string> {
   return out.result;
 }
 
-async function viaCodex(prompt: string): Promise<string> {
+/** "codex" or "codex:<model>" (e.g. codex:gpt-6-luna). Plain "codex" uses CODEX_MODEL if set. */
+export type CliBackend = 'claude-code' | 'codex' | `codex:${string}`;
+export const isCli = (b: string): b is CliBackend => b === 'claude-code' || b === 'codex' || b.startsWith('codex:');
+const codexModel = (b: string) => (b.startsWith('codex:') ? b.slice(6) : process.env.CODEX_MODEL || '');
+
+async function viaCodex(prompt: string, model = ''): Promise<string> {
   const dir = await mkdtemp(path.join(tmpdir(), 'pb-codex-'));
   try {
     const last = path.join(dir, 'last.txt');
     // CODEX_BIN picks a specific Codex build (e.g. the one bundled with the ChatGPT app).
-    await runClosed(process.env.CODEX_BIN || 'codex', ['exec', '--skip-git-repo-check', '--sandbox', 'read-only', '-c', 'web_search="live"', '--output-last-message', last, prompt], dir, 10 * 60 * 1000);
+    const pick = model ? ['-m', model] : [];
+    await runClosed(process.env.CODEX_BIN || 'codex', ['exec', '--skip-git-repo-check', '--sandbox', 'read-only', ...pick, '-c', 'web_search="live"', '--output-last-message', last, prompt], dir, 10 * 60 * 1000);
     return await readFile(last, 'utf8');
   } finally {
     await rm(dir, { recursive: true, force: true });
@@ -95,16 +101,16 @@ async function viaCodex(prompt: string): Promise<string> {
 }
 
 /** Sends one prompt to a subscription CLI and returns its final text reply. */
-export function runCli(backend: 'claude-code' | 'codex', prompt: string): Promise<string> {
-  return backend === 'claude-code' ? viaClaudeCode(prompt) : viaCodex(prompt);
+export function runCli(backend: CliBackend, prompt: string): Promise<string> {
+  return backend === 'claude-code' ? viaClaudeCode(prompt) : viaCodex(prompt, codexModel(backend));
 }
 
 /** Runs a research agent on a subscription CLI, then verifies every quote ourselves. */
 export async function runCliAgent(
-  backend: 'claude-code' | 'codex',
+  backend: CliBackend,
   opts: { name: string; office: string; issues: IssueId[]; seedUrls?: string[] },
 ): Promise<Partial<Record<IssueId, ResearchedStance>>> {
-  const reply = backend === 'claude-code' ? await viaClaudeCode(cliPrompt(opts)) : await viaCodex(cliPrompt(opts));
+  const reply = backend === 'claude-code' ? await viaClaudeCode(cliPrompt(opts)) : await viaCodex(cliPrompt(opts), codexModel(backend));
   const parsed = parseJson(reply);
   const pages = new Map<string, Source | null>();
   const out: Partial<Record<IssueId, ResearchedStance>> = {};
