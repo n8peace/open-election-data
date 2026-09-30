@@ -1,0 +1,200 @@
+{
+  "office": "U.S. Representative",
+  "district": "OH District 12",
+  "division": "oh/cd-12",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jerrad Christian",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He says raising the minimum wage is overdue and supports strengthening unions and collective bargaining.",
+          "quote": "Strengthening and protecting unions means defending the right to organize without retaliation, passing real penalties for companies that break labor laws, and repealing policies that weaken collective bargaining.",
+          "sourceUrl": "https://www.christianforohio.com/issues",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He supports protecting and strengthening Social Security by lifting or eliminating the payroll-tax cap rather than cutting benefits.",
+          "quote": "Lifting or eliminating the cap would extend the program’s solvency and strengthen benefits without cutting a dime from retirees.",
+          "sourceUrl": "https://www.christianforohio.com/issues",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He calls for building more homes and reforming exclusionary zoning to allow duplexes and small multifamily housing.",
+          "quote": "Ending the housing crisis starts with building more homes. Reform exclusionary zoning so duplexes and small multifamily units can exist in places that outlaw them.",
+          "sourceUrl": "https://www.christianforohio.com/issues",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He advocates funding public schools according to students’ needs, including in rural and working-class districts.",
+          "quote": "We have to fund schools based on students’ needs, not neighborhood tax bases.",
+          "sourceUrl": "https://www.christianforohio.com/issues",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He calls for Congress to codify expanded reproductive-rights protections.",
+          "quote": "Congress must pass and codify expanded protections for civil rights, reproductive rights, marriage equality, and religious freedom.",
+          "sourceUrl": "https://www.christianforohio.com/issues",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He advocates universal health care and says it would reduce costs and lessen employer control over coverage.",
+          "quote": "Universal healthcare is a non-partisan policy in nearly every other modern country. It is proven to lower costs while removing the middle men who tell us which doctors we can see and which medications we can buy.",
+          "sourceUrl": "https://www.christianforohio.com/issues",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He prioritizes affordable, reliable energy through increased supply, grid upgrades, efficiency, renewables, and nuclear power.",
+          "quote": "The goal is reliability and affordability while keeping our air and water clean.",
+          "sourceUrl": "https://www.christianforohio.com/issues",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He supports automatic registration, early voting, and mail-in voting options, and opposes unnecessary barriers for eligible voters.",
+          "quote": "Protecting democracy means making sure every eligible citizen can cast a ballot without unnecessary barriers and know it will count.",
+          "sourceUrl": "https://www.christianforohio.com/issues",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Troy Balderson",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He voted for the One Big Beautiful Bill Act, which included federal tax cuts.",
+          "quote": "Vote Question: On Motion to Concur in the Senate Amendment One Big Beautiful Bill Act Vote Type: Recorded Vote Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2025190?Page=2",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He voted against the Raise the Wage Act, which would have raised the federal minimum wage.",
+          "quote": "Vote Question: On Passage Raise the Wage Act Vote Type: Recorded Vote Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "He said enacted tax changes expanded 529 accounts to help families choose an education.",
+          "quote": "Expanding 529 savings accounts to help families choose education that best fits their needs",
+          "sourceUrl": "https://balderson.house.gov/news/email/show.aspx?ID=2CEU7RHQECI7PZPVXDBGJ2QXIU",
+          "agreement": "3/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He voted to disapprove a District of Columbia policing and justice reform law.",
+          "quote": "Vote Question: On Passage Disapproving the action of the District of Columbia Council in approving the Comprehensive Policing and Justice Reform Amendment Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2023188",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He voted for the Secure the Border Act.",
+          "quote": "Vote Question: On Passage Secure the Border Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2023209",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "His campaign says it will protect veterans' Second Amendment rights.",
+          "quote": "Protect our veterans’ Second Amendment Rights. Eliminating the woke agenda at the DOD and VA.",
+          "sourceUrl": "https://www.baldersonforcongress.com/issues",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "He voted for the Born-Alive Abortion Survivors Protection Act.",
+          "quote": "Vote Question: On Passage Born-Alive Abortion Survivors Protection Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/202527",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "He voted for the Protection of Women and Girls in Sports Act, which bases athletic eligibility on sex at birth.",
+          "quote": "Vote Question: On Passage Protection of Women and Girls in Sports Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "8/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "He voted against final passage of the MORE Act.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He voted against the American Rescue Plan Act, which expanded public health coverage, including through Medicaid and the ACA.",
+          "quote": "Vote Question: On Passage American Rescue Plan Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/202149?BillNum=1319",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "His campaign supports expanded domestic energy production and opposes policies it says raise consumer costs.",
+          "quote": "Repeal the radical green agenda, which is distorting facts and forcing pain on consumers.",
+          "sourceUrl": "https://www.baldersonforcongress.com/issues",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "He voted for the SAVE Act, which would require documentary proof of citizenship to register for federal elections.",
+          "quote": "Vote Question: On Passage SAVE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2025102",
+          "agreement": "6/10"
+        }
+      }
+    }
+  ],
+  "sources": "christianforohio.com · clerk.house.gov · balderson.house.gov · baldersonforcongress.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

@@ -1,0 +1,270 @@
+{
+  "office": "U.S. Representative",
+  "district": "OH District 13",
+  "division": "oh/cd-13",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Emilia Sykes",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She released an agenda that pairs tax cuts for working families with universal pre-K.",
+          "quote": "Support working families with expanded access to tax cuts and universal pre-K.",
+          "sourceUrl": "https://sykes.house.gov/media/press-releases/rep-sykes-unveils-affordability-agenda-to-address-the-cost-of-living-crisis",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She backed increasing the minimum wage and strengthening workers’ ability to bargain collectively.",
+          "quote": "Increase the minimum wage and ensure workers have a seat at the table.",
+          "sourceUrl": "https://sykes.house.gov/media/press-releases/rep-sykes-unveils-affordability-agenda-to-address-the-cost-of-living-crisis",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Her affordability agenda calls for rolling back Trump tariffs.",
+          "quote": "Restore certainty by rolling back Trump’s tariffs and advancing smarter, durable trade policies.",
+          "sourceUrl": "https://sykes.house.gov/media/press-releases/rep-sykes-unveils-affordability-agenda-to-address-the-cost-of-living-crisis",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She says she will oppose cuts to Medicare, Medicaid, and Social Security.",
+          "quote": "Congresswoman Sykes is firmly committed to protecting and strengthening Medicare, Medicaid, and Social Security, and she will always oppose any cuts to these hard-earned benefits.",
+          "sourceUrl": "https://sykes.house.gov/issues/seniors",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She supported updating zoning and permitting rules to increase home construction.",
+          "quote": "Cut red tape and update permitting and zoning to build four million homes in the next decade.",
+          "sourceUrl": "https://sykes.house.gov/media/press-releases/rep-sykes-unveils-affordability-agenda-to-address-the-cost-of-living-crisis",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "As Ohio House minority leader, she said Democrats would not support a bill that harmed public schools.",
+          "quote": "House Democrats held firm throughout this process that we would not vote for a bill that hurt our public schools.",
+          "sourceUrl": "https://www.ohiohouse.gov/news/democratic/dem-lawmakers-secure-key-priorities-in-latest-school-voucher-fix-101839",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "She opposed H.R. 2 and called for a comprehensive immigration solution that is secure and humane.",
+          "quote": "I strongly support productive efforts to create a secure and humane immigration system.",
+          "sourceUrl": "https://sykes.house.gov/media/press-releases/rep-sykes-denounces-house-passage-hr-2-child-deportation-act",
+          "agreement": "4/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She called for expanded background checks, red-flag laws, and an assault-weapons ban.",
+          "quote": "We can and must pass commonsense gun safety legislation to bolster background checks, implement ‘red flag’ laws to keep guns out of the hands of dangerous individuals, and ban assault weapons.",
+          "sourceUrl": "https://sykes.house.gov/media/press-releases/rep-sykes-congress-must-act-protect-our-communities-gun-violence",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She said she fights to protect the right to choose and keep abortion care available.",
+          "quote": "I fight to protect a woman’s right to choose and ensure abortion care is available to everyone who needs it.",
+          "sourceUrl": "https://sykes.house.gov/media/press-releases/rep-sykes-reaffirms-fight-for-reproductive-freedom-on-roe-v-wade-anniversary",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "She co-sponsored the Equality Act, including protections against discrimination based on gender identity in education.",
+          "quote": "The Equality Act would amend existing civil rights laws to explicitly prohibit discrimination against LGBTQ+ people in employment, housing, public accommodations, education, federally funded programs, credit, and jury service.",
+          "sourceUrl": "https://sykes.house.gov/media/press-releases/rep-sykes-co-leads-equality-act",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports expanding access to Medicaid and Medicare and funding public health services.",
+          "quote": "She is working to lower the cost of prescription drugs, expand access to Medicaid and Medicare, and combat health disparities in our communities.",
+          "sourceUrl": "https://sykes.house.gov/issues/health-care?latest=38",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports combining lower energy costs and job creation with clean-energy investment and climate action.",
+          "quote": "Congresswoman Sykes supports policies that will save Ohioans money on their energy bills, create good-paying jobs, combat the climate crisis, and build a clean energy infrastructure that will support and bolster our economy.",
+          "sourceUrl": "https://sykes.house.gov/issues/energy",
+          "agreement": "6/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She opposed measures she said would create barriers to voter registration and said she would oppose efforts to restrict ballot access.",
+          "quote": "Extreme Republicans continue to attack our freedoms by trying to criminalize abortion nationwide, make it easier for dangerous people to buy guns, and restrict access to the ballot box",
+          "sourceUrl": "https://sykes.house.gov/media/press-releases/rep-sykes-hosts-protecting-our-freedoms-community-conversation-cuyahoga-falls",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Carey Coleman",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He supports pro-growth tax policies and says he will protect families from new taxes while cutting federal spending.",
+          "quote": "He supports reining in out-of-control federal spending, restoring fiscal discipline, and ending wasteful programs that drive inflation.",
+          "sourceUrl": "https://careycoleman.com/issues/",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "He calls for trade policies that protect American workers and for reshoring critical manufacturing and supply chains.",
+          "quote": "He will fight for fair trade policies that protect American workers, expand apprenticeship programs, and create pathways for young people to build stable, high-wage careers without crushing student debt.",
+          "sourceUrl": "https://careycoleman.com/issues/",
+          "agreement": "3/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He supports increased resources for local police and stronger penalties for violent and repeat offenders.",
+          "quote": "He will advocate for increased resources for local police, stronger penalties for violent and repeat offenders, and federal partnerships that help local departments recruit, train, and retain quality officers.",
+          "sourceUrl": "https://careycoleman.com/issues/",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "He supports securing the border to stop the flow of illegal drugs.",
+          "quote": "Carey supports cracking down on fentanyl trafficking and organized crime, securing the border to stop the flow of illegal drugs",
+          "sourceUrl": "https://careycoleman.com/issues/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He says he will defend the Second Amendment and oppose federal mandates that infringe on personal liberty.",
+          "quote": "He will oppose federal mandates that infringe on personal liberty, defend the First and Second Amendments, protect religious freedom, and work to rein in unelected agencies that make rules without accountability.",
+          "sourceUrl": "https://careycoleman.com/issues/",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supports expanding American energy production to lower fuel and utility costs.",
+          "quote": "Carey will fight to unleash American energy production to bring down fuel and utility costs",
+          "sourceUrl": "https://careycoleman.com/issues/",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Sandeep Dixit",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "He opposes asking people who can afford it to pay more taxes to provide relief for working families, and proposes ending federal taxes on Social Security benefits.",
+          "quote": "People who can afford to pay more taxes should do so in order to provide relief for working families. Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/90610/race/30027/election/1452",
+          "agreement": "6/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "His campaign says he would raise the minimum wage so full-time work can cover living costs.",
+          "quote": "Raise the minimum wage so full-time work makes living affordable.",
+          "sourceUrl": "https://www.sandeepdixit.com/issues",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "His campaign proposes teaching STEM and AI in every Ohio public school and opposes cuts to teaching staff and education programs.",
+          "quote": "STEM and science of AI taught in every Ohio public school. Significant investment, $500 million per district, in vocational and skilled trades training.",
+          "sourceUrl": "https://www.sandeepdixit.com/issues",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He opposes sanctuary cities and says he supports strict enforcement of immigration law, with a distinction between civilians and criminals.",
+          "quote": "We are a nation governed by a just rule of law. I support strict enforcement of law. There has to be distinction between enforcing it on civilians vs criminals.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90610/race/30027/election/1452",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He opposes new gun regulations but also opposes rolling back existing regulations, describing education as a way forward.",
+          "quote": "I support the second amendment. I don’t believe any new regulations will solve the issue of gun violence. I also don’t want any of the existing regulations rolled back.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90610/race/30027/election/1452",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He says abortion should be allowed before viability and left to the pregnant woman, her family, and her doctors.",
+          "quote": "Before viability. It should be left to the pregnant woman, her partner, immediate family, and her doctors who understand the emotional, psychological and physical risks.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90610/race/30027/election/1452",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "He says women’s sports should be reserved for people medically identified as female regardless of biological or transition status, with safety decisions for intimate spaces made case by case.",
+          "quote": "I believe women's sports should be reserved for gender medically identified as female, regardless of biological or transition status.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90610/race/30027/election/1452",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He proposes basic health care and prescription drugs through community clinics while allowing private health insurance options.",
+          "quote": "B) My proposal is basic health care for all. Basic healthcare includes primary care including diabetes and blood pressure. Prescription drugs for the basic illnesses shall be made available to all at the Medicare negotiated prices.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90610/race/30027/election/1452",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "He disagreed that people should vote without photo identification and said a driver's license should work.",
+          "quote": "People should be able to vote without photo identification.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90610/race/30027/election/1452",
+          "agreement": "4/10"
+        }
+      }
+    }
+  ],
+  "sources": "sykes.house.gov · ohiohouse.gov · careycoleman.com · ivoterguide.com · sandeepdixit.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
