@@ -1,0 +1,144 @@
+{
+  "office": "U.S. Representative",
+  "district": "OH District 6",
+  "division": "oh/cd-6",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Michael Rulli",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "His campaign says he led the Leetonia school system out of financial crisis without raising taxes.",
+          "quote": "where Michael led the school system out of financial chaos without raising taxes!",
+          "sourceUrl": "https://www.michaelrulli.com/",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "In a Fox News Digital interview, Rulli said the administration’s manufacturing agenda starts with tariffs.",
+          "quote": "We're gonna start building power plants, cracker plants. We're going to put America back on the map with energy. And it's all happening with this agenda that's going right in front of your eyes. And it starts with tariffs.",
+          "sourceUrl": "https://www.foxnews.com/politics/losers-winners-trumps-liberation-day-tariff-plan.amp",
+          "agreement": "3/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "He introduced a bill to stop Social Security garnishments when a beneficiary reports identity theft.",
+          "quote": "Prohibiting the SBA from initiating garnishments upon receipt of an identity theft report.",
+          "sourceUrl": "https://rulli.house.gov/2025/01/31/rulli-bill-protects-seniors-from-wrongful-social-security-garnishment/",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "Rulli was listed as a cosponsor of the Educational Choice for Children Act, which would create tax credits for donations funding K–12 scholarships.",
+          "quote": "H.R. 833: Mr. BAUMGARTNER, Mr. CALVERT, Mr. RULLI, and Ms. LEE of Florida.",
+          "sourceUrl": "https://www.congress.gov/119/crec/2025/03/03/171/40/CREC-2025-03-03-pt1-PgH946-39.pdf",
+          "agreement": "3/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Rulli introduced legislation to direct gambling-excise-tax revenue to ICE enforcement, detention, and deportation operations.",
+          "quote": "ICE needs every resource available to secure our borders and enforce our laws.",
+          "sourceUrl": "https://rulli.house.gov/2025/06/13/rulli-introduces-gambler-act-to-allocate-hundreds-of-millions-to-ice/",
+          "agreement": "4/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He says securing the borders and ending illegal immigration are non-negotiable priorities.",
+          "quote": "Securing our borders and ending illegal immigration are non-negotiable—our people must come first.",
+          "sourceUrl": "https://rulli.house.gov/issues/america-first/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "Rulli was an original cosponsor of a bill to stop federal collection and require destruction of certain firearm-transaction records.",
+          "quote": "To amend title 18, United States Code, to discontinue the collection by the Federal Government of firearm transaction records",
+          "sourceUrl": "https://www.congress.gov/119/bills/hr563/BILLS-119hr563ih.pdf",
+          "agreement": "3/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He supported federal legislation to restrict schools that allow biological males to compete in female sports from receiving federal funding.",
+          "quote": "prohibit federal funding for public K-12 schools and higher education institutions that allow biological males to compete in female sports.",
+          "sourceUrl": "https://rulli.house.gov/2025/01/14/congressman-rulli-stands-up-for-womens-rights-on-house-floor/",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Rulli’s health-care agenda emphasizes consumer pricing transparency, competition and lower costs rather than expanding public coverage.",
+          "quote": "I am fighting for pricing transparency to empower consumers, drive competition, and lower costs across the board.",
+          "sourceUrl": "https://rulli.house.gov/issues/health/",
+          "agreement": "4/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supports expanding domestic oil, natural gas, and coal production, citing energy affordability and reliability.",
+          "quote": "I support policies that expand domestic energy development—including oil, natural gas, and clean coal—ensuring reliable and affordable energy for all Americans.",
+          "sourceUrl": "https://rulli.house.gov/issues/energy/",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "Rulli voted for the Safeguard American Voter Eligibility Act, a bill requiring documentary proof of citizenship for federal voter registration.",
+          "quote": "Vote Question: On Passage Safeguard American Voter Eligibility Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2024345",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Elizabeth Kirtley",
+      "party": "Democratic",
+      "stances": {
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She advocates abolishing ICE and replacing its enforcement with stronger constitutional protections and due process.",
+          "quote": "ICE needs to be abolished. I would enact legislation that not only abolishes ICE.",
+          "sourceUrl": "https://www.ballotready.org/people/elizabeth-kirtley",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She supports the right to choose and says abortion access should not depend on crossing state lines.",
+          "quote": "Our Bodies don’t change as we cross state lines and neither should the laws governing them. This is a choice that is between a woman, her doctor, and her God.",
+          "sourceUrl": "https://www.ballotready.org/people/elizabeth-kirtley",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "michaelrulli.com · foxnews.com · rulli.house.gov · congress.gov · clerk.house.gov · ballotready.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
