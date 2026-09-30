@@ -1,0 +1,262 @@
+{
+  "office": "U.S. Representative",
+  "district": "OR District 4",
+  "division": "or/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Val Hoyle",
+      "party": "Democratic, Working Families",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "She introduced a bill to tax certain financial trades and reinvest the revenue in schools, housing, and infrastructure.",
+          "quote": "This small, targeted tax will raise hundreds of billions from those who can afford it and reinvest it in things that actually help people—like schools, housing, and infrastructure.",
+          "sourceUrl": "https://hoyle.house.gov/media/press-releases/hoyle-schatz-smith-introduce-new-legislation-to-make-wall-street-pay-its-fair-share",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She says she helped increase Oregon’s minimum wage and supports legislation to make union organizing easier.",
+          "quote": "In the Legislature, she fought for paid sick leave, increasing Oregon’s minimum wage, and for the largest increase in public education funding in Oregon history.",
+          "sourceUrl": "https://www.valhoyle.com/issues/",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "She opposed a proposed 50 percent tariff on Canadian wildfire aircraft and parts.",
+          "quote": "Imposing a 50 percent tariff on these aircraft or stripping their certification would either make these planes too expensive to keep under contract or prevent them from flying at all",
+          "sourceUrl": "https://hoyle.house.gov/media/press-releases/rep-hoyle-demands-answers-on-trump-administration-plans-to-decertify-and-tariffs-canadian-aircraft-used-to-fight-wildfires",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She introduced legislation to expand Social Security benefits and supports protecting Social Security and Medicare.",
+          "quote": "The legislation we are introducing today will expand Social Security benefits by $2,400 a year, lift millions of seniors out of poverty and extend the solvency of Social Security for generations to come",
+          "sourceUrl": "https://hoyle.house.gov/media/press-releases/hoyle-sanders-warren-schakowsky-introduce-social-security-expansion-act",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She supports increasing housing supply and has backed federal funding and tax credits for new homes.",
+          "quote": "From workforce housing to high income housing we need to invest in building more homes and apartments to address the extreme shortage of housing at all levels.",
+          "sourceUrl": "https://www.opb.org/article/2024/10/17/val-hoyle-4th-congressional-district/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports protecting public school funding and increasing federal investment in rural, Tribal, and frontier schools.",
+          "quote": "Protect funding for public schools, including Title I and IDEA, funds for low income and special education students",
+          "sourceUrl": "https://www.valhoyle.com/issues/",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "She requested federal funds for police response equipment and community policing projects.",
+          "quote": "Springfield Police Emergency Response Equipment - Springfield, OR - $1,000,000",
+          "sourceUrl": "https://hoyle.house.gov/media/press-releases/us-rep-val-hoyle-requests-over-28-million-in-funding-for-15-local-projects",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She cosponsored legislation to strengthen federal firearm background-check procedures.",
+          "quote": "To amend chapter 44 of title 18, United States Code, to strengthen the background check procedures to be followed before a Federal firearms licensee may transfer a firearm to a person who is not such a licensee.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr3868ih",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She supports restoring nationwide abortion protections and opposes a national abortion ban.",
+          "quote": "I am deeply committed to continue fighting in Congress to restore the national protections of Roe v. Wade and will oppose any national ban on abortions, contraceptives or IVF.",
+          "sourceUrl": "https://www.opb.org/article/2024/10/17/val-hoyle-4th-congressional-district/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "She voted against the House bill that would have based school-sports sex rules on biology and genetics at birth.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512?Title=sports",
+          "agreement": "4/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "She said she would continue the fight for cannabis legalization and cannabis banking access.",
+          "quote": "He has fought tirelessly for cannabis legalization and access to banking, and we will continue that fight.",
+          "sourceUrl": "https://hoyle.house.gov/media/press-releases/congresswoman-hoyles-statement-on-congressman-blumenauers-retirement-announcement",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She said she supports Medicare for All to provide everyone a basic level of health care.",
+          "quote": "I believe that we need Medicare for All, so that everyone has a basic level of health care, that’s important.",
+          "sourceUrl": "https://www.opb.org/article/2024/10/14/think-out-loud-oregon-4th-district-house-val-hoyle-monique-despain-politics/",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She called for moving to green energy quickly and has supported policies to reduce carbon emissions.",
+          "quote": "The fact is, this is a crisis and we have to do everything we can from every single agency, to move to green energy as quickly as possible.",
+          "sourceUrl": "https://www.opb.org/article/2024/10/14/think-out-loud-oregon-4th-district-house-val-hoyle-monique-despain-politics/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She introduced the Vote at Home Act to expand accessible voting options.",
+          "quote": "introduced the Vote at Home Act to provide a new path forward on voting that makes elections more accessible, more secure, and more affordable.",
+          "sourceUrl": "https://hoyle.house.gov/media/press-releases/rep-hoyle-introduces-vote-at-home-act",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Monique DeSpain",
+      "party": "Republican, Libertarian",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She supports increasing housing supply by reducing regulatory barriers and streamlining permitting.",
+          "quote": "I support ending prohibitive and inflationary policies that stifle new construction with excessive permitting costs, building regulations, city and county codes, bureaucratic red tape, and outdated land-use restrictions imposed by the government itself.",
+          "sourceUrl": "https://moniqueforcongress.com/issues/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "She supports providing law enforcement with resources and authority, and opposes federal funding for cities that defund police.",
+          "quote": "I support the rule of law and the men and women of law enforcement and other emergency responders.",
+          "sourceUrl": "https://moniqueforcongress.com/issues/",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports border enforcement and removing dangerous criminals, as well as an earned lawful-status opportunity for some long-settled, noncriminal residents.",
+          "quote": "Indiscriminate mass deportation is neither a realistic nor constructive solution.",
+          "sourceUrl": "https://moniqueforcongress.com/issues/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She opposes a federal abortion ban and says she would protect Oregon’s abortion laws from changes by Congress.",
+          "quote": "I oppose a federal ban on abortion, and I support access to IVF treatments.",
+          "sourceUrl": "https://www.opb.org/article/2024/10/17/monique-despain-oregon-4th-congressional-district-politics-election/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Justin Filip",
+      "party": "Pacific Green, Progressive",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He proposes raising taxes on ultra-wealthy people to generate additional public revenue.",
+          "quote": "Additional revenue would be secured through higher taxation of the ultra-wealthy.",
+          "sourceUrl": "https://www.justin4congress.com/our-platform",
+          "agreement": "6/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He proposes a $25 hourly minimum wage and expanded union rights.",
+          "quote": "A universal minimum wage of $25 per hour shall be enacted, indexed to both inflation and productivity growth, and all sub-minimum wage exemptions shall be eliminated.",
+          "sourceUrl": "https://www.justin4congress.com/our-platform",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He proposes global fair-trade agreements intended to protect workers and communities.",
+          "quote": "global fair trade agreements should be established to protect workers and communities.",
+          "sourceUrl": "https://www.justin4congress.com/our-platform",
+          "agreement": "3/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "He proposes increasing Social Security revenue by removing the high-income contribution cap and taxing capital gains and dividends.",
+          "quote": "the artificial cap on Social Security contributions for high-income earners should be removed, and the Social Security tax extended to capital gains and dividend income.",
+          "sourceUrl": "https://www.justin4congress.com/our-platform",
+          "agreement": "3/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "He supports restorative justice, rehabilitation, and community oversight of policing.",
+          "quote": "We believe in a justice system that prioritizes rehabilitation, accountability, and community safety.",
+          "sourceUrl": "https://www.justin4congress.com/our-platform",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports expanded visas and refugee programs, stronger DACA protections, and a path to citizenship for undocumented immigrants.",
+          "quote": "Refugee programs and visa availability should be significantly expanded, while DACA protections should be strengthened and updated.",
+          "sourceUrl": "https://www.justin4congress.com/our-platform",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He opposes a federal abortion ban and supports codifying reproductive rights in law.",
+          "quote": "No. I believe in women’s reproductive rights and I would support codifying it in law.",
+          "sourceUrl": "https://www.opb.org/article/2024/10/17/justin-filip-oregon-4th-congressional-district-politics-election-congress/",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports a national Medicare for All program and cancellation of outstanding medical debt.",
+          "quote": "A national improved Medicare for All program should be implemented to guarantee universal access to quality care, while all outstanding medical debt should be canceled to relieve financial burdens on patients.",
+          "sourceUrl": "https://www.justin4congress.com/our-platform",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He calls for a climate emergency declaration, a ban on fracking, and a rapid transition to renewable power.",
+          "quote": "A national climate emergency should be declared, establishing the foundation for a Real Green New Deal that prioritizes sustainable development, social equity, and economic resilience.",
+          "sourceUrl": "https://www.justin4congress.com/our-platform",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "hoyle.house.gov · valhoyle.com · opb.org · govinfo.gov · clerk.house.gov · moniqueforcongress.com · justin4congress.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

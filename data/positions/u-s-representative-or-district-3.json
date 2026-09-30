@@ -1,0 +1,151 @@
+{
+  "office": "U.S. Representative",
+  "district": "OR District 3",
+  "division": "or/cd-3",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Maxine E Dexter",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She says she would close corporate tax loopholes and require billionaires to pay more.",
+          "quote": "Close corporate taxation loopholes and ensure billionaires pay their fair share.",
+          "sourceUrl": "https://maxinefororegon.com/issue/economic-opportunity/",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supports raising the federal minimum wage, indexing it to inflation, and protecting workers’ rights to organize and bargain.",
+          "quote": "Increase the federal minimum wage to $15/hour, tie it to inflation and eliminate the lower minimum wage that exists for tipped workers.",
+          "sourceUrl": "https://maxinefororegon.com/issue/economic-opportunity/",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "She voted for a resolution terminating the national emergency used for tariffs on Canadian imports.",
+          "quote": "RELATING TO A NATIONAL EMERGENCY BY THE PRESIDENT ON FEBRUARY 1, 2025",
+          "sourceUrl": "https://www.govinfo.gov/content/pkg/CREC-2026-02-11/pdf/CREC-2026-02-11-house.pdf",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She opposes attempts to privatize or roll back Social Security and Medicare.",
+          "quote": "Fight back any attempt to privatize or roll back Social Security or Medicare.",
+          "sourceUrl": "https://maxinefororegon.com/issue/protecting-social-security-and-medicare/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She supports investments in affordable housing and policies to boost housing production.",
+          "quote": "This year, I also helped lead the passage of another $376 million housing package which will fund homeless shelters, support renters, build critical infrastructure, and boost housing production.",
+          "sourceUrl": "https://maxinefororegon.com/issue/housing-and-homelessness/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports increased funding for public schools and public education programs.",
+          "quote": "I would never have gotten where I am today without a high-quality public education system and affordable higher education.",
+          "sourceUrl": "https://maxinefororegon.com/issue/high-quality-schools/",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "She favors criminal-justice reform that prioritizes treatment and invests in mental and behavioral-health resources.",
+          "quote": "Advocate for comprehensive criminal justice reform, prioritizing effective treatment over punishment.",
+          "sourceUrl": "https://maxinefororegon.com/issue/addiction-and-mental-health/",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She supports expanding DACA and creating a pathway to citizenship for immigrants.",
+          "quote": "We must build an immigration system that guarantees dignity, one that protects and expands DACA and provides a clear pathway to citizenship for hardworking, law-abiding immigrants.",
+          "sourceUrl": "https://maxinefororegon.com/issue/immigration/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports expanding background checks, investing in red flag laws, and reinstating the federal assault weapons ban.",
+          "quote": "Expand federal background checks to prevent prohibited individuals from purchasing guns without adequate scrutiny.",
+          "sourceUrl": "https://maxinefororegon.com/issue/gun-violence-prevention/",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She supports protecting nationwide access to abortion and reproductive health care.",
+          "quote": "Protect access to abortion and reproductive healthcare across our nation through legislative action.",
+          "sourceUrl": "https://maxinefororegon.com/issue/protect-and-expand-reproductive-rights/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "She voted against the Protection of Women and Girls in Sports Act, which would have imposed sex-based restrictions on school sports participation.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512?Title=sports",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports working toward a single-payer health system and expanding Medicare coverage.",
+          "quote": "We must work toward the goal of adopting a single-payer model, and it must include comprehensive behavioral health, vision, dental, and prescription drug coverage.",
+          "sourceUrl": "https://maxinefororegon.com/issue/fight-for-universal-affordable-healthcare/",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She supports transitioning to renewable energy and reducing greenhouse gas emissions.",
+          "quote": "I will champion a swift transition to 100% renewable energy sources to eliminate our reliance on fossil fuels.",
+          "sourceUrl": "https://maxinefororegon.com/issue/fight-climate-change-and-protect-our-environment/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She supports counting timely postmarked ballots and expanding nationwide voting by mail.",
+          "quote": "I also worked to ensure ballots postmarked prior to the end of an election were counted.",
+          "sourceUrl": "https://maxinefororegon.com/issue/voting-rights/",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Loran Ayles",
+      "party": "Republican",
+      "stances": {}
+    }
+  ],
+  "sources": "maxinefororegon.com · govinfo.gov · clerk.house.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

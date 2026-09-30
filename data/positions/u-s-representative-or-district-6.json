@@ -1,0 +1,216 @@
+{
+  "office": "U.S. Representative",
+  "district": "OR District 6",
+  "division": "or/cd-6",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Andrea Salinas",
+      "party": "Democratic, Independent Party of Oregon",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She supports closing tax loopholes for wealthy Americans to help keep Medicare funded.",
+          "quote": "I support proposals to close loopholes that allow the wealthiest Americans to avoid paying their fair share in taxes, which will keep Medicare funded for decades into the future.",
+          "sourceUrl": "https://salinas.house.gov/issues/seniors",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She says she helped raise Oregon’s minimum wage and supports worker protections.",
+          "quote": "In Oregon, Andrea has helped increase the minimum wage and passed paid family and medical leave.",
+          "sourceUrl": "https://andreasalinasfororegon.com/issues/",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports targeted tariffs against unfair or illegal practices but opposes blanket tariffs.",
+          "quote": "Tariffs can be a valuable tool to protect our domestic businesses and workers from unfair and illegal practices by other countries, but they should be used like a scalpel, not a sledgehammer.",
+          "sourceUrl": "https://salinas.house.gov/issues/Creating-a-More-Affordable-Secure%20Oregon",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She says she opposes efforts to undermine Social Security or Medicare and supports protecting and bolstering both programs.",
+          "quote": "I am committed to protecting and bolstering these programs to ensure everyone can enjoy a healthy and financially secure retirement.",
+          "sourceUrl": "https://salinas.house.gov/issues/seniors",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She supported legislation to enable construction of two million affordable homes over a decade.",
+          "quote": "In Congress, Andrea secured federal funding for affordable housing initiatives in Tigard and Newberg and supported legislation that would pave the way for two million affordable homes to be built in the next decade.",
+          "sourceUrl": "https://andreasalinasfororegon.com/issues/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports federal funding for school districts and says she is committed to a strong public education system.",
+          "quote": "I strongly support providing federal funding for school districts throughout the country to provide curriculum that teaches critical thinking and important life skills.",
+          "sourceUrl": "https://salinas.house.gov/issues/education",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports resources for first responders and law enforcement alongside social services to address community needs.",
+          "quote": "She knows creating safer communities means ensuring first responders have the resources they need to do their job effectively, and increasing the supply and accessibility of social services that address the needs of our community.",
+          "sourceUrl": "https://andreasalinasfororegon.com/issues/",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "She supports improving border security while seeking certainty for immigrants already living and contributing in the United States.",
+          "quote": "She is fighting for policies that will increase investment in smart border security, streamline immigration courts, and deliver certainty for the millions of immigrants who already live here, pay taxes, and contribute so much to our communities.",
+          "sourceUrl": "https://andreasalinasfororegon.com/issues/",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports stronger background checks, red flag laws, and restrictions on weapons access for domestic abusers.",
+          "quote": "In Congress, she sponsored legislation to regulate assault weapons and will continue to fight to pass commonsense gun legislation such as strengthening background checks and red flag laws, restricting stalkers and domestic abusers from owning weapons, and holding the gun lobby accountable.",
+          "sourceUrl": "https://andreasalinasfororegon.com/issues/",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She opposes a federal abortion ban and supports restoring federal protections for abortion access.",
+          "quote": "That is why I have supported legislation to restore Roe v. Wade and protect access to abortion, contraception, and other reproductive health care options across America.",
+          "sourceUrl": "https://www.opb.org/article/2024/10/14/andrea-salinas-oregon-cd6-questionnaire/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "She spoke in strong opposition to H.R. 28, a bill that would base school-sports eligibility on reproductive biology and genetics at birth.",
+          "quote": "Ms. SALINAS. Mr. Speaker, I rise today in strong opposition to H.R. 28.",
+          "sourceUrl": "https://www.congress.gov/119/crec/2025/01/14/171/7/CREC-2025-01-14-house.pdf",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports expanding Medicare benefits and allowing Medicare drug-price negotiations.",
+          "quote": "I support proposals to expand Medicare to cover dental, hearing, vision, and mental health care, as well as proposals that allow for drug price negotiations that would reduce the price of life-saving medication.",
+          "sourceUrl": "https://salinas.house.gov/issues/health-care",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She supports urgent climate action and putting Oregon on a path to 100% green energy.",
+          "quote": "Andrea will always stand up to corporate polluters to reduce pollution, protect our air and waterways, and put Oregon on a path to 100% green energy.",
+          "sourceUrl": "https://andreasalinasfororegon.com/issues/",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "She supports expanding voting rights and protections nationally, including the John R. Lewis Voting Rights Act.",
+          "quote": "In Congress, Andrea is working to expand these rights and protections nationally. She supports the John R. Lewis Voting Rights Act and is focusing on restoring protections for voting rights and our democratic institutions to ensure that we continue to build a diverse, inclusive, and representative democracy.",
+          "sourceUrl": "https://andreasalinasfororegon.com/issues/",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "David Russ",
+      "party": "Republican",
+      "stances": {
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "He opposes government-mandated minimum wage increases and proposes requiring some employers to provide more full-time jobs instead.",
+          "quote": "Any good business person knows that when a business is forced to increase costs in one area due to random factors (like increased minimum wage by government) they will take actions to maintain their profit margin",
+          "sourceUrl": "https://russisforus.com/proposed-bills/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "His plan calls for cutting federal agencies and reducing the budget enough to pay off current debt.",
+          "quote": "Budget Reduced Enough to pay off current debt & Reduced Federal Regulations Freeing Businesses to flourish",
+          "sourceUrl": "https://russisforus.com/what-if/",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He proposes requiring federal prosecutors to take a minimum share of cases brought by law enforcement to trial.",
+          "quote": "This legislation would require Federal District Attorneys to take a minimum number of all cases brought to them by Local, State, or Federal law enforcement to trial.",
+          "sourceUrl": "https://russisforus.com/proposed-bills/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He calls for securing the borders and removing people who entered the country without authorization.",
+          "quote": "It is imperative that we immediately secure our borders and remove the invaders.",
+          "sourceUrl": "https://russisforus.com/immigration/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He says he would support state legislation to limit abortions.",
+          "quote": "Finally, as a citizen of the State of Oregon I will support state legislation to limit abortions.",
+          "sourceUrl": "https://russisforus.com/sj-2024p/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He rejects a public entitlement to health care and says he would not trust government to manage national health insurance.",
+          "quote": "It means that I do not believe anyone is entitled to healthcare at someone else’s expense.",
+          "sourceUrl": "https://russisforus.com/sj-2024p/",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He advocates returning to energy independence to lower costs and opposes urgent political action on climate change.",
+          "quote": "Return to Energy Independence = Lower costs of food, hard goods, construction, heating, cooling and transportation",
+          "sourceUrl": "https://russisforus.com/what-if/",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He calls for voter identification and favors in-person voting while opposing unexcused mail voting.",
+          "quote": "Voters must be US Citizens, must be registered to vote and must provide proof of identity to vote. We also need to eliminate machine counting and unexcused mail in-voting.",
+          "sourceUrl": "https://ivoterguide.com/candidate/59448/race/13079/election/1105",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "salinas.house.gov · andreasalinasfororegon.com · opb.org · congress.gov · russisforus.com · ivoterguide.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

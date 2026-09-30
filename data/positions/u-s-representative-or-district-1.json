@@ -1,0 +1,192 @@
+{
+  "office": "U.S. Representative",
+  "district": "OR District 1",
+  "division": "or/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Suzanne Bonamici",
+      "party": "Democratic, Working Families",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She calls for repealing tax cuts for corporations and billionaires and adopting progressive tax policy.",
+          "quote": "We must repeal Trump’s tax cuts and implement progressive rather than regressive tax policy so those at the very top pay their fair share.",
+          "sourceUrl": "https://bonamiciforcongress.com/priorities/economy/",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supports raising the federal minimum wage and strengthening workers’ rights to organize and bargain collectively.",
+          "quote": "I support the rights of labor unions and I’m helping to lead the fight to protect the right of workers to organize.",
+          "sourceUrl": "https://www.bonamiciforcongress.com/priorities/economy/",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She says Social Security and Medicare are earned benefits that must be protected, and opposes privatizing Social Security or ending Medicare as it exists.",
+          "quote": "I will continue to oppose privatizing Social Security and I will fight ending Medicare as we know it.",
+          "sourceUrl": "https://www.bonamiciforcongress.com/priorities/older-americans/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She calls for increasing the supply of affordable housing and supports funding its construction.",
+          "quote": "To solve our housing crisis, we must immediately increase the supply of affordable housing.",
+          "sourceUrl": "https://www.bonamiciforcongress.com/priorities/affordable-housing/",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She proposed repealing the federal school voucher program and restoring support for public schools.",
+          "quote": "Repeal the federal school voucher program, and restore funding and staff to the Department of Education so the federal government can effectively serve all students in all public schools.",
+          "sourceUrl": "https://bonamici.house.gov/media/press-releases/bonamici-unveils-legislative-plan-transform-k-12-education",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "She says it is too difficult for immigrants to become citizens and supports humane immigration reform and due process protections.",
+          "quote": "Dreamers are stuck in limbo, we make it way too hard for immigrants to become citizens, and there aren't enough judges to process asylum claims for people fleeing persecution or violence.",
+          "sourceUrl": "https://bonamiciforcongress.com/priorities/immigration/",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports universal background checks and other gun violence prevention measures.",
+          "quote": "I have consistently supported bipartisan legislation to establish universal background checks, which would help stop criminals from getting weapons they are not legally allowed to purchase.",
+          "sourceUrl": "https://bonamici.house.gov/issues/gun-violence-prevention",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She supports access to reproductive health care, including abortion, and advocates for the Women’s Health Protection Act.",
+          "quote": "I will continue to advocate for the Women’s Health Protection Act until everyone can access the reproductive healthcare they need.",
+          "sourceUrl": "https://bonamici.house.gov/issues/reproductive-rights",
+          "agreement": "5/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "She voted for the MORE Act, which would decriminalize and deschedule cannabis federally.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2020235",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports universal health care and says Medicare for All should be among the options considered.",
+          "quote": "We need affordable, accessible health care for everyone, and all proposals to achieve that, including Medicare for All, must be on the table.",
+          "sourceUrl": "https://www.bonamiciforcongress.com/priorities/health-care/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She supports a transition to clean energy and a climate plan targeting net-zero emissions by mid-century.",
+          "quote": "We focused on meeting the needs of frontline communities, accelerating our transition to a 100 percent clean energy economy, and creating good-paying jobs.",
+          "sourceUrl": "https://bonamici.house.gov/issues/climate-action-plan",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She supports vote by mail and legislation to expand voter participation and voting protections.",
+          "quote": "I have consistently supported legislation to restore voting protections, expand voter participation, and incentivize more states to implement Oregon’s well-established and safe system of vote by mail.",
+          "sourceUrl": "https://www.bonamiciforcongress.com/priorities/votingrights/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Barbara J Kahl",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She opposes targeted wealth taxes and supports lowering small business taxes.",
+          "quote": "cutting red tape, lowering small business taxes, and creating conditions where the next generation of entrepreneurs can thrive.",
+          "sourceUrl": "https://www.streetroots.org/news-stories/2026/05/14/2026-primary-elections-oregons-us-house-race/",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "She said tariffs should be phased in with tax cuts and used to protect American industry.",
+          "quote": "Protect American industry by bringing manufacturing back to the U.S. (the original intent of the tariffs) and allow corporations to grow jobs without forcing families to pay for it.",
+          "sourceUrl": "https://www.portlandciviclab.org/voters-guide/oregon-house-1/barbara-j-kahl",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "She proposed applying recovered federal waste to pay down the federal debt.",
+          "quote": "I’d work to develop an enlarged audit team, applying recovered waste to federal debt paydown, followed by a federal tax-code rebalance to ease the payroll tax burden on small businesses.",
+          "sourceUrl": "https://www.portlandciviclab.org/voters-guide/oregon-house-1/barbara-j-kahl",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "She says she would champion federal school choice legislation and let funding follow students.",
+          "quote": "I will improve K-12 education and champion federal school choice legislation that empowers Oregon families",
+          "sourceUrl": "https://www.drkahlforcongress.com/about",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "She supports funding local law enforcement, paired with accountability.",
+          "quote": "Supporting local law enforcement with funding and accountability — safe streets, real trust.",
+          "sourceUrl": "https://www.drkahlforcongress.com/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "She opposes abolishing ICE, while saying its methods can be reformed.",
+          "quote": "ICE enforces those statutes. Without enforcement, the law is meaningless.",
+          "sourceUrl": "https://www.streetroots.org/news-stories/2026/05/14/2026-primary-elections-oregons-us-house-race/",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "She supported a bill making in-person Election Day voting standard and requiring government identification to vote or request a ballot.",
+          "quote": "Oregon Senate Bill 210 is a forward-thinking reform that modernizes and secures our elections by making in-person voting on Election Day the standard method, while requiring valid government-issued identification to vote or request a ballot.",
+          "sourceUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/PublicTestimonyDocument/172530",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "bonamiciforcongress.com · bonamici.house.gov · clerk.house.gov · streetroots.org · portlandciviclab.org · drkahlforcongress.com · olis.oregonlegislature.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

@@ -1,0 +1,152 @@
+{
+  "office": "U.S. Representative",
+  "district": "OR District 2",
+  "division": "or/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Chris Beck",
+      "party": "Democratic, Independent Party of Oregon",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He proposes changing tax breaks on vacation and luxury homes to finance low-interest loans for first-time rural homebuyers.",
+          "quote": "Adjusting excessive tax breaks on vacation and luxury homes and funneling those savings into programs that provide low-interest financing for first-time rural home buyers.",
+          "sourceUrl": "https://chrisbeckforcongress.com/district2issues",
+          "agreement": "3/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Beck calls for canceling tariffs, which he says are raising costs and harming rural markets.",
+          "quote": "We can start by ending the war and canceling tariffs, but the problem is bigger.",
+          "sourceUrl": "https://chrisbeckforcongress.com/district2issues",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Beck supports adding low-cost housing in existing small-town neighborhoods and Main Street areas.",
+          "quote": "Low-cost housing should be folded into our existing Main Street neighborhoods, not scattered into the outer fringes on our farms and forest resource lands.",
+          "sourceUrl": "https://chrisbeckforcongress.com/district2issues",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Beck proposes phasing in an affordable public care option for all Americans.",
+          "quote": "Phasing in an affordable public care option for all Americans covering the most essential preventive services and treatments.",
+          "sourceUrl": "https://chrisbeckforcongress.com/district2issues",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "Beck calls Vote by Mail one of Oregon’s best policies and says efforts to undermine it must stop.",
+          "quote": "Three of the best policies enacted in Oregon over the last 50 years are the Oregon Health Plan, our statewide land conservation laws (think protecting family farms and forests and revitalizing Main Street districts) and Vote by Mail.",
+          "sourceUrl": "https://chrisbeckforcongress.com/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Cliff Bentz",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He said he would work to lower taxes and oppose a gross-receipts tax.",
+          "quote": "reducing regulations, lowering taxes and supporting President Trump’s policies that make our economy even stronger.",
+          "sourceUrl": "https://cliffbentz.com/2023/06/reduce-regulation-lower-taxes/",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He voted against the Protecting the Right to Organize Act, which would strengthen union organizing rights.",
+          "quote": "Vote Question: On Passage Protecting the Right to Organize Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202170",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He called for stronger border security and a wall, saying immigration reform should begin with stopping illegal entry.",
+          "quote": "I will join President Trump in stopping illegal immigration by improving border security and by building/completing the wall. Of course, we need to address and reform immigration. But any conversation about immigration must start by addressing how we are going to stop those that are coming into the country illegally.",
+          "sourceUrl": "https://cliffbentz.com/2023/06/secure-our-borders/",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He said he supports Second Amendment rights and opposed an Oregon gun-control bill.",
+          "quote": "I have always supported and voted to protect our Second Amendment rights. It doesn’t matter whether you are working on a ranch or strolling through downtown Portland, you have the right to defend yourself.",
+          "sourceUrl": "https://cliffbentz.com/2023/06/the-second-amendment/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He said he opposes abortion except when the mother’s life is at risk.",
+          "quote": "I am a right to life candidate. By “right to life” I mean that I believe that life begins at conception and that life should be protected until death by natural causes occurs. The only exception to the prohibition against abortion that I support is when the life of the mother is at risk.",
+          "sourceUrl": "https://cliffbentz.com/2023/06/life/",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "He voted for the Protection of Women and Girls in Sports Act, which bases Title IX athletics eligibility on reproductive biology and genetics at birth.",
+          "quote": "Vote Question: On Passage Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2025012",
+          "agreement": "5/5"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "strong",
+          "text": "He voted against passage of the MORE Act, which would have legalized and regulated cannabis federally.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He opposed government-run health care and supported market-based reforms, consumer choice, and competition among insurers.",
+          "quote": "I strongly oppose government run healthcare. Estimates show that the democrat’s proposal of a single payer healthcare system would cost over $30 trillion. I believe Obamacare should be replaced with solutions that focus on free market principles to help drive down the skyrocketing cost of healthcare.",
+          "sourceUrl": "https://cliffbentz.com/2023/06/healthcare/",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He opposed cap-and-trade policies, arguing they would raise energy costs for rural and working residents.",
+          "quote": "by so doing saved rural and all working Oregonians from the Democrat’s plan to place control of our energy costs in the hands of those whose primary motive and guiding purpose is to drive up its cost, with no regard to the impact on our economy.",
+          "sourceUrl": "https://cliffbentz.com/2023/06/cap-and-trade/",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "chrisbeckforcongress.com · cliffbentz.com · clerk.house.gov",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
