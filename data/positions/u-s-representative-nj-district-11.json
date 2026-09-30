@@ -1,0 +1,190 @@
+{
+  "office": "U.S. Representative",
+  "district": "NJ District 11",
+  "division": "nj/cd-11",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "ANALILIA MEJIA",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "She proposes taxing billionaires and corporations to fund child care.",
+          "quote": "In Congress, I’ll fairly tax billionaires and corporations — and we’ll use the money to pay for child care for every American.",
+          "sourceUrl": "https://www.analiliafornj.com/economy-for-everyone",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supports raising the federal minimum wage to $25 per hour and passing the PRO Act.",
+          "quote": "Now, with the cost of living rising every day, it’s time to raise the minimum wage at the national level to $25/hour.",
+          "sourceUrl": "https://www.analiliafornj.com/economy-for-everyone",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "She voted against H.R. 1041, which would prohibit the Department of Veterans Affairs from transmitting certain information for use by the federal instant background-check system.",
+          "quote": "Vote Question: On Passage Veterans 2nd Amendment Protection Act Vote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/2026190",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She pledged to protect bodily autonomy and reproductive freedom.",
+          "quote": "I will champion efforts to bar insurrectionists from holding office, protect bodily autonomy and reproductive freedom, and guarantee due process and equal protection for everyone.",
+          "sourceUrl": "https://www.analiliafornj.com/economy-for-everyone",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports Medicare for All with universal coverage and no out-of-pocket costs.",
+          "quote": "Now, healthcare premiums have doubled, and millions more Americans will be kicked off their health insurance. We need Medicare for All, now — no exceptions— with:",
+          "sourceUrl": "https://www.analiliafornj.com/economy-for-everyone",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "JOE HATHAWAY",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He proposes expanding tax credits for families and tax relief for small businesses.",
+          "quote": "Working parents should be able to keep more of what they earn while they’re doing the most important job there is: raising their children.",
+          "sourceUrl": "https://www.joehathawayforcongress.com/platform",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He opposes government-run healthcare and proposes competition, price transparency, and expanded health savings accounts.",
+          "quote": "And we don’t need government-run healthcare to do it. We need common-sense reforms that put families, patients, retirees, and small businesses first.",
+          "sourceUrl": "https://www.joehathawayforcongress.com/platform",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He favors expanding domestic energy supply to lower costs while supporting measures to reduce emissions if energy remains affordable.",
+          "quote": "I will support research, efficiency improvements, and technology that reduces harmful emissions while keeping energy affordable.",
+          "sourceUrl": "https://www.joehathawayforcongress.com/platform",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supports the SAVE America Act and stronger voter ID laws.",
+          "quote": "This is one of those 80-20 rules that most Americans think it is a good idea to have stronger integrity of our elections, stronger voter ID laws.",
+          "sourceUrl": "https://www.pbs.org/video/nj-spotlight-news-april-3-2026-1775226674/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "ALAN B. BOND",
+      "party": "HOPE FOR TOMORROW",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Bond said he would reduce federal tax pressure on middle-income households.",
+          "quote": "My approach is practical: reduce federal tax pressure on middle-income households, protect Social Security and Medicare, lower prescription drug costs through competition, and invest in infrastructure like the Gateway Tunnel that strengthens regional employment.",
+          "sourceUrl": "https://newjerseyglobe.com/congress/independent-alan-bond-responds-to-nj-11-congressional-debate/",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Bond said he supports protecting Social Security and Medicare.",
+          "quote": "My approach is practical: reduce federal tax pressure on middle-income households, protect Social Security and Medicare, lower prescription drug costs through competition, and invest in infrastructure like the Gateway Tunnel that strengthens regional employment.",
+          "sourceUrl": "https://newjerseyglobe.com/congress/independent-alan-bond-responds-to-nj-11-congressional-debate/",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Bond supports law enforcement while also backing prevention, community policing, and criminal justice reform.",
+          "quote": "We need to support law enforcement while also addressing root causes of crime. Alan believes in community policing, criminal justice reform, and programs that reduce recidivism and help people rebuild their lives.",
+          "sourceUrl": "https://patch.com/new-jersey/montclair/third-choice-bond-runs-independent-sherrill-s-seat-nj-11",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Bond supports secure borders and federal enforcement alongside stronger legal immigration processes and a focus on safety and dignity.",
+          "quote": "We need secure borders and a lawful immigration system, but we also need policies that reflect American values. Immigration enforcement should remain a federal responsibility carried out professionally and transparently. Congress should strengthen the legal immigration process, increase immigration court capacity, and ensure enforcement is focused on safety — not fear.",
+          "sourceUrl": "https://newjerseyglobe.com/congress/independent-alan-bond-responds-to-nj-11-congressional-debate/",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "Bond supported safeguards including background checks and safe storage, while affirming the Second Amendment rights of law-abiding gun owners.",
+          "quote": "reasonable safeguards such as background checks, safe storage, and enforcing existing laws can help keep guns out of the hands of criminals",
+          "sourceUrl": "https://ivoterguide.com/candidate/90865/race/33274/election/1478",
+          "agreement": "5/10"
+        },
+        "gender": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He calls the issue complex and favors science-, fairness-, and compassion-based policies protecting women and treating everyone with dignity.",
+          "quote": "Policies should be guided by science, fairness, and compassion while protecting opportunities for women and ensuring that everyone is treated with respect and dignity.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90865/race/33274/election/1478",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Bond supported a public option alongside private coverage and said Medicare and Medicaid should be strengthened.",
+          "quote": "A system that allows a public option while preserving private healthcare choices can increase competition, lower costs, and protect patient choice.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90865/race/33274/election/1478",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "Bond says he supports climate action, green jobs, and renewable-energy and sustainable industries.",
+          "quote": "Alan is committed to clean air and water, climate action, and green jobs.",
+          "sourceUrl": "https://patch.com/new-jersey/montclair/third-choice-bond-runs-independent-sherrill-s-seat-nj-11",
+          "agreement": "3/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "Bond opposed voting without photo identification and supported reasonable ID requirements, while saying IDs should be simple to obtain, accessible, and free.",
+          "quote": "Reasonable identification requirements can help prevent fraud while ensuring elections are secure.",
+          "sourceUrl": "https://ivoterguide.com/candidate/90865/race/33274/election/1478",
+          "agreement": "4/10"
+        }
+      }
+    }
+  ],
+  "sources": "analiliafornj.com · clerk.house.gov · joehathawayforcongress.com · pbs.org · newjerseyglobe.com · patch.com · ivoterguide.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

@@ -1,0 +1,240 @@
+{
+  "office": "U.S. Representative",
+  "district": "NJ District 10",
+  "division": "nj/cd-10",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "LAMONICA R. MCIVER",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She voted against a tax bill, saying it would gut programs that help families.",
+          "quote": "Gutting programs that make food more affordable, healthcare accessible, and life better for families across this country is despicable",
+          "sourceUrl": "https://mciver.house.gov/media/press-releases?PageNum_rs=3",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "As Newark council president, she sponsored a resolution urging higher airport-worker minimum wages and benefits.",
+          "quote": "This Resolution urges The Port Authority of New York and New Jersey to amend its minimum wage policy to increase wages, require health insurance, paid vacation and holidays for airport services workers.",
+          "sourceUrl": "https://newark.legistar.com/LegislationDetail.aspx?G=76B7E664-B393-4911-9914-3B4B31917701&GUID=49F23388-339E-490F-B02F-A11ABD1C5565&ID=6709815&Options=&Search=",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "She voted against a spending bill that she said threatened Social Security.",
+          "quote": "It cuts funding from veterans’ care, threatens Social Security, and its attacks on affordable housing programs could evict 32,000 families from their homes.",
+          "sourceUrl": "https://mciver.house.gov/media/press-releases?PageNum_rs=4",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She said the country needs more housing supply and backed measures to increase affordable housing.",
+          "quote": "Our nation’s housing supply is far below the needs of our population, and I recognize that swift action is necessary",
+          "sourceUrl": "https://mciver.house.gov/issue/housing",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She called for federal support for students, teachers, and public schools, and opposed cuts to school-district funding.",
+          "quote": "I will fight for the resources our students and teachers need to succeed.",
+          "sourceUrl": "https://mciver.house.gov/issue/education",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "She co-chairs the Community Safety Caucus and supports funding community violence intervention programs.",
+          "quote": "genuine safety requires much more than just responding after harm has already occurred. It requires sustained investments in housing, health care, education",
+          "sourceUrl": "https://mciver.house.gov/media/press-releases/rep-summer-lee-leads-community-safety-caucus-in-opposing-trump-administration-power-grab-over-federal-grants",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She said she would fight to protect immigrants and challenged an ICE raid in Newark.",
+          "quote": "I will keep fighting for the protection of immigrants in the 10th District and nationwide.",
+          "sourceUrl": "https://mciver.house.gov/media/press-releases/following-ice-raid-newark-reps-mciver-and-menendez-take-action-0",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She introduced a federal gun-buyback bill to remove unwanted firearms from communities.",
+          "quote": "Today, Rep. LaMonica McIver (NJ-10) introduced a bill to prevent gun violence, remove unwanted firearms from communities nationwide and empower local safety efforts.",
+          "sourceUrl": "https://mciver.house.gov/media/press-releases/mciver-introduces-bill-get-guns-street",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She said she opposes overturning Roe v. Wade and supports safeguarding abortion rights for patients and providers.",
+          "quote": "I firmly oppose the Supreme Court’s decision to overturn Roe v. Wade and turn back reproductive rights in this country",
+          "sourceUrl": "https://mciver.house.gov/issue/reproductive-justice",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "She voted against the Protection of Women and Girls in Sports Act of 2025.",
+          "quote": "Vote Question: On Passage Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She supports legislation to slow climate change and move the country toward clean energy.",
+          "quote": "moving legislation forward to slow the impact of climate change and set us on a course for a clean energy future",
+          "sourceUrl": "https://mciver.house.gov/issue/environment",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "She says she is committed to expanding and protecting voting rights.",
+          "quote": "I am committed to expanding and protecting the right to vote across our country.",
+          "sourceUrl": "https://mciver.house.gov/issue/voting-rights",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "CARMEN BUCCO",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He says taxes are out of control and calls for controlling spending and stopping frivolous spending.",
+          "quote": "We need to control our spending at the state level and stop frivolous spending.",
+          "sourceUrl": "https://carmenbucco.com/issues/",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "In a 2024 candidate survey, he opposed a federal minimum wage higher than New Jersey’s rate.",
+          "quote": "Would you oppose a bill that would set a higher federal minimum wage than New Jersey’s rate? Answer: Yes",
+          "sourceUrl": "https://d3dkdvqff0zqx.cloudfront.net/groups/njgca/attachments/2024%20Candidate%20Survey%20-%20Carmen%20Bucco.pdf",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He opposed tariffs on automotive parts and tires in a 2024 candidate survey.",
+          "quote": "Do you support tariffs on these items? Answer: No",
+          "sourceUrl": "https://d3dkdvqff0zqx.cloudfront.net/groups/njgca/attachments/2024%20Candidate%20Survey%20-%20Carmen%20Bucco.pdf",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "slower growth",
+          "strength": "lean",
+          "text": "He says he would hold the line on overdevelopment to protect homeowners from rising taxes.",
+          "quote": "Holding the line on overdevelopment to protect homeowners from skyrocketing and confusing taxes.",
+          "sourceUrl": "https://carmenbucco.com/bucco-message/",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He strongly agreed with supporting vouchers, tax credits, charter schools, private schools, and home schools.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools.",
+          "sourceUrl": "https://ivoterguide.com/candidate/75937/race/6828/election/1218",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He says law enforcement should be supported and calls for being tough on violent crimes.",
+          "quote": "We must always support our police and first responders and need to be tough on violent crimes while focusing on keeping our communities safe.",
+          "sourceUrl": "https://carmenbucco.com/issues/",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He strongly agreed that the United States should do more to physically secure the southern border.",
+          "quote": "The U.S. should do more to physically secure the southern border.",
+          "sourceUrl": "https://ivoterguide.com/candidate/75937/race/6828/election/1218",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports background checks for criminals and people with mental-health issues while opposing overly broad gun restrictions.",
+          "quote": "This includes background checks to prevent access by criminals or those with mental health issues, while respecting the Second Amendment and personal freedoms.",
+          "sourceUrl": "https://ivoterguide.com/candidate/75937/race/6828/election/1218",
+          "agreement": "5/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He supports federal limits on abortion, including a 20-week ban and a federal heartbeat bill.",
+          "quote": "The federal government should play a role in limiting abortion to protect the sanctity of life.",
+          "sourceUrl": "https://ivoterguide.com/candidate/75937/race/6828/election/1218",
+          "agreement": "7/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He strongly agreed that biological males should not participate in women’s sports or occupy women’s spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/75937/race/6828/election/1218",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He selected government-funded health insurance available to everyone who wants it alongside private options.",
+          "quote": "Healthcare insurance funded by the government should be available for all who want it, along with private healthcare options.",
+          "sourceUrl": "https://ivoterguide.com/candidate/75937/race/6828/election/1218",
+          "agreement": "4/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He supported keeping gasoline-powered vehicles available and opposing a federal ban on fracking in a 2024 candidate survey.",
+          "quote": "Some believe that the technique should be banned by the federal government, a move that would significantly increase the price of oil, gasoline, diesel, heating oil, and natural gas. Would you oppose a federal ban on fracking? Answer: Yes",
+          "sourceUrl": "https://d3dkdvqff0zqx.cloudfront.net/groups/njgca/attachments/2024%20Candidate%20Survey%20-%20Carmen%20Bucco.pdf",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He proposed photo ID, paper ballots, one-day voting, and sharply limited mail ballots.",
+          "quote": "Paper ballots, Voting day is a national holiday, one day voting, must have ID to vote.",
+          "sourceUrl": "https://ivoterguide.com/candidate/75937/race/18524/election/1048",
+          "agreement": "7/10"
+        }
+      }
+    }
+  ],
+  "sources": "mciver.house.gov · newark.legistar.com · clerk.house.gov · carmenbucco.com · d3dkdvqff0zqx.cloudfront.net · ivoterguide.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

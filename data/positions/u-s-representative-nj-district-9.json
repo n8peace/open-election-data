@@ -1,0 +1,230 @@
+{
+  "office": "U.S. Representative",
+  "district": "NJ District 9",
+  "division": "nj/cd-9",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "NELIDA POU",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "She condemned an executive order seeking to end collective-bargaining rights for hundreds of thousands of workers.",
+          "quote": "Congresswoman Nellie Pou (D-NJ-09) today condemned an executive order issued by Donald Trump seeking to end collective bargaining rights for hundreds of thousands of working Americans.",
+          "sourceUrl": "https://pou.house.gov/issues/economy",
+          "agreement": "4/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Pou said she opposed Trump’s tariffs because they raised prices.",
+          "quote": "I’ve also been a strong critic of Trump’s tariffs which raised prices.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198486",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She voted against a budget proposal she said would cut Medicare and called for protecting and expanding Medicare programs.",
+          "quote": "We should be protecting and expanding Medicare and Medicare Advantage -- not cutting it and threatening seniors’ benefits.",
+          "sourceUrl": "https://pou.house.gov/media/newsletters/update-medicare-advantage",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Her campaign says she is committed to building more affordable housing.",
+          "quote": "she is committed to building more affordable housing",
+          "sourceUrl": "https://nelliepoufornewjersey.com/meet-nellie/",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Pou demanded restoration of federal funding cut from public schools in her district.",
+          "quote": "These grants are vitally important to our schools. They help provide basic services including health care, mental health counseling, nutritious food, after school tutoring, academic support, and programs that keep kids safe and engaged.",
+          "sourceUrl": "https://pou.house.gov/media/newsletters/update-huge-cuts-paterson-and-passaic-schools",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Pou said she was fighting to increase funding for police departments.",
+          "quote": "Nellie is fighting to increase funding for police departments and programs that bolster community safety and trust.",
+          "sourceUrl": "https://nelliepoufornewjersey.com/nellies-priorities/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Pou said she supports citizenship pathways for immigrants while also supporting border security.",
+          "quote": "I support lasting reforms which pair border security with pathways to citizenship for immigrants who have contributed positively to our economy and the social fabric of our communities.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198486",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She introduced a bill requiring an electronic, searchable database of firearm transaction records.",
+          "quote": "To amend section 923 of title 18, United States Code, to require an electronic, searchable database of the importation, production, shipment, receipt, sale, or other disposition of firearms.",
+          "sourceUrl": "https://www.congress.gov/119/bills/hr6223/BILLS-119hr6223ih.pdf",
+          "agreement": "3/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Pou said she supported restoring Roe’s protections and had repeatedly voted to codify reproductive rights as a state legislator.",
+          "quote": "As a state legislator, I repeatedly voted to codify reproductive rights. One of the first actions I took in Congress was cosponsoring legislation to restore Roe’s protections.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198486",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "She voted Nay on the House’s Protection of Women and Girls in Sports Act.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Pou said she would seek to expand Medicaid eligibility and services and reverse recent reductions.",
+          "quote": "In the 120th Congress I would also seek to reverse the cruel Medicaid reductions and work requirements and expand eligibility and services.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198486",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Pou said she supports legislation to expand access to low-cost power and help fund home heating and cooling.",
+          "quote": "I am a strong supporter of the Energy Bills Relief Act to expand access to low-cost power and fund home heating and cooling, and require large energy users to pay their fair share.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198486",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She opposed an executive order restricting mail-in ballots and says she is fighting it.",
+          "quote": "President Trump’s actions to destroy this right—from inciting an insurrection to stop the 2020 certification on January 6, threatening to send FBI agents to seize election equipment, to now issuing an executive order to restrict mail-in ballots—have been why I am fighting back.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/race-detail.do?id=68198486",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "ROSIE PINO",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Pino supports cutting taxes for working families and eliminating taxes she considers burdensome.",
+          "quote": "I support President Trump’s efforts to cut taxes for working families, eliminate burdensome taxes, and unleash American energy",
+          "sourceUrl": "https://rosiepinofornj.com/issues/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Pino supports school choice, including charter schools and education savings accounts, with funding following students.",
+          "quote": "I support school choice, including charter schools, education savings accounts, and policies that let funding follow the student",
+          "sourceUrl": "https://rosiepinofornj.com/issues/",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "She supports full federal funding for law enforcement and opposes efforts to defund or weaken police.",
+          "quote": "At the federal level, I support fully funding law enforcement, and I strongly oppose any effort to defund or weaken the police.",
+          "sourceUrl": "https://rosiepinofornj.com/issues/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Pino supports border security and deporting people who are unlawfully present and commit serious crimes.",
+          "quote": "Anyone who commits serious crimes while here unlawfully should be removed.",
+          "sourceUrl": "https://rosiepinofornj.com/issues/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "She says she does not support restrictions on law-abiding citizens’ gun ownership.",
+          "quote": "The Second Amendment is an unalienable right, and I do not support restrictions on law abiding citizens.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92254/race/27216/election/1411",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Pino says abortion should be rare and limited, with exceptions for rape, incest, or risk to the mother’s life.",
+          "quote": "I am proudly pro-life and believe abortion should be rare and limited, with exceptions in cases of rape, incest, or when the life of the mother is at risk.",
+          "sourceUrl": "https://rosiepinofornj.com/issues/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "She agrees that biological males should not participate in women’s sports or occupy women’s spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92254/race/27216/election/1411",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Pino favors competition, price transparency, health savings accounts, and expanded options for private insurance.",
+          "quote": "That means strengthening Health Savings Accounts, allowing insurance to be sold across state lines, and reducing regulations that drive up premiums for families and small businesses.",
+          "sourceUrl": "https://rosiepinofornj.com/issues/",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "She favors an all-of-the-above energy plan that includes natural gas and nuclear power to keep prices down.",
+          "quote": "Natural Gas and Nuclear are the reliable backbone we need to keep the lights on and the prices down.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92254/race/27216/election/1411",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "TERRISA BUKOVINAC",
+      "party": "SAVE OUR BABIES",
+      "stances": {
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Her campaign says she is running to end abortion and calls for a progressive pro-life movement.",
+          "quote": "Resist fascism. End abortion. It’s time for the progressive pro-life revolution.",
+          "sourceUrl": "https://terrisa2026.com/",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "pou.house.gov · onyourballot.vote411.org · nelliepoufornewjersey.com · congress.gov · clerk.house.gov · rosiepinofornj.com · ivoterguide.com · terrisa2026.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}
