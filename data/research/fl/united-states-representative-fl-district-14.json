@@ -5,12 +5,16 @@
   "kind": "candidate",
   "choices": [
     {
+      "name": "Mike Beltran",
+      "party": "REP"
+    },
+    {
       "name": "Kathy Castor",
       "party": "DEM"
     },
     {
-      "name": "Mike Beltran",
-      "party": "REP"
+      "name": "Brian Lambert",
+      "party": "LPF"
     }
   ]
 }

@@ -6,19 +6,23 @@
   "choices": [
     {
       "name": "Jason Crow",
-      "party": "Democratic"
+      "party": "Democratic Party"
     },
     {
       "name": "Jason Clark",
-      "party": "Republican"
+      "party": "Republican Party"
     },
     {
       "name": "Patty McMahon",
-      "party": "Libertarian"
+      "party": "Libertarian Party"
     },
     {
       "name": "Meredith Ryan",
-      "party": "Unity"
+      "party": "Unity Party"
+    },
+    {
+      "name": "Samir Ezzeldin Witta",
+      "party": "Unaffiliated"
     }
   ]
 }

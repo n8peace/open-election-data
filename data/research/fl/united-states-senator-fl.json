@@ -5,16 +5,16 @@
   "kind": "candidate",
   "choices": [
     {
+      "name": "Neil J. Gillespie",
+      "party": "NPA"
+    },
+    {
       "name": "Ashley Moody",
       "party": "REP"
     },
     {
       "name": "Angie Nixon",
       "party": "DEM"
-    },
-    {
-      "name": "Neil J. Gillespie",
-      "party": "NPA"
     }
   ]
 }

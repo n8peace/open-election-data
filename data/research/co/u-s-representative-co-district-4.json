@@ -6,11 +6,15 @@
   "choices": [
     {
       "name": "Lauren Boebert",
-      "party": "Republican"
+      "party": "Republican Party"
     },
     {
       "name": "Eileen Laubacher",
-      "party": "Democratic"
+      "party": "Democratic Party"
+    },
+    {
+      "name": "Douglas Mangeris",
+      "party": "Libertarian Party"
     }
   ]
 }

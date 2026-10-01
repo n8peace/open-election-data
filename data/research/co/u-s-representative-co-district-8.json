@@ -6,11 +6,15 @@
   "choices": [
     {
       "name": "Gabe Evans",
-      "party": "Republican"
+      "party": "Republican Party"
     },
     {
       "name": "Manny Rutinel",
-      "party": "Democratic"
+      "party": "Democratic Party"
+    },
+    {
+      "name": "Dave Wood",
+      "party": "Libertarian Party"
     }
   ]
 }

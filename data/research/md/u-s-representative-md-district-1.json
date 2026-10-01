@@ -1,0 +1,16 @@
+{
+  "office": "U.S. Representative",
+  "district": "MD District 1",
+  "division": "md/cd-1",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Dan Schwartz",
+      "party": "Democratic"
+    },
+    {
+      "name": "Andy Harris",
+      "party": "Republican"
+    }
+  ]
+}

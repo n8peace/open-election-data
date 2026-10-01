@@ -1,0 +1,119 @@
+{
+  "office": "U.S. Representative",
+  "district": "GA District 4",
+  "division": "ga/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Henry \"Hank\" Johnson, Jr.",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Johnson says he voted for the Raise the Wage Act and supports fair wages for workers.",
+          "quote": "Hank led efforts to increase wages by voting for the Raise the Wage Act and co-sponsored critical job-supporting bills",
+          "sourceUrl": "https://hankjohnson.house.gov/issues/economy-and-jobs",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "His official office page says he supports legislation to protect Social Security and expand Medicare assistance.",
+          "quote": "Congressman Hank Johnson is a staunch advocate for seniors, supporting legislation to reduce prescription drug costs and protect Social Security.",
+          "sourceUrl": "https://hankjohnson.house.gov/issues/socialsecurity",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Johnson supports increasing public school funding and equitable funding for under-resourced schools.",
+          "quote": "He is committed to addressing inequalities within the education system, increasing funding for public schools, and making higher education more accessible.",
+          "sourceUrl": "https://hankjohnson.house.gov/issues/education",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Johnson supports DACA, temporary protected status, refugees, and a chance for immigrants to become citizens.",
+          "quote": "He is a staunch supporter of DACA, TPS, refugees and immigrants who come to America for a better life for themselves and their children.",
+          "sourceUrl": "https://hankjohnson.house.gov/issues/immigration",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Johnson supports universal background checks and has backed gun safety legislation, including the Bipartisan Safer Communities Act.",
+          "quote": "Congressman Johnson is a strong supporter of gun reform legislation. He has introduced, cosponsored, and voted for bills that work to end the epidemic of gun violence in America; including the Bipartisan Safer Communities Act.",
+          "sourceUrl": "https://hankjohnson.house.gov/issues/gunviolenceprevention",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He cosponsored the Women’s Health Protection Act of 2021.",
+          "quote": "To protect a person’s ability to determine whether to continue or end a pregnancy, and to protect a health care provider’s ability to provide abortion services.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-117hr3755ih",
+          "agreement": "3/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "He joined as an original cosponsor of legislation to decriminalize and deschedule cannabis.",
+          "quote": "To decriminalize and deschedule cannabis, to provide for reinvestment in certain persons adversely impacted by the War on Drugs, to provide for expungement of certain cannabis offenses, and for other purposes.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-116hr3884ih",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Johnson supports the Affordable Care Act and says he will advocate for a public health insurance option.",
+          "quote": "Looking ahead, he will continue to advocate for a public health insurance option, push for greater consumer protections, and support increased investments in health care research.",
+          "sourceUrl": "https://hankjohnson.house.gov/issues/healthcare",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "Johnson says he supports action on climate change and clean energy, and has advocated for legislation promoting clean energy independence.",
+          "quote": "He remains committed to advancing legislation that protects ecosystems, enhances EPA regulation, and promotes clean energy independence.",
+          "sourceUrl": "https://hankjohnson.house.gov/issues/environment",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He voted for House passage of the For the People Act.",
+          "quote": "Vote Question: On Passage\n\nFor the People Act\n\nVote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/202162",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Jim Duffie",
+      "party": "Republican",
+      "stances": {}
+    }
+  ],
+  "sources": "hankjohnson.house.gov · govinfo.gov · clerk.house.gov",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

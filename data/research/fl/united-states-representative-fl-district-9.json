@@ -5,6 +5,10 @@
   "kind": "candidate",
   "choices": [
     {
+      "name": "Dan Green",
+      "party": "REP"
+    },
+    {
       "name": "Darren Soto",
       "party": "DEM"
     }

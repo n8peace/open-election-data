@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "John H. Rutherford",
-      "party": "REP"
-    },
-    {
       "name": "Rachel Grage",
       "party": "DEM"
+    },
+    {
+      "name": "John H. Rutherford",
+      "party": "REP"
     }
   ]
 }

@@ -5,12 +5,20 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Dwayne Romero",
-      "party": "Democratic"
+      "name": "Dwayne L. Romero",
+      "party": "Democratic Party"
     },
     {
       "name": "Jeff Hurd",
-      "party": "Republican"
+      "party": "Republican Party"
+    },
+    {
+      "name": "Cory Robertson",
+      "party": "Libertarian Party"
+    },
+    {
+      "name": "Clifton Brown",
+      "party": "Unaffiliated"
     }
   ]
 }

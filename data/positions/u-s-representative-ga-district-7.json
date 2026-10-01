@@ -1,0 +1,160 @@
+{
+  "office": "U.S. Representative",
+  "district": "GA District 7",
+  "division": "ga/cd-7",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Tony Kozycki",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Kozycki says he supports raising the federal minimum wage and indexing it to inflation; at a debate, he also answered yes to a $15 minimum wage.",
+          "quote": "Tony supports raising the minimum wage and indexing it so workers do not keep losing ground every year Congress fails to act.",
+          "sourceUrl": "https://www.kozyckiforcongress.com/issues.html",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "At a debate, Kozycki answered no when asked whether he supported the administration’s tariff policies.",
+          "quote": "Do you support the current administration's tariff policies? Kozycki: no",
+          "sourceUrl": "https://accessnorthga.com/news/election-preview-congressional-district-7-democrats-hold-debate-in-forsyth-county",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Kozycki says he would oppose Social Security benefit cuts and supports protecting Medicare.",
+          "quote": "Tony will oppose attempts to cut or privatize Social Security benefits, raise the retirement age, or means-test benefits.",
+          "sourceUrl": "https://www.kozyckiforcongress.com/issues.html",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Kozycki says he would support federal grants and investment to build affordable housing.",
+          "quote": "Tony will fight for federal housing grants and direct investment in affordable housing construction across Georgia, with an emphasis on communities that have been priced out of their own neighborhoods.",
+          "sourceUrl": "https://www.kozyckiforcongress.com/issues.html",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "At a debate, Kozycki answered yes to universal background checks, a federal assault weapons ban, and red flag laws.",
+          "quote": "Universal background checks for gun purchases? Kozycki: yes Long: yes Norton: yes Toweh: yes",
+          "sourceUrl": "https://accessnorthga.com/news/election-preview-congressional-district-7-democrats-hold-debate-in-forsyth-county",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "At a debate, Kozycki answered yes to Medicare for All and Medicaid expansion in Georgia.",
+          "quote": "Medicare for all? Kozycki: yes Long: yes Norton: yes Toweh: yes",
+          "sourceUrl": "https://accessnorthga.com/news/election-preview-congressional-district-7-democrats-hold-debate-in-forsyth-county",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "At a debate, Kozycki said climate change is a national security threat, supported rejoining the Paris Climate Agreement, and opposed natural gas development on federal lands.",
+          "quote": "Supportive of rejoining the Paris Climate Agreement? Kozycki: yes Long: yes Norton: yes Toweh: yes",
+          "sourceUrl": "https://accessnorthga.com/news/election-preview-congressional-district-7-democrats-hold-debate-in-forsyth-county",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "At a debate, Kozycki answered yes to making Election Day a federal holiday.",
+          "quote": "Make election day a federal holiday? Kozycki: yes Long: yes Norton: yes Toweh: yes",
+          "sourceUrl": "https://accessnorthga.com/news/election-preview-congressional-district-7-democrats-hold-debate-in-forsyth-county",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Rich McCormick",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "His campaign says he supports lowering taxes and cutting inflationary spending.",
+          "quote": "Cut inflationary spending, lower taxes, unleash American energy, and reduce the pressure families feel every day.",
+          "sourceUrl": "https://www.richmccormick.us/",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "His campaign says he is fighting deficits and debt that raise costs for families.",
+          "quote": "Rich is fighting inflationary spending, deficits, and debt that make everyday life more expensive for working families.",
+          "sourceUrl": "https://www.richmccormick.us/",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supports building a border wall, enforcing immigration laws, and targeting drug cartels.",
+          "quote": "To secure our nation and to save countless lives, we must finally build a wall on our southern border, enforce our laws, and crush the cartels who prey upon human misery.",
+          "sourceUrl": "https://mccormick.house.gov/issues/immigration-border-security",
+          "agreement": "5/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He says life begins at conception and has cosponsored legislation declaring a right to life for the unborn.",
+          "quote": "Life begins at conception, and I am committed to defending and supporting the unborn, recognizing their inherent dignity and fundamental human rights.",
+          "sourceUrl": "https://mccormick.house.gov/issues/values",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He voted for the Protection of Women and Girls in Sports Act, which would bar federally funded schools from allowing biological males in women’s and girls’ sports.",
+          "quote": "schools receiving federal funding cannot allow biological men to participate in athletic programs or activities that are designed for women and girls.",
+          "sourceUrl": "https://mccormick.house.gov/media/press-releases/congressman-mccormick-voted-pass-hr-28-protection-women-and-girls-sports-act",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "His campaign calls for unleashing American energy as part of reducing household cost pressures.",
+          "quote": "Cut inflationary spending, lower taxes, unleash American energy, and reduce the pressure families feel every day.",
+          "sourceUrl": "https://www.richmccormick.us/",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "A local news report says he sponsored the SAVE Act, which requires a voter’s name on their birth certificate to match their driver’s license.",
+          "quote": "A constituent questioned McCormick’s support of the SAVE Act, which requires a voter’s name on their birth certificate to match their driver’s license.",
+          "sourceUrl": "https://thegeorgiasun.com/government/representing-you/tensions-boil-over-at-rich-mccormicks-town-hall-as-voters-demand-answers/",
+          "agreement": "8/10"
+        }
+      }
+    }
+  ],
+  "sources": "kozyckiforcongress.com · accessnorthga.com · richmccormick.us · mccormick.house.gov · thegeorgiasun.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

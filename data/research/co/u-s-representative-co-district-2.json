@@ -6,7 +6,15 @@
   "choices": [
     {
       "name": "Joe Neguse",
-      "party": "Democratic"
+      "party": "Democratic Party"
+    },
+    {
+      "name": "Kelley Anne Dennison",
+      "party": "Republican Party"
+    },
+    {
+      "name": "Gaylon Kent",
+      "party": "Libertarian Party"
     }
   ]
 }

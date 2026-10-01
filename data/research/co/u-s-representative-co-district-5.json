@@ -6,11 +6,19 @@
   "choices": [
     {
       "name": "Jeff Crank",
-      "party": "Republican"
+      "party": "Republican Party"
     },
     {
       "name": "Jessica Killin",
-      "party": "Democratic"
+      "party": "Democratic Party"
+    },
+    {
+      "name": "Christopher Mitchell",
+      "party": "American Constitution Party"
+    },
+    {
+      "name": "Mark \"Marky Jr\" Elworth",
+      "party": "Libertarian Party"
     }
   ]
 }
