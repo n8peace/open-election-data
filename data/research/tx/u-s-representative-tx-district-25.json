@@ -6,7 +6,11 @@
   "choices": [
     {
       "name": "Roger Williams",
-      "party": "REP"
+      "party": "Republican"
+    },
+    {
+      "name": "Dione Sims",
+      "party": "Democratic"
     }
   ]
 }

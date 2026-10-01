@@ -5,8 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
+      "name": "Steve Toth",
+      "party": "Republican"
+    },
+    {
       "name": "Shaun Finnie",
-      "party": "DEM"
+      "party": "Democratic"
     }
   ]
 }

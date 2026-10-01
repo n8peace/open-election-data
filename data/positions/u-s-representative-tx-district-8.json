@@ -1,0 +1,152 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 8",
+  "division": "tx/cd-8",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jessica Hart Steinmann",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She strongly disagreed that people who can afford higher taxes should pay more to provide relief for working families.",
+          "quote": "People who can afford to pay more taxes should do so in order to provide relief for working families. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/89513/race/23534/election/1343",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "She strongly agreed that the government should cut spending to reduce the national debt.",
+          "quote": "The government should cut spending in order to reduce the national debt. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/89513/race/23534/election/1343",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "She said her public-safety focus would include backing law enforcement and stopping fentanyl trafficking.",
+          "quote": "I will also focus on public safety by backing law enforcement and stopping the flow of fentanyl so families can live and work without fear.",
+          "sourceUrl": "https://cchc-pac.org/answers/2026-March-Races/2026-03-N-US-Rep-Dist-08-Jessica-Hart-Steinmann.pdf",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "She supports finishing the border wall, enforcing immigration laws, and ending catch-and-release.",
+          "quote": "I will fight to finish President Trump’s wall, end catch-and-release, and restore law and order at our southern border.",
+          "sourceUrl": "https://www.jessicasteinmann.com/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "She opposed imposing new restrictions on responsible gun owners and instead emphasized enforcement of existing laws.",
+          "quote": "Law-abiding Americans should not be punished for the actions of criminals. The Constitution protects the right to keep and bear arms, and public safety is best served by enforcing existing laws, prosecuting violent offenders, and addressing mental health, not by imposing new restrictions on responsible gun owners.",
+          "sourceUrl": "https://ivoterguide.com/candidate/89513/race/23534/election/1343",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "She says life begins at conception and laws should protect the unborn.",
+          "quote": "I believe life begins at conception, and our laws should reflect the responsibility to protect the unborn.",
+          "sourceUrl": "https://ivoterguide.com/candidate/89513/race/23534/election/1343",
+          "agreement": "7/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "She supports barring biological males from women’s sports and spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/89513/race/23534/election/1343",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "She said Medicare and Medicaid should remain available but argued for private health care, competition, choice, and against socialized medicine.",
+          "quote": "We must reform Medicare and Medicaid for the people who need them, especially our seniors. However, we need to stop socialized medicine. We want great private healthcare, real competition, lower costs, and choice.",
+          "sourceUrl": "https://ivoterguide.com/candidate/89513/race/23534/election/1343",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "She supports expanding oil and natural gas production and ending restrictions, citing affordable energy and energy independence.",
+          "quote": "Reliable, abundant, and affordable energy is the lifeblood of our economy. Growing up in Houston, where my father worked in the oil and gas industry, I know how critical energy independence is for our state and nation.",
+          "sourceUrl": "https://www.jessicasteinmann.com/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "She strongly disagreed that voters should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/89513/race/23534/election/1343",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Laura Jones",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supports raising the minimum wage and tying it to the cost of living.",
+          "quote": "We should not only raise it, but tie it to the cost of living.",
+          "sourceUrl": "https://www.laura4tx.com/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She supports federally funded reproductive health programs and safe, legal access to abortion.",
+          "quote": "I support federally funded programs like Title X and Medicaid for low-income individuals and protecting the right to choose with safe, legal access to abortion services.",
+          "sourceUrl": "https://irp.cdn-website.com/af2f04f7/files/uploaded/2024_LWV_GeneralElectionVG_DIGITAL-13ea99cf.pdf",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports expanding Medicare for All to guarantee health care for everyone.",
+          "quote": "The only real way to bring down costs is to guarantee care for everyone by expanding and improving Medicare for All.",
+          "sourceUrl": "https://www.laura4tx.com/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She supports renewable energy investment and stricter emissions regulations.",
+          "quote": "I advocate for stricter emissions regulations, improved disaster response and preparedness, and funding for climate resilience projects.",
+          "sourceUrl": "https://irp.cdn-website.com/af2f04f7/files/uploaded/2024_LWV_GeneralElectionVG_DIGITAL-13ea99cf.pdf",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "ivoterguide.com · cchc-pac.org · jessicasteinmann.com · laura4tx.com · irp.cdn-website.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

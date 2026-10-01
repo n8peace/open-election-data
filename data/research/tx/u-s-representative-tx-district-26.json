@@ -1,20 +1,20 @@
 {
   "office": "U.S. Representative",
-  "district": "TX District 38",
-  "division": "tx/cd-38",
+  "district": "TX District 26",
+  "division": "tx/cd-26",
   "kind": "candidate",
   "choices": [
     {
-      "name": "Jon Bonck",
+      "name": "Brandon Gill",
       "party": "Republican"
     },
     {
-      "name": "Melissa McDonough",
+      "name": "Steven Shook",
       "party": "Democratic"
     },
     {
-      "name": "Alex McMenemy",
-      "party": "Green"
+      "name": "Phil Gray",
+      "party": "Libertarian"
     }
   ]
 }

@@ -5,12 +5,16 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "KATY PADILLA STOUT",
-      "party": "DEM"
+      "name": "Brandon Herrera",
+      "party": "Republican"
     },
     {
-      "name": "BEN MENDOZA",
-      "party": "IND"
+      "name": "Katy Padilla Stout",
+      "party": "Democratic"
+    },
+    {
+      "name": "Ben Mendoza",
+      "party": "Independent"
     }
   ]
 }

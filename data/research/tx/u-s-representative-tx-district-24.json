@@ -1,15 +1,15 @@
 {
   "office": "U.S. Representative",
-  "district": "TX District 3",
-  "division": "tx/cd-3",
+  "district": "TX District 24",
+  "division": "tx/cd-24",
   "kind": "candidate",
   "choices": [
     {
-      "name": "Keith Self",
+      "name": "Beth Van Duyne",
       "party": "Republican"
     },
     {
-      "name": "Evan Hunt",
+      "name": "Kevin Burge",
       "party": "Democratic"
     }
   ]

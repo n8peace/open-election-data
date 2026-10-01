@@ -1,0 +1,184 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 14",
+  "division": "tx/cd-14",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Randy Weber",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He voted for the One Big Beautiful Bill and praised its tax cuts for families.",
+          "quote": "The One Big Beautiful Bill delivers the largest tax cuts for families in a generation.",
+          "sourceUrl": "https://weber.house.gov/news/documentsingle.aspx?DocumentID=3362",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He voted against the Raise the Wage Act, which passed the House in 2019.",
+          "quote": "Raise the Wage Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "6/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "He praised the 2025 tariffs as a way to protect American workers and businesses.",
+          "quote": "the United States will see fair trade as President Trump announced tariffs that level the playing field for American workers and businesses.",
+          "sourceUrl": "https://weber.house.gov/news/email/show.aspx?ID=XNNJJK3JNBZHY",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He endorsed expanding school choice and supported a federal tax credit for K–12 scholarships.",
+          "quote": "School choice works when parents are trusted, students have options, and classrooms focus on learning.",
+          "sourceUrl": "https://weber.house.gov/news/email/show.aspx?ID=6T4QER7YJTERM",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "He introduced a bill to let law enforcement officers and trained civilians carry firearms in school zones.",
+          "quote": "Would allow for retired law enforcement officers authorized under federal law to carry firearms to do so in a school zone",
+          "sourceUrl": "https://weber.house.gov/news/email/show.aspx?ID=HW2NGT4XZ4WVK",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supported bills to strengthen ICE authority and increase penalties for deported felons who return illegally.",
+          "quote": "Kate’s Law establishes that deported felons who return to the U.S. see enhanced penalties upon returning illegally.",
+          "sourceUrl": "https://weber.house.gov/news/documentsingle.aspx?DocumentID=272",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He voted against the Bipartisan Safer Communities Act and opposed its new restrictions on gun ownership.",
+          "quote": "you don’t restrict law-abiding citizens from protecting themselves with the weapons of their choice",
+          "sourceUrl": "https://weber.house.gov/news/documentsingle.aspx?DocumentID=1335",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He voted against bills expanding abortion access and said he would continue to oppose them.",
+          "quote": "Today, I voted against House Democrats' \"Abortion on Demand Until Birth Act\" and \"Ensuring Access to Abortion Act.\"",
+          "sourceUrl": "https://weber.house.gov/news/email/show.aspx?ID=GKZYR5TW676T4",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He supported legislation requiring sex in school athletics to be defined by reproductive biology and genetics at birth.",
+          "quote": "sex shall be recognized based solely on a person's reproductive biology and genetics at birth.",
+          "sourceUrl": "https://weber.house.gov/news/email/show.aspx?ID=PM6STKC6IDPH6",
+          "agreement": "8/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "He voted No on final passage of the MORE Act.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He called for dismantling and defunding the Affordable Care Act, saying government should not control the health care system.",
+          "quote": "The government has no business controlling the healthcare system.",
+          "sourceUrl": "https://weber.house.gov/news/documentsingle.aspx?DocumentID=78",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supported expanding domestic energy production and opposed restrictions he said could raise costs and threaten jobs.",
+          "quote": "I will continue to fight against this ban and urge the President to reverse course",
+          "sourceUrl": "https://weber.house.gov/news/email/show.aspx?ID=AOBY3BCARZ3Z2",
+          "agreement": "6/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supported requiring proof of citizenship to register, photo ID to vote, and stronger voter-roll checks.",
+          "quote": "Requiring proof of U.S. citizenship when registering to vote in federal elections.",
+          "sourceUrl": "https://weber.house.gov/news/email/show.aspx?ID=ZETXC2DO2YPWA",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Thurman Bill Bartie",
+      "party": "Democratic",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He said he would roll back tariffs because they have raised prices.",
+          "quote": "To build affordability in this economy, we need policy that will roll back tariffs which have raised prices",
+          "sourceUrl": "https://votebartie.org/where",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He called for clearing barriers to build more affordable housing.",
+          "quote": "prices, clearing barriers to build more affordable housing.",
+          "sourceUrl": "https://votebartie.org/where",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He supports investing in teachers and classrooms and says a strong public education system builds future leaders.",
+          "quote": "A strong public education system builds the next generation of leaders.",
+          "sourceUrl": "https://votebartie.org/where",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports law enforcement as well as mental health support and opportunity as parts of community safety.",
+          "quote": "I support law enforcement, and I believe true safety requires stability, mental health support, and opportunity.",
+          "sourceUrl": "https://votebartie.org/where",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "He criticized mass deportation and said he would pursue humane immigration reform.",
+          "quote": "The homeland security budget for ICE is $70 Billion dealing with mass deportation. It has resulted in major uproars in our cities and has led to loss of human life. I would push for Immigration reform that is humane in our present environment.",
+          "sourceUrl": "https://votebartie.org/where",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "weber.house.gov · clerk.house.gov · votebartie.org",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}
