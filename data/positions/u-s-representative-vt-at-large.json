@@ -1,0 +1,335 @@
+{
+  "office": "U.S. Representative",
+  "district": "VT At-large",
+  "division": "vt/cd-at-large",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Adam Ortiz",
+      "party": "Independent",
+      "stances": {
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He disagreed with a statement supporting school choice, including vouchers, and questioned the value of scholarships instead of building schools.",
+          "quote": "Free is the most expensive. Why give money and have no say so.",
+          "sourceUrl": "https://ivoterguide.com/candidate/74428/race/5226/election/1252",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supported securing the southern border while also calling for streamlined work visas and protections for farmworkers.",
+          "quote": "I worked farms and the work Visa system needs to be streamlined and direct deposit be required. Not paying people for work is called what?",
+          "sourceUrl": "https://ivoterguide.com/candidate/74428/race/5226/election/1252",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He said elective abortion should be allowed only if the baby is stillborn.",
+          "quote": "If the baby is still born. The loss of a wanted child is traumatic for someone who wants to be a mom.",
+          "sourceUrl": "https://ivoterguide.com/candidate/74428/race/5226/election/1252",
+          "agreement": "6/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "He opposed excluding biological males from women's sports and spaces and said public bathrooms should be open to everyone.",
+          "quote": "I will make public bathrooms and same as everywhere else it will be an everybody bathroom.",
+          "sourceUrl": "https://ivoterguide.com/candidate/74428/race/5226/election/1252",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He strongly agreed that human-caused climate change requires urgent action and said environmental issues need to be addressed.",
+          "quote": "Environmental issues are connected and will need to be addressed by people who hate each other.",
+          "sourceUrl": "https://ivoterguide.com/candidate/74428/race/5226/election/1252",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He strongly disagreed that people should be able to vote without photo identification and argued that obtaining ID should not prevent voting.",
+          "quote": "those that smoke or drink can find a way to get photo ID voting shouldn't be out of the question",
+          "sourceUrl": "https://ivoterguide.com/candidate/74428/race/5226/election/1252",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Becca Balint",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She voted against a budget that paired tax cuts for wealthy people and corporations with cuts to Medicaid and food assistance.",
+          "quote": "This resolution gives more than $4.5 trillion in tax breaks to billionaire donors and big corporations.",
+          "sourceUrl": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=414",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "As a Vermont state senator, she co-sponsored legislation to raise the state minimum wage to $15 per hour by 2024.",
+          "quote": "our bill would bring it up to $15 per hour by 2024.",
+          "sourceUrl": "https://www.commonsnews.org/issue/501/Its-not-true-that-what-were-asking-for-is-audacious",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "She introduced an amendment to prevent consideration of legislation that would cut Social Security benefits, raise the retirement age, or privatize Social Security.",
+          "quote": "The second would prevent the House of Representatives from considering legislation that would cut Social Security benefits, increase the retirement age, or privatize Social Security.",
+          "sourceUrl": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=420",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She introduced the Community Housing Act, which funds affordable housing, renter protections, down payment assistance, and new construction.",
+          "quote": "This comprehensive legislation invests over 500 billion dollars in affordable housing, renter protections, down payment assistance, and new construction.",
+          "sourceUrl": "https://beccabalint.com/issues/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She criticized a bill she said would burden schools and families and threaten school funding.",
+          "quote": "And I have to ask: what about book banning is about protecting freedom? What about defunding schools is about protecting kids.",
+          "sourceUrl": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=52",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "She called for due process and protection for a Vermont resident detained by ICE while his asylum appeal was considered.",
+          "quote": "People like Pastor Tendo are exactly who our asylum system is meant to protect. We join together with many Vermonters in calling on the Trump administration to ensure Pastor Tendo is allowed to return to Vermont and that he is immediately afforded full due process, including the right to contact his attorney while his appeal is considered.",
+          "sourceUrl": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=655",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports expanding background checks and cosponsored the Bipartisan Background Checks Act and Assault Weapons Ban.",
+          "quote": "She is an original cosponsor of common sense reform like the Bipartisan Background Checks Act and the Assault Weapons Ban.",
+          "sourceUrl": "https://beccabalint.com/issues/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She supports codifying abortion rights and cosponsored the Women’s Health Protection Act.",
+          "quote": "In Congress, Becca is an original cosponsor of the Women’s Health Protection Act to federally protect abortion access.",
+          "sourceUrl": "https://beccabalint.com/issues/",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "She spoke in opposition to a bill restricting transgender students’ participation in sports.",
+          "quote": "Thank you, Mr. Speaker. I rise in fierce opposition to this bill. Trans Americans are not the problem.",
+          "sourceUrl": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=386",
+          "agreement": "5/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "At a public discussion, she said legalization was coming, supported getting its taxation right, and said she did not fear legalizing cannabis.",
+          "quote": "Legalization is coming - it is,” she said. “So let's get the taxation right.",
+          "sourceUrl": "https://www.commonsnews.org/issue/527/An-industry-takes-root",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports the Medicare for All Act and says health care should be accessible to everyone.",
+          "quote": "That’s why Becca is a proud supporter of the Medicare for All Act, transformative legislation that would provide affordable healthcare to millions of Americans.",
+          "sourceUrl": "https://balint.house.gov/issues/issue/?IssueID=14939",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She cosponsored the Green New Deal to address climate change and transition to a clean energy economy.",
+          "quote": "In Congress, Becca is an original cosponsor of the Green New Deal to provide Vermont with the funding we need to create and sustain good-paying green jobs, combat the climate crisis, fight environmental injustice, and transition our state and our country to a clean energy economy.",
+          "sourceUrl": "https://beccabalint.com/issues/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She cosponsored the Freedom to Vote Act and John Lewis Voting Rights Act to expand access to voting.",
+          "quote": "As a member of the House Judiciary Committee, Becca is an original cosponsor of the Freedom to Vote Act, the John Lewis Voting Rights Act, and other legislation to make voting more accessible for everyone.",
+          "sourceUrl": "https://beccabalint.com/issues/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Gerald Malloy",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He opposes tax increases on Vermont families and supports keeping middle-income tax relief.",
+          "quote": "The top 1% of earners pay 40-45% of federal income tax, and the 2017 TCJA as extended has lowered taxes for middle income Americans, per the IRS.",
+          "sourceUrl": "https://ivoterguide.com/candidate/70719/race/29413/election/1438",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He opposes tariffs on Canada and says disputes should be resolved without raising costs.",
+          "quote": "No. Canada is our neighbor and an important partner for Vermont. We should stay at the negotiating table, resolve disputes, and avoid raising costs for Vermont families and businesses.",
+          "sourceUrl": "https://www.deploymalloy.com/landing/qanda/",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says he wants balanced budgets while protecting Social Security and Medicare benefits from cuts.",
+          "quote": "Protect and strengthen Social Security and Medicare—without cutting benefits",
+          "sourceUrl": "https://www.deploymalloy.com/landing/positions/",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He said Vermont should change land-use and development rules so builders invest in starter homes and other housing.",
+          "quote": "Vermont must decide to make changes related to land use and development, and to infrastructure development so that builders will decide to invest in building starter homes and other housing.",
+          "sourceUrl": "https://vermontdailychronicle.com/primary-questionnaire-gerald-malloy-gop-u-s-senate/",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He supports school choice and giving parents and local school boards more say in education decisions.",
+          "quote": "Empower parents and local school boards to make decisions\n* Support school choice and accountability\n* Refocus funding on improving outcomes—not expanding bureaucracy",
+          "sourceUrl": "https://www.deploymalloy.com/landing/positions/",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He says public safety should include securing borders and supporting law enforcement.",
+          "quote": "Improve public safety by securing our borders, supporting law enforcement, and ensuring our communities remain safe while protecting constitutional rights.",
+          "sourceUrl": "https://www.deploymalloy.com/landing/qanda/",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports enforcing immigration laws and prioritizing violent criminals for removal, while also backing a faster legal immigration system and opposing deportation of every undocumented person.",
+          "quote": "We must first secure the border and enforce existing immigration laws. Individuals who have committed violent crimes should be prioritized for removal.",
+          "sourceUrl": "https://www.deploymalloy.com/landing/qanda/",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He says human life deserves legal protection from conception and has supported returning abortion policy to the states.",
+          "quote": "Human life deserves legal protection from conception until natural death.",
+          "sourceUrl": "https://ivoterguide.com/candidate/70719/race/29413/election/1438",
+          "agreement": "5/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He agrees that biological males should not participate in women’s sports or occupy women’s spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces",
+          "sourceUrl": "https://ivoterguide.com/candidate/70719/race/29413/election/1438",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supports lower energy costs and opposes costly mandates, while also backing practical emissions-reduction solutions.",
+          "quote": "Innovation, cleaner technologies, responsible forestry, and American-made energy solutions can reduce emissions without placing excessive costs on working families or driving jobs overseas.",
+          "sourceUrl": "https://www.deploymalloy.com/landing/qanda/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supports requiring photo identification to vote.",
+          "quote": "I am in favor of photo ID, as are the overwhelming majority of Americans.",
+          "sourceUrl": "https://ivoterguide.com/candidate/70719/race/29413/election/1438",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Phoenix K. Altair",
+      "party": "Independent",
+      "stances": {}
+    },
+    {
+      "name": "Ryan P. Walton",
+      "party": "Independent",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "His campaign describes building and restoring homes as practical work to address Vermont’s housing shortage.",
+          "quote": "The practical work of restoring buildings, creating homes, managing properties and confronting Vermont’s housing shortage from the ground rather than from a press release.",
+          "sourceUrl": "https://www.waltonforvermont.com/",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He says the transition to cleaner energy should preserve affordability for Vermonters.",
+          "quote": "The transition to cleaner energy must improve life in Vermont—not make housing, transportation, construction, and heat unaffordable for the people already struggling to remain here.",
+          "sourceUrl": "https://www.waltonforvermont.com/vermont",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Suzanne \"Suz\" Seymour",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She said she would oppose fraud and abuse of federal tax dollars to reduce the federal tax burden on working Vermonters.",
+          "quote": "I will take a stand against fraud and abuse of federal tax dollars to minimize the federal tax burden on working Vermonters",
+          "sourceUrl": "https://ruokvt.com/issues/",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She said she would work to maintain Social Security for retirees now and in the future.",
+          "quote": "maintain social security for retirees now and in the future.",
+          "sourceUrl": "https://ruokvt.com/issues/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "ivoterguide.com · balint.house.gov · commonsnews.org · beccabalint.com · deploymalloy.com · vermontdailychronicle.com · waltonforvermont.com · ruokvt.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}
