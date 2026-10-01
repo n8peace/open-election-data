@@ -1,0 +1,80 @@
+{
+  "office": "United States Senator",
+  "district": "DC",
+  "division": "dc/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Robert Simmons",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He says he would support tax relief for D.C. residents and businesses to encourage economic growth.",
+          "quote": "D.C. needs policies that foster entrepreneurship, reduce overregulation, and provide tax relief to encourage business growth.",
+          "sourceUrl": "https://robert4senate.com/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He supports parental choice and says he would advocate for school choice programs while improving local education funding.",
+          "quote": "I believe in parental choice and the right to choose the best education for our children. I will advocate for school choice programs, improve local education funding, and work to make D.C.'s schools more competitive.",
+          "sourceUrl": "https://robert4senate.com/",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Simmons says he stands with law-enforcement officers and supports strong public-safety policies.",
+          "quote": "I stand with our law enforcement officers and believe in strong policies that protect our neighborhoods.",
+          "sourceUrl": "https://robert4senate.com/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "Paul Strauss",
+      "party": "Democrat",
+      "stances": {
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He opposed D.C. vouchers and urged federal education funds to support public schools.",
+          "quote": "I urge that those funds be pumped into the public schools where they will be most beneficial, and in that regard I appreciate the committee’s mark for Public and Charter School improvements.",
+          "sourceUrl": "https://www.govinfo.gov/link/crec/149/S/12165",
+          "agreement": "3/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He favors community-based policing and opposes federal troop patrols, while saying police need more officers and resources.",
+          "quote": "Community-based policing is the most effective kind of policing. You need officers that understand the community. You need officers that are trusted by the community.",
+          "sourceUrl": "https://www.scrippsnews.com/us-news/trumps-dc-police-maneuver-contradicted-by-crime-statistics",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "robert4senate.com · govinfo.gov · scrippsnews.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

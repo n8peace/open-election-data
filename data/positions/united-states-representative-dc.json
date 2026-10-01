@@ -1,0 +1,50 @@
+{
+  "office": "United States Representative",
+  "district": "DC",
+  "division": "dc/cd-at-large",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Franklin Garcia",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "Garcia said he would advocate for higher workers’ wages and worker rights.",
+          "quote": "Garcia will advocate for raising workers’ wages, protecting worker rights, protecting retirement security",
+          "sourceUrl": "https://static1.squarespace.com/static/5ed9d8d1b002bc049da939c5/t/5f9b3619fcc50340c2650928/1604007449780/Guide%2BTo%2BVote%2BDC.pdf",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Garcia said he supports rent-control legislation and relaxing rules that impede buyers and tenants from getting homes.",
+          "quote": "Garcia supports and will push for more rent control legislation. He also will support relaxing rules and regulations that make it difficult for buyers and tenants to get into homes.",
+          "sourceUrl": "https://static1.squarespace.com/static/5ed9d8d1b002bc049da939c5/t/5f9b3619fcc50340c2650928/1604007449780/Guide%2BTo%2BVote%2BDC.pdf",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "static1.squarespace.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}
