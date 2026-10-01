@@ -1,0 +1,168 @@
+{
+  "office": "U.S. Representative",
+  "district": "IL District 15",
+  "division": "il/cd-15",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jennifer Todd",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supports fair wages tied to the cost of living and protecting workers’ right to organize and join unions.",
+          "quote": "I will fight for fair wages that reflect the true cost of living and ensure that work is enough to support a family.",
+          "sourceUrl": "https://www.jentodd2026.us/issues",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports fully funding public schools and increasing teacher pay.",
+          "quote": "I will fight to fully fund our public schools and increase teacher pay so we can recruit and retain the educators our students deserve.",
+          "sourceUrl": "https://www.jentodd2026.us/issues",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "She supports personal health care decisions without government interference, though this statement does not specifically mention abortion.",
+          "quote": "Every family deserves equal treatment under the law, safe schools for their children, and the freedom to make personal healthcare decisions without government interference.",
+          "sourceUrl": "https://www.jentodd2026.us/issues",
+          "agreement": "3/10"
+        }
+      }
+    },
+    {
+      "name": "Mary E. Miller",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "She criticized an Illinois budget for raising taxes to fund health care and other services for undocumented residents.",
+          "quote": "Governor Pritzker just signed a budget that raises taxes in order to give illegal immigrants $400 million of \"free\" healthcare and $182 million in handouts, all paid for by hardworking Illinois families.",
+          "sourceUrl": "https://marymiller.house.gov/media/press-releases/rep-mary-miller-gov-pritzkers-budget-forces-illinois-families-foot-bill",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "In a candidate questionnaire, she disagreed that government should ensure everyone has a livable income.",
+          "quote": "It is the government’s responsibility to ensure everyone has a livable income. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/49255/race/1356/election/764",
+          "agreement": "3/10"
+        },
+        "debt": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She said she would protect Social Security for people near retirement while supporting balanced reforms to preserve the program and limit burdens on future generations.",
+          "quote": "I believe that it doesn’t have to be an either/or situation. With smart, balanced reforms to our social security programs we can save this program that so many Americans rely on.",
+          "sourceUrl": "https://ivoterguide.com/candidate/49255/race/1356/election/764",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Her official House biography says she advocates school choice in education policy.",
+          "quote": "Miller advocates for parental rights, school choice, and an education system that puts students, not bureaucrats, first.",
+          "sourceUrl": "https://marymiller.house.gov/about",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "She strongly supported requiring and enforcing mandatory minimum sentences for violent crimes.",
+          "quote": "Mandatory minimum sentencing should be required and enforced for violent crimes. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/49255/race/1356/election/764",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "She called on Illinois sheriffs to cooperate with ICE and support deportation efforts.",
+          "quote": "Today, Congresswoman Mary Miller (IL-15) called on Illinois sheriffs to defy Governor J.B. Pritzker’s state sanctuary laws, uphold President Trump’s federal immigration policies, and cooperate with ICE to deport illegal aliens.",
+          "sourceUrl": "https://marymiller.house.gov/media/press-releases/rep-mary-miller-calls-illinois-county-sheriffs-defy-sanctuary-law",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "She said she would oppose new restrictions on gun owners and favored enforcing existing laws instead.",
+          "quote": "I believe the best way to curb violence is to enforce existing laws instead of enacting more laws that only serve to undermine the rights of honest citizens.",
+          "sourceUrl": "https://ivoterguide.com/candidate/49255/race/1356/election/764",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "She said abortion should not be allowed under any circumstances.",
+          "quote": "Under what circumstances should abortion be allowed? Abortion should not be allowed under any circumstances.",
+          "sourceUrl": "https://ivoterguide.com/candidate/49255/race/1356/election/764",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "She introduced legislation to prevent K–12 schools from concealing or supporting a student’s adoption of an identity that does not align with their biological sex.",
+          "quote": "This bill prohibits K–12 schools from concealing or supporting a student’s adoption of an identity that does not align with their biological sex.",
+          "sourceUrl": "https://marymiller.house.gov/media/press-releases/rep-miller-senator-banks-cotton-introduces-bill-protect-children-united-states",
+          "agreement": "7/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "strong",
+          "text": "She said she opposed legalizing recreational marijuana.",
+          "quote": "I support the legalization of recreational marijuana. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/49255/race/1356/election/764",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "She said competition, innovation, and expanded market choices would improve health care and lower costs.",
+          "quote": "Competition, innovation, and expanded market choices will improve quality and lower costs for all Americans.",
+          "sourceUrl": "https://ivoterguide.com/candidate/49255/race/1356/election/764",
+          "agreement": "4/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "She supported legislation she said would end green-energy tax subsidies and unleash American energy.",
+          "quote": "It unleashes American energy, strengthens our military, and protects federal benefits like SNAP and Medicaid, ensuring these vital programs serve American citizens, not illegal aliens.",
+          "sourceUrl": "https://www.nprillinois.org/government-politics/2025-07-03/miller-budzisnki-vote-along-party-lines-on-trumps-megabill",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "She voted for the SAVE America Act, which she said would require photo ID to vote and documentary proof of citizenship to register for federal elections.",
+          "quote": "This bill ensures that only U.S. citizens can register and vote in federal elections. Over 80 percent of Americans support voter ID, including a majority of Democrats.",
+          "sourceUrl": "https://marymiller.house.gov/media/press-releases/rep-miller-votes-pass-save-america-act-protect-election-integrity",
+          "agreement": "9/10"
+        }
+      }
+    }
+  ],
+  "sources": "jentodd2026.us · marymiller.house.gov · ivoterguide.com · nprillinois.org",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}
