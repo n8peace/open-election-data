@@ -1,0 +1,379 @@
+{
+  "office": "U.S. Representative",
+  "district": "TN District 8",
+  "division": "tn/cd-8",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "David Kustoff",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He introduced legislation to expand the qualified-business-income deduction for small businesses.",
+          "quote": "This legislation lowers taxes for millions of small businesses, farmers, and independent professionals by expanding the qualified business income deduction",
+          "sourceUrl": "https://kustoff.house.gov/media/press-releases/congressman-david-kustoff-introduces-small-business-tax-cut-act-support-main",
+          "agreement": "6/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He voted against the 2019 Raise the Wage Act, which would have increased the federal minimum wage.",
+          "quote": "Vote Question: On Passage Raise the Wage Act Vote Type: Recorded Vote Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "6/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Kustoff joined a letter advocating a U.S.–Taiwan free-trade agreement and addressing barriers to U.S. farm exports.",
+          "quote": "There is substantial, bipartisan support in Congress for a U.S.-Taiwan Free Trade Agreement (FTA), but the Biden Administration has declined to take this approach.",
+          "sourceUrl": "https://kustoff.house.gov/sites/evo-subsites/kustoff.house.gov/files/evo-media-document/wamr-ustr-letter-re-taiwan-talks_0.pdf",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He said he supports public schools and opposes national education mandates.",
+          "quote": "I graduated from a public school in Shelby County and support public schools.",
+          "sourceUrl": "https://www.kustoffforcongress.com/issues/",
+          "agreement": "3/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He called for law-enforcement agencies to receive resources and cooperate to address crime.",
+          "quote": "It is imperative that they have the support and resources they need to safely and effectively do their job.",
+          "sourceUrl": "https://kustoff.house.gov/issues",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "On his campaign issues page, Kustoff called for stopping illegal immigration and described enforcing immigration laws and returning criminals to their countries of origin.",
+          "quote": "We must stop illegal immigration and put an end to drug trafficking and the spread of opioids. As United States Attorney, I enforced the laws and sent criminals back to their country of origin.",
+          "sourceUrl": "https://www.kustoffforcongress.com/issues/",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He described the right to keep and bear arms as an unequivocal constitutional right.",
+          "quote": "I believe life begins at conception, I believe marriage is between a man and a woman, and I believe we have an unequivocal constitutional right to keep and bear arms.",
+          "sourceUrl": "https://www.kustoffforcongress.com/issues/",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Kustoff said abortion is wrong and pledged to support policies protecting unborn children.",
+          "quote": "I believe that life begins at conception and that abortion is wrong. As your Representative, I will continue to back pro-life policies that protect the lives of unborn children and the well-being of their mothers.",
+          "sourceUrl": "https://kustoff.house.gov/issues",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "He spoke in support of the Protection of Women and Girls in Sports Act, which bases school sports eligibility on sex at birth.",
+          "quote": "This legislation seeks to make sure women and girls have the opportunity to compete on a fair playing field by requiring schools to comply with Title IX recognition of a person’s gender at birth.",
+          "sourceUrl": "https://www.congress.gov/119/crec/2025/01/15/171/8/CREC-2025-01-15-house.pdf",
+          "agreement": "6/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "Kustoff voted against the MORE Act, which would have removed marijuana from the federal Controlled Substances Act.",
+          "quote": "Kustoff Votes Against Legalizing Marijuana on Federal Level",
+          "sourceUrl": "https://kustoff.house.gov/issues/maintaining-law-and-order?page=6",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He said he favors market-based health-care reforms that give patients and physicians more control than federal bureaucrats.",
+          "quote": "As your Congressman, I am focused on expanding access to care through market-based reforms that take control away from federal bureaucrats and give it back to American patients and physicians.",
+          "sourceUrl": "https://kustoff.house.gov/issues/health",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Kustoff backed domestic energy production and said it should reduce costs for West Tennessee families and businesses.",
+          "quote": "I will always back policies that will unleash domestic energy production, reduce our reliance on foreign energy markets, and lower costs for West Tennessee families and businesses.",
+          "sourceUrl": "https://kustoff.house.gov/issues/energy",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He called requiring voters to show photo ID common sense in a Facebook post about voter ID laws.",
+          "quote": "If Olive Garden can require a photo ID to buy a pasta card, requiring one to vote should be common sense,",
+          "sourceUrl": "https://kustoff.house.gov/media/in-the-news/icymi-pasta-politics-olive-garden-dragged-voter-id-fight",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Heidi Kuhn",
+      "party": "Democratic",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "She opposes tariffs on farm equipment and fertilizer, saying they raise costs for farmers and trigger retaliatory tariffs on exports.",
+          "quote": "Heidi will oppose tariffs on equipment and fertilizer that drive up costs for Tennessee farmers and have triggered retaliatory tariffs on our exports.",
+          "sourceUrl": "https://kuhnforcongress.com/issues/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She says she would protect Social Security from cuts and privatization.",
+          "quote": "Heidi will protect Social Security from cuts and privatization schemes pushed by Trump and Kustoff which threatens working Tennesseans earned retirement benefits.",
+          "sourceUrl": "https://kuhnforcongress.com/issues/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She opposes taxpayer-funded private school vouchers and wants to increase teacher pay.",
+          "quote": "And she opposes using taxpayer dollars for private school vouchers.",
+          "sourceUrl": "https://tri-statedefender.com/heidi-kuhn-urging-shelby-county-voters-to-show-up-for-8th-district-race/08/28/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports enforcing laws but says immigration enforcement must respect constitutional rights, due process, dignity, and accountability.",
+          "quote": "I believe in enforcing our laws, but enforcement should never come at the expense of constitutional rights, human dignity, or basic accountability.",
+          "sourceUrl": "https://kuhnforcongress.com/issues/",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She says she would repeal cuts to Medicare and Medicaid and increase funding for rural health care.",
+          "quote": "Heidi will repeal cuts to Medicare and Medicaid that are stripping health coverage from seniors and working families across Tennessee",
+          "sourceUrl": "https://kuhnforcongress.com/issues/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "She says she would lower utility bills by investing in American energy production.",
+          "quote": "Heidi will lower utility bills by investing in American energy production and cracking down on price gouging by big energy companies.",
+          "sourceUrl": "https://kuhnforcongress.com/issues/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She opposes proof-of-citizenship requirements for voter registration and supports restoring federal voting-rights protections.",
+          "quote": "She also opposes proof-of-citizenship requirements for voter registration.",
+          "sourceUrl": "https://tri-statedefender.com/heidi-kuhn-urging-shelby-county-voters-to-show-up-for-8th-district-race/08/28/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Adam D. Austill",
+      "party": "Independent",
+      "stances": {}
+    },
+    {
+      "name": "Wendell (Wells) Blankenship",
+      "party": "Independent",
+      "stances": {
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He says Congress should cut federal spending by half and devote 20% of the annual federal budget to paying down debt.",
+          "quote": "Pass The Confidence Amendment 2. Cut Federal Spending by 50% 3. Use 20% of The federal annual Budget to pay down debt.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72801146",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He supports developing small modular and molten-salt reactors to provide affordable energy.",
+          "quote": "Support the development and implementation of Small Modular Reactors and Molten Salt Reactors to provide the cleanest and most affordable energy.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72800738",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Antonio Futch",
+      "party": "Independent",
+      "stances": {
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "He called for more effort to prevent juvenile crime and support young people.",
+          "quote": "We have made more progress in identifying juvenile crime, rather than preventing it. We have to put more intentional effort into ensuring that our community, especially the youth is informed and able to get civically involved.",
+          "sourceUrl": "https://memphisvoyager.com/interview/conversations-with-antonio-futch/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Pamela Jeanine (P.) Moses",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "She said she would propose tax breaks for individuals and families earning under $100,000.",
+          "quote": "One of the key actions I would take is to propose tax breaks for individuals and families making less than $100,000 a year.",
+          "sourceUrl": "https://ivoterguide.com/candidate/83252/race/6830/election/1242",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "She proposes treatment and support for people with mental health or substance use disorders as an alternative to criminal justice involvement.",
+          "quote": "Legislation focused on treatment and support for individuals with mental health and substance use disorders, diverting them from the criminal justice system into appropriate care.",
+          "sourceUrl": "https://pamelamosesforsenate.com/moses-seven-point-plan-policies/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She agreed that the southern border should be physically secured while supporting asylum opportunities and legal immigration.",
+          "quote": "Those fleeing persecution, violence, or danger should be given the opportunity to seek asylum.",
+          "sourceUrl": "https://ivoterguide.com/candidate/83252/race/6830/election/1242",
+          "agreement": "6/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She proposes stricter rules for gun manufacturing and sales alongside programs addressing causes of violence.",
+          "quote": "Creating stricter regulations on gun manufacturing and sales, along with programs that address the social and economic factors contributing to violence.",
+          "sourceUrl": "https://pamelamosesforsenate.com/moses-seven-point-plan-policies/",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She said she would support federal legislation protecting and expanding reproductive-healthcare access.",
+          "quote": "I would support federal legislation that protects and expands access to reproductive healthcare, ensuring that all individuals have the autonomy to make their own medical decisions.",
+          "sourceUrl": "https://ivoterguide.com/candidate/83252/race/6830/election/1242",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "She strongly agreed that biological males should not participate in women's sports or occupy women's spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/83252/race/6830/election/1242",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She advocates universal health care access for Tennesseans.",
+          "quote": "Pamela advocates for universal healthcare access, ensuring every Tennessean receives quality medical care.",
+          "sourceUrl": "https://pamelamosesforsenate.com/moses-seven-point-plan-policies/",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She supports reducing carbon emissions through green energy and infrastructure investments, including high-speed rail.",
+          "quote": "Reducing Carbon Emissions: Promoting green energy solutions and investments in American-made infrastructure, including a high-speed rail line that supports sustainable development, job creation, and regional connectivity.",
+          "sourceUrl": "https://pamelamosesforsenate.com/moses-seven-point-plan-policies/",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Horace Taylor",
+      "party": "Independent",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He calls for relief from retaliatory tariffs and for reopening and diversifying export markets.",
+          "quote": "Reopen and diversify export markets so no single trade dispute can wipe out a season",
+          "sourceUrl": "https://horacetaylortn.com/issues",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says Social Security and Medicare benefits should be protected.",
+          "quote": "Protect earned Social Security and Medicare benefits, and lower prescription and long-term care costs for the fastest-aging counties in the district.",
+          "sourceUrl": "https://horacetaylortn.com/issues",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He says he strongly supports teachers and fair funding for rural schools.",
+          "quote": "I strongly support teachers, fund rural schools fairly, and build real paths to college, the trades, service, or starting a business.",
+          "sourceUrl": "https://horacetaylortn.com/issues",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "His campaign describes public safety as combining immediate enforcement with long-term prevention.",
+          "quote": "Enforcement now, prevention that holds for the long term.",
+          "sourceUrl": "https://horacetaylortn.com/",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He says border security and a workable legal system are both necessary, while calling for law enforcement focused on serious threats and an understandable process for employers and families.",
+          "quote": "A secure border and a workable legal system are both necessary. Enforce the law, focus on serious threats, and give employers and families a process they can understand.",
+          "sourceUrl": "https://horacetaylortn.com/issues",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "He supports protecting Medicare and Medicaid from cuts and strengthening rural hospitals and clinics.",
+          "quote": "West Tennessee families deserve accessible, affordable care — and protection from being devastated by medical costs.",
+          "sourceUrl": "https://horacetaylortn.com/vision",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Henry J. Ward, III",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He supports eliminating individual income taxes for lower earners, reducing them for others, and eventually eliminating them entirely.",
+          "quote": "The income tax on individuals should be eliminated for those earning below $100,000 and reduced for those who earn under $300,000.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72801146",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "kustoff.house.gov · clerk.house.gov · kustoffforcongress.com · congress.gov · kuhnforcongress.com · tri-statedefender.com · onyourballot.vote411.org · memphisvoyager.com · ivoterguide.com · pamelamosesforsenate.com · horacetaylortn.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}
