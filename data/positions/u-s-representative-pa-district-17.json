@@ -1,0 +1,168 @@
+{
+  "office": "U.S. Representative",
+  "district": "PA District 17",
+  "division": "pa/cd-17",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Chris Deluzio",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supported suspending the federal gas tax while proposing that wealthy people and corporations replace the lost revenue by paying more tax.",
+          "quote": "Yes, I would support suspending the federal gas tax. This revenue could be replaced if billionaires and the greedy corporations gouging all of us paid their fair share in taxes.",
+          "sourceUrl": "https://www.wesanews.org/wesa-voter-guide/2022-09-30/wesa-candidate-survey-chris-deluzio-and-jeremy-shaffer-on-the-issues",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He said he supports raising the federal minimum wage to $15 an hour.",
+          "quote": "Yes, I support raising the federal minimum wage to $15 an hour. I know in western Pennsylvania we value hard work — no one who works full time should not be able to afford to feed, house and provide for their families.",
+          "sourceUrl": "https://www.wesanews.org/wesa-voter-guide/2022-09-30/wesa-candidate-survey-chris-deluzio-and-jeremy-shaffer-on-the-issues",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "He criticized mass deportation after a constituent with work authorization and permission to remain in the country was detained.",
+          "quote": "I know the American people… don't support this mass deportation regime that's targeting people who are just trying to live their lives and follow their shot at the American dream.",
+          "sourceUrl": "https://www.wesa.fm/politics-government/2026-06-22/deluzio-harrisburg-ice-elections",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He supported universal background checks and other restrictions on assault weapons and high-capacity magazines.",
+          "quote": "And I know just as well as anyone that there should be background checks for gun sales, that 18-year-olds shouldn’t be walking around our streets with assault weapons and high-capacity magazines, and that we need laws on the books to keep guns out of the hands of people who are a danger to themselves or others.",
+          "sourceUrl": "https://www.wesanews.org/wesa-voter-guide/2022-09-30/wesa-candidate-survey-chris-deluzio-and-jeremy-shaffer-on-the-issues",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He said he would oppose abortion bans and vote to codify Roe v. Wade under federal law.",
+          "quote": "I would vote in Congress to codify Roe v. Wade under federal law.",
+          "sourceUrl": "https://www.wesanews.org/wesa-voter-guide/2022-09-30/wesa-candidate-survey-chris-deluzio-and-jeremy-shaffer-on-the-issues",
+          "agreement": "3/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "He voted against the Protection of Women and Girls in Sports Act, which would have based school sports eligibility on sex at birth.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2023192",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He said he has been a Medicare for All Act cosponsor throughout his time in Congress and wants it passed.",
+          "quote": "That’s why I’ve been a cosponsor of the Medicare for All Act my entire time in Congress.",
+          "sourceUrl": "https://politicalemails.org/messages/2224346",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "He supported further legislation aimed at reducing carbon emissions by 50 percent by 2030.",
+          "quote": "Yes, I support legislation to create jobs, strengthen American manufacturing, lower prescription drug costs, reduce the deficit and fight climate change.",
+          "sourceUrl": "https://www.wesanews.org/wesa-voter-guide/2022-09-30/wesa-candidate-survey-chris-deluzio-and-jeremy-shaffer-on-the-issues",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He said he would vote for the For the People Act, which included options such as early voting and automatic voter registration.",
+          "quote": "Yes, I have dedicated my life — as an officer in the military and as a voting rights lawyer — to protecting and defending our democracy.",
+          "sourceUrl": "https://www.wesanews.org/wesa-voter-guide/2022-09-30/wesa-candidate-survey-chris-deluzio-and-jeremy-shaffer-on-the-issues",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Tony Guy",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "He says he wants government out of people’s pockets while pursuing pro-growth economic policies.",
+          "quote": "Get government off our backs and out of our pockets.",
+          "sourceUrl": "https://tonyguyforcongress.com/issues/",
+          "agreement": "2/3"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "He calls for stopping federal spending and says Congress should live on a budget.",
+          "quote": "Stop the Washington spending spree that led to the highest inflation in history. If everyday American’s live on a budget, so can those in Congress.",
+          "sourceUrl": "https://tonyguyforcongress.com/issues/",
+          "agreement": "2/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Guy says he will support police with tools, training and resources, and oppose efforts to defund them.",
+          "quote": "I’m a career law enforcement officer and without hesitation, I BACK THE BLUE. Police officers and first responders deserve our full support. I will always stand up for law enforcement and have their backs.",
+          "sourceUrl": "https://tonyguyforcongress.com/issues/",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Guy calls for border security measures, enforcement of immigration laws and deportation of immigrants who are in the country illegally and have committed crimes.",
+          "quote": "Fund and finish the wall. Give Border Patrol and state agencies the tools, resources, and funding they need to keep the border secure and our country safe. Make Remain in Mexico the law of the land. Deport all criminal illegals.",
+          "sourceUrl": "https://tonyguyforcongress.com/issues/",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Guy says he would protect Second Amendment rights and law-abiding citizens’ ability to defend themselves.",
+          "quote": "As a local Sheriff and a gun owner, I’ve stood strong to protect our constitutional rights and the rights of law-abiding citizens to defend themselves.",
+          "sourceUrl": "https://tonyguyforcongress.com/issues/",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He supports expanding Pennsylvania natural-resource development and reducing regulatory burdens on industries including natural gas.",
+          "quote": "Finally unleashing our energy dominance by capitalizing on the vast natural resources throughout the region.",
+          "sourceUrl": "https://tonyguyforcongress.com/issues/",
+          "agreement": "2/3"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supports enforcing voter ID laws for every election and prosecuting election-law violations.",
+          "quote": "Enforce voter ID laws for all elections. Protect the ballot box.",
+          "sourceUrl": "https://tonyguyforcongress.com/issues/",
+          "agreement": "2/3"
+        }
+      }
+    }
+  ],
+  "sources": "wesanews.org · wesa.fm · clerk.house.gov · politicalemails.org · tonyguyforcongress.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

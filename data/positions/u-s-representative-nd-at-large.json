@@ -1,0 +1,187 @@
+{
+  "office": "U.S. Representative",
+  "district": "ND At-large",
+  "division": "nd/cd-at-large",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Julie Fedorchak",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She helped pass the Working Families Tax Cuts Act, which she describes as the largest tax cut in U.S. history.",
+          "quote": "Helped write, pass, and sign into law the Working Families Tax Cuts Act to deliver the largest tax cut in U.S. history",
+          "sourceUrl": "https://fedorchak.house.gov/media/newsletters/2025-year-review",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "She said Trump’s stronger trade policy addresses supply-chain dependence and trade barriers, while acknowledging impacts on businesses.",
+          "quote": "While these policies have impacts for our businesses, they are creating new domestic manufacturing opportunities for ND companies.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72359608",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "Her campaign lists reducing federal debt as a priority and calls for stopping out-of-control spending and balancing the budget.",
+          "quote": "Stop out of Control Spending and Balance the Budget",
+          "sourceUrl": "https://fedorchaknd.com/",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "She voted in favor of several measures supporting law enforcement.",
+          "quote": "Voted in favor of several measures to support law enforcement, including:",
+          "sourceUrl": "https://fedorchak.house.gov/media/newsletters/2025-year-review",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "She supports border security and says ICE is removing dangerous criminals with help from local law enforcement.",
+          "quote": "Immigration and Customs Enforcement is working with local law enforcement to remove dangerous criminals and make our communities safer.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72359608",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "She backed legislation expanding association health plans and employer-sponsored insurance and giving workers more choices of coverage.",
+          "quote": "The Affordable Care Act is anything but affordable. It has driven up costs, and North Dakotans are paying the price. I support putting patients—not insurance companies—in charge through policies like direct-to-patient support.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72359608",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "She says she has worked to maintain reliable and affordable energy and opposed federal policies affecting coal and oil.",
+          "quote": "She has continued this fight against the Biden Administration and its war on the coal and oil industry. She has worked hard to maintain reliable and affordable energy in North Dakota.",
+          "sourceUrl": "https://fedorchaknd.com/issues/",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "She voted for the SAVE Act requiring proof of citizenship for federal voter registration and backed a photo-ID requirement.",
+          "quote": "Last year, I voted for the SAVE Act, which requires proof of U.S. citizenship when registering to vote in federal elections.",
+          "sourceUrl": "https://fedorchak.house.gov/media/op-eds-and-speeches/simple-standard-secure-elections",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Trygve Hammer",
+      "party": "Democratic-NPL",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He said tariffs drive up prices and called for resetting them to stabilize trade policy.",
+          "quote": "Congress needs to reset tariffs and signal to the world that our trade policy has stabilized.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72359608",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He said he would protect seniors' benefits rather than raise the retirement age.",
+          "quote": "In Congress, I will put the seniors of North Dakota first and protect their benefits.",
+          "sourceUrl": "https://www.hammerfornd.com/priorities",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He called for support for public schools and investment in school infrastructure.",
+          "quote": "We need support for, rather than attacks on, the public schools",
+          "sourceUrl": "https://www.hammerfornd.com/priorities",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Helene Neville",
+      "party": "Independent",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Her platform calls for ending starvation wages, raising and indexing the minimum wage, and protecting struggling full-time workers.",
+          "quote": "End starvation wages Raise & index the minimum wage Protect full-time workers who still struggle",
+          "sourceUrl": "https://www.heleneforcongress.com/issues",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She supports protecting current Social Security benefits, strengthening funding, and preserving retirement security.",
+          "quote": "These programs must be protected and described accurately.",
+          "sourceUrl": "https://www.heleneforcongress.com/issues/Social-Security-and-Retirement-Security",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She calls for increasing housing supply and supporting affordable development.",
+          "quote": "We must increase housing supply, support responsible, affordable development, and ensure that housing programs improve stability for the people they are meant to serve.",
+          "sourceUrl": "https://www.heleneforcongress.com/issues/Housing-and-Cost-of-Living",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She supports expanding lawful immigration pathways, DACA stability, and a humane refugee and asylum system.",
+          "quote": "Expanding lawful immigration pathways for workers and families",
+          "sourceUrl": "https://www.heleneforcongress.com/issues/Immigration-and-Responsible-Reform",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She advocates protecting reproductive freedom and says healthcare decisions should remain between patients and their doctors.",
+          "quote": "I advocate for protecting reproductive freedom and ensuring people have the right to make choices about their own bodies and healthcare.",
+          "sourceUrl": "https://www.heleneforcongress.com/issues/Reproductive-Freedom",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, she chose government-funded healthcare for all, without a private insurance option.",
+          "quote": "We could afford this if we get rid of the barriers to being a well-cared-for patient. We have the money, someone else is using it.",
+          "sourceUrl": "https://ivoterguide.com/candidate/97431/race/33414/election/1483",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Charles Tuttle",
+      "party": "Independent",
+      "stances": {}
+    }
+  ],
+  "sources": "fedorchak.house.gov · onyourballot.vote411.org · fedorchaknd.com · hammerfornd.com · heleneforcongress.com · ivoterguide.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}
