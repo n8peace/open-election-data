@@ -1,0 +1,173 @@
+{
+  "office": "U.S. Senate",
+  "district": "WV",
+  "division": "wv/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Rachel Fetty Anderson",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She supports raising marginal tax rates on earners over $500,000 and describes public investments in education and infrastructure.",
+          "quote": "I support the elimination of the \"Buy, Borrow, Die\" tax loop-hole, the increase of the marginal tax rate of earners of over $500,000.00 per year",
+          "sourceUrl": "https://www.fettyandersonforsenate.com/issues",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "She supports workers’ right to unionize for better pay and working conditions.",
+          "quote": "Free speech and the right to unionize for better pay and working conditions must not be interfered with",
+          "sourceUrl": "https://www.fettyandersonforsenate.com/issues",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She says educational resources should be available wherever families choose to educate their children, while prioritizing public education services.",
+          "quote": "We prioritize educational resources wherever families choose to educate their children, but prioritize providing public education services",
+          "sourceUrl": "https://www.fettyandersonforsenate.com/issues",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She said abortion is a medical procedure that some women need or want.",
+          "quote": "The issue of abortion—that is one medical procedure that some women need or desire",
+          "sourceUrl": "https://wvmetronews.com/2026/05/16/former-morgantown-elected-official-to-face-capito-in-the-fall/",
+          "agreement": "4/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "She supports decriminalizing marijuana use, regulated commercial products, and adults growing it for personal use.",
+          "quote": "Marijuana use should not be criminalized. Any commercial marijuana product should be highly regulated. Adults should be permitted to grow marijuana for their own use.",
+          "sourceUrl": "https://www.fettyandersonforsenate.com/issues",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She proposes improving Medicare and Medicaid and ensuring patients receive medically necessary care prescribed by their providers.",
+          "quote": "My plan for Medicare, Medicaid and Tricare ensures that patients receive the necessary care prescribed by their physicians and healthcare providers.",
+          "sourceUrl": "https://www.fettyandersonforsenate.com/platform",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "S. Marshall Wilson",
+      "party": "Constitution",
+      "stances": {
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "He said there should be no government-imposed minimum wage and that labor should be priced by the market.",
+          "quote": "There should be no government-imposed minimum wage. Labor, like every other commodity should be priced by the market.",
+          "sourceUrl": "https://ivoterguide.com/candidate/55351/race/19641/election/1213",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He says he would oppose budgets that do not balance and debt ceiling increases without real cuts.",
+          "quote": "Marshall will vote against every budget that doesn't balance, oppose every spending bill that exceeds constitutional authority, and never vote to raise the debt ceiling without real cuts.",
+          "sourceUrl": "https://www.wilsonwv.com/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "His campaign says he advocated for school choice while serving in the West Virginia House of Delegates.",
+          "quote": "He advocated for protection of the 2nd Amendment (and against Red Flag Laws), protection of children (requesting an audit of CPS), health freedom, and school choice, as well as an increase in teacher salaries.",
+          "sourceUrl": "https://www.wilsonwv.com/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He strongly agreed that the federal government should do more to physically secure the southern border.",
+          "quote": "The US Government must fail in its only assigned task - to secure the Natural Rights of each US citizen - if it fails to secure US territory.",
+          "sourceUrl": "https://ivoterguide.com/candidate/55351/race/19641/election/1213",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "His campaign says he advocated for Second Amendment protections and against red flag laws.",
+          "quote": "He advocated for protection of the 2nd Amendment (and against Red Flag Laws), protection of children (requesting an audit of CPS), health freedom, and school choice, as well as an increase in teacher salaries.",
+          "sourceUrl": "https://www.wilsonwv.com/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He said elective abortion should be allowed under no circumstances and said abortion drugs should be illegal.",
+          "quote": "Abortifacients as all other forms of abortion should be illegal.",
+          "sourceUrl": "https://ivoterguide.com/candidate/55351/race/19641/election/1213",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He strongly agreed that biological males should not participate in women's sports or occupy women's spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/55351/race/19641/election/1213",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He selected the position that taxpayer-funded health care should be abolished and Medicaid and Medicare defunded.",
+          "quote": "Taxpayer funded health care should be abolished in all forms, and Medicaid and Medicare should be defunded.",
+          "sourceUrl": "https://ivoterguide.com/candidate/55351/race/19641/election/1213",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He says he would work to expand West Virginia’s energy economy and lower costs for families.",
+          "quote": "Marshall will fight to unleash West Virginia's energy economy, cut regulations that strangle small businesses, and put hard-working Mountain State families first.",
+          "sourceUrl": "https://www.wilsonwv.com/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He strongly disagreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification.",
+          "sourceUrl": "https://ivoterguide.com/candidate/55351/race/19641/election/1213",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Shelley Moore Capito",
+      "party": "Republican",
+      "stances": {}
+    }
+  ],
+  "sources": "fettyandersonforsenate.com · wvmetronews.com · ivoterguide.com · wilsonwv.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

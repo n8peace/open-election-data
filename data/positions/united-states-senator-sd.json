@@ -1,0 +1,232 @@
+{
+  "office": "United States Senator",
+  "district": "SD",
+  "division": "sd/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Brian L. Bengs",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He supports higher taxes on the ultra-wealthy and corporations to fund public goods.",
+          "quote": "Without restoration of a truly progressive tax system in which the ultra-wealthy pay higher actual tax rates than regular Americans, public goods will continue to deteriorate to the detriment of a substantial and growing number of Americans.",
+          "sourceUrl": "https://demcastusa.com/2022/05/25/meet-the-candidate-brian-bengs-sd/",
+          "agreement": "7/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He says tariffs damaged agricultural export markets and increased costs for taxpayers.",
+          "quote": "We went from having a robust and reliable export market to scrambling for buyers because career politicians stood aside as the President played economic games with tariffs.",
+          "sourceUrl": "https://bengsforsouthdakota.substack.com/p/dont-bite-the-hands-that-feed-us",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He said Social Security benefits should stay the same and proposed removing the cap on the earnings subject to Social Security taxes.",
+          "quote": "Keep the benefit calculations the same as before, but expand the tax base.",
+          "sourceUrl": "https://bengsforsouthdakota.substack.com/p/how-can-we-help-social-security",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports resourcing police while saying officers should not handle some mental health crisis calls when no one else is at risk.",
+          "quote": "The same officers responding to violent crime incidents do not and should not respond to calls for things such as mental health crises where the person who needs help does not pose a threat to anyone but themselves.",
+          "sourceUrl": "https://demcastusa.com/2022/05/25/meet-the-candidate-brian-bengs-sd/",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He proposed increasing legal immigration and creating additional work and permanent-residency pathways.",
+          "quote": "I support Expanded Legal Immigration with an additional 250,000 permanent immigrant visas.",
+          "sourceUrl": "https://bengsforsouthdakota.substack.com/p/policy-talk-i-lets-talk-immigration",
+          "agreement": "6/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He supports universal background checks and additional restrictions and licensing requirements for some firearms.",
+          "quote": "Yeah. Well again, I support universal background checks, just because there should be universal background checks.",
+          "sourceUrl": "https://sistersunitedsd.com/brian-bengs/",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports a woman's right to choose while favoring restrictions after viability with exceptions for the mother's life or health.",
+          "quote": "As a husband and father of daughters, I respect a woman’s right to choose and support abortion restrictions after the point of “viability” with exceptions for the life or health of a mother.",
+          "sourceUrl": "https://bengsforsouthdakota.com/policy-positions/",
+          "agreement": "5/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "He supported honoring South Dakota voters’ decision to legalize recreational marijuana and backed federal decriminalization for personal use.",
+          "quote": "Fulfilling the will of the voters who passed a ballot initiative to legalize recreational marijuana in 2020 would be an excellent first step.",
+          "sourceUrl": "https://demcastusa.com/2022/05/25/meet-the-candidate-brian-bengs-sd/",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He proposed lowering Medicare eligibility to 55 and adding a Medicare buy-in option to the ACA marketplace.",
+          "quote": "This public plan would be available on the existing Marketplace alongside private plans.",
+          "sourceUrl": "https://bengsforsouthdakota.substack.com/p/brian-bengs-healthcare-plan",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He supported shifting subsidies from fossil fuels to wind and solar and investing in clean energy and grid upgrades.",
+          "quote": "As Senator, I will advocate for recurring, annual decreases in fossil fuel subsidies that transfer the value to wind and solar instead.",
+          "sourceUrl": "https://demcastusa.com/2022/05/25/meet-the-candidate-brian-bengs-sd/",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Mike Rounds",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Rounds says lowering taxes is part of his pro-business approach so South Dakotans can keep more of their paychecks.",
+          "quote": "This includes lowering taxes and streamlining the tax code so South Dakotans can keep more of their paychecks",
+          "sourceUrl": "https://www.rounds.senate.gov/issues/list/pro-business",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "Rounds opposed a proposed $15 federal minimum wage, saying it could force businesses to cut staff and jobs.",
+          "quote": "We don’t need to add additional injury. Our goal should be to enact business-friendly policies that promote economic growth and job creation.",
+          "sourceUrl": "https://www.rounds.senate.gov/newsroom/press-releases/rounds-15-minimum-wage-would-damage-our-economy-by-killing-14-million-jobs",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He said free and fair trade lowers consumer prices and creates jobs, while urging more trade deals with allies.",
+          "quote": "Free and fair trade drives down prices for American consumers and creates jobs here at home.",
+          "sourceUrl": "https://www.rounds.senate.gov/newsroom/press-releases/rounds-statement-on-china-tariff-proposal-",
+          "agreement": "8/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Rounds says he supports reforms to keep Social Security and Medicare solvent without cutting benefits.",
+          "quote": "He supports commonsense reforms to keep these programs solvent without cutting benefits, making sure they remain strong for years to come.",
+          "sourceUrl": "https://roundsforsenate.com/issues/",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Rounds introduced legislation to streamline federal reviews and increase housing production and supply.",
+          "quote": "That’s why Senator Kim and I introduced two pieces of bipartisan legislation to cut through the bureaucracy and help communities focus on building homes instead of filling out forms.",
+          "sourceUrl": "https://www.rounds.senate.gov/newsroom/press-releases/rounds-introduces-legislation-to-cut-federal-red-tape-build-housing-faster",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Rounds opposed defunding police and backed legislation creating a federal crime for seriously injuring a law enforcement officer.",
+          "quote": "Defunding the police can only lead to one thing and that’s anarchy - just look at Portland, Kenosha or Minneapolis.",
+          "sourceUrl": "https://www.rounds.senate.gov/newsroom/weekly-column/backing-the-blue",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He says people who cross the border illegally or overstay visas should face consequences.",
+          "quote": "There must be consequences for those who break the law by illegally crossing the border or overstaying their visas.",
+          "sourceUrl": "https://www.rounds.senate.gov/issues/list/immigration?all=true",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Rounds says he supports Second Amendment rights and has criticized proposed red-flag laws and assault-weapon bans.",
+          "quote": "Mike is a strong supporter of the Second Amendment. He works in the U.S. Senate to protect the rights of law-abiding gun owners.",
+          "sourceUrl": "https://roundsforsenate.com/issues/",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Rounds says he is pro-life and notes that he signed South Dakota’s trigger law, which prohibits abortion except when the mother’s life is at risk.",
+          "quote": "This law prohibits abortion in South Dakota except when the mother’s life is at risk.",
+          "sourceUrl": "https://roundsforsenate.com/issues/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Rounds voted to advance a bill defining sex for school athletics by reproductive biology and genetics at birth.",
+          "quote": "A bill to provide that for purposes of determining compliance with title IX of the Education Amendments of 1972 in athletics, sex shall be recognized based solely on a person's reproductive biology and genetics at birth.",
+          "sourceUrl": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00100.htm",
+          "agreement": "9/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "Rounds said he opposed South Dakota’s recreational marijuana law and had questions about supporting federal legalization.",
+          "quote": "The former governor says he doesn’t like the recreational marijuana law voters approved in South Dakota and he has a lot of questions before he’d vote for it on the federal level.",
+          "sourceUrl": "https://www.rounds.senate.gov/newsroom/in-the-news/rounds-takes-aim-at-red-flag-gun-laws",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Rounds argued for preserving some Affordable Care Act coverage provisions while relying on an open marketplace with competition.",
+          "quote": "We understand that there is a way to retain all of these positive provisions, which are vital to assuring continued health insurance coverage for all American families who want it, while also providing a fair and open marketplace that provides for strong, healthy competition.",
+          "sourceUrl": "https://www.rounds.senate.gov/newsroom/press-releases/rounds-speaks-on-senate-floor-on-7th-anniversary-of-obamacare",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Rounds supports expanding domestic energy production to lower costs and create jobs, and opposes what he calls excessive regulation of energy producers.",
+          "quote": "He believes the United States should maximize the use of its natural resources to lower energy costs, create jobs and reduce reliance on foreign energy sources.",
+          "sourceUrl": "https://roundsforsenate.com/issues/",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Rounds sponsored the SAVE Act, which would require proof of citizenship for voter registration and set requirements to verify citizenship.",
+          "quote": "I’m pleased to be joining Senator Lee on this legislation which requires proof of citizenship in order to register to vote.",
+          "sourceUrl": "https://www.rounds.senate.gov/newsroom/press-releases/rounds-joins-lee-and-roy-on-save-act-to-secure-federal-elections",
+          "agreement": "9/10"
+        }
+      }
+    }
+  ],
+  "sources": "demcastusa.com · bengsforsouthdakota.substack.com · sistersunitedsd.com · bengsforsouthdakota.com · rounds.senate.gov · roundsforsenate.com · senate.gov",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

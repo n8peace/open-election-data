@@ -1,0 +1,184 @@
+{
+  "office": "U.S. Representative",
+  "district": "WV District 2",
+  "division": "wv/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Riley Moore",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Moore voted for a bill that made tax cuts permanent and reduced taxes on tips, overtime, and Social Security payments.",
+          "quote": "It delivers the largest tax cut in American history by making the 2017 tax cuts permanent, eliminates tax on tips and overtime, and slashes taxes on Social Security payments.",
+          "sourceUrl": "https://rileymoore.house.gov/media/press-releases/rep-moore-votes-yes-one-big-beautiful-bill",
+          "agreement": "3/3"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "Moore introduced a bill to let the president retaliate against countries imposing high tariffs or other trade barriers.",
+          "quote": "For them, President Trump’s tariffs marked the end of America’s economic surrender and offered hope that someone in Washington finally cared about bringing honest, blue-collar jobs back to the heartland.",
+          "sourceUrl": "https://rileymoore.house.gov/media/in-the-news/wsj-roadmap-presidential-trade-retaliation",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Moore says he fought for West Virginia’s Hope Scholarship and supports school choice.",
+          "quote": "A zip code should not determine a child’s future. I have fought and won for school choice here in West Virginia.",
+          "sourceUrl": "https://www.mooreforwv.com/issues",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Moore called for completing the border wall, empowering law enforcement to return undocumented immigrants, and reducing illegal immigration to zero.",
+          "quote": "When I get to Congress I will work with President Trump to finish the border wall and empower law enforcement with the authority necessary to send illegal immigrants back.",
+          "sourceUrl": "https://www.mooreforwv.com/issues",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Moore supported legislation to prevent financial institutions from tracking firearm and ammunition purchases.",
+          "quote": "Americans should never have their lawful firearm purchases tracked by financial institutions or payment processors.",
+          "sourceUrl": "https://rileymoore.house.gov/media/press-releases/congressman-riley-m-moores-protecting-privacy-purchases-act-passes-us-house",
+          "agreement": "2/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "His campaign platform says he has a pro-life voting record and will work to end abortion.",
+          "quote": "I believe in life from the moment of conception to the moment of natural death.",
+          "sourceUrl": "https://www.mooreforwv.com/issues",
+          "agreement": "2/3"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Moore said he filed a brief defending West Virginia’s law keeping men out of girls’ and women’s sports.",
+          "quote": "I filed an amicus brief with SCOTUS to defend West Virginia’s law keeping men out of girls’ and women’s sports.",
+          "sourceUrl": "https://rileymooreforms.house.gov/news/email/show.aspx?ID=QOHSMY3O3OULQ",
+          "agreement": "2/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Moore said he would support West Virginia’s coal and gas industries and oppose efforts to shut them down.",
+          "quote": "I will stand up for our coal and gas industries in West Virginia, as I have as your State Treasurer.",
+          "sourceUrl": "https://www.mooreforwv.com/issues",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Moore voted for the SAVE Act, which requires proof of citizenship to register to vote and removal of noncitizens from voter rolls.",
+          "quote": "Moore voted “Yes” on the legislation, which requires proof of citizenship when registering to vote and requires states to remove non-citizens currently on their voter rolls.",
+          "sourceUrl": "https://rileymoore.house.gov/issues/immigration-border-security?page=1",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Ace Parsi",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports raising the minimum wage and strengthening workers’ ability to organize and bargain collectively.",
+          "quote": "Raise the minimum wage to a living wage",
+          "sourceUrl": "https://www.aceforcongress.com/aceplatform",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He would end current tariffs but says tariffs can be used to level the economic playing field.",
+          "quote": "Tariffs should be used to level the economic playing field.",
+          "sourceUrl": "https://www.aceforcongress.com/aceplatform",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He supports shoring up Social Security by requiring billionaires to contribute more to the program.",
+          "quote": "work to shore up Social Security by ensuring that a billionaire and the middle class worker they hire who contributed to them becoming a billionaire aren’t paying the same amount",
+          "sourceUrl": "https://www.aceforcongress.com/aceplatform",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He proposes zoning reform and tax incentives to increase housing supply.",
+          "quote": "Housing: Tax incentives and zoning reform to build more housing so West Virginians can afford to stay in West Virginia",
+          "sourceUrl": "https://www.aceforcongress.com/aceplatform",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He supports increasing funding for rural public schools and redirecting voucher funds back to public schools.",
+          "quote": "Increase Title I funds for at-risk rural schools; fund community colleges and trade schools and redirect lost funds for vouchers back into public schools",
+          "sourceUrl": "https://www.aceforcongress.com/aceplatform",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports funding community police departments and also investing in social workers and evidence-based addiction recovery.",
+          "quote": "We need to fund social workers and resources to help people recovering a sense of community and support.",
+          "sourceUrl": "https://www.aceforcongress.com/aceplatform",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "He supports lawful gun ownership and says enforcement should focus on illegal activity rather than law-abiding gun owners.",
+          "quote": "Protect lawful ownership while promoting responsible use and community safety",
+          "sourceUrl": "https://www.aceforcongress.com/aceplatform",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports universal health care and a single-payer public option, as well as funding rural hospitals.",
+          "quote": "Healthcare: Fund rural hospitals; pursue a single-payer public option",
+          "sourceUrl": "https://www.aceforcongress.com/aceplatform",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He proposes diversifying energy sources, including wind and solar, to lower heating bills.",
+          "quote": "Energy: Diversify supply through wind, solar, and other sources to drive down heating bills",
+          "sourceUrl": "https://www.aceforcongress.com/aceplatform",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "rileymoore.house.gov · mooreforwv.com · rileymooreforms.house.gov · aceforcongress.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}
