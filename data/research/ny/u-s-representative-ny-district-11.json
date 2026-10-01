@@ -1,15 +1,15 @@
 {
   "office": "U.S. Representative",
-  "district": "NY District 6",
-  "division": "ny/cd-6",
+  "district": "NY District 11",
+  "division": "ny/cd-11",
   "kind": "candidate",
   "choices": [
     {
-      "name": "Grace Meng",
+      "name": "Mike DeCillis",
       "party": "Democratic"
     },
     {
-      "name": "Joseph Chou",
+      "name": "Nicole Malliotakis",
       "party": "Republican; Conservative"
     }
   ]

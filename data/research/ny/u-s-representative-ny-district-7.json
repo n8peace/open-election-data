@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 7",
+  "division": "ny/cd-7",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Claire Valdez",
+      "party": "Democratic; Working Families"
+    },
+    {
+      "name": "Melvin Rivera",
+      "party": "Republican; Conservative"
+    },
+    {
+      "name": "Priscilla Ghaznavi",
+      "party": "Our Future"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 10",
+  "division": "ny/cd-10",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Brad Lander",
+      "party": "Democratic; Working Families",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "As a City Council member, he passed living-wage laws for app-based drivers and protections for fast-food, retail, and freelance workers.",
+          "quote": "He passed the first laws in the country to guarantee a living wage for Uber and Lyft drivers and deliveristas",
+          "sourceUrl": "https://www.bradlanderforcongress.com/about",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "His campaign says he protected city retirees from being moved to Medicare Advantage plans and will fight attacks on Social Security.",
+          "quote": "And he protected NYC retirees from being forced into inferior Medicare Advantage plans.",
+          "sourceUrl": "https://www.bradlanderforcongress.com/about",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He led a campaign that secured air conditioning in every New York City public-school classroom.",
+          "quote": "He led the campaign that secured air-conditioning in every NYC public school classroom",
+          "sourceUrl": "https://www.bradlanderforcongress.com/about",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports codifying abortion rights and repealing the Hyde Amendment.",
+          "quote": "In Congress, I will fight to codify a right to an abortion",
+          "sourceUrl": "https://jimowles.org/news/candidate-answers-to-joldc-brad-lander-for-us-congress-ny-10-2026",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Jennifer E. Moore",
+      "party": "Republican; Conservative",
+      "stances": {}
+    }
+  ],
+  "sources": "bradlanderforcongress.com · jimowles.org",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

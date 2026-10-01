@@ -1,0 +1,200 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 24",
+  "division": "tx/cd-24",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Beth Van Duyne",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She supported the One Big Beautiful Bill, which she said would cut taxes for working families and small businesses.",
+          "quote": "The One Big Beautiful Bill delivers on the mandate the American people voted for by: cutting taxes for our working families and small businesses",
+          "sourceUrl": "https://vanduyne.house.gov/2025/5/rep-van-duyne-praises-house-passage-of-the-one-big-beautiful-bill",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "She opposed a proposed federal $15 minimum wage, arguing it could cost jobs and harm small businesses.",
+          "quote": "a federal, nationwide mandate to raise the minimum wage to $15 per hour, will put us right back to where we were months ago.",
+          "sourceUrl": "https://vanduyne.house.gov/2021/2/van-duyne-one-size-fits-all-minimum-wage-mandate-will-destroy-jobs-businesses",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "She introduced a bill to strengthen trade remedy laws and address trade practices she said disadvantage American manufacturers.",
+          "quote": "Our legislation will allow American workers to compete on a more level playing field by cracking down on exploitative trade practices from countries like China",
+          "sourceUrl": "https://vanduyne.house.gov/2025/2/reps-van-duyne-and-sewell-lead-bipartisan-bicameral-legislation-to-strengthen-trade-laws-and-protect-american-workers",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She introduced resolutions to preserve Social Security and Medicare while addressing federal debt negotiations.",
+          "quote": "House Republicans are united in our solemn commitment to protect and preserve Social Security and Medicare",
+          "sourceUrl": "https://vanduyne.house.gov/2023/2/u-s-representative-beth-van-duyne-tx-24-introduces-resolutions-to-protect-social-security-and-medicare",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She introduced the Housing Supply Expansion Act to increase the supply of affordable housing.",
+          "quote": "The Housing Supply Expansion Act will help increase the supply of affordable housing by removing archaic red-tape requirements under the Davis-Bacon Act.",
+          "sourceUrl": "https://vanduyne.house.gov/2023/2/u-s-representative-beth-van-duyne-tx-24-introduces-legislation-to-empower-homeownership-and-enable-generational-wealth-accumulation",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "She requested federal funding for Dallas police technology and marine-patrol equipment to improve crime response and enforcement.",
+          "quote": "This project expands the Dallas Police Department’s Drone as a First Responder (DFR) program by deploying additional drone systems integrated with the Department’s Fusion Center and real-time crime analysis operations.",
+          "sourceUrl": "https://vanduyne.house.gov/fy27-appropriations",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "She introduced a bill intended to pressure sanctuary jurisdictions to cooperate with federal immigration enforcement and deportations.",
+          "quote": "I’m introducing this bill to support President Trump’s plan to deport criminal illegal aliens by leveraging the power of the purse to pressure local governments to cooperate with federal immigration enforcement.",
+          "sourceUrl": "https://vanduyne.house.gov/2025/1/rep-van-duyne-introduces-legislation-to-combat-sanctuary-cities",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "She opposed federal background-check bills, saying they would infringe on Second Amendment rights.",
+          "quote": "Rep. Beth Van Duyne (TX-24) today spoke on the floor of the House of Representatives in opposition to H.R. 8 and H.R. 1446, legislation that would infringe on American's Second Amendment rights.",
+          "sourceUrl": "https://vanduyne.house.gov/2021/3/van-duyne-speaks-house-floor-defend-second-amendment-rights",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "She spoke in opposition to a bill she called the Abortion on Demand Act and advocated support for expectant mothers instead.",
+          "quote": "Instead of promoting ways for women to end their pregnancies, we should be helping expectant mothers find the medical, emotional, and financial support they need.",
+          "sourceUrl": "https://vanduyne.house.gov/2021/10/rep-van-duyne-speaks-house-floor-opposition-abortion-demand-bill",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "She voted for the Protection of Women and Girls in Sports Act, which based athletic Title IX rules on reproductive biology and genetics at birth.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512?Date=01/14/2025&Page=2",
+          "agreement": "6/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "In a candidate questionnaire, she disagreed with legalizing recreational marijuana.",
+          "quote": "I support the legalization of recreational marijuana.\n\nDisagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/48856/race/6582/election/671",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "She has advocated expanding private insurance options and marketplace competition rather than a one-size-fits-all approach.",
+          "quote": "Congress needs to be focused on expanding health insurance options to lower costs, have more personalized coverage and put patients in direct relationships with physicians.",
+          "sourceUrl": "https://vanduyne.house.gov/health",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "She supported legislation to increase domestic energy production and said energy production at home can help lower costs.",
+          "quote": "As a Texan, Congresswoman Van Duyne understands that an energy-dominant America is essential for lowering costs, fighting inflation, driving a resurgence in manufacturing, and stabilizing global markets.",
+          "sourceUrl": "https://vanduyne.house.gov/energy",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "She reintroduced a bill requiring states to verify potential voters' immigration status when requested by state officials.",
+          "quote": "This bill will require U.S. Citizenship and Immigration Services (USCIS) to verify and provide the immigration status of potential voters, when requested to do so by a state Attorney General or Secretary of State",
+          "sourceUrl": "https://vanduyne.house.gov/2025/2/rep-van-duyne-introduces-bill-to-secure-elections-from-illegal-aliens",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Kevin Burge",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He calls for lower taxes for working families while also proposing expanded assistance programs and Medicaid incentives.",
+          "quote": "Lower taxes for working families earning less than $400,000 per year.",
+          "sourceUrl": "https://www.burgeforcongress.com/issues",
+          "agreement": "3/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He says he would end tariffs that raise costs for Texas families and businesses.",
+          "quote": "End wasteful tariffs that raise costs on Texas families and businesses",
+          "sourceUrl": "https://www.burgeforcongress.com/issues",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He supports fully funding public schools and opposes education vouchers.",
+          "quote": "Fight to reform our federal school funding formula to step in where the state cheaped out and fully fund all public schools.",
+          "sourceUrl": "https://www.burgeforcongress.com/issues",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports expanding and streamlining legal immigration pathways while also proposing border-security measures.",
+          "quote": "Expand and streamline legal pathways for workers and families",
+          "sourceUrl": "https://www.burgeforcongress.com/issues",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "His campaign lists restoring abortion rights among his priorities.",
+          "quote": "Kevin’s top priorities include affordable housing, restoring checks & balances, medicare for all, immigration reform, protecting civil liberties, tuition-free public college & trade education, restoring abortion rights, and building an economy that works for everyone — not billionaires.",
+          "sourceUrl": "https://www.burgeforcongress.com/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports universal health coverage and expanded public programs while retaining the option to buy private insurance.",
+          "quote": "Prioritize working with Congress to finally fix our broken healthcare system and pass Universal Health Coverage. I do not support banning private health insurance.",
+          "sourceUrl": "https://www.burgeforcongress.com/issues",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "vanduyne.house.gov · clerk.house.gov · ivoterguide.com · burgeforcongress.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}
