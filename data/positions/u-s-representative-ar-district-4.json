@@ -1,0 +1,168 @@
+{
+  "office": "U.S. Representative",
+  "district": "AR District 4",
+  "division": "ar/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Bruce Westerman",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He criticized the Inflation Reduction Act for raising taxes and supported tax repeal legislation.",
+          "quote": "The misleadingly named “Inflation Reduction Act,” (IRA) will raise taxes on every income bracket, hire 87,000 additional IRS agents to enforce those taxes, cut jobs, reduce medical innovation opportunities, and certainly worsen inflation.",
+          "sourceUrl": "https://westerman.house.gov/issues/tax-relief",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He voted against the Raise the Wage Act, which would have raised the federal minimum wage.",
+          "quote": "Vote Question: On Passage\n\nRaise the Wage Act\n\nVote Type: Recorded Vote",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Westerman said rising violent crime makes support for law-enforcement officers increasingly critical.",
+          "quote": "With violent crime on the rise, including crime against police, it's becoming more and more critical that we support the men and women at the forefront of keeping us safe.",
+          "sourceUrl": "https://westerman.house.gov/issues/security",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supported strict border security and voted for the Secure the Border Act.",
+          "quote": "securing our communities through strict border security, unleashing American energy, and saving billions of American taxpayer dollars",
+          "sourceUrl": "https://westerman.house.gov/media-center/press-releases/westerman-statement-president-trumps-joint-address",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "Westerman voted No on the Bipartisan Background Checks Act.",
+          "quote": "Vote Question: On Passage Bipartisan Background Checks Act Vote Type: Yea-And-Nay Status: Passed",
+          "sourceUrl": "https://clerk.house.gov/Votes/202175",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He praised the reversal of Roe v. Wade and said abortion is not a right.",
+          "quote": "Life is a right. Abortion is not. Our system of government is not based on unelected judges creating a right that doesn’t exist in the Constitution.",
+          "sourceUrl": "https://westerman.house.gov/media-center/press-releases/westerman-reacts-reversal-roe-v-wade",
+          "agreement": "3/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "He voted for the Protection of Women and Girls in Sports Act.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2023192",
+          "agreement": "5/5"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "He voted against the MORE Act, which would have federally decriminalized marijuana.",
+          "quote": "Vote Question: On Passage\n\nMORE Act\n\nVote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supported the Lower Energy Costs Act and backed expanded domestic energy production.",
+          "quote": "I rise today in support of H.R. 1, the Lower Energy Costs Act.",
+          "sourceUrl": "https://naturalresources.house.gov/news/documentsingle.aspx?DocumentID=413008",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "He voted for the SAVE Act, which would add documentary citizenship checks to federal voter registration.",
+          "quote": "Vote Question: On Passage\n\nBill Title & Description: SAVE Act\n\nVote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/MemberVotes?BillNum=H.R.22&RollCallNum=102&Session=1st",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "James \"Rus\" Russell, III",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He proposes a tax on the wealthiest Americans to help address homelessness.",
+          "quote": "And by adding a small tax on the super-rich—the top 0.1%—we can help end homelessness for good.",
+          "sourceUrl": "https://russellforar.com/on-the-issues",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He says laws should raise wages and treat workers fairly.",
+          "quote": "We need fair laws that raise wages, make sure everyone gets equal pay for equal work, and treat all workers fairly.",
+          "sourceUrl": "https://russellforar.com/on-the-issues",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He says he supports both Second Amendment rights and unspecified common-sense reforms.",
+          "quote": "I am committed to preserving our 2nd Amendment rights while fighting for common sense reform.",
+          "sourceUrl": "https://russellforar.com/",
+          "agreement": "5/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "In a 2022 interview, he said women should be able to control their own bodies.",
+          "quote": "Russell says he supports the rights of transgender people and women to control their own bodies.",
+          "sourceUrl": "https://www.4029tv.com/article/james-rus-russell-on-the-record/38486886",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports expanding Medicare and moving toward health care for everyone.",
+          "quote": "We can fix this by expanding Medicare and moving toward healthcare for everyone.",
+          "sourceUrl": "https://russellforar.com/on-the-issues",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "He supports investing in a clean energy future that uses multiple sources.",
+          "quote": "We need to invest in a clean energy future that uses multiple sources to stay safe and strong.",
+          "sourceUrl": "https://russellforar.com/on-the-issues",
+          "agreement": "7/10"
+        }
+      }
+    }
+  ],
+  "sources": "westerman.house.gov · clerk.house.gov · naturalresources.house.gov · russellforar.com · 4029tv.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}
