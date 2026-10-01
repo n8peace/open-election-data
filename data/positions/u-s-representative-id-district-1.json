@@ -1,0 +1,275 @@
+{
+  "office": "U.S. Representative",
+  "district": "ID District 1",
+  "division": "id/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Russ Fulcher",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Fulcher proposed reducing income and corporate taxes as a way to encourage reinvestment and economic growth.",
+          "quote": "Reduce income and corporate taxes: Individuals and companies will reinvest those dollars into the economy (wiser than government does), resulting in economic growth.",
+          "sourceUrl": "https://thedcbeat.com/election-spotlight-idahos-1st-congressional-district/",
+          "agreement": "7/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "In a candidate questionnaire, Fulcher opposed raising the federal minimum wage and criticized federal wage standards.",
+          "quote": "No. There are all kinds of flaws with this rationale.",
+          "sourceUrl": "https://watchmenministrynorthidaho.com/wp-content/uploads/2022/04/Watchmen-Voter-Guide-for-United-States-Representative-1.pdf",
+          "agreement": "6/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Fulcher joined a letter urging Japan to end restrictions on U.S. potato exports and called international trade critical to the industry.",
+          "quote": "International trade and foreign export markets are critical to the U.S. potato industry",
+          "sourceUrl": "https://fulcher.house.gov/2026/03/12/fulcher-joins-colleagues-calling-on-trump-to-prioritize-opening-japanese-market-access-to-u-s-potato-industry/",
+          "agreement": "3/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Fulcher supports a balanced-budget amendment and says Congress must control spending to address the national debt.",
+          "quote": "I have always supported a constitutional amendment for a balanced budget.",
+          "sourceUrl": "https://www.russfulcher.com/issues",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "Fulcher said he had continually supported school choice through his service in the state senate and Congress.",
+          "quote": "I have continually supported school choice through my service in the state senate and congress.",
+          "sourceUrl": "https://watchmenministrynorthidaho.com/wp-content/uploads/2022/04/Watchmen-Voter-Guide-for-United-States-Representative-1.pdf",
+          "agreement": "3/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Fulcher proposed incentivizing state and local governments to fund law enforcement through the SAFE Act.",
+          "quote": "The Second Amendment for Everyone (SAFE) Act incentivizes state and local leadership to fund law enforcement.",
+          "sourceUrl": "https://www.russfulcher.com/issues",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Fulcher supports border-wall funding, enforcement of immigration laws, and a controlled vetting process for people entering the country.",
+          "quote": "I am working to put in place resources to make sure laws are enforced and we have an orderly, thorough, and controlled vetting process for anyone entering the United States.",
+          "sourceUrl": "https://www.russfulcher.com/issues",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Fulcher opposes gun-control measures and says he will work to overturn restrictions he considers unconstitutional.",
+          "quote": "I will work with my Republican colleagues to overturn this constitutional injustice.",
+          "sourceUrl": "https://www.russfulcher.com/issues",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Fulcher says life begins at conception and describes himself as ardently pro-life.",
+          "quote": "I believe life begins at conception and that every unborn child has the inherent right to life.",
+          "sourceUrl": "https://www.russfulcher.com/issues",
+          "agreement": "9/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "strong",
+          "text": "Fulcher said he strongly opposes marijuana legalization and is spending his own money to oppose an initiative.",
+          "quote": "I strongly oppose it. Idaho should not want it.",
+          "sourceUrl": "https://adagop.org/candidate/russ-fulcher/",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Fulcher named healthcare reform that re-engages market forces as a priority for increasing access and lowering costs.",
+          "quote": "healthcare reform that re-engages market forces to increase access and decrease costs",
+          "sourceUrl": "https://adagop.org/candidate/russ-fulcher/",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Fulcher proposed increasing domestic energy production and preserving infrastructure he says supports Idaho jobs and the regional economy.",
+          "quote": "Energy is the hub of our economy, and if we bolster domestic production to once again become a net energy exporter, economic growth (and international leverage) will follow.",
+          "sourceUrl": "https://thedcbeat.com/election-spotlight-idahos-1st-congressional-district/",
+          "agreement": "3/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Fulcher supports requiring proof of citizenship and voter ID to vote.",
+          "quote": "We need proof of citizenship and voter ID to vote. That’s what the Constitution requires, and we must enforce it.",
+          "sourceUrl": "https://adagop.org/candidate/russ-fulcher/",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Brendan J Gomez",
+      "party": "Constitution",
+      "stances": {}
+    },
+    {
+      "name": "Kaylee Peterson",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She proposes cutting taxes for middle-class Americans and small businesses while raising corporate tax rates and funding public priorities.",
+          "quote": "Increase corporate tax rates, remove corporate tax breaks/subsidies, and protect Idaho’s labor and resources from monopolized industries.",
+          "sourceUrl": "https://www.kayleeforcongress.com/platform",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supports raising the federal minimum wage, strengthening collective bargaining, and penalizing union-busting.",
+          "quote": "Increase the federal minimum wage, benefit packages, overtime protections, and secure worker pensions.",
+          "sourceUrl": "https://www.kayleeforcongress.com/platform",
+          "agreement": "4/5"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "She advocates protective trade policies and expanding domestic manufacturing to help reduce building-supply costs.",
+          "quote": "Solid, protective trade policies, expanding American-made manufacturing markets, and building out domestic infrastructure for necessary building supplies are the structural ways we bring home prices down permanently.",
+          "sourceUrl": "https://www.kayleeforcongress.com/platform",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She says Social Security should be guaranteed for future generations with cost-of-living increases and calls for comprehensive Medicare coverage.",
+          "quote": "Social Security must be unconditionally guaranteed for future generations with automatic, real-world cost of living increases.",
+          "sourceUrl": "https://www.kayleeforcongress.com/platform",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She supports incentives for local builders and developers to create diverse, accessible housing opportunities.",
+          "quote": "We must look at aggressively revising the tax code and HUD to create solid incentives for local builders and developers; currently, broken tax breaks favor corporate developers holding on to vacant commercial lots rather than creating diverse, accessible housing opportunities.",
+          "sourceUrl": "https://www.kayleeforcongress.com/platform",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports federal funding for public education and opposes diverting taxpayer funds to private education.",
+          "quote": "Taking the financial responsibility off local property taxes and levies allows every school district—from rural to suburban and urban—to thrive. Not a single cent of taxpayer funds should ever be diverted to private education.",
+          "sourceUrl": "https://www.kayleeforcongress.com/platform",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She supports streamlining legal immigration, expanding immigration court capacity, and stopping mass deportations.",
+          "quote": "We must immediately streamline legal application processes, drastically expand the number of immigration judges and court attorneys to clear massive backlogs, and hire professional border agents for high-traffic entry points.",
+          "sourceUrl": "https://www.kayleeforcongress.com/platform",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She criticizes Idaho’s post-Dobbs restrictions and says lawmakers should listen to women, families, and medical professionals.",
+          "quote": "Instead, it is time for lawmakers to step out of the exam room and listen to women, families, maternal-fetal specialists, and healthcare professionals to protect lives.",
+          "sourceUrl": "https://www.kayleeforcongress.com/platform",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports a universal single-payer system to provide health coverage for every American.",
+          "quote": "Taking health insurance companies completely out of the equation and moving to a universal single-payer system is the best, most transparent, and cheapest way forward for families.",
+          "sourceUrl": "https://www.kayleeforcongress.com/platform",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Sarah Zabel",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "She said higher taxes on top earners and corporations are needed to raise revenue and fund public programs.",
+          "quote": "We have to raise the taxes on the very high-income people — we have to. We have to raise corporate taxes.",
+          "sourceUrl": "https://sandpointreader.com/independent-idaho-congressional-candidate-sarah-zabel-talks-with-the-reader/",
+          "agreement": "4/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "Her campaign platform opposes tariffs, citing higher costs and retaliation from trading partners.",
+          "quote": "Tariffs raise the costs of fertilizer and other raw materials, invite retaliation from trading partners, and destroy confidence in the reliability of our supply.",
+          "sourceUrl": "https://denim-carrot-jlww.squarespace.com/policy-outlines",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "She says she would reduce the national debt through higher revenue and lower expenditures, including lower payouts for the highest Social Security earners.",
+          "quote": "Raise revenue and reduce expenditures while we grow the economy.",
+          "sourceUrl": "https://www.zabelforcongress.com/",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Her platform calls for building more houses and removing obstacles that increase building costs.",
+          "quote": "The intuitive solution to the housing shortage is the right one: build more houses.",
+          "sourceUrl": "https://denim-carrot-jlww.squarespace.com/policy-outlines",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports legal pathways for some immigrants while also calling for border enforcement and deportation of people who commit serious crimes.",
+          "quote": "I support the Securing Agriculture's Workforce Act as the right vehicle for establishing a pathway to legitimate temporary worker status for the agricultural workers who are already here",
+          "sourceUrl": "https://denim-carrot-jlww.squarespace.com/policy-outlines",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Zabel rejects a wholesale single-payer shift but supports restoring ACA subsidies, reversing Medicaid coverage cuts and regulating private providers and insurers.",
+          "quote": "A wholesale shift to single-payer clears neither bar with confidence.",
+          "sourceUrl": "https://www.zabelforcongress.com/health-care",
+          "agreement": "3/10"
+        }
+      }
+    }
+  ],
+  "sources": "thedcbeat.com · watchmenministrynorthidaho.com · fulcher.house.gov · russfulcher.com · adagop.org · kayleeforcongress.com · sandpointreader.com · denim-carrot-jlww.squarespace.com · zabelforcongress.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}
