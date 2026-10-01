@@ -1,0 +1,216 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 27",
+  "division": "fl/cd-27",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Eliott Rodriguez",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He proposes asking wealthier Americans to contribute more to support Social Security.",
+          "quote": "Ask the wealthiest Americans to contribute more of their income so Social Security remains strong for future generations.",
+          "sourceUrl": "https://eliottrodriguez.com/issues/",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He says he will push to increase the federal minimum wage and strengthen worker protections.",
+          "quote": "Eliott will push to: Increase the federal minimum wage.",
+          "sourceUrl": "https://eliottrodriguez.com/issues/",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He said he opposes Trump administration tariffs because they have increased prices.",
+          "quote": "Voy a estar en contra de esos aranceles de la administración trump que ha subido los precios de todo.",
+          "sourceUrl": "https://www.univision.com/local/miami-wltv/local/miami-wltv/al-punto-florida/eliott-rodriguez-lanza-su-campana-al-congreso-con-vivienda-y-economia-como-prioridades-video",
+          "agreement": "3/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says he will oppose cuts to Social Security and Medicare benefits and increases to the retirement age.",
+          "quote": "Eliott will oppose efforts to privatize them, cut benefits, raise the retirement age, or shift more healthcare costs onto seniors and working families.",
+          "sourceUrl": "https://eliottrodriguez.com/issues/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He proposes converting underused federal land into affordable mixed-use housing.",
+          "quote": "Identifying underused federal land and converting it into affordable mixed-use housing.",
+          "sourceUrl": "https://eliottrodriguez.com/issues/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He supports strengthening K-12 education through investment in teachers, school facilities, and other programs.",
+          "quote": "I support expanding affordable pre-K through federal-state partnerships and strengthening K-12 by investing in teachers, school facilities, career and technical education, special education, and equal opportunity.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72691352",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports border enforcement and removal of people deemed genuine threats while also backing protections and comprehensive reform for some immigrants.",
+          "quote": "Eliott supports a secure border, law and order, faster and more orderly immigration processing, the removal of people who pose genuine threats, and comprehensive reform for immigrants who work, obey the law, and contribute to their communities.",
+          "sourceUrl": "https://eliottrodriguez.com/issues/",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He supports universal background checks, safe firearm storage requirements, and restoring the federal assault-weapons ban.",
+          "quote": "He supports Ethan’s Law to require safe firearm storage and supports restoring a federal ban on assault weapons and high-capacity magazines.",
+          "sourceUrl": "https://eliottrodriguez.com/issues/",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports protecting Medicare, Medicaid, and ACA coverage, and allowing people ages 55 to 64 to buy into Medicare.",
+          "quote": "Protect Medicare, Social Security, Medicaid, and Affordable Care Act coverage.",
+          "sourceUrl": "https://eliottrodriguez.com/issues/",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports expanding cleaner energy while also prioritizing affordability, reliability, and American jobs.",
+          "quote": "Expand cleaner energy while protecting affordability, reliability, and good-paying American jobs.",
+          "sourceUrl": "https://eliottrodriguez.com/issues/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He says eligible citizens should not lose voting rights because they cannot easily obtain proof of citizenship, and calls for help making the process accessible.",
+          "quote": "Every eligible U.S. citizen has the right to vote, and no one should lose that right because they cannot easily obtain or afford proof of citizenship.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72691352",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "Maria Elvira Salazar",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Her campaign says she voted to lower taxes and supported tax relief for working families.",
+          "quote": "I have voted to lower taxes, supported efforts to provide greater tax relief for working families, and fought to help small businesses grow and create jobs.",
+          "sourceUrl": "https://mariaelvirasalazar.com/issues/",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Her Dignity Act proposed a market-based expansion of the H-2A agricultural guest-worker program.",
+          "quote": "Implements a market-based solution for our labor shortages by expanding and modernizing the H-2A Agricultural Guest Worker program to adequately respond to workforce needs.",
+          "sourceUrl": "https://salazar.house.gov/media/press-releases/congresswoman-salazar-introduces-dignity-act",
+          "agreement": "3/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Her Dignity Act materials say the legislation would help Social Security and Medicare avoid insolvency.",
+          "quote": "The innovative legislation also eliminates labor shortages in the healthcare industry, and helps save Social Security and Medicare from insolvency.",
+          "sourceUrl": "https://salazar.house.gov/media/press-releases/icymi-problem-solvers-caucus-endorses-dignity-act",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "She cosponsored the Educational Choice for Children Act of 2025, which would create tax credits for donations funding K-12 scholarships.",
+          "quote": "To amend the Internal Revenue Code of 1986 to allow a credit against tax for charitable donations to nonprofit organizations providing education scholarships to qualified elementary and secondary students.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr833ih",
+          "agreement": "3/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "She announced federal funding for police cruisers to expand patrol capacity and backed other law-enforcement measures.",
+          "quote": "$2.1 million for new marked police cruisers to expand patrol capacity",
+          "sourceUrl": "https://salazar.house.gov/media/press-releases/rep-maria-elvira-salazar-backs-pro-law-enforcement-measures-during-national",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Her DIGNITY Act combines expanded border enforcement with legal status and deportation protections for some undocumented immigrants and Dreamers.",
+          "quote": "Dreamers and DACA recipients are provided with conditional permanent resident status for 10 years.",
+          "sourceUrl": "https://salazar.house.gov/dignity-act",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "She voted for the Bipartisan Background Checks Act, which would require background checks for firearm sales covered by the bill.",
+          "quote": "Vote Question: On Passage Bipartisan Background Checks Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202175",
+          "agreement": "3/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "She voted for the Born-Alive Abortion Survivors Protection Act, which requires care for infants born alive after an attempted abortion.",
+          "quote": "Vote Question: On Passage Born-Alive Abortion Survivors Protection Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202527",
+          "agreement": "7/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "She voted for the Protection of Women and Girls in Sports Act, which bases athletic eligibility on sex at birth.",
+          "quote": "Vote Question: On Passage Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "9/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "She voted against passage of the MORE Act, a federal cannabis reform bill.",
+          "quote": "Roll Call 107 | Bill Number: H. R. 3617",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "She voted for the SAVE Act, which would require documentary proof of citizenship for federal voter registration.",
+          "quote": "Roll Call 102 | Bill Number: H. R. 22",
+          "sourceUrl": "https://clerk.house.gov/Votes/2025102",
+          "agreement": "6/10"
+        }
+      }
+    }
+  ],
+  "sources": "eliottrodriguez.com · univision.com · onyourballot.vote411.org · mariaelvirasalazar.com · salazar.house.gov · govinfo.gov · clerk.house.gov",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

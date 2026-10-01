@@ -1,0 +1,182 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 28",
+  "division": "fl/cd-28",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Phil \"Felipe\" Ehr",
+      "party": "DEM",
+      "stances": {
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Ehr called for federal investment in public education and opposed dismantling it through vouchers and privatization.",
+          "quote": "The federal government cannot take a backseat or leave public education to be dismantled by vouchers, austerity, and privatization.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72940835",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Ehr proposed expediting legal immigration and creating an earned path to legal residency.",
+          "quote": "Modernize and Expedite the Legal Immigration Process Upgrade Ports of Entry and the training of Boarder agents Provide an Earned Path to Legal Residency Address Humanitarian Crises and Refugee Bottlenecks",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72940835",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Carlos A. Gimenez",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He voted for the 2025 One Big Beautiful Bill and praised making the 2017 tax cuts permanent.",
+          "quote": "We made the Trump Tax Cuts of 2017 permanent.",
+          "sourceUrl": "https://gimenez.house.gov/2025/5/advancing-the-america-first-agenda",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He voted against a 2021 budget bill that included a $15 federal minimum wage, warning it could cause job losses and raise costs.",
+          "quote": "This will cause disruptive job losses, decimate small businesses in a time of need, and increase the cost of many goods and services, including healthcare and childcare services.",
+          "sourceUrl": "https://gimenez.house.gov/2021/2/gimenez-votes-against-partisan-budget-deal",
+          "agreement": "8/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He supports trade agreements that expand markets if they are free and fair, while also backing measures against unfair trade practices.",
+          "quote": "I support establishing new partnerships around the world to expand markets for our producers, as long as our trade agreements are both free and fair, protecting American producers from unfair trade practices.",
+          "sourceUrl": "https://gimenez.house.gov/trade",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He requested federal funding for a 326-unit mixed-income development, describing housing access as a local issue.",
+          "quote": "The funding would be used for the development of a 326 unit, mixed-age and mixed-income multifamily development.",
+          "sourceUrl": "https://gimenez.house.gov/_cache/files/4/e/4ee9cd68-f2d5-47a8-8cfe-4e3af64a62db/630A23DF64F2B0EE29239BD1D4D0882D.sweetwater-housing-development-project-signed-member-certification-and-federal-nexus-letter.pdf",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "He opposed removing qualified immunity for police officers and argued that it helps them carry out their jobs.",
+          "quote": "I understand firsthand the importance of qualified immunity for police officers to carry out their jobs.",
+          "sourceUrl": "https://gimenez.house.gov/2021/3/gimenez-votes-against-partisan-election-reform-and-dangerous-restrictions",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports a path to legal status and DACA for some immigrants while also backing more border enforcement and opposing sanctuary cities.",
+          "quote": "I support allowing undocumented immigrants to come out of the shadows and be placed on a path to legal status so that they can receive their work authorization, get a driver’s license, and send their children to school.",
+          "sourceUrl": "https://gimenez.house.gov/immigration",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He voted for the Bipartisan Background Checks Act but against H.R. 1446, saying he opposed added burdens on legal gun ownership.",
+          "quote": "Today, I voted for the Bipartisan Background Checks Act to close a loophole exploited by dangerous criminals to side-step the system and illegally obtain firearms.",
+          "sourceUrl": "https://gimenez.house.gov/2021/3/gimenez-statement-background-check-legislation",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He praised the decision overturning Roe v. Wade and said abortion rights should be decided by state legislatures.",
+          "quote": "Roe V. Wade was fundamentally wrong from the very beginning. Nowhere in the Constitution is the right to abortion declared, and as properly interpreted by the Tenth Amendment, those rights are guarded by the individual states.",
+          "sourceUrl": "https://gimenez.house.gov/2022/6/gimenez-statement-on-the-supreme-court-s-dobbs-decision",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He supported a resolution disapproving the Department of Education’s Title IX rule and said it ignored biological realities in sports.",
+          "quote": "The radical rule change under Title IX submitted by the Department of Education ignores biological realities and harms women and girls educational and athletic opportunities.",
+          "sourceUrl": "https://gimenez.house.gov/2024/7/state-sponsors-of-terrorism-have-no-business-here",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "He voted for the Safeguard American Voter Eligibility Act and said it would require proof of citizenship to vote.",
+          "quote": "This bill will ensure that only American citizens can vote in American elections. Illegal immigrants should not have a say in our elections and requiring proof of citizenship in order to vote is a nonstarter.",
+          "sourceUrl": "https://gimenez.house.gov/2024/7/state-sponsors-of-terrorism-have-no-business-here",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Eddy Rojas",
+      "party": "NPA",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He named tax relief for small businesses as part of his economic priorities.",
+          "quote": "My top two priorities are lowering the cost of living for working families and supporting small businesses through tax relief, access to capital, and policies that create good-paying jobs.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72940835",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "Rojas says he will protect Medicare for seniors.",
+          "quote": "I'll work across the aisle to lower prescription drug costs, expand telehealth, and protect Medicare for our seniors.",
+          "sourceUrl": "https://www.eddyrojas.com/events-1",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Rojas says he supports school choice, vocational training, and affordable higher education.",
+          "quote": "I will fight for school choice, vocational training, and affordable higher education so every child in District 28 has the chance to succeed",
+          "sourceUrl": "https://www.eddyrojas.com/events-1",
+          "agreement": "3/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Rojas says he supports law enforcement while also investing in crime-prevention community programs.",
+          "quote": "I will support our law enforcement, secure our borders, and invest in community programs that prevent crime and give our youth a brighter future.",
+          "sourceUrl": "https://www.eddyrojas.com/events-1",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Rojas says eligible citizens should have a simple, affordable process for obtaining documents needed to vote.",
+          "quote": "No American citizen should lose access to the ballot because obtaining a birth or marriage certificate is too difficult or expensive.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72940835",
+          "agreement": "6/10"
+        }
+      }
+    }
+  ],
+  "sources": "onyourballot.vote411.org · gimenez.house.gov · eddyrojas.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

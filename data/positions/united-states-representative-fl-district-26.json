@@ -1,0 +1,230 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 26",
+  "division": "fl/cd-26",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Mario Diaz-Balart",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He promoted tax cuts and said they would prevent an average tax increase for families in his district.",
+          "quote": "No tax on tips or overtime, permanent tax cuts for working families, and relief for seniors — sparing FL-26 taxpayers an average 24% tax increase.",
+          "sourceUrl": "https://mariodiazbalart.org/",
+          "agreement": "9/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He voted against the Raise the Wage Act and against the Protecting the Right to Organize Act.",
+          "quote": "Vote Question: On Passage\n\nRaise the Wage Act\n\nVote Type: Recorded Vote",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "7/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He voted yea on the United States-Mexico-Canada Agreement Implementation Act.",
+          "quote": "Vote Question: On Passage United States-Mexico-Canada Agreement Implementation Act Vote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019701",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He said he increased charter school funding and backed a federal school-choice tax credit.",
+          "quote": "Increased charter school funding by $60 million, preserved Pell Grants and magnet schools, and backed the first federal school choice tax credit.",
+          "sourceUrl": "https://mariodiazbalart.org/",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He said he secured funding for regional law enforcement and championed enforcement-focused legislation.",
+          "quote": "Delivered over $11 million in FY26 funding for Miami-Dade and regional law enforcement — new patrol vehicles, upgraded technology, and mobile command centers — while championing House-passed bills like the LEOSA Reform Act and the Combatting Organized Retail Crime Act.",
+          "sourceUrl": "https://mariodiazbalart.org/",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He said he prioritized border security, detention, and the swift removal of criminal noncitizens in homeland-security funding.",
+          "quote": "Led FY26 Homeland Security funding prioritizing border security, detention and swift removal of criminal aliens, and expanded resources to stop fentanyl trafficking",
+          "sourceUrl": "https://mariodiazbalart.org/",
+          "agreement": "6/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "He voted for the Concealed Carry Reciprocity Act of 2017.",
+          "quote": "Vote Question: On Passage\n\nConcealed Carry Reciprocity Act of 2017\n\nVote Type: Recorded Vote",
+          "sourceUrl": "https://clerk.house.gov/Votes/2017663",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "He cosponsored a bill whose stated purpose was to prohibit taxpayer-funded abortions.",
+          "quote": "Mario Diaz-Balart (FL); Jake Ellzey (TX); Pat Fallon (TX)",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr7ih",
+          "agreement": "7/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "He voted for the Protection of Women and Girls in Sports Act, which addresses sports eligibility based on sex at birth.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2025012",
+          "agreement": "8/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "He voted against passage of the MORE Act.",
+          "quote": "Vote Question: On Passage\n\nMORE Act\n\nVote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He says every American should be able to choose an affordable health-care plan suited to their needs.",
+          "quote": "It is vital that every American be able to choose a healthcare plan that means their needs at a price they can afford.",
+          "sourceUrl": "https://mariodiazbalart.house.gov/issues/healthcare",
+          "agreement": "4/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He voted for passage of the Lower Energy Costs Act.",
+          "quote": "Vote Question: On Passage\n\nLower Energy Costs Act\n\nVote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/2023182",
+          "agreement": "6/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "He voted for the Safeguard American Voter Eligibility Act, which required documentary proof of citizenship for federal voter registration.",
+          "quote": "Vote Question: On Passage\n\nSafeguard American Voter Eligibility Act\n\nVote Type: Recorded Vote",
+          "sourceUrl": "https://clerk.house.gov/Votes/2024345",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Nicole Locklin",
+      "party": "DEM",
+      "stances": {
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "She supports strong and equitable funding for K–12 schools.",
+          "quote": "I support universal pre-K and childcare, strong and equitable funding for K-12 schools, protections for students with disabilities and civil rights enforcement.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72940827",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She supports pathways to citizenship for long-term residents, Dreamers, and TPS holders, and opposes using detention to punish families seeking safety.",
+          "quote": "I support a humane, lawful immigration system that keeps families together, protects due process, and provides a pathway to citizenship for long-term residents, Dreamers, and TPS holders.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72940827",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports a path to universal healthcare, including options such as Medicare for All or a public option.",
+          "quote": "Nicole supports the fastest responsible path to guaranteed care for every American: Medicare for All, a strong public option, Medicare buy-in, or any model that gets us to universal coverage.",
+          "sourceUrl": "https://locklinforcongress.com/issues-healthcare",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "She supports investing in clean energy and says federal inaction on climate change will cost more than prevention.",
+          "quote": "Federal inaction will cost far more than prevention. We must invest in clean energy, resilient infrastructure, conservation, and stronger protections for communities and workers.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72940827",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She opposes documentary proof requirements that create barriers and says voting should be made easier for eligible Americans.",
+          "quote": "We should be making it easier for every American to vote, and we should do everything we can to encourage voter participation and education.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72940827",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Deborah Ann Meidinger Hosey",
+      "party": "NPA",
+      "stances": {
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports federal funding and programs for K–12 public schools, including Title I and IDEA.",
+          "quote": "At the K–12 level, the federal government should support Title I, enforce civil‑rights protections, fully fund IDEA, and expand school breakfast and lunch programs.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72940827",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She supports expanding legal pathways and protections for Dreamers, TPS holders, and long-term residents.",
+          "quote": "TPS and DACA must be restored and expanded, and Dreamers must have permanent protection and access to education.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72940827",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "She supports common gun-safety laws that restrict military-style weapons.",
+          "quote": "Safety requires national school‑security standards, a uniform Code Red system, and common gun‑safety laws restricting military‑style weapons.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72940827",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports universal health care and expanded in-home care for seniors.",
+          "quote": "I also support universal healthcare to reduce premiums, lower prescription costs, and expand in‑home care so seniors can remain safely at home.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72940827",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She favors making voting easier and opposes barriers that could disenfranchise eligible voters.",
+          "quote": "We should be making it easier for every American to vote, and we should do everything we can to encourage voter participation and education.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72940827",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "mariodiazbalart.org · clerk.house.gov · govinfo.gov · mariodiazbalart.house.gov · onyourballot.vote411.org · locklinforcongress.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}
