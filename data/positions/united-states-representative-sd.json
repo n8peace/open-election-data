@@ -1,0 +1,144 @@
+{
+  "office": "United States Representative",
+  "district": "SD",
+  "division": "sd/cd-at-large",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Nicole \"Nikki\" Gronli",
+      "party": "Democratic",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "She called for removing tariffs on critical farm inputs to lower costs.",
+          "quote": "Remove tariffs on critical farm inputs to lower costs.",
+          "sourceUrl": "https://www.nikkigforsd.com/services-8",
+          "agreement": "4/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She supports investing in affordable housing so people can live and work in their communities.",
+          "quote": "Investing in affordable housing, infrastructure, broadband, and community development so South Dakotans can live and work in the communities they call home.",
+          "sourceUrl": "https://www.nikkigforsd.com/services-8",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She opposed proposed federal cuts to public education and urged lawmakers to reject the House bill.",
+          "quote": "These draconian cuts to public education put the future of South Dakota’s children on the line. $18 million in cuts to South Dakota’s public education will reduce staffing, increase classroom sizes, and provide fewer programs to our children.",
+          "sourceUrl": "https://www.nikkigforsd.com/post/nikki-comments-on-u-s-house-s-federal-education-budget-proposal",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "She said Congress should consider an immigration bill that provides a citizenship opportunity for people who arrived on work visas.",
+          "quote": "I know a lot of people would like to see an opportunity for citizenship for those who came here on a work visa.",
+          "sourceUrl": "https://www.aol.com/articles/jackley-gronli-case-open-house-213000000.html",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Her candidate profile says she supports women making reproductive-health-care decisions with their doctors.",
+          "quote": "Protecting a woman’s ability to make her own reproductive health care decisions in consultation with her doctor.",
+          "sourceUrl": "https://www.ballotready.org/people/nikki-gronli",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports protecting Medicare and Medicaid and expanding Medicare funding for nursing homes.",
+          "quote": "We can make health care affordable by protecting Medicare, Medicaid, and restoring the Marketplace tax credits that keep private market coverage in reach for thousands of South Dakotans.",
+          "sourceUrl": "https://www.nikkigforsd.com/services-8",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She opposed new mail-ballot restrictions and said eligible voters should face fewer barriers to participation.",
+          "quote": "We should be making it easier, not harder, for eligible South Dakotans to participate in our elections.",
+          "sourceUrl": "https://www.nikkigforsd.com/post/south-dakotans-deserve-clear-secure-elections",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Marty Jackley",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He says he will support cutting taxes as part of the Trump agenda.",
+          "quote": "President Trump endorsed me, and I support his agenda. Secure the border, cut taxes, and put America first.",
+          "sourceUrl": "https://martyjackley.com/issues",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He says he will back police, sheriffs, and prosecutors and puts public safety first.",
+          "quote": "In Congress I will back our police, sheriffs, and prosecutors with the tools and the respect they have earned. Public safety comes first.",
+          "sourceUrl": "https://martyjackley.com/issues",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He calls for securing the border, finishing the wall, and letting law enforcement do its job.",
+          "quote": "The meth and fentanyl on our streets come across an open border. I have prosecuted the traffickers who bring it here. Secure the border, finish the wall, and let law enforcement do its job.",
+          "sourceUrl": "https://martyjackley.com/issues",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He says the right to bear arms is nonnegotiable and pledges to defend the Second Amendment.",
+          "quote": "The right to keep and bear arms is not negotiable. I hunt, I raised my kids around firearms handled right, and I have an A+ rating from the NRA. I will defend the Second Amendment every time.",
+          "sourceUrl": "https://martyjackley.com/issues",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "As attorney general, he ordered a company to stop advertising abortion pills in South Dakota and said the state could sue if it did not comply.",
+          "quote": "South Dakota Attorney General Marty Jackley has sent a letter to Mayday Health ordering the company to immediately cease and desist the deceptive advertising of the sale of abortion pills in South Dakota",
+          "sourceUrl": "https://consumer.sd.gov/docs/Sends%20Cease%20and%20Desist%20Letter%20Ordering%20Stop%20to%20Deceptive%20Abortion%20Pill%20Advertising%20in%20South%20Dakota.pdf",
+          "agreement": "3/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He said men should not play on women’s sports teams and pledged to protect women athletes under that approach.",
+          "quote": "“I have long advocated that men should not be allowed to play in women sports,” said Attorney General Jackley. “South Dakota is one of 27 states not to allow men to play on women’s sports teams. I am committed to protecting the women student-athletes competing at South Dakota universities.”",
+          "sourceUrl": "https://www.dakotanewsnow.com/2026/09/24/attorney-general-marty-jackley-urges-congress-protect-women-college-sports/",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "nikkigforsd.com · aol.com · ballotready.org · martyjackley.com · consumer.sd.gov · dakotanewsnow.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

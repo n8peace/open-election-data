@@ -1,0 +1,184 @@
+{
+  "office": "U.S. Representative",
+  "district": "RI District 2",
+  "division": "ri/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "SETH MICHAEL MAGAZINER",
+      "party": "Democrat",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He called for higher taxes on billionaires to support Social Security, health care, and education.",
+          "quote": "By asking the people at the top to pay their fair share again, like they used to, we can do incredible things in this country.",
+          "sourceUrl": "https://magaziner.house.gov/media/press-releases/rep-magaziner-calls-billionaires-pay-their-fair-share-taxes-house-floor",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "His jobs and economy platform says he supports workers’ right to unionize and bargain collectively.",
+          "quote": "Protect worker’s right to unionize and collectively bargain",
+          "sourceUrl": "https://magaziner.house.gov/issues/jobs-and-economy",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "His campaign says he will protect Social Security and Medicare.",
+          "quote": "Seth is fighting to protect Social Security and Medicare, lower the cost of prescription drugs and health care, expand access to affordable health coverage",
+          "sourceUrl": "https://sethmagaziner.com/meet-seth/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "As state treasurer, he led an initiative to rebuild public school buildings statewide.",
+          "quote": "spearheaded an initiative to rebuild dozens of school buildings across the state",
+          "sourceUrl": "https://magaziner.house.gov/about/about",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "He requested federal funding for emergency response vehicles for the West Warwick Police Department.",
+          "quote": "The funding will be used to purchase and upfit emergency response vehicles that will allow the police department to improve hazard mitigation, investigations, and personnel and public safety.",
+          "sourceUrl": "https://magaziner.house.gov/sites/evo-subsites/magaziner.house.gov/files/evo-media-document/fy26-financial-disclosure-west-warwick-pd.pdf",
+          "agreement": "4/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "His campaign says he supports banning assault weapons and high-capacity magazines.",
+          "quote": "Seth supports banning assault weapons and high capacity magazines, the weapons of war most often used in mass shootings.",
+          "sourceUrl": "https://sethmagaziner.com/issue/",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He says he will defend women's ability to make their own health care decisions without political interference.",
+          "quote": "Seth will always fight for the rights of women to make their own health care decisions without the interference of politicians.",
+          "sourceUrl": "https://sethmagaziner.com/issue/defending-reproductive-rights/",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "He voted against the Protection of Women and Girls in Sports Act, which would set eligibility rules based on sex at birth.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512?Page=6",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports expanding the Affordable Care Act and lowering prescription-drug costs through Medicare negotiation.",
+          "quote": "Support expanding the Affordable Care Act, so Americans have improved access to the care they need",
+          "sourceUrl": "https://sethmagaziner.com/issue/making-healthcare-more-affordable/",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He has supported clean-energy projects while also citing their role in lowering energy costs.",
+          "quote": "reducing energy costs by expanding affordable clean energy",
+          "sourceUrl": "https://sethmagaziner.com/meet-seth/",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "He says he supports voting rights legislation including the John Lewis Voting Rights Advancement Act.",
+          "quote": "Fight for voting rights in Congress including supporting the John Lewis Voting Rights Advancement Act of 2021.",
+          "sourceUrl": "https://sethmagaziner.com/issue/protecting-our-democracy/",
+          "agreement": "4/10"
+        }
+      }
+    },
+    {
+      "name": "VICTOR GILBERT MELLOR",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He says lowering the cost of living requires removing government taxes and regulations.",
+          "quote": "Lowering the cost of living by removing the heavy hand of government taxes and regulations, will give everyday Rhode Islanders the ability to grow successful and financially secure lives.",
+          "sourceUrl": "https://vicmellor.com/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He proposes streamlining permitting to speed home construction and reduce builders’ costs.",
+          "quote": "Streamline complex, years-long permitting processes to reduce costs for local builders and instantly speed up the construction of homes for all income levels.",
+          "sourceUrl": "https://vicmellor.com/housing-that-is-affordable-rhode-island/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports removing undocumented people who commit crimes while also supporting a residency pathway for law-abiding immigrants.",
+          "quote": "Vic stands for the rule of law, including the immediate removal of criminal illegals. He supports a pathway to permanent residency for law-abiding, tax-paying foreigners.",
+          "sourceUrl": "https://vicmellor.com/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He opposes restrictive gun laws, including broad bans and red-flag laws, and supports easing concealed-carry rules.",
+          "quote": "He opposes broad bans, including those targeting so-called “assault weapons.”",
+          "sourceUrl": "https://vicmellor.com/second-amendment/",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He says he would protect female athletes and oppose policies allowing biological males in girls’ sports.",
+          "quote": "Protecting Female Athletes and ensuring our daughters have safe, fair, and private spaces.",
+          "sourceUrl": "https://vicmellor.com/parental-rights/",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He says he would work to lower energy costs.",
+          "quote": "Vic will fight to lower energy, housing and grocery costs.",
+          "sourceUrl": "https://vicmellor.com/",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supports mandatory photo ID for voters and federal voter ID standards.",
+          "quote": "Vic supports requiring a photo ID to verify the identity of every voter.",
+          "sourceUrl": "https://vicmellor.com/voter-id-election-integrity/",
+          "agreement": "4/5"
+        }
+      }
+    }
+  ],
+  "sources": "magaziner.house.gov · sethmagaziner.com · clerk.house.gov · vicmellor.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

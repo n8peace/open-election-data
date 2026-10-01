@@ -1,0 +1,192 @@
+{
+  "office": "U.S. Senate",
+  "district": "RI",
+  "division": "ri/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "JOHN FRANCIS REED",
+      "party": "Democrat",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Reed has supported legislation to raise the federal minimum wage.",
+          "quote": "Reed supports the Fair Minimum Wage Act, which would increase the federal minimum wage to $10.10 an hour",
+          "sourceUrl": "https://www.reed.senate.gov/issues/jobs-and-economy",
+          "agreement": "6/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He has called for ending broad Trump tariffs, saying they raise costs for Americans.",
+          "quote": "Trump’s tariffs are a consumption tax on Americans and they are not in America’s best interests.",
+          "sourceUrl": "https://www.reed.senate.gov/news/releases/reed-says-trumps-tariffs-are-making-an-economic-mess-for-us-consumers-and-businesses-vows-bipartisan-action-to-block-trumps-threats-against-us-allies",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Reed says he has repeatedly voted to protect Social Security and opposes efforts to privatize it.",
+          "quote": "Throughout his career, Reed has repeatedly voted to protect Social Security and strongly opposes efforts to privatize it.",
+          "sourceUrl": "https://www.reed.senate.gov/issues/seniors",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Reed supported legislation to build more housing, lower costs, and streamline construction regulations.",
+          "quote": "Helped pass the bipartisan 21st Century ROAD to Housing Act to build more housing, lower costs, streamline construction regulations",
+          "sourceUrl": "https://www.reed.senate.gov/issues/housing",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He opposed cuts to public-school funding and called for protecting public schools.",
+          "quote": "We must fight back to protect public schools and ensure every student",
+          "sourceUrl": "https://www.reed.senate.gov/news/releases/reed-smacks-down-trumps-efforts-to-cut-education-funding-by-over-15-percent",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Reed supports police staffing and training while also emphasizing prevention, rehabilitation, and alternatives to incarceration.",
+          "quote": "Senator Reed has worked with cities and towns across the state to ensure their police departments have the staffing, training, and technology they need.",
+          "sourceUrl": "https://www.reed.senate.gov/issues/justice-and-law-enforcement",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Reed supported comprehensive immigration reform that included a pathway to earned citizenship and has opposed mass deportation efforts.",
+          "quote": "would have reduced our budget deficit and institute broad measures to secure our borders, deterred employers from hiring those who come here illegally, and offered a tough but fair pathway to earned citizenship.",
+          "sourceUrl": "https://www.reed.senate.gov/issues/immigration",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Reed supports improving background checks and an assault weapons ban, and has backed other gun safety legislation.",
+          "quote": "He supports improving background checks, cracking down on gun trafficking, and passing practical gun safety laws that would make our communities safer.",
+          "sourceUrl": "https://www.reed.senate.gov/issues/gun-safety",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Reed stated that he supports a woman's right to make private reproductive choices.",
+          "quote": "Like the majority of Rhode Islanders, I support a woman’s right to make her own private reproductive choices.",
+          "sourceUrl": "https://www.reed.senate.gov/news/releases/reed-statement-on-draft-supreme-court-decision-to-overturn-roe-v-wade",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "He cosponsored the Equality Act and urged protections against discrimination based on gender identity, including in education.",
+          "quote": "Every person in this country, regardless of their sexual orientation, gender identity, or who they love, deserves to be treated with fairness and dignity.",
+          "sourceUrl": "https://www.reed.senate.gov/news/releases/reed-lauds-house-passage-of-cicillines-equality-act-and-presses-for-passage-in-us-senate",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He introduced legislation to repeal Medicaid cuts and extend Affordable Care Act tax credits.",
+          "quote": "I am pleased to join my colleagues in introducing legislation to repeal the Medicaid cuts in the ‘Big Ugly Betrayal’ law and extend the Affordable Care Act’s enhanced tax credits",
+          "sourceUrl": "https://www.reed.senate.gov/news/releases/on-60th-anniversary-of-medicare-and-medicaid-reed-seeks-to-repeal-health-care-cuts-in-trumps-big-ugly-betrayal",
+          "agreement": "4/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He supports a national energy policy that limits carbon pollution and develops renewable energy.",
+          "quote": "a national energy policy that limits carbon pollution, focuses on the development of clean, renewable energy sources that create jobs, and holds big polluters accountable.",
+          "sourceUrl": "https://www.reed.senate.gov/issues/climate-and-environment",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He voted to advance the For the People Act, which would expand registration and require early voting.",
+          "quote": "today voted to advance H.R. 1, the For the People Act, which would protect Americans’ freedom to vote; expand voter registration",
+          "sourceUrl": "https://www.reed.senate.gov/news/releases/reed-voting-is-an-essential-civic-duty-and-the-for-the-people-act-would-help-safeguard-our-democracy",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "RAYMOND T MCKAY",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "McKay said workers should not be overly taxed and pledged to speak out about tax policies and government spending.",
+          "quote": "Let us be clear that I stand with Rhode Island Seniors and our workers, both union and non-union, to earn a decent wage and not be overly taxed by the federal government, or the State government.",
+          "sourceUrl": "https://myemail.constantcontact.com/McKay-s-Formal-U--S--Senate-Campaign-Announcement.html?aid=hdstRzJZtLc&soid=1139983444375",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He calls for balancing the budget while saying he would secure Social Security and Medicare through spending cuts and anti-fraud efforts.",
+          "quote": "Ray is committed to securing the health of Social Security and Medicare by cutting “well-intentioned” programs, slashing wasteful, redundant spending by unaccountable, unelected government departments and agencies, going after and stopping fraud, and by seeking prison time for those who steal from you, the taxpayer.",
+          "sourceUrl": "https://www.mckayforussenate.com/right-direction/",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "His campaign calls for securing the borders and adopting immigration and enforcement policies that prioritize Americans’ interests.",
+          "quote": "Ray is committed to addressing responsible immigration and enforcement policies that consider the best interest of Rhode Islanders and Americans First.",
+          "sourceUrl": "https://www.mckayforussenate.com/right-direction/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "McKay said he supports the Second Amendment and criticized weapons-ban legislation.",
+          "quote": "As a constitutional conservative, McKay fully supports the Second Amendment and thinks the United States as a whole, needs to look towards strengthening support of the mental health community.",
+          "sourceUrl": "https://myemail.constantcontact.com/McKay-s-Formal-U--S--Senate-Campaign-Announcement.html?aid=hdstRzJZtLc&soid=1139983444375",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "McKay said he supports limiting women’s sports to biological women.",
+          "quote": "McKay states he fully supports biological women only in women sports.",
+          "sourceUrl": "https://myemail.constantcontact.com/McKay-s-Formal-U--S--Senate-Campaign-Announcement.html?aid=hdstRzJZtLc&soid=1139983444375",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "McKay criticized offshore wind policies for raising electricity costs and said he supports nuclear and fossil-fuel power.",
+          "quote": "McKay fully supports the increased investment in and deployment of nuclear power that will support our current needs and the expansion of data centers combined with the growth of AI. McKay also supports the continued use of clean burning fossil fuel, whether it be gas or coal.",
+          "sourceUrl": "https://myemail.constantcontact.com/McKay-s-Formal-U--S--Senate-Campaign-Announcement.html?aid=hdstRzJZtLc&soid=1139983444375",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "reed.senate.gov · myemail.constantcontact.com · mckayforussenate.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

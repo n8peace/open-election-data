@@ -1,0 +1,128 @@
+{
+  "office": "U.S. Representative",
+  "district": "RI District 1",
+  "division": "ri/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "GABRIEL FELIX KOFI AMO",
+      "party": "Democrat",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He offered an amendment to support Medicare solvency by closing tax loopholes and requiring higher contributions from wealthy taxpayers.",
+          "quote": "His first amendment would support protecting and extending Medicare’s solvency by closing tax loopholes and requiring wealthy taxpayers to contribute more to Medicare.",
+          "sourceUrl": "https://amo.house.gov/press-release/amo-forcefully-advocates-for-the-supplemental-nutrition-assistance-program",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "He cosponsored the Raise the Wage Act of 2025, which would increase the federal minimum wage.",
+          "quote": "To provide for increases in the Federal minimum wage, and for other purposes.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr2743ih/related",
+          "agreement": "3/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Amo opposed Trump’s tariffs, saying they made it harder for Rhode Island businesses to plan, hire, and succeed.",
+          "quote": "Trump’s on-again, off-again tariffs are making it difficult for Rhode Island businesses to plan, hire, and succeed",
+          "sourceUrl": "https://amo.house.gov/press-release/amo-joins-local-importer-hurt-by-trump-s-tariff-chaos-and-looming-snap-impacts-on-school-meals",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "His campaign said he fought to protect Social Security and Medicare.",
+          "quote": "Gabe fought to protect Social Security and Medicare and worked with local leaders to rebuild communities shattered by gun violence.",
+          "sourceUrl": "https://www.gabeamo.com/about-the-campaign/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "He voted against legislation to add funding for ICE and deportation enforcement, calling it an expansion of the deportation system.",
+          "quote": "Now they’ve doubled down, giving another $70 billion of your money to expand Trump’s ICE force and bankroll more abuses of power.",
+          "sourceUrl": "https://amo.house.gov/press-release/amo-slams-republican-scheme-to-fund-trump-s-masked-ice-agents-while-families-face-rising-costs",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Amo’s campaign said he would protect women’s reproductive freedom and oppose attacks on abortion rights.",
+          "quote": "In Congress, Gabe will always stand up to extreme MAGA Republicans to be a voice for Rhode Island’s Democratic values and protect women’s reproductive freedom.",
+          "sourceUrl": "https://www.gabeamo.com/about-the-campaign/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "Amo joined a call for Congress to defend Medicaid against efforts to take health insurance away from millions of Americans.",
+          "quote": "defend Medicaid against ongoing Republican efforts to take health insurance away from millions of Americans",
+          "sourceUrl": "https://amo.house.gov/press-release/whitehouse-magaziner-amo-vow-to-defend-medicaid-from-republican-efforts-to-take-health-care-away-from-moms-and-babies",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "He introduced an amendment to reverse energy cuts and has opposed the cancellation of clean-energy projects.",
+          "quote": "Amo introduced an Amendment to reverse the energy cuts in the Big, Ugly Law and lower costs for consumers.",
+          "sourceUrl": "https://amo.house.gov/press-release/amo-fights-back-against-republican-budget-that-increases-debt-funds-illegal-war-and-fails-to-lower-costs",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "KELLIE ELEANOR KEENAN",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Her platform calls for tax relief for working families and seniors.",
+          "quote": "Provide tax relief for working families and seniors",
+          "sourceUrl": "https://www.kelliekeenanforcongressri.com/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Her platform supports school choice and homeschooling options.",
+          "quote": "Support standardized testing & focusing on real academic outcomes Strengthen civics and financial literacy Support school choice and homeschooling options Ensure transparency for parents and communities",
+          "sourceUrl": "https://www.kelliekeenanforcongressri.com/",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Her platform calls for lower energy costs and a diversified energy mix.",
+          "quote": "Lower energy costs for Rhode Island families Increase transparency and accountability for ratepayers Diversify our energy mix for long-term stability Explore next-generation nuclear as part of a balanced energy future",
+          "sourceUrl": "https://www.kelliekeenanforcongressri.com/",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "amo.house.gov · govinfo.gov · gabeamo.com · kelliekeenanforcongressri.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}
