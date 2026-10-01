@@ -1,0 +1,168 @@
+{
+  "office": "U.S. Representative",
+  "district": "GA District 1",
+  "division": "ga/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Amanda Hollowell",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She says she helped block deeper income tax cuts that would have reduced funding for schools, health care, and essential services.",
+          "quote": "Preserved critical state revenue by helping block deeper income tax cuts that would have reduced funding for schools, healthcare, and essential services",
+          "sourceUrl": "https://www.amandaforga.com/achievements-initiatives",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Her campaign says she supports higher wages, fair pay, and workers’ right to organize.",
+          "quote": "Amanda supports expanding apprenticeship programs, protecting the right to organize, and making sure federal investments actually reach our workers, not just CEOs.",
+          "sourceUrl": "https://blue-parakeet-g9tc.squarespace.com/issues",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "She says she helped secure full funding for Georgia’s Quality Basic Education program and supports public education funding.",
+          "quote": "Protected and strengthened public education funding by helping drive the effort to secure full funding of Quality Basic Education (QBE) for a second consecutive year",
+          "sourceUrl": "https://www.amandaforga.com/achievements-initiatives",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports gun legislation including Ethan’s Law and a ban on assault weapons and other high-caliber weapons.",
+          "quote": "She supports common-sense gun legislation like Ethan’s Law and banning assault weapons and other high-caliber weapons.",
+          "sourceUrl": "https://blue-parakeet-g9tc.squarespace.com/issues",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Her campaign says she will defend reproductive freedom.",
+          "quote": "Amanda will defend LGBTQ+ rights, fight for reproductive freedom, and oppose extremist attacks on personal privacy, public health, and identity.",
+          "sourceUrl": "https://blue-parakeet-g9tc.squarespace.com/issues",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports Medicaid expansion and says she will protect Medicaid from cuts.",
+          "quote": "Amanda will fight to fully fund rural hospitals, expand mental health services, and protect Medicaid from harmful cuts.",
+          "sourceUrl": "https://blue-parakeet-g9tc.squarespace.com/issues",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She supports expanding ballot access and opposes voter suppression.",
+          "quote": "That means restoring voting rights, expanding access to the ballot box, and standing up to gerrymandering and voter suppression in Georgia.",
+          "sourceUrl": "https://blue-parakeet-g9tc.squarespace.com/issues",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Jim Kingston",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Kingston says he will seek across-the-board tax cuts for families and small businesses.",
+          "quote": "I will always fight to lower taxes across the board so families keep more of what they earn, and small businesses can thrive.",
+          "sourceUrl": "https://www.jimkingston.org/issues",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports fiscal discipline and balanced budgets while also pledging to preserve Medicare for seniors, with reforms to its long-term solvency.",
+          "quote": "I will fight to preserve Medicare for seniors who have paid into it while pushing for reforms that ensure its long-term solvency.",
+          "sourceUrl": "https://www.jimkingston.org/issues",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Kingston supports providing law enforcement with resources and imposing tougher penalties for violent criminals.",
+          "quote": "I proudly back the blue, oppose dangerous soft-on-crime policies and support giving our law enforcement agencies the resources they need to keep our communities safe.",
+          "sourceUrl": "https://www.jimkingston.org/issues",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supports more resources for border enforcement and a merit-based legal immigration policy focused on safety and national interests.",
+          "quote": "I support deploying more resources for border enforcement to crack down on cartels and traffickers, and a legal immigration policy that is merit-based and focused on safety and our nation’s interest.",
+          "sourceUrl": "https://www.jimkingston.org/issues",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Kingston says he will oppose attempts to impose gun-control restrictions.",
+          "quote": "As a proud gun owner, I will oppose any attempt by radical gun control advocates to trample on our most fundamental right to protect our families, our property and our freedom.",
+          "sourceUrl": "https://www.jimkingston.org/issues",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He identifies as pro-life and supports banning late-term abortions and ending taxpayer funding for abortion providers.",
+          "quote": "I am proudly pro-life and I believe it is our moral responsibility to defend the sanctity of life.",
+          "sourceUrl": "https://www.jimkingston.org/issues",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Kingston supports legislation and state and local laws protecting female athletes based on biological sex.",
+          "quote": "I support the Protection of Women and Girls in Sports Act and the promotion of state and local laws that prevent schools from being punished for protecting female athletes.",
+          "sourceUrl": "https://www.jimkingston.org/issues",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supports domestic drilling and streamlined permitting to keep gas and electricity affordable.",
+          "quote": "I support more domestic drilling (responsibly), streamlined permitting and an all-of-the-above strategy to keep gas and electricity affordable while cutting off our reliance on foreign adversaries.",
+          "sourceUrl": "https://www.jimkingston.org/issues",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Kingston supports voter ID requirements and banning ballot harvesting.",
+          "quote": "I support voter ID requirements, banning ballot harvesting and ensuring that every legal vote counts, and only legal votes count.",
+          "sourceUrl": "https://www.jimkingston.org/issues",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "amandaforga.com · blue-parakeet-g9tc.squarespace.com · jimkingston.org",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

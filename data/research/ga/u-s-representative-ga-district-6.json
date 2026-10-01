@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Kevin Eugene Martin",
-      "party": "Republican"
-    },
-    {
       "name": "Lucy McBath",
       "party": "Democratic"
+    },
+    {
+      "name": "Kevin Martin",
+      "party": "Republican"
     }
   ]
 }

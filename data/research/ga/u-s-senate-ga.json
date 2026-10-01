@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Allen Buckley",
-      "party": "Libertarian"
-    },
-    {
       "name": "Jon Ossoff",
       "party": "Democratic"
+    },
+    {
+      "name": "Mike Collins",
+      "party": "Republican"
     }
   ]
 }

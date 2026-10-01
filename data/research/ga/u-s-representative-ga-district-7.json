@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Rich McCormick",
-      "party": "Republican"
-    },
-    {
       "name": "Tony Kozycki",
       "party": "Democratic"
+    },
+    {
+      "name": "Rich McCormick",
+      "party": "Republican"
     }
   ]
 }

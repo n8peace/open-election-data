@@ -1,0 +1,208 @@
+{
+  "office": "U.S. Representative",
+  "district": "GA District 6",
+  "division": "ga/cd-6",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Lucy McBath",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She voted against a bill that paired tax cuts with reductions in health care and food assistance.",
+          "quote": "U.S. Representative Lucy McBath (GA-06) today voted against the “One Big, Beautiful” megabill, which will take health care away from 17 million people and leave millions more without food, all to give unelected billionaires huge tax breaks.",
+          "sourceUrl": "https://mcbath.house.gov/2025/07/03/2025-7-mcbath-blasts-passage-of-republican-megabill/",
+          "agreement": "3/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "McBath backed an agenda calling for a higher minimum wage and a stronger voice for workers.",
+          "quote": "Increase the minimum wage and ensure workers have a seat at the table.",
+          "sourceUrl": "https://mcbath.house.gov/2026/02/11/2026-2-mcbath-new-dems-unveil-affordability-agenda-to-address-the-cost-of-living-crisis/",
+          "agreement": "6/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "McBath backed rolling back Trump’s tariffs and advancing trade policies intended to increase competition and lower prices.",
+          "quote": "Restore certainty by rolling back Trump’s tariffs and advancing smarter, durable trade policies.",
+          "sourceUrl": "https://mcbath.house.gov/2026/02/11/2026-2-mcbath-new-dems-unveil-affordability-agenda-to-address-the-cost-of-living-crisis/",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "She voted against legislation she said would cut Medicare while also increasing federal debt.",
+          "quote": "The bill cuts more than $1 trillion from health care, including the largest Medicaid cut ever, and will cause a $500 billion cut to Medicare.",
+          "sourceUrl": "https://mcbath.house.gov/2025/07/03/2025-7-mcbath-blasts-passage-of-republican-megabill/",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "McBath backed a plan to update zoning and permitting to support building four million homes over the next decade.",
+          "quote": "Cut red tape and update permitting and zoning to build four million homes in the next decade.",
+          "sourceUrl": "https://mcbath.house.gov/2026/02/11/2026-2-mcbath-new-dems-unveil-affordability-agenda-to-address-the-cost-of-living-crisis/",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "Her campaign says she supports full funding for K–12 education and more affordable public higher education.",
+          "quote": "She supports fully funding K-12 education and making public universities, vocational schools, and community colleges more affordable.",
+          "sourceUrl": "https://lucyforcongress.com/issues/",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "strong",
+          "text": "McBath joined a community safety initiative that prioritizes prevention and community support in public safety policy.",
+          "quote": "an evidence-informed approach to public safety that prioritizes care, connection, and prevention over punishment, control, and isolation.",
+          "sourceUrl": "https://mcbath.house.gov/2025/07/15/2025-7-mcbath-joins-colleagues-100-advocacy-groups-to-launch-community-safety-agenda/",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Her campaign platform calls for comprehensive immigration reform, humane border management, and support for DREAMers.",
+          "quote": "It is time to pursue comprehensive immigration reform for our fellow neighbors and families living in fear and new regulations for humane border management.",
+          "sourceUrl": "https://lucyforcongress.com/issues/",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Her campaign says she has sponsored gun-safety legislation and supported House-passed measures.",
+          "quote": "Congresswoman McBath is proud to have sponsored gun safety legislation and supported several measures which passed the House.",
+          "sourceUrl": "https://lucyforcongress.com/issues/",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "McBath voted for legislation to protect abortion rights and interstate travel to obtain an abortion.",
+          "quote": "voted to pass both The Women’s Health Protection Act and The Ensuring Women’s Right to Reproductive Freedom Act",
+          "sourceUrl": "https://mcbath.house.gov/2022/07/15/2022-7-mcbath-votes-to-protect-reproductive-rights/",
+          "agreement": "5/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "She voted against the Protection of Women and Girls in Sports Act of 2025.",
+          "quote": "Vote Question: On Passage Protection of Women and Girls in Sports Act Vote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512?VoteType=YEA-AND-NAY",
+          "agreement": "3/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "She voted yes on passage of the MORE Act.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "McBath backed fully funding Medicaid, strengthening Medicare benefits, and expanding access to care.",
+          "quote": "Expand access to care by fully funding Medicaid and strengthening Medicare’s guaranteed benefits.",
+          "sourceUrl": "https://mcbath.house.gov/2026/02/11/2026-2-mcbath-new-dems-unveil-affordability-agenda-to-address-the-cost-of-living-crisis/",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She voted for the Inflation Reduction Act, which included major climate investments intended to reduce carbon emissions.",
+          "quote": "Lowers energy costs and delivers largest-ever climate action: invests in domestic energy production and manufacturing, while reducing carbon emissions by roughly 40% by 2030 with historic investments in energy security and tackling the climate crisis.",
+          "sourceUrl": "https://mcbath.house.gov/2022/08/12/2022-8-house-votes-to-pass-the-inflation-reduction-act-bill-includes-mcbath-measure-to-lower-the-cost-of-prescription-drugs/",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "McBath supported the For the People Act and voting-rights legislation intended to protect ballot access.",
+          "quote": "legislation that will help us guarantee the right of Americans across our country to cast their ballot without fear of interference or obstruction.",
+          "sourceUrl": "https://mcbath.house.gov/2022/1/rep-mcbath-joins-president-biden-in-urging-congressional-action-on-voting-rights",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Kevin Martin",
+      "party": "Republican",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He said the federal minimum wage should keep pace with inflation, while warning against compressing the pay ladder.",
+          "quote": "The minimum wage needs to keep up with the inflation so that the lesser earners are able to still maintain a livelihood",
+          "sourceUrl": "https://kevinmartinforcongress.com/issues/wages",
+          "agreement": "3/3"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He calls for a regular federal budget, scrutiny of programs, and an end to what he describes as open-ended spending.",
+          "quote": "We cannot continue with an open pocketbook policy and continuing to stroke checks for special programs that are not needed in the long run.",
+          "sourceUrl": "https://kevinmartinforcongress.com/issues/budget",
+          "agreement": "2/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He supports opening unused federal land for housing and says more supply can bring prices down.",
+          "quote": "There is federal land sitting unused today. Congress can decide to make it available for housing",
+          "sourceUrl": "https://kevinmartinforcongress.com/issues/housing",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He said education funding should be kept at state and local levels, with decisions made in communities.",
+          "quote": "All funding for education should be maintained and kept at the state and local levels where they are better apt to serve our children",
+          "sourceUrl": "https://kevinmartinforcongress.com/issues/schools",
+          "agreement": "2/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He calls for properly funding law enforcement and changing federal pretrial release rules.",
+          "quote": "Fund law enforcement properly, and stop treating it as a bargaining chip.",
+          "sourceUrl": "https://kevinmartinforcongress.com/issues/crime",
+          "agreement": "3/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He opposes a national gun registry and says federal gun laws should focus on people who pose a demonstrated threat.",
+          "quote": "I do not like the idea of having a national list of gun ownership in the federal government. Let it stay at the state level.",
+          "sourceUrl": "https://kevinmartinforcongress.com/issues/second-amendment",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "mcbath.house.gov · lucyforcongress.com · clerk.house.gov · kevinmartinforcongress.com",
+  "checkedAt": "2026-09-30",
+  "reviewed": false
+}

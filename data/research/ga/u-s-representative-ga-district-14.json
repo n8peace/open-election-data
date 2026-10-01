@@ -5,16 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Andrew Underwood",
-      "party": "Libertarian"
-    },
-    {
-      "name": "Clayton \"Clay\" Fuller",
-      "party": "Republican"
-    },
-    {
-      "name": "Shawn A. Harris",
+      "name": "Shawn Harris",
       "party": "Democratic"
+    },
+    {
+      "name": "Clay Fuller",
+      "party": "Republican"
     }
   ]
 }
