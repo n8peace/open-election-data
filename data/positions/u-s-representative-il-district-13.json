@@ -1,0 +1,208 @@
+{
+  "office": "U.S. Representative",
+  "district": "IL District 13",
+  "division": "il/cd-13",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Jeff Wilson",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Wilson supports reducing taxes, saying lower taxes bring more prosperity.",
+          "quote": "Taxes are out of control. I support the reduction of taxes. Less taxes equals more prosperity for American citizens.",
+          "sourceUrl": "https://ivoterguide.com/candidate/89061/race/23786/election/1346",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Wilson supports cutting spending to reduce the national debt.",
+          "quote": "The government should cut spending in order to reduce the national debt. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/89061/race/23786/election/1346",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "His campaign says he would support law-enforcement officers and efforts to stop violent crime.",
+          "quote": "He will fight to secure our border, stop the flow of illegal drugs, and stand with law enforcement officers who work every day to protect our communities and uphold the rule of law.",
+          "sourceUrl": "https://www.wilsonforcongress.com/issues",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "Wilson says gun ownership restrictions should follow existing federal law and describes himself as a supporter of the Second Amendment.",
+          "quote": "Whether it's standing up for free speech, safeguarding the Second Amendment, or fighting federal overreach, Jeff believes our founding values are not negotiable - they are worth defending.",
+          "sourceUrl": "https://www.wilsonforcongress.com/issues",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Wilson says human life deserves legal protection from conception and supports enforcing federal restrictions on mailing abortion inducing drugs.",
+          "quote": "Human life deserves legal protection from conception until natural death. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/89061/race/23786/election/1346",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Wilson says biological males should not participate in women's sports or occupy women's spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/89061/race/23786/election/1346",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He says Medicaid and Medicare should remain available but opposes additional taxpayer-funded health programs.",
+          "quote": "Medicaid and Medicare should remain available, but no other taxpayer-funded programs are necessary.",
+          "sourceUrl": "https://ivoterguide.com/candidate/89061/race/23786/election/1346",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Wilson disagrees that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/89061/race/23786/election/1346",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Nikki Budzinski",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She opposed a tax package that cut Medicaid and SNAP while calling for middle-class tax relief and support for people in need.",
+          "quote": "We need middle class tax relief, support for those who need it, and real fiscal responsibility.",
+          "sourceUrl": "https://budzinski.house.gov/posts/budzinski-votes-no-on-tax-package-that-hurts-working-families",
+          "agreement": "4/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supports increasing the minimum wage and strengthening workers’ rights through union protections.",
+          "quote": "Increase the minimum wage and ensure workers have a seat at the table.",
+          "sourceUrl": "https://budzinski.house.gov/posts/budzinski-unveils-affordability-agenda-to-address-the-cost-of-living-crisis",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She says she opposes changes that would undercut Social Security and Medicare benefits.",
+          "quote": "I will continue to oppose any changes that will undercut these vital programs and ensure these programs remain solvent for generations to come.",
+          "sourceUrl": "https://nikkiforcongress.com/issues/protecting-medicare-social-security/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Her affordability agenda proposes updating permitting and zoning rules to build more homes.",
+          "quote": "Cut red tape and update permitting and zoning to build four million homes in the next decade.",
+          "sourceUrl": "https://budzinski.house.gov/posts/budzinski-unveils-affordability-agenda-to-address-the-cost-of-living-crisis",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports full funding for public schools and opposes vouchers that privatize the school system.",
+          "quote": "Public schools are critical to supporting our nation’s future. That’s why I am strongly opposed to efforts to privatize our school system through vouchers.",
+          "sourceUrl": "https://nikkiforcongress.com/issues/education-2/",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "She called for restoring federal funding for local law enforcement rather than deploying the National Guard.",
+          "quote": "If the President truly wanted to tackle crime, he would strengthen our local law enforcement by restoring the very funding he himself has cut.",
+          "sourceUrl": "https://budzinski.house.gov/posts/budzinski-statement-on-president-trumps-illegal-plans-to-deploy-the-national-guard-to-chicago",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supported both additional border resources and legal pathways for people seeking status or citizenship.",
+          "quote": "More funding to secure our border, fixing our broken asylum system, creating a legal pathway for those legally looking for status into our country.",
+          "sourceUrl": "https://www.pbs.org/video/meet-the-candidates-rep-nikki-budzinski-kdwarz/",
+          "agreement": "3/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Her platform endorsed stronger red-flag laws, universal background checks, and eliminating military-style weapons.",
+          "quote": "her platform endorses the strengthening of red flag laws, universal background checks and the elimination of military-style weapons.",
+          "sourceUrl": "https://dailyillini.com/news-stories/world-news/national-news/us-government/national-elections/2024/10/16/budzinski-reelection/",
+          "agreement": "4/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She supports a federal statutory right to abortion care and says she will work to restore Roe v. Wade protections.",
+          "quote": "I believe that every woman deserves access to safe, legal reproductive health care, and politicians have no place in a doctors’ office.",
+          "sourceUrl": "https://nikkiforcongress.com/issues/defending-reproductive-rights/",
+          "agreement": "7/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "She voted against final passage of the Protection of Women and Girls in Sports Act.",
+          "quote": "Vote Question: On Passage Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512?VoteType=YEA-AND-NAY",
+          "agreement": "5/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "She cosponsored the MORE Act, which would federally deschedule, legalize, and tax cannabis.",
+          "quote": "Cosponsors the MORE Act, which provides for federal descheduling, legalization, and taxation of cannabis at the federal level, with community reinvestment and a focus on equity (HR 5601, 2023)",
+          "sourceUrl": "https://www.mpp.org/assets/pdf/takeaction/election-central1/voter-guides/mpp-scorecard-us-congress-and-incumbents-2024.pdf?v=1752570194",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She opposes major Medicaid cuts and supports fully funding Medicaid and strengthening Medicare benefits.",
+          "quote": "Expand access to care by fully funding Medicaid and strengthening Medicare’s guaranteed benefits.",
+          "sourceUrl": "https://budzinski.house.gov/posts/budzinski-unveils-affordability-agenda-to-address-the-cost-of-living-crisis",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "She led a congressional letter opposing a rule targeting mail-in voting and defended access to voting by mail.",
+          "quote": "The evidence is clear: voting by mail is safe, effective, and helps to ensure everyone is able to execute their constitutional right to vote.",
+          "sourceUrl": "https://budzinski.house.gov/posts/budzinski-pappas-krishnamoorthi-lead-letter-urging-usps-to-revoke-rule-codifying-mail-in-voting-executive-order",
+          "agreement": "9/10"
+        }
+      }
+    }
+  ],
+  "sources": "ivoterguide.com · wilsonforcongress.com · budzinski.house.gov · nikkiforcongress.com · pbs.org · dailyillini.com · clerk.house.gov · mpp.org",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}
