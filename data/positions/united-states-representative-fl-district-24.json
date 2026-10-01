@@ -1,0 +1,88 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 24",
+  "division": "fl/cd-24",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Te Mayonna Brown",
+      "party": "REP",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Her campaign agenda calls for building more affordable housing and lowering barriers to homeownership.",
+          "quote": "Lower the barriers to buying a home, build more affordable housing, and address the cost of living.",
+          "sourceUrl": "https://tebrownforflorida.com/the-people-first-agenda/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "She supports directing education funding to students and letting families choose among public, charter, private, and homeschool options.",
+          "quote": "Families should be empowered to choose the best learning environment for their children, whether that is a public school, charter school, private school, or homeschool.",
+          "sourceUrl": "https://tebrownforflorida.com/issues/",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Her campaign agenda says she supports law enforcement and addressing crime to make communities safer.",
+          "quote": "Support law enforcement, address crime, and make communities safer.",
+          "sourceUrl": "https://tebrownforflorida.com/the-people-first-agenda/",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports border enforcement and removal of some immigrants, while also supporting an earned path to citizenship and a lawful process for some people to remain.",
+          "quote": "I support securing our southern border, enforcing our immigration laws, and prioritizing the removal of criminals and those who pose a threat to public safety. At the same time, we should create a clear, lawful process for people who have earned the right to remain",
+          "sourceUrl": "https://tebrownforflorida.com/issues/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Oliver G. Gilbert III",
+      "party": "DEM",
+      "stances": {
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports citizenship pathways and protections for Dreamers, TPS holders, and other immigrants, along with orderly border management.",
+          "quote": "I support: - A roadmap to citizenship for Dreamers, TPS holders, and the immigrants whose labor keeps our economy running; - Permanently protecting TPS and DACA;",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020315",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports a pathway to make health care a right and says he would strengthen the Affordable Care Act and defend Medicare and Medicaid.",
+          "quote": "In Congress, Oliver will fight for a pathway to ensure that healthcare is a right for every American.",
+          "sourceUrl": "https://olivergilbert.vote/issues/",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "tebrownforflorida.com · onyourballot.vote411.org · olivergilbert.vote",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

@@ -1,0 +1,160 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 23",
+  "division": "fl/cd-23",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Deborah Adeimy",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "Adeimy says government does not spend Americans’ earnings wisely and criticizes tax increases on income, capital gains, and corporations.",
+          "quote": "The prior Administration’s extreme spending caused inflation plus tax increases on Americans’ income, capital gains and Corporate taxes, had many damaging impacts.",
+          "sourceUrl": "https://debadeimy4congress.com/issues/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "slower growth",
+          "strength": "lean",
+          "text": "Adeimy criticizes overdevelopment by outside developers and says homeownership should be protected.",
+          "quote": "My home state of Florida is a unique peninsula being abused by some outside developers, distorting markets and economically pushing residents out. Home ownership is an American Dream and must be protected.",
+          "sourceUrl": "https://debadeimy4congress.com/issues/",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Adeimy supports legal immigration but condemns illegal and forced entry and calls the open-border strategy dangerous.",
+          "quote": "Americans are generous and empathetic, but patience is lost when illegal and forced entry into Our Great Country defiantly continues.",
+          "sourceUrl": "https://debadeimy4congress.com/issues/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "Her campaign lists the Second Amendment among the principles she supports.",
+          "quote": "STRONG MILITARY U.S. Constitution LAW ENFORCEMENT SUPPORT ISRAEL Second Amendment HONOR VETERANS",
+          "sourceUrl": "https://debadeimy4congress.com/",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Lois Frankel",
+      "party": "DEM",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She co-sponsored a bill to raise the federal minimum wage and said higher wages would help families.",
+          "quote": "A hard day’s work should mean a decent day’s pay. Increasing the minimum wage would help families put food on the table",
+          "sourceUrl": "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=163",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "She joined a legal challenge to Trump tariffs that her office described as sweeping and chaotic.",
+          "quote": "challenging President Donald Trump’s sweeping and chaotic tariffs that were unlawfully imposed under the International Emergency Economic Powers Act (IEEPA).",
+          "sourceUrl": "https://frankel.house.gov/fighting-back-against-trump/",
+          "agreement": "3/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She says she opposes cuts to Social Security benefits and supports expanding Medicare benefits.",
+          "quote": "I will always oppose Republicans’ efforts to privatize Social Security or cut the essential benefits that our seniors have earned",
+          "sourceUrl": "https://frankel.house.gov/issues/issue/?IssueID=14896",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She requested funding for a project intended to increase the local supply of affordable housing.",
+          "quote": "This project is an appropriate use of taxpayer funds because it will increase the affordable housing supply in Palm Beach County",
+          "sourceUrl": "https://frankel.house.gov/constituent-services/fy-27-community-project-funding.htm",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She says she has fought for more funding for public schools and opposes cuts to education funding.",
+          "quote": "I have fought for increased funding to improve our nation’s public school system",
+          "sourceUrl": "https://frankel.house.gov/issues/issue/?IssueID=14894",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She voted for a package that funded police recruitment and investigations while also funding unarmed mental-health responses and community violence intervention.",
+          "quote": "The Mental Health Justice Act which will help send unarmed mental health professionals to respond to mental health crises in our neighborhoods.",
+          "sourceUrl": "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=3530",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She supports legal pathways to citizenship and cosponsored a bill offering one to Dreamers and certain other immigrants.",
+          "quote": "I will continue working to support legal pathways to citizenship, reducing visa wait times for workers essential to our economy",
+          "sourceUrl": "https://frankel.house.gov/issues/issue/?IssueID=14895",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports universal background checks and other measures to restrict access to firearms.",
+          "quote": "I will continue to fight for further legislation to reduce gun violence, including measures to require safe storage of firearms, require universal background checks",
+          "sourceUrl": "https://frankel.house.gov/issues/issue/?IssueID=14905",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She says she supports restoring abortion rights nationwide and cosponsors legislation to protect abortion access.",
+          "quote": "I am fully committed to restoring the right to abortion nationwide.",
+          "sourceUrl": "https://frankel.house.gov/issues/issue/?IssueID=14902",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports lowering the Medicare eligibility age and expanding Medicare benefits.",
+          "quote": "I also support legislation to lower the Medicare eligibility age, reduce premiums, expand benefits, and provide dental, hearing, and vision coverage.",
+          "sourceUrl": "https://frankel.house.gov/issues/issue/?IssueID=14896",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She supported the Inflation Reduction Act, which she says invests in clean energy and reduces emissions.",
+          "quote": "I am also proud to have supported the Inflation Reduction Act (IRA), the most substantial legislation to combat climate change in our nation’s history.",
+          "sourceUrl": "https://frankel.house.gov/issues/issue/?IssueID=14887",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "debadeimy4congress.com · frankel.house.gov",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

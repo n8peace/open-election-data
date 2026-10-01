@@ -1,0 +1,238 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 21",
+  "division": "fl/cd-21",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Alexander Cooke",
+      "party": "NPA",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "He says he will cut taxes on everyday essentials for families and retirees.",
+          "quote": "Cut taxes on everyday essentials for families and retirees",
+          "sourceUrl": "https://alexcookeforcongress.com/",
+          "agreement": "4/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He said he would rein in tariffs that raise prices for everyday goods and small businesses.",
+          "quote": "That means reining in reckless tariffs that raise the price of everyday goods and squeeze small businesses owners.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020313",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He pledges no Social Security benefit cuts, retirement-age increase, or privatization.",
+          "quote": "No benefit cuts. No raising the retirement age. No privatization. You paid in your whole life — you get what you were promised.",
+          "sourceUrl": "https://alexcookeforcongress.com/",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He opposes federal zoning preemption while proposing incentives for accessory dwelling units, duplexes, and townhomes.",
+          "quote": "Targeted federal loan guarantees and tax credits for accessory dwelling units, duplexes, and townhomes — the most cost-effective way to add gentle-density supply without state-level preemption fights.",
+          "sourceUrl": "https://alexcookeforcongress.com/issues/live-local-act",
+          "agreement": "8/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports border enforcement and accountability while also calling for a less burdensome legal immigration process.",
+          "quote": "Enforce the law on both sides—not just against the person with the least power. And fix legal immigration so people who follow the rules aren’t trapped for years in a broken bureaucracy.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020313",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He opposes making it harder for eligible citizens to vote and supports affordable ways to obtain citizenship documents if required.",
+          "quote": "I will fight any attempt to make it harder for lawful American citizens to vote. The right to vote is fundamental to our democracy.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020313",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "James T. Martin",
+      "party": "DEM",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He supports ending tariffs that he says raise grocery prices.",
+          "quote": "Whether it’s ending reckless tariffs driving up the price of groceries, using antitrust laws to break up the corporate consolidation that is squeezing consumers at every turn",
+          "sourceUrl": "https://www.jamesmartinforflorida.com/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says he would not vote to cut Social Security or Medicare and opposes raising the retirement age or privatizing Social Security.",
+          "quote": "He will never vote to cut Social Security, Medicare, or veterans’ benefits. That means opposing any effort to raise the retirement age, privatize Social Security, or gut the Department of Veteran’s Affairs under the guise of reform.",
+          "sourceUrl": "https://www.jamesmartinforflorida.com/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports a public option while saying people should be able to keep employer or union coverage they like.",
+          "quote": "That’s why he supports a public option: a pathway to quality, affordable healthcare for every American who wants it, without taking away what’s already working for millions of families.",
+          "sourceUrl": "https://www.jamesmartinforflorida.com/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He opposes efforts to make voting harder and supports affordable records and alternative proof when documentation is required.",
+          "quote": "I will fight any attempt to make it harder for lawful American citizens to vote. The right to vote is fundamental to our democracy.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020313",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Brian Mast",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Mast says he will continue fighting to reduce taxes for Florida families and workers.",
+          "quote": "I’m also dedicated to continuing to reduce the tax burden on Florida families.",
+          "sourceUrl": "https://mast.house.gov/tax",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "Mast voted against the 2019 Raise the Wage Act, which proposed raising the federal minimum wage.",
+          "quote": "Vote Question: On Passage Raise the Wage Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "6/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "Mast said he supports the tariffs and argued they encourage investment and bring results.",
+          "quote": "I support the tariffs and I support the brinksmanship that's going on because it brings results.",
+          "sourceUrl": "https://transcripts.cnn.com/show/cg/date/2025-03-03/segment/02",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Mast says he will protect Medicare and Social Security, while supporting reforms to keep Social Security solvent for future generations.",
+          "quote": "I will not support changing Social Security for current retirees or for workers near retirement.",
+          "sourceUrl": "https://mast.house.gov/seniors",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "Mast says parents should be able to choose public, private, or home education for their children.",
+          "quote": "Whether public, private, or homeschooling, families deserve options and should be empowered to help their child thrive.",
+          "sourceUrl": "https://mast.house.gov/2025/3/school-choice-empowers-students-and-families",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Mast backs local law enforcement and community organizations that work to prevent crime, violence, and related harms.",
+          "quote": "supporting our local law enforcement and providing local community organizations with the support they need to fight crime, prevent domestic terrorism",
+          "sourceUrl": "https://mast.house.gov/safety",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supports self-deportation or removal of people in the country illegally and stronger border enforcement.",
+          "quote": "Leave now on your own, and you may get the chance to return, but force law enforcement to remove you and you will never be allowed to come back.",
+          "sourceUrl": "https://mast.house.gov/2025/3/the-message-is-clear-leave-now-or-you-will-never-return",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He says he has opposed efforts to give federal officials more control over firearm laws.",
+          "quote": "I have opposed efforts by Nancy Pelosi and her allies to erode the 2nd Amendment by giving unelected bureaucrats more control over firearm laws in the United States.",
+          "sourceUrl": "https://mastforcongress.com/priorities/",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Mast praised overturning Roe v. Wade and said unborn children should be protected.",
+          "quote": "This decision has the opportunity to protect millions of vulnerable, unborn babies, and it is undoubtedly the right one.",
+          "sourceUrl": "https://mast.house.gov/2022/5/mast-statement-on-draft-supreme-court-decision-overturning-roe-v-wade",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "Mast endorsed the Protection of Women and Girls in Sports Act, which ties school sports participation to sex at birth.",
+          "quote": "The Protecting Women and Girls in Sports Act to defend our daughters and ensure fairness in athletics;",
+          "sourceUrl": "https://mast.house.gov/2025/6/making-america-first-policy-the-law-of-the-land",
+          "agreement": "7/10"
+        },
+        "cannabis": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Mast supports cannabis rescheduling and a framework for regulated adult use, while describing his position as rescheduling rather than legalization.",
+          "quote": "Rescheduling, not legalizing. It’s about making sure that cannabis is accessed safely, responsibly, and legally.",
+          "sourceUrl": "https://mast.house.gov/2025/9/icymi",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Mast calls for repealing and replacing the Affordable Care Act with market-based reforms and more plan choices.",
+          "quote": "I am committed to repealing and replacing the Affordable Care Act to give every American access to quality, affordable healthcare.",
+          "sourceUrl": "https://mast.house.gov/healthcare",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Mast supported legislation to streamline energy permitting and expand domestic energy production to lower costs.",
+          "quote": "When we produce energy at home, we lower costs, create jobs, and stop funding global regimes that hate us.",
+          "sourceUrl": "https://mast.house.gov/blog?ID=6F599FC6-CF6E-4C30-8222-168339B44AD3",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Mast supports requiring photo ID to vote and citizenship confirmation when people first register.",
+          "quote": "It requires every state to confirm U.S. citizenship when someone first registers to vote.",
+          "sourceUrl": "https://mast.house.gov/2026/3/protecting",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "alexcookeforcongress.com · onyourballot.vote411.org · jamesmartinforflorida.com · mast.house.gov · clerk.house.gov · transcripts.cnn.com · mastforcongress.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

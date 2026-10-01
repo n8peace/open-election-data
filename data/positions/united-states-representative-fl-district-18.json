@@ -1,0 +1,262 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 18",
+  "division": "fl/cd-18",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Scott Franklin",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "His campaign says economic growth starts with lower taxes and says he opposes tax increases on families and small businesses.",
+          "quote": "Congressman Scott Franklin is a businessman who understands economic growth starts with lower taxes, responsible spending, and a government that gets out of the way.",
+          "sourceUrl": "https://www.votescottfranklin.com/services",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "He voted against the PRO Act and opposed mandatory union contracts and dues.",
+          "quote": "Federal law already protects employees’ right to organize, and I respect that right.",
+          "sourceUrl": "https://franklin.house.gov/news/documentsingle.aspx?DocumentID=320",
+          "agreement": "6/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "strong",
+          "text": "He said he supports tariffs on foreign goods while seeking fairer trade negotiations.",
+          "quote": "We really have not had free and fair trade in our country for a long time. I think what the president is trying to do is try to restore a sense of fairness nad balance in how we trade with foreign countries.",
+          "sourceUrl": "https://www.wokc.com/news/news-cast-6-5/",
+          "agreement": "3/10"
+        },
+        "debt": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He backed a debt reduction bill that he said would save $4.8 trillion over ten years, while also saying it would make no cuts to Medicare or Social Security.",
+          "quote": "It saves an estimated $4.8 trillion over ten years, making it the largest spending reduction in American history.",
+          "sourceUrl": "https://franklin.house.gov/news/documentsingle.aspx?DocumentID=257",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "He said he supports school choice including vouchers, tax credits, charter schools, private schools, and home schools.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools.",
+          "sourceUrl": "https://ivoterguide.com/candidate/53498/race/5126/election/1254",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He said strict enforcement of existing laws is key to addressing unlawful firearm use.",
+          "quote": "The key to ending unlawful use of firearms is strict enforcement of existing laws.",
+          "sourceUrl": "https://franklin.house.gov/issues/issue/?IssueID=14895",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supported the Laken Riley Act, which requires detention and deportation of certain immigrants who commit specified crimes.",
+          "quote": "The bill requires the swift detainment and deportation of illegal aliens who assault a law enforcement officer or commit a crime that results in injury or death.",
+          "sourceUrl": "https://franklin.house.gov/news/documentsingle.aspx?DocumentID=441",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He says he opposes limits on law-abiding gun owners and voted against universal and enhanced background-check bills.",
+          "quote": "I strongly oppose attempts to limit the rights of law-abiding gun owners.",
+          "sourceUrl": "https://franklin.house.gov/issues/issue/?IssueID=14895",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "His campaign describes him as pro-life and says he supported the Hyde Amendment and the Born Alive Abortion Survivors Protection Act.",
+          "quote": "He is proudly pro life and has backed that commitment with action.",
+          "sourceUrl": "https://www.votescottfranklin.com/services",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He voted for the Protection of Women and Girls in Sports Act, which would restrict participation in girls’ and women’s sports based on sex.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/MemberVotes?BillNum=H.R.28&RollCallNum=12&Session=1st",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He advocates market-based health care solutions, health savings accounts, and choices among Medicare health plan options.",
+          "quote": "Our healthcare requires market-based solutions, not a one-size fits all approach that reduces options, increases cost and impacts timely and affordable care.",
+          "sourceUrl": "https://franklin.house.gov/issues/issue/?IssueID=74",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He backed legislation to increase domestic energy production and said energy independence is important for lowering costs and supporting jobs.",
+          "quote": "This bill will fast-track domestic energy production, expedite construction of critical infrastructure projects through permitting reforms",
+          "sourceUrl": "https://franklin.house.gov/issues/issue/?IssueID=10177",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supported the SAVE Act, which would require proof of citizenship when registering to vote in federal elections.",
+          "quote": "I was pleased this bill passed with bipartisan support, and I remain committed to fighting for election integrity in Congress.",
+          "sourceUrl": "https://franklin.house.gov/news/documentsingle.aspx?DocumentID=387",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Curtis Gibson",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "He supports property tax relief for homeowners, seniors, and working families.",
+          "quote": "I’ll support policies that protect homeowners, seniors, and working families from being taxed out of stability.",
+          "sourceUrl": "https://votecurtisgibson.com/issues",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports sugar program changes to lower grocery costs while protecting Florida agricultural workers and domestic jobs.",
+          "quote": "We can lower food costs for consumers without undercutting American agriculture or domestic job stability.",
+          "sourceUrl": "https://faircostproject.com/candidate/curtis-gibson/",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "slower growth",
+          "strength": "lean",
+          "text": "In a 2024 local candidate interview, he favored planned communities with lower density and said projects should be reduced if developers cannot afford needed infrastructure.",
+          "quote": "Planned communities should follow the “Lake Ashton model” and incorporate decorative lighting and signage, green space, lower density housing and winding roads.",
+          "sourceUrl": "https://dailyridge.com/2024/07/05/qa-with-lake-wales-mayoral-candidate-curtis-gibson-2/",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He supports federal funding for economically disadvantaged schools, special education, and school infrastructure.",
+          "quote": "K-12: Fully fund Title I grants for economically disadvantaged schools, fully fund IDEA for special education services, and invest in school infrastructure",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72940821",
+          "agreement": "9/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports legal status and citizenship pathways, protections for Dreamers, and modernized agricultural and high-skilled visa programs alongside border security.",
+          "quote": "I support comprehensive, practical immigration reform that combines strong border security with fair, humane, and streamlined pathways to legal status and citizenship.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72940821",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "He says veterans who cannot receive timely VA care locally should have access to covered local providers.",
+          "quote": "If the VA cannot provide care close to home and within a reasonable timeframe, veterans should have a clear path to covered local providers without the runaround.",
+          "sourceUrl": "https://votecurtisgibson.com/issues",
+          "agreement": "3/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "He describes climate change as a financial threat and supports resilient infrastructure and clean-energy innovation.",
+          "quote": "Investing in resilient infrastructure, protecting the Floridan Aquifer, expanding clean energy innovation, and creating a Federal Catastrophic Reinsurance Backstop will safeguard our economy, lower household costs, and create high-paying green jobs across Central Florida.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72940821",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He supports automatic voter registration and free documentation assistance if proof of citizenship is required to register.",
+          "quote": "Furthermore, I support deploying mobile federal field offices, expanding automatic voter registration options, and providing federal grants to local election offices",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72940821",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Deva Simmons",
+      "party": "NPA",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Her campaign says she supports raising the minimum wage to a living wage and protecting workers’ rights to organize.",
+          "quote": "Raising the minimum wage to a living wage",
+          "sourceUrl": "https://www.devasimmons.com/en/issues",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She says she supports strengthening public schools and ensuring every child can access a quality education.",
+          "quote": "I will support legislation that raises teacher pay, strengthens public schools, and ensures every child has access to a quality education regardless of ZIP code.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72940821",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports immigration-law enforcement while calling for constitutional protections and due process during enforcement.",
+          "quote": "I support enforcing our immigration laws while fully respecting the U.S. Constitution and due process.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72940821",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Her platform describes health care as a right and supports protecting and expanding the Affordable Care Act and related access programs.",
+          "quote": "Healthcare is a fundamental right, not a privilege. I will fight to ensure every family in District 18 has access to quality, affordable healthcare.",
+          "sourceUrl": "https://www.devasimmons.com/en/issues",
+          "agreement": "4/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "She calls climate change a financial threat and supports proactive investment and expanding clean energy sources such as solar and wind.",
+          "quote": "We should be proactive rather than reactive by investing in resilient infrastructure, supporting innovation, and expanding clean energy sources such as solar and wind alongside other technologies that strengthen our energy independence.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72940821",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She supports automatic voter registration and assistance to help eligible voters meet documentation requirements.",
+          "quote": "Furthermore, I support deploying mobile federal field offices, expanding automatic voter registration options, and providing federal grants to local election offices to help senior citizens, women, low-income residents, and rural voters navigate documentation requirements smoothly.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=72940821",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "votescottfranklin.com · franklin.house.gov · wokc.com · ivoterguide.com · clerk.house.gov · votecurtisgibson.com · faircostproject.com · dailyridge.com · onyourballot.vote411.org · devasimmons.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

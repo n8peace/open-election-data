@@ -1,0 +1,254 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 20",
+  "division": "fl/cd-20",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Brent Andersen",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He said he would cut taxes as part of a plan to lower costs and reduce federal spending.",
+          "quote": "I will fight for legislation to cut wasteful spending - including codifying DOGE recommendations - reduce taxes and regulations, protect Social Security and Medicare, expand affordable health care access, and support small business job creation in South Florida.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=71841222&party=Rep",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He said he opposes cutting Social Security or Medicare and would address waste and fraud in those programs.",
+          "quote": "No creo en recortar la Seguridad Social ni Medicare. Creo que, si examinamos el despilfarro, el fraude y el abuso, sería un momento magnífico para empezar.",
+          "sourceUrl": "https://www.diariolasamericas.com/florida/precandidato-al-congreso-federal-hay-que-frenar-el-despilfarro-el-fraude-y-el-abuso-n5399803",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He proposed reducing federal red tape and regulations to speed housing processes, while working with local authorities.",
+          "quote": "Reduciendo la burocracia del gobierno federal. Hay muchísimas regulaciones y trámites burocráticos asociados a esto, y facilitar eso para permitir procesos más rápidos trabajando, por supuesto, con las autoridades locales, porque también es un tema muy local.",
+          "sourceUrl": "https://www.diariolasamericas.com/florida/precandidato-al-congreso-federal-hay-que-frenar-el-despilfarro-el-fraude-y-el-abuso-n5399803",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He said education should be handled mainly at the state and local levels and that he supports school choice.",
+          "quote": "For K-12 and higher ed, we should reduce bureaucracy, promote school choice, accountability, and workforce readiness while avoiding federal overreach into curricula or operations.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=71841222&party=Rep",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He said he would support bills to back law enforcement and combat violent crime.",
+          "quote": "I will also support bills to secure the border, back law enforcement, combat violent crime, prioritize American citizens, and protect election integrity via the SAVE Act.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=71841222&party=Rep",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports stricter border enforcement while also advocating more efficient legal immigration pathways.",
+          "quote": "I strongly support comprehensive reforms that prioritize border security as a non-negotiable foundation, followed by streamlining our legal immigration system. Secure borders prevent illegal crossings, drug trafficking, and threats to public safety - policies like ending catch and release, reinstating Remain in Mexico, and enhancing enforcement have proven effective. Simultaneously, we must reduce bureaucratic red tape in legal pathways.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=71841222&party=Rep",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "In an interview, he described himself as firmly pro-life.",
+          "quote": "¿Y cuál es su posición sobre el aborto? Soy firmemente provida.",
+          "sourceUrl": "https://www.diariolasamericas.com/florida/precandidato-al-congreso-federal-hay-que-frenar-el-despilfarro-el-fraude-y-el-abuso-n5399803",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He said he favors reducing fuel and electricity costs and developing the country's energy potential.",
+          "quote": "Y por supuesto, también reduciendo el coste del combustible y de la electricidad. Creo firmemente que Estados Unidos tiene un enorme potencial energético.",
+          "sourceUrl": "https://www.diariolasamericas.com/florida/precandidato-al-congreso-federal-hay-que-frenar-el-despilfarro-el-fraude-y-el-abuso-n5399803",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supports the SAVE Act's citizenship-proof requirement as an election-integrity measure.",
+          "quote": "Only U.S. citizens should vote, and requiring proof of citizenship (via the SAVE Act) is a common-sense safeguard, not a barrier.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=71841222&party=Rep",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Kedner Maxime",
+      "party": "IND",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "He supports wages that keep pace with local living costs and workers’ right to organize and negotiate.",
+          "quote": "Support fair wages that keep pace with the actual cost of living in South Florida.",
+          "sourceUrl": "https://www.maximeforcongress.com/jobs",
+          "agreement": "2/3"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says he would defend Social Security and Medicare from cuts.",
+          "quote": "Protect Social Security, Medicare, and the earned benefits working people paid into their whole lives.",
+          "sourceUrl": "https://www.maximeforcongress.com/lower-costs",
+          "agreement": "3/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He supports expanding affordable housing so more families can find a home they can afford.",
+          "quote": "Expand affordable housing so working families, seniors, and young people can find a home they can actually afford.",
+          "sourceUrl": "https://www.maximeforcongress.com/lower-costs",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He proposes raising public-school funding and teacher salaries.",
+          "quote": "Raise public-school funding so classrooms have the resources, materials, and support they need.",
+          "sourceUrl": "https://www.maximeforcongress.com/education",
+          "agreement": "3/3"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports border security and deportation for people who commit crimes, alongside legal pathways and family reunification.",
+          "quote": "Dr. Maxime believes we can have both security and compassion — and that we should stop pretending we have to choose:",
+          "sourceUrl": "https://www.maximeforcongress.com/immigration",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "Debbie Wasserman Schultz",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She called for a fair tax system that provides adequate federal funding for services and infrastructure.",
+          "quote": "We need a fair taxation system that supports a growing economy, small business creation, and American families – while ensuring our federal government has adequate funding to support services and infrastructure that make our country work.",
+          "sourceUrl": "https://wassermanschultz.house.gov/issues/issue/?IssueID=15063",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She cosponsored legislation to raise the federal minimum wage and has called for higher wages and workplace protections.",
+          "quote": "I have cosponsored legislation to raise the federal minimum wage and tipped minimum wage to 15 dollars by 2020.",
+          "sourceUrl": "https://wassermanschultz.house.gov/issues/issue/?IssueID=15063",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "She called for rolling back tariffs and advancing other trade policies.",
+          "quote": "Roll back Trump’s tariffs and advance smarter, durable trade policies.",
+          "sourceUrl": "https://wassermanschultz.house.gov/news/documentsingle.aspx?DocumentID=3460",
+          "agreement": "8/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She has repeatedly said she will defend Social Security and Medicare benefits against cuts.",
+          "quote": "And I will fiercely protect health care, including Social Security and Medicare programs that millions of Americans count on",
+          "sourceUrl": "https://wassermanschultz.house.gov/news/documentsingle.aspx?DocumentID=3288",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She proposed updating zoning and permitting laws to build four million homes over the next decade.",
+          "quote": "Cut red tape and update permitting and zoning laws to build four million new homes in the next decade.",
+          "sourceUrl": "https://wassermanschultz.house.gov/news/documentsingle.aspx?DocumentID=3460",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She called for federal investment in public K-12 schools and resources for district teachers and students.",
+          "quote": "Now more than ever, we must commit to our national education system by investing in our public K-12 schools.",
+          "sourceUrl": "https://wassermanschultz.house.gov/issues/issue/?IssueID=15061",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She supports pathways to citizenship and protections for DREAMers, refugees, and other immigrants.",
+          "quote": "This includes providing a pathway to citizenship, fair treatment under the law, and extending protections for DREAMers, Temporary Protected Status holders, and refugees.",
+          "sourceUrl": "https://wassermanschultz.house.gov/issues/issue/?IssueID=15089",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports universal background checks and other gun-violence-prevention measures.",
+          "quote": "laws, like universal background checks, that would help prevent these recurring tragedies.",
+          "sourceUrl": "https://wassermanschultz.house.gov/news/documentsingle.aspx?DocumentID=2884",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She has repeatedly supported abortion rights and cosponsored legislation establishing federal protections for abortion access.",
+          "quote": "Throughout my career, I have been unwavering in my support for abortion rights. Such basic, personal rights can never be compromised.",
+          "sourceUrl": "https://wassermanschultz.house.gov/news/documentsingle.aspx?DocumentID=2448",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She backed expanding ACA coverage and Medicaid access and called to fully fund Medicaid and strengthen Medicare.",
+          "quote": "Fully fund Medicaid and strengthen Medicare’s guaranteed benefits.",
+          "sourceUrl": "https://wassermanschultz.house.gov/news/documentsingle.aspx?DocumentID=3460",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She supports a rapid transition to renewable energy and says greenhouse gas emissions must be dramatically reduced.",
+          "quote": "I believe it is critical that we use smart, forward-thinking energy policy to address the climate crisis and prevent the worst consequences of climate change by dramatically reducing our emissions of greenhouse gases.",
+          "sourceUrl": "https://wassermanschultz.house.gov/issues/issue/?IssueID=15064",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She opposed restrictions on voter registration and said eligible voters should be able to vote without barriers.",
+          "quote": "We must keep fighting to ensure that all citizens who are eligible to vote can vote, and work to tear down barriers like those created by this onerous state law.",
+          "sourceUrl": "https://wassermanschultz.house.gov/news/documentsingle.aspx?DocumentID=610",
+          "agreement": "9/10"
+        }
+      }
+    }
+  ],
+  "sources": "onyourballot.vote411.org · diariolasamericas.com · maximeforcongress.com · wassermanschultz.house.gov",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

@@ -1,0 +1,141 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 25",
+  "division": "fl/cd-25",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Peter Jassenoff",
+      "party": "LPF",
+      "stances": {}
+    },
+    {
+      "name": "Jared Moskowitz",
+      "party": "DEM",
+      "stances": {
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "As a county commissioner, he advocated for more than 1,000 affordable housing units.",
+          "quote": "As a Broward County Commissioner, he advocated for over 1,000 new affordable housing units throughout the county.",
+          "sourceUrl": "https://moskowitz.house.gov/cost-of-living",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports strengthening the Affordable Care Act and moving toward Medicare for All to guarantee coverage.",
+          "quote": "he supports moving toward a Medicare for All system that guarantees coverage to every American",
+          "sourceUrl": "https://jaredforflorida.com/priorities",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Scott Singer",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Singer says he would keep taxes and costs low and reports voting to lower Boca Raton’s tax rate.",
+          "quote": "As Congressman, he will keep taxes and costs low, and ensure strong borders and national defense.",
+          "sourceUrl": "https://www.scottsingerusa.com/about-scott-singer",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He supports cutting government spending to reduce the national debt.",
+          "quote": "We must rein in the size and scope of the federal government, eliminate waste and fraud, and cut spending.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92850/race/28534/election/1431",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He says that as mayor he increased investment in public safety and police staffing.",
+          "quote": "As mayor, Scott has consistently increased investment to ensure the best in public safety.",
+          "sourceUrl": "https://www.scottsingerusa.com/priorities",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He calls for securing the borders, stopping illegal immigration, and cooperating with federal immigration authorities.",
+          "quote": "The U.S. is a nation of laws, and our immigration system must prioritize national security. We must secure our borders and stop illegal immigration.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92850/race/28534/election/1431",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He says gun restrictions should be limited to convicted felons and people found through due process to be active threats.",
+          "quote": "Restrictions should be limited to convicted felons and those proven through due process to be active threats.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92850/race/28534/election/1431",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He supports legal protection for human life from conception, with stated exceptions for rape, incest, and protecting the mother’s life.",
+          "quote": "Human life deserves legal protection from conception until natural death.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92850/race/28534/election/1431",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He supports excluding biological males from women’s sports and women’s spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92850/race/28534/election/1431",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He said Medicare, Medicaid, and VA care should remain available but that no additional taxpayer-funded health programs are needed.",
+          "quote": "Medicaid and Medicare and VA care for veterans should remain available, but we need to end waste, fraud, and abuse",
+          "sourceUrl": "https://ivoterguide.com/candidate/92850/race/28534/election/1431",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supports prioritizing natural gas and nuclear power over mandated wind and solar energy.",
+          "quote": "To meet electricity demands and ensure grid stability, we must unleash American energy by prioritizing natural gas and nuclear power.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92850/race/28534/election/1431",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supports photo identification and says he will push for strict photo ID and proof-of-citizenship requirements.",
+          "quote": "I will strongly push to pass the SAVE America Act to mandate strict photo ID and proof of citizenship.",
+          "sourceUrl": "https://ivoterguide.com/candidate/92850/race/28534/election/1431",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "moskowitz.house.gov · jaredforflorida.com · scottsingerusa.com · ivoterguide.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}
