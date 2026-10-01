@@ -1,0 +1,82 @@
+{
+  "office": "U.S. Representative",
+  "district": "AR District 04",
+  "division": "ar/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "James \"Rus\" Russell, III",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He proposed a tax on the super-rich to help end homelessness.",
+          "quote": "And by adding a small tax on the super-rich—the top 0.1%—we can help end homelessness for good.",
+          "sourceUrl": "https://russellforar.com/on-the-issues",
+          "agreement": "9/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He said fair laws should raise wages and treat workers fairly.",
+          "quote": "We need fair laws that raise wages, make sure everyone gets equal pay for equal work, and treat all workers fairly.",
+          "sourceUrl": "https://russellforar.com/on-the-issues",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "His campaign says he supports preserving Second Amendment rights while pursuing gun-policy reform.",
+          "quote": "I am committed to preserving our 2nd Amendment rights while fighting for common sense reform.",
+          "sourceUrl": "https://russellforar.com/",
+          "agreement": "5/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "His campaign includes bodily autonomy in its equal-rights platform.",
+          "quote": "That means fair pay, equal rights, bodily autonomy, and protecting people from hate, while still respecting free speech.",
+          "sourceUrl": "https://russellforar.com/on-the-issues",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "His campaign supports expanding Medicare and moving toward health care for everyone.",
+          "quote": "We can fix this by expanding Medicare and moving toward healthcare for everyone. That means lower costs, better care, and fewer people falling through the cracks.",
+          "sourceUrl": "https://russellforar.com/on-the-issues",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "He supports investing in a clean-energy future and protecting natural resources.",
+          "quote": "We need to invest in a clean energy future that uses multiple sources to stay safe and strong.",
+          "sourceUrl": "https://russellforar.com/on-the-issues",
+          "agreement": "5/10"
+        }
+      }
+    }
+  ],
+  "sources": "russellforar.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

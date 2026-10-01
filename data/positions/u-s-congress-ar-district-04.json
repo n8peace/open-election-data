@@ -1,0 +1,160 @@
+{
+  "office": "U.S. Congress",
+  "district": "AR District 04",
+  "division": "ar/cd-4",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "James \"Rus\" Russell, III",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He proposes taxing the top 0.1% to help end homelessness and says working people should pay less while the rich pay their share.",
+          "quote": "And by adding a small tax on the super-rich—the top 0.1%—we can help end homelessness for good.",
+          "sourceUrl": "https://russellforar.com/on-the-issues",
+          "agreement": "5/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He says the minimum wage has not kept pace with living costs and calls for laws that raise wages.",
+          "quote": "We need fair laws that raise wages, make sure everyone gets equal pay for equal work, and treat all workers fairly.",
+          "sourceUrl": "https://russellforar.com/on-the-issues",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He says he supports Second Amendment rights while also supporting unspecified common-sense reforms.",
+          "quote": "I am committed to preserving our 2nd Amendment rights while fighting for common sense reform.",
+          "sourceUrl": "https://russellforar.com/",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He names bodily autonomy among the rights he says should be protected by laws treating people equally.",
+          "quote": "That means fair pay, equal rights, bodily autonomy, and protecting people from hate, while still respecting free speech.",
+          "sourceUrl": "https://russellforar.com/on-the-issues",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports expanding Medicare and moving toward health care for everyone.",
+          "quote": "We can fix this by expanding Medicare and moving toward healthcare for everyone.",
+          "sourceUrl": "https://russellforar.com/on-the-issues",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Congressman Bruce Westerman",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Westerman says taxes should be kept lower and points to his participation in tax cuts.",
+          "quote": "In order to create jobs and grow prosperity, we must keep taxes lower, so that individuals can invest into their small businesses and families can make ends meet.",
+          "sourceUrl": "https://www.brucewesterman.com/issues/",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He voted against passage of the Raise the Wage Act in 2019.",
+          "quote": "Vote Question: On Passage\n\nRaise the Wage Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He has called for strict border security and criticized actions that weakened immigration enforcement.",
+          "quote": "In President Biden’s first 100 days in office, he took 94 executive actions to weaken our immigration policies, including halting construction of the border wall.",
+          "sourceUrl": "https://westerman.house.gov/issues/security",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "He voted against passage of the Bipartisan Background Checks Act in 2019 and 2021.",
+          "quote": "Vote Question: On Passage\n\nBipartisan Background Checks Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/201999",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He voted for the Pain-Capable Unborn Child Protection Act in 2017.",
+          "quote": "Vote Question: On Passage\n\nPain-Capable Unborn Child Protection Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2017549",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He voted for passage of the Protection of Women and Girls in Sports Act.",
+          "quote": "Vote Question: On Passage\n\nProtection of Women and Girls in Sports Act\n\nVote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "4/5"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "He voted against passage of the MORE Act in 2022, which proposed federal cannabis reform.",
+          "quote": "Vote Question: On Passage\n\nMORE Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "His Fair Care Act proposal included both private insurance and public health insurance as ways to cover more people and lower costs.",
+          "quote": "The goal of the Fair Care Act is simple; cover more Americans and lower the costs they pay for healthcare both through their private plans and the public health insurance they fund through their tax dollars.",
+          "sourceUrl": "https://www.brucewesterman.com/issues/",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He argued that expanding American energy supply would lower consumer prices and support economic growth and jobs.",
+          "quote": "This surge in supply directly contributes to lower prices for consumers, stimulates economic growth, and creates more job opportunities – all things that my constituents and Americans across the country need.",
+          "sourceUrl": "https://westerman.house.gov/media-center/weekly-columns/renaissance-american-energy-dominance",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "He voted nay on the For the People Act of 2021, which included measures to expand access to the ballot box.",
+          "quote": "An Act To expand Americans’ access to the ballot box, reduce the influence of big money in politics, strengthen ethics rules for public servants, and implement other anti-corruption measures for the purpose of fortifying our democracy, and for other purposes.",
+          "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-117hr1eh",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "russellforar.com · brucewesterman.com · clerk.house.gov · westerman.house.gov · govinfo.gov",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}
