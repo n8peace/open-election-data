@@ -1,0 +1,168 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 20",
+  "division": "tx/cd-20",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Edgardo Rafael Baez",
+      "party": "Republican",
+      "stances": {
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "Baez proposed targeting a federal deficit of 3% of GDP by 2030 and discussed raising retirement ages, means-testing benefits, or slowing entitlement growth.",
+          "quote": "Options include raising retirement ages, means-testing benefits, or curbing growth in entitlements without tax hikes",
+          "sourceUrl": "https://sanantonioreport.org/profile/edgardo-baez-2026-candidate-for-texas-20th-congressional-district/",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Baez called for border security and interior enforcement and opposed amnesty or citizenship pathways for undocumented immigrants.",
+          "quote": "Congress should prioritize immigration reforms that emphasize border security, interior enforcement, reduced illegal immigration levels, and the protection of American workers and resources, while opposing amnesty or pathways to citizenship for undocumented immigrants.",
+          "sourceUrl": "https://sanantonioreport.org/profile/edgardo-baez-2026-candidate-for-texas-20th-congressional-district/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "Baez said local leadership was threatening Second Amendment rights and called for fighting to protect them.",
+          "quote": "Because San Antonio is a blue city, the current leadership is threatening our rights, particularly those related to our 2nd Amendment rights. We must fight!",
+          "sourceUrl": "https://www.drbaezforcongress.com/",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Baez said open markets and a range of health plans would make care more affordable and accessible.",
+          "quote": "Open markets is the solution where Americans can pick and choose from a variety of health plans, just as we had prior to the implementation of the ACA.",
+          "sourceUrl": "https://sanantonioreport.org/profile/edgardo-baez-2026-candidate-for-texas-20th-congressional-district/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Joaquin Castro",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He voted for the Inflation Reduction Act, which included a corporate minimum tax and investments in health and clean energy programs.",
+          "quote": "Impose a 15% minimum corporate tax to ensure that corporations pay their fair share.",
+          "sourceUrl": "https://castro.house.gov/media-center/press-releases/congressman-castro-votes-for-the-inflation-reduction-act-to-lower-prescription-drug-and-energy-costs-create-jobs-and-cut-carbon-pollution",
+          "agreement": "7/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "He led a request that federally funded hydrogen projects prioritize employers offering union jobs and labor agreements.",
+          "quote": "Written confirmation that H2Hubs will be a source of high-quality, good-paying union jobs in Texas.",
+          "sourceUrl": "https://castro.house.gov/media-center/press-releases/congressman-castro-leads-texas-congressional-democrats-in-push-for-strong-labor-standards-union-jobs-in-federally-funded-hydrogen-energy-projects",
+          "agreement": "7/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He urged Congress to end President Trump’s tariffs on Canada, citing higher costs and risks to local jobs.",
+          "quote": "This trade war is making life more expensive, creating uncertainty, and putting good jobs at risk.",
+          "sourceUrl": "https://castro.house.gov/media-center/press-releases/congressman-castro-demands-end-to-trumps-tariffs-to-protect-san-antonio-economy-lower-costs-for-families",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He said he is committed to protecting Social Security and sponsors legislation to improve senior benefits.",
+          "quote": "I’m committed to protecting Social Security, and I’m a proud sponsor of the Social Security 2100 Act, which would improve benefits for seniors",
+          "sourceUrl": "https://castro.house.gov/imo/media/doc/2023_end_of_year_report_-_joaquin_castro1.pdf",
+          "agreement": "6/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He backed legislation providing resources to schools and districts for advanced coursework opportunities.",
+          "quote": "The Advanced Coursework Equity Act would support schools by covering exam fees and costs to hire and train teachers, helping students reach their full potential.",
+          "sourceUrl": "https://castro.house.gov/media-center/press-releases/castro-booker-reintroduce-bicameral-bill-to-expand-advanced-coursework-opportunities-for-underrepresented-students",
+          "agreement": "3/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "He voted for legislation that funded community-based violence-prevention initiatives and mental-health services.",
+          "quote": "Prevent community-based gun violence by providing $250 million in funding for community-based violence prevention initiatives.",
+          "sourceUrl": "https://castro.house.gov/media-center/press-releases/statement-from-congressman-castro-on-passage-of-the-bipartisan-safer-communities-act",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He joined a letter urging Congress to create a pathway to citizenship for DACA recipients.",
+          "quote": "Congress must pass the Dream Act to create a pathway to citizenship for DACA recipients.",
+          "sourceUrl": "https://castro.house.gov/media-center/press-releases/castro-booker-hirono-jayapal-lead-117-democrats-in-opposing-hhs-proposed-rule-to-take-aca-eligibility-away-from-daca-recipients",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He called for universal background checks and a ban on assault rifles, and cosponsored the 2025 Assault Weapons Ban.",
+          "quote": "The 2022 passage of the Bipartisan Safer Communities Act was a good step forward, but we need universal background checks and a ban on assault rifles to save lives.",
+          "sourceUrl": "https://castro.house.gov/media-center/press-releases/statement-from-congressman-castro-on-critical-incident-review-on-uvalde-mass-shooting",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He opposed Texas’s SB8 abortion restrictions and said Congress should protect reproductive health care access.",
+          "quote": "There is no doubt that Republican’s goal with SB8, and soon copycat legislation across the nation, is to overturn almost 50 years of precedent and strip away a woman’s constitutional right to safe and legal abortion.",
+          "sourceUrl": "https://castro.house.gov/media-center/press-releases/statement-from-congressman-castro-on-supreme-courts-ruling-on-texas-law-sb8-",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He led a letter opposing a proposal to remove ACA marketplace eligibility from DACA recipients.",
+          "quote": "The ACA makes all lawfully present immigrants eligible for marketplace coverage.",
+          "sourceUrl": "https://castro.house.gov/media-center/press-releases/castro-booker-hirono-jayapal-lead-117-democrats-in-opposing-hhs-proposed-rule-to-take-aca-eligibility-away-from-daca-recipients",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He voted for the Inflation Reduction Act, which invests in clean energy and aims to reduce carbon pollution.",
+          "quote": "legislation that will lower prescription drug and consumer energy costs, create good-paying clean energy jobs, and reduce carbon pollution nearly 40 percent by 2030",
+          "sourceUrl": "https://castro.house.gov/media-center/press-releases/congressman-castro-votes-for-the-inflation-reduction-act-to-lower-prescription-drug-and-energy-costs-create-jobs-and-cut-carbon-pollution",
+          "agreement": "3/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "He urged federal action against Texas voting restrictions, including arbitrary rejection of vote-by-mail ballots.",
+          "quote": "The right to vote is fundamental in our democracy, and this work is more essential than ever.",
+          "sourceUrl": "https://castro.house.gov/media-center/press-releases/reps-castro-veasey-and-congressional-democrats-urge-department-of-justice-to-investigate-unconstitutional-voter-suppression-in-texas",
+          "agreement": "6/10"
+        }
+      }
+    }
+  ],
+  "sources": "sanantonioreport.org · drbaezforcongress.com · castro.house.gov",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

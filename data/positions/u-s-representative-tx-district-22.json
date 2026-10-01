@@ -1,0 +1,144 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 22",
+  "division": "tx/cd-22",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Trever Nehls",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Nehls says he supports lower taxes as part of his economic agenda.",
+          "quote": "Trever supports lower taxes, fewer regulations and a pro-growth agenda that strengthens the American economy.",
+          "sourceUrl": "https://www.trevernehlsforcongress.com/issues/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Nehls says he would fully fund and support law enforcement and opposes policies he describes as soft on crime.",
+          "quote": "He opposes soft-on-crime leftist policies and will fully fund and support law enforcement.",
+          "sourceUrl": "https://www.trevernehlsforcongress.com/issues/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "Nehls says he would support completing the border wall, ending catch-and-release, and deporting undocumented immigrants who violate the law.",
+          "quote": "Congress must help President Trump fully secure the southern border, finish the wall, end catch-and-release permanently, and deport illegal aliens who violate our laws.",
+          "sourceUrl": "https://www.trevernehlsforcongress.com/issues/",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He says he would block gender ideology in schools and protect girls’ sports.",
+          "quote": "He will vote to eliminate DEI mandates, block gender ideology in schools, protect girls’ sports, and require full curriculum transparency.",
+          "sourceUrl": "https://www.trevernehlsforcongress.com/issues/",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Nehls supports expanding domestic oil, gas, and nuclear production and reducing regulations he says raise gas prices.",
+          "quote": "He will fight to end any remaining Biden anti-energy policies while focusing on legislation that expands domestic production and cuts burdensome regulations that drive up gas prices for families.",
+          "sourceUrl": "https://www.trevernehlsforcongress.com/issues/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Marquette Greene-Scott",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "She said she would support a middle-class tax break and a larger child tax credit.",
+          "quote": "I would vote for a middle-class tax break. Also we need to bring down inflation. The child tax credit could be increased as well.",
+          "sourceUrl": "https://ivoterguide.com/candidate/82299/race/6580/election/1214?culture=en-us",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She said Congress should raise the federal minimum wage and index it to inflation.",
+          "quote": "Congress must raise the federal minimum wage. We need to expand tax credits for working families and lower the costs for housing, healthcare, and essentials.",
+          "sourceUrl": "https://www.houstonvotersguide.org/us-house-of-rep-dem/Marquette-Greene-Scott",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She opposed vouchers and said school choice takes money away from public schools.",
+          "quote": "I do not believe in school choice. I believe it takes money away from public schools.",
+          "sourceUrl": "https://ivoterguide.com/candidate/82299/race/6580/election/1214?culture=en-us",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports increased border staffing while also supporting legal immigration procedures and a path to citizenship.",
+          "quote": "There should be effective procedures in place to allow people to legally immigrate to the U.S. and there should be a path to citizenship.",
+          "sourceUrl": "https://ivoterguide.com/candidate/82299/race/6580/election/1214?culture=en-us",
+          "agreement": "3/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She called for a waiting period and restrictions on automatic rifles.",
+          "quote": "There should be common sense gun regulations. There should be a waiting period to own a gun. There is no need for a citizen to own an automatic rifle.",
+          "sourceUrl": "https://ivoterguide.com/candidate/82299/race/6580/election/1214?culture=en-us",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "She supports abortion in cases including risk to the pregnant person's life, rape or incest, and before viability.",
+          "quote": "I believe if the life of the mother is at risk, an abortion should be allowed. I believe in cases of rape and incest; an abortion should be allowed.",
+          "sourceUrl": "https://ivoterguide.com/candidate/82299/race/6580/election/1214?culture=en-us",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She said Congress should pass universal healthcare and that coverage should not depend on employment or income.",
+          "quote": "We must pass universal healthcare. Having health insurance should not be tied to employment or economic status. It is the right of every American to have healthcare.",
+          "sourceUrl": "https://www.houstonvotersguide.org/us-house-of-rep-dem/Marquette-Greene-Scott",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She endorsed a strong federal climate action plan and said inaction was not an option.",
+          "quote": "Yes. Climate action is an economic and public safety plan. Climate change is currently driving higher energy bills and extreme weather. Doing nothing is not an option.",
+          "sourceUrl": "https://www.lonestarleft.com/p/lone-star-left-endorses-marquette?source=queue",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "trevernehlsforcongress.com · ivoterguide.com · houstonvotersguide.org · lonestarleft.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

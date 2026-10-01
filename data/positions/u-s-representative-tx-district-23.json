@@ -1,0 +1,206 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 23",
+  "division": "tx/cd-23",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Brandon Herrera",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He pledged no new taxes and said he would rein in government spending.",
+          "quote": "Brandon has taken the “No New Taxes” pledge and will fight to rein in wasteful government spending that fuels inflation.",
+          "sourceUrl": "https://gf.brandonherreraforcongress.com/issues/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He said he would oppose cuts to Social Security and Medicare benefits.",
+          "quote": "Brandon will oppose cuts to Social Security and Medicare benefits that seniors rely on.",
+          "sourceUrl": "https://gf.brandonherreraforcongress.com/issues/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He said he would support national school choice and legislation directing education dollars to follow students.",
+          "quote": "Brandon will sponsor legislation ensuring education dollars follow the student, whether they attend public, private, or parochial school",
+          "sourceUrl": "https://gf.brandonherreraforcongress.com/issues/",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He opposes new firearm regulations and supports repealing the National Firearms Act.",
+          "quote": "Oppose any new regulations on firearms and sponsor the repeal of the NFA.",
+          "sourceUrl": "https://brandonherreraforcongress.com/theplan/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He opposes government funding for abortion and supports the Infant Born Alive Act.",
+          "quote": "Brandon is committed to defending life at every stage. He will oppose all government funding for abortion and, on day one, sponsor the Infant Born Alive Act",
+          "sourceUrl": "https://gf.brandonherreraforcongress.com/issues/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Katy Padilla Stout",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She opposes tax cuts for billionaires and calls for a fair tax code alongside support for SNAP and public investment.",
+          "quote": "I don’t believe we should be giving billionaires tax cuts at a time when we are debating whether vulnerable children should have food provided by SNAP benefits.",
+          "sourceUrl": "https://www.katyforcongress.com/issues/",
+          "agreement": "3/3"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She says she would support raising the minimum wage and requiring paid parental leave.",
+          "quote": "support families by raising the minimum wage and requiring paid parental leave",
+          "sourceUrl": "https://www.texastribune.org/2026/09/30/texas-congress-house-elections-2026-midterms/",
+          "agreement": "3/3"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "She said Trump tariffs raise costs and drive inflation, while calling for Congress to regulate unilateral presidential tariffs.",
+          "quote": "The Trump Tariffs are raising costs for everyone and driving inflation.",
+          "sourceUrl": "https://sanantonioreport.org/profile/katy-padilla-stout-2026-candidate-for-texas-23rd-congressional-district/",
+          "agreement": "2/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "She says she will fight for strong public schools.",
+          "quote": "Strong public schools that empower the next generation. A future where opportunity is not determined by your ZIP code.",
+          "sourceUrl": "https://www.katyforcongress.com/meet-candidate/",
+          "agreement": "2/3"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She supports humane vetting and reasonable pathways to citizenship while also calling for border security.",
+          "quote": "provide fair and humane vetting and reasonable pathways to citizenship for our neighbors who are living and working here.",
+          "sourceUrl": "https://www.katyforcongress.com/issues/",
+          "agreement": "2/3"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She supports universal background checks, red flag laws, and safe firearm storage measures.",
+          "quote": "including universal background checks, red flag laws, safe firearm storage, and stronger protections for survivors of domestic violence.",
+          "sourceUrl": "https://giffords.org/candidates/katy-padilla-stout/",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She says reproductive rights should be protected and abortion-related medical decisions should remain between a woman and her doctor.",
+          "quote": "A woman should have rights over her own body and choices.",
+          "sourceUrl": "https://www.katyforcongress.com/issues/",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports expanding Medicare to cover all Americans and strengthening the Affordable Care Act.",
+          "quote": "Expand Medicare to all Americans, strengthen the Affordable Care Act",
+          "sourceUrl": "https://www.texastribune.org/2026/09/30/texas-congress-house-elections-2026-midterms/",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "She supports rejoining the Paris Climate Accord and grounding climate policy in science.",
+          "quote": "Fight climate change by rejoining the Paris Climate Accord and centering policies on established climate science",
+          "sourceUrl": "https://www.texastribune.org/2026/09/30/texas-congress-house-elections-2026-midterms/",
+          "agreement": "3/3"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She supports expanding voter registration and ballot access, including same-day registration and mail-in ballots.",
+          "quote": "promote online voter registration, same-day registration, public school voter registration, expansion of voting accessibility, and expansion of mail-in ballots.",
+          "sourceUrl": "https://www.katyforcongress.com/issues/",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Ben Mendoza",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "In a 2023 city-council interview, he said high property taxes were causing people to abandon properties and needed to be addressed.",
+          "quote": "People are walking away from their properties because they can’t afford to pay their taxes",
+          "sourceUrl": "https://kvia.com/news/el-paso/2023/12/08/who-are-the-4-candidates-vying-for-district-2-on-city-council/",
+          "agreement": "3/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "He identified a lack of law and order as a major concern and called for enforcing trespassing laws.",
+          "quote": "There's a lot of vagrants and a lot of people are trespassing onto properties because there are a lot of vacant properties",
+          "sourceUrl": "https://kvia.com/news/el-paso/2023/12/08/who-are-the-4-candidates-vying-for-district-2-on-city-council/",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He called for prohibiting open borders and Temporary Protected Status while also supporting expanded H-2A and H-2B visas.",
+          "quote": "Prohibit OPEN BORDERS. 2. Prohibit Temporary Protective Status (TPS) 3. Prohibit Anchor Babies. 4. Prohibit religious fanatical Immigration. 5. Support and expand Seasonal H-2A & H-2B Visas",
+          "sourceUrl": "https://sanantonioreport.org/profile/ben-mendoza-2026-candidate-for-texas-23rd-congressional-district/",
+          "agreement": "8/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He proposed putting uninsured people into Medicare and eliminating middleman insurance companies.",
+          "quote": "The MENDOZA PLAN would put all uninsured into Medicare SR and18 year olds into Medicare JR. No More Middleman Insurance Companies.",
+          "sourceUrl": "https://sanantonioreport.org/profile/ben-mendoza-2026-candidate-for-texas-23rd-congressional-district/",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He called for oil and gas subsidies and listed protecting oil and gas interests among his priorities.",
+          "quote": "Congress needs enact oil & gas subsides for refineries, farmers, business and WE THE PEOPLE!",
+          "sourceUrl": "https://sanantonioreport.org/profile/ben-mendoza-2026-candidate-for-texas-23rd-congressional-district/",
+          "agreement": "8/10"
+        }
+      }
+    }
+  ],
+  "sources": "gf.brandonherreraforcongress.com · brandonherreraforcongress.com · katyforcongress.com · texastribune.org · sanantonioreport.org · giffords.org · kvia.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

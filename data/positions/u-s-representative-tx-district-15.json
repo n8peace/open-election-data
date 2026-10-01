@@ -1,0 +1,192 @@
+{
+  "office": "U.S. Representative",
+  "district": "TX District 15",
+  "division": "tx/cd-15",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Monica De La Cruz",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Her campaign platform calls for lower taxes on working families and small businesses.",
+          "quote": "Lower taxes on working families and small businesses",
+          "sourceUrl": "https://monicaforcongress.us/issues/",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "She introduced a farmworker-visa proposal setting H-2A wages at the state minimum wage plus $2 per hour.",
+          "quote": "Ensure fair and predictable compensation for H-2A workers by setting the wage rate to the state’s minimum wage plus $2.00 per hour.",
+          "sourceUrl": "https://delacruz.house.gov/news/documentsingle.aspx?DocumentID=2887",
+          "agreement": "3/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "Her campaign platform opposes tariffs that hinder American farmers from reaching new customers.",
+          "quote": "Oppose tariffs that hinder American farmers from reaching new customers",
+          "sourceUrl": "https://monicaforcongress.us/issues/",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She strongly agreed that government should cut spending to reduce debt while also saying Medicare and Medicaid should remain available.",
+          "quote": "The government should cut spending in order to reduce the national debt.",
+          "sourceUrl": "https://ivoterguide.com/candidate/51859/race/6572/election/943",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Her office says the housing legislation she helped lead includes provisions to expand housing supply.",
+          "quote": "The 21st Century ROAD to Housing Act: Incorporates five of De La Cruz's provisions to lower costs and expand housing supply:",
+          "sourceUrl": "https://delacruz.house.gov/news/documentsingle.aspx?DocumentID=4008",
+          "agreement": "9/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, she strongly disagreed with redirecting police funding to mental-health and community programs.",
+          "quote": "I support redirecting funds from police departments to mental health and community programs.",
+          "sourceUrl": "https://ivoterguide.com/candidate/51859/race/6572/election/943",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "She supported the Laken Riley Act, which requires ICE to detain criminal immigrants who commit violent crimes.",
+          "quote": "It requires ICE to detain criminal illegal immigrants who commit violent crimes and ensures what happened to Laken – and Jocelyn in Houston – never happens again.",
+          "sourceUrl": "https://delacruz.house.gov/news/documentsingle.aspx?DocumentID=3146",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, she said she did not support any further gun restrictions.",
+          "quote": "I do not support for any further restrictions.",
+          "sourceUrl": "https://ivoterguide.com/candidate/51859/race/6572/election/943",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, she said abortion should be allowed only when necessary to save the mother's life.",
+          "quote": "Only when necessary to save the life of the mother.",
+          "sourceUrl": "https://ivoterguide.com/candidate/51859/race/6572/election/943",
+          "agreement": "5/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "She says she supports preserving girls’ sports for biological girls and co-sponsored the Protection of Women and Girls in Sports Act.",
+          "quote": "That is why I have long been an advocate for preserving girls’ sports for biological girls as a co-sponsor of the Protection of Women and Girls in Sports Act.",
+          "sourceUrl": "https://delacruz.house.gov/news/documentsingle.aspx?DocumentID=3146",
+          "agreement": "9/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "strong",
+          "text": "Her questionnaire response opposed legalizing recreational marijuana.",
+          "quote": "Apoyo la legalización de la marihuana recreativa. Totalmente en desacuerdo",
+          "sourceUrl": "https://ivoterguide.com/candidate/51859/race/6572/election/671?culture=es-us",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, she chose retaining Medicare and Medicaid without additional taxpayer-funded health programs.",
+          "quote": "Medicaid and Medicare should remain available, but no other taxpayer-funded programs are necessary.",
+          "sourceUrl": "https://ivoterguide.com/candidate/51859/race/6572/election/943",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Her campaign platform calls for ending regulations that increase energy costs and supporting oil and natural gas jobs.",
+          "quote": "End regulations that increase the cost of energy",
+          "sourceUrl": "https://monicaforcongress.us/issues/",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, she strongly disagreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/51859/race/6572/election/943",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Bobby Pulido",
+      "party": "Democratic",
+      "stances": {
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He says tariffs and trade wars raise costs and supports fair, open trade for farmers and ranchers.",
+          "quote": "Our farmers and ranchers don’t want handouts, but they do need fair markets, fair and open trade, and the freedom to do what they do best. Tariffs and trade wars are driving up costs and closing off opportunities",
+          "sourceUrl": "https://www.bobbypulidofortexas.com/issues/",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He calls Medicare a promise and says it should be kept and strengthened.",
+          "quote": "like Social Security, Medicare is a promise and a critical safety net that we have to keep and make stronger.",
+          "sourceUrl": "https://www.bobbypulidofortexas.com/issues/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He opposes vouchers and says public school funding should support classrooms, teachers, and students.",
+          "quote": "I believe strong public schools are critical to the success of South Texas. That’s why I oppose voucher schemes that drain money from our classrooms and send it to private schools.",
+          "sourceUrl": "https://www.bobbypulidofortexas.com/issues/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports border security and deporting violent criminals while also supporting legalization pathways and protections against family separation.",
+          "quote": "We can and should have more vetting hubs in Central America to help bring order to migration as we create a more fair and reasonable path to legalization for those who want to come here to contribute – because American businesses need a reliable workforce.",
+          "sourceUrl": "https://www.bobbypulidofortexas.com/issues/",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "He says Medicare should be strengthened and criticizes a bill he says put Medicaid at risk.",
+          "quote": "like Social Security, Medicare is a promise and a critical safety net that we have to keep and make stronger. We also need real leadership not more political rhetoric if we are ever going to succeed in bringing down costs",
+          "sourceUrl": "https://www.bobbypulidofortexas.com/issues/",
+          "agreement": "7/10"
+        }
+      }
+    }
+  ],
+  "sources": "monicaforcongress.us · delacruz.house.gov · ivoterguide.com · bobbypulidofortexas.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}
