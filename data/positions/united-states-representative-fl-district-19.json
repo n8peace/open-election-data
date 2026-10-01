@@ -1,0 +1,93 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 19",
+  "division": "fl/cd-19",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Victor Arias",
+      "party": "DEM",
+      "stances": {}
+    },
+    {
+      "name": "Seth Haskin",
+      "party": "NPA",
+      "stances": {
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supports strict immigration enforcement, removal of people here unlawfully, and limited legal pathways with sponsorship requirements.",
+          "quote": "I support secure borders, enforced immigration law, strict and limited legal pathways, sponsorship, employer accountability, assimilation, and citizenship.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020307",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "In a 2022 interview, he said he opposed limits during the first trimester but favored making abortions harder to obtain in the second and third trimesters.",
+          "quote": "I would ask most people where their line in the sand is. There is no definite line. A lot of times, people put the line after the first trimester, and I would agree.",
+          "sourceUrl": "https://advancetitan.com/wp-content/uploads/2022/10/Advance-Titan-Oct.-272022-LowRes.pdf",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "He supports requiring documentary proof of citizenship to register to vote, with a transition period and help obtaining the documents.",
+          "quote": "If government requires proof of citizenship to register to vote, citizens should first receive a reasonable transition period to obtain necessary records affordably or free.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020307",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Jim Schwartzel",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Schwartzel says he will keep taxes low and reduce regulations to help small businesses.",
+          "quote": "He will fight to keep taxes low, eliminate burdensome regulations, and make it easier for small businesses to thrive.",
+          "sourceUrl": "https://www.jimforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supports finishing the border wall, enforcing immigration laws, and returning people who enter illegally and break the law.",
+          "quote": "Jim firmly believes that anyone entering our country illegally and breaking our laws should be sent back to where they came from.",
+          "sourceUrl": "https://www.jimforcongress.com/issues",
+          "agreement": "3/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He opposes biological men competing in women’s sports and opposes bringing gender ideology into schools and sports.",
+          "quote": "Jim stands firmly against biological men competing in women’s sports and believes parents—not bureaucrats—should have the final say in how their children are raised and educated.",
+          "sourceUrl": "https://www.jimforcongress.com/issues",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "onyourballot.vote411.org · advancetitan.com · jimforcongress.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

@@ -1,0 +1,216 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 15",
+  "division": "fl/cd-15",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Laurel Lee",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, she said tax rates should be lower and brackets flatter.",
+          "quote": "Rates should be lower, and the bracket should be flatter.",
+          "sourceUrl": "https://ivoterguide.com/candidate/70994/race/1306/election/991",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "She strongly agreed that the government should cut spending to reduce the national debt.",
+          "quote": "The government should cut spending in order to reduce the national debt.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/70994/race/1306/election/991",
+          "agreement": "4/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "Her campaign says she championed legislation that expands education savings accounts.",
+          "quote": "The legislation eliminates unfair taxes on tips and overtime, provides tax relief to family farms, expands education savings accounts, and promotes American-made manufacturing.",
+          "sourceUrl": "https://votelaurel.com/",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "Her campaign says she opposed efforts to defund police and supported legislation to equip law enforcement.",
+          "quote": "She has voted to overturn soft-on-crime policies like the D.C. criminal code overhaul, and co-sponsored a resolution opposing efforts to defund the police.",
+          "sourceUrl": "https://votelaurel.com/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "She said she supports legal immigration only for people who enter legally and follow the citizenship process.",
+          "quote": "I support a legal and orderly immigration process ONLY for those that enter the country legally and follow our citizenship process.",
+          "sourceUrl": "https://ivoterguide.com/candidate/70994/race/1306/election/991",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "She said the Second Amendment is an individual right and that no further gun restrictions are needed.",
+          "quote": "I believe the second amendment is an individual right, no further restrictions are needed.",
+          "sourceUrl": "https://ivoterguide.com/candidate/70994/race/1306/election/991",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "She described herself as pro-life and listed exceptions for the mother’s life, reported rape, and incest against a minor.",
+          "quote": "I am pro-life with the exception to prevent the death of the mother, or in cases of rape reported to a law enforcement agency, or incest against a minor reported to a child abuse agency.",
+          "sourceUrl": "https://ivoterguide.com/candidate/70994/race/1306/election/991",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "She voted for the Protection of Women and Girls in Sports Act.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2023192",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "She said Medicaid and Medicare should remain available but opposed additional taxpayer-funded health programs.",
+          "quote": "Medicaid and Medicare should remain available, but no other taxpayer-funded programs are necessary.",
+          "sourceUrl": "https://ivoterguide.com/candidate/70994/race/1306/election/991",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "She strongly agreed that stricter environmental rules cost jobs and hurt the economy, and supported fracking.",
+          "quote": "A) Stricter environmental laws and regulations cost too many jobs and hurt the economy.",
+          "sourceUrl": "https://ivoterguide.com/candidate/70994/race/1306/election/991",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "She said states should strengthen election processes and disagreed that voters should be able to vote without photo identification.",
+          "quote": "I do believe that there are many states that should look to Florida as an example, should strengthen their election processes and should not be allowed to change the rules mid-game, as we saw many states do during the last election cycle.",
+          "sourceUrl": "https://ivoterguide.com/candidate/70994/race/1306/election/991",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Robert People",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "He proposes eliminating the Social Security payroll tax cap to support the program’s finances.",
+          "quote": "Robert People will support and proposes the elimination of the Social Security Tax Cap on income.",
+          "sourceUrl": "https://www.peopleforcongress.com/_files/ugd/53c186_01d60d34a5df44268f57b1e6a3050fc1.pdf",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "His platform lists a living wage and paid leave among his wage and income priorities.",
+          "quote": "Living Wage, Paid Leave - See Robert People’s “Worker’s Rights” policy",
+          "sourceUrl": "https://www.peopleforcongress.com/_files/ugd/53c186_caf75fbbaa8e46738b434b7391e18e44.pdf",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He says he would act to end tariffs and preserve trade channels.",
+          "quote": "We need to provide stability to the market, preserve trade channels for selling our goods and products, and we need to stop increasing costs for Americans when these tariffs get passed on to consumers.",
+          "sourceUrl": "https://www.peopleforcongress.com/_files/ugd/53c186_caf75fbbaa8e46738b434b7391e18e44.pdf",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says he will protect Social Security, while proposing changes to how benefits are calculated for higher earners.",
+          "quote": "Robert People will fight to make sure the promise of social security is there for future generations.",
+          "sourceUrl": "https://www.peopleforcongress.com/_files/ugd/53c186_01d60d34a5df44268f57b1e6a3050fc1.pdf",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He supports public tax incentives or grants for affordable-housing development.",
+          "quote": "Tax breaks or grants funding for affordable housing development",
+          "sourceUrl": "https://www.peopleforcongress.com/_files/ugd/53c186_caf75fbbaa8e46738b434b7391e18e44.pdf",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He says federal education policy should prevent funds from being diverted from public schools to private or charter schools.",
+          "quote": "Also, we need to ensure that funds are not being diverted from public schools to private or charter schools.",
+          "sourceUrl": "https://onyourballot.vote411.org/candidate-detail.do?id=73020329",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He calls for a clearer path to citizenship and stronger due-process protections for immigrants.",
+          "quote": "There needs to be a much better and clearer path to citizenship that does not involve immigrants who are doing the right thing having to wait years for their citizenship.",
+          "sourceUrl": "https://www.peopleforcongress.com/general-7",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports federal legislation protecting the right to choose whether to have an abortion.",
+          "quote": "Robert People supports a woman’s right to bodily autonomy and to make decisions with her medical providers about her own healthcare, full stop.",
+          "sourceUrl": "https://www.peopleforcongress.com/_files/ugd/53c186_67aee53a735f4351aa667f1b9e33ee49.pdf",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports universal health coverage through Medicare for All.",
+          "quote": "Robert People believes healthcare is a human right. Nobody in the United States should have to make a life-or-death decision on the basis of cost. He will fight for affordable, accessible healthcare through Medicare for All.",
+          "sourceUrl": "https://www.peopleforcongress.com/_files/ugd/53c186_67aee53a735f4351aa667f1b9e33ee49.pdf",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He proposes expanding clean energy investments and setting a goal of a fully clean electricity grid by 2040.",
+          "quote": "Federal clean energy standards targeting 100% clean grid by 2040",
+          "sourceUrl": "https://www.peopleforcongress.com/_files/ugd/53c186_b2eda0f7ac7c4e239b72bb8d3ff583f2.pdf",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "The campaign lists Vote by Mail among his priorities.",
+          "quote": "Robert speaks with members of the American Postal Workers Union about his priorities, including protecting Social Security, Medicare for All, Vote by Mail, protecting people and the environment, and opposing data centers when communities don’t want them.",
+          "sourceUrl": "https://www.peopleforcongress.com/",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "ivoterguide.com · votelaurel.com · clerk.house.gov · peopleforcongress.com · onyourballot.vote411.org",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

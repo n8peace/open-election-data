@@ -1,0 +1,144 @@
+{
+  "office": "United States Representative",
+  "district": "FL District 22",
+  "division": "fl/cd-22",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Casey Askar",
+      "party": "REP",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He says he would work with congressional leadership to slash taxes and regulations he says contribute to the affordability crisis.",
+          "quote": "In Congress, Casey will work with leadership to help slash overburdening taxes and regulations that are adding to the affordability crisis.",
+          "sourceUrl": "https://www.caseyaskar.com/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He calls for deporting criminal immigrants who are in the country illegally, securing the borders and keeping a merit-based immigration policy.",
+          "quote": "We must continue to deport criminal illegal aliens and secure our borders, and all Points of Entry into the U.S.",
+          "sourceUrl": "https://www.caseyaskar.com/",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He says biological boys should not use girls’ bathrooms.",
+          "quote": "Biological boys do not belong in girl’s bathrooms.",
+          "sourceUrl": "https://www.caseyaskar.com/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He calls for expanding domestic oil, natural gas, nuclear and clean coal production to reduce reliance on foreign oil.",
+          "quote": "We must unleash U.S. domestic energy production to power our economy and national security in order to reduce our reliance on foreign oil.",
+          "sourceUrl": "https://www.caseyaskar.com/",
+          "agreement": "4/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He calls for mandatory Real ID and immigration-status verification for voting.",
+          "quote": "Mandatory Real ID and immigration status verification to vote to protect our elections, so that only American citizens can vote.",
+          "sourceUrl": "https://www.caseyaskar.com/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Pia Dandiya",
+      "party": "DEM",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She says wealthy Americans should contribute more to sustain Social Security, Medicare, and Medicaid rather than cutting benefits.",
+          "quote": "The fairest way to keep these programs strong for generations to come is to ask the wealthiest Americans to pay their fair share",
+          "sourceUrl": "https://piaforcongress.com/priorities",
+          "agreement": "7/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "She says she would end tariffs she considers costly to families.",
+          "quote": "End illegal and costly tariffs so families aren’t forced to pay higher prices for groceries, household goods, and everyday essentials.",
+          "sourceUrl": "https://piaforcongress.com/priorities",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She says she would oppose cuts to Social Security benefits or increases to the retirement age.",
+          "quote": "I will fight to protect Social Security and oppose any effort to cut benefits, raise the retirement age, or hand the program over to Wall Street.",
+          "sourceUrl": "https://piaforcongress.com/priorities",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She supports increasing housing supply, speeding up permits, and converting vacant office buildings into homes.",
+          "quote": "A number one priority for me would be to legislate on how we are going to increase housing supply and incentivize with builders building not just luxury housing here, but middle income and affordable housing.",
+          "sourceUrl": "https://abhaydandekar.transistor.fm/288/transcript",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She says she would fully fund public schools and support teachers.",
+          "quote": "I will fight to make sure our public schools are fully funded, and our teachers get the support they need to make sure every student can succeed.",
+          "sourceUrl": "https://piaforcongress.com/priorities",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She says personal health care decisions should remain between a woman and her doctor.",
+          "quote": "I will fight to make sure all personal healthcare decisions stay between a woman and her doctor.",
+          "sourceUrl": "https://piaforcongress.com/priorities",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She says she would reverse Medicaid cuts and protect Medicare.",
+          "quote": "I will reverse Medicaid cuts so families, children, seniors, and people with disabilities can continue to get the care they need, and will protect Medicare for future generations.",
+          "sourceUrl": "https://piaforcongress.com/priorities",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "She supports clean-energy investment and reducing pollution while growing the economy.",
+          "quote": "I also support modernizing the power grid, strengthening infrastructure, investing in disaster preparedness, and reducing pollution that harms our air, water, and public health.",
+          "sourceUrl": "https://onyourballot.vote411.org/race-detail.do?id=71841228&party=Rep",
+          "agreement": "3/10"
+        }
+      }
+    }
+  ],
+  "sources": "caseyaskar.com · piaforcongress.com · abhaydandekar.transistor.fm · onyourballot.vote411.org",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}
