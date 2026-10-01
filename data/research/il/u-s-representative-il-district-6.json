@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Sean Casten",
-      "party": "Democratic"
-    },
-    {
       "name": "Niki Conforti",
       "party": "Republican"
+    },
+    {
+      "name": "Sean Casten",
+      "party": "Democratic"
     }
   ]
 }

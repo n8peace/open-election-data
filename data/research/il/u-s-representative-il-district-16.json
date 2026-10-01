@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Paul Nolley",
-      "party": "Democratic"
-    },
-    {
       "name": "Darin LaHood",
       "party": "Republican"
+    },
+    {
+      "name": "Paul Nolley",
+      "party": "Democratic"
     }
   ]
 }

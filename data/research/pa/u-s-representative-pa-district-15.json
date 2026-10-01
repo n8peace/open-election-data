@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Ray Bilger",
-      "party": "Democratic"
-    },
-    {
       "name": "Glenn \"GT\" Thompson",
       "party": "Republican"
+    },
+    {
+      "name": "Ray Bilger",
+      "party": "Democratic"
     }
   ]
 }

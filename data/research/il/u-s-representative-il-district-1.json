@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Jonathan L. Jackson",
-      "party": "Democratic"
-    },
-    {
       "name": "Christian Maxwell",
       "party": "Republican"
+    },
+    {
+      "name": "Jonathan L. Jackson",
+      "party": "Democratic"
     }
   ]
 }

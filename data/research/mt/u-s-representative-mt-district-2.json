@@ -6,19 +6,19 @@
   "choices": [
     {
       "name": "TROY DOWNING",
-      "party": "REP"
-    },
-    {
-      "name": "BRIAN J MILLER",
-      "party": "DEM"
+      "party": "Republican"
     },
     {
       "name": "PATRICK MCCRACKEN",
-      "party": "LIB"
+      "party": "Libertarian"
+    },
+    {
+      "name": "BRIAN J MILLER",
+      "party": "Democratic"
     },
     {
       "name": "MICHAEL D EISENHAUER",
-      "party": "IND"
+      "party": "Independent"
     }
   ]
 }

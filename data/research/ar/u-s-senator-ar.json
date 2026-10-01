@@ -1,0 +1,20 @@
+{
+  "office": "U.S. Senator",
+  "district": "AR",
+  "division": "ar/state",
+  "kind": "candidate",
+  "choices": [
+    {
+      "name": "Tom Cotton",
+      "party": "Republican"
+    },
+    {
+      "name": "Hallie Shoffner",
+      "party": "Democratic"
+    },
+    {
+      "name": "Jeff Wadlin",
+      "party": "Libertarian"
+    }
+  ]
+}

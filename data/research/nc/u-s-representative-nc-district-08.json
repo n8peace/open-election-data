@@ -5,16 +5,16 @@
   "kind": "candidate",
   "choices": [
     {
+      "name": "Bo Whitehead",
+      "party": "GRE"
+    },
+    {
       "name": "Colby Watson",
       "party": "DEM"
     },
     {
       "name": "Mark Harris",
       "party": "REP"
-    },
-    {
-      "name": "Bo Whitehead",
-      "party": "GRE"
     }
   ]
 }

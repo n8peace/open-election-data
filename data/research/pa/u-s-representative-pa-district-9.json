@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Rachel Wallace",
-      "party": "Democratic"
-    },
-    {
       "name": "Dan Meuser",
       "party": "Republican"
+    },
+    {
+      "name": "Rachel Wallace",
+      "party": "Democratic"
     }
   ]
 }

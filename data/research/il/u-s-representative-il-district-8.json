@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Melissa L. Bean",
-      "party": "Democratic"
-    },
-    {
       "name": "Jennifer Davis",
       "party": "Republican"
+    },
+    {
+      "name": "Melissa Bean",
+      "party": "Democratic"
     }
   ]
 }

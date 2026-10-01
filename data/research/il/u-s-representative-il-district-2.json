@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Donna Miller",
-      "party": "Democratic"
-    },
-    {
       "name": "Michael Scott Noack",
       "party": "Republican"
+    },
+    {
+      "name": "Donna Miller",
+      "party": "Democratic"
     }
   ]
 }

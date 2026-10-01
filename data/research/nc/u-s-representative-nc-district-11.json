@@ -5,12 +5,16 @@
   "kind": "candidate",
   "choices": [
     {
+      "name": "Jennifer Capps Balkcom",
+      "party": "REP"
+    },
+    {
       "name": "Jamie Ager",
       "party": "DEM"
     },
     {
-      "name": "Chuck Edwards",
-      "party": "REP"
+      "name": "Travis Groo",
+      "party": "LIB"
     }
   ]
 }

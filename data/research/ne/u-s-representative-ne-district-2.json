@@ -1,19 +1,19 @@
 {
   "office": "U.S. Representative",
-  "district": "AR District 1",
-  "division": "ar/cd-1",
+  "district": "NE District 2",
+  "division": "ne/cd-2",
   "kind": "candidate",
   "choices": [
     {
-      "name": "Rick Crawford",
+      "name": "Brinker Harding",
       "party": "Republican"
     },
     {
-      "name": "Terri Yarbrough Green",
+      "name": "Denise Powell",
       "party": "Democratic"
     },
     {
-      "name": "Steve G. Parsons",
+      "name": "Eric Michael Foreman",
       "party": "Libertarian"
     }
   ]

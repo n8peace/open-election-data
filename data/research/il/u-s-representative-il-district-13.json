@@ -5,12 +5,12 @@
   "kind": "candidate",
   "choices": [
     {
-      "name": "Nikki Budzinski",
-      "party": "Democratic"
-    },
-    {
       "name": "Jeff Wilson",
       "party": "Republican"
+    },
+    {
+      "name": "Nikki Budzinski",
+      "party": "Democratic"
     }
   ]
 }

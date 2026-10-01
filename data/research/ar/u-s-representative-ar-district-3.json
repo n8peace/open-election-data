@@ -5,16 +5,16 @@
   "kind": "candidate",
   "choices": [
     {
+      "name": "Steve Womack",
+      "party": "Republican"
+    },
+    {
       "name": "Robb Ryerse",
       "party": "Democratic"
     },
     {
       "name": "Bobby Wilson",
       "party": "Libertarian"
-    },
-    {
-      "name": "Congressman Steve Womack",
-      "party": "Republican"
     }
   ]
 }
