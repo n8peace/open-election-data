@@ -1,0 +1,71 @@
+{
+  "office": "United States Representative",
+  "district": "DC At-large",
+  "division": "dc/cd-at-large",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Ciprian Ivanof",
+      "party": "Republican",
+      "stances": {}
+    },
+    {
+      "name": "Franklin Garcia",
+      "party": "Democrat",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "He said he would advocate for higher worker pay and stronger worker rights.",
+          "quote": "Garcia will advocate for raising workers’ wages, protecting worker rights, protecting retirement security, combating racial and gender discrimination, reducing income inequality, and encouraging workforce diversity.",
+          "sourceUrl": "https://static1.squarespace.com/static/5ed9d8d1b002bc049da939c5/t/5f9b3619fcc50340c2650928/1604007449780/Guide%2BTo%2BVote%2BDC.pdf",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "He said he would advocate for protecting retirement security.",
+          "quote": "Garcia will advocate for raising workers’ wages, protecting worker rights, protecting retirement security, combating racial and gender discrimination, reducing income inequality, and encouraging workforce diversity.",
+          "sourceUrl": "https://static1.squarespace.com/static/5ed9d8d1b002bc049da939c5/t/5f9b3619fcc50340c2650928/1604007449780/Guide%2BTo%2BVote%2BDC.pdf",
+          "agreement": "3/10"
+        },
+        "housing": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "In his 2020 Council campaign, Garcia supported more rent control alongside relaxing rules that made it harder for buyers and tenants to get into homes.",
+          "quote": "Garcia supports and will push for more rent control legislation. He also will support relaxing rules and regulations that make it difficult for buyers and tenants to get into homes.",
+          "sourceUrl": "https://static1.squarespace.com/static/5ed9d8d1b002bc049da939c5/t/5f9b3619fcc50340c2650928/1604007449780/Guide%2BTo%2BVote%2BDC.pdf",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He called for quality public, charter, and private educational institutions rather than taking a position limited to either district schools or school choice.",
+          "quote": "Quality educational public, charter and private institutions with 21st century infrastructure and educators",
+          "sourceUrl": "https://thesouthwester.com/2020/10/25/meet-the-candidates/",
+          "agreement": "4/10"
+        }
+      }
+    }
+  ],
+  "sources": "static1.squarespace.com · thesouthwester.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

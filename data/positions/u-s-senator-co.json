@@ -1,0 +1,463 @@
+{
+  "office": "U.S. Senator",
+  "district": "CO",
+  "division": "co/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Mark Baisley",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He says he will fight to cut federal taxes.",
+          "quote": "In the United States Senate, he will fight to cut federal taxes, roll back job-killing regulations, restore American energy dominance, and make the US a magnet for employers",
+          "sourceUrl": "https://baisleyforsenate.com/issues/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, he supported vouchers, tax credits, charter schools, private schools, and homeschooling.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools.",
+          "sourceUrl": "https://ivoterguide.com/candidate/22298/race/8508/election/950",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He opposed redirecting police funds to mental health and community programs and said he would support and fund law enforcement.",
+          "quote": "Mark will work with law enforcement to give them the support and funding they need to keep us safe.",
+          "sourceUrl": "https://baisleyforsenate.com/issues/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He strongly agreed that the United States should do more to physically secure the southern border and favored a finite, screened immigration system.",
+          "quote": "The U.S. should do more to physically secure the southern border. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/22298/race/8508/election/950",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He said abortion should be allowed only to save the mother’s life and expressed doubt that this circumstance existed in 2022.",
+          "quote": "The life of the mother. However, in 2022 I do not believe that such a condition exists.",
+          "sourceUrl": "https://ivoterguide.com/candidate/22298/race/8508/election/950",
+          "agreement": "3/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He favored ending taxpayer-funded health care while supporting subsidies for private insurance for people unable to care for themselves.",
+          "quote": "D. However, I would support government subsidy to pay for private insurance policies for those who are unable (not unwilling) to care for themselves.",
+          "sourceUrl": "https://ivoterguide.com/candidate/22298/race/8508/election/950",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "In a 2022 questionnaire, he strongly agreed with using hydraulic fracturing to extract oil and natural gas.",
+          "quote": "I support the use of hydraulic fracking to extract oil and natural gas resources.",
+          "sourceUrl": "https://ivoterguide.com/candidate/22298/race/8508/election/950",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He opposed voting without photo identification and proposed voter-roll checks and government ID for ballot drop-off.",
+          "quote": "Allow ballots to be mailed out, but require every voter to drop off their ballot with matching government issued ID",
+          "sourceUrl": "https://ivoterguide.com/candidate/22298/race/8508/election/950",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "John Hickenlooper",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He led an amendment to extend a residential clean-energy credit financed by a higher top tax bracket.",
+          "quote": "It is paid for by increasing the top tax bracket to 39.6%.",
+          "sourceUrl": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-votes-against-republicans-budget-bill-that-strips-health-care-from-americans-closes-rural-hospitals-explodes-national-deficit/",
+          "agreement": "3/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He says he supports unions and co-sponsored the PRO Act to strengthen workers’ rights and help workers negotiate better pay and conditions.",
+          "quote": "John is a strong supporter of labor unions and American workers. He’s joined picket lines across Colorado and supported workers as they organize for fair wages and better working conditions.",
+          "sourceUrl": "https://hickenlooper.com/issues/",
+          "agreement": "5/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He says he supports cutting red tape that slows homebuilding and helping communities build more affordable housing.",
+          "quote": "John is helping lower the cost of housing by preventing large corporations from dominating the housing market, cutting red tape that slows building more homes, and supporting local communities to invest in the housing they need.",
+          "sourceUrl": "https://hickenlooper.com/issues/",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He supports investing in public schools and educator salaries, and has opposed withholding federal funding from K-12 schools.",
+          "quote": "Decades of underinvestment in our public schools have not only created challenges for students and families, but teachers as well.",
+          "sourceUrl": "https://www.hickenlooper.senate.gov/issues-backup/education/",
+          "agreement": "4/5"
+        },
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "lean",
+          "text": "He supports decriminalizing marijuana and sentencing relief for people imprisoned for nonviolent marijuana crimes.",
+          "quote": "Hickenlooper supports criminal justice reform related to decriminalizing marijuana and sentencing relief for people – disproportionately Black men – who have been imprisoned for nonviolent marijuana crimes.",
+          "sourceUrl": "https://www.hickenlooper.senate.gov/issues-backup/marijuana/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports expanding lawful pathways to citizenship and restoring DACA while also maintaining a secure border.",
+          "quote": "He supports commonsense reforms that modernize border management, expand lawful pathways to citizenship, and create a fair, reliable guest worker system that strengthens our economy while protecting American workers.",
+          "sourceUrl": "https://www.hickenlooper.senate.gov/issues-backup/immigration/",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He says he is defending abortion rights and supports restoring Roe v. Wade and protecting access to medication abortion.",
+          "quote": "He is fighting to restore Roe v Wade and reverse disastrous Medicaid cuts that targeted Planned Parenthood.",
+          "sourceUrl": "https://hickenlooper.com/issues/",
+          "agreement": "5/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "He supports removing cannabis from federal controlled-substance schedules and creating a regulatory framework for legalization.",
+          "quote": "The federal government needs to deschedule and decriminalize marijuana so we can move on to more effectively regulating marijuana while prioritizing social equity and righting the wrongs of the war on drugs.",
+          "sourceUrl": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-bennet-colleagues-reintroduce-legislation-to-deschedule-marijuana-end-federal-prohibition-of-cannabis/",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He co-sponsored legislation to create a public health insurance option through the Affordable Care Act and Medicare.",
+          "quote": "A public option would be transformative for lowering costs, giving Coloradans more choices, and putting quality care within reach for everyone.",
+          "sourceUrl": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-cosponsors-bennets-medicare-x-choice-act-to-achieve-universal-health-care/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He supported the Inflation Reduction Act’s climate investments and says the country should expand clean energy and transition away from fossil fuels.",
+          "quote": "That means we need a bold, science-based approach that expands clean energy and transitions away from fossil fuels.",
+          "sourceUrl": "https://www.hickenlooper.senate.gov/issues-backup/climate/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "As governor, he helped establish universal vote-by-mail in Colorado and says he is working to protect voting access.",
+          "quote": "As governor, John helped create the gold-standard for universal vote-by-mail to expand voting access.",
+          "sourceUrl": "https://hickenlooper.com/issues/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Bob Chew",
+      "party": "Forward",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He proposes pairing spending restraint with tax changes that raise revenue for debt reduction.",
+          "quote": "And fourth, enact fair and responsible tax reform to bring in more revenue from the wealthiest Americans.",
+          "sourceUrl": "https://bobchew2026.com/issues/",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He supports giving parents choices among schools and financial support to use them.",
+          "quote": "Parents deserve real choices. We should empower families to choose the schools that best meet their children’s needs and provide support so they can afford it.",
+          "sourceUrl": "https://bobchew2026.com/issues/",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He calls for combining criminal accountability with treatment rather than adopting either approach alone.",
+          "quote": "We need an approach that melds accountability with treatment.",
+          "sourceUrl": "https://bobchew2026.com/issues/",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Chew said immigrants help society and the economy and proposed letting states decide how many people to accept in each visa category.",
+          "quote": "But bring them in. If you believe that they're going to add to your economy, bring them in.",
+          "sourceUrl": "https://www.cpr.org/2026/09/25/vg-2026-robert-chew-voter-guide/",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "He supports revisiting a federal assault-weapons restriction while defending lawful gun ownership.",
+          "quote": "For a decade during the 1990s and early 2000s, Congress restricted assault weapons, and I believe Congress should revisit that approach.",
+          "sourceUrl": "https://bobchew2026.com/issues/",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Chew said he could support basic Medicare for All to protect people from large bills, while emphasizing that people would have to pay for it.",
+          "quote": "where you don’t end up with a $100,000 hospital bill hanging over your head",
+          "sourceUrl": "https://ivn.us/bob-chew-wants-to-make-colorados-senate-race-about-the-problems-both-parties-duck/",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "Chew said Colorado’s electricity prices were higher than nearby states’ and criticized moving too quickly toward a greener energy future.",
+          "quote": "Colorado has higher electricity prices than the surrounding other states because we have run headlong into a — quote — ‘greener future’ instead of a more measured, planned approach to how we generate electricity.",
+          "sourceUrl": "https://www.cpr.org/2026/09/25/vg-2026-robert-chew-voter-guide/",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Christopher Baum",
+      "party": "Approval Voting",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "In a 2024 candidate questionnaire, Baum favored cutting government spending to reduce the national debt and strongly disagreed that people who can afford it should pay more taxes to help working families.",
+          "quote": "The government should cut spending in order to reduce the national debt. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/72980/race/32757/election/1475",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He said government should not fund education and that it is a matter for parents.",
+          "quote": "No government should fund education; it is a matter for parents.",
+          "sourceUrl": "https://ivoterguide.com/candidate/72980/race/32757/election/1475",
+          "agreement": "2/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He strongly opposed redirecting police funding to community programs.",
+          "quote": "I support redirecting funds from police departments to community programs.\n\nStrongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/72980",
+          "agreement": "2/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "He strongly supported doing more to physically secure the southern border.",
+          "quote": "The U.S. should do more to physically secure the southern border.\n\nStrongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/72980",
+          "agreement": "2/3"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "In a 2024 candidate questionnaire, Baum said no restrictions on gun ownership were needed to protect public safety.",
+          "quote": "None. Private ownership of guns was allowed from our country's beginnings to permit citizens to protect themselves not only from outlaws but also from government which history has shown to often devolve into tyranny.",
+          "sourceUrl": "https://ivoterguide.com/candidate/72980/race/32757/election/1475",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "In a 2024 candidate questionnaire, Baum said human life deserves legal protection from conception and answered that elective abortion should never be allowed.",
+          "quote": "Human life deserves legal protection from conception until natural death. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/72980/race/32757/election/1475",
+          "agreement": "3/3"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "In a 2024 candidate questionnaire, Baum opposed biological males participating in women's sports or occupying women's spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/72980/race/32757/election/1475",
+          "agreement": "3/3"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "In a 2024 candidate questionnaire, Baum favored abolishing taxpayer-funded health care, including Medicaid and Medicare, and described medical care as an individual responsibility.",
+          "quote": "D) Taxpayer funded health care should be abolished in all forms, and Medicaid and Medicare should be defunded.",
+          "sourceUrl": "https://ivoterguide.com/candidate/72980/race/32757/election/1475",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He said the country should rely on coal and petroleum until fusion or hydrogen are developed.",
+          "quote": "Either fusion or hydrogen neither of which has been developed. Until they are, we should rely on coal and petroleum.",
+          "sourceUrl": "https://ivoterguide.com/candidate/72980",
+          "agreement": "2/3"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "In a 2024 candidate questionnaire, Baum strongly disagreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/72980/race/32757/election/1475",
+          "agreement": "3/3"
+        }
+      }
+    },
+    {
+      "name": "Blake Huber",
+      "party": "Libertarian",
+      "stances": {
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "In a candidate questionnaire, Huber criticized U.S. immigration rules as racially biased and said immigration is needed to fill jobs.",
+          "quote": "Immigration will always be with us, and in fact as families here in the US have fewer children we will need immigration to fill jobs.",
+          "sourceUrl": "https://ivoterguide.com/candidate/44225/race/6848/election/625?culture=en-us",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, Huber strongly disagreed that more restrictive gun control is needed for public safety.",
+          "quote": "More restrictive gun control is needed to protect public safety. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/44225/race/6848/election/625?culture=en-us",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "In a candidate questionnaire, Huber disagreed that human life should receive legal protection from conception through natural death and described abortion as a decision for a woman.",
+          "quote": "I think an abortion is a decision a woman would need to make with the advice and counsel of the baby’s father and her religious leaders.",
+          "sourceUrl": "https://ivoterguide.com/candidate/44225/race/6848/election/625?culture=en-us",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, Huber described insurance, health savings accounts, and private contributions as ways to cover health costs.",
+          "quote": "If we create an environment where people want to insure for catastrophic, budget busting, bankruptcy type events and reward people who put money aside into a health savings account, for example, we could promote rational healthcare systems.",
+          "sourceUrl": "https://ivoterguide.com/candidate/44225/race/6848/election/625?culture=en-us",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, Huber strongly agreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/44225/race/6848/election/625?culture=en-us",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Adam Withrow",
+      "party": "Unity",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports raising the federal minimum wage and tying it to the Consumer Price Index.",
+          "quote": "I believe a raise in the Federal Minimum Wage is vital. No one can live off of $7.25 an hour anywhere.",
+          "sourceUrl": "https://www.senatorwithrow.com/platform-discussion",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He proposes incentives to increase the supply of starter homes.",
+          "quote": "We must incentivize new starter home inventory.",
+          "sourceUrl": "https://www.senatorwithrow.com/housing",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He supports expanding public education and adding before- and after-school options in public schools.",
+          "quote": "Public schools should offer more before and after school options for children with two working parents.",
+          "sourceUrl": "https://www.senatorwithrow.com/education",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "He says law enforcement alone is not an adequate response to mental-health crises and discusses improving access to mental-health care.",
+          "quote": "Leaving it to law enforcement is not either.",
+          "sourceUrl": "https://www.senatorwithrow.com/platform-discussion",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He says the federal government has little authority to restrict gun ownership and that individuals should decide what firearms they need.",
+          "quote": "Most federal gun laws are outlawed by the Constitution. The federal government really has no say in the matter.",
+          "sourceUrl": "https://www.senatorwithrow.com/gun-rights",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He expressed support for women having reproductive-healthcare choices.",
+          "quote": "Anybody out here think women should have reproductive healthcare choices? Good. I'm in the right room.",
+          "sourceUrl": "https://www.senatorwithrow.com/platform-discussion",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports a single-payer system, expanded public coverage, and a public health-insurance option.",
+          "quote": "We need a public, not for profit buy in option for health insurance. We don't need a mandate, we need options.",
+          "sourceUrl": "https://www.senatorwithrow.com/healthcare",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He supports clean-energy incentives and limiting fossil-fuel exports and drilling expansion.",
+          "quote": "Promote the development of new, clean, affordable energy tech.",
+          "sourceUrl": "https://www.senatorwithrow.com/energy",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He supports automatic voter registration, more ways to cast ballots, and measures against voter suppression.",
+          "quote": "Make voting easier, faster, and more secure with more ways to cast your ballot.",
+          "sourceUrl": "https://www.senatorwithrow.com/voting-rights",
+          "agreement": "9/10"
+        }
+      }
+    }
+  ],
+  "sources": "baisleyforsenate.com · ivoterguide.com · hickenlooper.senate.gov · hickenlooper.com · bobchew2026.com · cpr.org · ivn.us · senatorwithrow.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}
