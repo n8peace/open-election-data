@@ -1,0 +1,176 @@
+{
+  "office": "U.S. House",
+  "district": "DE",
+  "division": "de/cd-at-large",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Sarah McBride",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She called for raising the federal minimum wage to $15 and adjusting it for inflation, and pledged to support stronger union protections.",
+          "quote": "That is why Congress must increase the federal minimum wage to $15 and set it to rise with inflation.",
+          "sourceUrl": "https://sarahmcbride.com/priority/building-a-working-families-economy/",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She pledged to protect and expand Social Security and Medicare, saying seniors earned those benefits through a lifetime of work.",
+          "quote": "Now, some politicians in Washington want to take away the benefits seniors across Delaware have earned.",
+          "sourceUrl": "https://sarahmcbride.com/2024/10/release-senator-john-fetterman-endorses-sarah-mcbride-for-congress-ew5mw-66lzl-b8wm8-n3eg2-khp4k-t4jm5-kjx75-nbat2-3d3f4-j5z9a-e3fh3/",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "She said she would support criminal justice reforms focused on reentry and preventing recidivism.",
+          "quote": "I’ll vote to end mass incarceration, legalize marijuana and expunge convictions, and help to reimagine a system that prioritizes reentry and prevents recidivism.",
+          "sourceUrl": "https://sarahmcbride.com/priority/criminal-justice-reform/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "She voted to extend Temporary Protected Status for Haitians and said she would advocate for protections for immigrant neighbors.",
+          "quote": "Rather than working to make our immigration system more humane and fair, this administration is advancing a reckless immigration agenda with little regard for legal status, established protections, or basic human decency.",
+          "sourceUrl": "https://mcbride.house.gov/media/press-releases/rep-mcbride-votes-extend-temporary-protected-status-haitian-delawareans",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She said she would support stronger background checks, an assault weapons ban, and safeguards to prevent dangerous people from getting guns.",
+          "quote": "When elected to Congress, I will vote to strengthen background checks, ban assault weapons, and institute safeguards to prevent dangerous individuals from getting guns.",
+          "sourceUrl": "https://sarahmcbride.com/priority/gun-violence/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She said she had supported every pro-choice bill before her in the Delaware Senate and pledged to protect reproductive freedom in Congress.",
+          "quote": "I’ve supported and co-sponsored every pro-choice bill that has come before me and been a champion of bills expanding access to reproductive care in Delaware.",
+          "sourceUrl": "https://sarahmcbride.com/priority/protect-reproductive-health-care/",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "She opposed a Delaware bill requiring school athletes to compete according to sex assigned at birth and helped keep it from a full Senate vote.",
+          "quote": "Being a trans kid in a world that so often rejects who you are is already hard enough and I don’t understand why we would pass a law that makes their lives even harder.",
+          "sourceUrl": "https://townsquaredelaware.com/senate-committee-hears-fairness-in-womens-sports-act/",
+          "agreement": "3/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "She said she would vote to legalize marijuana and expunge convictions.",
+          "quote": "I’ll vote to end mass incarceration, legalize marijuana and expunge convictions, and help to reimagine a system that prioritizes reentry and prevents recidivism.",
+          "sourceUrl": "https://sarahmcbride.com/priority/criminal-justice-reform/",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports expanding Medicare, lowering its eligibility age, and creating a public option as steps toward universal coverage.",
+          "quote": "At a minimum, we should expand Medicare to cover dental, vision, and hearing while lowering the age of eligibility and providing a public option.",
+          "sourceUrl": "https://sarahmcbride.com/priority/universal-health-care-expansion/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She called for investment in renewable energy and said the United States should reach net-zero emissions as soon as possible.",
+          "quote": "In order to achieve net-zero emissions as soon as possible, the United States must demonstrate commitment to both domestic action and global investment.",
+          "sourceUrl": "https://sarahmcbride.com/priority/climate-change-sustainability/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She supported vote by mail, early voting, and same-day registration in Delaware and pledged to back federal voting-rights legislation.",
+          "quote": "In the Delaware General Assembly, I have joined many of my colleagues in passing vote by mail, early voting, and same-day voter registration.",
+          "sourceUrl": "https://sarahmcbride.com/priority/protect-and-expand-access-to-voting/",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "Joseph \"Dr. Joe\" Arminio",
+      "party": "Republican",
+      "stances": {
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He says he supports ending sanctuary cities and enforcing immigration law.",
+          "quote": "I agree with President Trump: end sanctuary cities and enforce the law.",
+          "sourceUrl": "https://drjoeforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He says the Second Amendment must be upheld when asked what gun restrictions are needed for public safety.",
+          "quote": "The second amendment, like the rest of the constitution, must be upheld.",
+          "sourceUrl": "https://ivoterguide.com/candidate/83761/race/30005/election/1450",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He describes himself as broadly pro-life and supports legal protection for life from conception.",
+          "quote": "I'm pro-life, broadly defined, standing for life from conception to death of everyone.",
+          "sourceUrl": "https://ivoterguide.com/candidate/83761/race/30005/election/1450",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He strongly agreed that biological males should not participate in women's sports or occupy women's spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/83761/race/30005/election/1450",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He supports using fossil fuels and nuclear reactors to power data centers.",
+          "quote": "I am for relying upon (small) nuclear reactors and fossil fuel to power legitimate centers.",
+          "sourceUrl": "https://snapcoalition.org/initiatives/stance-on-science/candidates/de/joseph-dr-joe-arminio",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He strongly disagreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/83761/race/30005/election/1450",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "sarahmcbride.com · mcbride.house.gov · townsquaredelaware.com · drjoeforcongress.com · ivoterguide.com · snapcoalition.org",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

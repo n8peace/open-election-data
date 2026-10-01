@@ -1,0 +1,111 @@
+{
+  "office": "U.S. Senator",
+  "district": "DE",
+  "division": "de/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Chris Coons",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He voted to advance a bill raising the federal minimum wage and has cosponsored legislation protecting union organizing.",
+          "quote": "Raising wages to $10.10 would lift a family of three above the poverty line, giving them financial security, income to spend at local businesses, and a ladder into the middle class.",
+          "sourceUrl": "https://www.coons.senate.gov/news/press-releases/senator-coons-votes-to-raise-minimum-wage/",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "Coons introduced a housing-materials tariff exemption and supported a housing bill intended to expand supply, cut red tape, and make construction easier and faster.",
+          "quote": "The impact of cutting red tape to make it easier and faster to build new houses and apartments will be muted if the costs of constructing those units are inflated because of high tariffs on building materials.",
+          "sourceUrl": "https://www.coons.senate.gov/news/press-releases/senator-coons-files-amendment-to-add-his-housing-tariff-exclusion-act-to-housing-bill/",
+          "agreement": "3/5"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He has backed funding for local police and also advocated funding mental health services and responders.",
+          "quote": "We can make our officers and communities safer by keeping guns away from dangerous people, and by funding mental health services and mental health responders.",
+          "sourceUrl": "https://www.coons.senate.gov/issues/public-safety/",
+          "agreement": "5/5"
+        },
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "strong",
+          "text": "He supported sentencing reforms that give judges more discretion for nonviolent offenses and reduce reliance on incarceration.",
+          "quote": "The Smarter Sentencing Act will take important steps to modernize this policy by empowering judges to determine appropriate sentences for non-violent offenders.",
+          "sourceUrl": "https://www.coons.senate.gov/news/press-releases/senator-coons-cosponsors-bill-to-modernize-drug-sentencing-policy",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He has supported universal background checks and cosponsored bills to prevent gun violence.",
+          "quote": "Chris is a strong believer in universal effective background checks.",
+          "sourceUrl": "https://www.coons.senate.gov/commonwealth-connection/judiciary-committee-hearing-addresses-gun-violence/",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He has supported strengthening Medicaid, Medicare, and the ACA, including expanding ACA marketplace tax credits.",
+          "quote": "He is working every day to make that a reality by protecting and strengthening the programs that give people a health care lifeline: Medicaid, Medicare, and the Affordable Care Act.",
+          "sourceUrl": "https://www.coons.senate.gov/issues/health-care/",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "Michael \"Dr. Mike\" Katz",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He says he will oppose tax increases and seek permanent tax cuts.",
+          "quote": "In the U.S. Senate, I will advocate for permanent pro-growth tax cuts and a massive rollback of federal bureaucratic overreach.",
+          "sourceUrl": "https://katz2026.com/platform",
+          "agreement": "3/3"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He supports expanding affordable housing supply through zoning reform and construction incentives.",
+          "quote": "Augment the supply of affordable homes through zoning reform partnerships, construction incentives, and reduced compliance costs for projects that meet community needs.",
+          "sourceUrl": "https://katz2026.com/platform",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supports energy policies intended to lower utility bills and cautions against decisions that raise costs for families.",
+          "quote": "I support a diversified, reliable energy strategy — including safe nuclear power with the right safeguards — to meet long-term demand and drive down utility bills.",
+          "sourceUrl": "https://katz2026.com/platform",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "coons.senate.gov · katz2026.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}
