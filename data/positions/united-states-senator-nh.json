@@ -1,0 +1,342 @@
+{
+  "office": "United States Senator",
+  "district": "NH",
+  "division": "nh/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Chris Pappas",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "His campaign backs tax cuts while also protecting assistance programs and public health coverage.",
+          "quote": "by cutting energy taxes, protecting heating assistance programs like LIHEAP, lowering utility bills for veterans and military families",
+          "sourceUrl": "https://chrispappas.org/priority/tax-cuts-lower-costs-blueprint/",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports collective bargaining protections and says he will fight for higher wages and better benefits.",
+          "quote": "He helped introduce and fought to pass the PRO Act in the House, which would protect collective bargaining and hold corporations accountable for violating those rights.",
+          "sourceUrl": "https://chrispappas.org/priority/labor/",
+          "agreement": "6/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He has called for ending broad Trump tariffs and sponsored relief for businesses affected by them.",
+          "quote": "These tariffs are inflationary, illegal, and a drag on working families and the American economy.",
+          "sourceUrl": "https://chrispappas.org/2026/04/on-the-anniversary-of-liberation-day-pappas-renews-call-for-end-to-trumps-disastrous-tariffs/",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says he will not cut Social Security or Medicare benefits and opposes raising the retirement age.",
+          "quote": "Chris will never vote to cut benefits or force seniors to work longer for less.",
+          "sourceUrl": "https://chrispappas.org/priority/seniors/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He supports cutting red tape and incentivizing more construction to increase housing supply.",
+          "quote": "Chris is working to make homeownership a reality for more Granite Staters by cutting red tape for communities to build more homes",
+          "sourceUrl": "https://chrispappas.org/priority/housing/",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He supports investing in public schools and has opposed efforts to dismantle public education.",
+          "quote": "That is why he is committed to investing in our schools, supporting our teachers, and ensuring that every student can get a high-quality education",
+          "sourceUrl": "https://chrispappas.org/priority/education/",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports police and first-responder funding while also backing addiction treatment, homelessness services and mental-health resources.",
+          "quote": "That is why Chris is committed to providing every available resource to help law enforcement keep deadly drugs like fentanyl off our streets and ensure Granite Staters suffering from addiction get the care and treatment they need.",
+          "sourceUrl": "https://chrispappas.org/priority/prioritizing-public-safety/",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports legal immigration and protections for DREAMers while backing border security and deportation of violent people in the country illegally.",
+          "quote": "Chris supports comprehensive, common-sense immigration reform that will help fix our broken system and allow immigrants who work hard and follow the rules get a shot at their American dream.",
+          "sourceUrl": "https://chrispappas.org/priority/immigration/",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He voted for federal gun-safety legislation including extreme-risk protection orders and supports background-check measures.",
+          "quote": "The legislation we passed today will help keep deadly firearms out of the hands of those who should not have access to them while ensuring due process is respected.",
+          "sourceUrl": "https://pappas.house.gov/media/press-releases/pappas-helps-pass-gun-violence-protection-legislation",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supported legislation to codify abortion rights and says he is fighting to restore and protect access.",
+          "quote": "In Congress Chris helped pass the Women’s Health Protection Act in the wake of the Dobbs decision to codify the right to abortion into law.",
+          "sourceUrl": "https://chrispappas.org/priority/reproductive-freedom/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "He voted against the 2023 bill that would have imposed sex-at-birth rules for women’s and girls’ school sports.",
+          "quote": "Vote Question: On Passage Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2023192",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports Medicaid expansion, strengthening the ACA and expanding Medicare’s role in lowering prescription-drug costs.",
+          "quote": "While serving on the New Hampshire Executive Council, Chris voted to expand Medicaid to over 50,000 people, increasing access to affordable health care and expanding addiction and recovery treatment for Granite Staters.",
+          "sourceUrl": "https://chrispappas.org/priority/health-care/",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports clean-energy and climate investments while also backing domestic energy production and lower energy costs.",
+          "quote": "Chris supports an all-of-the-above energy strategy to meet the needs of Granite Staters, lower costs, and ensure America can become truly energy independent.",
+          "sourceUrl": "https://chrispappas.org/priority/energy-and-environment/",
+          "agreement": "9/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He voted against the SAVE Act, saying it would burden eligible voters, and supports federal voting-rights legislation.",
+          "quote": "I remain committed to safeguarding our free and fair elections and ensuring every eligible voter is able to make their voice heard.",
+          "sourceUrl": "https://pappas.house.gov/media/press-releases/pappas-statement-on-the-save-act",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "John E. Sununu",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Sununu said he supported a balanced-budget agreement that cut taxes and spending, and has advocated keeping taxes low.",
+          "quote": "We passed a balanced budget agreement that cut taxes and cut spending and it balanced the budget over just like a two- or three-year period.",
+          "sourceUrl": "https://www.nhpr.org/politics/2026-08-28/senate-primary-conversations-john-sununu-nh-newhampshire-midterms-elections-2026",
+          "agreement": "9/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He voted against cloture on a bill to increase the federal minimum wage, blocking the Senate from advancing it at that stage.",
+          "quote": "A bill to amend the Fair Labor Standards Act of 1938 to provide for an increase in the Federal minimum wage.",
+          "sourceUrl": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1101/vote_110_1_00023.htm",
+          "agreement": "6/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "He said tariff policies should penalize China for unfair trade practices that harm U.S. industry.",
+          "quote": "making sure that we have good tariff policies in place to penalize China for unfair trade practices, dumping, undercutting price, and destroying American industries around the globe.",
+          "sourceUrl": "https://www.citizenscount.org/candidate/john-e-sununu",
+          "agreement": "5/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He proposed reducing regulations affecting workforce housing and pursuing permitting reform.",
+          "quote": "On housing, we should waive tariffs on building materials, reduce regulations affecting workforce housing and pursue permitting reform.",
+          "sourceUrl": "https://www.thedartmouth.com/article/2026/05/menna-im-new-hampshire-john-sununu-pitches-experience-independence-in-bid-to-return-to-senate",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "In a 2002 candidate questionnaire, he supported allowing parents to use vouchers at public, private, and religious schools.",
+          "quote": "Allow parents to use vouchers to send their children to any publicly-funded school, as well as public, private or religious schools.",
+          "sourceUrl": "https://ontheissues.org/House/John_Sununu_Education.htm",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "He said ICE enforcement should prioritize people in the country illegally who committed crimes or threaten public safety.",
+          "quote": "ICE enforcement should prioritize people who are in the country illegally and have committed crimes or pose threats to public safety.",
+          "sourceUrl": "https://mykeenenow.com/news/219912-sununu-campaigns-on-affordable-living-local-control-during-wkbk-interview/",
+          "agreement": "4/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "Sununu supports concealed-carry reciprocity and has argued against extending the federal assault-weapons ban.",
+          "quote": "The proposed law simply guarantees the right for law-abiding citizens to carry arms.",
+          "sourceUrl": "https://www.nrsc.org/press-releases/john-sununu-op-ed-why-i-support-the-constitutional-concealed-carry-reciprocity-act-2026-04-17/",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "As senator, he voted for the conference report on the Partial-Birth Abortion Ban Act of 2003.",
+          "quote": "A bill to prohibit the procedure commonly known as partial-birth abortion.",
+          "sourceUrl": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1081/vote_108_1_00402.htm",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "At a 2026 debate, Sununu said boys should not compete in girls’ sports and called for protecting girls’ sports under Title IX.",
+          "quote": "Boys shouldn't be competing in girls' sports, of course. And we need to do whatever we can to protect women, to protect girls in sports",
+          "sourceUrl": "https://www.citizenscount.org/candidate/john-e-sununu/running/2026-general-us-senate",
+          "agreement": "7/10"
+        },
+        "cannabis": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He said marijuana policy is an issue the federal government should generally leave to states.",
+          "quote": "this may be an issue where the federal government probably ought to just stay out and let the states make the decisions that are right for them and their people.",
+          "sourceUrl": "https://www.citizenscount.org/candidate/john-e-sununu",
+          "agreement": "5/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "Sununu proposed more competition among health care providers across state lines and broader access to health savings accounts.",
+          "quote": "On health care, we need to force providers to compete across state lines. More competition drives down prices. We need to give a health savings account to everyone that wants one.",
+          "sourceUrl": "https://www.nhpr.org/politics/2026-08-28/senate-primary-conversations-john-sununu-nh-newhampshire-midterms-elections-2026",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He calls for increased energy production, transmission infrastructure, and pipeline capacity.",
+          "quote": "On energy, we need more production, more transmission infrastructure and more pipeline capacity.",
+          "sourceUrl": "https://www.thedartmouth.com/article/2026/05/menna-im-new-hampshire-john-sununu-pitches-experience-independence-in-bid-to-return-to-senate",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Sununu called for a vote requiring photo ID to vote and said he would keep attaching the requirement to legislation until it passed.",
+          "quote": "make them vote straight up or down on the provision that you have to show voter ID in order or a photo ID in order to vote.",
+          "sourceUrl": "https://www.citizenscount.org/candidate/john-e-sununu/running/2026-general-us-senate",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Edmond J. Laplante Jr.",
+      "party": "Constitution",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "He opposed raising taxes to reduce the federal budget deficit and supported requiring spending cuts to match new spending.",
+          "quote": "Should the federal government combat inflation by raising taxes to reduce the budget deficit? \"Against\"",
+          "sourceUrl": "https://www.citizenscount.org/candidate/edmond-j-laplante-jr/running/2026-primary-us-senate",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "He opposed decreasing import tariffs, saying the country should rely less on foreign goods.",
+          "quote": "We should concentrate NOT being so reliant on foreign goods.",
+          "sourceUrl": "https://www.citizenscount.org/candidate/edmond-j-laplante-jr/running/2026-primary-us-senate",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He opposed raising Social Security’s retirement age and means testing, but supported privatizing some or all of Social Security.",
+          "quote": "We should have individual plans where your funds are yours and yours alone",
+          "sourceUrl": "https://www.citizenscount.org/candidate/edmond-j-laplante-jr/running/2026-primary-us-senate",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "lean",
+          "text": "He proposed expanding homeschooling freedom and criticized government overreach and teacher-union influence in public education.",
+          "quote": "I propose expanding homeschooling freedom and strengthening the parents’ right to exercise their constitutional role in guiding their children’s education, with flexibility and accountability rooted in the local community.",
+          "sourceUrl": "https://laplante4constitutionalnh.com/my-platform",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He called for enforcing existing immigration laws and said people in the country illegally should not receive benefits intended for citizens and lawful residents.",
+          "quote": "I believe that immigration policy must begin with enforcement of the laws already on the books, and that individuals who are in the country illegally should not receive state or federal benefits intended for citizens and lawful residents.",
+          "sourceUrl": "https://laplante4constitutionalnh.com/my-platform",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He described himself as pro-life with rare exceptions and opposed a federal law guaranteeing abortion rights before fetal viability.",
+          "quote": "Should the federal government pass a law guaranteeing the right to choose abortion before fetal viability (generally 24 weeks gestation)? \"Against\"",
+          "sourceUrl": "https://www.citizenscount.org/candidate/edmond-j-laplante-jr/running/2026-primary-us-senate",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He said female sports should be limited to biological females.",
+          "quote": "Biological females should only be allowed in female sports",
+          "sourceUrl": "https://www.citizenscount.org/candidate/edmond-j-laplante-jr/running/2026-primary-us-senate",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He opposed automatically enrolling everyone in Medicare or allowing people to opt in, and said civilian health care solutions should be led by states and communities.",
+          "quote": "For civilian healthcare, including mental health and addiction treatment, solutions should be led by the states and communities closest to the people affected, not imposed by distant federal bureaucracies.",
+          "sourceUrl": "https://laplante4constitutionalnh.com/my-platform",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He opposed both increasing federal oil and gas leases and carbon-emissions taxes.",
+          "quote": "Do you support increasing oil and natural gas leases on publicly owned land and water? \"Against\"",
+          "sourceUrl": "https://www.citizenscount.org/candidate/edmond-j-laplante-jr/running/2026-primary-us-senate",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He opposed mail-in ballots for all voters and supported requiring proof of citizenship at voter registration.",
+          "quote": "Do you support the option of mail-in ballots for all voters, not just absentees? \"Against\"",
+          "sourceUrl": "https://www.citizenscount.org/candidate/edmond-j-laplante-jr/running/2026-primary-us-senate",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "chrispappas.org · pappas.house.gov · clerk.house.gov · nhpr.org · senate.gov · citizenscount.org · thedartmouth.com · ontheissues.org · mykeenenow.com · nrsc.org · laplante4constitutionalnh.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

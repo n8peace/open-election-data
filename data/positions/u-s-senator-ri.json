@@ -1,0 +1,73 @@
+{
+  "office": "U.S. Senator",
+  "district": "RI",
+  "division": "ri/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Raymond McKay",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "McKay said workers should not be overly taxed and pledged to speak out about tax policies and government spending.",
+          "quote": "I stand with Rhode Island Seniors and our workers, both union and non-union, to earn a decent wage and not be overly taxed by the federal government, or the State government.",
+          "sourceUrl": "https://myemail.constantcontact.com/McKay-s-Formal-U--S--Senate-Campaign-Announcement.html?aid=hdstRzJZtLc&soid=1139983444375",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "lean",
+          "text": "McKay says he is committed to immigration enforcement policies focused on the interests of Rhode Islanders and Americans.",
+          "quote": "Ray is committed to addressing responsible immigration and enforcement policies that consider the best interest of Rhode Islanders and Americans First.",
+          "sourceUrl": "https://www.mckayforussenate.com/right-direction/",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "McKay criticized weapons-ban laws and said he fully supports the Second Amendment.",
+          "quote": "As a constitutional conservative, McKay fully supports the Second Amendment and thinks the United States as a whole, needs to look towards strengthening support of the mental health community.",
+          "sourceUrl": "https://myemail.constantcontact.com/McKay-s-Formal-U--S--Senate-Campaign-Announcement.html?aid=hdstRzJZtLc&soid=1139983444375",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "McKay said he supports limiting women’s sports to biological women.",
+          "quote": "McKay states he fully supports biological women only in women sports.",
+          "sourceUrl": "https://myemail.constantcontact.com/McKay-s-Formal-U--S--Senate-Campaign-Announcement.html?aid=hdstRzJZtLc&soid=1139983444375",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "McKay criticized renewable-energy policies for raising utility bills and said he supports nuclear and fossil-fuel power.",
+          "quote": "McKay fully supports the increased investment in and deployment of nuclear power that will support our current needs and the expansion of data centers combined with the growth of AI. McKay also supports the continued use of clean burning fossil fuel, whether it be gas or coal.",
+          "sourceUrl": "https://myemail.constantcontact.com/McKay-s-Formal-U--S--Senate-Campaign-Announcement.html?aid=hdstRzJZtLc&soid=1139983444375",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "myemail.constantcontact.com · mckayforussenate.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

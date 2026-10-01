@@ -1,0 +1,374 @@
+{
+  "office": "U.S. Representative",
+  "district": "NH District 2",
+  "division": "nh/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Maggie Goodlander",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "She called for taxes on wealthy people and corporations to fund public investments while opposing middle-class tax increases.",
+          "quote": "Maggie believes in tax reform that supports economic growth, reduces inequalities, and funds critical public investments.",
+          "sourceUrl": "https://www.citizenscount.org/candidate/maggie-goodlander",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She supports collective bargaining rights and raising the minimum wage.",
+          "quote": "It means protecting the rights of workers, including to collectively bargain, and raising the minimum wage.",
+          "sourceUrl": "https://maggiefornh.com/priorities/",
+          "agreement": "4/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "She urged Congress to repeal tariffs, saying they raise costs for workers, families, farmers, and small businesses.",
+          "quote": "As these tariffs, which are likely illegal, continue to make life more expensive for workers, families, farmers, and small businesses, we have heard repeated calls from our constituents to take action to mitigate the harmful impacts of President Trump’s chaotic trade policies.",
+          "sourceUrl": "https://goodlander.house.gov/media/press-releases/goodlander-calls-on-speaker-johnson-to-restore-congresss-constitutional-authority-over-tariffs/",
+          "agreement": "7/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She voted against a budget resolution, saying it failed to protect Social Security, Medicare, and Medicaid.",
+          "quote": "I voted against it because it fails to protect Social Security, Medicare, and Medicaid at a moment when the Trump Administration has put all three on the chopping block.",
+          "sourceUrl": "https://goodlander.house.gov/media/press-releases/goodlander-statement-on-h-r-1968/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She said New Hampshire needs to increase housing supply and build at least 60,000 homes by 2030.",
+          "quote": "To me, the two big pillars of this are, number one, we know that we need to increase the supply of housing in New Hampshire. We've got to build 60,000 new homes by 2030 at least — that is mission-critical, and I think probably the supply needs to increase even more.",
+          "sourceUrl": "https://www.collaborativenh.org/know-your-vote-articles/2024/10/21/maggie-goodlander-on-the-issues-an-interview-with-the-democratic-2nd-cd-candidate",
+          "agreement": "9/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She co-led legislation supporting rural school districts and described public-school funding as essential.",
+          "quote": "For communities across Coös County, these investments are a lifeline — helping to keep our public schools strong, our roads safe, and essential services running.",
+          "sourceUrl": "https://goodlander.house.gov/media/press-releases/breaking-house-passes-goodlander-backed-bipartisan-bill-to-support-schools-in-the-north-country/",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "She has supported additional funding for state and local law enforcement and grants for police departments.",
+          "quote": "Goodlander has been a staunch proponent of additional funding for state and local law enforcement to support public safety and emergency response.",
+          "sourceUrl": "https://goodlander.house.gov/media/press-releases/goodlander-delivers-u-s-house-passes-5-goodlander-backed-bills-to-quadruple-authorized-nh-water-funding-stop-big-tech-from-jacking-up-utility-costs-protect-seniors-from-costly-scams-and-strengthe/",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "She cited her work on bipartisan immigration legislation that paired border security with a path to citizenship.",
+          "quote": "Maggie was proud to help craft the bipartisan “Gang of Eight” comprehensive immigration reform bill that passed the Senate in 2012 and continues to be the framework for legislation to deliver a fairer immigration system that provides a path to citizenship for those already here, secures our borders, and curbs the flow of fentanyl across our border.",
+          "sourceUrl": "https://www.citizenscount.org/candidate/maggie-goodlander/serving/us-house-2024-2026",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "She called for closing gun-sale loopholes, strengthening background checks, and keeping assault-style weapons out of communities.",
+          "quote": "The imperatives are closing loopholes like the “Charleston loophole” that has been exploited for far too long, working to make sure that background checks can be stepped up in a way that will prevent deadly weapons from getting into the wrong hands.",
+          "sourceUrl": "https://www.collaborativenh.org/know-your-vote-articles/2024/10/21/maggie-goodlander-on-the-issues-an-interview-with-the-democratic-2nd-cd-candidate",
+          "agreement": "4/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She said she is working in Congress to restore reproductive freedom and access to care.",
+          "quote": "That’s wrong. And that’s why, in Congress, I am fighting with everything I’ve got to restore reproductive freedom and build a reliable, affordable system of health care for all Granite Staters.",
+          "sourceUrl": "https://goodlander.house.gov/media/press-releases/goodlander-statement-anniversary-united-states-supreme-court-overturning/",
+          "agreement": "8/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "She voted against the Protection of Women and Girls in Sports Act, a bill based on sex at birth for school sports eligibility.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512",
+          "agreement": "4/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "She said there is a responsible pathway to legalizing marijuana and called for focusing drug-enforcement resources on deadly drugs.",
+          "quote": "I think that there is a responsible pathway to legalization. What I see and what I saw working at the Justice Department was the ways in which, for a very long time, law enforcement was focused on the wrong pieces of the problem that we have.",
+          "sourceUrl": "https://www.collaborativenh.org/know-your-vote-articles/2024/10/21/maggie-goodlander-on-the-issues-an-interview-with-the-democratic-2nd-cd-candidate",
+          "agreement": "7/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "She opposed cuts to Medicaid and Medicare and supported extending Affordable Care Act premium tax credits.",
+          "quote": "It slashes Medicare and Medicaid and will jack up healthcare costs for all Americans.",
+          "sourceUrl": "https://goodlander.house.gov/media/press-releases/goodlander-votes-against-republican-budget-reconciliation-package-that-will-make-granite-staters-poorer-and-billionaires-richer",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She called climate change an existential crisis and backed making the country a clean-energy leader.",
+          "quote": "It's a crisis where there is a lot of opportunity. What we know is that making New Hampshire and the United States of America the clean energy superpower of the world is going to lower energy costs. It's going to create jobs, and it's going to combat the existential crisis of our time.",
+          "sourceUrl": "https://www.collaborativenh.org/know-your-vote-articles/2024/10/21/maggie-goodlander-on-the-issues-an-interview-with-the-democratic-2nd-cd-candidate",
+          "agreement": "7/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She voted against the SAVE Act, saying its proof-of-citizenship requirements could disenfranchise eligible voters.",
+          "quote": "If enacted, this legislation would disenfranchise eligible voters throughout our state and our nation. It would put our election workers at risk in senseless ways.",
+          "sourceUrl": "https://goodlander.house.gov/media/press-releases/goodlander-votes-against-legislation-that-would-make-it-harder-for-granite-staters-to-exercise-their-right-to-vote/",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "Robbie S. Mahrou",
+      "party": "Independent",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He said raising taxes is not the answer and argued that taxes and fees leave working Americans with less of each dollar they earn.",
+          "quote": "Raising taxes is not the answer to anything other than allowing the government to spend more.",
+          "sourceUrl": "https://www.citizenscount.org/candidate/robbie-mahrou/running/2026-general-us-house",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports targeted tariffs for reshoring but opposes tariffs that function as hidden taxes on consumers.",
+          "quote": "Tariffs can have a function in reshoring manufacturing and stimulating investment, but they must be targeted and specific and not result in American citizens paying yet another hidden tax.",
+          "sourceUrl": "https://www.citizenscount.org/candidate/robbie-mahrou/running/2026-general-us-house",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He called Social Security a promise and opposed means testing, raising the retirement age, and privatizing it without more detail.",
+          "quote": "Social Security is a promise. Americans paid into it with every paycheck they ever earned. Calling it an entitlement is offensive. It is a debt this government owes to the people who funded it.",
+          "sourceUrl": "https://www.citizenscount.org/candidate/robbie-mahrou/running/2026-general-us-house",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "His platform supports workforce housing and cutting federal permitting delays, while leaving zoning and land-use decisions to local communities.",
+          "quote": "Support the 21st Century ROAD to Housing Act to cut federal permitting delays",
+          "sourceUrl": "https://livefreenh02.com/platform/",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He calls for consistent constitutional enforcement while criticizing ICE for constitutional violations and unchecked power.",
+          "quote": "I support enforcement that is constitutional, accountable, and reflects the will of the American people. Clear law. Consistent enforcement. No militarized agencies operating above the Constitution.",
+          "sourceUrl": "https://www.citizenscount.org/candidate/robbie-mahrou/running/2026-general-us-house",
+          "agreement": "5/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "His campaign says he opposes new federal restrictions on law-abiding gun owners and supports national constitutional carry.",
+          "quote": "Oppose any new federal restrictions on law-abiding citizens' right to bear arms",
+          "sourceUrl": "https://livefreenh02.com/platform/",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supported a federal law protecting abortion rights before fetal viability and said government should not decide whether a person has an abortion.",
+          "quote": "The right to make decisions about your own body is a constitutional right. No state or federal government has any business being on either side of that decision.",
+          "sourceUrl": "https://www.citizenscount.org/candidate/robbie-mahrou/running/2026-general-us-house",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He said biological females competing against biological males creates an uneven playing field and supported Title IX rules based on reproductive biology and genetics at birth.",
+          "quote": "At the same time, asking biological females to compete against biological males is not equality. It is an uneven playing field that undermines the very opportunities Title IX was designed to protect.",
+          "sourceUrl": "https://www.citizenscount.org/candidate/robbie-mahrou/running/2026-general-us-house",
+          "agreement": "10/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "He supported legalizing marijuana at the federal level.",
+          "quote": "Should the government legalize marijuana at the federal level? \"For\"",
+          "sourceUrl": "https://www.citizenscount.org/candidate/robbie-mahrou/running/2026-general-us-house",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "lean",
+          "text": "He supports allowing people to opt into Medicare, while opposing automatic enrollment that would replace most private insurance.",
+          "quote": "What I do know is that insurance companies are thriving under the current system, and that tells me we need to return more balance to actual healthcare instead of throwing good money after bad that does nothing but strengthen corporate balance sheets.",
+          "sourceUrl": "https://www.citizenscount.org/candidate/robbie-mahrou/running/2026-general-us-house",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports renewables and emerging technologies while opposing expanded fossil-fuel infrastructure and policies that raise household energy costs.",
+          "quote": "Energy is a national security issue and deserves a real strategy, one that includes expanding renewables and investments in emerging technologies, not doubling down on fossil fuel infrastructure with negligible net gain and permanent environmental risk.",
+          "sourceUrl": "https://www.citizenscount.org/candidate/robbie-mahrou/running/2026-general-us-house",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "He supported mail-in ballots for all voters and criticized citizenship-proof requirements that he said could create barriers for eligible voters.",
+          "quote": "The SAVE Act is not election security legislation. It is a political weapon designed to manufacture a fight that does not exist while creating barriers that disenfranchise legitimate American voters.",
+          "sourceUrl": "https://www.citizenscount.org/candidate/robbie-mahrou/running/2026-general-us-house",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Lily Tang Williams",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She proposes lowering taxes on families and small businesses.",
+          "quote": "Lower taxes on hardworking families and small businesses so you keep more of what you earn.",
+          "sourceUrl": "https://www.lilytangwilliams.com/congress/lilys-affordability-plan/",
+          "agreement": "6/10"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She described tariffs as a way to negotiate reciprocal trade, but favored focusing them on adversaries and said they hurt New Hampshire.",
+          "quote": "I know he's trying to use the tariffs to negotiate reciprocal trade, which we have been taken advantage of by lots of foreign countries. But I'd like to see that focus on adversary countries, not the people, the countries we still think, you know, they're okay, we can still call Canadians friends, right?",
+          "sourceUrl": "https://www.citizenscount.org/candidate/lily-tang-williams/running/2026-primary-us-house",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She says she will protect Social Security and Medicare benefits while also supporting a balanced-budget amendment and paying down national debt.",
+          "quote": "Seniors can count on me to fight for them and protect those earned benefits. We must strengthen the protections of these benefits by severely limiting Federal Government borrowing from the Social Security Trust Fund.",
+          "sourceUrl": "https://www.lilytangwilliams.com/congress/issues/",
+          "agreement": "9/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She proposes local zoning reform and streamlined permitting to increase housing construction.",
+          "quote": "Champion local zoning reform to cut red tape and let communities build more housing where it makes sense, while preserving local control.",
+          "sourceUrl": "https://www.lilytangwilliams.com/congress/lilys-affordability-plan/",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "She strongly agreed with expanding school choice, including vouchers, charter schools, private schools, and home schools.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools.",
+          "sourceUrl": "https://ivoterguide.com/candidate/24021/race/2126/election/1259?culture=en-us",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "She calls for funding and supporting ICE to enforce existing immigration laws.",
+          "quote": "ICE must be adequately funded and supported politically to enforce those laws. Catch and release policies must be terminated.",
+          "sourceUrl": "https://www.lilytangwilliams.com/congress/issues/secure-u-s-borders/",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports stricter border enforcement and sending back people who cross illegally, while also calling for streamlined legal immigration pathways.",
+          "quote": "To streamline the process and encourage people only to come here legally, those who insist on crossing the border illegally should be detained, identified, and sent back.",
+          "sourceUrl": "https://www.lilytangwilliams.com/congress/issues/",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "She supports constitutional carry and repeal of gun-control laws she considers unconstitutional.",
+          "quote": "I support a national constitutional carry law. I will work for the repeal of all unconstitutional gun control laws, including gun-free zones, which only incentivize criminals with defenseless prey.",
+          "sourceUrl": "https://www.lilytangwilliams.com/congress/issues/",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She says abortion decisions should be made by each state and advocates policies to reduce abortions and support women in crisis.",
+          "quote": "By overturning Roe v Wade, the Supreme Court of the United States (SCOTUS) has sent decisions about abortion back to the people of each state. I urge all citizens to respect our Constitution, the legislative process, judicial independence, and the rule of law.",
+          "sourceUrl": "https://www.lilytangwilliams.com/congress/issues/promote-life/",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "She agreed that biological males should not participate in women’s sports or occupy women’s spaces.",
+          "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
+          "sourceUrl": "https://ivoterguide.com/candidate/24021/race/29931/election/1448",
+          "agreement": "5/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "lean",
+          "text": "She said she could support federal cannabis legalization depending on the bill’s details and supports people choosing to use marijuana peacefully.",
+          "quote": "Tang Williams told WMUR Political Director Adam Sexton her vote for cannabis legalization would depend on how the bill is written and what details are included.",
+          "sourceUrl": "https://www.wmur.com/article/lily-tang-williams-marijuana-new-hampshire/62513375",
+          "agreement": "6/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "She proposes free-market competition, insurance sales across state lines, health savings accounts, and association plans.",
+          "quote": "My plan on health care, number one, we need to increase competition, free market competition, drive price down.",
+          "sourceUrl": "https://www.citizenscount.org/candidate/lily-tang-williams",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "She supports expanding access to a range of energy sources and opposes artificial energy restrictions that she says raise costs.",
+          "quote": "Artificial energy restrictions not only do not make sense for national security (dependence on other countries), but it further divides and impoverishes the country.",
+          "sourceUrl": "https://www.lilytangwilliams.com/congress/issues/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "She supports the SAVE Act, requiring citizenship to register and photo identification to vote.",
+          "quote": "I support the SAVE Act — citizenship required to register, and photo ID to vote.",
+          "sourceUrl": "https://www.thedartmouth.com/article/2026/04/2nd-congressional-district-candidate-lily-tang-williams-calls-for-balanced-budget-amendment-national-constitutional-carry-in-rematch",
+          "agreement": "7/10"
+        }
+      }
+    }
+  ],
+  "sources": "citizenscount.org · maggiefornh.com · goodlander.house.gov · collaborativenh.org · clerk.house.gov · livefreenh02.com · lilytangwilliams.com · ivoterguide.com · wmur.com · thedartmouth.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}
