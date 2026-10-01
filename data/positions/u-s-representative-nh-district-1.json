@@ -1,0 +1,232 @@
+{
+  "office": "U.S. Representative",
+  "district": "NH District 1",
+  "division": "nh/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Stefany Shaheen",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "She said lawmakers chose tax breaks for billionaires over health care for working people.",
+          "quote": "House Republicans chose tax breaks for billionaires over health care for working people.",
+          "sourceUrl": "https://stefanyshaheen.com/article/stefany-shaheen-house-republicans-chose-tax-breaks-for-billionaires-over-our-health-care-2/",
+          "agreement": "4/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "She said she would fight for public-school staff and stand with labor.",
+          "quote": "They deserve a partner in Congress who will always fight for them and stand with labor.",
+          "sourceUrl": "https://stefanyshaheen.com/article/the-american-federation-of-teachers-supports-stefany-shaheen/",
+          "agreement": "5/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "She says tariffs raise prices and hurt small businesses and says she will seek refunds for businesses and customers.",
+          "quote": "Tariffs are hurting our small businesses and making everything from eggs to housing more expensive.",
+          "sourceUrl": "https://stefanyshaheen.com/priorities/",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "lean",
+          "text": "She called for closing Medicare coverage gaps and preventing artificial intelligence from denying Medicare care.",
+          "quote": "Shaheen is calling for closing coverage gaps in Medicare and halting a Trump Administration plan to use AI to deny coverage and care to people on Medicare.",
+          "sourceUrl": "https://stefanyshaheen.com/article/stefany-shaheen-shares-plans-to-strengthen-medicare-ahead-of-riverwoods-forum/",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "She proposes reducing construction red tape and investing in affordable housing so homes can be built faster.",
+          "quote": "Cut red tape that’s preventing construction of new affordable housing and get serious about federal investment in the skilled trades so we can build new homes faster.",
+          "sourceUrl": "https://stefanyshaheen.com/priorities/",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "She said public-school educators and staff are foundational to communities and that she would fight for them.",
+          "quote": "Public school teachers, paraprofessionals, and school staff are the foundation of our communities.",
+          "sourceUrl": "https://stefanyshaheen.com/article/the-american-federation-of-teachers-supports-stefany-shaheen/",
+          "agreement": "6/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "As a Portsmouth Police Commissioner, she worked to resource de-escalation training, officer mental health support and community policing.",
+          "quote": "including de-escalation training, mental health support for our officers, and a re-commitment to community policing practices rooted in accountability and transparency to build trust.",
+          "sourceUrl": "https://stefanyshaheen.com/priorities/",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She calls for limits and oversight on ICE practices, including ending raids at sensitive locations; she does not specify legal-pathway proposals on this page.",
+          "quote": "This includes requiring body cameras, banning masks, stopping warrantless searches and ending ICE raids in schools, churches and hospitals.",
+          "sourceUrl": "https://stefanyshaheen.com/priorities/",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She says she will fight to protect abortion access and reproductive rights, drawing on her experience receiving abortion care after a miscarriage.",
+          "quote": "You can know from my experience, exactly where I stand on abortion access and reproductive rights. I will always and tirelessly fight for both.",
+          "sourceUrl": "https://stefanyshaheen.com/priorities/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She opposes a one-size-fits-all federal rule for transgender athletes and says local schools, families, coaches, and teachers should decide.",
+          "quote": "For the handful of cases where trans athletes are seeking to compete, I don't think it's necessary to have a one-size-fits-all federal law.",
+          "sourceUrl": "https://www.citizenscount.org/candidate/stefany-shaheen",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She says she supports Medicare for All and a public option, and proposes expanding Medicare coverage for dental, vision and hearing care.",
+          "quote": "I’m with Bernie Sanders and support Medicare for All. We need a public option in this country, which means keeping every option to on the table to deliver necessary change.",
+          "sourceUrl": "https://stefanyshaheen.com/priorities/",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She calls for more clean energy and action on climate change while also emphasizing lower energy costs.",
+          "quote": "Action is needed now to seriously tackle climate change, increase clean local energy production, and reduce energy costs.",
+          "sourceUrl": "https://stefanyshaheen.com/priorities/",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Anthony DiLorenzo",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He says he would protect the 2017 tax cuts and eliminate taxes on tips, overtime, and Social Security.",
+          "quote": "Protect the 2017 tax cuts and the elimination of taxes on tips, overtime, and social security.",
+          "sourceUrl": "https://dilorenzoforcongress.com/issues/",
+          "agreement": "10/10"
+        },
+        "trade": {
+          "toward": "tariffs",
+          "strength": "lean",
+          "text": "He supports tariffs as a way to raise revenue, encourage domestic manufacturing, and open markets for U.S. products.",
+          "quote": "And the purpose of the tariffs are threefold, first of which is to generate revenue for the government.",
+          "sourceUrl": "https://www.citizenscount.org/candidate/anthony-dilorenzo/running/2026-primary-us-house",
+          "agreement": "8/10"
+        },
+        "debt": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports a balanced-budget amendment while also saying he fully supports Social Security and Medicare.",
+          "quote": "Balance the federal budget by supporting a Balanced Budget Amendment to the U.S. Constitution.",
+          "sourceUrl": "https://dilorenzoforcongress.com/issues/",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He called housing supply the issue and backed first-time-buyer programs, developer tax credits, and help with infrastructure costs to increase supply.",
+          "quote": "Supply is the issue, and a lot of the barriers are local. But there are things the federal government can do. I’d support programs to help first-time buyers, suspending tariffs on building materials and tax credits for developers. Infrastructure costs — roads, water, electricity — are often the biggest barrier. If you can offset those costs, you can increase supply.",
+          "sourceUrl": "https://www.thedartmouth.com/article/2026/05/menna-republican-congressional-candidate-anthony-dilorenzo-pitches-outsider-approach-energy-focus-in-nh-01-bid",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He says he fully supports law enforcement and first responders.",
+          "quote": "Fully Support Law Enforcement and First Responders. Ensure America's energy independence by utilizing all options without subsidies.",
+          "sourceUrl": "https://dilorenzoforcongress.com/issues/",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He said illegal immigration should carry deportation as its legal consequence and supports immigration enforcement.",
+          "quote": "I support law enforcement, including immigration enforcement, and the remedy again for illegal immigration is deportation.",
+          "sourceUrl": "https://www.citizenscount.org/candidate/anthony-dilorenzo",
+          "agreement": "6/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "His campaign says he supports law-abiding citizens’ right to possess firearms.",
+          "quote": "Defend every law-abiding citizen's right to possess/own a firearm.",
+          "sourceUrl": "https://dilorenzoforcongress.com/issues/",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He opposes federal abortion legislation and says abortion policy should follow New Hampshire law.",
+          "quote": "Oppose federal abortion legislation and respect New Hampshire's laws.",
+          "sourceUrl": "https://dilorenzoforcongress.com/issues/",
+          "agreement": "5/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "His campaign says he wants to protect women’s sports and locker rooms.",
+          "quote": "Protect women's sports and locker rooms. Expand vocational training and STEM education for our students.",
+          "sourceUrl": "https://dilorenzoforcongress.com/issues/",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "He called for more health insurers, less regulation limiting competition, and a system where providers compete on price.",
+          "quote": "Competition and transparency are key. I had an MRI that cost $6,000 at one facility and under $800 elsewhere. That should not happen. We need a system where people can make informed decisions and where providers compete on price.",
+          "sourceUrl": "https://www.thedartmouth.com/article/2026/05/menna-republican-congressional-candidate-anthony-dilorenzo-pitches-outsider-approach-energy-focus-in-nh-01-bid",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He supports expanding energy supply, including natural gas pipelines, to lower costs, and says the country should use all energy options without subsidies.",
+          "quote": "Ensure America's energy independence by utilizing all options without subsidies.",
+          "sourceUrl": "https://dilorenzoforcongress.com/issues/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "He said the federal government should enforce a requirement that voters be U.S. citizens.",
+          "quote": "Now, I don't believe that's consistent throughout the country, which is why I think we need the federal government to step in to enforce the Constitution, which says eighteen years-old and U.S. citizen to vote.",
+          "sourceUrl": "https://www.citizenscount.org/candidate/anthony-dilorenzo",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "stefanyshaheen.com · citizenscount.org · dilorenzoforcongress.com · thedartmouth.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}
