@@ -8,6 +8,7 @@ import { fetchSource, researchChoice, type Source } from '../ai/research';
 import { issueById, type IssueId } from '../issues';
 import type { AgentResult } from './consensus';
 import { runCliAgent, isCli } from './backends';
+import { runLocalAgent } from './local';
 
 // Server default (GitHub Actions rechecks): cheap models, verified against approved research.
 const DEFAULT_MODELS = 'gateway:openai/gpt-5.6-luna,gateway:google/gemini-3.8-flash,gateway:openai/gpt-5.6-terra';
@@ -107,6 +108,7 @@ export async function runAgent(opts: { name: string; office: string; issues: Iss
       return runGatewayAgent(fallback.replace(/^gateway:/, ''), opts);
     }
   }
+  if (backend.startsWith('ollama:')) return runLocalAgent(backend.slice('ollama:'.length), opts);
   return runGatewayAgent(backend.replace(/^gateway:/, ''), opts);
 }
 

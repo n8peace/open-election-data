@@ -1,4 +1,4 @@
-import { generateText, Output } from 'ai';
+import { generateText, Output, type LanguageModel } from 'ai';
 import { z } from 'zod';
 import { ISSUE_IDS, NEITHER, sideGuide, toPosition, type IssueId, type Position } from '../issues';
 
@@ -90,7 +90,7 @@ export async function researchChoice(opts: {
   issues: IssueId[];
   sources: Source[];
   isMeasure?: boolean;
-  model?: string;
+  model?: string | LanguageModel;
 }): Promise<{ stances: Partial<Record<IssueId, ResearchedStance>>; dropped: string[] }> {
   const subject = opts.isMeasure ? `a "${opts.name}" vote on ${opts.office}` : `${opts.name}, candidate for ${opts.office}`;
 
