@@ -1,0 +1,199 @@
+{
+  "office": "U.S. Senator",
+  "district": "WY",
+  "division": "wy/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Harriet Hageman",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "Her campaign says she would oppose tax increases and cut federal spending and taxes.",
+          "quote": "In Congress, I will fight any effort to raise taxes and, instead, focus on ways to cut both federal spending and taxes.",
+          "sourceUrl": "https://www.hagemanforwyoming.com/issues",
+          "agreement": "10/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "She said she supports school choice including vouchers, tax credits, charter schools, private schools, and home schools.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools.",
+          "sourceUrl": "https://ivoterguide.com/candidate/68728/race/2237/election/1253",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "Her office requested federal funding to buy and modernize eight patrol vehicles for the Carbon County Sheriff's Department.",
+          "quote": "This request would allow for the purchase and equipment modernization of 8 patrol vehicles.",
+          "sourceUrl": "https://hageman.house.gov/services/community-project-funding-requests/fy-2025-requests",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "She said border security should be funded and called for an aggressive campaign to deport criminal immigrants who are in the country illegally.",
+          "quote": "Congress must keep border security funded while the administration continues an aggressive campaign to deport the criminal illegal immigrants first.",
+          "sourceUrl": "https://projects.wyofile.com/election-guide-2026/candidates/hageman-harriet/",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "Her campaign says she will fight efforts to restrict gun owners’ Second Amendment rights.",
+          "quote": "I will always fight to protect our Second Amendment, and will never back down to the tyranny of this Administration or any others who are attempting to infringe upon our Constitutional rights.",
+          "sourceUrl": "https://www.hagemanforwyoming.com/issues",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "Her campaign says human life begins at conception and that she will support laws to protect unborn life.",
+          "quote": "There is no justification for refusing to protect these precious lives and I will strongly support laws that seek to ensure their safety.",
+          "sourceUrl": "https://www.hagemanforwyoming.com/issues",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "She introduced a bill to penalize colleges that allow male athletes to compete in women’s intercollegiate sports.",
+          "quote": "Today, Rep. Harriet Hageman (R-WY) introduced legislation to hold accountable those private colleges and universities who continue to allow male athletes to compete in women’s intercollegiate sports with a new excise tax.",
+          "sourceUrl": "https://hageman.house.gov/issues/family-values",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "lean",
+          "text": "She selected the position of retaining Medicare and Medicaid while opposing additional taxpayer-funded health programs.",
+          "quote": "I am more closely aligned with the third option. It has long been said that a government that is big enough to give you everything that you need is powerful enough to take away everything that you have.",
+          "sourceUrl": "https://ivoterguide.com/candidate/68728/race/2237/election/1253",
+          "agreement": "4/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Her campaign says she supports energy independence and protecting Wyoming’s oil, gas, and coal industries.",
+          "quote": "I will always support and fight for energy independence and to protect our oil, gas and coal industries and in Wyoming.",
+          "sourceUrl": "https://www.hagemanforwyoming.com/issues",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Her campaign opposes sending ballots to voters who did not request them and supports requiring voter identification.",
+          "quote": "There is also no good, commonsense argument against requiring people to show identification to vote.",
+          "sourceUrl": "https://www.hagemanforwyoming.com/issues",
+          "agreement": "10/10"
+        }
+      }
+    },
+    {
+      "name": "James Byrd",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "He said he would support residential property tax relief.",
+          "quote": "fighting for economic policy and affordability to lower living costs for working families, support residential property tax relief, and keep our small towns thriving;",
+          "sourceUrl": "https://www.greenriverstar.com/story/2026/08/06/news/voters-guide-us-senator-2026-primary-election/14140.html",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "As a state representative, Byrd sponsored bills to raise Wyoming’s minimum wage.",
+          "quote": "Dollars are dollars that are turned over in the community two or three times to buy a bag of groceries, an extra pair of shoes for the kids, and a tank of gas,",
+          "sourceUrl": "https://www.wyomingpublicmedia.org/politics/2014-02-11/wyoming-house-defeats-state-minimum-wage-increase",
+          "agreement": "3/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He proposed tax credits for first-time homebuyers and incentives for local housing development.",
+          "quote": "Third, I would support bipartisan bills that offer targeted tax credits for first time homebuyers and incentivize local housing development.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72614295",
+          "agreement": "5/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "He criticized support for homeschooling and charter schools, citing concerns about graduates’ preparation.",
+          "quote": "(Homeschooling and charter schools) only give you substandard graduates who can't even get into highly qualified and highly competitive colleges",
+          "sourceUrl": "https://www.ontheissues.org/Social/James_W__Byrd_Education.htm",
+          "agreement": "9/10"
+        },
+        "sentencing": {
+          "toward": "alternatives to prison",
+          "strength": "strong",
+          "text": "He repeatedly introduced marijuana-decriminalization legislation and argued for sentences that fit the crime.",
+          "quote": "We need sentences that are more in line with social attitudes.",
+          "sourceUrl": "https://wyofile.com/first-sentence-reform-reasonable-marijuana-laws/",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "He called for clearer visa pathways for industries that rely on seasonal labor, alongside border security and humane processing.",
+          "quote": "we must modernize the legal visa system to provide clear, predictable pathways for vital industries like agriculture, ranching, and hospitality that rely heavily on legal seasonal labor.",
+          "sourceUrl": "https://projects.wyofile.com/election-guide-2026/candidates/byrd-james/",
+          "agreement": "3/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "He said abortion and other personal health care decisions should remain private from government interference.",
+          "quote": "It's your body-- your personal real estate--and the government has no place in that,",
+          "sourceUrl": "https://www.ontheissues.org/Social/James_W__Byrd_Abortion.htm",
+          "agreement": "4/10"
+        },
+        "cannabis": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He sponsored a bill making possession of less than an ounce of marijuana a civil fine rather than a felony.",
+          "quote": "sponsoring the bill which would make possession of less than an ounce of Marijuana a civil fine instead of a felony.",
+          "sourceUrl": "https://www.wyomingpublicmedia.org/politics/2015-01-08/recently-drafted-bill-would-lower-marijuana-penalties",
+          "agreement": "3/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He said he would support domestic production to lower energy costs and protect traditional energy workers.",
+          "quote": "James Byrd will fight to lower energy costs for everyday Wyomingites by supporting responsible domestic production, cutting the red tape that drives prices up,",
+          "sourceUrl": "https://www.byrdforsenate.com/blank",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "He criticized the SAVE Act, saying it could make voting harder for women and lower-income workers.",
+          "quote": "it would make it harder for women and lower-income workers to vote, calling it \"Jim Crow on steroids.\"",
+          "sourceUrl": "https://www.ontheissues.org/Economic/James_W__Byrd_Government_Reform.htm",
+          "agreement": "7/10"
+        }
+      }
+    }
+  ],
+  "sources": "hagemanforwyoming.com · ivoterguide.com · hageman.house.gov · projects.wyofile.com · greenriverstar.com · wyomingpublicmedia.org · onyourballot.vote411.org · ontheissues.org · wyofile.com · byrdforsenate.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

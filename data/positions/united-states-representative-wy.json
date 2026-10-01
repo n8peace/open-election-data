@@ -1,0 +1,252 @@
+{
+  "office": "UNITED STATES REPRESENTATIVE",
+  "district": "WY",
+  "division": "wy/cd-at-large",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Chuck Gray",
+      "party": "Republican",
+      "stances": {
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "In a candidate questionnaire, he said stopping the debt and deficit was necessary to reverse their effect on the cost of living.",
+          "quote": "The monetary expansion that has occurred due to the debt and deficit has increased the cost of living, and it must be reversed by stopping the debt and deficit.",
+          "sourceUrl": "https://www.wyodaily.com/story/2026/09/24/news/us-house-candidates-chuck-gray-republican/18261.html",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He says no gun-ownership restrictions are needed and identifies himself as fully pro-Second Amendment.",
+          "quote": "None. I'm 100% pro 2nd Amendment. I have a track record of defending the 2nd Amendment as a Wyoming legislator and will continue protecting the 2nd amendment.",
+          "sourceUrl": "https://ivoterguide.com/candidate/60108/race/28231/election/1427",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He describes himself as having a fully pro-life record and says he will continue it in Congress.",
+          "quote": "I have a 100% pro-life track record and will continue that in Congress.",
+          "sourceUrl": "https://ivoterguide.com/candidate/60108/race/28231/election/1427",
+          "agreement": "3/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "As a state representative, he co-sponsored a bill barring transgender girls and women from school sports teams matching their gender identity.",
+          "quote": "This bill preserves fair competition and an even-playing field.",
+          "sourceUrl": "https://svinews.com/2022/featured/59756/bill-would-ban-transgender-women-girls-from-teams/",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He identifies coal, oil, and gas as reliable energy sources and opposes wind projects and subsidies.",
+          "quote": "Coal and oil and gas. Woke wind is wrong for Wyoming, and I have worked to STOP wind projects in our state. We must END all subsidies for wind.",
+          "sourceUrl": "https://ivoterguide.com/candidate/60108/race/28231/election/1427",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Lisa Kinney",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "She supports taxing the wealthy to improve services while lowering taxes for people earning under $100,000.",
+          "quote": "Taxing the wealthy is another way to improve services to everyone while lowering taxes for those making less than $100,000.",
+          "sourceUrl": "https://lisakinneyforcongress.com/people-ask-and-lisa-listens/",
+          "agreement": "3/3"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "She said she would raise the minimum wage.",
+          "quote": "I would work to remove tariffs, would promote universal healthcare and raise the minimum wage.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72614312",
+          "agreement": "2/3"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "She says removing tariffs and increasing international trade would help lower living costs.",
+          "quote": "I feel that removing tariffs and increasing international trade will be the first step to lowering the cost of living for our citizens.",
+          "sourceUrl": "https://lisakinneyforcongress.com/people-ask-and-lisa-listens/",
+          "agreement": "3/3"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "She supports public education and restoring federal education programs.",
+          "quote": "Support the freedom of thought provided by public education, public libraries, public radio and television.",
+          "sourceUrl": "https://lisakinneyforcongress.com/news/r-e-a-l/",
+          "agreement": "2/3"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "She supports creating legal pathways for immigrants and protections for people including DACA recipients and Dreamers.",
+          "quote": "Congress should have met years ago and developed a plan for the people who come to the U.S. to legally start a new life, or were born here, like DACA and Dreamers.",
+          "sourceUrl": "https://projects.wyofile.com/election-guide-2026/candidates/kinney-lisa/",
+          "agreement": "3/3"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She said she is personally pro-life but supports other people’s choice on abortion.",
+          "quote": "pro-life for me,” but “pro-choice for everyone else.",
+          "sourceUrl": "https://cowboystatedaily.com/2026/04/07/lisa-kinney-democratic-house-candidate-says-its-time-to-say-no-to-the-feds/",
+          "agreement": "2/3"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports restoring Affordable Care Act subsidies and working toward universal health care.",
+          "quote": "I want to bring back the ACA subsidies and then work toward Universal Healthcare for All.",
+          "sourceUrl": "https://lisakinneyforcongress.com/people-ask-and-lisa-listens/",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports developing carbon-free geothermal energy while describing it as expensive and compatible with oil and gas expertise.",
+          "quote": "Next-generation geothermal energy is reliable power which can be built over coal plants, using oil and gas technology and is a carbon-free renewable resource (99% less carbon dioxide than fossil fuels).",
+          "sourceUrl": "https://lisakinneyforcongress.com/geothermal-energy-ideas/",
+          "agreement": "2/3"
+        }
+      }
+    },
+    {
+      "name": "Shawn Johnson",
+      "party": "Libertarian",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "He said he would lower federal spending and taxes to reduce families’ cost of living.",
+          "quote": "I would support legislation that puts more money back in the pockets of Wyoming families by reducing federal spending, unnecessary taxes, and regulations that drive up the cost of living.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72614312",
+          "agreement": "10/10"
+        },
+        "debt": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He said he would protect Social Security benefits already earned while allowing younger workers to redirect part of their payroll taxes into individual retirement accounts.",
+          "quote": "I would also reform Social Security by protecting benefits already earned while giving younger workers the choice to direct a portion of their payroll taxes into individually owned, state-sponsored retirement accounts they can invest and pass on.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72614312",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supports border enforcement while also supporting faster legal pathways for needed workers.",
+          "quote": "I would secure the border, enforce the laws already on the books, and fix the broken legal immigration system.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72614312",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He has said that he supports access to abortion.",
+          "quote": "Johnson added he supports access to abortion and gay marriage.",
+          "sourceUrl": "https://www.sundancetimes.com/story/2026/04/16/news/former-casper-vice-mayor-runs-for-us-house-as-libertarian/12399.html",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He proposed increasing competition among insurance plans and expanding access to health savings accounts to lower costs.",
+          "quote": "To lower insurance costs, I would increase competition by allowing families to shop for more affordable plans, expand access to health savings accounts, and increase price transparency.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72614312",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "lean",
+          "text": "He said he would expand energy development and remove barriers that increase costs.",
+          "quote": "I would expand responsible energy development and remove unnecessary barriers that increase costs.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72614312",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Jeffrey Haggit",
+      "party": "Constitution",
+      "stances": {
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "He said the system is under strain and proposed gradually eliminating some Social Security benefits.",
+          "quote": "With more people living longer it puts a strain on the system. We need to cut back on the bleed by slowly eliminating some of the benefits",
+          "sourceUrl": "https://ivoterguide.com/candidate/56923/race/2237/election/808",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "He said mandatory minimum sentences should be required and enforced for violent crimes.",
+          "quote": "Mandatory minimum sentencing should be required and enforced for violent crimes.",
+          "sourceUrl": "https://ivoterguide.com/candidate/56923/race/2237/election/808",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He called for secure borders and said immigrants should follow the entry process.",
+          "quote": "If you are not a terrorist than get in line and take a number.",
+          "sourceUrl": "https://ivoterguide.com/candidate/56923/race/2237/election/808",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "He opposed gun registration while saying people convicted of violent felonies should not have guns.",
+          "quote": "If you are a felon convicted of a violent crime - no gun. I do not believe in gun registration.",
+          "sourceUrl": "https://ivoterguide.com/candidate/56923/race/2237/election/808",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "He said he is against abortion, with an exception when continuing the pregnancy would likely kill the mother.",
+          "quote": "I am against abortion, but if it comes down to the mother, or the baby, I think the mother should get first choice.",
+          "sourceUrl": "https://ivoterguide.com/candidate/56923/race/2237/election/808",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He opposed a government-run single-payer system and strongly opposed eliminating private health insurance.",
+          "quote": "I am not in support of a government run, single payer healthcare program.",
+          "sourceUrl": "https://ivoterguide.com/candidate/56923/race/2237/election/808",
+          "agreement": "10/10"
+        }
+      }
+    }
+  ],
+  "sources": "wyodaily.com · ivoterguide.com · svinews.com · lisakinneyforcongress.com · onyourballot.vote411.org · projects.wyofile.com · cowboystatedaily.com · sundancetimes.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}
