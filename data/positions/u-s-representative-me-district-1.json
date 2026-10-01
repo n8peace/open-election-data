@@ -1,0 +1,240 @@
+{
+  "office": "U.S. Representative",
+  "district": "ME District 1",
+  "division": "me/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Pingree, Chellie",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "Her official Inflation Reduction Act page supported financing the law through higher taxes and enforcement focused on large corporations and wealthy taxpayers.",
+          "quote": "closing tax loopholes exploited by the wealthiest few, and implementing a 15 percent corporate minimum tax",
+          "sourceUrl": "https://pingree.house.gov/inflationreduction/default.aspx",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "Pingree joined legislation to raise the federal minimum wage to $17 by 2028 and phase out subminimum wages.",
+          "quote": "I’m proud to support the Raise the Wage Act.",
+          "sourceUrl": "https://pingree.house.gov/news/documentsingle.aspx?DocumentID=4689",
+          "agreement": "9/10"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "Pingree warned that broad tariffs on Canada could raise prices, while saying targeted tariffs can address unfair trade practices.",
+          "quote": "We acknowledge that targeted and strategic tariffs can be an important tool to address unfair trade practices.",
+          "sourceUrl": "https://pingree.house.gov/news/documentsingle.aspx?DocumentID=5469",
+          "agreement": "8/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "Pingree said she opposes cuts to Medicare benefits and supports strengthening Social Security without reducing benefits.",
+          "quote": "I'm against any cutting for Medicare benefits and medical care for our retirees and I vow to fight any proposals to do so.",
+          "sourceUrl": "https://pingree.house.gov/seniors/",
+          "agreement": "10/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She secured federal funding for construction of a 30-unit Housing First development in Portland.",
+          "quote": "The funding will facilitate the acquisition costs associated with the new construction of a 30-unit Housing First development in Downtown Portland, helping reduce chronic homelessness.",
+          "sourceUrl": "https://pingree.house.gov/news/documentsingle.aspx?DocumentID=5156",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "She opposed dismantling the Department of Education and defended federal support for public education.",
+          "quote": "Let’s call this what it is: an attack on our kids, on parents, on communities, and on the very idea of public education.",
+          "sourceUrl": "https://pingree.house.gov/news/documentsingle.aspx?DocumentID=5493",
+          "agreement": "4/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supported a package combining violence-prevention programs and mental-health response teams with funding for police training.",
+          "quote": "I’m pleased that these bills will fund evidence-based violence prevention programs and critically needed mental health response teams, and ensure that small towns can invest in training",
+          "sourceUrl": "https://pingree.house.gov/news/documentsingle.aspx?DocumentID=4328",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "Pingree called for streamlining legal immigration and expanding naturalization opportunities for eligible groups.",
+          "quote": "I strongly believe we should streamline legal immigration and promote naturalization for those who qualify",
+          "sourceUrl": "https://pingree.house.gov/issues/immigration/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "Pingree supported universal background checks and voted for legislation expanding firearm background checks and other gun-safety measures.",
+          "quote": "Now, Congress must build on this effort and pass long-overdue universal background check legislation to protect our communities—from Lewiston to Uvalde.",
+          "sourceUrl": "https://pingree.house.gov/news/documentsingle.aspx?DocumentID=5220",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "Pingree supported abortion access, including voting for the Women’s Health Protection Act and supporting access to medication abortion.",
+          "quote": "I was proud to join my Democratic colleagues on the House Appropriations Committee in fighting for our reproductive rights",
+          "sourceUrl": "https://pingree.house.gov/news/documentsingle.aspx?DocumentID=4227",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "She supported LGBTQ+ equality legislation protecting people from discrimination in education and elsewhere based on gender identity.",
+          "quote": "I am proud to support legislation that works toward the extension of equal rights, the repeal of discriminatory laws, the elimination of hate-motivated violence, and the improved health and well-being for all regardless of race, sexual orientation, gender identity and expression, or sex characteristics.",
+          "sourceUrl": "https://pingree.house.gov/news/documentsingle.aspx?DocumentID=4644",
+          "agreement": "3/10"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "Pingree voted for the MORE Act to decriminalize marijuana federally and allow states to set their own policies.",
+          "quote": "With marijuana decriminalized on the federal level, burdensome legal hurdles that hinder the industry’s growth will be removed",
+          "sourceUrl": "https://pingree.house.gov/news/documentsingle.aspx?DocumentID=4074",
+          "agreement": "9/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "Pingree opposed turning Medicaid into capped block grants and defended Medicaid expansion under the Affordable Care Act.",
+          "quote": "The Trump administration program threatens the success of Medicaid expansion—a cornerstone of the Affordable Care Act—which has reduced mortality rates nationwide by 9.3%.",
+          "sourceUrl": "https://pingree.house.gov/news/documentsingle.aspx?DocumentID=3243",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "She voted to restore methane-emissions standards and called for bold action to curb emissions and protect a clean-energy future.",
+          "quote": "Without bold action to curb emissions, methane will continue to cause significant harm to public health, threaten our economy, and compromise our clean energy future.",
+          "sourceUrl": "https://pingree.house.gov/news/documentsingle.aspx?DocumentID=3776",
+          "agreement": "6/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "strong",
+          "text": "She cosponsored legislation to remove obstacles for voters waiting in line and voted for the For the People Act.",
+          "quote": "Congress must do everything possible to protect access to the ballot box for all.",
+          "sourceUrl": "https://pingree.house.gov/news/documentsingle.aspx?DocumentID=3668",
+          "agreement": "8/10"
+        }
+      }
+    },
+    {
+      "name": "Russell, Ronald C.",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He opposes additional federal taxes and supports making tax relief permanent.",
+          "quote": "we cannot afford additional Federal taxes on top of all that.",
+          "sourceUrl": "https://ronrussellforcongress.com/project/taxes/",
+          "agreement": "9/10"
+        },
+        "debt": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He would preserve the current Social Security system for people who have paid into it while considering a replacement for others.",
+          "quote": "I would not implement those programs for those individuals who have been paying into the current system.",
+          "sourceUrl": "https://www.mainepublic.org/politics/2026-04-17/your-vote-2026-profile-ron-russell-republican-for-1st-district",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "He proposed concentrating on smaller starter homes and opposed subsidizing their construction.",
+          "quote": "And the amount of starter homes that we have is very, very small.",
+          "sourceUrl": "https://www.mainepublic.org/show/maine-calling/2024-10-09/candidate-interviews",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He supports school choice and says education funding should be tied to results.",
+          "quote": "We must measure results, reward what works, and embrace reforms like school choice to ensure every student has the best shot at success.",
+          "sourceUrl": "https://ronrussellforcongress.com/project/education/",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He calls for more resources for law enforcement and says violent criminals should serve their sentences.",
+          "quote": "We need to ensure violent criminals serve their sentences, and provide law enforcement with the resources they need to keep our communities safe.",
+          "sourceUrl": "https://ronrussellforcongress.com/project/reducing-crime-supporting-first-responders/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He supports legal immigration but calls for tighter border control and reform of the amnesty system.",
+          "quote": "We must prioritize securing our border to stem the illegal flow of unsustainable numbers of immigrants.",
+          "sourceUrl": "https://ronrussellforcongress.com/project/immigration/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He opposes sweeping restrictions on gun owners, though he supports targeted reforms to improve background-check integration.",
+          "quote": "I oppose any effort to impose burdensome gun control measures that criminalize responsible citizens",
+          "sourceUrl": "https://ronrussellforcongress.com/project/gun-control/",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He answered no when asked whether he supports the right to an abortion.",
+          "quote": "Do you support the right to an abortion?\n\nNo",
+          "sourceUrl": "https://www.mainepublic.org/politics/2026-04-17/your-vote-2026-profile-ron-russell-republican-for-1st-district",
+          "agreement": "7/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He prioritizes energy independence and lower fuel costs, and opposes mandates on household energy choices.",
+          "quote": "Not only will this help lower fuel costs for Americans filling their gas tanks, but it will also aid in reducing the cost of items such as groceries, home heating oil and other commodities that we rely on in our daily lives.",
+          "sourceUrl": "https://ronrussellforcongress.com/project/energy-and-the-economy/",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He supports photo ID as a voting requirement and describes voter ID as a way to build trust in elections.",
+          "quote": "Should it be necessary to provide a photo ID in order to vote?\n\nYes",
+          "sourceUrl": "https://www.mainepublic.org/politics/2026-04-17/your-vote-2026-profile-ron-russell-republican-for-1st-district",
+          "agreement": "9/10"
+        }
+      }
+    }
+  ],
+  "sources": "pingree.house.gov · ronrussellforcongress.com · mainepublic.org",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

@@ -1,0 +1,192 @@
+{
+  "office": "U.S. Senate",
+  "district": "ME",
+  "division": "me/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Susan M. Collins",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She supported the 2017 Tax Cuts and Jobs Act and said it would lower taxes for most Maine households.",
+          "quote": "This bill puts money back in the pockets of the American public with tax cuts beginning January 1st.",
+          "sourceUrl": "https://www.collins.senate.gov/newsroom/senator-collins-announces-support-passage-comprehensive-tax-reform",
+          "agreement": "6/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "She said the federal minimum wage should increase.",
+          "quote": "I believe it should be increased. In 2007, the last time the Senate voted on this issue, I supported legislation that raised the federal minimum wage to the current $7.25 an hour.",
+          "sourceUrl": "https://www.collins.senate.gov/newsroom/senator-collins-continues-seek-support-agreement-raise-minimum-wage",
+          "agreement": "7/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "She cosponsored legislation that would require congressional approval for new tariffs after 60 days.",
+          "quote": "The unilateral imposition of tariffs by the President without congressional oversight undermines Congress’ constitutional role and can have serious consequences for American workers and businesses",
+          "sourceUrl": "https://www.collins.senate.gov/newsroom/senator-collins-joins-bipartisan-group-in-introducing-bill-to-reassert-congressional-authority-over-tariffs",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She coauthored the Social Security Fairness Act, which repealed provisions that reduced benefits for many public servants.",
+          "quote": "The Social Security Fairness Act restores full Social Security benefits for the millions of teachers, police officers, firefighters, and other public servants",
+          "sourceUrl": "https://www.collins.senate.gov/newsroom/senators-collins-king-join-colleagues-in-calling-for-prompt-implementation-of-social-security-fairness-act",
+          "agreement": "8/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She supported the ROAD to Housing Act, saying it would expand housing supply and cut unnecessary red tape.",
+          "quote": "The 21st Century ROAD to Housing Act will help communities expand housing supply in Maine and across the country by cutting unnecessary red tape",
+          "sourceUrl": "https://www.collins.senate.gov/newsroom/with-senator-collins-support-senate-passes-bill-to-make-housing-more-affordable",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "She coauthored a federal program providing funding and flexibility to small, low-income rural school districts.",
+          "quote": "providing dedicated federal funding and flexibility to small, low-income rural school districts for technology, distance learning, and teacher training",
+          "sourceUrl": "https://www.collins.senate.gov/faqs",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "She backed appropriations legislation that increased funding for law enforcement and police and sheriff departments.",
+          "quote": "this bill is still able to provide judicious increases for law enforcement, avoiding layoffs of the people who are charged with combatting the fentanyl crisis",
+          "sourceUrl": "https://www.collins.senate.gov/newsroom/senate-committee-approves-fy24-commerce-justice-and-science-appropriations-bill",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supported a bipartisan proposal combining a path to citizenship for Dreamers with stronger border security.",
+          "quote": "Our legislation underscores the broad, bipartisan commitment to creating a path to citizenship for Dreamers, who were brought to this country illegally through no decision of their own, while strengthening border security",
+          "sourceUrl": "https://www.collins.senate.gov/newsroom/senators-unveil-bipartisan-amendment-protect-dreamers-strengthen-border-security",
+          "agreement": "4/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "lean",
+          "text": "She introduced legislation requiring federal authorities to notify states when prohibited people fail firearm background checks.",
+          "quote": "By requiring the federal government to notify states promptly when someone fails a background check, this commonsense, bipartisan bill would help stop dangerous people from obtaining guns illegally",
+          "sourceUrl": "https://www.collins.senate.gov/newsroom/senator-collins-joins-bipartisan-group-introducing-bill-strengthen-background-check-system",
+          "agreement": "9/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "She introduced legislation to restore Roe and Casey protections and protect access to contraception.",
+          "quote": "Our bill would restore the right to obtain an abortion by enacting in federal law Roe v. Wade and other seminal Supreme Court decisions",
+          "sourceUrl": "https://www.collins.senate.gov/newsroom/senator-collins-joins-bipartisan-effort-to-codify-roe-v-wade",
+          "agreement": "5/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "She voted for an amendment barring transgender athletes from competing in girls’ and women’s athletics.",
+          "quote": "My vote for Senator Tuberville’s amendment reflects my longstanding position that transgender athletes should not compete in girls’ and women’s athletics",
+          "sourceUrl": "https://www.collins.senate.gov/newsroom/senator-collins-statement-on-tuberville-amendment-to-protect-women-and-girls-sports",
+          "agreement": "6/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She says she has pursued lower greenhouse-gas emissions and clean-energy jobs while also emphasizing the burden of high energy costs.",
+          "quote": "I have worked to reduce greenhouse gas emissions and spur the creation of clean energy jobs – while retaining important American manufacturing jobs",
+          "sourceUrl": "https://www.collins.senate.gov/issues/energy-and-environment",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "She sponsored election provisions requiring mail registrants to provide identification when voting and establishing statewide voter-registration verification.",
+          "quote": "Mail Registration: Voters who register by mail must provide proof of identification when voting.",
+          "sourceUrl": "https://www.collins.senate.gov/newsroom/president-signs-help-america-vote-act",
+          "agreement": "5/10"
+        }
+      }
+    },
+    {
+      "name": "Troy D. Jackson",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He has opposed tax cuts for wealthy households and called for taxing billionaires and corporations while funding broader health care and child care.",
+          "quote": "voting against the 2011 tax cuts for the wealthy (and by extension the state budget)",
+          "sourceUrl": "https://www.mainepublic.org/politics/2026-04-17/your-vote-2026-profile-troy-jackson-democrat-for-governor",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He supports removing the Social Security payroll-tax cap to strengthen the program.",
+          "quote": "Making sure that wealthier people pay the same rate that working class people do would definitely strengthen the social security system overall.",
+          "sourceUrl": "https://www.jacksonformaine.com/news/jackson-promises-to-protect-social-security-lower-health-care-costs-ensure-billionaires-pay-taxes",
+          "agreement": "3/5"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He supports building affordable housing and increasing Maine’s housing supply while cutting red tape.",
+          "quote": "Maine must dramatically increase the supply of diverse, affordable and energy-efficient housing to meet 84,000 total units by 2030.",
+          "sourceUrl": "https://www.mainepublic.org/politics/2026-04-17/your-vote-2026-profile-troy-jackson-democrat-for-governor",
+          "agreement": "3/5"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "strong",
+          "text": "He opposed a ban on transgender athletes competing in girls’ and women’s sports.",
+          "quote": "Do you support a ban on transgender athletes in girls and women’s sports and the dismantling of other protections under the Maine Human Rights Act? No",
+          "sourceUrl": "https://www.mainepublic.org/politics/2026-04-17/your-vote-2026-profile-troy-jackson-democrat-for-governor",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "strong",
+          "text": "He supports reaching 100% clean energy by 2040 and moving renewable-energy projects through permitting quickly.",
+          "quote": "If we want to get to 100% clean energy by 2040 we need to get the Northern Maine wind and transmission projects built.",
+          "sourceUrl": "https://www.mainepublic.org/politics/2026-04-17/your-vote-2026-profile-troy-jackson-democrat-for-governor",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "He opposed requiring photo ID to vote and has called for protecting voting rights.",
+          "quote": "Should it be necessary to provide a photo ID in order to vote? No",
+          "sourceUrl": "https://www.mainepublic.org/politics/2026-04-17/your-vote-2026-profile-troy-jackson-democrat-for-governor",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "collins.senate.gov · mainepublic.org · jacksonformaine.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

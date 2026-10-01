@@ -1,0 +1,192 @@
+{
+  "office": "U.S. Representative",
+  "district": "ME District 2",
+  "division": "me/cd-2",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Dunlap, Matthew G.",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He says he will support the PRO Act, defend fair wages and protect workers’ right to organize.",
+          "quote": "I am 100% pro-labor. As a former labor union member, I’ll be a steadfast pro-union voice in Congress. That means fighting for workers’ rights through legislation like the PRO Act, defending fair wages, safe working conditions, and the right to organize.",
+          "sourceUrl": "https://www.mattdunlapforuscongress.com/issues",
+          "agreement": "5/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He says he will work to lift the Trump administration’s blanket tariffs.",
+          "quote": "And I’ll fight to lift Trump’s blanket tariffs and end his war of choice so families can afford to live in Maine.",
+          "sourceUrl": "https://www.mattdunlapforuscongress.com/issues",
+          "agreement": "4/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He says he will protect Medicare and Social Security and supports eliminating the payroll tax cap to strengthen Social Security.",
+          "quote": "In Congress, I’ll be a champion for protecting Medicare, Social Security, and Medicaid, and I’ll work to fight to expand coverage so more people have the care they need.",
+          "sourceUrl": "https://www.mattdunlapforuscongress.com/issues",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "He answered no when asked whether assault weapons, high-capacity magazines and bump stocks should be banned.",
+          "quote": "Do you think that assault weapons, high-capacity magazines, and bump stocks should be banned? No",
+          "sourceUrl": "https://www.mainepublic.org/politics/2026-04-19/your-vote-2026-profile-matt-dunlap-democrat-for-2nd-district",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He says abortion decisions belong to the person who is pregnant and supports constitutional protection for reproductive health care.",
+          "quote": "The decision to terminate a pregnancy belongs to the woman faced with whatever circumstances that affect her, and no one should have the right to predetermine what health choices any woman makes.",
+          "sourceUrl": "https://www.mattdunlapforuscongress.com/issues",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports Medicare for All and expanding coverage to provide care to more people.",
+          "quote": "Medicare for All will help us ensure that we’re spending your tax dollars on health care for Mainers rather than foreign wars or other misguided priorities.",
+          "sourceUrl": "https://www.mattdunlapforuscongress.com/issues",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "He answered no when asked whether voters should be required to show photo identification.",
+          "quote": "Should it be necessary to provide a photo ID in order to vote? No",
+          "sourceUrl": "https://www.mainepublic.org/politics/2026-04-19/your-vote-2026-profile-matt-dunlap-democrat-for-2nd-district",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "LePage, Paul R.",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "His campaign says he supports lower taxes and reducing red tape to create jobs.",
+          "quote": "Lower taxes. Less red tape. More jobs for Maine families.",
+          "sourceUrl": "https://lepageforcongress.com/",
+          "agreement": "8/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He urged lawmakers to slow minimum-wage increases, end automatic indexing, and restore the tip credit.",
+          "quote": "You can slow down the rate of increase to the minimum wage to allow businesses more time to absorb it, remove the provision that automatically increases the wage every year and restore the tip credit.",
+          "sourceUrl": "https://www.maine.gov/governor/lepage/newsroom/article.html?id=722147",
+          "agreement": "6/10"
+        },
+        "trade": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He defended using tariffs as a negotiating tool but said he wants them removed once the U.S. and Canada reach a fair trading relationship.",
+          "quote": "Asked about tariffs, LePage defended President Donald Trump’s use of them as a negotiating tool but indicated that he does not view broad tariffs as a permanent economic policy.",
+          "sourceUrl": "https://www.themainewire.com/2026/08/u-s-chamber-of-commerce-endorses-paul-lepage-in-maines-2nd-congressional-district-race/",
+          "agreement": "3/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "His campaign says he will protect Social Security and Medicare.",
+          "quote": "Paul has always protected, and will always protect, Social Security and Medicare.",
+          "sourceUrl": "https://lepageforcongress.com/",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "As governor, he said school choice benefits Maine students.",
+          "quote": "School choice benefits each and every Maine student who deserves the best education this state can provide.",
+          "sourceUrl": "https://www.maine.gov/governor/lepage/newsroom/speech.html?id=495850",
+          "agreement": "5/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "As governor, he increased pay for state law-enforcement agencies and added drug-enforcement agents.",
+          "quote": "Increased the pay of the State Police, Warden Service, Marine Patrol, Capitol Police and other state law enforcement agencies to address recruitment and retention issues.",
+          "sourceUrl": "https://www.maine.gov/governor/lepage/priorities-accomplishments/fighting-crime-protecting-public.html",
+          "agreement": "5/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "His campaign says he will finish the border wall and end illegal immigration.",
+          "quote": "Paul will fight to finish the wall, end illegal immigration, and restore law and order.",
+          "sourceUrl": "https://lepageforcongress.com/",
+          "agreement": "10/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He said he opposes restrictions on Second Amendment rights and would support repealing them.",
+          "quote": "I do not support any restrictions on the Second Amendment to the Constitution.",
+          "sourceUrl": "https://www.pressherald.com/2026/08/06/everything-paul-lepage-told-reporters-as-he-rolled-out-an-nra-endorsement/",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "He urged residents to support a petition for school sports and facilities to be separated by biological sex.",
+          "quote": "has urged Maine residents to sign a petition to get a measure onto the ballot that would require sports teams, locker rooms and bathrooms in schools to be separated by biological sex",
+          "sourceUrl": "https://www.notus.org/2026-election/maine-debate-trans-student-athletes-campaign",
+          "agreement": "8/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "strong",
+          "text": "As governor, he vetoed legislation to establish Maine’s adult-use marijuana marketplace, citing federal law and concerns about impairment.",
+          "quote": "He also said he cannot “in good conscience” support a law that violates federal law because marijuana remains classified as a Schedule 1 drug.",
+          "sourceUrl": "https://www.pressherald.com/2018/04/27/lepage-vetoes-marijuana-bill-2/",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He backed repeal and replacement of the Affordable Care Act and said states that had not expanded Medicaid should be barred from doing so.",
+          "quote": "First, Medicaid expansion should be frozen. If states have not already expanded Medicaid, they should not be allowed to.",
+          "sourceUrl": "https://www.maine.gov/governor/lepage/newsroom/article.html?id=758764",
+          "agreement": "3/10"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "He has said a congressional priority would be lowering Maine’s energy costs and favors greater reliance on nuclear and hydroelectric power.",
+          "quote": "LePage said one of his priorities in Congress would be lowering Maine’s high energy costs",
+          "sourceUrl": "https://www.themainewire.com/2026/08/u-s-chamber-of-commerce-endorses-paul-lepage-in-maines-2nd-congressional-district-race/",
+          "agreement": "6/10"
+        }
+      }
+    }
+  ],
+  "sources": "mattdunlapforuscongress.com · mainepublic.org · lepageforcongress.com · maine.gov · themainewire.com · pressherald.com · notus.org",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}
