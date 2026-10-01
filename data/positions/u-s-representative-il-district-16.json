@@ -1,0 +1,176 @@
+{
+  "office": "U.S. Representative",
+  "district": "IL District 16",
+  "division": "il/cd-16",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Darin LaHood",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "He has advocated for lower taxes for working families and criticized tax burdens on workers and small businesses.",
+          "quote": "Under Joe Biden, Kamala Harris, and JB Pritzker, burdensome taxes and regulations have been levied on workers and small businesses",
+          "sourceUrl": "https://lahood.house.gov/2024/9/lahood-backs-legislation-to-support-gig-economy-workers-invest-in-school-choice",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "He opposed a COVID relief bill that included a plan to raise the federal minimum wage to $15 an hour.",
+          "quote": "A minimum wage hike — there's money in there for museums and humanities — checks going to illegal immigrants",
+          "sourceUrl": "https://lahood.house.gov/in-the-news?ID=B1F8F85B-F083-4B3F-9D47-195FAEF7CE37",
+          "agreement": "7/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He said free trade expands markets and jobs and urged Vietnam to eliminate tariffs on U.S. pork.",
+          "quote": "Pork producers are vital to Illinois’ economy and they need free and fair trade to remain competitive in the global economy",
+          "sourceUrl": "https://lahood.house.gov/news?ID=B0C9610F-40CA-4C11-9168-2B9377B9963C",
+          "agreement": "6/10"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "lean",
+          "text": "He said Medicare and Medicaid need revisions because of the growing deficit, while opposing benefit changes for current retirees and people nearing retirement.",
+          "quote": "Lahood, a Republican, says programs like Medicare and Medicaid need to be revised, given the country’s growing deficit.",
+          "sourceUrl": "https://lahood.house.gov/2016/7/congresswoman-bustos-congressman-lahood-engage-peoria-seniors",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "strong",
+          "text": "He introduced legislation to expand affordable housing investment and increase the supply of low-income housing.",
+          "quote": "To address the affordable housing crisis, we must strengthen tools to drive investment into low-income housing and expand options.",
+          "sourceUrl": "https://lahood.house.gov/2024/8/lahood-kildee-introduce-bipartisan-bicameral-legislation-to-increase-rural-housing-investment",
+          "agreement": "8/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "He voted to advance legislation supporting scholarships for elementary and secondary students through school choice programs.",
+          "quote": "Congressman Darin LaHood (IL-16) voted to advance two bills, the Saving Gig Economy Taxpayers Act and the Educational Choice for Children Act of 2024, to support gig economy workers and invest in school choice programs.",
+          "sourceUrl": "https://lahood.house.gov/2024/9/lahood-backs-legislation-to-support-gig-economy-workers-invest-in-school-choice",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "He introduced legislation to fund police hiring and salary increases and said he supports law enforcement officers.",
+          "quote": "I am proud to join Congressman Rodney Davis to introduce the David Dorn Back the Blue Act because I see firsthand the sacrifices the men and women who button up the blue uniform make to keep Illinoisans safe.",
+          "sourceUrl": "https://lahood.house.gov/2021/5/lahood-davis-bost-introduce-legislation-to-raise-police-salaries-hire-more-police-officers",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "He has called for securing the southern border and enforcing immigration laws, and supported legal action against sanctuary jurisdictions.",
+          "quote": "We need to secure our southern border and enforce our immigration laws.",
+          "sourceUrl": "https://lahood.house.gov/immigration",
+          "agreement": "8/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He said he strongly supports the Second Amendment and will defend firearm owners.",
+          "quote": "I strongly support the Second Amendment and in Congress I will fight to defend the hunters, sportsmen, and firearm owners of Central and West Central Illinois.",
+          "sourceUrl": "https://lahood.house.gov/priorities",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "He praised the Dobbs decision and said he would continue pushing for protections for unborn life.",
+          "quote": "In Congress, I stood proudly with the growing Pro-Life movement to advocate for the Supreme Court to reconsider Roe v. Wade, and this decision is a huge victory for the sanctity of life.",
+          "sourceUrl": "https://lahood.house.gov/2022/6/lahood-statement-on-dobbs-v-jackson-decision",
+          "agreement": "10/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "He voted for the Protection of Women and Girls in Sports Act, which bases Title IX athletics determinations on reproductive biology and genetics at birth.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512?Page=6",
+          "agreement": "6/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "He voted against the MORE Act, which would have decriminalized and descheduled cannabis.",
+          "quote": "Roll Call 235 | Bill Number: H. R. 3884",
+          "sourceUrl": "https://clerk.house.gov/Votes/2020235",
+          "agreement": "4/10"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "He said health care decisions should be made by patients and doctors and supported individual choice and control over health plans.",
+          "quote": "I support common sense reforms that restore individual choice and control over healthcare plans.",
+          "sourceUrl": "https://lahood.house.gov/priorities",
+          "agreement": "8/10"
+        },
+        "energy": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supported a fuels bill that he said would offer cleaner energy while supporting agricultural jobs.",
+          "quote": "I am proud to support the Next Generation Fuels Act, which will build off the success of the Renewable Fuel Standard (RFS) to provide cleaner more efficient energy solutions while supporting Illinois agriculture producers.",
+          "sourceUrl": "https://lahood.house.gov/2021/8/lahood-supports-the-introduction-of-the-next-generation-fuels-act",
+          "agreement": "5/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "He voted for legislation requiring proof of citizenship for federal voter registration and endorsed voter ID and voter-roll checks.",
+          "quote": "My home state of Illinois, and others across our country, have failed to properly maintain their voter rolls and implement basic election security practices such as requiring voter ID.",
+          "sourceUrl": "https://lahood.house.gov/2026/2/lahood-votes-for-save-america-act-to-bolster-election-integrity",
+          "agreement": "9/10"
+        }
+      }
+    },
+    {
+      "name": "Paul Nolley",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He supports making collective bargaining easier to raise workers' wages and benefits.",
+          "quote": "We will fight for pro-worker legislation that makes it easier to collectively bargain and raise wages and benefits for the people who keep this country running.",
+          "sourceUrl": "https://www.nolleyforcongress.com/issues",
+          "agreement": "4/5"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "He criticized the administration’s tariffs and said they create instability for businesses and harm working people.",
+          "quote": "These are just man-made harms to our economy, to the working people, and they're driven by ego — I believe that.",
+          "sourceUrl": "https://will.illinois.edu/transcript/21stshow/democrat-paul-nolley",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "lahood.house.gov · clerk.house.gov · nolleyforcongress.com · will.illinois.edu",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}
