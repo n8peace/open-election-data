@@ -1,0 +1,168 @@
+{
+  "office": "UNITED STATES SENATOR",
+  "district": "WY",
+  "division": "wy/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Harriet Hageman",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She says she will oppose tax increases and push to cut federal spending and taxes.",
+          "quote": "In Congress, I will fight any effort to raise taxes and, instead, focus on ways to cut both federal spending and taxes.",
+          "sourceUrl": "https://www.hagemanforwyoming.com/issues",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "She strongly agreed that government should cut spending to reduce the national debt.",
+          "quote": "The government should cut spending in order to reduce the national debt.",
+          "sourceUrl": "https://ivoterguide.com/candidate/68728/race/2237/election/883",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "She strongly supports vouchers, tax credits, charter schools, private schools, and home schools.",
+          "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools.",
+          "sourceUrl": "https://ivoterguide.com/candidate/68728/race/2237/election/1253?culture=en-us",
+          "agreement": "4/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "She strongly opposed redirecting police funding to mental-health and community programs and supports qualified immunity for officers following lawful department policy.",
+          "quote": "I am a strong supporter of our police officers. I believe that they should be immune from personal liability so long as they are conducting themselves pursuant to legal and legitimate department policy.",
+          "sourceUrl": "https://ivoterguide.com/candidate/68728/race/2237/election/883",
+          "agreement": "4/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "She called for funded border security and an aggressive campaign to deport immigrants who are in the country illegally and have committed crimes.",
+          "quote": "Congress must keep border security funded while the administration continues an aggressive campaign to deport the criminal illegal immigrants first.",
+          "sourceUrl": "https://projects.wyofile.com/election-guide-2026/candidates/hageman-harriet/",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "She says she will fight efforts to restrict gun rights and protect the Second Amendment.",
+          "quote": "I will always fight to protect our Second Amendment, and will never back down to the tyranny of this Administration or any others who are attempting to infringe upon our Constitutional rights.",
+          "sourceUrl": "https://www.hagemanforwyoming.com/issues",
+          "agreement": "4/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "She says she supports laws to protect unborn life.",
+          "quote": "There is no justification for refusing to protect these precious lives and I will strongly support laws that seek to ensure their safety.",
+          "sourceUrl": "https://www.hagemanforwyoming.com/issues",
+          "agreement": "5/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "She voted for the Protection of Women and Girls in Sports Act and opposes transgender girls participating in girls' sports.",
+          "quote": "I voted in favor of H.R. 734 – the Protection of Women and Girls in Sports Act. Boys are boys and girls are girls.",
+          "sourceUrl": "https://ivoterguide.com/candidate/68728/race/2237/election/1253?culture=en-us",
+          "agreement": "4/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "She says she will support energy independence and protect oil, gas, and coal industries.",
+          "quote": "I will always support and fight for energy independence and to protect our oil, gas and coal industries and in Wyoming.",
+          "sourceUrl": "https://www.hagemanforwyoming.com/issues",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "She opposes broadly mailed ballots and supports voter identification requirements.",
+          "quote": "We must put a stop to things, such as blindly mailing ballots; often to millions of registered voters who did not ask for them, all without accountability or a proper chain of custody.",
+          "sourceUrl": "https://www.hagemanforwyoming.com/issues",
+          "agreement": "4/5"
+        }
+      }
+    },
+    {
+      "name": "James Byrd",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "He supports residential property tax relief for working families.",
+          "quote": "fighting for economic policy and affordability to lower living costs for working families, support residential property tax relief, and keep our small towns thriving;",
+          "sourceUrl": "https://www.greenriverstar.com/story/2026/08/06/news/voters-guide-us-senator-2026-primary-election/14140.html",
+          "agreement": "4/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "Byrd said he would support tax credits for first-time homebuyers and incentives for local housing development.",
+          "quote": "I would support bipartisan bills that offer targeted tax credits for first time homebuyers and incentivize local housing development.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72614295",
+          "agreement": "7/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "lean",
+          "text": "Byrd criticized the growing support for homeschooling and charter schools, saying it could make it harder for Wyoming students to compete.",
+          "quote": "[Homeschooling and charter schools] only give you substandard graduates who can’t even get into highly qualified and highly competitive colleges where these [energy] technologies [come from],",
+          "sourceUrl": "https://wyofile.com/former-wyoming-rep-james-byrd-announces-bid-for-u-s-senate/",
+          "agreement": "6/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "Byrd supports streamlining seasonal work visas and creating a legal pathway to citizenship for undocumented residents who contribute to their communities.",
+          "quote": "Finally, we need a tough but fair legal pathway to earned citizenship for undocumented individuals who are already living here and actively contributing to our local communities.",
+          "sourceUrl": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72614295",
+          "agreement": "6/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "lean",
+          "text": "He has said personal healthcare decisions should remain private.",
+          "quote": "Personal healthcare decisions should remain private. (Mar 2026)",
+          "sourceUrl": "https://www.ontheissues.org/Senate/James_W__Byrd.htm",
+          "agreement": "3/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "Byrd opposed restrictive rules limiting vote-by-mail access and said every legal vote should be counted under state rules.",
+          "quote": "Whether through restrictive rules designed to limit vote-by-mail access or unconstitutional federal interference in local administration, these measures undermine the fundamental principles of a free democracy. Voters deserve a system where every legal vote is counted according to the rules set by their own state laws.",
+          "sourceUrl": "https://newslj.com/byrd-condemns-executive-overreach-mail-ballots",
+          "agreement": "6/10"
+        }
+      }
+    }
+  ],
+  "sources": "hagemanforwyoming.com · ivoterguide.com · projects.wyofile.com · greenriverstar.com · onyourballot.vote411.org · wyofile.com · ontheissues.org · newslj.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

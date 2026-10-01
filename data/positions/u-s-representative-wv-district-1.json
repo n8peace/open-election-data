@@ -1,0 +1,214 @@
+{
+  "office": "U.S. Representative",
+  "district": "WV District 1",
+  "division": "wv/cd-1",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Carol Miller",
+      "party": "Republican",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She supported making the 2017 tax cuts permanent and said the 2025 bill would prevent a tax hike.",
+          "quote": "Today, thanks to the hard work of the Ways and Means Republicans, we will make those tax cuts permanent and prevent an end of the year tax hike.",
+          "sourceUrl": "https://miller.house.gov/media/press-releases/miller-votes-send-one-big-beautiful-bill-president-trumps-desk",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "She voted against House passage of the Raise the Wage Act.",
+          "quote": "Vote Question: On Passage Raise the Wage Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2019496",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "She endorsed securing the southern border and deporting undocumented immigrants.",
+          "quote": "securing the southern border, deporting illegal immigrants, and eliminating fentanyl from the United States.",
+          "sourceUrl": "https://miller.house.gov/media/press-releases/millers-op-ed-tariffs-necessary-win-war-fentanyl",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "She voted against the Bipartisan Background Checks Act of 2021.",
+          "quote": "Vote Question: On Passage Bipartisan Background Checks Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202175",
+          "agreement": "3/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "She praised the Supreme Court decision overturning Roe v. Wade and said unborn life must be protected.",
+          "quote": "An unborn child is a human life that must be protected.",
+          "sourceUrl": "https://miller.house.gov/media/press-releases/congresswoman-miller-statement-supreme-court-decision-overturn-roe-v-wade",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "She voted for the Protection of Women and Girls in Sports Act, which bases eligibility on sex at birth.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512?Page=6",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "She promoted coal, liquefied natural gas, and oil exports alongside carbon-capture efforts.",
+          "quote": "our ample supplies of coal, liquefied natural gas (LNG), and oil can position the United States as a leader in international energy exportation",
+          "sourceUrl": "https://miller.house.gov/media/press-releases/reps-miller-schweikert-wenstrup-introduce-legislation-improve-carbon-capture",
+          "agreement": "3/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "lean",
+          "text": "She voted for House passage of the Safeguard American Voter Eligibility Act.",
+          "quote": "Vote Question: On Passage Safeguard American Voter Eligibility Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/2024345?Page=2",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Vince George",
+      "party": "Democratic",
+      "stances": {
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "strong",
+          "text": "He says he would fight to double the federal minimum wage.",
+          "quote": "If elected, I will fight to double the federal minimum wage.",
+          "sourceUrl": "https://www.vincegeorgeforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He supports fully funding Social Security and opposes cuts to Medicare and other safety-net programs.",
+          "quote": "I support fully funding SNAP, Social Security, and veterans’ benefits, and I oppose harmful funding cuts to safety net programs.",
+          "sourceUrl": "https://www.vincegeorgeforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He says immigration enforcement is important while criticizing ICE actions and supporting due-process protections.",
+          "quote": "Immigration enforcement is important. But ICE is violating people’s rights, engaging in federal overreach, and encroaching on West Virginia’s local communities.",
+          "sourceUrl": "https://www.vincegeorgeforcongress.com/issues",
+          "agreement": "5/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports a Medicare-for-All option and says he would fight to reverse cuts to Medicaid and Medicare.",
+          "quote": "Expanding affordable healthcare access, including a Medicare-for-All option",
+          "sourceUrl": "https://www.vincegeorgeforcongress.com/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "He says he wants to register more people and expand voter turnout.",
+          "quote": "I am passionate about getting folks registered to vote, expanding voter turnout, and helping voters make informed decisions.",
+          "sourceUrl": "https://www.vincegeorgeforcongress.com/issues",
+          "agreement": "3/5"
+        }
+      }
+    },
+    {
+      "name": "Belinda Fox-Spencer",
+      "party": "Constitution",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "She called for middle-class tax cuts and firm caps on government spending.",
+          "quote": "Increase transparency—tax cuts for the middle-class. And firm caps on government spending.",
+          "sourceUrl": "https://ivoterguide.com/candidate/72857/race/2233/election/951",
+          "agreement": "5/5"
+        },
+        "debt": {
+          "toward": "shrinking the debt",
+          "strength": "strong",
+          "text": "She strongly agreed that the government should cut spending to reduce the national debt.",
+          "quote": "The government should cut spending in order to reduce the national debt. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/72857/race/2233/election/951",
+          "agreement": "5/5"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "She disagreed with redirecting police funding to mental-health and community programs.",
+          "quote": "I support redirecting funds from police departments to mental health and community programs.\nDisagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/72857/race/2233/election/951",
+          "agreement": "3/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "She strongly agreed that the United States should secure the southern border and said immigration should be legal only.",
+          "quote": "The U.S. should do more to physically secure the southern border. Strongly Agree",
+          "sourceUrl": "https://ivoterguide.com/candidate/72857/race/2233/election/951",
+          "agreement": "5/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "She said she fully supports the Second Amendment and strongly disagreed that gun-violence victims should be able to sue firearms dealers and manufacturers.",
+          "quote": "What restrictions on gun ownership are needed to protect public safety? I fully support the 2nd Amendment. Victims of gun violence should be able to sue firearms dealers and manufacturers. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/72857/race/2233/election/951",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "She described herself as pro-life in her campaign materials and questionnaire.",
+          "quote": "Under what circumstances should abortion be allowed? I'm pro-life.",
+          "sourceUrl": "https://ivoterguide.com/candidate/72857/race/2233/election/951",
+          "agreement": "5/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "Her platform says fossil fuels should remain part of the economy and calls for eliminating excessive regulations.",
+          "quote": "We cannot strip the economy by completing eliminating fossil fuels. And we must eliminate excessive regulations that make agriculture production and innovation more difficult.",
+          "sourceUrl": "https://www.belindafoxspencerwv.com/platform",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "She strongly disagreed that people should be able to vote without photo identification and called for photo ID and legal-citizen voting.",
+          "quote": "People should be able to vote without photo identification. Strongly Disagree",
+          "sourceUrl": "https://ivoterguide.com/candidate/72857/race/2233/election/951",
+          "agreement": "5/5"
+        }
+      }
+    }
+  ],
+  "sources": "miller.house.gov · clerk.house.gov · vincegeorgeforcongress.com · ivoterguide.com · belindafoxspencerwv.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

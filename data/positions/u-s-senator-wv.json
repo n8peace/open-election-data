@@ -1,0 +1,156 @@
+{
+  "office": "U.S. Senator",
+  "district": "WV",
+  "division": "wv/state",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "housing",
+    "schools",
+    "safety",
+    "sentencing",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Shelley Moore Capito",
+      "party": "Republican",
+      "stances": {}
+    },
+    {
+      "name": "Rachel Fetty Anderson",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "She supports raising the marginal tax rate on earners above $500,000 and closing a tax loophole.",
+          "quote": "I support the elimination of the \"Buy, Borrow, Die\" tax loop-hole, the increase of the marginal tax rate of earners of over $500,000.00 per year",
+          "sourceUrl": "https://www.fettyandersonforsenate.com/issues",
+          "agreement": "4/5"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "She supports fair pay and says workers' right to unionize for better pay and working conditions should be protected.",
+          "quote": "Free speech and the right to unionize for better pay and working conditions must not be interfered with",
+          "sourceUrl": "https://www.fettyandersonforsenate.com/issues",
+          "agreement": "5/5"
+        },
+        "schools": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "She supports educational resources wherever families choose to educate their children while prioritizing public education services.",
+          "quote": "We prioritize educational resources wherever families choose to educate their children, but prioritize providing public education services that are developmentally appropriate",
+          "sourceUrl": "https://www.fettyandersonforsenate.com/issues",
+          "agreement": "5/5"
+        },
+        "cannabis": {
+          "toward": "legalizing it",
+          "strength": "strong",
+          "text": "She says marijuana use should not be criminalized, supports regulated commercial products, and would allow adults to grow it for personal use.",
+          "quote": "Marijuana use should not be criminalized. Any commercial marijuana product should be highly regulated. Adults should be permitted to grow marijuana for their own use.",
+          "sourceUrl": "https://www.fettyandersonforsenate.com/issues",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "She supports investing in Medicare, Medicaid, and Tricare so all Americans can benefit from publicly funded health care.",
+          "quote": "We must invest in Medicare, Medicaid and Tricare to allow all Americans to benefit in real time from the healthcare taxpayers invest in.",
+          "sourceUrl": "https://www.fettyandersonforsenate.com/issues",
+          "agreement": "5/5"
+        }
+      }
+    },
+    {
+      "name": "S. Marshall Wilson",
+      "party": "Constitution",
+      "stances": {
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "strong",
+          "text": "Wilson said there should be no government-imposed minimum wage and that labor should be priced by the market.",
+          "quote": "There should be no government-imposed minimum wage. Labor, like every other commodity should be priced by the market.",
+          "sourceUrl": "https://ivoterguide.com/candidate/55351/race/19641/election/1213",
+          "agreement": "3/5"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "As a delegate, he said he proposed multiple amendments supporting school choice, including charter schools and a homeschooling tax credit.",
+          "quote": "I think I offered 15 different amendments over the course of three hours in support of school choice, or I like to call it an education liberty.",
+          "sourceUrl": "https://www.visionroot.org/2020/09/15/interview-with-s-marshall-wilson-independent-candidate-for-governor-west-virginia/",
+          "agreement": "5/5"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "As a delegate, he sponsored a bill penalizing officers who fail to enforce an immigration-detainer agreement.",
+          "quote": "Creating a criminal penalty for an agent or sworn officer who refuses or fails to enforce the Compact Agreement on Detainers in immigration cases",
+          "sourceUrl": "https://www.wvlegislature.gov/Bill_Status/bills_sponsors.cfm?btype=bill&hsemem=Wilson&sessiontype=RS&year=2020",
+          "agreement": "4/5"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "strong",
+          "text": "He described himself as a staunch supporter of Second Amendment rights.",
+          "quote": "I am a staunch supporter of Second Amendment rights, I have an A plus from the WVCDL.",
+          "sourceUrl": "https://www.visionroot.org/2020/09/15/interview-with-s-marshall-wilson-independent-candidate-for-governor-west-virginia/",
+          "agreement": "5/5"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "strong",
+          "text": "As a delegate, he co-sponsored the Life at Conception Act, which declared a right to life for born and preborn human persons.",
+          "quote": "To implement equal protection for the right to life of each born and preborn human person",
+          "sourceUrl": "https://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb2074+intr.htm&i=2074&sesstype=RS&yr=2019",
+          "agreement": "4/5"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "As a delegate, he sponsored a bill requiring students to compete with students of the same biological gender.",
+          "quote": "Requiring students to compete only against students of the same biological gender",
+          "sourceUrl": "https://www.wvlegislature.gov/Bill_Status/bills_sponsors.cfm?btype=bill&hsemem=Wilson&sessiontype=RS&year=2020",
+          "agreement": "4/5"
+        },
+        "health": {
+          "toward": "private insurance",
+          "strength": "strong",
+          "text": "Wilson selected the position that taxpayer-funded health care should be abolished, including Medicaid and Medicare.",
+          "quote": "Taxpayer funded health care should be abolished in all forms, and Medicaid and Medicare should be defunded.",
+          "sourceUrl": "https://ivoterguide.com/candidate/55351/race/19641/election/1213",
+          "agreement": "3/5"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "His campaign says he would promote West Virginia’s energy economy, cut regulations, and pursue lower costs and more jobs.",
+          "quote": "West Virginia families are being crushed by inflation, runaway energy costs, and a federal government that punishes producers and rewards dependence. Marshall will fight to unleash West Virginia's energy economy, cut regulations that strangle small businesses, and put hard-working Mountain State families first.",
+          "sourceUrl": "https://www.wilsonwv.com/",
+          "agreement": "5/5"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "Wilson strongly disagreed that people should be able to vote without photo identification.",
+          "quote": "People should be able to vote without photo identification.",
+          "sourceUrl": "https://ivoterguide.com/candidate/55351/race/19641/election/1213",
+          "agreement": "3/5"
+        }
+      }
+    }
+  ],
+  "sources": "fettyandersonforsenate.com · ivoterguide.com · visionroot.org · wvlegislature.gov · wilsonwv.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}
