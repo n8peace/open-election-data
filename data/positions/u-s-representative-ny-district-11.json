@@ -1,0 +1,232 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 11",
+  "division": "ny/cd-11",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Mike DeCillis",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He proposed reducing the tax burden on working-class people while requiring billionaires to pay their fair share.",
+          "quote": "We need to reduce the tax burden on the working class and the billionaires need to pay their fair share.",
+          "sourceUrl": "https://www.decillisforcongress.com/issues",
+          "agreement": "6/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "He says a well-paid labor market and strong unions are needed to help families get ahead.",
+          "quote": "A well-paid labor market and strong unions will allow them to do so.",
+          "sourceUrl": "https://www.decillisforcongress.com/home-1",
+          "agreement": "4/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "His campaign says he wants to protect Social Security and Medicare.",
+          "quote": "He wants to lower costs for working families, protect Social Security and Medicare, strengthen public education, defend our democratic institutions, and ensure government works for everyday people—not just the wealthy and well-connected.",
+          "sourceUrl": "https://www.decillisforcongress.com/about",
+          "agreement": "8/10"
+        },
+        "safety": {
+          "toward": "more prevention",
+          "strength": "lean",
+          "text": "He says supportive services, public spaces, and local programming can help prevent violence.",
+          "quote": "Supportive services, public spaces, and resources for local programming are a few initiatives that enable people to think beyond pain and violence.",
+          "sourceUrl": "https://www.decillisforcongress.com/issues",
+          "agreement": "7/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "strong",
+          "text": "He supports immigration reform centered on immigrant workers and families and has called for abolishing ICE.",
+          "quote": "Mike will champion immigration reform that recognizes immigrant workers and families as essential to our economy, community, and culture.",
+          "sourceUrl": "https://www.decillisforcongress.com/issues",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He supports universal background checks, gun licensing, and an assault weapons ban.",
+          "quote": "Not only does Mike support these measures, but we need to reimagine how we cultivate safe communities.",
+          "sourceUrl": "https://www.decillisforcongress.com/issues",
+          "agreement": "10/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He supports the right to choose and says Roe v. Wade should be codified.",
+          "quote": "Women alone should make the decisions that affect them and their bodies, not the government. It’s long overdue that we codify Roe v. Wade.",
+          "sourceUrl": "https://www.decillisforcongress.com/issues",
+          "agreement": "10/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports a single-payer health care system with access for everyone.",
+          "quote": "Mike will advocate for a single-payer system of healthcare, eliminating all co-pays and deductibles, lowering the overall cost of care while providing access to all.",
+          "sourceUrl": "https://www.decillisforcongress.com/issues",
+          "agreement": "10/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "He supports penalties for greenhouse-gas pollution and says climate change requires action now.",
+          "quote": "We must enforce penalties and fines for dumping toxins in our waters and pumping greenhouse gas into our air.",
+          "sourceUrl": "https://www.decillisforcongress.com/issues",
+          "agreement": "10/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "He supports the John Lewis Voting Rights Advancement Act to address disenfranchisement.",
+          "quote": "If elected, Mike will support the passage of the John Lewis Voting Rights Advancement Act as a start to repairing the harms caused by this ruling, as well as the continuous disenfranchisement of people of color in this nation.",
+          "sourceUrl": "https://www.decillisforcongress.com/issues",
+          "agreement": "7/10"
+        }
+      }
+    },
+    {
+      "name": "Nicole Malliotakis",
+      "party": "Republican; Conservative",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "She voted against tax increases in the New York State Assembly and supported federal tax cuts.",
+          "quote": "In the State Assembly, Nicole proudly voted against tax increases 336 times",
+          "sourceUrl": "https://nicolemalliotakis.com/the-issues/",
+          "agreement": "10/10"
+        },
+        "wages": {
+          "toward": "market-set wages",
+          "strength": "lean",
+          "text": "She voted against the Protecting the Right to Organize Act, which would strengthen workers’ ability to organize and bargain collectively.",
+          "quote": "Vote Question: On Passage Protecting the Right to Organize Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202170",
+          "agreement": "5/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "lean",
+          "text": "She advocated for ratification of the USMCA, citing its expected economic and job benefits.",
+          "quote": "Over the past year, I have been a vocal advocate of this legislation along with the Business Council of New York, the Partnership for New York City, the New York Farm Bureau and the United States Chamber of Commerce",
+          "sourceUrl": "https://nicolemalliotakis.com/malliotakis-statement-on-the-us-mexico-canada-trade-agreement/",
+          "agreement": "5/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "She said she would protect Social Security and Medicare benefits while pursuing reforms to reduce waste and fraud.",
+          "quote": "I will always fight to protect our seniors and individuals with disabilities who depend on Medicaid, Medicare, and Social Security benefits.",
+          "sourceUrl": "https://nicolemalliotakis.com/malliotakis-op-ed-rooting-out-fraud-is-essential-to-preserve-medicaid-medicare/",
+          "agreement": "6/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "She supported legislation intended to bring more homes onto the market for younger families.",
+          "quote": "So this is a win-win piece of legislation that would help our seniors fulfill what they would want to do, and also open up housing stock for young, growing families in a time when we know that housing in New York City is needed.",
+          "sourceUrl": "https://malliotakis.house.gov/media/in-the-news/rep-malliotakis-says-new-bill-would-help-seniors-selling-their-homes-young",
+          "agreement": "3/10"
+        },
+        "schools": {
+          "toward": "school choice",
+          "strength": "strong",
+          "text": "She supports expanding parental school choice so more students can attend the schools their parents choose.",
+          "quote": "She supports expanding parental school choice so over a million more students can receive the education their parents know is best.",
+          "sourceUrl": "https://nicolemalliotakis.com/the-issues/",
+          "agreement": "10/10"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "strong",
+          "text": "She introduced legislation tying eligibility for federal funding to whether municipalities have defunded their police departments.",
+          "quote": "As a Member of Congress, Nicole drafted and introduced legislation requiring municipalities to certify that they have not defunded their police departments before qualifying for federal funding.",
+          "sourceUrl": "https://nicolemalliotakis.com/the-issues/",
+          "agreement": "10/10"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "She supported border security measures, including increased border enforcement and the Remain in Mexico policy.",
+          "quote": "In Congress, Nicole has taken a strong stand against illegal immigration cosponsoring HR 4828 requiring the federal government to secure our nation’s international borders, HR 1259 the Remain in Mexico Act",
+          "sourceUrl": "https://nicolemalliotakis.com/the-issues/",
+          "agreement": "9/10"
+        },
+        "guns": {
+          "toward": "fewer restrictions",
+          "strength": "lean",
+          "text": "She voted against passage of the Bipartisan Background Checks Act in 2021.",
+          "quote": "Vote Question: On Passage Bipartisan Background Checks Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202175",
+          "agreement": "7/10"
+        },
+        "abortion": {
+          "toward": "restricting abortion",
+          "strength": "lean",
+          "text": "She said abortion policy should include limits, while supporting exceptions for rape, incest, and the life of the mother.",
+          "quote": "Look, I think there needs to be limits,” she had said late last month.",
+          "sourceUrl": "https://ny1.com/nyc/all-boroughs/politics/2022/10/03/max-rose-challenges-nicole-malliotakis-on-abortion-votes",
+          "agreement": "4/10"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "lean",
+          "text": "She voted for the Protection of Women and Girls in Sports Act of 2025.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512?Title=sports",
+          "agreement": "7/10"
+        },
+        "cannabis": {
+          "toward": "keeping it illegal",
+          "strength": "lean",
+          "text": "She voted against the MORE Act in 2022.",
+          "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay",
+          "sourceUrl": "https://clerk.house.gov/Votes/2022107",
+          "agreement": "5/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "As a state legislator, she voted for greenhouse-gas reduction goals and expanded renewable energy use.",
+          "quote": "As a state legislator, she also voted to establish goals for New York to reduce greenhouse gas emissions and expand the use of renewable energy.",
+          "sourceUrl": "https://nicolemalliotakis.com/the-issues/",
+          "agreement": "4/10"
+        },
+        "voting": {
+          "toward": "tighter rules",
+          "strength": "strong",
+          "text": "She backed voter identification, regular voter-roll maintenance, and stricter safeguards for absentee ballots.",
+          "quote": "This includes voter identification, regular maintenance of state voter rolls, stringent safeguards to prevent manipulation and abuse of absentee ballot voting",
+          "sourceUrl": "https://nicolemalliotakis.com/the-issues/",
+          "agreement": "9/10"
+        }
+      }
+    }
+  ],
+  "sources": "decillisforcongress.com · nicolemalliotakis.com · clerk.house.gov · malliotakis.house.gov · ny1.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}

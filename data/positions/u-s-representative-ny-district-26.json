@@ -1,0 +1,192 @@
+{
+  "office": "U.S. Representative",
+  "district": "NY District 26",
+  "division": "ny/cd-26",
+  "kind": "candidate",
+  "issues": [
+    "tax",
+    "wages",
+    "trade",
+    "debt",
+    "housing",
+    "schools",
+    "safety",
+    "immigration",
+    "guns",
+    "abortion",
+    "gender",
+    "cannabis",
+    "health",
+    "energy",
+    "voting"
+  ],
+  "choices": [
+    {
+      "name": "Timothy M. Kennedy",
+      "party": "Democratic",
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "lean",
+          "text": "He urged passage of a bill to expand Social Security benefits, funded in part by higher contributions from high earners.",
+          "quote": "The Social Security 2100 Act changes that. It makes the wealthy pay their fair share, boosts benefits",
+          "sourceUrl": "https://kennedy.house.gov/news/documentsingle.aspx?DocumentID=2473",
+          "agreement": "5/10"
+        },
+        "wages": {
+          "toward": "higher wage floors",
+          "strength": "lean",
+          "text": "He defended collective bargaining, saying it supports living wages and workers’ rights.",
+          "quote": "It ensures living wages, safe working conditions, and a pathway to the middle class.",
+          "sourceUrl": "https://kennedy.house.gov/news/documentsingle.aspx?DocumentID=1237",
+          "agreement": "5/10"
+        },
+        "trade": {
+          "toward": "freer trade",
+          "strength": "strong",
+          "text": "He led efforts to rescind tariffs on Canada, arguing they raise costs and threaten jobs.",
+          "quote": "All these tariffs will do is destroy centuries of goodwill between our neighbors, create a new consumer tax on Americans who are already struggling to make ends meet, and cost jobs.",
+          "sourceUrl": "https://kennedy.house.gov/news/documentsingle.aspx?DocumentID=1214",
+          "agreement": "8/10"
+        },
+        "debt": {
+          "toward": "protecting benefits",
+          "strength": "strong",
+          "text": "He urged Congress to strengthen Social Security and expand its benefits rather than reduce them.",
+          "quote": "I won’t stop fighting to save Social Security and ensure that future generations can receive the benefits they have paid into and have rightfully earned.",
+          "sourceUrl": "https://kennedy.house.gov/news/documentsingle.aspx?DocumentID=2473",
+          "agreement": "7/10"
+        },
+        "housing": {
+          "toward": "building more housing",
+          "strength": "lean",
+          "text": "His official issues page identifies increasing housing supply as a priority.",
+          "quote": "Making housing more affordable and increasing supply Providing incentives to rehabilitate historic buildings",
+          "sourceUrl": "https://kennedy.house.gov/issues/issue/?IssueID=14891",
+          "agreement": "4/10"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "He fought to restore funding to public schools and districts in need.",
+          "quote": "He led the fight to eliminate the Gap Elimination Adjustment (GEA), which unfairly slashed billions from our public schools.",
+          "sourceUrl": "https://kennedy.house.gov/issues/issue/?IssueID=73",
+          "agreement": "7/10"
+        },
+        "safety": {
+          "toward": "neither side",
+          "strength": "lean",
+          "text": "He supported COPS grants for police while also emphasizing community investment to address crime’s root causes.",
+          "quote": "Our police, sheriffs, and troopers put their lives on the line to keep our neighborhoods safe and these resources support that important work.",
+          "sourceUrl": "https://kennedy.house.gov/news/documentsingle.aspx?DocumentID=1118",
+          "agreement": "3/10"
+        },
+        "immigration": {
+          "toward": "more legal pathways",
+          "strength": "lean",
+          "text": "He opposes expanded immigration enforcement tactics and calls for a fairer, lawful, and humane system.",
+          "quote": "Instead of working to build a fairer immigration system, this administration has chosen to demonize immigrants and expand enforcement tactics that are reckless, dangerous, and inhumane.",
+          "sourceUrl": "https://kennedy.house.gov/issues/issue/?IssueID=15081",
+          "agreement": "7/10"
+        },
+        "guns": {
+          "toward": "stricter gun laws",
+          "strength": "strong",
+          "text": "He supports universal background checks and other restrictions on firearms and related equipment.",
+          "quote": "Pass universal background checks for all firearm purchases",
+          "sourceUrl": "https://kennedy.house.gov/issues/issue/?IssueID=15077",
+          "agreement": "8/10"
+        },
+        "abortion": {
+          "toward": "protecting access",
+          "strength": "strong",
+          "text": "He called for codifying Roe v. Wade and protecting abortion rights.",
+          "quote": "Together, we will codify Roe v. Wade into law and protect women’s reproductive freedoms.",
+          "sourceUrl": "https://kennedy.house.gov/news/documentsingle.aspx?DocumentID=1133",
+          "agreement": "9/10"
+        },
+        "gender": {
+          "toward": "rules based on gender identity",
+          "strength": "lean",
+          "text": "He voted against the Protection of Women and Girls in Sports Act, which would have based Title IX athletic rules on reproductive biology and genetics at birth.",
+          "quote": "Protection of Women and Girls in Sports Act",
+          "sourceUrl": "https://clerk.house.gov/Votes/202512?Title=sports",
+          "agreement": "3/10"
+        },
+        "health": {
+          "toward": "public coverage",
+          "strength": "strong",
+          "text": "He supports protecting and expanding the Affordable Care Act and investing in health services.",
+          "quote": "Protect and expand the Affordable Care Act",
+          "sourceUrl": "https://kennedy.house.gov/issues/issue/?IssueID=74",
+          "agreement": "9/10"
+        },
+        "energy": {
+          "toward": "faster emissions cuts",
+          "strength": "lean",
+          "text": "He supports legislation to cut carbon emissions and strengthen the green energy economy.",
+          "quote": "Rep. Kennedy is committed to advancing policies that address the urgent threat of climate change, safeguard our natural resources, and ensure a sustainable future for generations to come.",
+          "sourceUrl": "https://kennedy.house.gov/issues/issue/?IssueID=10177",
+          "agreement": "8/10"
+        },
+        "voting": {
+          "toward": "easier voting",
+          "strength": "lean",
+          "text": "His official issues page says he has voted to expand voting rights and is focused on protecting them.",
+          "quote": "Rep. Kennedy has fought for equality and social justice, voting to legalize marriage equality, expand voting rights, and give striking workers access to unemployment benefits.",
+          "sourceUrl": "https://kennedy.house.gov/issues/issue/?IssueID=15080",
+          "agreement": "6/10"
+        }
+      }
+    },
+    {
+      "name": "Dennis E. Hannon",
+      "party": "Republican; Conservative",
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "lean",
+          "text": "His campaign proposes tax rebates to provide relief to working-class families.",
+          "quote": "Provide relief to struggling working class families through tax rebates",
+          "sourceUrl": "https://www.hannonforcongress.com/",
+          "agreement": "3/3"
+        },
+        "safety": {
+          "toward": "more enforcement",
+          "strength": "lean",
+          "text": "He supports grants for cooperation between local and federal agencies under his safer-communities plan.",
+          "quote": "Support local and federal agency cooperation through grants",
+          "sourceUrl": "https://www.hannonforcongress.com/",
+          "agreement": "2/3"
+        },
+        "immigration": {
+          "toward": "stricter enforcement",
+          "strength": "strong",
+          "text": "His campaign calls for enforcing immigration and border policies, prioritizing public safety, and strengthening worksite compliance.",
+          "quote": "Enforce immigration and border protection policies with a priortization on serious public safety threats",
+          "sourceUrl": "https://www.hannonforcongress.com/",
+          "agreement": "2/3"
+        },
+        "gender": {
+          "toward": "rules based on sex at birth",
+          "strength": "strong",
+          "text": "His campaign says spaces and opportunities should be safeguarded based on biological similarities.",
+          "quote": "Keep the protected classes protected: Safeguard spaces and opportunities based on biological similiarities",
+          "sourceUrl": "https://www.hannonforcongress.com/",
+          "agreement": "3/3"
+        },
+        "energy": {
+          "toward": "cheaper energy",
+          "strength": "strong",
+          "text": "His campaign proposes barring state and local governments from limiting energy sources and reducing red tape for energy extraction leases.",
+          "quote": "Prohibit state and local governments from banning or limiting specific energy sources",
+          "sourceUrl": "https://www.hannonforcongress.com/",
+          "agreement": "3/3"
+        }
+      }
+    }
+  ],
+  "sources": "kennedy.house.gov · clerk.house.gov · hannonforcongress.com",
+  "checkedAt": "2026-10-01",
+  "reviewed": false
+}
