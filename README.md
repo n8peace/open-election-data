@@ -10,7 +10,7 @@
 
 Candidates and ballot measures for the Nov 3, 2026 U.S. election, each placed on the same 18 issues (taxes, housing, abortion, guns, immigration and more). Every position names a side of the issue, how strongly, a one-sentence summary, an exact quote and the page it came from.
 
-**Coverage:** every race in California, plus U.S. House and Senate races in a growing number of states ([live count](https://n8peace.github.io/open-election-data/v1/index.json)). Research updates several times a day until Election Day.
+**Coverage:** every race in California, plus U.S. House and Senate races in all 50 states ([live count](https://n8peace.github.io/open-election-data/v1/index.json)). Research updates several times a day until Election Day.
 
 It's a free, open dataset of where candidates stand, with a checkable quote behind every position, built in the open.
 
