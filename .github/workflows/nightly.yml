@@ -23,7 +23,7 @@ jobs:
           node-version: 24
           cache: npm
       - run: npm ci
-      - run: sudo apt-get install -y -qq poppler-utils
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
       - name: Re-verify every quote
         id: check
         run: |
