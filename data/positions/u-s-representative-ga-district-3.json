@@ -31,7 +31,8 @@
           "text": "Keller says she is committed to raising the minimum wage and protecting labor rights.",
           "quote": "Maura is 100% committed to raising the minimum wage. She’s committed to protecting Labor rights, recently being endorsed by the Georgia AFL-CIO, to sourcing higher paying jobs, and to investing in affordable housing.",
           "sourceUrl": "https://maurakeller.com/issues",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "reported"
         },
         "debt": {
           "toward": "protecting benefits",
@@ -39,7 +40,8 @@
           "text": "Keller supports stronger Social Security payments and says seniors should receive the benefits they paid for, while also calling for reform.",
           "quote": "Maura will demand stronger Social Security payments that keep pace with inflation to ensure every senior lives a healthy, fulfilling life. At the same time, she will work across the aisle to ensure real reform, because she will not risk letting seniors live without getting what they paid in.",
           "sourceUrl": "https://maurakeller.com/issues",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "reported"
         },
         "housing": {
           "toward": "building more housing",
@@ -47,7 +49,8 @@
           "text": "She suggested examining tiny-home communities to help seniors downsize.",
           "quote": "We need to look at tiny home communities so our seniors can downsize.",
           "sourceUrl": "https://apga.substack.com/p/interview-with-maura-keller",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "own"
         },
         "schools": {
           "toward": "district public schools",
@@ -55,7 +58,8 @@
           "text": "Keller says she wants public schools funded at the highest levels.",
           "quote": "I want our public schools funded at the highest levels. No child should miss out on a stellar education due to their zip code.",
           "sourceUrl": "https://apga.substack.com/p/interview-with-maura-keller",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "own"
         },
         "immigration": {
           "toward": "neither side",
@@ -63,7 +67,8 @@
           "text": "Keller supports stronger enforcement against illegal immigration alongside streamlined legal pathways for families.",
           "quote": "Maura will push for stronger enforcement to stop illegal immigration while streamlining legal pathways for hardworking families.",
           "sourceUrl": "https://maurakeller.com/issues",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "reported"
         },
         "guns": {
           "toward": "stricter gun laws",
@@ -71,7 +76,8 @@
           "text": "Keller supports bans on several types of firearms and devices, red flag laws, and expanded background checks.",
           "quote": "We must ban assault rifles, ghost guns, bump stock, and mass-capacity magazines. We must have red flag laws, expand background checks, and improve mental health in our communities.",
           "sourceUrl": "https://apga.substack.com/p/interview-with-maura-keller",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "own"
         },
         "abortion": {
           "toward": "protecting access",
@@ -79,7 +85,8 @@
           "text": "Keller says she supports federal protections for women’s reproductive health and rights.",
           "quote": "We must bring it back to the federal level. We won’t be able to codify Roe vs. Wade but we can find ways to codify women’s reproductive health and rights.",
           "sourceUrl": "https://apga.substack.com/p/interview-with-maura-keller",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "own"
         },
         "health": {
           "toward": "public coverage",
@@ -87,7 +94,8 @@
           "text": "Keller says she would restore Medicare subsidies and work to close the insurance gap.",
           "quote": "Maura will vote to restore Medicare subsidies and fight to close the insurance gap when in office. She knows just how hard and expensive care can be in her district",
           "sourceUrl": "https://maurakeller.com/issues",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "reported"
         },
         "energy": {
           "toward": "faster emissions cuts",
@@ -95,7 +103,8 @@
           "text": "She supports investing in clean energy and practical climate solutions to address climate-related risks.",
           "quote": "Maura stands for a cleaner, healthier District 3, where our families, children, and jobs are protected from climate challenges.",
           "sourceUrl": "https://maurakeller.com/issues",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "reported"
         }
       }
     },
@@ -109,7 +118,8 @@
           "text": "Jack said he would lower taxes, expand the 2017 tax cuts and reduce spending.",
           "quote": "Lowering taxes and expanding President Trump’s middle class tax cuts, reducing spending and working towards a balanced budget",
           "sourceUrl": "https://brianjack.com/issues/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "immigration": {
           "toward": "stricter enforcement",
@@ -117,7 +127,8 @@
           "text": "Jack said he would finish the border wall, fund ICE and Border Patrol, and deport criminal immigrants.",
           "quote": "finishing the border wall, funding for ICE and border patrol, deporting criminal illegals",
           "sourceUrl": "https://brianjack.com/issues/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "gender": {
           "toward": "rules based on sex at birth",
@@ -125,7 +136,8 @@
           "text": "Jack voted for the Protection of Women and Girls in Sports Act, which bases eligibility rules on sex at birth.",
           "quote": "Protection of Women and Girls in Sports Act",
           "sourceUrl": "https://clerk.house.gov/Votes/202512",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "record"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -133,7 +145,8 @@
           "text": "Jack said he would expand American energy production, including oil and natural gas.",
           "quote": "unleashing American energy including oil and natural gas",
           "sourceUrl": "https://brianjack.com/issues/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "voting": {
           "toward": "tighter rules",
@@ -141,7 +154,8 @@
           "text": "Jack voted for the SAVE Act, which would tighten citizenship requirements for voter registration.",
           "quote": "Vote Question: On Passage SAVE Act Vote Type: Yea-And-Nay Status: Passed",
           "sourceUrl": "https://clerk.house.gov/Votes/2025102?BillNum=H.R.22&RollCallNum=102",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "record"
         }
       }
     }
