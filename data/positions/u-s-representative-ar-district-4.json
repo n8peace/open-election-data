@@ -31,7 +31,8 @@
           "text": "He criticized the Inflation Reduction Act for raising taxes and supported tax repeal legislation.",
           "quote": "The misleadingly named “Inflation Reduction Act,” (IRA) will raise taxes on every income bracket, hire 87,000 additional IRS agents to enforce those taxes, cut jobs, reduce medical innovation opportunities, and certainly worsen inflation.",
           "sourceUrl": "https://westerman.house.gov/issues/tax-relief",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "wages": {
           "toward": "market-set wages",
@@ -39,7 +40,8 @@
           "text": "He voted against the Raise the Wage Act, which would have raised the federal minimum wage.",
           "quote": "Vote Question: On Passage\n\nRaise the Wage Act\n\nVote Type: Recorded Vote",
           "sourceUrl": "https://clerk.house.gov/Votes/2019496",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "record"
         },
         "safety": {
           "toward": "more enforcement",
@@ -47,7 +49,8 @@
           "text": "Westerman said rising violent crime makes support for law-enforcement officers increasingly critical.",
           "quote": "With violent crime on the rise, including crime against police, it's becoming more and more critical that we support the men and women at the forefront of keeping us safe.",
           "sourceUrl": "https://westerman.house.gov/issues/security",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         },
         "immigration": {
           "toward": "stricter enforcement",
@@ -55,7 +58,8 @@
           "text": "He supported strict border security and voted for the Secure the Border Act.",
           "quote": "securing our communities through strict border security, unleashing American energy, and saving billions of American taxpayer dollars",
           "sourceUrl": "https://westerman.house.gov/media-center/press-releases/westerman-statement-president-trumps-joint-address",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         },
         "guns": {
           "toward": "fewer restrictions",
@@ -63,7 +67,8 @@
           "text": "Westerman voted No on the Bipartisan Background Checks Act.",
           "quote": "Vote Question: On Passage Bipartisan Background Checks Act Vote Type: Yea-And-Nay Status: Passed",
           "sourceUrl": "https://clerk.house.gov/Votes/202175",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "record"
         },
         "abortion": {
           "toward": "restricting abortion",
@@ -71,7 +76,8 @@
           "text": "He praised the reversal of Roe v. Wade and said abortion is not a right.",
           "quote": "Life is a right. Abortion is not. Our system of government is not based on unelected judges creating a right that doesn’t exist in the Constitution.",
           "sourceUrl": "https://westerman.house.gov/media-center/press-releases/westerman-reacts-reversal-roe-v-wade",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         },
         "gender": {
           "toward": "rules based on sex at birth",
@@ -79,7 +85,8 @@
           "text": "He voted for the Protection of Women and Girls in Sports Act.",
           "quote": "Protection of Women and Girls in Sports Act",
           "sourceUrl": "https://clerk.house.gov/Votes/2023192",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "record"
         },
         "cannabis": {
           "toward": "keeping it illegal",
@@ -87,7 +94,8 @@
           "text": "He voted against the MORE Act, which would have federally decriminalized marijuana.",
           "quote": "Vote Question: On Passage\n\nMORE Act\n\nVote Type: Yea-And-Nay",
           "sourceUrl": "https://clerk.house.gov/Votes/2022107",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "record"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -95,7 +103,8 @@
           "text": "He supported the Lower Energy Costs Act and backed expanded domestic energy production.",
           "quote": "I rise today in support of H.R. 1, the Lower Energy Costs Act.",
           "sourceUrl": "https://naturalresources.house.gov/news/documentsingle.aspx?DocumentID=413008",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         },
         "voting": {
           "toward": "tighter rules",
@@ -103,7 +112,8 @@
           "text": "He voted for the SAVE Act, which would add documentary citizenship checks to federal voter registration.",
           "quote": "Vote Question: On Passage\n\nBill Title & Description: SAVE Act\n\nVote Type: Yea-And-Nay",
           "sourceUrl": "https://clerk.house.gov/Votes/MemberVotes?BillNum=H.R.22&RollCallNum=102&Session=1st",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "record"
         }
       }
     },
@@ -117,7 +127,8 @@
           "text": "He proposes a tax on the wealthiest Americans to help address homelessness.",
           "quote": "And by adding a small tax on the super-rich—the top 0.1%—we can help end homelessness for good.",
           "sourceUrl": "https://web.archive.org/web/20261006170725/https://russellforar.com/on-the-issues",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "wages": {
           "toward": "higher wage floors",
@@ -125,7 +136,8 @@
           "text": "He says laws should raise wages and treat workers fairly.",
           "quote": "We need fair laws that raise wages, make sure everyone gets equal pay for equal work, and treat all workers fairly.",
           "sourceUrl": "https://web.archive.org/web/20261006170725/https://russellforar.com/on-the-issues",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "guns": {
           "toward": "neither side",
@@ -133,7 +145,8 @@
           "text": "He says he supports both Second Amendment rights and unspecified common-sense reforms.",
           "quote": "I am committed to preserving our 2nd Amendment rights while fighting for common sense reform.",
           "sourceUrl": "https://web.archive.org/web/20261014213242/https://russellforar.com/",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "own"
         },
         "abortion": {
           "toward": "protecting access",
@@ -141,7 +154,8 @@
           "text": "In a 2022 interview, he said women should be able to control their own bodies.",
           "quote": "Russell says he supports the rights of transgender people and women to control their own bodies.",
           "sourceUrl": "https://www.4029tv.com/article/james-rus-russell-on-the-record/38486886",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "reported"
         },
         "health": {
           "toward": "public coverage",
@@ -149,7 +163,8 @@
           "text": "He supports expanding Medicare and moving toward health care for everyone.",
           "quote": "We can fix this by expanding Medicare and moving toward healthcare for everyone.",
           "sourceUrl": "https://web.archive.org/web/20261006170725/https://russellforar.com/on-the-issues",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "energy": {
           "toward": "faster emissions cuts",
@@ -157,7 +172,8 @@
           "text": "He supports investing in a clean energy future that uses multiple sources.",
           "quote": "We need to invest in a clean energy future that uses multiple sources to stay safe and strong.",
           "sourceUrl": "https://web.archive.org/web/20261006170725/https://russellforar.com/on-the-issues",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "own"
         }
       }
     }
