@@ -18,7 +18,8 @@
           "text": "A Yes vote authorizes bonds and a property tax levy to fund school facility repairs and upgrades.",
           "quote": "If approved by local voters, Measure O would authorize up to $115 million in bonds and levy up to $30 per $100,000 of assessed (not market) value while the bonds are outstanding.",
           "sourceUrl": "https://www.reedschools.org/school-board/local-funding-measure",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "reported"
         },
         "schools": {
           "toward": "district public schools",
@@ -26,7 +27,8 @@
           "text": "A Yes vote provides funding for repairs, upgrades, and other improvements at Reed Union School District schools.",
           "quote": "If approved, Measure O funding would be used to:",
           "sourceUrl": "https://www.reedschools.org/school-board/local-funding-measure",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "reported"
         }
       }
     },
@@ -39,7 +41,8 @@
           "text": "A No vote does not authorize the bonds or the associated property tax levy.",
           "quote": "If approved by local voters, Measure O would authorize up to $115 million in bonds and levy up to $30 per $100,000 of assessed (not market) value while the bonds are outstanding.",
           "sourceUrl": "https://www.reedschools.org/school-board/local-funding-measure",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "record"
         },
         "schools": {
           "toward": "school choice",
@@ -47,7 +50,8 @@
           "text": "A No vote does not provide Measure O funding for improvements at Reed Union School District schools.",
           "quote": "If approved, Measure O funding would be used to:",
           "sourceUrl": "https://www.reedschools.org/school-board/local-funding-measure",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "reported"
         }
       }
     }

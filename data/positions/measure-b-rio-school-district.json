@@ -18,7 +18,8 @@
           "text": "A Yes vote would approve Measure B, but the provided text does not state whether it would affect taxes or services.",
           "quote": "Attached is information regarding Measure B that will be on the November 3rd ballot.",
           "sourceUrl": "https://www.rioschools.org/latest-news",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "reported"
         },
         "schools": {
           "toward": "neither side",
@@ -26,7 +27,8 @@
           "text": "A Yes vote would approve Measure B, but the provided text does not state whether it would affect school choice or district public schools.",
           "quote": "Attached is information regarding Measure B that will be on the November 3rd ballot.",
           "sourceUrl": "https://www.rioschools.org/latest-news",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "reported"
         }
       }
     },
@@ -39,7 +41,8 @@
           "text": "A No vote would reject Measure B, but the provided text does not state what tax or service policy would remain.",
           "quote": "Attached is information regarding Measure B that will be on the November 3rd ballot.",
           "sourceUrl": "https://www.rioschools.org/latest-news",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "reported"
         },
         "schools": {
           "toward": "neither side",
@@ -47,7 +50,8 @@
           "text": "A No vote would reject Measure B, but the provided text does not state what school policy would remain.",
           "quote": "Attached is information regarding Measure B that will be on the November 3rd ballot.",
           "sourceUrl": "https://www.rioschools.org/latest-news",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "reported"
         }
       }
     }
