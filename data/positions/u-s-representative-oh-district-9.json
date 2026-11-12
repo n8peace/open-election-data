@@ -31,7 +31,8 @@
           "text": "Kaptur voted for the Inflation Reduction Act, which raised a minimum tax on large corporations and funded health, energy, and other programs.",
           "quote": "By closing tax loopholes and establishing a minimum corporate tax applied only to the 150 largest corporations, the Inflation Reduction Act lowers healthcare and energy costs, expands American energy production, and reduces the federal deficit by $300 billion without raising taxes on small businesses or households making less than $400,000.",
           "sourceUrl": "https://kaptur.house.gov/media-center/press-releases/inflation-reduction-act-kaptur-votes-lower-healthcare-and-energy-costs",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "reported"
         },
         "wages": {
           "toward": "higher wage floors",
@@ -39,7 +40,8 @@
           "text": "She cosponsored the Raise the Wage Act of 2025, which would increase the federal minimum wage.",
           "quote": "Marcy Kaptur (OH); Maxine Dexter (OR); Jared Huffman (CA)",
           "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr2743ih",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "record"
         },
         "trade": {
           "toward": "tariffs",
@@ -71,7 +73,8 @@
           "text": "Kaptur submitted a funding request for a Toledo Public Schools campus revitalization project.",
           "quote": "Toledo Public Schools acquired the Scott Park Campus, launching an ambitious project to transform it into a hub for education, residential living, and recreation.",
           "sourceUrl": "https://kaptur.house.gov/services/fy2025-community-project-funding-requests",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "reported"
         },
         "safety": {
           "toward": "more enforcement",
@@ -79,7 +82,8 @@
           "text": "Kaptur voted against a funding measure she said cut local law-enforcement funding and argued that police need more resources.",
           "quote": "Less money for police means fewer officers on the streets and fewer resources to keep our communities safe.",
           "sourceUrl": "https://kaptur.house.gov/media-center/press-releases/kaptur-statement-senate-passage-government-funding-legislation",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "own"
         },
         "immigration": {
           "toward": "neither side",
@@ -95,7 +99,8 @@
           "text": "Kaptur cosponsored the Bipartisan Background Checks Act of 2023.",
           "quote": "To require a background check for every firearm sale.",
           "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-118hr715ih",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "record"
         },
         "cannabis": {
           "toward": "legalizing it",
@@ -103,7 +108,8 @@
           "text": "Kaptur voted for House passage of the MORE Act in 2020.",
           "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay",
           "sourceUrl": "https://clerk.house.gov/Votes/2020235",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "record"
         },
         "health": {
           "toward": "public coverage",
@@ -111,7 +117,8 @@
           "text": "Her official health-care page promotes the Affordable Care Act and public programs such as Medicaid to expand affordable coverage.",
           "quote": "The Affordable Care Act, which was signed into law on March 23, 2010, puts consumers in charge by ensuring access to quality, affordable health care.",
           "sourceUrl": "https://kaptur.house.gov/issues/health-care",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "own"
         },
         "energy": {
           "toward": "neither side",
@@ -127,7 +134,8 @@
           "text": "Kaptur cosponsored the John R. Lewis Voting Rights Advancement Act of 2025.",
           "quote": "To amend the Voting Rights Act of 1965 to revise the criteria for determining which States and political subdivisions are subject to section 4 of the Act, and for other purposes.",
           "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr14ih",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "record"
         }
       }
     },
@@ -141,7 +149,8 @@
           "text": "Merrin says he led efforts to cut Ohio’s income tax and calls himself a strong advocate for lower taxes.",
           "quote": "He is a strong advocate for lower taxes, simplifying the tax code, and promoting transparency.",
           "sourceUrl": "https://www.derekmerrin.com/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "reported"
         },
         "housing": {
           "toward": "building more housing",
@@ -149,7 +158,8 @@
           "text": "His campaign says he pushed through a law delaying property-tax increases on subdivided lots until development or sale.",
           "quote": "After a five-year push, Merrin pushed through the Affordable Homebuilding & Housing Act, which blocks property tax increases on subdivided lots until the home is built or lot is sold.",
           "sourceUrl": "https://www.derekmerrin.com/",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "reported"
         },
         "schools": {
           "toward": "school choice",
@@ -157,7 +167,8 @@
           "text": "His campaign says he led efforts to expand school choice.",
           "quote": "Derek successfully led efforts to cut the state's income tax, reduce regulations, and expand school choice.",
           "sourceUrl": "https://www.derekmerrin.com/",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "reported"
         },
         "safety": {
           "toward": "more enforcement",
@@ -165,7 +176,8 @@
           "text": "Merrin said he would stand by law enforcement and work to ensure police have the resources and manpower to protect residents.",
           "quote": "I will stand by our law enforcement officers. I’m honored to have their support and look forward to continuing to work to ensure they have the resources and manpower necessary",
           "sourceUrl": "https://www.derekmerrin.com/merrin-sweeps-toledo-law-enforcement-endorsements",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         },
         "immigration": {
           "toward": "stricter enforcement",
@@ -173,7 +185,8 @@
           "text": "Merrin said he would champion election integrity and secure the border, and supports requiring proof of citizenship to vote in federal elections.",
           "quote": "I will continue to champion the integrity of our elections and the need to secure our border to ensure the safety of Northwest Ohio families.",
           "sourceUrl": "https://www.derekmerrin.com/merrin-statement-on-kaptur-vote-against-election-integrity",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         },
         "guns": {
           "toward": "fewer restrictions",
@@ -181,7 +194,8 @@
           "text": "Merrin cosponsored and voted for Ohio legislation allowing qualifying adults to carry concealed handguns without a license.",
           "quote": "a right of a qualifying adult to carry a concealed handgun in the same manner as if the person was a licensee.",
           "sourceUrl": "https://ohiohouse.gov/legislation/134/sb215",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "record"
         },
         "abortion": {
           "toward": "restricting abortion",
@@ -189,7 +203,8 @@
           "text": "Merrin cosponsored Ohio’s bill prohibiting abortion after a detectable fetal heartbeat and voted for it in the House.",
           "quote": "to enact the Human Rights and Heartbeat Protection Act.",
           "sourceUrl": "https://ohiohouse.gov/legislation/133/sb23",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "record"
         },
         "gender": {
           "toward": "rules based on sex at birth",
@@ -197,7 +212,8 @@
           "text": "Merrin cosponsored Ohio’s SAFE Act and Save Women’s Sports Act, which restrict gender transition services for minors and require school sports teams to be designated by sex.",
           "quote": "to enact the Save Women's Sports Act to require schools, state institutions of higher education, and private colleges to designate separate single-sex teams and sports for each sex.",
           "sourceUrl": "https://ohiohouse.gov/legislation/135/hb68",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "record"
         },
         "voting": {
           "toward": "tighter rules",
@@ -205,7 +221,8 @@
           "text": "Merrin championed Ohio’s photo ID requirement law and said he would support proof-of-citizenship requirements for federal elections.",
           "quote": "As one of the leaders of Ohio's photo ID requirement law, once elected to the U.S. House of Representatives, I will continue to champion the integrity of our elections",
           "sourceUrl": "https://www.derekmerrin.com/merrin-statement-on-kaptur-vote-against-election-integrity",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         }
       }
     },
@@ -219,7 +236,8 @@
           "text": "His campaign platform calls for lowering and simplifying taxes for working families and small businesses.",
           "quote": "Lower and simplify taxes for working families and small businesses",
           "sourceUrl": "https://www.ballotready.org/people/matthew-althaus",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "reported"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -227,7 +245,8 @@
           "text": "His campaign platform opposes federal mandates that raise energy prices.",
           "quote": "Oppose federal mandates that raise energy prices",
           "sourceUrl": "https://www.ballotready.org/people/matthew-althaus",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "reported"
         }
       }
     }
