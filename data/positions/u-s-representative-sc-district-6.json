@@ -31,7 +31,8 @@
           "text": "He criticized Trump’s tariffs, saying they raised prices for consumers.",
           "quote": "Trump’s tariffs have sent prices soaring on everything from groceries to home goods.",
           "sourceUrl": "https://clyburn.house.gov/trumps-second-first-year-in-office/",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         },
         "debt": {
           "toward": "protecting benefits",
@@ -39,7 +40,8 @@
           "text": "He said his priority during debt negotiations was protecting Social Security, Medicare, and Medicaid beneficiaries.",
           "quote": "my bottom line has been to protect Social Security, Medicare and Medicaid.",
           "sourceUrl": "https://clyburn.house.gov/clyburn-floor-statement-on-sen-reids-budget-control-act/",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         },
         "immigration": {
           "toward": "more legal pathways",
@@ -47,7 +49,8 @@
           "text": "Backed a citizenship pathway for undocumented immigrants.",
           "quote": "House Democrats support comprehensive immigration reform that includes smart border security",
           "sourceUrl": "https://clyburn.house.gov/justice-all/",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "reported"
         },
         "guns": {
           "toward": "stricter gun laws",
@@ -55,7 +58,8 @@
           "text": "He cosponsored legislation to ban assault weapons, bump stocks, and certain high-capacity magazines.",
           "quote": "ban assault weapons, bump stocks and equivalent devices",
           "sourceUrl": "https://www.govinfo.gov/content/pkg/CRI-2021/html/CRI-2021-CLYBURN-JAMES-E-7456F.htm",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "record"
         },
         "abortion": {
           "toward": "protecting access",
@@ -63,7 +67,8 @@
           "text": "He cosponsored legislation to limit restrictions on abortion services and protect patients’ and providers’ rights.",
           "quote": "limit restrictions on provision of abortion services to protect women’s",
           "sourceUrl": "https://www.govinfo.gov/content/pkg/CRI-2021/html/CRI-2021-CLYBURN-JAMES-E-7456F.htm",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "record"
         },
         "health": {
           "toward": "public coverage",
@@ -71,7 +76,8 @@
           "text": "He opposed Medicaid cuts and urged policies to keep people covered through public health programs.",
           "quote": "Policies in Trump’s “One Big Beautiful Bill” cut nearly $1 trillion from Medicaid",
           "sourceUrl": "https://clyburn.house.gov/fighting-for-your-health-care/",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         }
       }
     },
@@ -85,7 +91,8 @@
           "text": "He says he would support fiscally conservative bills to cut spending and bring down the national debt.",
           "quote": "Vote for bills in Congress that are fiscally conservative that cut spending, reduce inflation, and bring down the national debt",
           "sourceUrl": "https://www.johnpeterson.org/new-page-2",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         },
         "safety": {
           "toward": "more enforcement",
@@ -93,7 +100,8 @@
           "text": "He says he would champion tough-on-crime bills to protect law-abiding citizens and keep violent criminals off the street.",
           "quote": "Champion bills that are tough on crime that protect law abiding citizens and keep violent criminals off the street",
           "sourceUrl": "https://www.johnpeterson.org/new-page-2",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         },
         "voting": {
           "toward": "tighter rules",
@@ -101,7 +109,8 @@
           "text": "He supports elections that require voter identification.",
           "quote": "Fight for Free and Fair Elections that require Voter I.D.",
           "sourceUrl": "https://www.johnpeterson.org/new-page-2",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         }
       }
     }

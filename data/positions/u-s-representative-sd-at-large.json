@@ -31,7 +31,8 @@
           "text": "She says she would remove tariffs on critical farm inputs to lower costs.",
           "quote": "Remove tariffs on critical farm inputs to lower costs.",
           "sourceUrl": "https://www.nikkigforsd.com/services-8",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         },
         "housing": {
           "toward": "building more housing",
@@ -39,7 +40,8 @@
           "text": "She says increasing the housing supply is an important part of addressing housing affordability.",
           "quote": "increasing the supply of homes is an important part of the solution.",
           "sourceUrl": "https://www.nikkigforsd.com/post/the-rising-cost-of-having-a-place-to-call-home",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         },
         "schools": {
           "toward": "district public schools",
@@ -47,7 +49,8 @@
           "text": "She opposed proposed federal cuts to South Dakota public education.",
           "quote": "These draconian cuts to public education put the future of South Dakota’s children on the line.",
           "sourceUrl": "https://www.nikkigforsd.com/post/nikki-comments-on-u-s-house-s-federal-education-budget-proposal",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         },
         "abortion": {
           "toward": "protecting access",
@@ -55,7 +58,8 @@
           "text": "She says bodily autonomy requires keeping government out of the doctor's office and supports reproductive health access.",
           "quote": "I also believe that without bodily autonomy, your right to keep the Government out of the doctor's office becomes null & void.",
           "sourceUrl": "https://www.nikkigforsd.com/services-8",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         },
         "health": {
           "toward": "public coverage",
@@ -63,7 +67,8 @@
           "text": "She supports protecting Medicare and Medicaid, expanding Medicare for nursing-home funding, and restoring Marketplace tax credits.",
           "quote": "We can make health care affordable by protecting Medicare, Medicaid, and restoring the Marketplace tax credits that keep private market coverage in reach for thousands of South Dakotans.",
           "sourceUrl": "https://www.nikkigforsd.com/services-8",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         },
         "voting": {
           "toward": "easier voting",
@@ -71,7 +76,8 @@
           "text": "She supports accommodations for in-person and mail-in voting and criticized federal action restricting mail voting.",
           "quote": "Supporting the need for accommodations to be made for in-person and mail-in voting.",
           "sourceUrl": "https://www.nikkigforsd.com/services-8",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         }
       }
     },
@@ -85,7 +91,8 @@
           "text": "In announcing his congressional campaign, Jackley said he would work to reduce government and cut taxes.",
           "quote": "reduce the size of government, and cut taxes for hard working Americans.",
           "sourceUrl": "https://martyjackley.com/news/the-conservative-choice",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "safety": {
           "toward": "more enforcement",
@@ -93,7 +100,8 @@
           "text": "Jackley said he supports law enforcement and identified public safety as a priority for Congress.",
           "quote": "I am standing behind him to support law enforcement and keep our country safe.",
           "sourceUrl": "https://martyjackley.com/news/the-conservative-choice",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "immigration": {
           "toward": "stricter enforcement",
@@ -101,7 +109,8 @@
           "text": "Jackley said he worked to secure the southern border and has backed border security as a congressional priority.",
           "quote": "I have worked with President Trump to secure our southern border, stop the flow of dangerous drugs into our communities",
           "sourceUrl": "https://martyjackley.com/news/the-conservative-choice",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "guns": {
           "toward": "fewer restrictions",
@@ -109,7 +118,8 @@
           "text": "Jackley’s campaign described his record as defending the Second Amendment.",
           "quote": "Jackley has a proven conservative record defending life, the 2nd Amendment, and property rights.",
           "sourceUrl": "https://martyjackley.com/news/the-conservative-choice",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "reported"
         }
       }
     }
