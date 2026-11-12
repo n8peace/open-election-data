@@ -1,5 +1,6 @@
 // Add agreed quote-voice labels to existing positions without changing claims.
 // npm run backfill:voice -- --state CA --limit 5 --dry-run
+// Parallel runs: give each one --shard 1/4, 2/4, ... so no two touch the same file.
 import { readdir, readFile, rename, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { quoteIsInSource } from '../lib/ai/research';
@@ -7,14 +8,23 @@ import { POSITIONS_DIR, PositionsFileSchema, type PositionsFileInput } from '../
 import { classifyVoice, pendingStances, sourceCache } from '../lib/research/voice';
 import { isBallotQuestion } from '../lib/research/measure';
 
+function parseShard(value: string | undefined): [number, number] {
+  const m = /^(\d+)\/(\d+)$/.exec(value ?? '');
+  const k = Number(m?.[1]);
+  const n = Number(m?.[2]);
+  if (!m || n < 1 || k < 1 || k > n) throw new Error('--shard needs k/n, like 2/4');
+  return [k, n];
+}
+
 function options(args: string[]) {
-  const out: { limit?: number; state?: string; dryRun: boolean; backend: string } = { dryRun: false, backend: 'codex' };
+  const out: { limit?: number; state?: string; shard?: [number, number]; dryRun: boolean; backend: string } = { dryRun: false, backend: 'codex' };
   for (let i = 0; i < args.length; i++) {
     const arg = args[i];
     if (arg === '--dry-run') out.dryRun = true;
     else if (arg === '--limit') out.limit = Number(args[++i]);
     else if (arg === '--state') out.state = args[++i]?.toLowerCase();
     else if (arg === '--backend') out.backend = args[++i];
+    else if (arg === '--shard') out.shard = parseShard(args[++i]);
     else throw new Error(`Unknown argument: ${arg}`);
   }
   if (out.limit !== undefined && (!Number.isSafeInteger(out.limit) || out.limit < 1)) throw new Error('--limit needs a positive integer');
@@ -26,7 +36,10 @@ function options(args: string[]) {
 async function main() {
   const opts = options(process.argv.slice(2));
   const loadSource = sourceCache();
-  const files = (await readdir(POSITIONS_DIR)).filter((f) => f.endsWith('.json') && !f.startsWith('_')).sort();
+  const files = (await readdir(POSITIONS_DIR))
+    .filter((f) => f.endsWith('.json') && !f.startsWith('_'))
+    .sort()
+    .filter((_, i) => !opts.shard || i % opts.shard[1] === opts.shard[0] - 1);
   let examined = 0;
   let labeled = 0;
   for (const file of files) {
