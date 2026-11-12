@@ -31,7 +31,8 @@
           "text": "Reschenthaler championed the One Big Beautiful Bill to make the 2017 Trump tax cuts permanent.",
           "quote": "Prevents a 22 percent tax hike on working families by making the 2017 Trump tax cuts permanent",
           "sourceUrl": "https://reschenthaler.house.gov/media/press-releases/reschenthaler-statement-on-the-one-big-beautiful-bill",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "reported"
         },
         "debt": {
           "toward": "protecting benefits",
@@ -39,7 +40,8 @@
           "text": "He says he is committed to protecting Social Security and Medicare and opposes privatizing them.",
           "quote": "I do not support efforts to privatize Social Security or dismantle Medicare.",
           "sourceUrl": "https://reschenthaler.house.gov/issues/seniors-social-security-and-medicare",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         },
         "immigration": {
           "toward": "stricter enforcement",
@@ -55,7 +57,8 @@
           "text": "He describes gun ownership as a fundamental freedom and opposes eroding the Second Amendment.",
           "quote": "I am committed to protecting the rights of law-abiding citizens to purchase, possess, and use firearms.",
           "sourceUrl": "https://reschenthaler.house.gov/issues/values",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "abortion": {
           "toward": "restricting abortion",
@@ -63,7 +66,8 @@
           "text": "He identifies as pro-life and says there is a shared responsibility to protect unborn children.",
           "quote": "We share a responsibility to protect the lives of unborn children.",
           "sourceUrl": "https://reschenthaler.house.gov/issues/values",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "gender": {
           "toward": "rules based on sex at birth",
@@ -71,7 +75,8 @@
           "text": "He backed the Protection of Women and Girls in Sports Act to bar transgender athletes from women's sports.",
           "quote": "I am proud to support the Protection of Women and Girls in Sports Act and will continue fighting to ensure future generations of female athletes compete on a level playing field.",
           "sourceUrl": "https://reschenthaler.house.gov/media/press-releases/reschenthaler-applauds-house-passage-of-protection-of-women-and-girls-in-sports-act",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         },
         "health": {
           "toward": "private insurance",
@@ -79,7 +84,8 @@
           "text": "He favors free-market solutions and competition over government mandates for health coverage.",
           "quote": "free market solutions and competitive innovation, not government mandates, will provide coverage options",
           "sourceUrl": "https://reschenthaler.house.gov/issues/health-care",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         },
         "voting": {
           "toward": "tighter rules",
@@ -87,7 +93,8 @@
           "text": "He joined a statement objecting to Pennsylvania's 2020 mail-in ballot practices, refusing to back electors from what he called an inaccurate vote count.",
           "quote": "Until these unlawful practices are acknowledged and corrected, we cannot agree to support electors chosen based upon an inaccurate total vote count.",
           "sourceUrl": "https://reschenthaler.house.gov/media/press-releases/pennsylvania-members-congress-release-statement-regarding-certification",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         }
       }
     }
