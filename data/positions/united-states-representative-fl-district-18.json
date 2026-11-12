@@ -31,7 +31,8 @@
           "text": "His campaign says economic growth starts with lower taxes and says he opposes tax increases on families and small businesses.",
           "quote": "Congressman Scott Franklin is a businessman who understands economic growth starts with lower taxes, responsible spending, and a government that gets out of the way.",
           "sourceUrl": "https://www.votescottfranklin.com/services",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "reported"
         },
         "wages": {
           "toward": "market-set wages",
@@ -39,7 +40,8 @@
           "text": "He voted against the PRO Act and opposed mandatory union contracts and dues.",
           "quote": "Federal law already protects employees’ right to organize, and I respect that right.",
           "sourceUrl": "https://franklin.house.gov/news/documentsingle.aspx?DocumentID=320",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "own"
         },
         "trade": {
           "toward": "tariffs",
@@ -47,7 +49,8 @@
           "text": "He said he supports tariffs on foreign goods while seeking fairer trade negotiations.",
           "quote": "We really have not had free and fair trade in our country for a long time. I think what the president is trying to do is try to restore a sense of fairness nad balance in how we trade with foreign countries.",
           "sourceUrl": "https://www.wokc.com/news/news-cast-6-5/",
-          "agreement": "3/10"
+          "agreement": "3/10",
+          "voice": "own"
         },
         "debt": {
           "toward": "neither side",
@@ -55,7 +58,8 @@
           "text": "He backed a debt reduction bill that he said would save $4.8 trillion over ten years, while also saying it would make no cuts to Medicare or Social Security.",
           "quote": "It saves an estimated $4.8 trillion over ten years, making it the largest spending reduction in American history.",
           "sourceUrl": "https://franklin.house.gov/news/documentsingle.aspx?DocumentID=257",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "reported"
         },
         "schools": {
           "toward": "school choice",
@@ -63,7 +67,8 @@
           "text": "He said he supports school choice including vouchers, tax credits, charter schools, private schools, and home schools.",
           "quote": "I support school choice, including voucher programs, tax credits, charter schools, private schools, and home schools.",
           "sourceUrl": "https://ivoterguide.com/candidate/53498/race/5126/election/1254",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "reported"
         },
         "safety": {
           "toward": "more enforcement",
@@ -71,7 +76,8 @@
           "text": "He said strict enforcement of existing laws is key to addressing unlawful firearm use.",
           "quote": "The key to ending unlawful use of firearms is strict enforcement of existing laws.",
           "sourceUrl": "https://franklin.house.gov/issues/issue/?IssueID=14895",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "own"
         },
         "immigration": {
           "toward": "stricter enforcement",
@@ -79,7 +85,8 @@
           "text": "He supported the Laken Riley Act, which requires detention and deportation of certain immigrants who commit specified crimes.",
           "quote": "The bill requires the swift detainment and deportation of illegal aliens who assault a law enforcement officer or commit a crime that results in injury or death.",
           "sourceUrl": "https://franklin.house.gov/news/documentsingle.aspx?DocumentID=441",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "guns": {
           "toward": "fewer restrictions",
@@ -87,7 +94,8 @@
           "text": "He says he opposes limits on law-abiding gun owners and voted against universal and enhanced background-check bills.",
           "quote": "I strongly oppose attempts to limit the rights of law-abiding gun owners.",
           "sourceUrl": "https://franklin.house.gov/issues/issue/?IssueID=14895",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "abortion": {
           "toward": "restricting abortion",
@@ -95,7 +103,8 @@
           "text": "His campaign describes him as pro-life and says he supported the Hyde Amendment and the Born Alive Abortion Survivors Protection Act.",
           "quote": "He is proudly pro life and has backed that commitment with action.",
           "sourceUrl": "https://www.votescottfranklin.com/services",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "reported"
         },
         "gender": {
           "toward": "rules based on sex at birth",
@@ -103,7 +112,8 @@
           "text": "He voted for the Protection of Women and Girls in Sports Act, which would restrict participation in girls’ and women’s sports based on sex.",
           "quote": "Protection of Women and Girls in Sports Act",
           "sourceUrl": "https://clerk.house.gov/Votes/MemberVotes?BillNum=H.R.28&RollCallNum=12&Session=1st",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "record"
         },
         "health": {
           "toward": "private insurance",
@@ -111,7 +121,8 @@
           "text": "He advocates market-based health care solutions, health savings accounts, and choices among Medicare health plan options.",
           "quote": "Our healthcare requires market-based solutions, not a one-size fits all approach that reduces options, increases cost and impacts timely and affordable care.",
           "sourceUrl": "https://franklin.house.gov/issues/issue/?IssueID=74",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -119,7 +130,8 @@
           "text": "He backed legislation to increase domestic energy production and said energy independence is important for lowering costs and supporting jobs.",
           "quote": "This bill will fast-track domestic energy production, expedite construction of critical infrastructure projects through permitting reforms",
           "sourceUrl": "https://franklin.house.gov/issues/issue/?IssueID=10177",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "voting": {
           "toward": "tighter rules",
@@ -127,7 +139,8 @@
           "text": "He supported the SAVE Act, which would require proof of citizenship when registering to vote in federal elections.",
           "quote": "I was pleased this bill passed with bipartisan support, and I remain committed to fighting for election integrity in Congress.",
           "sourceUrl": "https://franklin.house.gov/news/documentsingle.aspx?DocumentID=387",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         }
       }
     },
@@ -141,7 +154,8 @@
           "text": "He supports property tax relief for homeowners, seniors, and working families.",
           "quote": "I’ll support policies that protect homeowners, seniors, and working families from being taxed out of stability.",
           "sourceUrl": "https://votecurtisgibson.com/issues",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "trade": {
           "toward": "neither side",
@@ -149,7 +163,8 @@
           "text": "He supports sugar program changes to lower grocery costs while protecting Florida agricultural workers and domestic jobs.",
           "quote": "We can lower food costs for consumers without undercutting American agriculture or domestic job stability.",
           "sourceUrl": "https://faircostproject.com/candidate/curtis-gibson/",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "own"
         },
         "housing": {
           "toward": "slower growth",
@@ -157,7 +172,8 @@
           "text": "In a 2024 local candidate interview, he favored planned communities with lower density and said projects should be reduced if developers cannot afford needed infrastructure.",
           "quote": "Planned communities should follow the “Lake Ashton model” and incorporate decorative lighting and signage, green space, lower density housing and winding roads.",
           "sourceUrl": "https://dailyridge.com/2024/07/05/qa-with-lake-wales-mayoral-candidate-curtis-gibson-2/",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "own"
         },
         "schools": {
           "toward": "district public schools",
@@ -181,7 +197,8 @@
           "text": "He says veterans who cannot receive timely VA care locally should have access to covered local providers.",
           "quote": "If the VA cannot provide care close to home and within a reasonable timeframe, veterans should have a clear path to covered local providers without the runaround.",
           "sourceUrl": "https://votecurtisgibson.com/issues",
-          "agreement": "3/10"
+          "agreement": "3/10",
+          "voice": "own"
         },
         "energy": {
           "toward": "faster emissions cuts",
@@ -211,7 +228,8 @@
           "text": "Her campaign says she supports raising the minimum wage to a living wage and protecting workers’ rights to organize.",
           "quote": "Raising the minimum wage to a living wage",
           "sourceUrl": "https://www.devasimmons.com/en/issues",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "schools": {
           "toward": "district public schools",
