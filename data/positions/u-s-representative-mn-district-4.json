@@ -31,7 +31,8 @@
           "text": "She opposed a tax-relief bill, criticizing corporate tax cuts and their effect on the deficit.",
           "quote": "The 2017 Trump-GOP tax scam has added $1.9 trillion to the deficit.",
           "sourceUrl": "https://mccollum.house.gov/media/statements-record/mccollum-vote-hr-7024",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "own"
         },
         "wages": {
           "toward": "higher wage floors",
@@ -39,7 +40,8 @@
           "text": "She supported legislation requiring for-profit federal contractors to pay a $15 minimum wage.",
           "quote": "Requires for-profit contractors to pay a minimum wage of $15 an hour.",
           "sourceUrl": "https://mccollum.house.gov/media/press-releases/mccollum-appropriations-committee-release-fiscal-year-2022-defense-funding-bill",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "record"
         },
         "trade": {
           "toward": "freer trade",
@@ -47,7 +49,8 @@
           "text": "She opposed across-the-board tariffs on Canadian imports, saying they would harm the economy and consumers.",
           "quote": "These tariffs will have a detrimental effect on all sectors of our economy",
           "sourceUrl": "https://mccollum.house.gov/sites/evo-subsites/mccollum.house.gov/files/evo-media-document/25.0203%20Letter%20to%20President%20Trump%20on%20Tariffs%20to%20Canada.pdf",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "own"
         },
         "debt": {
           "toward": "protecting benefits",
@@ -55,7 +58,8 @@
           "text": "She says she will protect and strengthen Social Security and Medicare and oppose proposals to weaken them.",
           "quote": "I will keep fighting to protect and strengthen Medicare and Social Security",
           "sourceUrl": "https://mccollum.house.gov/issues/seniors",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "housing": {
           "toward": "building more housing",
@@ -63,7 +67,8 @@
           "text": "She supported federal housing funding that she said would help build more affordable housing.",
           "quote": "The FY26 Transportation, Housing and Urban Development bill provides necessary funding to house our neighbors, build more affordable housing",
           "sourceUrl": "https://mccollum.house.gov/media/press-releases/us-rep-mccollum-statement-domestic-provisions-consolidated-appropriations-act",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "own"
         },
         "schools": {
           "toward": "district public schools",
@@ -71,7 +76,8 @@
           "text": "She describes public schools as foundational and supports federal funding for schools, including those serving high-poverty students and students with disabilities.",
           "quote": "Good public schools are the foundation of a strong democracy, and we must ensure every student graduates ready for a career or college.",
           "sourceUrl": "https://mccollum.house.gov/issues/education",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "own"
         },
         "safety": {
           "toward": "more enforcement",
@@ -79,7 +85,8 @@
           "text": "As an appropriator, she says she has worked to fund police officers so they can do their jobs.",
           "quote": "I have worked to provide police officers with the funding they need to do their jobs.",
           "sourceUrl": "https://mccollum.house.gov/issues/civil-rights-justice",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "own"
         },
         "immigration": {
           "toward": "more legal pathways",
@@ -87,7 +94,8 @@
           "text": "She voted for the American Dream and Promise Act, which included a path to legal status for eligible immigrants.",
           "quote": "Vote Question: On Passage Dream Act Vote Type: Yea-And-Nay Status: Passed",
           "sourceUrl": "https://clerk.house.gov/Votes/202191",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "record"
         },
         "guns": {
           "toward": "stricter gun laws",
@@ -95,7 +103,8 @@
           "text": "She describes herself as a strong supporter of gun-violence-prevention legislation.",
           "quote": "I am a strong proponent of sensible gun violence prevention legislation to keep our families and communities safe.",
           "sourceUrl": "https://mccollum.house.gov/issues/civil-rights-justice",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "own"
         },
         "abortion": {
           "toward": "protecting access",
@@ -103,7 +112,8 @@
           "text": "She says she has worked to ensure women can access reproductive health care without government interference.",
           "quote": "I have worked to guarantee that all women have affordable, quality health care, including reproductive health care, without government interference.",
           "sourceUrl": "https://mccollum.house.gov/issues/womens-issues",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "own"
         },
         "gender": {
           "toward": "rules based on gender identity",
@@ -111,7 +121,8 @@
           "text": "She opposed a bill restricting girls’ sports participation and said all children should have the opportunity to participate regardless of gender.",
           "quote": "All children, no matter their gender, should have the opportunity to develop these skills in a supportive community.",
           "sourceUrl": "https://mccollum.house.gov/issues/womens-issues",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "cannabis": {
           "toward": "legalizing it",
@@ -119,7 +130,8 @@
           "text": "She voted for the MORE Act, which would decriminalize and deschedule cannabis.",
           "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay Status: Passed",
           "sourceUrl": "https://clerk.house.gov/Votes/2020235",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "record"
         },
         "health": {
           "toward": "public coverage",
@@ -127,7 +139,8 @@
           "text": "She proposed expanding Medicare and Medicaid and building toward universal health coverage.",
           "quote": "Strengthening the Affordable Care Act, expanding federal Medicare and Medicaid programs, protecting women's reproductive rights, and working to build a system of universal health coverage are some of the steps Congress must take",
           "sourceUrl": "https://mccollum.house.gov/media/press-releases/mccollum-introduces-constitutional-amendment-guaranteeing-health-care-all",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "energy": {
           "toward": "faster emissions cuts",
@@ -135,7 +148,8 @@
           "text": "She supports climate action and strategic investment in clean energy rather than greater reliance on fossil fuels.",
           "quote": "Instead of doubling down on fossil fuels, I support strategic investments in clean energy infrastructure, research, and education.",
           "sourceUrl": "https://mccollum.house.gov/issues/environment",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "voting": {
           "toward": "easier voting",
@@ -143,7 +157,8 @@
           "text": "She opposed documentary-proof-of-citizenship requirements and backed expanding automatic and same-day voter registration.",
           "quote": "The bill would expand automatic voter registration and allows for same day voter registration and protects against race-based discrimination at the ballot box.",
           "sourceUrl": "https://mccollum.house.gov/mccollum-votes-no-save-america-act",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         }
       }
     },
@@ -157,7 +172,8 @@
           "text": "He said minimum wage laws are ineffective and argued they can lead employers to eliminate jobs or automate.",
           "quote": "Minimum wage laws have been proven ineffective. California >10,000 service jobs when it raised the minimum wage. When faced with uneconomic minimum wage laws, employers will either eliminate jobs, or seek alternatives e.g. automation.",
           "sourceUrl": "https://ivoterguide.com/candidate/82287/race/22989/election/1283",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         },
         "schools": {
           "toward": "school choice",
@@ -165,7 +181,8 @@
           "text": "He strongly agreed with funding education in a way that lets families choose public, private, or homeschool options.",
           "quote": "The state should fund education by allowing dollars to follow the child through programs which protect parents' freedom to choose their child's school – public, private, or homeschool. Strongly Agree",
           "sourceUrl": "https://ivoterguide.com/candidate/82287/race/22989/election/1283",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "reported"
         },
         "immigration": {
           "toward": "stricter enforcement",
@@ -173,7 +190,8 @@
           "text": "He agreed that the U.S. should do more to physically secure the southern border.",
           "quote": "The U.S. should do more to physically secure the southern border. Agree",
           "sourceUrl": "https://ivoterguide.com/candidate/82287/race/22989/election/1283",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "reported"
         },
         "abortion": {
           "toward": "restricting abortion",
@@ -181,7 +199,8 @@
           "text": "He described himself as pro-life and said he advocates resources for pregnant women in need.",
           "quote": "I am pro-life and advocate for resources to help pregnant women who are in need.",
           "sourceUrl": "https://ivoterguide.com/candidate/82287/race/22989/election/1283",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         },
         "gender": {
           "toward": "rules based on sex at birth",
@@ -189,7 +208,8 @@
           "text": "He strongly agreed that biological males should not participate in women's sports or occupy women's spaces.",
           "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison. Strongly Agree",
           "sourceUrl": "https://ivoterguide.com/candidate/82287/race/22989/election/1283",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "reported"
         },
         "voting": {
           "toward": "tighter rules",
@@ -197,7 +217,8 @@
           "text": "He strongly disagreed that people should be able to vote without photo identification and later challenged Minnesota's election-day vouching system.",
           "quote": "People should be able to vote without photo identification. Strongly Disagree",
           "sourceUrl": "https://ivoterguide.com/candidate/82287/race/22989/election/1283",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "reported"
         }
       }
     }
