@@ -31,7 +31,8 @@
           "text": "He endorsed a paid-for framework expanding child care, health coverage, and other services, funded in part by higher taxes on wealthy Americans and corporations.",
           "quote": "expanding access to childcare, pre-k, and home care for older Americans and people with disabilities, and extending health care coverage",
           "sourceUrl": "https://www.coons.senate.gov/news/press-releases/sen-coons-celebrates-historic-build-back-better-act-framework/",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "own"
         },
         "wages": {
           "toward": "higher wage floors",
@@ -39,7 +40,8 @@
           "text": "He cosponsored legislation to raise the federal minimum wage and voted to allow a Senate vote on raising it to $17 an hour.",
           "quote": "While our economy has grown over the last four years, minimum-wage workers have been left behind",
           "sourceUrl": "https://www.coons.senate.gov/news/press-releases/senator-coons-cosponsors-bill-to-increase-federal-minimum-wage/",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "own"
         },
         "trade": {
           "toward": "freer trade",
@@ -47,7 +49,8 @@
           "text": "He supported negotiating new trade agreements and said they could strengthen the economy and lower consumer costs.",
           "quote": "Trade supports good jobs in Delaware, and negotiating forward-looking trade agreements will strengthen our economy and bring down costs for American consumers",
           "sourceUrl": "https://www.coons.senate.gov/news/press-releases/sens-coons-portman-introduce-bill-to-support-us-consumers-workers-businesses-in-strengthened-international-trading-system",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "own"
         },
         "debt": {
           "toward": "neither side",
@@ -55,7 +58,8 @@
           "text": "He has called for reducing deficits while protecting public investments and the social safety net.",
           "quote": "As interest costs put growing pressure on our budget, we need to reduce our deficits and protect the investments that keep our economy strong.",
           "sourceUrl": "https://www.coons.senate.gov/news/press-releases/senator-coons-sponsors-billionaires-income-tax-act-to-address-tax-fairness-reduce-nations-deficits/",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "own"
         },
         "housing": {
           "toward": "building more housing",
@@ -63,7 +67,8 @@
           "text": "He voted for a housing package to expand supply and said the country needs a homebuilding boom.",
           "quote": "America is in a housing crisis, and we need a homebuilding boom",
           "sourceUrl": "https://www.coons.senate.gov/news/press-releases/senator-coons-celebrates-senate-passage-of-bipartisan-housing-package-to-expand-supply-and-lower-costs/",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "schools": {
           "toward": "district public schools",
@@ -71,7 +76,8 @@
           "text": "He joined legislation providing grants and bond authority for repairs and modernization at high-need public schools.",
           "quote": "Investment of $100 billion in grants and $30 billion in bond authority targeted at public schools with high need and facilities that pose health and safety risks to students and staff;",
           "sourceUrl": "https://www.coons.senate.gov/news/press-releases/sen-coons-colleagues-seek-130b-funding-boost-for-local-school-infrastructure/",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "record"
         },
         "safety": {
           "toward": "neither side",
@@ -79,7 +85,8 @@
           "text": "He supports funding police recruitment and departments as well as mental-health services and responders.",
           "quote": "Congress can support our nation’s officers by passing legislation to make recruitment easier and to fund police departments – especially in rural areas. We can make our officers and communities safer by keeping guns away from dangerous people, and by funding mental health services and mental health responders.",
           "sourceUrl": "https://www.coons.senate.gov/issues/public-safety/",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "immigration": {
           "toward": "more legal pathways",
@@ -87,7 +94,8 @@
           "text": "He helped advance immigration protections for Afghan allies and opposed blanket immigration bans that separate families and endanger refugees.",
           "quote": "He has also championed the NO BAN Act to push back on President Trump’s Muslim ban and other blanket immigration bans that separate families, leave refugees in dangerous and deadly situations, and hurt America’s standing in the world.",
           "sourceUrl": "https://www.coons.senate.gov/issues/judiciary/",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "reported"
         },
         "guns": {
           "toward": "stricter gun laws",
@@ -95,7 +103,8 @@
           "text": "He introduced legislation to require gun buyers to complete and pass a background check.",
           "quote": "anyone who wants to buy a gun should be required to complete and pass a background check, period",
           "sourceUrl": "https://www.coons.senate.gov/news/press-releases/sen-coons-colleagues-introduce-bill-to-close-background-check-loophole-for-gun-sales/",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "own"
         },
         "abortion": {
           "toward": "protecting access",
@@ -103,7 +112,8 @@
           "text": "He supports restoring and protecting reproductive freedom, including access to abortion.",
           "quote": "He is fighting to restore and protect reproductive freedom including access to abortion, birth control, and fertility treatments so women can make the decisions that are best for them, their families, and their health.",
           "sourceUrl": "https://www.coons.senate.gov/issues/womens-rights/",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "reported"
         },
         "gender": {
           "toward": "rules based on gender identity",
@@ -111,7 +121,8 @@
           "text": "He joined senators seeking Education Department guidance that Title IX prohibits discrimination based on gender identity in schools.",
           "quote": "Title IX’s prohibition on sex discrimination prohibits discrimination on the basis of gender identity.",
           "sourceUrl": "https://www.coons.senate.gov/news/press-releases/senator-coons-bipartisan-coalition-of-senators-urge-dept-of-education-to-clarify-legal-protections-for-lgbt-students-across-country/",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "own"
         },
         "health": {
           "toward": "public coverage",
@@ -119,7 +130,8 @@
           "text": "He supports strengthening Medicaid, Medicare, and the Affordable Care Act and voted to expand ACA marketplace tax credits.",
           "quote": "He is working every day to make that a reality by protecting and strengthening the programs that give people a health care lifeline: Medicaid, Medicare, and the Affordable Care Act.",
           "sourceUrl": "https://www.coons.senate.gov/issues/health-care/",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "reported"
         },
         "energy": {
           "toward": "faster emissions cuts",
@@ -127,7 +139,8 @@
           "text": "He introduced a bill to invest in carbon dioxide removal technologies as a way to address climate change.",
           "quote": "Investing in cutting-edge technology like carbon capture is key to growing our economy and protecting our nation and planet from climate change",
           "sourceUrl": "https://www.coons.senate.gov/news/press-releases/senators-coons-whitehouse-introduce-carbon-dioxide-removal-bill/",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "voting": {
           "toward": "easier voting",
@@ -149,7 +162,8 @@
           "text": "He supports permanent tax cuts and opposes raising taxes on working families.",
           "quote": "I will advocate for permanent pro-growth tax cuts and a massive rollback of federal bureaucratic overreach.",
           "sourceUrl": "https://web.archive.org/web/20260928182345/https://drmikekatz.com/platform",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         },
         "trade": {
           "toward": "tariffs",
@@ -157,7 +171,8 @@
           "text": "He supports strategic tariffs to protect domestic industries and jobs.",
           "quote": "I support targeted federal incentives and strategic tariffs to protect domestic energy, technology, and pharmaceuticals from foreign exploitation.",
           "sourceUrl": "https://web.archive.org/web/20260928182345/https://drmikekatz.com/platform",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         },
         "housing": {
           "toward": "building more housing",
@@ -165,7 +180,8 @@
           "text": "He proposes expanding affordable housing supply through zoning reform and construction incentives.",
           "quote": "Augment the supply of affordable homes through zoning reform partnerships, construction incentives, and reduced compliance costs for projects that meet community needs.",
           "sourceUrl": "https://web.archive.org/web/20260928182345/https://drmikekatz.com/platform",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -173,7 +189,8 @@
           "text": "He supports energy policies intended to lower utility costs, including nuclear power and streamlined permitting.",
           "quote": "I support a diversified, reliable energy strategy — including safe nuclear power with the right safeguards — to meet long-term demand and drive down utility bills.",
           "sourceUrl": "https://web.archive.org/web/20260928182345/https://drmikekatz.com/platform",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         }
       }
     }
