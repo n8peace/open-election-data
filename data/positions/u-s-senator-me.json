@@ -30,7 +30,8 @@
           "text": "Collins voted for the 2017 Tax Cuts and Jobs Act and said it would provide tax relief to families and businesses.",
           "quote": "While this legislation is by no means perfect, on balance, it will provide much-needed tax relief.",
           "sourceUrl": "https://www.collins.senate.gov/newsroom/senator-collins-announces-support-passage-comprehensive-tax-reform",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "own"
         },
         "wages": {
           "toward": "higher wage floors",
@@ -54,7 +55,8 @@
           "text": "She supported reauthorizing the D.C. Opportunity Scholarship Program, a voucher program for low-income students.",
           "quote": "students who participated in this program are more likely to graduate from high school than those who did not.",
           "sourceUrl": "https://www.govinfo.gov/content/pkg/CHRG-112shrg66622/pdf/CHRG-112shrg66622.pdf",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "own"
         },
         "safety": {
           "toward": "neither side",
@@ -118,7 +120,8 @@
           "text": "She voted to advance legislation requiring voters to provide photo identification.",
           "quote": "A bill to amend the Help America Vote Act of 2002 to require voters to provide photo identification.",
           "sourceUrl": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00231.htm?congress=119&session=2&vote=00231",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "record"
         }
       }
     },
@@ -132,7 +135,8 @@
           "text": "He called for substantially increasing housing supply and cutting red tape for projects.",
           "quote": "Maine must dramatically increase the supply of diverse, affordable and energy-efficient housing to meet 84,000 total units by 2030. We need to invest in manufactured housing and cut red tape so good projects don't die in endless bureaucracy.",
           "sourceUrl": "https://www.mainepublic.org/politics/2026-04-17/your-vote-2026-profile-troy-jackson-democrat-for-governor",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "own"
         },
         "schools": {
           "toward": "district public schools",
@@ -140,7 +144,8 @@
           "text": "Jackson said educators deserve support and leaders who stand up for public schools.",
           "quote": "They deserve fair pay, strong benefits, the freedom to organize, and leaders who will listen to them and stand up for public schools",
           "sourceUrl": "https://maineea.org/pressreleases/maine-education-association-endorses-troy-jackson-for-us-senate/",
-          "agreement": "3/10"
+          "agreement": "3/10",
+          "voice": "own"
         },
         "sentencing": {
           "toward": "alternatives to prison",
@@ -148,7 +153,8 @@
           "text": "He said Maine should have parole, opposing fewer early releases.",
           "quote": "Do you think Maine should have parole? Yes",
           "sourceUrl": "https://www.mainepublic.org/politics/2026-04-17/your-vote-2026-profile-troy-jackson-democrat-for-governor",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "own"
         },
         "abortion": {
           "toward": "protecting access",
@@ -156,7 +162,8 @@
           "text": "He supports a federal right to abortion and says he worked to pass strong state protections for abortion access.",
           "quote": "Pass a federal right to abortion. Pass comprehensive civil rights legislation protecting the LGBTQ+ community from discrimination.",
           "sourceUrl": "https://www.jacksonformaine.com/",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "own"
         },
         "gender": {
           "toward": "rules based on gender identity",
@@ -164,7 +171,8 @@
           "text": "He opposed banning transgender athletes in girls’ and women’s sports and dismantling related state protections.",
           "quote": "Do you support a ban on transgender athletes in girls and women’s sports and the dismantling of other protections under the Maine Human Rights Act? No",
           "sourceUrl": "https://www.mainepublic.org/politics/2026-04-17/your-vote-2026-profile-troy-jackson-democrat-for-governor",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "health": {
           "toward": "public coverage",
@@ -172,7 +180,8 @@
           "text": "His campaign calls for Medicare for All.",
           "quote": "Pass Medicare for all. Lower the cost of prescription drugs.",
           "sourceUrl": "https://web.archive.org/web/20260930222930/https://www.jacksonformaine.com/priorities",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "own"
         },
         "energy": {
           "toward": "faster emissions cuts",
@@ -180,7 +189,8 @@
           "text": "He supported building northern Maine wind and transmission projects as part of a 100% clean-energy goal for 2040.",
           "quote": "If we want to get to 100% clean energy by 2040 we need to get the Northern Maine wind and transmission projects built.",
           "sourceUrl": "https://www.mainepublic.org/politics/2026-04-17/your-vote-2026-profile-troy-jackson-democrat-for-governor",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "own"
         },
         "voting": {
           "toward": "easier voting",
@@ -188,7 +198,8 @@
           "text": "He answered that voters should not have to provide photo ID to vote.",
           "quote": "Should it be necessary to provide a photo ID in order to vote? No",
           "sourceUrl": "https://www.mainepublic.org/politics/2026-04-17/your-vote-2026-profile-troy-jackson-democrat-for-governor",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         }
       }
     }
