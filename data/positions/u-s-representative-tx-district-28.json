@@ -31,7 +31,8 @@
           "text": "His campaign says he cut Webb County property-tax rates five times and will seek lower taxes for families and small businesses.",
           "quote": "As Webb County Judge, he lowered property taxes five times in ten years while still delivering results. He knows how to manage taxpayer dollars responsibly and get more done with less.",
           "sourceUrl": "https://www.tanoforcongress.com/issues",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "reported"
         },
         "trade": {
           "toward": "tariffs",
@@ -39,7 +40,8 @@
           "text": "He praised President Trump's tariff policy and argued that rebalancing tariff rates would ultimately increase people's earnings.",
           "quote": "“The tariff situation needs to be balanced,” Tijerina said. “And I think once it becomes balanced, people will be making more. The capitalism will happen even stronger and better, and people will be making more money.”",
           "sourceUrl": "https://www.texastribune.org/2026/09/09/henry-cuellar-tano-tijerina-south-texas-28th-congressional-district-laredo/",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         },
         "safety": {
           "toward": "more enforcement",
@@ -47,7 +49,8 @@
           "text": "Asked about budget cuts, he said he would not compromise law-enforcement and public-safety resources.",
           "quote": "The one thing that I would not compromise on is law enforcement and safety resources.",
           "sourceUrl": "https://www.lmtonline.com/election_guide_2018/article/Webb-County-Judge-Candidate-Tano-Tijerina-12715129.php",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         },
         "immigration": {
           "toward": "neither side",
@@ -55,7 +58,8 @@
           "text": "He supports enforcement against immigrants who break the law while also supporting structured legal pathways and guest-worker programs.",
           "quote": "“There’s got to be programs that you have an opportunity for them to come, whether it’s a 10-year plan, a five-year plan, break-the-law-you-will-go-back-to-your-country,” he said. “But there’s gotta be ways to bring them on. Why are we gonna hide our head in the sand right now?”",
           "sourceUrl": "https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/06/18/our-district-is-very-conservative---republican-tano-tijerina-wants-to-oust-longtime-democrat-henry-cuellar-",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -63,7 +67,8 @@
           "text": "He says technology development should not sacrifice affordable electricity for local families.",
           "quote": "He will bring that same fight to Congress: we can lead in technology and still refuse to trade away the water, land, and affordable power our children will inherit.",
           "sourceUrl": "https://www.tanoforcongress.com/issues",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "reported"
         }
       }
     },
@@ -77,7 +82,8 @@
           "text": "Cuellar voted for legislation to raise the federal minimum wage to $15 per hour.",
           "quote": "This measure will increase the federal minimum wage to $15 an hour by the year 2025, giving 33 million Americans a raise.",
           "sourceUrl": "https://cuellar.house.gov/UploadedFiles/FY22_Policy_Paper__US_Workers_and_Labor_Industry.pdf",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "reported"
         },
         "trade": {
           "toward": "freer trade",
@@ -85,7 +91,8 @@
           "text": "Cuellar introduced legislation to rebate tariff costs and described tariffs as hidden taxes that raise consumer prices.",
           "quote": "Tariffs function as hidden taxes on families and create uncertainty for businesses",
           "sourceUrl": "https://cuellar.house.gov/news/documentsingle.aspx?DocumentID=412054",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "own"
         },
         "debt": {
           "toward": "protecting benefits",
@@ -93,7 +100,8 @@
           "text": "He co-sponsored and helped pass the Social Security Fairness Act, which restored benefits reduced by the WEP and GPO.",
           "quote": "I am pleased to have supported public servants in my district by co-sponsoring and passing legislation that ensures they get the benefits they’ve rightfully earned, which has now been signed into law by the President.",
           "sourceUrl": "https://cuellar.house.gov/news/documentsingle.aspx?DocumentID=410738",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "own"
         },
         "housing": {
           "toward": "building more housing",
@@ -101,7 +109,8 @@
           "text": "Cuellar voted for a bipartisan bill intended to increase housing supply, streamline development, and expand affordable construction.",
           "quote": "This bipartisan legislation helps communities build more affordable housing, modernize neighborhoods, expand access to homeownership, and lower costs for working families.",
           "sourceUrl": "https://cuellar.house.gov/news/documentsingle.aspx?DocumentID=413390",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "schools": {
           "toward": "district public schools",
@@ -109,7 +118,8 @@
           "text": "Cuellar secured projected federal funding for public school districts to support teachers, smaller classes, and early education.",
           "quote": "This funding will support teachers, reduce class sizes, and strengthen early education programs across South Texas.",
           "sourceUrl": "https://cuellar.house.gov/news/documentsingle.aspx?DocumentID=411146",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "safety": {
           "toward": "more enforcement",
@@ -117,7 +127,8 @@
           "text": "He announced $3.125 million in federal funding to hire 25 additional Laredo police officers.",
           "quote": "These federal dollars are vital for Laredo by enabling the city to hire more police officers – which will increase public safety, help prevent crime and add to the local economy.",
           "sourceUrl": "https://cuellar.house.gov/news/documentsingle.aspx?DocumentID=410503",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "immigration": {
           "toward": "neither side",
@@ -125,7 +136,8 @@
           "text": "Cuellar has advocated both stronger border security and expanded legal entry for workers as parts of comprehensive immigration reform.",
           "quote": "I support an immigration plan that includes improved border security, a better system for the legal entry of workers and a realistic proposal",
           "sourceUrl": "https://cuellar.house.gov/news/documentsingle.aspx?DocumentID=72394",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "own"
         },
         "guns": {
           "toward": "stricter gun laws",
@@ -133,7 +145,8 @@
           "text": "Cuellar voted for universal and enhanced firearm-background-check legislation and supported the Bipartisan Safer Communities Act.",
           "quote": "That is why I voted for both the Bipartisan Background Check of 2021 and Enhanced Background Checks Act of 2021.",
           "sourceUrl": "https://cuellar.house.gov/news/documentsingle.aspx?DocumentID=407217",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "abortion": {
           "toward": "restricting abortion",
@@ -141,7 +154,8 @@
           "text": "He described himself as pro-life while supporting abortion exceptions and out-of-state travel for care.",
           "quote": "I think I’m the last pro-life Democrat in Congress. But I’m not one of those. I don’t take an extreme position. I think there are exceptions for abortion",
           "sourceUrl": "https://www.tpr.org/government-politics/2024-06-19/cuellar-pushes-back-on-doj-indictments",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "own"
         },
         "cannabis": {
           "toward": "keeping it illegal",
@@ -149,7 +163,8 @@
           "text": "He voted against the 2020 MORE Act, which would have federally decriminalized and descheduled cannabis.",
           "quote": "12/4 235 H.R. 3884 On Passage of the Bill Nay Marijuana Opportunity Reinvestment and Expungement Act of 2020",
           "sourceUrl": "https://cuellar.house.gov/voterecord/?Page=146",
-          "agreement": "3/10"
+          "agreement": "3/10",
+          "voice": "record"
         },
         "health": {
           "toward": "public coverage",
@@ -157,7 +172,8 @@
           "text": "Cuellar voted for legislation designed to expand Medicaid and Affordable Care Act coverage.",
           "quote": "The bill expands coverage, pressing Medicaid expansion hold-out states with new carrots and sticks to adopt coverage for the 4.8 million Americans excluded from coverage",
           "sourceUrl": "https://cuellar.house.gov/news/documentsingle.aspx?DocumentID=405479",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "reported"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -165,7 +181,8 @@
           "text": "Cuellar supports an all-of-the-above approach combining renewable power with continued oil and gas production to protect jobs and lower costs.",
           "quote": "This growth keeps costs down for every household in South Texas while ensuring reliable power for years to come.",
           "sourceUrl": "https://cuellar.house.gov/news/documentsingle.aspx?DocumentID=411654",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "own"
         },
         "voting": {
           "toward": "tighter rules",
@@ -173,7 +190,8 @@
           "text": "Cuellar voted for the SAVE America Act, which would impose proof-of-citizenship and photo-identification requirements for federal voting.",
           "quote": "I support the SAVE America Act because I believe in the fundamental principle: American citizens should decide American elections",
           "sourceUrl": "https://time.com/7378333/voter-id-requirements-house-bill-trump-democrat-cuellar/",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "own"
         }
       }
     },
@@ -187,7 +205,8 @@
           "text": "Durán said wages remain too low and called for changes so working people can thrive.",
           "quote": "The cost of living keeps going up, but wages stay low. Our people have to work so hard just to survive. Let’s change things so everyone can thrive.",
           "sourceUrl": "https://marlonduran.com/on-the-issues/",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         },
         "trade": {
           "toward": "tariffs",
@@ -195,7 +214,8 @@
           "text": "Duran blamed NAFTA for damaging Mexico's economy and contributing to his family's migration.",
           "quote": "My sister and I were both undocumented so this was risky, but like millions of immigrants, we had no choice, since the U.S. had ruined the Mexican economy with NAFTA.",
           "sourceUrl": "https://marlonduran.com/about/",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         },
         "safety": {
           "toward": "more prevention",
@@ -203,7 +223,8 @@
           "text": "Duran urged lawmakers to reject a bill expanding state border enforcement, calling it unnecessary and emphasizing that Texas border communities are safe.",
           "quote": "Do not let this bill leave committee! It is a racist Fascist bill that will cost the lives of People of Color. It is a HUGE and completely unnecessary WAIST of money!",
           "sourceUrl": "https://capitol.texas.gov/tlodocs/88R/publiccomments/Meetings/C4502023041210301/InputItems/2dfd0ccf-a8ce-4839-94ca-6c214fa0be40.pdf",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         },
         "immigration": {
           "toward": "more legal pathways",
@@ -211,7 +232,8 @@
           "text": "Durán pledged compassionate treatment for undocumented people and called for abolishing ICE.",
           "quote": "While I was fortunate to gain U.S. citizenship as a teenager, I will never forget how it felt growing up undocumented, and I will always fight for fair and compassionate treatment for our undocumented community members. We must abolish ICE.",
           "sourceUrl": "https://marlonduran.com/about/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "health": {
           "toward": "public coverage",
@@ -219,7 +241,8 @@
           "text": "Duran expressed support for Medicare for All.",
           "quote": "Duran said he supported Progressive policies like those Sanders campaigned on, including a Green New Deal and Medicare for All.",
           "sourceUrl": "https://www.tpr.org/government-politics/2020-10-25/latino-voters-2020-why-a-progressive-voter-wants-a-green-party-candidate-in-office",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "reported"
         },
         "energy": {
           "toward": "faster emissions cuts",
@@ -227,7 +250,8 @@
           "text": "Durán called climate change a present threat and criticized both parties for failing to act against the fossil-fuel industry.",
           "quote": "We shouldn’t have to pay for the fossil fuel industry’s greed, and both parties have completely failed in doing anything about it.",
           "sourceUrl": "https://marlonduran.com/on-the-issues/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         }
       }
     }
