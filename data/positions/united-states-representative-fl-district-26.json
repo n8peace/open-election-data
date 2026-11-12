@@ -31,7 +31,8 @@
           "text": "He promoted tax cuts and said they would prevent an average tax increase for families in his district.",
           "quote": "No tax on tips or overtime, permanent tax cuts for working families, and relief for seniors — sparing FL-26 taxpayers an average 24% tax increase.",
           "sourceUrl": "https://mariodiazbalart.org/",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "wages": {
           "toward": "market-set wages",
@@ -39,7 +40,8 @@
           "text": "He voted against the Raise the Wage Act and against the Protecting the Right to Organize Act.",
           "quote": "Vote Question: On Passage\n\nRaise the Wage Act\n\nVote Type: Recorded Vote",
           "sourceUrl": "https://clerk.house.gov/Votes/2019496",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "record"
         },
         "trade": {
           "toward": "freer trade",
@@ -47,7 +49,8 @@
           "text": "He voted yea on the United States-Mexico-Canada Agreement Implementation Act.",
           "quote": "Vote Question: On Passage United States-Mexico-Canada Agreement Implementation Act Vote Type: Yea-And-Nay",
           "sourceUrl": "https://clerk.house.gov/Votes/2019701",
-          "agreement": "3/10"
+          "agreement": "3/10",
+          "voice": "record"
         },
         "schools": {
           "toward": "school choice",
@@ -55,7 +58,8 @@
           "text": "He said he increased charter school funding and backed a federal school-choice tax credit.",
           "quote": "Increased charter school funding by $60 million, preserved Pell Grants and magnet schools, and backed the first federal school choice tax credit.",
           "sourceUrl": "https://mariodiazbalart.org/",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "reported"
         },
         "safety": {
           "toward": "more enforcement",
@@ -63,7 +67,8 @@
           "text": "He said he secured funding for regional law enforcement and championed enforcement-focused legislation.",
           "quote": "Delivered over $11 million in FY26 funding for Miami-Dade and regional law enforcement — new patrol vehicles, upgraded technology, and mobile command centers — while championing House-passed bills like the LEOSA Reform Act and the Combatting Organized Retail Crime Act.",
           "sourceUrl": "https://mariodiazbalart.org/",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "reported"
         },
         "immigration": {
           "toward": "stricter enforcement",
@@ -71,7 +76,8 @@
           "text": "He said he prioritized border security, detention, and the swift removal of criminal noncitizens in homeland-security funding.",
           "quote": "Led FY26 Homeland Security funding prioritizing border security, detention and swift removal of criminal aliens, and expanded resources to stop fentanyl trafficking",
           "sourceUrl": "https://mariodiazbalart.org/",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "reported"
         },
         "guns": {
           "toward": "fewer restrictions",
@@ -79,7 +85,8 @@
           "text": "He voted for the Concealed Carry Reciprocity Act of 2017.",
           "quote": "Vote Question: On Passage\n\nConcealed Carry Reciprocity Act of 2017\n\nVote Type: Recorded Vote",
           "sourceUrl": "https://clerk.house.gov/Votes/2017663",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "record"
         },
         "abortion": {
           "toward": "restricting abortion",
@@ -87,7 +94,8 @@
           "text": "He cosponsored a bill whose stated purpose was to prohibit taxpayer-funded abortions.",
           "quote": "Mario Diaz-Balart (FL); Jake Ellzey (TX); Pat Fallon (TX)",
           "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-119hr7ih",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "record"
         },
         "gender": {
           "toward": "rules based on sex at birth",
@@ -95,7 +103,8 @@
           "text": "He voted for the Protection of Women and Girls in Sports Act, which addresses sports eligibility based on sex at birth.",
           "quote": "Protection of Women and Girls in Sports Act",
           "sourceUrl": "https://clerk.house.gov/Votes/2025012",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "record"
         },
         "cannabis": {
           "toward": "keeping it illegal",
@@ -103,7 +112,8 @@
           "text": "He voted against passage of the MORE Act.",
           "quote": "Vote Question: On Passage\n\nMORE Act\n\nVote Type: Yea-And-Nay",
           "sourceUrl": "https://clerk.house.gov/Votes/2022107",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "record"
         },
         "health": {
           "toward": "private insurance",
@@ -111,7 +121,8 @@
           "text": "He says every American should be able to choose an affordable health-care plan suited to their needs.",
           "quote": "It is vital that every American be able to choose a healthcare plan that means their needs at a price they can afford.",
           "sourceUrl": "https://mariodiazbalart.house.gov/issues/healthcare",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "own"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -119,7 +130,8 @@
           "text": "He voted for passage of the Lower Energy Costs Act.",
           "quote": "Vote Question: On Passage\n\nLower Energy Costs Act\n\nVote Type: Yea-And-Nay",
           "sourceUrl": "https://clerk.house.gov/Votes/2023182",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "record"
         },
         "voting": {
           "toward": "tighter rules",
@@ -127,7 +139,8 @@
           "text": "He voted for the Safeguard American Voter Eligibility Act, which required documentary proof of citizenship for federal voter registration.",
           "quote": "Vote Question: On Passage\n\nSafeguard American Voter Eligibility Act\n\nVote Type: Recorded Vote",
           "sourceUrl": "https://clerk.house.gov/Votes/2024345",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "record"
         }
       }
     },
@@ -157,7 +170,8 @@
           "text": "She supports a path to universal healthcare, including options such as Medicare for All or a public option.",
           "quote": "Nicole supports the fastest responsible path to guaranteed care for every American: Medicare for All, a strong public option, Medicare buy-in, or any model that gets us to universal coverage.",
           "sourceUrl": "https://locklinforcongress.com/issues-healthcare",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "reported"
         },
         "energy": {
           "toward": "faster emissions cuts",

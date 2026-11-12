@@ -39,7 +39,8 @@
           "text": "He said he opposes cutting Social Security or Medicare and would address waste and fraud in those programs.",
           "quote": "No creo en recortar la Seguridad Social ni Medicare. Creo que, si examinamos el despilfarro, el fraude y el abuso, sería un momento magnífico para empezar.",
           "sourceUrl": "https://www.diariolasamericas.com/florida/precandidato-al-congreso-federal-hay-que-frenar-el-despilfarro-el-fraude-y-el-abuso-n5399803",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "housing": {
           "toward": "building more housing",
@@ -47,7 +48,8 @@
           "text": "He proposed reducing federal red tape and regulations to speed housing processes, while working with local authorities.",
           "quote": "Reduciendo la burocracia del gobierno federal. Hay muchísimas regulaciones y trámites burocráticos asociados a esto, y facilitar eso para permitir procesos más rápidos trabajando, por supuesto, con las autoridades locales, porque también es un tema muy local.",
           "sourceUrl": "https://www.diariolasamericas.com/florida/precandidato-al-congreso-federal-hay-que-frenar-el-despilfarro-el-fraude-y-el-abuso-n5399803",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         },
         "schools": {
           "toward": "school choice",
@@ -79,7 +81,8 @@
           "text": "In an interview, he described himself as firmly pro-life.",
           "quote": "¿Y cuál es su posición sobre el aborto? Soy firmemente provida.",
           "sourceUrl": "https://www.diariolasamericas.com/florida/precandidato-al-congreso-federal-hay-que-frenar-el-despilfarro-el-fraude-y-el-abuso-n5399803",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -87,7 +90,8 @@
           "text": "He said he favors reducing fuel and electricity costs and developing the country's energy potential.",
           "quote": "Y por supuesto, también reduciendo el coste del combustible y de la electricidad. Creo firmemente que Estados Unidos tiene un enorme potencial energético.",
           "sourceUrl": "https://www.diariolasamericas.com/florida/precandidato-al-congreso-federal-hay-que-frenar-el-despilfarro-el-fraude-y-el-abuso-n5399803",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "voting": {
           "toward": "tighter rules",
@@ -109,7 +113,8 @@
           "text": "He supports wages that keep pace with local living costs and workers’ right to organize and negotiate.",
           "quote": "Support fair wages that keep pace with the actual cost of living in South Florida.",
           "sourceUrl": "https://www.maximeforcongress.com/jobs",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "reported"
         },
         "debt": {
           "toward": "protecting benefits",
@@ -117,7 +122,8 @@
           "text": "He says he would defend Social Security and Medicare from cuts.",
           "quote": "Protect Social Security, Medicare, and the earned benefits working people paid into their whole lives.",
           "sourceUrl": "https://www.maximeforcongress.com/lower-costs",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "reported"
         },
         "housing": {
           "toward": "building more housing",
@@ -125,7 +131,8 @@
           "text": "He supports expanding affordable housing so more families can find a home they can afford.",
           "quote": "Expand affordable housing so working families, seniors, and young people can find a home they can actually afford.",
           "sourceUrl": "https://www.maximeforcongress.com/lower-costs",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "reported"
         },
         "schools": {
           "toward": "district public schools",
@@ -133,7 +140,8 @@
           "text": "He proposes raising public-school funding and teacher salaries.",
           "quote": "Raise public-school funding so classrooms have the resources, materials, and support they need.",
           "sourceUrl": "https://www.maximeforcongress.com/education",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "reported"
         },
         "immigration": {
           "toward": "neither side",
@@ -141,7 +149,8 @@
           "text": "He supports border security and deportation for people who commit crimes, alongside legal pathways and family reunification.",
           "quote": "Dr. Maxime believes we can have both security and compassion — and that we should stop pretending we have to choose:",
           "sourceUrl": "https://www.maximeforcongress.com/immigration",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "reported"
         }
       }
     },
@@ -155,7 +164,8 @@
           "text": "She called for a fair tax system that provides adequate federal funding for services and infrastructure.",
           "quote": "We need a fair taxation system that supports a growing economy, small business creation, and American families – while ensuring our federal government has adequate funding to support services and infrastructure that make our country work.",
           "sourceUrl": "https://wassermanschultz.house.gov/issues/issue/?IssueID=15063",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "wages": {
           "toward": "higher wage floors",
@@ -163,7 +173,8 @@
           "text": "She cosponsored legislation to raise the federal minimum wage and has called for higher wages and workplace protections.",
           "quote": "I have cosponsored legislation to raise the federal minimum wage and tipped minimum wage to 15 dollars by 2020.",
           "sourceUrl": "https://wassermanschultz.house.gov/issues/issue/?IssueID=15063",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "trade": {
           "toward": "freer trade",
@@ -171,7 +182,8 @@
           "text": "She called for rolling back tariffs and advancing other trade policies.",
           "quote": "Roll back Trump’s tariffs and advance smarter, durable trade policies.",
           "sourceUrl": "https://wassermanschultz.house.gov/news/documentsingle.aspx?DocumentID=3460",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "debt": {
           "toward": "protecting benefits",
@@ -179,7 +191,8 @@
           "text": "She has repeatedly said she will defend Social Security and Medicare benefits against cuts.",
           "quote": "And I will fiercely protect health care, including Social Security and Medicare programs that millions of Americans count on",
           "sourceUrl": "https://wassermanschultz.house.gov/news/documentsingle.aspx?DocumentID=3288",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "housing": {
           "toward": "building more housing",
@@ -187,7 +200,8 @@
           "text": "She proposed updating zoning and permitting laws to build four million homes over the next decade.",
           "quote": "Cut red tape and update permitting and zoning laws to build four million new homes in the next decade.",
           "sourceUrl": "https://wassermanschultz.house.gov/news/documentsingle.aspx?DocumentID=3460",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "schools": {
           "toward": "district public schools",
@@ -195,7 +209,8 @@
           "text": "She called for federal investment in public K-12 schools and resources for district teachers and students.",
           "quote": "Now more than ever, we must commit to our national education system by investing in our public K-12 schools.",
           "sourceUrl": "https://wassermanschultz.house.gov/issues/issue/?IssueID=15061",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "own"
         },
         "immigration": {
           "toward": "more legal pathways",
@@ -203,7 +218,8 @@
           "text": "She supports pathways to citizenship and protections for DREAMers, refugees, and other immigrants.",
           "quote": "This includes providing a pathway to citizenship, fair treatment under the law, and extending protections for DREAMers, Temporary Protected Status holders, and refugees.",
           "sourceUrl": "https://wassermanschultz.house.gov/issues/issue/?IssueID=15089",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "guns": {
           "toward": "stricter gun laws",
@@ -211,7 +227,8 @@
           "text": "She supports universal background checks and other gun-violence-prevention measures.",
           "quote": "laws, like universal background checks, that would help prevent these recurring tragedies.",
           "sourceUrl": "https://wassermanschultz.house.gov/news/documentsingle.aspx?DocumentID=2884",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "reported"
         },
         "abortion": {
           "toward": "protecting access",
@@ -219,7 +236,8 @@
           "text": "She has repeatedly supported abortion rights and cosponsored legislation establishing federal protections for abortion access.",
           "quote": "Throughout my career, I have been unwavering in my support for abortion rights. Such basic, personal rights can never be compromised.",
           "sourceUrl": "https://wassermanschultz.house.gov/news/documentsingle.aspx?DocumentID=2448",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "health": {
           "toward": "public coverage",
@@ -227,7 +245,8 @@
           "text": "She backed expanding ACA coverage and Medicaid access and called to fully fund Medicaid and strengthen Medicare.",
           "quote": "Fully fund Medicaid and strengthen Medicare’s guaranteed benefits.",
           "sourceUrl": "https://wassermanschultz.house.gov/news/documentsingle.aspx?DocumentID=3460",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "energy": {
           "toward": "faster emissions cuts",
@@ -235,7 +254,8 @@
           "text": "She supports a rapid transition to renewable energy and says greenhouse gas emissions must be dramatically reduced.",
           "quote": "I believe it is critical that we use smart, forward-thinking energy policy to address the climate crisis and prevent the worst consequences of climate change by dramatically reducing our emissions of greenhouse gases.",
           "sourceUrl": "https://wassermanschultz.house.gov/issues/issue/?IssueID=15064",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "own"
         },
         "voting": {
           "toward": "easier voting",
@@ -243,7 +263,8 @@
           "text": "She opposed restrictions on voter registration and said eligible voters should be able to vote without barriers.",
           "quote": "We must keep fighting to ensure that all citizens who are eligible to vote can vote, and work to tear down barriers like those created by this onerous state law.",
           "sourceUrl": "https://wassermanschultz.house.gov/news/documentsingle.aspx?DocumentID=610",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         }
       }
     }
