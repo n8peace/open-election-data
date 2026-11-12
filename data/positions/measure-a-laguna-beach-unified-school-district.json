@@ -18,7 +18,8 @@
           "text": "A Yes vote authorizes up to $83 million in bonds and an expected tax rate of approximately $8.85 per $100,000 of assessed value to fund school facility improvements.",
           "quote": "If approved by voters, Measure A would authorize up to $83 million in bonds for school facilities improvements.",
           "sourceUrl": "https://www.lbusd.org/about/local-funding",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "reported"
         },
         "schools": {
           "toward": "district public schools",
@@ -26,7 +27,8 @@
           "text": "A Yes vote directs bond funds to improvements in Laguna Beach Unified School District public schools.",
           "quote": "By law, all money raised by Measure A could only be used to improve local schools, and could not be taken away by State or used for other purposes",
           "sourceUrl": "https://www.lbusd.org/about/local-funding",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "reported"
         }
       }
     },
@@ -47,7 +49,8 @@
           "text": "A No vote does not authorize Measure A funds for district public school improvements.",
           "quote": "By law, all money raised by Measure A could only be used to improve local schools, and could not be taken away by State or used for other purposes",
           "sourceUrl": "https://www.lbusd.org/about/local-funding",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "reported"
         }
       }
     }
