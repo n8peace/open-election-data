@@ -31,7 +31,8 @@
           "text": "She says she has supported sheriff resources and other public safety investments and will back law enforcement.",
           "quote": "She has supported sheriff resources, K-9 units, emergency communications upgrades, and investments in public safety infrastructure.",
           "sourceUrl": "https://www.mckinneyforwashington.com/",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "reported"
         },
         "immigration": {
           "toward": "stricter enforcement",
@@ -39,7 +40,8 @@
           "text": "She supports border security and enforcing immigration law.",
           "quote": "She supports President Trump’s commitment to border security and enforcing immigration law.",
           "sourceUrl": "https://www.mckinneyforwashington.com/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "reported"
         },
         "guns": {
           "toward": "fewer restrictions",
@@ -47,7 +49,8 @@
           "text": "She says she has testified against gun control laws and opposes restrictions on lawful gun owners.",
           "quote": "As a county commissioner, Amanda has testified against gun control laws that punish responsible citizens, impose financial barriers on working families, and fail to stop criminals.",
           "sourceUrl": "https://www.mckinneyforwashington.com/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "reported"
         },
         "abortion": {
           "toward": "restricting abortion",
@@ -55,7 +58,8 @@
           "text": "She says all life should be protected from conception.",
           "quote": "I believe that all life has meaning and value and must be protected from conception.",
           "sourceUrl": "https://www.mckinneyforwashington.com/about",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "gender": {
           "toward": "rules based on sex at birth",
@@ -63,7 +67,8 @@
           "text": "She supports reserving women’s sports for biological females.",
           "quote": "She supports protecting Title IX and ensuring that women’s sports remain for biological females.",
           "sourceUrl": "https://www.mckinneyforwashington.com/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "reported"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -71,7 +76,8 @@
           "text": "She opposes energy mandates she says would raise costs and supports affordable, reliable domestic energy.",
           "quote": "She opposes radical energy mandates that raise costs, destabilize the grid, and hurt farmers, families, and small businesses.",
           "sourceUrl": "https://www.mckinneyforwashington.com/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "reported"
         }
       }
     },
@@ -85,7 +91,8 @@
           "text": "His campaign says he would raise the federal minimum wage and protect workers’ right to organize.",
           "quote": "Raise the federal minimum wage so work actually pays",
           "sourceUrl": "https://www.johnduresky4congress.com/issues",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "reported"
         },
         "trade": {
           "toward": "freer trade",
@@ -93,7 +100,8 @@
           "text": "He called for removing tariffs and restoring normal trade relations with U.S. partners.",
           "quote": "get the tariffs gone and start building back our normal trade relations with our partners and being a reliable trade partner in the world.",
           "sourceUrl": "https://www.pbs.org/video/john-duresky-congressional-dist-4-primary-candidate-2026-icofzm/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "debt": {
           "toward": "protecting benefits",
@@ -101,7 +109,8 @@
           "text": "He said Social Security should be protected and restored rather than cut or privatized.",
           "quote": "It is not an optional talking point to protect Social Security. It is a moral imperative.",
           "sourceUrl": "https://www.pbs.org/video/john-duresky-congressional-dist-4-primary-candidate-2026-icofzm/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "health": {
           "toward": "public coverage",
@@ -109,7 +118,8 @@
           "text": "His campaign supports expanding ACA subsidies, protecting Medicare and Medicaid, and moving toward universal health care.",
           "quote": "Move toward universal healthcare access so coverage doesn't depend on your employer or your ZIP code",
           "sourceUrl": "https://www.johnduresky4congress.com/issues",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "reported"
         }
       }
     }
