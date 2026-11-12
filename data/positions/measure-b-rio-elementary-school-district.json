@@ -18,7 +18,8 @@
           "text": "A Yes vote has no stated effect on taxes or services in the provided text.",
           "quote": "Attached is information regarding Measure B that will be on the November 3rd ballot.",
           "sourceUrl": "https://www.rioschools.org/latest-news",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "reported"
         },
         "schools": {
           "toward": "neither side",
@@ -26,7 +27,8 @@
           "text": "A Yes vote has no stated effect on school choice or district public schools in the provided text.",
           "quote": "Attached is information regarding Measure B that will be on the November 3rd ballot.",
           "sourceUrl": "https://www.rioschools.org/latest-news",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "reported"
         }
       }
     },
@@ -39,7 +41,8 @@
           "text": "A No vote has no stated effect on taxes or services in the provided text.",
           "quote": "Attached is information regarding Measure B that will be on the November 3rd ballot.",
           "sourceUrl": "https://www.rioschools.org/latest-news",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "reported"
         },
         "schools": {
           "toward": "neither side",
@@ -47,7 +50,8 @@
           "text": "A No vote has no stated effect on school choice or district public schools in the provided text.",
           "quote": "Attached is information regarding Measure B that will be on the November 3rd ballot.",
           "sourceUrl": "https://www.rioschools.org/latest-news",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "reported"
         }
       }
     }
