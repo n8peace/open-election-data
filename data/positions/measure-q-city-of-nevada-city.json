@@ -17,7 +17,8 @@
           "text": "A Yes vote cannot be determined from the provided text because it does not state what Measure Q would do.",
           "quote": "Measure Q- City of Nevada City",
           "sourceUrl": "https://www.nevadacountyca.gov/November3Election",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "record"
         }
       }
     },
@@ -30,7 +31,8 @@
           "text": "A No vote cannot be determined from the provided text because it does not state what Measure Q would do.",
           "quote": "Measure Q- City of Nevada City",
           "sourceUrl": "https://www.nevadacountyca.gov/November3Election",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "record"
         }
       }
     }

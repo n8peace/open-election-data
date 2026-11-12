@@ -18,7 +18,8 @@
           "text": "A Yes vote authorizes a $49 million school bond funded by a property-tax levy for facility repairs and upgrades.",
           "quote": "Shall Dixon Unified School District’s measure authorizing $49,000,000 in bonds at legal rates be adopted, levying approximately $30 per $100,000 assessed value ($3,000,000 annually) while bonds are outstanding, with citizen oversight, independent audits, and all money locally controlled?",
           "sourceUrl": "https://www.dixonusd.org/bond-information/",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "record"
         },
         "schools": {
           "toward": "district public schools",
@@ -39,7 +40,8 @@
           "text": "The No campaign opposes the proposed $49 million bond and argues that the district should perform routine upkeep rather than repeatedly seek new bond funding.",
           "quote": "Instead of routine upkeep, the District repeatedly returns to voters with large bond measures to fix problems that should never have been allowed to deteriorate this far.",
           "sourceUrl": "https://content.solanocounty.gov/sites/default/files/2026-08/Measure_U_-_Argument_Against_Redacted.pdf",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         }
       }
     }
