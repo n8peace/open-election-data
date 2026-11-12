@@ -31,7 +31,8 @@
           "text": "He argued that government-set wage floors cause employers to hire fewer workers.",
           "quote": "it forces employers to hire less employees. As a result,",
           "sourceUrl": "https://ivoterguide.com/candidate/78246/race/15117/election/1079?culture=en-us",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         },
         "schools": {
           "toward": "school choice",
@@ -47,7 +48,8 @@
           "text": "He strongly disagreed with redirecting police funding to community programs.",
           "quote": "I support redirecting funds from police departments to community programs.\n\nStrongly Disagree",
           "sourceUrl": "https://ivoterguide.com/candidate/78246/race/15117/election/1079?culture=en-us",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "reported"
         },
         "health": {
           "toward": "private insurance",
@@ -55,7 +57,8 @@
           "text": "Yarbrough opposes universal government-funded health care and favors keeping health care outside comprehensive public control.",
           "quote": "I am unambiguously opposed to any form of \"universal healthcare\", which would be an unconstitutional seizure of the healthcare industry and a disaster for both the quality of care and our national debt.",
           "sourceUrl": "https://ivoterguide.com/candidate/78246/race/23558/election/1343",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         }
       }
     },
@@ -69,7 +72,8 @@
           "text": "Barrios proposes raising taxes on billionaires and corporations to fund public investments while providing targeted relief to local businesses.",
           "quote": "Make billionaires and corporations pay their fair share, close loopholes like “buy, borrow, die” and “carried interest,” raise the corporate tax rate, and ensure large corporations contribute proportionally to fund public investments.",
           "sourceUrl": "https://www.danbarriosforcongress.com/taxesandaffordabilty",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         },
         "wages": {
           "toward": "higher wage floors",
@@ -77,7 +81,8 @@
           "text": "Barrios supports increasing the federal minimum wage, expanding overtime eligibility, and protecting collective-bargaining rights.",
           "quote": "Raise wages and reward hard work: Increase the federal minimum wage and expand overtime eligibility; while offering guidance and support to small businesses so they can implement these changes sustainably.",
           "sourceUrl": "https://www.danbarriosforcongress.com/laborhandbusiness",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         },
         "trade": {
           "toward": "freer trade",
@@ -85,7 +90,8 @@
           "text": "Barrios supports reversing tariffs that increase consumer and business costs while pursuing trade partnerships that protect workers.",
           "quote": "Roll back tariff policies that raise costs for American consumers and hurt Texas businesses. Support trade partnerships that protect American workers and prevent retaliation against Texas farmers, ranchers, and exporters.",
           "sourceUrl": "https://www.danbarriosforcongress.com/foreignpolicyandveterans",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         },
         "debt": {
           "toward": "protecting benefits",
@@ -93,7 +99,8 @@
           "text": "Barrios supports strengthening Social Security and Medicare and raising additional Social Security revenue from wealthy earners.",
           "quote": "Protect retirement benefits for working people: Strengthen Social Security and Medicare, remove the Social Security tax cap, and support employer-sponsored pensions.",
           "sourceUrl": "https://www.danbarriosforcongress.com/laborhandbusiness",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         },
         "housing": {
           "toward": "building more housing",
@@ -101,7 +108,8 @@
           "text": "Barrios supports expanding housing construction and affordability programs, reducing outdated regulations, and accelerating modular construction.",
           "quote": "Expand construction and affordability programs, strengthen the Low-Income Housing Tax Credit, reduce outdated regulatory barriers, and support modular housing to speed construction.",
           "sourceUrl": "https://www.danbarriosforcongress.com/taxesandaffordabilty",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         },
         "schools": {
           "toward": "district public schools",
@@ -109,7 +117,8 @@
           "text": "Barrios opposes private-school vouchers that redirect taxpayer funding from neighborhood public schools.",
           "quote": "Reject private school voucher programs that divert taxpayer dollars away from neighborhood schools. Stand up to special-interest billionaires whose actions undermine public education.",
           "sourceUrl": "https://www.danbarriosforcongress.com/publiceducation",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         },
         "safety": {
           "toward": "neither side",
@@ -117,7 +126,8 @@
           "text": "Barrios supports both additional law-enforcement resources and investments in mental health, housing, addiction treatment, and youth programs intended to prevent crime.",
           "quote": "Public safety means making sure law enforcement has the resources to investigate and prosecute crime. It means passing commonsense gun safety laws to keep firearms out of the hands of criminals. And it means listening to law enforcement leaders who tell us we are safer when we invest in mental health care, housing support, addiction treatment, and youth programs that prevent crime before it happens.",
           "sourceUrl": "https://www.danbarriosforcongress.com/publicsafety",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         },
         "immigration": {
           "toward": "more legal pathways",
@@ -125,7 +135,8 @@
           "text": "Barrios supports border security alongside legal pathways for immigrants, refugees, and asylum seekers.",
           "quote": "Our immigration system is broken, and we need solutions that are smart, fair, and safe. I believe we can protect our borders while also creating clear, legal pathways for people who want to work, raise a family, and pursue the American dream.",
           "sourceUrl": "https://www.danbarriosforcongress.com/immigrationreform",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "own"
         },
         "guns": {
           "toward": "stricter gun laws",
@@ -133,7 +144,8 @@
           "text": "Barrios supports universal background checks, enforcement against illegal gun trafficking, and a higher purchase age for certain semiautomatic rifles.",
           "quote": "Protect the Second Amendment while reducing gun violence: Require universal background checks, crack down on traffickers who illegally supply guns to criminals and street markets, and raise the age for certain semi-automatic rifles with high-capacity features.",
           "sourceUrl": "https://www.danbarriosforcongress.com/publicsafety",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         },
         "abortion": {
           "toward": "protecting access",
@@ -141,7 +153,8 @@
           "text": "Barrios supports codifying Roe v. Wade and protecting access to contraception and IVF.",
           "quote": "Restore access to reproductive healthcare in Texas: Codify Roe v. Wade and protect access to contraception and IVF so that families can receive the care they need and women no longer face life-threatening barriers.",
           "sourceUrl": "https://www.danbarriosforcongress.com/accesstohealthcare",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -149,7 +162,8 @@
           "text": "Barrios prioritizes affordable, reliable energy from a mix of traditional and renewable sources while supporting existing and emerging energy jobs.",
           "quote": "Make energy more reliable and affordable: Support a mix of energy sources, streamline permitting for projects, invest in pipelines and supply chains for critical minerals, and restore federal incentives for renewable development.",
           "sourceUrl": "https://www.danbarriosforcongress.com/energyandenvironment",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "own"
         }
       }
     }
