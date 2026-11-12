@@ -31,7 +31,8 @@
           "text": "In a candidate questionnaire, he said he would fight for lower taxes and support a balanced budget.",
           "quote": "We need to continue to overhaul our tax code so that Tennesseans keep more of their hard-earned money. I will always fight for lower taxes.",
           "sourceUrl": "https://www.aol.com/articles/u-house-district-3-primary-075832000.html",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "wages": {
           "toward": "market-set wages",
@@ -39,7 +40,8 @@
           "text": "He voted against final passage of the Raise the Wage Act.",
           "quote": "Vote Question: On Passage Raise the Wage Act",
           "sourceUrl": "https://clerk.house.gov/Votes/2019496",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "record"
         },
         "trade": {
           "toward": "freer trade",
@@ -47,7 +49,8 @@
           "text": "He voted for the United States-Mexico-Canada Agreement Implementation Act.",
           "quote": "Vote Question: On Passage United States-Mexico-Canada Agreement Implementation Act",
           "sourceUrl": "https://clerk.house.gov/Votes/2019701",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "record"
         },
         "debt": {
           "toward": "shrinking the debt",
@@ -55,7 +58,8 @@
           "text": "In a candidate questionnaire, he called for reducing the national debt and supporting a constitutional balanced-budget amendment.",
           "quote": "The federal debt is out of control; there’s no question about that. If we want to pass down a nation we are proud of to the next generation, we must decrease the national debt.",
           "sourceUrl": "https://www.aol.com/articles/u-house-district-3-primary-075832000.html",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         },
         "schools": {
           "toward": "school choice",
@@ -63,7 +67,8 @@
           "text": "He supported reauthorizing the D.C. Opportunity Scholarship Program and said vouchers could help students leave low-quality schools.",
           "quote": "Vouchers break link of low-income and low-quality schools.",
           "sourceUrl": "https://www.ontheissues.org/House/Chuck_Fleischmann.htm",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "reported"
         },
         "immigration": {
           "toward": "stricter enforcement",
@@ -71,7 +76,8 @@
           "text": "He called for more border patrol agents, stronger border security, and enforcement of existing immigration laws.",
           "quote": "By increasing the number of border patrol agents, utilizing advanced technology and prioritizing the laws already in place we can strengthen our border security.",
           "sourceUrl": "https://fleischmann.house.gov/issues/ending-illegal-immigration-and-immigration-reform?page=1",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "guns": {
           "toward": "fewer restrictions",
@@ -79,7 +85,8 @@
           "text": "His official biography says he supports legislation protecting Second Amendment rights, and his record includes votes against expanded background checks.",
           "quote": "Since taking office, Chuck has a 100% pro-life voting record and continues to support legislation that protects the Second Amendment rights of East Tennesseans.",
           "sourceUrl": "https://fleischmann.house.gov/about-chuck",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "reported"
         },
         "abortion": {
           "toward": "restricting abortion",
@@ -87,7 +94,8 @@
           "text": "His official biography describes his voting record as pro-life.",
           "quote": "Since taking office, Chuck has a 100% pro-life voting record",
           "sourceUrl": "https://fleischmann.house.gov/about-chuck",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "reported"
         },
         "gender": {
           "toward": "rules based on sex at birth",
@@ -95,7 +103,8 @@
           "text": "He voted for the Protection of Women and Girls in Sports Act.",
           "quote": "Vote Question: On Passage Protection of Women and Girls in Sports Act",
           "sourceUrl": "https://clerk.house.gov/Votes/2023192",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "record"
         },
         "cannabis": {
           "toward": "keeping it illegal",
@@ -103,7 +112,8 @@
           "text": "He voted against final passage of the MORE Act.",
           "quote": "Roll Call 235 | Bill Number: H. R. 3884",
           "sourceUrl": "https://clerk.house.gov/Votes/2020235",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "record"
         },
         "health": {
           "toward": "private insurance",
@@ -111,7 +121,8 @@
           "text": "He called for replacing the current health care system with free-market solutions that increase competition and patient choice.",
           "quote": "We must not only repeal Obamacare but replace it with free market solutions empowering our citizens.",
           "sourceUrl": "https://fleischmann.house.gov/issues/health-care",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -119,7 +130,8 @@
           "text": "In a candidate questionnaire, he supported bringing energy production home and emphasized affordable, reliable energy.",
           "quote": "To best provide energy that is affordable, reliable and environmentally conscious to East Tennessee, America needs to bring energy production home.",
           "sourceUrl": "https://www.aol.com/articles/u-house-district-3-primary-075832000.html",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         },
         "voting": {
           "toward": "tighter rules",
@@ -127,7 +139,8 @@
           "text": "He voted for the Safeguard American Voter Eligibility Act.",
           "quote": "Vote Question: On Passage Safeguard American Voter Eligibility Act",
           "sourceUrl": "https://clerk.house.gov/Votes/2024345",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "record"
         }
       }
     },
@@ -141,7 +154,8 @@
           "text": "Her campaign calls for a wealth tax on billionaires and for fully funding SNAP and WIC.",
           "quote": "An annual wealth tax on billionaires' stock gains and closed-loop loans makes the ultra-wealthy pay their share instead of leaving the bill for working Tennesseans.",
           "sourceUrl": "https://annagolladay.com/policy/",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "wages": {
           "toward": "higher wage floors",
@@ -149,7 +163,8 @@
           "text": "Her campaign calls for raising the federal minimum wage and protecting workers’ ability to organize and bargain collectively.",
           "quote": "Raise the federal minimum wage - 36% of Tennessee workers earn less than $15/hour, so this puts real money back into the pockets of working families across District 3.",
           "sourceUrl": "https://annagolladay.com/policy/",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "debt": {
           "toward": "protecting benefits",
@@ -157,7 +172,8 @@
           "text": "She supports strengthening Social Security and protecting and expanding Medicare.",
           "quote": "Protect and Expand Medicare and the ACA - Defending Medicare and the ACA keeps affordable coverage in reach for TN seniors and working families alike.",
           "sourceUrl": "https://annagolladay.com/policy/",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "housing": {
           "toward": "building more housing",
@@ -165,7 +181,8 @@
           "text": "Her campaign supports expanding affordable housing construction and funding community land trusts.",
           "quote": "Expand the Low-Income Housing Tax Credit - Expanding this credit helps build the affordable housing our neighbors are being priced out of.",
           "sourceUrl": "https://annagolladay.com/policy/",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "schools": {
           "toward": "district public schools",
@@ -173,7 +190,8 @@
           "text": "She opposes expanding federal school vouchers and supports funding public schools.",
           "quote": "Oppose Federal Expansion of School Voucher Programs - Every dollar diverted to vouchers is a dollar pulled from the public schools that most Tennessee kids attend.",
           "sourceUrl": "https://annagolladay.com/policy/",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "safety": {
           "toward": "more prevention",
@@ -181,7 +199,8 @@
           "text": "She supports criminal-justice reform through the First Step Act rather than emphasizing incarceration.",
           "quote": "With Tennessee's incarceration rate at 817 per 100,000 — well above the national rate of 614 — criminal justice reform means fewer families torn apart and more people back to work.",
           "sourceUrl": "https://annagolladay.com/policy/",
-          "agreement": "3/10"
+          "agreement": "3/10",
+          "voice": "own"
         },
         "immigration": {
           "toward": "more legal pathways",
@@ -189,7 +208,8 @@
           "text": "She supports an accessible pathway to citizenship and protections for Dreamers and Temporary Protected Status holders.",
           "quote": "Affirm and support an accessible, earned pathway to citizenship for the estimated 11 million undocumented individuals residing in the U.S.",
           "sourceUrl": "https://annagolladay.com/policy/",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "guns": {
           "toward": "stricter gun laws",
@@ -197,7 +217,8 @@
           "text": "Her campaign supports common-sense gun laws to reduce gun violence.",
           "quote": "Support Common-Sense Gun Laws - Gun violence is the leading cause of death for people ages 1-17 — common-sense gun laws are about keeping TN kids alive.",
           "sourceUrl": "https://annagolladay.com/policy/",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "abortion": {
           "toward": "protecting access",
@@ -205,7 +226,8 @@
           "text": "She supports restoring federal protections for abortion access.",
           "quote": "Pass the Women's Health Protection Act - Restoring the protections of Roe and Casey means Tennessee women get to make their own healthcare decisions again.",
           "sourceUrl": "https://annagolladay.com/policy/",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "cannabis": {
           "toward": "legalizing it",
@@ -213,7 +235,8 @@
           "text": "Her campaign supports legalizing and regulating marijuana.",
           "quote": "It is time we keep working Tennesseans out of the criminal justice system over a plant that's already legal across most of the country.",
           "sourceUrl": "https://annagolladay.com/policy/",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "health": {
           "toward": "public coverage",
@@ -221,7 +244,8 @@
           "text": "She supports expanding Medicaid and protecting and expanding Medicare and the Affordable Care Act.",
           "quote": "Protect and Expand Medicare and the ACA - Defending Medicare and the ACA keeps affordable coverage in reach for TN seniors and working families alike.",
           "sourceUrl": "https://annagolladay.com/policy/",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "energy": {
           "toward": "neither side",
@@ -229,7 +253,8 @@
           "text": "She supports renewable-energy expansion while also emphasizing competitive power and lower costs.",
           "quote": "Growing programs like TVA EnergyRight brings cleaner, more competitive power to Tennessee ratepayers.",
           "sourceUrl": "https://annagolladay.com/policy/",
-          "agreement": "3/10"
+          "agreement": "3/10",
+          "voice": "own"
         },
         "voting": {
           "toward": "easier voting",
@@ -237,7 +262,8 @@
           "text": "She supports federal voting-rights protections and opposes the SAVE Act, which she says would exclude eligible voters.",
           "quote": "Oppose Voter Suppression and the SAVE Act - With 1 in 3 D3 residents lacking a birth certificate and 1 in 4 lacking a passport, this proof-of-citizenship law would lock out eligible voters.",
           "sourceUrl": "https://annagolladay.com/policy/",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         }
       }
     },
@@ -261,7 +287,8 @@
           "text": "King lists a belief in the “Right to Life” as part of his platform, without elaborating on specific abortion policies or exceptions.",
           "quote": "King states he believes in the \"Right to Life,\" which he lists as part of his platform. He has not elaborated on specific abortion policies or exceptions.",
           "sourceUrl": "https://smarter.vote/races/tn-house-03-2026/compare/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "reported"
         },
         "health": {
           "toward": "public coverage",
@@ -269,7 +296,8 @@
           "text": "King supports universal health care and argues that the country can afford to provide it to its citizens.",
           "quote": "King supports universal health care, arguing the U.S. can afford to provide health care to its citizens. He criticizes the Affordable Care Act for subsidizing private insurance and says high deductibles, premiums, and out-of-pocket costs burden low- and middle-income workers.",
           "sourceUrl": "https://smarter.vote/races/tn-house-03-2026/compare/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "reported"
         },
         "tax": {
           "toward": "more services",
