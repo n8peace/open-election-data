@@ -31,7 +31,8 @@
           "text": "He opposes a trade war with Canada and supports fair trade while confronting unfair practices.",
           "quote": "I strongly oppose picking a trade war with Canada, our closest ally and one of Michigan’s most important economic partners.",
           "sourceUrl": "https://www.michigansthumb.com/news/article/michigan-2nd-candidates-issues-22435067.php",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         },
         "housing": {
           "toward": "building more housing",
@@ -39,7 +40,8 @@
           "text": "He said Congress should encourage more housing construction and limit corporate purchases of residential properties.",
           "quote": "Congress should encourage the construction of more housing while limiting corporations from buying up residential properties.",
           "sourceUrl": "https://www.bigrapidsnews.com/news/article/ben-ambrose-outlines-healthcare-housing-platform-22333908.php",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "reported"
         },
         "immigration": {
           "toward": "more legal pathways",
@@ -55,7 +57,8 @@
           "text": "He said he would break with Democrats to protect the Second Amendment and law-abiding citizens’ right to own firearms.",
           "quote": "I would also break with Democrats to protect the Second Amendment and the right of law-abiding citizens to own firearms.",
           "sourceUrl": "https://www.michigansthumb.com/news/article/michigan-2nd-candidates-issues-22435067.php",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         },
         "energy": {
           "toward": "neither side",
@@ -77,7 +80,8 @@
           "text": "He voted for H.R. 1 and said it would prevent a tax hike on Michigan families.",
           "quote": "This bill delivers on our promises to the American people to prevent a tax hike that would cost them thousands",
           "sourceUrl": "https://moolenaar.house.gov/media-center/press-releases/moolenaar-statement-passage-hr-1",
-          "agreement": "3/10"
+          "agreement": "3/10",
+          "voice": "own"
         },
         "wages": {
           "toward": "market-set wages",
@@ -85,7 +89,8 @@
           "text": "He voted against the 2019 Raise the Wage Act, which proposed increasing the federal minimum wage.",
           "quote": "Vote Question: On Passage\nRaise the Wage Act\nVote Type: Recorded Vote\nStatus: Passed",
           "sourceUrl": "https://clerk.house.gov/Votes/2019496",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "record"
         },
         "trade": {
           "toward": "tariffs",
@@ -93,7 +98,8 @@
           "text": "He backed tariffs on Chinese imports and introduced legislation to revoke China’s permanent normal trade relations status.",
           "quote": "President Trump’s recent tariffs and the Restoring Trade Fairness Act, which I introduced earlier this year to revoke China's permanent normal trade relations status, will finally put an end to this abuse—holding China accountable and protecting American jobs.",
           "sourceUrl": "https://chinaselectcommittee.house.gov/media/press-releases/chairman-moolenaar-backs-trump-tariffs-calls-urgent-action-end-chinas-trade",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "debt": {
           "toward": "protecting benefits",
@@ -101,7 +107,8 @@
           "text": "He says changes to Social Security and Medicare should be grandfathered so they do not reduce benefits for retirees or people nearing retirement.",
           "quote": "any changes to these programs must be grandfathered in so they do not affect the benefits retirees and individuals nearing retirement receive.",
           "sourceUrl": "https://moolenaar.house.gov/issues/seniors",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "housing": {
           "toward": "building more housing",
@@ -117,7 +124,8 @@
           "text": "He said parents should be able to choose schools that fit their students’ needs and has co-chaired the Congressional School Choice Caucus.",
           "quote": "I believe when parents are given the power to choose the school that fits the needs of their students, they will make the right choice.",
           "sourceUrl": "https://moolenaar.house.gov/media-center/press-releases/icymi-moolenaar-holds-education-roundtable-secretary-mcmahon",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "own"
         },
         "safety": {
           "toward": "neither side",
@@ -125,7 +133,8 @@
           "text": "On opioid policy, he said communities need resources for prevention, treatment, and law enforcement.",
           "quote": "The fight against the opioid crisis takes many forms and I am working on all fronts to make sure our communities have the resources they need for prevention, treatment and law enforcement.",
           "sourceUrl": "https://moolenaar.house.gov/issues/health-care?page=10",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "own"
         },
         "immigration": {
           "toward": "stricter enforcement",
@@ -133,7 +142,8 @@
           "text": "He voted for H.R. 1, which he said would empower Border Patrol and ICE to secure the southern border.",
           "quote": "empower U.S. Border Patrol and ICE to secure the southern border",
           "sourceUrl": "https://moolenaar.house.gov/media-center/press-releases/moolenaar-statement-passage-hr-1",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "reported"
         },
         "guns": {
           "toward": "fewer restrictions",
@@ -141,7 +151,8 @@
           "text": "He describes the right to bear arms as a fundamental principle and says it must be preserved.",
           "quote": "As a supporter of the Second Amendment, I believe the right to bear arms is a fundamental principle upon which the founders built our nation.",
           "sourceUrl": "https://moolenaar.house.gov/issues/second-amendment",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "abortion": {
           "toward": "restricting abortion",
@@ -149,7 +160,8 @@
           "text": "He says life begins at conception and has publicly pledged to defend unborn life.",
           "quote": "I believe that everyone has an unalienable right to life and that life begins at conception.",
           "sourceUrl": "https://moolenaar.house.gov/issues/life-and-adoption",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "gender": {
           "toward": "rules based on sex at birth",
@@ -157,7 +169,8 @@
           "text": "He voted for the Protection of Women and Girls in Sports Act, which addresses participation in sports by sex.",
           "quote": "Protection of Women and Girls in Sports Act",
           "sourceUrl": "https://clerk.house.gov/Votes/202512?Title=sports",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "record"
         },
         "cannabis": {
           "toward": "keeping it illegal",
@@ -165,7 +178,8 @@
           "text": "He voted against the MORE Act, a bill to legalize marijuana federally.",
           "quote": "Vote Question: On Passage\nMORE Act\nVote Type: Yea-And-Nay\nStatus: Passed",
           "sourceUrl": "https://clerk.house.gov/Votes/2022107",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "record"
         },
         "health": {
           "toward": "private insurance",
@@ -173,7 +187,8 @@
           "text": "He rejects a single-payer Medicare-for-All system and favors patient and family choice in coverage and treatment.",
           "quote": "A single-payer, Medicare for All approach is not the answer.",
           "sourceUrl": "https://www.johnmoolenaarforcongress.com/issues-health-care",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "own"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -181,7 +196,8 @@
           "text": "He supports an all-of-the-above energy strategy using domestic resources and says energy policy should reduce prices.",
           "quote": "Our nation's long-term energy policy must be aimed at reducing prices for American families and businesses. I support an all-of-the-above energy strategy that utilizes our nation's abundant domestic resources so we can continue to be an energy-independent nation.",
           "sourceUrl": "https://moolenaar.house.gov/issues/energy",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "voting": {
           "toward": "tighter rules",
@@ -189,7 +205,8 @@
           "text": "He supports the SAVE America Act and said reforms are needed to prevent non-citizens from registering and voting.",
           "quote": "It makes clear that reforms are needed to stop non-citizens from registering and casting a vote.",
           "sourceUrl": "https://moolenaar.house.gov/media-center/press-releases/moolenaar-supports-save-america-act-secure-federal-elections",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "own"
         }
       }
     },
