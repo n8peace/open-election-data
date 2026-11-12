@@ -16,6 +16,7 @@ import { issueById, NEITHER, toPosition, type IssueId } from '../lib/issues';
 import { cliPrompt } from '../lib/research/backends';
 import { decide, FIRST_ROUND, type AgentResult } from '../lib/research/consensus';
 import { runAgent } from '../lib/research/agent';
+import { classifyVoice, sourceCache } from '../lib/research/voice';
 
 interface Input { office: string; district?: string; division?: string; kind?: string; choices: { name: string; party?: string; incumbent?: boolean }[] }
 interface RawStance { issue: string; toward: string; strength: 'lean' | 'strong'; summary: string; quote: string; sourceUrl: string }
@@ -82,6 +83,7 @@ async function main() {
   const choices: PositionsFileInput['choices'] = [];
   const needs: string[] = [];
   const hosts = new Set<string>();
+  const loadSource = sourceCache();
   for (const ch of input.choices) {
     const raws = await readRuns(runDir(input, ch.name));
     const runs = await Promise.all(raws.map((r) => verify(r, issues)));
@@ -93,7 +95,8 @@ async function main() {
       if (d === null) { open.push(id); continue; }
       if (!d.stance) continue;
       const i = issueById[id];
-      stances[id] = { toward: d.stance.pos === 0 ? NEITHER : d.stance.pos < 0 ? i.l : i.r, strength: Math.abs(d.stance.pos) === 2 ? 'strong' : 'lean', text: d.stance.text, quote: d.stance.quote, sourceUrl: d.stance.sourceUrl, agreement: d.agreement };
+      const voice = process.env.RESEARCH_VOICE === '1' ? await classifyVoice(d.stance.quote, d.stance.sourceUrl, { loadSource }) : undefined;
+      stances[id] = { toward: d.stance.pos === 0 ? NEITHER : d.stance.pos < 0 ? i.l : i.r, strength: Math.abs(d.stance.pos) === 2 ? 'strong' : 'lean', text: d.stance.text, quote: d.stance.quote, sourceUrl: d.stance.sourceUrl, agreement: d.agreement, ...(voice ? { voice } : {}) };
       hosts.add(new URL(d.stance.sourceUrl).hostname.replace(/^www\./, ''));
     }
     // Unsettled after the first round: 2 more agents. Still unsettled after 5: leave it blank.

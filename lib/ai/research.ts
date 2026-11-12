@@ -21,6 +21,7 @@ export interface ResearchedStance {
   text: string;
   quote: string;
   sourceUrl: string;
+  voice?: 'own' | 'record' | 'reported';
 }
 
 const Schema = z.object({

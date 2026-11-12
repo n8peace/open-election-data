@@ -113,6 +113,14 @@
                   "type": "string",
                   "format": "uri"
                 },
+                "voice": {
+                  "type": "string",
+                  "enum": [
+                    "own",
+                    "record",
+                    "reported"
+                  ]
+                },
                 "agreement": {
                   "type": "string",
                   "pattern": "^\\d+\\/\\d+$"

@@ -27,6 +27,7 @@
     "test": "vitest run",
     "typecheck": "tsc --noEmit",
     "research": "node --env-file-if-exists=.env.local --import tsx scripts/research.ts",
+    "backfill:voice": "node --env-file-if-exists=.env.local --import tsx scripts/backfill-voice.ts",
     "research:state": "node --env-file-if-exists=.env.local --import tsx scripts/research-state.ts",
     "research:queue": "node --env-file-if-exists=.env.local --import tsx scripts/research-queue.ts",
     "ca:list": "node --import tsx scripts/ca-cert-list.ts",

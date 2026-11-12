@@ -81,7 +81,7 @@ async function main() {
     if (choice.stances) delete choice.stances[id];
   } else {
     const s = d.stance;
-    const next = { toward: s.pos === 0 ? NEITHER : s.pos < 0 ? i.l : i.r, strength: (Math.abs(s.pos) === 2 ? 'strong' : 'lean') as 'lean' | 'strong', text: s.text, quote: s.quote, sourceUrl: s.sourceUrl, agreement: d.agreement };
+    const next = { toward: s.pos === 0 ? NEITHER : s.pos < 0 ? i.l : i.r, strength: (Math.abs(s.pos) === 2 ? 'strong' : 'lean') as 'lean' | 'strong', text: s.text, quote: s.quote, sourceUrl: s.sourceUrl, agreement: d.agreement, ...(s.voice ? { voice: s.voice } : {}) };
     summary.push(`- After: ${describe(next)} (${d.agreement} agree). Source: ${next.sourceUrl}`, `  > ${next.quote}`);
     choice.stances = { ...choice.stances, [id]: next };
   }

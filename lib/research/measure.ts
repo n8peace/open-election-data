@@ -11,12 +11,16 @@ import { gateway, generateText, isStepCount, Output } from 'ai';
 import { z } from 'zod';
 import { fetchSource, quoteIsInSource, type Source } from '../ai/research';
 import { issueById, NEITHER, sideGuide, toPosition, type IssueId, type Position } from '../issues';
+import { classifyVoice } from './voice';
 
 export const MEASURE_MODELS = ['openai/gpt-5.6-luna', 'google/gemini-3.8-flash', 'anthropic/claude-haiku-4.5'];
 
 export interface MeasureInput { office: string; district?: string; summary?: string; issues: IssueId[]; sourceUrl?: string }
-export interface MeasureStance { pos: Position; text: string; quote: string; sourceUrl: string; agreement: string }
+export interface MeasureStance { pos: Position; text: string; quote: string; sourceUrl: string; agreement: string; voice?: 'own' | 'record' | 'reported' }
 export interface MeasureResult { yes: Partial<Record<IssueId, MeasureStance>>; no: Partial<Record<IssueId, MeasureStance>>; sourceUrl?: string }
+
+/** A ballot question quoted verbatim is the measure's own official text. */
+export const isBallotQuestion = (quote: string) => /^(?:shall\b|to\b[\s\S]{0,500}\bshall\b)[\s\S]*\?$/i.test(quote.trim());
 
 const Urls = z.object({ urls: z.array(z.string()) });
 
@@ -95,8 +99,11 @@ export async function researchMeasure(m: MeasureInput): Promise<MeasureResult> {
         const strong = agree.filter((v) => Math.abs(v.pos) === 2).length > agree.length / 2;
         const pos = (side * (strong ? 2 : 1)) as Position;
         const agreement = `${agree.length}/${MEASURE_MODELS.length}`;
-        yes[id] = { pos, text: agree[0].yesText, quote: agree[0].quote, sourceUrl: url, agreement };
-        no[id] = { pos: (pos === 0 ? 0 : -pos) as Position, text: agree[0].noText, quote: agree[0].quote, sourceUrl: url, agreement };
+        const voice = isBallotQuestion(agree[0].quote)
+          ? 'record'
+          : process.env.RESEARCH_VOICE === '1' ? await classifyVoice(agree[0].quote, url, { loadSource: async () => page }) : undefined;
+        yes[id] = { pos, text: agree[0].yesText, quote: agree[0].quote, sourceUrl: url, agreement, voice };
+        no[id] = { pos: (pos === 0 ? 0 : -pos) as Position, text: agree[0].noText, quote: agree[0].quote, sourceUrl: url, agreement, voice };
       }
     }
     if (m.issues.every((id) => yes[id])) break;

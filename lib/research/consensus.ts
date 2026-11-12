@@ -33,6 +33,19 @@ export interface Decision {
   stance?: ResearchedStance;
 }
 
+/** Shared category threshold: abstentions do not count as disagreement. */
+export function decideCategory<T extends string>(answers: (T | undefined)[]): { value: T; agreement: string } | null {
+  const found = answers.filter((a): a is T => a !== undefined);
+  if (!found.length) return null;
+  const counts = new Map<T, number>();
+  for (const answer of found) counts.set(answer, (counts.get(answer) ?? 0) + 1);
+  const [value, winners] = [...counts].sort((a, b) => b[1] - a[1])[0];
+  const settled = answers.length > FIRST_ROUND
+    ? winners >= 3 && winners > found.length / 2
+    : winners >= 2 && winners === found.length;
+  return settled ? { value, agreement: `${winners}/${answers.length}` } : null;
+}
+
 /** Returns the decision, or null if the agents haven't settled it (escalate, or leave blank after 10). */
 export function decide(issue: IssueId, runs: AgentResult[]): Decision | null {
   const found = runs.map((r) => r[issue]).filter((s): s is ResearchedStance => !!s);
@@ -40,15 +53,12 @@ export function decide(issue: IssueId, runs: AgentResult[]): Decision | null {
   const tally = new Map<Outcome, ResearchedStance[]>();
   for (const s of found) tally.set(outcomeOf(s), [...(tally.get(outcomeOf(s)) ?? []), s]);
   const [top, winners] = [...tally.entries()].sort((a, b) => b[1].length - a[1].length)[0];
-  const others = found.length - winners.length;
-  // Any run past the first round uses the full-round rule, even if an agent failed.
-  const full = runs.length > FIRST_ROUND;
-  const settled = full ? winners.length >= 3 && winners.length > found.length / 2 : winners.length >= 2 && others === 0;
-  if (!settled) return null;
+  const category = decideCategory(runs.map((r) => r[issue] ? outcomeOf(r[issue]) : undefined));
+  if (!category) return null;
   // Strength: "strong" only if most agreeing agents said strong.
   const strong = winners.filter((s) => Math.abs(s.pos) === 2).length > winners.length / 2;
   const sign = top === 'l' ? -1 : top === 'r' ? 1 : 0;
-  return { outcome: top, agreement: `${winners.length}/${runs.length}`, stance: { ...winners[0], pos: (sign * (strong ? 2 : 1)) as ResearchedStance['pos'] } };
+  return { outcome: top, agreement: category.agreement, stance: { ...winners[0], pos: (sign * (strong ? 2 : 1)) as ResearchedStance['pos'] } };
 }
 
 /** True when the first round left any issue unsettled and more agents are needed. */
