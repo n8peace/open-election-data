@@ -31,7 +31,8 @@
           "text": "She said she supports raising the federal minimum wage.",
           "quote": "I do support raising the federal minimum wage, and I think that is important for allowing families who are working to be able to take care of their own.",
           "sourceUrl": "https://highlandscurrent.org/2026/08/26/conley-lawler-speak-at-forum/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "debt": {
           "toward": "protecting benefits",
@@ -39,7 +40,8 @@
           "text": "She supports raising Social Security taxes on earnings above $400,000 to strengthen the program’s solvency and security.",
           "quote": "I believe that we need to implement the Social Security tax for those earning higher than $400,000 to help increase the solvency and ensure the stability of the program.",
           "sourceUrl": "https://www.cityandstateny.com/sponsors/sponsor-content/2026/09/congressional-candidate-cait-conley-pledges-rein-monopoly-utility-companies/416206/",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         },
         "housing": {
           "toward": "building more housing",
@@ -47,7 +49,8 @@
           "text": "She proposes cutting outdated red tape and zoning rules that slow affordable housing construction.",
           "quote": "Making it easier to build affordable housing by cutting outdated red tape and zoning rules that slow down projects and drive up prices.",
           "sourceUrl": "https://caitconley.com/policy/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "reported"
         },
         "immigration": {
           "toward": "more legal pathways",
@@ -55,7 +58,8 @@
           "text": "She supports expanding citizenship pathways and focusing immigration enforcement on criminals and traffickers.",
           "quote": "That means expanding pathways to citizenship, faster legal processing, and enforcement focused where it belongs: on criminals and traffickers, not on our neighbors.",
           "sourceUrl": "https://riverjournalonline.com/around-town/politics/meet-the-ny-17-democratic-candidates-cait-conley/303786/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "guns": {
           "toward": "stricter gun laws",
@@ -63,7 +67,8 @@
           "text": "She supports universal background checks, closing sales loopholes, and grants for state red-flag laws.",
           "quote": "Passing Universal background checks to protect lawful gun owners while stopping criminals",
           "sourceUrl": "https://caitconley.com/policy/",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "reported"
         },
         "health": {
           "toward": "public coverage",
@@ -71,7 +76,8 @@
           "text": "She supports a public insurance option open to everyone and expanding Medicare coverage.",
           "quote": "Allowing everyone to opt in to a public insurance option, regardless of age, expanding coverage, and driving down costs across the marketplace.",
           "sourceUrl": "https://caitconley.com/policy/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "reported"
         },
         "energy": {
           "toward": "faster emissions cuts",
@@ -79,7 +85,8 @@
           "text": "She supports investing in clean energy and describes climate change as a national security crisis.",
           "quote": "Investing in clean energy, expanding federal investments in solar, wind, and geothermal projects.",
           "sourceUrl": "https://caitconley.com/policy/",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "reported"
         },
         "voting": {
           "toward": "easier voting",
@@ -87,7 +94,8 @@
           "text": "She called the SAVE Act a voter suppression tool and criticized efforts to interfere with mail-in voting.",
           "quote": "the SAVE Act is just another voter suppression tool. I say this as an election security expert",
           "sourceUrl": "https://www.cityandstateny.com/sponsors/sponsor-content/2026/09/congressional-candidate-cait-conley-pledges-rein-monopoly-utility-companies/416206/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         }
       }
     },
@@ -101,7 +109,8 @@
           "text": "Lawler backed tax cuts for families and seniors and described his work as delivering tax relief.",
           "quote": "Congressman Mike Lawler has delivered significant tax relief for Hudson Valley's working families, seniors, and small businesses.",
           "sourceUrl": "https://www.lawlerforcongress.com/issues/",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "reported"
         },
         "wages": {
           "toward": "higher wage floors",
@@ -109,7 +118,8 @@
           "text": "He voted for legislation accelerating first collective-bargaining contracts and said organized workers deserve a meaningful workplace voice.",
           "quote": "Workers who choose to organize deserve a fair shot at reaching their first contract.",
           "sourceUrl": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=6039",
-          "agreement": "3/10"
+          "agreement": "3/10",
+          "voice": "own"
         },
         "trade": {
           "toward": "tariffs",
@@ -117,7 +127,8 @@
           "text": "Lawler said he viewed Trump's tariffs as an effective short-term negotiating tool while urging faster trade agreements.",
           "quote": "he believes Trump’s tariffs are an effective negotiating tool in the short-term.",
           "sourceUrl": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=4119",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "reported"
         },
         "debt": {
           "toward": "protecting benefits",
@@ -125,7 +136,8 @@
           "text": "He has said he opposes cuts to Social Security and Medicare and supported legislation expanding some Social Security benefits.",
           "quote": "I have opposed any cuts to Social Security and Medicare and will continue to oppose any policy that comes forward that would cut these essential programs.",
           "sourceUrl": "https://lawler.house.gov/issues/issue/?IssueID=14915",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "own"
         },
         "housing": {
           "toward": "building more housing",
@@ -133,7 +145,8 @@
           "text": "He has introduced and supported legislation intended to increase housing supply, streamline development, and lower costs.",
           "quote": "Mike Lawler has championed tax relief for homeowners and introduced and authored multiple bills that became law to increase housing supply and lower costs",
           "sourceUrl": "https://www.lawlerforcongress.com/issues/",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "reported"
         },
         "schools": {
           "toward": "school choice",
@@ -141,7 +154,8 @@
           "text": "He cosponsored legislation offering parents tax credits for a range of school options, including private and religious schools.",
           "quote": "Cosponsored the Educational Choice for Children Act (H.R. 833) to give parents access to the best educational options for their child - public, private, charter, homeschooling, or religious",
           "sourceUrl": "https://www.lawlerforcongress.com/issues/",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "reported"
         },
         "safety": {
           "toward": "more enforcement",
@@ -149,7 +163,8 @@
           "text": "He requested federal funding for sheriff’s office equipment and public safety training facilities.",
           "quote": "The funding would be used for necessary law enforcement priorities such as police vehicles, equipment to be utilized at a new reality-based public safety training facility, and the structural analysis and design of the facility.",
           "sourceUrl": "https://lawler.house.gov/uploadedfiles/rockland_sheriff_cjs_federal_nexus_letter.pdf",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "immigration": {
           "toward": "neither side",
@@ -157,7 +172,8 @@
           "text": "Lawler supports a secure border and continued deportations while also backing legal status, not citizenship, for long-term undocumented immigrants without criminal records.",
           "quote": "Along with building on Mr. Trump’s border policies, a realistic plan would provide a path to legal status — not citizenship — for long-term illegal immigrants without criminal records.",
           "sourceUrl": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=5377",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "own"
         },
         "guns": {
           "toward": "stricter gun laws",
@@ -165,7 +181,8 @@
           "text": "He cosponsored a bill to strengthen background-check requirements.",
           "quote": "Cosponsored the Bipartisan Background Checks Act (H.R. 18) to strengthen existing background check requirements",
           "sourceUrl": "https://www.lawlerforcongress.com/issues/",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "reported"
         },
         "abortion": {
           "toward": "neither side",
@@ -173,7 +190,8 @@
           "text": "He opposes a federal abortion ban but supports restrictions including limits on late-term abortions and parental notification for minors.",
           "quote": "Opposes a federal ban on abortion, and would never force a rape victim or woman facing a serious health issue to continue a pregnancy against their will",
           "sourceUrl": "https://www.lawlerforcongress.com/issues/",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "reported"
         },
         "gender": {
           "toward": "rules based on sex at birth",
@@ -181,7 +199,8 @@
           "text": "Lawler says transgender women should not participate in women's sports or use women's spaces.",
           "quote": "Biological males should not be allowed to participate in women's sports or occupy biological women's spaces whether it be bathrooms, locker rooms, sorority houses, women's shelters, or prison.",
           "sourceUrl": "https://ivoterguide.com/candidate/71218/race/2165/election/1230",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "reported"
         },
         "cannabis": {
           "toward": "keeping it illegal",
@@ -189,7 +208,8 @@
           "text": "He opposed rescheduling marijuana and argued that it is a gateway drug leading some users to harder substances.",
           "quote": "But I think rescheduling marijuana is wrong. The fact is, marijuana is a gateway drug. Most of the people [who] end up using harder substances start out on marijuana.",
           "sourceUrl": "https://www.marijuanamoment.net/trump-would-be-wrong-to-reschedule-gateway-drug-marijuana-gop-congressman-says-as-reform-rumors-spread/",
-          "agreement": "3/10"
+          "agreement": "3/10",
+          "voice": "own"
         },
         "health": {
           "toward": "public coverage",
@@ -197,7 +217,8 @@
           "text": "He supported extending Affordable Care Act subsidies and funding care for Medicare, Medicaid, and uninsured patients.",
           "quote": "Took on his own party leadership to force a House vote on extending Affordable Care Act subsidies and prevent premium increases for millions of Americans",
           "sourceUrl": "https://www.lawlerforcongress.com/issues/",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "reported"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -205,7 +226,8 @@
           "text": "He supports an all-of-the-above energy strategy emphasizing affordability and reliability, alongside some environmental protections.",
           "quote": "My approach is straightforward: lower utility costs for working and middle-class families, strengthen grid reliability, promote American energy independence, and protect the clean air, clean water, and natural beauty that make the Hudson Valley such a great place to live.",
           "sourceUrl": "https://lawler.house.gov/issues/issue/?IssueID=14910",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "voting": {
           "toward": "tighter rules",
@@ -213,7 +235,8 @@
           "text": "Lawler supports requiring photo identification for voting and voted for the SAVE Act.",
           "quote": "It’s a simple way to ensure that people voting are who they say they are, and if you need a photo ID to buy alcohol or cigarettes, why not for voting?",
           "sourceUrl": "https://ivoterguide.com/candidate/71218/race/2165/election/1230",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "own"
         }
       }
     }
