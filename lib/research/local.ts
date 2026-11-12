@@ -15,6 +15,7 @@ import type { AgentResult } from './consensus';
 
 const OLLAMA_URL = process.env.OLLAMA_URL || 'http://100.123.248.44:11434/v1';
 const ollama = createOpenAICompatible({ name: 'ollama', baseURL: OLLAMA_URL, supportsStructuredOutputs: true });
+export const localModel = (name: string) => ollama(name);
 
 // Other AI-written guides aren't sources: a claim has to trace back to the candidate or reporting.
 const SKIP = /(smarter\.vote|isidewith\.com|battlegroundvote\.com|facebook\.com|instagram\.com|tiktok\.com|youtube\.com|x\.com|twitter\.com|linkedin\.com)/i;

@@ -32,6 +32,10 @@ Tip: add `"$schema": "../positions.schema.json"` at the top of your file (the te
 
 Most research is drafted by agents. What it needs most is people checking it. Run `npm run review`, open `review.html`, and for each claim confirm that the quote says what the claim says and the side of the dial is right. Comment on the pull request with anything that's wrong.
 
+### Whose words are in a quote
+
+A stance may have `voice`: `own` for the candidate's direct words or first-person campaign voice, `record` for primary official records and measure text, or `reported` for someone describing the candidate, including third-person campaign copy. Classify the quoted passage, regardless of which site hosts it. Leave `voice` out when unclear. Run `npm run backfill:voice -- --state CA --dry-run --limit 5` to preview labels before updating a state's existing files. New research labels quotes only with `RESEARCH_VOICE=1`, since each label takes 3 to 10 model calls.
+
 ## Challenge an issue's wording
 
 Each end of every dial should read the way its own supporters would say it. If one doesn't, [open a wording challenge](../../issues/new?template=wording.yml). Wording changes are discussed in public before they're merged, and we especially want to hear from people who hold the view being described.

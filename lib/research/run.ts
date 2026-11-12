@@ -4,6 +4,8 @@
 import type { IssueId } from '../issues';
 import { runAgent, modelFor } from './agent';
 import { decide, FIRST_ROUND, FULL_ROUND, hasConflict, needsEscalation, type AgentResult, type Decision } from './consensus';
+import { classifyVoice, sourceCache } from './voice';
+import { isBallotQuestion } from './measure';
 
 export interface CandidateResearch {
   decisions: Partial<Record<IssueId, Decision>>;
@@ -47,6 +49,15 @@ export async function researchWithConsensus(
   for (const id of opts.issues) {
     const d = decide(id, runs);
     if (d) decisions[id] = d; else split.push(id);
+  }
+  // Labeling adds 3 to 10 model calls per stance, so it runs only when asked (RESEARCH_VOICE=1).
+  // Otherwise scripts/backfill-voice.ts labels stances later, on whichever backend it is given.
+  const loadSource = sourceCache();
+  for (const d of process.env.RESEARCH_VOICE === '1' ? Object.values(decisions) : []) {
+    if (!d?.stance) continue;
+    d.stance.voice = opts.isMeasure && isBallotQuestion(d.stance.quote)
+      ? 'record'
+      : await classifyVoice(d.stance.quote, d.stance.sourceUrl, { loadSource });
   }
   const models = [...new Set(Array.from({ length: runs.length }, (_, i) => modelFor(i)))];
   return { decisions, split, runs: runs.length, models };

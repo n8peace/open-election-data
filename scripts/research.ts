@@ -51,7 +51,7 @@ async function main() {
   if (cheap && Object.keys(cheap.yes).length) {
     const r = cheap;
     const side = (rec: typeof r.yes) => Object.fromEntries(Object.entries(rec).map(([id, s]) => [id, {
-      toward: sideLabel(id as IssueId, s!.pos), strength: Math.abs(s!.pos) === 2 ? 'strong' : 'lean', text: s!.text, quote: s!.quote, sourceUrl: s!.sourceUrl, agreement: s!.agreement,
+      toward: sideLabel(id as IssueId, s!.pos), strength: Math.abs(s!.pos) === 2 ? 'strong' : 'lean', text: s!.text, quote: s!.quote, sourceUrl: s!.sourceUrl, agreement: s!.agreement, ...(s!.voice ? { voice: s!.voice } : {}),
     }]));
     for (const id of issues) console.log(`    ${issueById[id].name}: ${r.yes[id] ? `Yes → ${sideLabel(id, r.yes[id]!.pos)} (${r.yes[id]!.agreement}) ✓` : 'no agreement, left blank'}`);
     const out: PositionsFileInput = {
@@ -100,6 +100,7 @@ async function main() {
         quote: s.quote,
         sourceUrl: s.sourceUrl,
         agreement: d!.agreement,
+        ...(s.voice ? { voice: s.voice } : {}),
       };
       hosts.add(new URL(s.sourceUrl).hostname.replace(/^www\./, ''));
       console.log(`    ${tag}  ✓`);
