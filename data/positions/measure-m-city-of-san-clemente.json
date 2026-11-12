@@ -10,29 +10,11 @@
   "choices": [
     {
       "name": "Yes",
-      "stances": {
-        "tax": {
-          "toward": "more services",
-          "strength": "strong",
-          "text": "A Yes vote would establish dedicated local funding for beach protection and fire protection and wildfire preparedness.",
-          "quote": "Measure M pairs dedicated local funding with binding spending rules, public City Council decisions, independent audits and annual reporting—so residents can see what is proposed, speak before decisions are made and follow how the money is spent.",
-          "sourceUrl": "https://protectsanclemente.org/accountability/",
-          "agreement": "3/3"
-        }
-      }
+      "stances": {}
     },
     {
       "name": "No",
-      "stances": {
-        "tax": {
-          "toward": "lower taxes",
-          "strength": "strong",
-          "text": "A No vote would not establish Measure M’s dedicated local funding for those purposes.",
-          "quote": "Measure M pairs dedicated local funding with binding spending rules, public City Council decisions, independent audits and annual reporting—so residents can see what is proposed, speak before decisions are made and follow how the money is spent.",
-          "sourceUrl": "https://protectsanclemente.org/accountability/",
-          "agreement": "3/3"
-        }
-      }
+      "stances": {}
     }
   ],
   "sources": "protectsanclemente.org",
