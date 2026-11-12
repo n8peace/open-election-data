@@ -39,7 +39,8 @@
           "text": "He has said he will protect Social Security and Medicare and voted for a budget agreement that preserved those benefits.",
           "quote": "In Congress, I will always honor our commitments to seniors and protect the Social Security and Medicare programs that they have worked hard to fund.",
           "sourceUrl": "https://www.donaldnorcrossforcongress.com/issues/",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "schools": {
           "toward": "district public schools",
@@ -95,7 +96,8 @@
           "text": "He voted yes on House passage of the MORE Act.",
           "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay",
           "sourceUrl": "https://clerk.house.gov/Votes/2022107",
-          "agreement": "3/10"
+          "agreement": "3/10",
+          "voice": "record"
         },
         "health": {
           "toward": "public coverage",
@@ -133,7 +135,8 @@
           "text": "He says he would reduce federal spending and protect tax relief for working families.",
           "quote": "My priority will be to reduce unnecessary federal spending, support affordable, reliable American energy, encourage economic growth, cut burdensome regulations, and protect tax relief for working families.",
           "sourceUrl": "https://votedamongaldo.com/my-platform-orig",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "own"
         },
         "debt": {
           "toward": "shrinking the debt",
@@ -141,7 +144,8 @@
           "text": "In a 2022 candidate questionnaire, he agreed that the government should cut spending to reduce the national debt.",
           "quote": "The government should cut spending in order to reduce the national debt. Agree",
           "sourceUrl": "https://ivoterguide.com/candidate/67307/race/6822/election/925",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "reported"
         },
         "housing": {
           "toward": "building more housing",
@@ -149,7 +153,8 @@
           "text": "He says he would fight regulations that raise housing and construction costs.",
           "quote": "I will fight regulations that drive up housing and construction costs and make it harder for working people to succeed.",
           "sourceUrl": "https://votedamongaldo.com/my-platform-orig",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "own"
         },
         "safety": {
           "toward": "more enforcement",
@@ -157,7 +162,8 @@
           "text": "He supports law enforcement, tougher penalties for violent criminals and drug traffickers, and coordination among agencies.",
           "quote": "I will support our law enforcement officers, strengthen penalties for violent criminals and drug traffickers, combat the fentanyl epidemic, and improve coordination between local, state, and federal agencies to keep our communities safe.",
           "sourceUrl": "https://votedamongaldo.com/my-platform-orig",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "own"
         },
         "immigration": {
           "toward": "stricter enforcement",
@@ -165,7 +171,8 @@
           "text": "He supports secure borders, enforcement of existing immigration laws, and cooperation between federal and local law enforcement.",
           "quote": "I will support secure borders, enforce existing immigration laws, strengthen cooperation between federal and local law enforcement, improve the legal immigration process, and ensure taxpayer dollars are used to serve American citizens first.",
           "sourceUrl": "https://votedamongaldo.com/my-platform-orig",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "own"
         },
         "abortion": {
           "toward": "restricting abortion",
@@ -173,7 +180,8 @@
           "text": "In a 2022 questionnaire, he expressed a preference for carrying a pregnancy to term and opposed public funding for abortion providers, while accepting abortion in cases of rape.",
           "quote": "Although I believe every life is so important and should be given a chance, if a woman was raped and became pregnant I would understand if they wanted an abortion. I would hope that somehow they would find a way to get through the absolute evil that was done to them and give that baby life but that’s a hard thing to ask of someone and I would completely understand and be fine with that.",
           "sourceUrl": "https://ivoterguide.com/candidate/67307/race/6822/election/925",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "own"
         },
         "health": {
           "toward": "private insurance",
@@ -181,7 +189,8 @@
           "text": "He supports price transparency, health savings accounts, and competition to lower health-care costs.",
           "quote": "I will support greater price transparency, expand access to Health Savings Accounts, encourage competition that lowers healthcare costs, protect patients with preexisting conditions, and work to make prescription medications more affordable.",
           "sourceUrl": "https://votedamongaldo.com/my-platform-orig",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "own"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -189,7 +198,8 @@
           "text": "WHYY reports that he wants an energy policy aimed at lowering utility and transportation costs.",
           "quote": "Galdo said he wants to lower the cost-of-living by reducing government spending, lower taxes for working families and pursue an energy policy that lowers utility and transportation costs.",
           "sourceUrl": "https://whyy.org/articles/election-2026-new-jersey-1st-congressional-district-voter-guide/",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         },
         "voting": {
           "toward": "tighter rules",
@@ -197,7 +207,8 @@
           "text": "He supports voter ID, citizenship verification, voter-roll maintenance, and stronger mail-ballot security.",
           "quote": "I will support requiring proof of citizenship to vote in federal elections, requiring voter identification, improving the accuracy of voter rolls, strengthening mail in ballot security, and increasing transparency throughout the election process.",
           "sourceUrl": "https://votedamongaldo.com/my-platform-orig",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "own"
         }
       }
     }
