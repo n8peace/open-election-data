@@ -8,7 +8,7 @@ Every contest starts as "not researched yet." Here's how to fill one in:
 
 1. [Open a "Research a race" issue](../../issues/new?template=research-a-race.yml) so nobody duplicates your work.
 2. Copy [data/positions/_template.json](data/positions/_template.json) to `data/positions/<office>-<district>.json`.
-   Set `division` so the race shows up for the right voters. Enter your address on [plainballot.com](https://plainballot.com) and the "Your districts" list tells you which one applies. Formats: `ca/cd-10` (U.S. House), `ca/sldu-9` (State Senate), `ca/sldl-15` (State House or Assembly), `ca/county-contra-costa`, `ca/place-pleasant-hill` (city), `ca/school-mount-diablo-unified`, `ca/state` (statewide).
+   Set `division` so the race shows up for the right voters. Enter your address on [plainballot.com](https://plainballot.com) and the "Your districts" list tells you which one applies. Formats: `ca/cd-10` (U.S. House), `ca/sldu-9` (State Senate), `ca/sldl-15` (State House or Assembly), `ca/county-contra-costa`, `ca/place-pleasant-hill` (city), `ca/school-mount-diablo-unified`, `ca/ccd-san-mateo-county` (community college district, named as in `lib/research/ccd.ts`), `ca/state` (statewide).
 3. For each candidate and each issue the office decides, add a position **only if you can quote the candidate's own words or record**:
    - `toward`: which side of the dial (use the exact short label from [lib/issues.ts](lib/issues.ts), e.g. `"district public schools"`), or leave the issue out.
    - `strength`: `"lean"` or `"strong"`.
