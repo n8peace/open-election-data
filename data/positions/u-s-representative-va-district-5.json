@@ -31,7 +31,8 @@
           "text": "He says he has fought to double the minimum wage and expand paid medical leave.",
           "quote": "For years, he has fought to double the minimum wage, outlaw predatory lenders, and expand paid medical leave.",
           "sourceUrl": "https://www.tomperriello.com/about",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "reported"
         },
         "trade": {
           "toward": "freer trade",
@@ -39,7 +40,8 @@
           "text": "He says ending tariffs that raised grocery bills is a top priority.",
           "quote": "Tom's most urgent priority will be to save families money by ending the tariffs that spiked grocery bills, ending the Iran war that’s made gas and fertilizer prices insane, and ending the shady deals bankrupting our country.",
           "sourceUrl": "https://www.tomperriello.com/issues",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "reported"
         },
         "debt": {
           "toward": "protecting benefits",
@@ -47,7 +49,8 @@
           "text": "He says Social Security and Medicare benefits should be kept and protected from privatization.",
           "quote": "Social Security and Medicare are commitments this country has made and is honor-bound to keep. Your benefits and the future of Social Security and Medicare should not be auctioned off to private investors who seek to reap profits off your lifetime of contribution.",
           "sourceUrl": "https://www.tomperriello.com/seniors",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "housing": {
           "toward": "building more housing",
@@ -55,7 +58,8 @@
           "text": "He proposes building more housing and cutting red tape to improve affordability.",
           "quote": "That means building more housing, cutting red tape, and taking on the corporate practices that are driving prices higher.",
           "sourceUrl": "https://www.tomperriello.com/housing",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "reported"
         },
         "schools": {
           "toward": "district public schools",
@@ -63,7 +67,8 @@
           "text": "He proposes investment in quality public schools and teachers as part of a publicly funded education system.",
           "quote": "We should build a free, hassle-free P-14 system: affordable quality childcare, universal pre-K, world class public schools and two debt-free years of public community college, trade school, or apprenticeship for every kid regardless of zip code or family income, and covering at least one year of pre-k and two years of career certification, community college or university education.",
           "sourceUrl": "https://www.tomperriello.com/childcare-and-education",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "own"
         },
         "safety": {
           "toward": "more enforcement",
@@ -71,7 +76,8 @@
           "text": "His campaign says he made investments in law enforcement units a congressional priority.",
           "quote": "Tom voted AGAINST bailing out Wall Street and FOR investments in every public school and law enforcement unit in the district.",
           "sourceUrl": "https://www.tomperriello.com/issues",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "reported"
         },
         "immigration": {
           "toward": "more legal pathways",
@@ -79,7 +85,8 @@
           "text": "He said he was proud to have voted for the DREAM Act and would continue fighting for DREAMers.",
           "quote": "I was proud to vote for the DREAM Act - I'll keep fighting for them.",
           "sourceUrl": "https://patch.com/virginia/fallschurch/democratic-gubernatorial-candidate-talks-immigration-issues-falls-church",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "own"
         },
         "abortion": {
           "toward": "protecting access",
@@ -87,7 +94,8 @@
           "text": "His campaign says he has supported reproductive freedoms.",
           "quote": "After Congress, he led organizations that fought for more affordable healthcare, stronger voting rights and reproductive freedoms, and doubling the minimum wage.",
           "sourceUrl": "https://www.tomperriello.com/about",
-          "agreement": "3/10"
+          "agreement": "3/10",
+          "voice": "reported"
         },
         "health": {
           "toward": "public coverage",
@@ -95,7 +103,8 @@
           "text": "He supported the Affordable Care Act and advocated for a public option or Medicare buy-in.",
           "quote": "Tom even pushed Democratic leaders to go bolder, with a public option or buy-in to Medicare.",
           "sourceUrl": "https://www.tomperriello.com/about",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "reported"
         },
         "energy": {
           "toward": "faster emissions cuts",
@@ -103,7 +112,8 @@
           "text": "He voted aye on the House-passed American Clean Energy and Security Act, which established a declining greenhouse-gas cap-and-trade program.",
           "quote": "Vote Question: On Passage American Clean Energy and Security Act",
           "sourceUrl": "https://clerk.house.gov/Votes/2009477",
-          "agreement": "3/10"
+          "agreement": "3/10",
+          "voice": "record"
         },
         "voting": {
           "toward": "easier voting",
@@ -111,7 +121,8 @@
           "text": "He opposes efforts to make voting harder and says they protect politicians from voters’ will.",
           "quote": "When politicians make it harder to vote, they aren't securing elections. They're protecting themselves from the will of the people.",
           "sourceUrl": "https://www.tomperriello.com/voting-rights",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         }
       }
     },
@@ -125,7 +136,8 @@
           "text": "McGuire voted for the One Big Beautiful Bill and said it prevents tax increases and gives families tax relief.",
           "quote": "This legislation includes no tax on tips, no tax on overtime, and a tax deduction for seniors. This allows American families to save more of the money they earned.",
           "sourceUrl": "https://mcguire.house.gov/media/press-releases/rep-mcguire-votes-final-passage-one-big-beautiful-bill-advance-america-first",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "housing": {
           "toward": "building more housing",
@@ -133,7 +145,8 @@
           "text": "He introduced a bill intended to increase the supply of homes available to first-time buyers.",
           "quote": "The American Dream Act addresses this challenge by incentivizing homeowners 65 years-of-age and older to sell properties valued under $500,000 to first-time buyers; increasing inventory and ensuring our younger generations have a fair opportunity to achieve homeownership.",
           "sourceUrl": "https://mcguire.house.gov/media/press-releases/rep-john-mcguire-introduces-american-dream-act",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         },
         "immigration": {
           "toward": "stricter enforcement",
@@ -141,7 +154,8 @@
           "text": "He backed legislation funding ICE and Border Patrol and called for those agencies to have resources to carry out their work.",
           "quote": "I am thankful my Republican House colleagues and I were able to get this across the finish line so the brave men and women of ICE and Border Patrol can have the resources they need to do their job and protect our nation.",
           "sourceUrl": "https://mcguire.house.gov/media/press-releases/rep-mcguire-celebrates-passage-secure-america-act",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         },
         "gender": {
           "toward": "rules based on sex at birth",
@@ -149,7 +163,8 @@
           "text": "He voted for the Protection of Women and Girls in Sports Act.",
           "quote": "Protection of Women and Girls in Sports Act",
           "sourceUrl": "https://clerk.house.gov/Votes/202512",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "record"
         },
         "voting": {
           "toward": "tighter rules",
@@ -157,7 +172,8 @@
           "text": "McGuire voted for a bill requiring photo identification to vote and proof of citizenship to register for federal elections.",
           "quote": "The Save America Act makes sure our elections are fair and secure. By requiring photo ID to vote and proof of citizenship to register, we are taking real measures to retore trust and ensure only U.S. Citizens are casting ballots.",
           "sourceUrl": "https://mcguire.house.gov/media/press-releases/rep-john-mcguire-celebrates-passage-save-america-act",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         }
       }
     },
@@ -171,7 +187,8 @@
           "text": "He said a federal budget pledge should cut deficit spending in half by 2029.",
           "quote": "Long-term stability in costs would be helped by a budget pledge to cut deficit spending in half by 2029",
           "sourceUrl": "https://www.vpm.org/elections/2026-09-28/va05-harvey-mcguire-perriello-candidate-survey/",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         }
       }
     }
