@@ -31,7 +31,8 @@
           "text": "He cites tax cuts for 95% of families while also supporting infrastructure investment and asking wealthy citizens and corporations to pay their fair share.",
           "quote": "In Congress, Stephen worked to pass the American Recovery and Reinvestment Act that created more than 2 million jobs, invested in our infrastructure, and cut tax rates for 95% of American families.",
           "sourceUrl": "https://www.stephenflynch.com/jobs-and-economic-opportunity/",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "reported"
         },
         "wages": {
           "toward": "higher wage floors",
@@ -39,7 +40,8 @@
           "text": "His campaign says he is working to increase the minimum wage and strengthen workers’ protections.",
           "quote": "He is fighting for equal pay and paid leave, increasing the minimum wage and working to ensure that the wealthiest citizens and largest corporations pay their fair share.",
           "sourceUrl": "https://www.stephenflynch.com/jobs-and-economic-opportunity/",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "reported"
         },
         "debt": {
           "toward": "protecting benefits",
@@ -47,7 +49,8 @@
           "text": "He says Medicare and Social Security must be protected and cites his cosponsorship of the Social Security Expansion Act.",
           "quote": "Programs such as Medicare and Social Security are a vital lifeline for many of our elderly and they must be protected.",
           "sourceUrl": "https://lynch.house.gov/seniors",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "reported"
         },
         "schools": {
           "toward": "district public schools",
@@ -55,7 +58,8 @@
           "text": "He supports public education and has backed federal investment in school facilities and public education programs.",
           "quote": "He believes that access to a high quality, public education is critical to unlocking our nation’s true potential.",
           "sourceUrl": "https://www.stephenflynch.com/investing-in-education/",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "reported"
         },
         "immigration": {
           "toward": "stricter enforcement",
@@ -63,7 +67,8 @@
           "text": "He supported the Laken Riley Act, which expands detention and deportation of some immigrants accused of crimes.",
           "quote": "Lynch called the bill \"imperfect,\" but said it's meaningful effort to discuss America's immigration system and how it is, he said, \"completely out of control.\"",
           "sourceUrl": "https://www.wbur.org/news/2025/01/23/massachusetts-stephen-lynch-immigrants-laken-riley-bill",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "own"
         },
         "guns": {
           "toward": "stricter gun laws",
@@ -71,7 +76,8 @@
           "text": "He has publicly supported universal background checks and other gun-control legislation.",
           "quote": "Throughout his career, Congressman Lynch has been a vocal proponent for responsible gun control legislation.",
           "sourceUrl": "https://lynch.house.gov/gun-control",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "reported"
         },
         "abortion": {
           "toward": "protecting access",
@@ -79,7 +85,8 @@
           "text": "He cosponsored the Women’s Health Protection Act, which would protect access to abortion services.",
           "quote": "To protect a person's ability to determine whether to continue or end a pregnancy, and to protect a health care provider's ability to provide abortion services.",
           "sourceUrl": "https://www.govinfo.gov/app/details/BILLS-117hr3755ih/",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "record"
         },
         "gender": {
           "toward": "rules based on gender identity",
@@ -87,7 +94,8 @@
           "text": "He voted against the Protection of Women and Girls in Sports Act, which would establish rules based on sex at birth for school sports.",
           "quote": "Protection of Women and Girls in Sports Act",
           "sourceUrl": "https://clerk.house.gov/Votes/202512",
-          "agreement": "3/10"
+          "agreement": "3/10",
+          "voice": "record"
         },
         "cannabis": {
           "toward": "legalizing it",
@@ -103,7 +111,8 @@
           "text": "He supports expanding coverage through the ACA and Medicaid and voted for a bill to make more people eligible for federal help buying insurance.",
           "quote": "In June 2020, he voted to pass the most extensive reform to the ACA thus far, H.R. 1425, the Patient Protection and Affordable Care Enhancement Act which would make more Americans eligible for federal financial assistance to buy health insurance, incentivize states to expand Medicaid eligibility and allow Medicare to negotiate drug prices.",
           "sourceUrl": "https://lynch.house.gov/health-care",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "reported"
         },
         "energy": {
           "toward": "faster emissions cuts",
@@ -111,7 +120,8 @@
           "text": "He supports climate change solutions, renewable fuels, and steps to reduce the environmental impact of transportation.",
           "quote": "There is no question climate change is real. It is an economic and national security issue, and we must do everything we can now, to enact lasting change.",
           "sourceUrl": "https://www.stephenflynch.com/protecting-our-environment/",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "own"
         },
         "voting": {
           "toward": "easier voting",
@@ -119,7 +129,8 @@
           "text": "He introduced legislation to protect mail-in voting and has proposed changes to support ballot processing and tracking.",
           "quote": "Rep. Stephen F. Lynch (MA-08) introduced the Vote by Mail Protection Act (H.R. 8666) to protect the right of Americans to vote by mail against unlawful executive overreach by President Trump.",
           "sourceUrl": "https://lynch.house.gov/press-releases?id=139618FB-ED62-48E4-BA85-219EFED30C82",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "reported"
         }
       }
     },
@@ -138,7 +149,8 @@
           "text": "He proposes making tariffs on imports such as steel, aluminum, and semiconductors permanent to protect U.S. manufacturing.",
           "quote": "I will codify these proven protections into permanent law so they cannot be reversed by future administrations.",
           "sourceUrl": "https://www.voterasheed.com/trade-and-industry",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         }
       }
     }
