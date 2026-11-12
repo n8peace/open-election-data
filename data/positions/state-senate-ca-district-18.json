@@ -38,7 +38,8 @@
           "text": "Padilla publicly supported Sharp Chula Vista workers forming a union to seek better wages and working conditions.",
           "quote": "Unions are the very structure that built America’s middle class. Their achievements and successes advance the quality of life of workers across this nation. Everyone deserves representation in their workplace — a voice that can speak out for better wages or working conditions.",
           "sourceUrl": "https://sd18.senate.ca.gov/news/senator-padillas-statement-ahead-sharp-worker-union-vote",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "housing": {
           "toward": "building more housing",
@@ -46,7 +47,8 @@
           "text": "Padilla helped advance SB 79, which allowed more apartments near transit despite local zoning, and spoke in favor of integrating housing density with transit.",
           "quote": "“(The evidence) is pretty overwhelming, and has been for decades, the benefits of integrating housing with transit infrastructure,” Padilla said.",
           "sourceUrl": "https://www.kpbs.org/news/living/2025/06/10/state-senators-from-san-diego-split-on-allowing-housing-near-transit-but-not-along-partisan-lines",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "own"
         },
         "sentencing": {
           "toward": "alternatives to prison",
@@ -62,7 +64,8 @@
           "text": "Padilla authored SB 420 to deny charitable property-tax exemptions to organizations connected to private immigration detention or deportation operations.",
           "quote": "SB 420 closes the loophole in California’s Revenue and Taxation Code by preventing organizations connected to immigration detention or deportation efforts from qualifying for charitable property tax exemptions in the future.",
           "sourceUrl": "https://sd18.senate.ca.gov/news/california-legislature-closes-loophole-allowed-nonprofits-claim-ice-detention-centers",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "reported"
         },
         "guns": {
           "toward": "stricter gun laws",
@@ -94,7 +97,8 @@
           "text": "As a Chula Vista councilmember, Padilla moved and voted for an ordinance regulating commercial cannabis and allowing up to ten cultivation licenses.",
           "quote": "A motion was made by Councilmember Padilla, seconded by Mayor Casillas Salas, to amend the draft ordinance to limit the number of licenses for cultivation facilities to 10 citywide. The motion carried by the following vote:",
           "sourceUrl": "https://chulavista.legistar.com/HistoryDetail.aspx?GUID=4DA61022-8661-4293-B021-05AF5650FFE8&ID=14880212",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "record"
         },
         "health": {
           "toward": "public coverage",
@@ -102,7 +106,8 @@
           "text": "Padilla campaigned for universal health care and lower prescription-drug costs.",
           "quote": "Work for lower prescription drug costs and healthcare that’s universal.",
           "sourceUrl": "https://docs.voteinfo.net/Elections/20220607/docs/June%20Candidates%20All-V5.pdf",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "own"
         },
         "energy": {
           "toward": "faster emissions cuts",
@@ -110,7 +115,8 @@
           "text": "Padilla authored SB 619 to accelerate transmission projects needed to expand clean energy and move California from fossil fuels toward carbon-free power.",
           "quote": "Modernizing our grid will help California bridge the gap between our fossil fuel past and our carbon-free future.",
           "sourceUrl": "https://sd18.senate.ca.gov/news/california-legislature-passes-senator-padillas-legislation-accelerate-and-modernize",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "voting": {
           "toward": "easier voting",
@@ -132,7 +138,8 @@
           "text": "His campaign says high income, sales, and property taxes burden people and drive businesses out.",
           "quote": "High taxes (income, sales, property) burden individuals and drive businesses out.",
           "sourceUrl": "https://www.arthodgesforsenate.com/priorities-blog/government-overreach-and-regulation",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "reported"
         },
         "safety": {
           "toward": "more enforcement",
@@ -140,7 +147,8 @@
           "text": "He made enforcing laws and restoring neighborhood safety part of his campaign platform.",
           "quote": "Safe & Lawful Communities — eliminating harmful laws, enforcing good ones, and restoring neighborhood safety.",
           "sourceUrl": "https://static1.squarespace.com/static/686ebe0393b8c644912395c7/t/689e5eab6d646a3a353b4c42/1755209387079/Press%2BRelease%2BArt%2BHodges%2B8.14.25.pdf",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "sentencing": {
           "toward": "tougher sentences",
@@ -148,7 +156,8 @@
           "text": "His campaign criticizes Prop 47-style policies and the early release of dangerous offenders.",
           "quote": "Soft-on-crime policies (like Prop 47) have led to:\nTheft and shoplifting\nEarly release of dangerous offenders",
           "sourceUrl": "https://www.arthodgesforsenate.com/priorities-blog/crime-and-public-safety-issues",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "reported"
         },
         "abortion": {
           "toward": "restricting abortion",
@@ -156,7 +165,8 @@
           "text": "He identifies protecting human life from the womb onward as a core value.",
           "quote": "Art Hodges’ core values are sanctity of human life from womb to tomb, birth gender, traditional marriage, religious liberty, support of Israel.",
           "sourceUrl": "https://www.arthodgesforsenate.com/about-art",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "reported"
         },
         "gender": {
           "toward": "rules based on sex at birth",
@@ -164,7 +174,8 @@
           "text": "He identifies birth gender as one of his core values.",
           "quote": "Art Hodges’ core values are sanctity of human life from womb to tomb, birth gender, traditional marriage, religious liberty, support of Israel.",
           "sourceUrl": "https://www.arthodgesforsenate.com/about-art",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "reported"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -172,7 +183,8 @@
           "text": "His campaign says climate policies can harm working-class people and small communities.",
           "quote": "Climate change policies often hurt small communities and the working class.",
           "sourceUrl": "https://www.arthodgesforsenate.com/priorities-blog/environmental-extremism",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "reported"
         }
       }
     }
