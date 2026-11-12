@@ -10,11 +10,31 @@
   "choices": [
     {
       "name": "Yes",
-      "stances": {}
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote on Measure Q would establish a 7% utility users tax to fund public safety, infrastructure repairs, and other city services.",
+          "quote": "shall the City of Marina’s measure establishing a 7% utility users’ tax with low-income rates, generating approximately $3,830,000 annually until ended by voters, requiring spending disclosures, audits, all funds spent locally, be adopted?",
+          "sourceUrl": "https://www.cityofmarina.org/MeasureQ",
+          "agreement": "3/5",
+          "voice": "record"
+        }
+      }
     },
     {
       "name": "No",
-      "stances": {}
+      "stances": {
+        "tax": {
+          "toward": "lower taxes",
+          "strength": "strong",
+          "text": "The No on Measure Q campaign urges voters to reject Marina's proposed 7% utility users' tax, arguing it would be the highest rate on the Monterey Peninsula and would weigh most on working families.",
+          "quote": "You'll be paying the highest utility tax rate on the Peninsula",
+          "sourceUrl": "https://nomarinauut.com/",
+          "agreement": "2/3",
+          "voice": "own"
+        }
+      }
     }
   ],
   "sources": "cityofmarina.org",
