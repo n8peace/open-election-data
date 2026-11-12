@@ -31,7 +31,8 @@
           "text": "He supported tax reform that lowered rates for families and small businesses.",
           "quote": "I am thrilled we passed pro-growth tax reform which will benefit low- and middle-income earners.",
           "sourceUrl": "https://babin.house.gov/Issues/Issue/?IssueID=14890",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "wages": {
           "toward": "market-set wages",
@@ -39,7 +40,8 @@
           "text": "He voted against the Raise the Wage Act and said raising the minimum wage would eliminate jobs.",
           "quote": "Raising the minimum wage would eviscerate millions of jobs.",
           "sourceUrl": "https://babin.house.gov/news/email/show.aspx?ID=5KJ6AGZKY4QF4ZHFWB34PBQ46Y",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "own"
         },
         "trade": {
           "toward": "freer trade",
@@ -47,7 +49,8 @@
           "text": "He voted for trade negotiating legislation and said agreements could expand markets for American products.",
           "quote": "we can negotiate a free and fair trade agreement to expand markets for U.S.-made goods.",
           "sourceUrl": "https://babin.house.gov/news/documentsingle.aspx?DocumentID=269",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "own"
         },
         "schools": {
           "toward": "school choice",
@@ -55,7 +58,8 @@
           "text": "He said students in failing schools should have school choice, including private school opportunities.",
           "quote": "I believe that school choice initiatives should be available to children who are trapped in bad schools.",
           "sourceUrl": "https://babin.house.gov/news/email/show.aspx?ID=5W2INE5VH7UCQ",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "safety": {
           "toward": "more prevention",
@@ -63,7 +67,8 @@
           "text": "He introduced a bill to support community threat assessment efforts intended to prevent violence before attacks occur.",
           "quote": "This bipartisan bill will save lives by focusing efforts on prevention rather than simply reaction, because once the first shot is fired, it is too late.",
           "sourceUrl": "https://babin.house.gov/news/documentsingle.aspx?DocumentID=2376",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "own"
         },
         "immigration": {
           "toward": "stricter enforcement",
@@ -71,7 +76,8 @@
           "text": "He called for enforcing borders, ending catch and release, and deporting criminal aliens.",
           "quote": "It is imperative we keep our promise to the American people to build the wall and enforce our borders by utilizing new technology and supporting our law enforcement agencies.",
           "sourceUrl": "https://babin.house.gov/Issues/Issue/?IssueID=14897",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "guns": {
           "toward": "fewer restrictions",
@@ -79,7 +85,8 @@
           "text": "He said he supports gun owners’ rights and backed legislation for interstate concealed carry and firearm transport.",
           "quote": "I am fully committed to supporting the Second Amendment as a protected right guaranteed to individuals in the U.S. Constitution.",
           "sourceUrl": "https://babin.house.gov/issues/issue/?IssueID=14889",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "abortion": {
           "toward": "restricting abortion",
@@ -87,7 +94,8 @@
           "text": "He said he is committed to advancing a pro-life agenda and introduced a bill to bar COVID relief funds from covering abortions.",
           "quote": "As someone with strong pro-life convictions and a Member of the House Pro-Life Caucus, I am committed to advancing a pro-life agenda.",
           "sourceUrl": "https://babin.house.gov/issues/issue/?IssueID=14892",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "gender": {
           "toward": "rules based on sex at birth",
@@ -95,7 +103,8 @@
           "text": "He voted for the Protection of Women and Girls in Sports Act.",
           "quote": "Protection of Women and Girls in Sports Act",
           "sourceUrl": "https://clerk.house.gov/Votes/202512?BillNum=H.R.28&RollCallNum=12",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "record"
         },
         "health": {
           "toward": "private insurance",
@@ -103,7 +112,8 @@
           "text": "He voted for the American Health Care Act and advocated for insurance sales across state lines and more consumer choice.",
           "quote": "I promised the people of the 36th District of Texas that I would repeal Obamacare and replace it with a workable, affordable solution which lowers premiums while protecting those with preexisting conditions.",
           "sourceUrl": "https://babin.house.gov/Issues/Issue/?IssueID=14899",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -111,7 +121,8 @@
           "text": "He supported affordable domestic energy production and opposed regulations he said burden refineries and petrochemical plants.",
           "quote": "Providing reliable, affordable energy that powers our country and the world is what Texas does best.",
           "sourceUrl": "https://babin.house.gov/Issues/Issue/?IssueID=14891",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "voting": {
           "toward": "tighter rules",
@@ -119,7 +130,8 @@
           "text": "He voted for the SAVE Act, which he said would ensure only U.S. citizens can vote in federal elections.",
           "quote": "This legislation ensures that only U.S. citizens can vote in federal elections.",
           "sourceUrl": "https://babin.house.gov/news/documentsingle.aspx?DocumentID=14146",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "reported"
         }
       }
     },
@@ -133,7 +145,8 @@
           "text": "She says she will defend abortion rights and work to codify Roe v. Wade.",
           "quote": "In Congress, I’ll fight to defend a woman’s right to choose and work to pass federal laws to codify Roe v. Wade.",
           "sourceUrl": "https://www.ballotready.org/people/rhonda-hart",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         }
       }
     }
