@@ -31,7 +31,8 @@
           "text": "Jackson said he would continue implementing tax cuts enacted by House Republicans.",
           "quote": "If re-elected, I will continue working to lower energy costs, implement the historic tax cuts House Republicans delivered through One Big Beautiful Bill, and fix the disastrous economy that Joe Biden and the Democrats left us with.",
           "sourceUrl": "https://www.amarillopioneer.com/2026-primary-voter-guide/rjackson",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         },
         "wages": {
           "toward": "market-set wages",
@@ -39,7 +40,8 @@
           "text": "Jackson voted against final passage of the Protecting the Right to Organize Act, which would have strengthened union-organizing rights.",
           "quote": "Vote Question: On Passage\n\nProtecting the Right to Organize Act",
           "sourceUrl": "https://clerk.house.gov/Votes/202170",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "record"
         },
         "safety": {
           "toward": "more enforcement",
@@ -47,7 +49,8 @@
           "text": "Jackson helped secure federal funding for local law enforcement, including a sheriff's DNA system and a regional crime center.",
           "quote": "This included key funding for nuclear modernization of the Pantex Plant, advancement of district-specific university programs, support for local law enforcement, water resource improvements for TX-13, and more.",
           "sourceUrl": "https://jackson.house.gov/news/documentsingle.aspx?DocumentID=956",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "reported"
         },
         "immigration": {
           "toward": "stricter enforcement",
@@ -55,7 +58,8 @@
           "text": "Jackson calls for securing the border and stronger enforcement of existing immigration laws.",
           "quote": "We must secure our border and better enforce our existing immigration laws.",
           "sourceUrl": "https://jackson.house.gov/issues/issue/?IssueID=14922",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "guns": {
           "toward": "fewer restrictions",
@@ -63,7 +67,8 @@
           "text": "Jackson introduced legislation barring state and local governments from imposing insurance requirements, taxes, or fees on continued firearm ownership.",
           "quote": "This legislation would prohibit any state or local government from requiring insurance, taxes, user fees, or similar burdensome charges as a condition for the continued ownership of firearms, pistols, or revolvers.",
           "sourceUrl": "https://jackson.house.gov/news/documentsingle.aspx?DocumentID=2265",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "reported"
         },
         "abortion": {
           "toward": "restricting abortion",
@@ -71,7 +76,8 @@
           "text": "Jackson introduced legislation prohibiting the Defense Department from funding abortion services or related travel.",
           "quote": "This legislation will repeal the memorandum placing these policies into effect and prohibit any tax dollars from being used to carry out such a policy.",
           "sourceUrl": "https://jackson.house.gov/news/documentsingle.aspx?DocumentID=569",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "reported"
         },
         "gender": {
           "toward": "rules based on sex at birth",
@@ -79,7 +85,8 @@
           "text": "Jackson voted for the Protection of Women and Girls in Sports Act, which applies birth-sex rules to federally funded athletics.",
           "quote": "Protection of Women and Girls in Sports Act",
           "sourceUrl": "https://clerk.house.gov/Votes/202512",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "record"
         },
         "cannabis": {
           "toward": "keeping it illegal",
@@ -87,7 +94,8 @@
           "text": "Jackson strongly disagreed with legalizing recreational marijuana in a candidate questionnaire.",
           "quote": "I support the legalization of recreational marijuana.\n\nStrongly Disagree",
           "sourceUrl": "https://ivoterguide.com/candidate/52180/race/6570/election/791",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "reported"
         },
         "health": {
           "toward": "private insurance",
@@ -95,7 +103,8 @@
           "text": "Jackson favors competition and patient choice while opposing increased government involvement in health care.",
           "quote": "To address these challenges, one of my top priorities will be to advocate for meaningful patient-first healthcare policies, which will lower overall costs, foster competition, eliminate monopolies, promote transparency, and increase access in our rural areas, instead of policies which stifle innovation and undermine patient choice by increasing government intrusion.",
           "sourceUrl": "https://jackson.house.gov/issues/issue/?IssueID=74",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -103,7 +112,8 @@
           "text": "Jackson introduced legislation to expand domestic oil and gas production, rescind climate regulations, and pursue lower energy costs.",
           "quote": "Assert that it is the official policy of the United States to achieve full energy independence and low energy costs for its citizens in light of Russia’s invasion of Ukraine.",
           "sourceUrl": "https://jackson.house.gov/news/documentsingle.aspx?DocumentID=364",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "record"
         },
         "voting": {
           "toward": "tighter rules",
@@ -111,7 +121,8 @@
           "text": "Jackson urged the Senate to advance a budget framework intended to enact SAVE America Act election policies.",
           "quote": "Now it's time for the Senate to act so we can deliver on the critical defense funding, agricultural assistance, and SAVE America Act policies that Texans and Americans are counting on.",
           "sourceUrl": "https://jackson.house.gov/news/documentsingle.aspx?DocumentID=2597",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         }
       }
     },
@@ -157,7 +168,8 @@
           "text": "Nair supports greater investment in green energy, energy storage, efficiency, and transitioning away from fossil fuels.",
           "quote": "Increase incentives and investment in green energy. Texas, until recently, had done a good job at making this transition away from fossil fuels. But we still need investment in research around battery and energy storage solutions, including clever answers using heated salt and solar thermal.",
           "sourceUrl": "https://snapcoalition.org/initiatives/stance-on-science/candidates/tx/mark-nair",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         }
       }
     }
