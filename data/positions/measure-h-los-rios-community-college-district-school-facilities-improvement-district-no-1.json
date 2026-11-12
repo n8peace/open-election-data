@@ -11,7 +11,26 @@
   "choices": [
     {
       "name": "Yes",
-      "stances": {}
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "Measure H would let the district issue $1.1 billion in bonds for college facility repairs, paid for by property taxes on owners in the improvement district; the district says it is designed to keep current tax rates the same.",
+          "quote": "Measure H would be funded exclusively through property taxes paid by owners of residential property within the measure's boundaries in Sacramento and Yolo counties.",
+          "sourceUrl": "https://arc.losrios.edu/about-us/our-facilities/measure-h",
+          "agreement": "5/10",
+          "voice": "reported"
+        },
+        "schools": {
+          "toward": "district public schools",
+          "strength": "strong",
+          "text": "The Yes campaign supports Measure H funding for Los Rios community colleges and their students.",
+          "quote": "Protect affordable local colleges. All funds stay local, just for our students. Without Raising Taxes.",
+          "sourceUrl": "https://losriosyesonh.com/",
+          "agreement": "2/3",
+          "voice": "own"
+        }
+      }
     },
     {
       "name": "No",

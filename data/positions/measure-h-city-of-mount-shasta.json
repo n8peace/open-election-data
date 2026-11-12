@@ -10,7 +10,17 @@
   "choices": [
     {
       "name": "Yes",
-      "stances": {}
+      "stances": {
+        "tax": {
+          "toward": "more services",
+          "strength": "strong",
+          "text": "A Yes vote on Measure H approves a one percent local sales tax increase in Mt. Shasta to pay for city services such as fire protection, police patrols and street maintenance.",
+          "quote": "voters will be asked to consider Measure H, a one-cent local sales tax increase to help maintain essential City services.",
+          "sourceUrl": "https://www.siskiyou.news/2026/08/14/city-of-mt-shasta-a-message-from-the-acting-city-manager/",
+          "agreement": "2/3",
+          "voice": "reported"
+        }
+      }
     },
     {
       "name": "No",
