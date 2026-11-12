@@ -31,7 +31,8 @@
           "text": "He urged passage of a bill to expand Social Security benefits, funded in part by higher contributions from high earners.",
           "quote": "The Social Security 2100 Act changes that. It makes the wealthy pay their fair share, boosts benefits",
           "sourceUrl": "https://kennedy.house.gov/news/documentsingle.aspx?DocumentID=2473",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "own"
         },
         "wages": {
           "toward": "higher wage floors",
@@ -39,7 +40,8 @@
           "text": "He defended collective bargaining, saying it supports living wages and workers’ rights.",
           "quote": "It ensures living wages, safe working conditions, and a pathway to the middle class.",
           "sourceUrl": "https://kennedy.house.gov/news/documentsingle.aspx?DocumentID=1237",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "own"
         },
         "trade": {
           "toward": "freer trade",
@@ -47,7 +49,8 @@
           "text": "He led efforts to rescind tariffs on Canada, arguing they raise costs and threaten jobs.",
           "quote": "All these tariffs will do is destroy centuries of goodwill between our neighbors, create a new consumer tax on Americans who are already struggling to make ends meet, and cost jobs.",
           "sourceUrl": "https://kennedy.house.gov/news/documentsingle.aspx?DocumentID=1214",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "debt": {
           "toward": "protecting benefits",
@@ -55,7 +58,8 @@
           "text": "He urged Congress to strengthen Social Security and expand its benefits rather than reduce them.",
           "quote": "I won’t stop fighting to save Social Security and ensure that future generations can receive the benefits they have paid into and have rightfully earned.",
           "sourceUrl": "https://kennedy.house.gov/news/documentsingle.aspx?DocumentID=2473",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "own"
         },
         "housing": {
           "toward": "building more housing",
@@ -63,7 +67,8 @@
           "text": "His official issues page identifies increasing housing supply as a priority.",
           "quote": "Making housing more affordable and increasing supply Providing incentives to rehabilitate historic buildings",
           "sourceUrl": "https://kennedy.house.gov/issues/issue/?IssueID=14891",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "reported"
         },
         "schools": {
           "toward": "district public schools",
@@ -71,7 +76,8 @@
           "text": "He fought to restore funding to public schools and districts in need.",
           "quote": "He led the fight to eliminate the Gap Elimination Adjustment (GEA), which unfairly slashed billions from our public schools.",
           "sourceUrl": "https://kennedy.house.gov/issues/issue/?IssueID=73",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "reported"
         },
         "safety": {
           "toward": "neither side",
@@ -79,7 +85,8 @@
           "text": "He supported COPS grants for police while also emphasizing community investment to address crime’s root causes.",
           "quote": "Our police, sheriffs, and troopers put their lives on the line to keep our neighborhoods safe and these resources support that important work.",
           "sourceUrl": "https://kennedy.house.gov/news/documentsingle.aspx?DocumentID=1118",
-          "agreement": "3/10"
+          "agreement": "3/10",
+          "voice": "own"
         },
         "immigration": {
           "toward": "more legal pathways",
@@ -87,7 +94,8 @@
           "text": "He opposes expanded immigration enforcement tactics and calls for a fairer, lawful, and humane system.",
           "quote": "Instead of working to build a fairer immigration system, this administration has chosen to demonize immigrants and expand enforcement tactics that are reckless, dangerous, and inhumane.",
           "sourceUrl": "https://kennedy.house.gov/issues/issue/?IssueID=15081",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "own"
         },
         "guns": {
           "toward": "stricter gun laws",
@@ -95,7 +103,8 @@
           "text": "He supports universal background checks and other restrictions on firearms and related equipment.",
           "quote": "Pass universal background checks for all firearm purchases",
           "sourceUrl": "https://kennedy.house.gov/issues/issue/?IssueID=15077",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "reported"
         },
         "abortion": {
           "toward": "protecting access",
@@ -103,7 +112,8 @@
           "text": "He called for codifying Roe v. Wade and protecting abortion rights.",
           "quote": "Together, we will codify Roe v. Wade into law and protect women’s reproductive freedoms.",
           "sourceUrl": "https://kennedy.house.gov/news/documentsingle.aspx?DocumentID=1133",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "gender": {
           "toward": "rules based on gender identity",
@@ -111,7 +121,8 @@
           "text": "He voted against the Protection of Women and Girls in Sports Act, which would have based Title IX athletic rules on reproductive biology and genetics at birth.",
           "quote": "Protection of Women and Girls in Sports Act",
           "sourceUrl": "https://clerk.house.gov/Votes/202512?Title=sports",
-          "agreement": "3/10"
+          "agreement": "3/10",
+          "voice": "record"
         },
         "health": {
           "toward": "public coverage",
@@ -119,7 +130,8 @@
           "text": "He supports protecting and expanding the Affordable Care Act and investing in health services.",
           "quote": "Protect and expand the Affordable Care Act",
           "sourceUrl": "https://kennedy.house.gov/issues/issue/?IssueID=74",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "reported"
         },
         "energy": {
           "toward": "faster emissions cuts",
@@ -127,7 +139,8 @@
           "text": "He supports legislation to cut carbon emissions and strengthen the green energy economy.",
           "quote": "Rep. Kennedy is committed to advancing policies that address the urgent threat of climate change, safeguard our natural resources, and ensure a sustainable future for generations to come.",
           "sourceUrl": "https://kennedy.house.gov/issues/issue/?IssueID=10177",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "reported"
         },
         "voting": {
           "toward": "easier voting",
@@ -135,7 +148,8 @@
           "text": "His official issues page says he has voted to expand voting rights and is focused on protecting them.",
           "quote": "Rep. Kennedy has fought for equality and social justice, voting to legalize marriage equality, expand voting rights, and give striking workers access to unemployment benefits.",
           "sourceUrl": "https://kennedy.house.gov/issues/issue/?IssueID=15080",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "reported"
         }
       }
     },
@@ -149,7 +163,8 @@
           "text": "His campaign proposes tax rebates to provide relief to working-class families.",
           "quote": "Provide relief to struggling working class families through tax rebates",
           "sourceUrl": "https://www.hannonforcongress.com/",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         },
         "safety": {
           "toward": "more enforcement",
@@ -157,7 +172,8 @@
           "text": "He supports grants for cooperation between local and federal agencies under his safer-communities plan.",
           "quote": "Support local and federal agency cooperation through grants",
           "sourceUrl": "https://www.hannonforcongress.com/",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "own"
         },
         "immigration": {
           "toward": "stricter enforcement",
@@ -165,7 +181,8 @@
           "text": "His campaign calls for enforcing immigration and border policies, prioritizing public safety, and strengthening worksite compliance.",
           "quote": "Enforce immigration and border protection policies with a priortization on serious public safety threats",
           "sourceUrl": "https://www.hannonforcongress.com/",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "own"
         },
         "gender": {
           "toward": "rules based on sex at birth",
@@ -173,7 +190,8 @@
           "text": "His campaign says spaces and opportunities should be safeguarded based on biological similarities.",
           "quote": "Keep the protected classes protected: Safeguard spaces and opportunities based on biological similiarities",
           "sourceUrl": "https://www.hannonforcongress.com/",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -181,7 +199,8 @@
           "text": "His campaign proposes barring state and local governments from limiting energy sources and reducing red tape for energy extraction leases.",
           "quote": "Prohibit state and local governments from banning or limiting specific energy sources",
           "sourceUrl": "https://www.hannonforcongress.com/",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         }
       }
     }
