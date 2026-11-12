@@ -85,7 +85,8 @@
           "text": "His campaign says he wants to make the Trump tax cuts permanent so families and small businesses keep more of their income.",
           "quote": "Make the Trump tax cuts permanent so families and small businesses keep more of what they earn.",
           "sourceUrl": "https://russellfrysc.com/issues/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "debt": {
           "toward": "shrinking the debt",
@@ -93,7 +94,8 @@
           "text": "His campaign says he would cut federal spending and rein in the debt.",
           "quote": "Cut wasteful federal spending, rein in the debt, and end the bailouts and handouts to insiders.",
           "sourceUrl": "https://russellfrysc.com/issues/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "schools": {
           "toward": "school choice",
@@ -101,7 +103,8 @@
           "text": "His campaign says he supports school choice and letting education dollars follow students.",
           "quote": "Champion school choice and let education dollars follow the student.",
           "sourceUrl": "https://russellfrysc.com/issues/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "safety": {
           "toward": "more enforcement",
@@ -109,7 +112,8 @@
           "text": "He said he secured funding for police equipment and vehicles in Hartsville.",
           "quote": "The City of Hartsville Police Department will receive $360,106 for equipment and vehicles, including new cruisers, radar systems, and public safety tools, modernizing operations and enhancing officer readiness.",
           "sourceUrl": "https://fry.house.gov/news/documentsingle.aspx?DocumentID=1029",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "reported"
         },
         "immigration": {
           "toward": "stricter enforcement",
@@ -117,7 +121,8 @@
           "text": "His campaign calls for strengthening immigration enforcement, ending catch-and-release, and deporting criminal undocumented immigrants.",
           "quote": "STRENGTHEN immigration law, END catch-and-release, and DEPORT criminal illegal aliens.",
           "sourceUrl": "https://russellfrysc.com/issues/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "guns": {
           "toward": "fewer restrictions",
@@ -125,7 +130,8 @@
           "text": "His campaign biography says that in the South Carolina House he worked to safeguard the Second Amendment.",
           "quote": "As Chief Majority Whip in the State House, he fought to lower taxes, defend the unborn, and safeguard the 2nd Amendment.",
           "sourceUrl": "https://russellfrysc.com/about/",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "reported"
         },
         "abortion": {
           "toward": "restricting abortion",
@@ -133,7 +139,8 @@
           "text": "His campaign biography says that in the South Carolina House he worked to defend the unborn.",
           "quote": "As Chief Majority Whip in the State House, he fought to lower taxes, defend the unborn, and safeguard the 2nd Amendment.",
           "sourceUrl": "https://russellfrysc.com/about/",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "reported"
         },
         "gender": {
           "toward": "rules based on sex at birth",
@@ -141,7 +148,8 @@
           "text": "He voted yes on the 2025 Protection of Women and Girls in Sports Act.",
           "quote": "Protection of Women and Girls in Sports Act",
           "sourceUrl": "https://clerk.house.gov/Votes/202512",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "record"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -149,7 +157,8 @@
           "text": "He says he supports expanding domestic energy production to lower costs and advance energy independence.",
           "quote": "We must unleash America’s energy potential to lower costs, grow our economy, and stop having to rely on foreign dictators for energy.",
           "sourceUrl": "https://fry.house.gov/issues/issue/?IssueID=10177",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         }
       }
     }
