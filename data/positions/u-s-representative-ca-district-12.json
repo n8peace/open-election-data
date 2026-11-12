@@ -31,7 +31,8 @@
           "text": "She calls for the wealthiest Americans and corporations to pay their fair share to reduce income inequality.",
           "quote": "Lateefah will push for economic policies that ensure the wealthiest Americans and corporations pay their fair share to reduce income inequality",
           "sourceUrl": "https://www.lateefahsimon.com/issues/affordability-and-job-creation",
-          "agreement": "3/10"
+          "agreement": "3/10",
+          "voice": "reported"
         },
         "wages": {
           "toward": "higher wage floors",
@@ -39,7 +40,8 @@
           "text": "She backs labor law reforms to strengthen collective bargaining and supports a living wage.",
           "quote": "Lateefah will continue to fight for the rights of workers by enacting comprehensive labor law reforms to ensure collective bargaining and workplace democracy for all workers",
           "sourceUrl": "https://www.lateefahsimon.com/issues/affordability-and-job-creation",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "reported"
         },
         "housing": {
           "toward": "building more housing",
@@ -47,7 +49,8 @@
           "text": "She prioritizes building affordable housing and transit-oriented development to address the housing crisis.",
           "quote": "With a focus on urgency and innovation, Lateefah is leading efforts to build affordable housing and transit-oriented development.",
           "sourceUrl": "https://www.lateefahsimon.com/issues/affordable-housing",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "reported"
         },
         "safety": {
           "toward": "more prevention",
@@ -55,7 +58,8 @@
           "text": "She favors funding mental health, addiction treatment, and recidivism-prevention programs as part of her public safety approach.",
           "quote": "provides resources for mental health, addiction treatment, and programs geared towards preventing recidivism",
           "sourceUrl": "https://www.lateefahsimon.com/issues/new-issue",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "reported"
         },
         "immigration": {
           "toward": "more legal pathways",
@@ -63,7 +67,8 @@
           "text": "She supports expanding legal pathways to work authorization and citizenship and separating the criminal and immigration systems.",
           "quote": "She will work to create a fair and humane immigration system that would disentangle the criminal system from the immigration system and expand legal pathways to work authorization and citizenship.",
           "sourceUrl": "https://www.lateefahsimon.com/issues/immigration",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "reported"
         },
         "guns": {
           "toward": "stricter gun laws",
@@ -71,7 +76,8 @@
           "text": "She backs legislation to close loopholes in federal gun laws and stop the flow of illegal firearms.",
           "quote": "Lateefah will champion legislation that closes loopholes in federal gun laws, stops the flow of illegal firearms into the community",
           "sourceUrl": "https://www.lateefahsimon.com/issues/new-issue",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "reported"
         },
         "abortion": {
           "toward": "protecting access",
@@ -79,7 +85,8 @@
           "text": "Introduced and supported a resolution affirming reproductive freedom and access to reproductive health care.",
           "quote": "This resolution affirms reproductive freedom as a fundamental human right",
           "sourceUrl": "https://simon.house.gov/media/press-releases/congresswomen-simon-pressley-and-kamlager-dove-introduce-resolution-advance",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "record"
         },
         "gender": {
           "toward": "rules based on gender identity",
@@ -87,7 +94,8 @@
           "text": "She champions policies that protect transgender rights and access to gender-affirming health care.",
           "quote": "She will not only support but champion policies that combat discrimination, protect transgender rights, and ensure access to healthcare and social services for LGBTQ+ people.",
           "sourceUrl": "https://www.lateefahsimon.com/issues/lgbtq-rights",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "reported"
         },
         "health": {
           "toward": "public coverage",
@@ -95,7 +103,8 @@
           "text": "She advocates for a public option and ultimately an affordable single-payer health system, plus expanded Medicare.",
           "quote": "Lateefah will fight to expand and protect healthcare coverage, advocating for a public option and ultimately working towards an affordable single-payer health system.",
           "sourceUrl": "https://www.lateefahsimon.com/issues/healthcare-for-all",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "reported"
         },
         "energy": {
           "toward": "faster emissions cuts",
@@ -103,7 +112,8 @@
           "text": "She calls climate the biggest existential threat and backs a transition to net-zero emissions and the Green New Deal.",
           "quote": "Critical to this work is the transition to net-zero emissions and our continued investment into clean energy alternatives.",
           "sourceUrl": "https://www.lateefahsimon.com/issues/climate-and-environmental-justice",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "own"
         },
         "voting": {
           "toward": "easier voting",
@@ -111,7 +121,8 @@
           "text": "She supports the John Lewis Voting Rights Advancement Act, automatic voter registration, and reducing barriers to voting.",
           "quote": "She will support the John Lewis Voting Rights Advancement Act, push for automatic voter registration, and advocate for measures that reduce barriers to voting.",
           "sourceUrl": "https://www.lateefahsimon.com/issues/voting-rights-and-democracy-reform",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "reported"
         }
       }
     },
@@ -125,7 +136,8 @@
           "text": "Joyce authored a dedicated title of her MAD Act aimed at removing ICE from streets and sharply restricting interior immigration enforcement.",
           "quote": "A strategy to get ICE off of our streets (urban and suburban areas) immediately is the 8th title of the MAD Act.",
           "sourceUrl": "https://www.themadact.com/title-viii",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         }
       }
     }
