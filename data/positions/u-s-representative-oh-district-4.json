@@ -31,7 +31,8 @@
           "text": "Jordan says more money should stay with families and supports low taxes.",
           "quote": "Low taxes foster a healthier economy across the board—encouraging entrepreneurship, job creation and improving the international competitiveness of our nation’s businesses.",
           "sourceUrl": "https://jordan.house.gov/issues",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "wages": {
           "toward": "market-set wages",
@@ -39,7 +40,8 @@
           "text": "Jordan voted against the Raise the Wage Act, which would have increased the federal minimum wage.",
           "quote": "Vote Question: On Passage Raise the Wage Act Vote Type: Recorded Vote Status: Passed",
           "sourceUrl": "https://clerk.house.gov/Votes/2019496",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "record"
         },
         "trade": {
           "toward": "freer trade",
@@ -47,7 +49,8 @@
           "text": "Jordan called for policies that open markets for farmers and criticized high tariffs on U.S. agricultural exports.",
           "quote": "We need policies that open up the playing field, so that our farmers can better compete in the national and international markets.",
           "sourceUrl": "https://jordan.house.gov/issues",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "own"
         },
         "debt": {
           "toward": "neither side",
@@ -55,7 +58,8 @@
           "text": "Jordan says he would preserve benefits for current and near retirees while considering greater control over Social Security contributions for younger people.",
           "quote": "examining practical means of giving younger individuals more control over how the money they contribute to Social Security is spent.",
           "sourceUrl": "https://jordan.house.gov/issues/social-security",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "own"
         },
         "schools": {
           "toward": "school choice",
@@ -63,7 +67,8 @@
           "text": "Jordan supports education policies that give parents freedom to guide their children's education.",
           "quote": "I support policies that give parents the freedom to guide their children’s education.",
           "sourceUrl": "https://jordan.house.gov/issues/education",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "own"
         },
         "safety": {
           "toward": "more enforcement",
@@ -71,7 +76,8 @@
           "text": "Jordan sharply criticized calls to defund or abolish police departments.",
           "quote": "This idea you're hearing from the left about defunding the police is the most insane, ridiculous public policy proposal I've ever heard",
           "sourceUrl": "https://www.wbur.org/hereandnow/2020/06/11/jim-jordan-police-reform-floyd",
-          "agreement": "3/10"
+          "agreement": "3/10",
+          "voice": "own"
         },
         "immigration": {
           "toward": "stricter enforcement",
@@ -79,7 +85,8 @@
           "text": "Jordan says he opposes illegal immigration and amnesty and supports securing the border and robust enforcement.",
           "quote": "My strategy for dealing with the many problems posted by illegal immigration is threefold: secure the border, robustly enforce our immigration laws",
           "sourceUrl": "https://jordan.house.gov/issues",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "own"
         },
         "guns": {
           "toward": "fewer restrictions",
@@ -87,7 +94,8 @@
           "text": "Jordan opposed gun restrictions in a committee bill and criticized limits on when and how law-abiding people may own and store firearms.",
           "quote": "what this bill does is it tells law-abiding citizens when you can get a gun, what kind of gun you can get, what accessories you can get for your gun",
           "sourceUrl": "https://judiciary.house.gov/media/press-releases/ranking-member-jordan-attacking-the-second-amendment-is-not-the-solution",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "abortion": {
           "toward": "restricting abortion",
@@ -95,7 +103,8 @@
           "text": "Jordan says he supports defending unborn life and that life begins at conception.",
           "quote": "I am committed to the view that life is sacred, that it begins at conception and that the Founding Fathers were correct in placing life first among the list of rights the Constitution was written to defend.",
           "sourceUrl": "https://jordan.house.gov/issues",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "gender": {
           "toward": "rules based on sex at birth",
@@ -103,7 +112,8 @@
           "text": "Jordan voted for the Protection of Women and Girls in Sports Act, which bases Title IX athletics rules on sex at birth.",
           "quote": "Vote Question: On Passage Protection of Women and Girls in Sports Act Vote Type: Yea-And-Nay Status: Passed",
           "sourceUrl": "https://clerk.house.gov/Votes/202512",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "record"
         },
         "cannabis": {
           "toward": "keeping it illegal",
@@ -111,7 +121,8 @@
           "text": "Jordan voted against the MORE Act, which would have removed marijuana from the federal Controlled Substances Act.",
           "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay Status: Passed",
           "sourceUrl": "https://clerk.house.gov/Votes/2020235",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "record"
         },
         "health": {
           "toward": "private insurance",
@@ -119,7 +130,8 @@
           "text": "Jordan criticized a government-run health care system and advocated expanding private coverage options and health savings accounts.",
           "quote": "It will force Americans from private healthcare into a government-run system that will put Washington bureaucrats in charge of rationing care.",
           "sourceUrl": "https://jordan.house.gov/issues/healthcare",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -127,7 +139,8 @@
           "text": "Jordan called for expanding domestic oil and gas supply, citing high gas prices and dependence on foreign oil.",
           "quote": "We need to increase domestic oil and gas supply by exploring and utilizing more of the energy resources we have at home.",
           "sourceUrl": "https://jordan.house.gov/issues",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "voting": {
           "toward": "tighter rules",
@@ -135,7 +148,8 @@
           "text": "Jordan voted yes on the Safeguard American Voter Eligibility Act, which requires proof of citizenship for federal voter registration.",
           "quote": "Vote Question: On Passage Safeguard American Voter Eligibility Act",
           "sourceUrl": "https://clerk.house.gov/Votes/2024345",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "record"
         }
       }
     },
@@ -149,7 +163,8 @@
           "text": "He criticized school voucher programs as diverting support from Ohio public education.",
           "quote": "School voucher programs are trying to fund for-profit schools at the cost of public education for Ohio’s youth.",
           "sourceUrl": "https://www.joshuaforohio.com/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "health": {
           "toward": "neither side",
@@ -157,7 +172,8 @@
           "text": "His platform calls for exploring both public and private health care options to reduce costs.",
           "quote": "Explore both public and private options that reduce costs for every American",
           "sourceUrl": "https://www.joshuaforohio.com/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         }
       }
     },
@@ -171,7 +187,8 @@
           "text": "Tackett says she would seek more federal resources and funding for local frontline services.",
           "quote": "Every community will have the needed funding for frontline workers, police, and firemen.",
           "sourceUrl": "https://www.traceytackett.org/issues",
-          "agreement": "3/10"
+          "agreement": "3/10",
+          "voice": "own"
         },
         "safety": {
           "toward": "more enforcement",
@@ -179,7 +196,8 @@
           "text": "She says she would seek federal funding for local frontline workers, including police and firefighters.",
           "quote": "Every community will have the needed funding for frontline workers, police, and firemen.",
           "sourceUrl": "https://www.traceytackett.org/issues",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "immigration": {
           "toward": "neither side",
@@ -187,7 +205,8 @@
           "text": "She calls for ending illegal immigration and removing violent criminals while also supporting legal work visas and a citizenship pathway for some undocumented residents.",
           "quote": "That offers a pathway to citizenship for those who came here illegally under the failed policies of the past but who live and work and raise families and follow our laws and truly wish to be American.",
           "sourceUrl": "https://www.traceytackett.org/issues",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -195,7 +214,8 @@
           "text": "She supports developing low-cost energy, including solar and natural gas, and says high energy prices hurt households and industry.",
           "quote": "We need an All of the Above energy policy. Committed to developing the lowest cost, cleanest, and most abundant energy sources. Solar power and natural gas lead the pack.",
           "sourceUrl": "https://www.traceytackett.org/issues",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "voting": {
           "toward": "tighter rules",
@@ -203,7 +223,8 @@
           "text": "Tackett supports providing free photo identification to every citizen as part of secure election participation.",
           "quote": "Provide states the funding to give every citizen a photo-id free of charge for safe, secure, and free participation in voting.",
           "sourceUrl": "https://www.traceytackett.org/issues",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "own"
         }
       }
     }
