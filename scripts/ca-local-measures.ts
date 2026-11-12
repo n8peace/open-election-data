@@ -19,6 +19,7 @@ import { z } from 'zod';
 import { contestKey, POSITIONS_DIR } from '../lib/ballot/positions';
 import { runCli } from '../lib/research/backends';
 import { claudePlanAllowed, listModel } from '../lib/research/agent';
+import { ccdDivision } from '../lib/research/ccd';
 import { mapMeasureIssues } from './research-state';
 
 const run = promisify(execFile);
@@ -68,6 +69,7 @@ async function readList(backend: 'claude-code' | 'codex', county: string) {
   }
 }
 
+
 const slug = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
 /** The district key voters are matched by (see lib/address/census.ts). */
@@ -75,6 +77,12 @@ export function localDivision(m: Pick<Measure, 'jurisdiction' | 'type'>, county:
   const j = m.jurisdiction.trim();
   if (m.type === 'county') return `ca/county-${slug(county)}`;
   if (m.type === 'city') return `ca/place-${slug(j.replace(/^(city|town) of /i, '').replace(/ (city|town)$/i, ''))}`;
+  // A sub-area of a college district (e.g. a "School Facilities Improvement District") has no
+  // boundary we can match, so it keeps the school form and reaches no one until it has one.
+  if (m.type === 'school' && !/improvement district/i.test(j)) {
+    const ccd = ccdDivision(j);
+    if (ccd) return ccd;
+  }
   if (m.type === 'school') return `ca/school-${slug(j.replace(/ school district$/i, ''))}`;
   return null;
 }
