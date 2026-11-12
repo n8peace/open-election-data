@@ -31,7 +31,8 @@
           "text": "Kelly backs President Trump's use of trade tools, including tariffs, to help American companies compete, and co-sponsored steel trade-enforcement legislation.",
           "quote": "President Trump has committed to using every tool in the toolbox to ensure American companies can fairly compete in the global economy.",
           "sourceUrl": "https://kelly.house.gov/media/press-releases/kelly-statement-supreme-court-ruling-tariffs",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         },
         "debt": {
           "toward": "protecting benefits",
@@ -39,7 +40,8 @@
           "text": "Kelly says preserving and strengthening Social Security to improve retirement security is a top priority.",
           "quote": "Starting with preserving and strengthening the Social Security system, Rep. Kelly's highest priority is to improve retirement security for older Americans today and for future generations.",
           "sourceUrl": "https://kelly.house.gov/issues/seniors-retirement-security",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "reported"
         },
         "schools": {
           "toward": "school choice",
@@ -47,7 +49,8 @@
           "text": "Kelly favors expanding parental choice in education and less federal control of schools.",
           "quote": "We need to focus on expanding parental choice, enacting accountability, flexibility, and ensuring education is not being micro-managed at the federal level.",
           "sourceUrl": "https://kelly.house.gov/issues/education",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         },
         "immigration": {
           "toward": "stricter enforcement",
@@ -55,7 +58,8 @@
           "text": "Kelly praised the Secure the Border Act and calls for curbing illegal immigration at the southern border.",
           "quote": "The Secure The Border Act takes a serious step toward curbing the surge of illegal immigration at our Southern border.",
           "sourceUrl": "https://kelly.house.gov/media/press-releases/kelly-praises-house-passage-secure-border-act",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         },
         "guns": {
           "toward": "fewer restrictions",
@@ -63,7 +67,8 @@
           "text": "Kelly calls himself a strong Second Amendment supporter opposed to government infringement on gun rights.",
           "quote": "It protects law-abiding citizens from the government's infringement on our right to keep and bear arms.",
           "sourceUrl": "https://kelly.house.gov/issues/second-amendment-rights",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "reported"
         },
         "abortion": {
           "toward": "restricting abortion",
@@ -71,7 +76,8 @@
           "text": "Kelly identifies as pro-life and pledges to protect unborn life.",
           "quote": "I will continue to defend these unalienable rights, and work to protect the most vulnerable among us, especially the unborn.",
           "sourceUrl": "https://kelly.house.gov/issues",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         },
         "health": {
           "toward": "private insurance",
@@ -79,7 +85,8 @@
           "text": "Kelly worked to roll back the Affordable Care Act and opposes government-run health care in favor of market competition and patient choice.",
           "quote": "Healthcare should be affordable, accessible, and free from bureaucratic government interference.",
           "sourceUrl": "https://kelly.house.gov/issues/health-care",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -87,7 +94,8 @@
           "text": "Kelly backs expanded domestic oil and gas production and criticizes policies that restrict fossil fuel energy.",
           "quote": "Since day one in office, President Biden has waged war on American energy",
           "sourceUrl": "https://kelly.house.gov/media/press-releases/during-energy-week-kelly-backs-protecting-american-energy-production-act",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         }
       }
     },
@@ -101,7 +109,8 @@
           "text": "Wagner opposes the 2017 tax cuts and calls for tax policy in which the wealthy pay more so programs can be funded.",
           "quote": "I will vote to pass tax policy that does not allow working-class families to pay a higher tax rate than billionaires.",
           "sourceUrl": "https://www.justinwagnerforcongress.com/platform",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         },
         "wages": {
           "toward": "higher wage floors",
@@ -109,7 +118,8 @@
           "text": "Wagner wants to raise the federal minimum wage, tie it to inflation, and pass the PRO Act to protect union organizing.",
           "quote": "It's long past time to raise the federal minimum wage",
           "sourceUrl": "https://www.justinwagnerforcongress.com/platform",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         },
         "debt": {
           "toward": "protecting benefits",
@@ -117,7 +127,8 @@
           "text": "Wagner pledges to oppose any cuts to Social Security benefits, raising the retirement age, or privatization.",
           "quote": "I will flatly oppose any effort to cut benefits, raise the retirement age, or privatize the system.",
           "sourceUrl": "https://www.justinwagnerforcongress.com/platform",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         },
         "schools": {
           "toward": "district public schools",
@@ -125,7 +136,8 @@
           "text": "Wagner opposes school vouchers that divert money from public school funding.",
           "quote": "I do not support school vouchers that take away from public school funding.",
           "sourceUrl": "https://www.justinwagnerforcongress.com/platform",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         },
         "immigration": {
           "toward": "more legal pathways",
@@ -133,7 +145,8 @@
           "text": "Wagner calls for a path to citizenship, protecting DACA recipients, and expanding legal pathways for essential workers.",
           "quote": "Establish a workable path to citizenship, protect DACA recipients, and expand transparent, legal pathways for agricultural and essential workers who keep Western Pennsylvania's economy moving.",
           "sourceUrl": "https://www.justinwagnerforcongress.com/platform",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         },
         "health": {
           "toward": "public coverage",
@@ -141,7 +154,8 @@
           "text": "Wagner pledges to co-sponsor and vote for Medicare for All and to protect and expand the ACA.",
           "quote": "I will co-sponsor and vote to pass The Medicare For All Act (H.R. 3069).",
           "sourceUrl": "https://www.justinwagnerforcongress.com/platform",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         }
       }
     }
