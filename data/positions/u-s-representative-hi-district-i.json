@@ -31,7 +31,8 @@
           "text": "Berning says he opposes abortion and supports practical assistance for women who want to continue a pregnancy.",
           "quote": "I oppose abortion. I also believe being pro-life must mean more than telling a frightened woman what she should not do.",
           "sourceUrl": "https://berningforcongress.com/",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         }
       }
     },
@@ -45,7 +46,8 @@
           "text": "He voted for the Inflation Reduction Act, which included a minimum tax on large multinational businesses and major public investments.",
           "quote": "Assuring that our largest multinational businesses, some of which are paying very low or no taxes, finally pay a minimum 15% tax rate.",
           "sourceUrl": "https://case.house.gov/news/documentsingle.aspx?DocumentID=948",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "reported"
         },
         "wages": {
           "toward": "higher wage floors",
@@ -53,7 +55,8 @@
           "text": "He voted for the Raise the Wage Act.",
           "quote": "Vote Question: On Passage Raise the Wage Act",
           "sourceUrl": "https://clerk.house.gov/Votes/2019496",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "record"
         },
         "trade": {
           "toward": "freer trade",
@@ -61,7 +64,8 @@
           "text": "He introduced bills to reform the Jones Act and argued for more competition in domestic cargo shipping.",
           "quote": "most of the world's shipping is by way of an international merchant marine functioning in an open, competitive market.",
           "sourceUrl": "https://case.house.gov/news/documentsingle.aspx?DocumentID=112",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "debt": {
           "toward": "protecting benefits",
@@ -69,7 +73,8 @@
           "text": "His agenda says to preserve and strengthen Social Security and Medicare.",
           "quote": "We must preserve and strengthen Social Security and Medicare and fulfill our commitments to our veterans and others.",
           "sourceUrl": "https://edcase.com/agenda/",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "housing": {
           "toward": "building more housing",
@@ -77,7 +82,8 @@
           "text": "He introduced a bill to encourage affordable housing development in designated transit-oriented areas.",
           "quote": "By encouraging affordable housing near existing transportation infrastructure, we can help reduce transportation costs for residents, improve access to jobs and essential services and support more efficient and sustainable community growth.",
           "sourceUrl": "https://case.house.gov/news/documentsingle.aspx?DocumentID=4940",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "schools": {
           "toward": "district public schools",
@@ -85,7 +91,8 @@
           "text": "He requested and supported federal funding that helps Hawaii public schools educate military children.",
           "quote": "$70 million for Impact Aid programs, which help Hawaii’s public schools by partially reimbursing the cost of educating military children.",
           "sourceUrl": "https://case.house.gov/news/documentsingle.aspx?DocumentID=4822",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "reported"
         },
         "safety": {
           "toward": "neither side",
@@ -93,7 +100,8 @@
           "text": "He backed a funding measure that increased support for law enforcement while also funding prevention and education.",
           "quote": "The more than $4.2 billion in the bill to help local and state law enforcement will help not only to investigate and prosecute crime but will also go to prevention and education programs to stop crime before it happens.",
           "sourceUrl": "https://case.house.gov/news/documentsingle.aspx?DocumentID=3415",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "own"
         },
         "immigration": {
           "toward": "more legal pathways",
@@ -101,7 +109,8 @@
           "text": "His agenda supports expanding legal immigration while curtailing illegal immigration.",
           "quote": "Support expanded legal immigration while curtailing illegal immigration",
           "sourceUrl": "https://edcase.com/agenda/",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "own"
         },
         "guns": {
           "toward": "stricter gun laws",
@@ -109,7 +118,8 @@
           "text": "He voted for the Bipartisan Background Checks Act of 2021.",
           "quote": "Vote Question: On Passage Bipartisan Background Checks Act",
           "sourceUrl": "https://clerk.house.gov/Votes/202175",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "record"
         },
         "abortion": {
           "toward": "protecting access",
@@ -117,7 +127,8 @@
           "text": "He called the Supreme Court decision overturning Roe v. Wade tragic and said Hawai‘i should stand against further restrictions on rights.",
           "quote": "Our Hawai‘i had it right with our first-in-the-nation law in 1970, and must now stand strong with other like-minded states against the further assault on women’s and other rights",
           "sourceUrl": "https://case.house.gov/news/documentsingle.aspx?DocumentID=909",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "own"
         },
         "health": {
           "toward": "public coverage",
@@ -125,7 +136,8 @@
           "text": "He voted for the Inflation Reduction Act, including Medicare drug-price negotiation and expanded Affordable Care Act premium subsidies.",
           "quote": "Empowers the federal government to negotiate drug prices on the highest cost single-source drugs purchased in Medicare, lowering prices for seniors and people with disabilities.",
           "sourceUrl": "https://case.house.gov/news/documentsingle.aspx?DocumentID=948",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "reported"
         },
         "energy": {
           "toward": "faster emissions cuts",
@@ -133,7 +145,8 @@
           "text": "He voted for the Inflation Reduction Act, which he described as making a major U.S. climate investment.",
           "quote": "The Inflation Reduction Act of 2022 (Act), which will make the largest climate investment in American history",
           "sourceUrl": "https://case.house.gov/news/documentsingle.aspx?DocumentID=948",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "reported"
         },
         "voting": {
           "toward": "easier voting",
@@ -141,7 +154,8 @@
           "text": "He voted for the For the People Act and other measures addressing voter access.",
           "quote": "Voted YEA on H.R. 1, the For the People Act, which would address voter access, election integrity and security, campaign finance, and ethics for the three branches of government.",
           "sourceUrl": "https://case.house.gov/uploadedfiles/final_voting_rights_leg_history.pdf",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "record"
         }
       }
     },
@@ -171,7 +185,8 @@
           "text": "He said he supports fully repealing the Jones Act.",
           "quote": "Getting rid of the Jones Act is Top 10 or so of my issues. I support a full repeal.",
           "sourceUrl": "https://www.civilbeat.org/2026/06/candidate-qa-us-house-district-1-jordan-conley/",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         },
         "safety": {
           "toward": "more prevention",
@@ -209,7 +224,8 @@
           "text": "He said he would relieve tax burdens on individuals and businesses.",
           "quote": "Relieve tax burden on individuals and businesses; reform regulatory environment for businesses",
           "sourceUrl": "https://hawaiifamilyforum.org/wp-content/uploads/2022/08/2022_Primary_Survey-4.pdf",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         },
         "debt": {
           "toward": "shrinking the debt",
@@ -217,7 +233,8 @@
           "text": "In a candidate questionnaire, he said Social Security, Medicare and Medicaid should be given back to individuals or collective entities to manage for their futures.",
           "quote": "Safety nets are for emergency, exigent circumstances, not routine, regular, or even abnormal conditions. These programs need to be given back to the individuals and/or collective entities to plan, manage, invest and incentivized to prepare for their future.",
           "sourceUrl": "https://www.civilbeat.org/2024/08/candidate-qa-u-s-senate-adriel-lam/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         }
       }
     },
@@ -231,7 +248,8 @@
           "text": "He proposes increasing the child tax credit for families.",
           "quote": "Increase the child tax credit to provide greater tax relief for families.",
           "sourceUrl": "https://www.votebrentonawa.com/issues",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "own"
         },
         "trade": {
           "toward": "freer trade",
@@ -239,7 +257,8 @@
           "text": "He says he would oppose the Jones Act's restriction on shipping competition to Hawaii.",
           "quote": "anyone campaigning on affordability while refusing to challenge a law restricting shipping competition to an island state should raise red flags.",
           "sourceUrl": "https://www.civilbeat.org/2026/09/candidate-qa-us-house-district-2-brenton-awa/",
-          "agreement": "3/10"
+          "agreement": "3/10",
+          "voice": "own"
         },
         "housing": {
           "toward": "building more housing",
@@ -247,7 +266,8 @@
           "text": "Awa proposes using suitable federal land to create homes for local residents.",
           "quote": "unlocking suitable federal land for local homes.",
           "sourceUrl": "https://www.votebrentonawa.com/issues",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "safety": {
           "toward": "more enforcement",
@@ -255,7 +275,8 @@
           "text": "Awa proposes temporarily deploying National Guard units to support local law enforcement in high-crime areas.",
           "quote": "Temporary deployment of National Guard units to support local law enforcement in high crime areas identified by crime data and local requests, focused on restoring public safety.",
           "sourceUrl": "https://www.votebrentonawa.com/issues",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "guns": {
           "toward": "fewer restrictions",
@@ -263,7 +284,8 @@
           "text": "He voted against a bill that would have tightened Hawaii's assault-weapons restrictions.",
           "quote": "Rhoads and Sens. Brandon Elefante and Joy San Buenaventura voted to pass the amended version, and Sens. Mike Gabbard and Brenton Awa voted against.",
           "sourceUrl": "https://www.civilbeat.org/2024/02/assault-rifles-and-shotguns-would-still-be-allowed-in-hawaii-under-amended-bill/",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "record"
         },
         "abortion": {
           "toward": "restricting abortion",
@@ -271,7 +293,8 @@
           "text": "He voted against a bill protecting abortion patients and providers from out-of-state penalties.",
           "quote": "SB 1 passed in the Senate this week with 22 votes in support and three in opposition. Democratic Sen. Mike Gabbard and the only two Republicans, Sens. Kurt Fevella and Brenton Awa, voted no.",
           "sourceUrl": "https://www.hawaiipublicradio.org/local-news/2023-03-08/hawaii-state-senate-votes-to-protect-abortion-rights",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "record"
         },
         "cannabis": {
           "toward": "legalizing it",
@@ -279,7 +302,8 @@
           "text": "He helped introduce a recreational-marijuana legalization bill and said he supports legalization, though not that bill's dispensary model.",
           "quote": "Awa said that he supports legalizing recreational marijuana but not in the form proposed under SB 375.",
           "sourceUrl": "https://www.civilbeat.org/2023/02/hawaii-senator-votes-no-then-yes-to-legalize-marijuana/",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "reported"
         },
         "health": {
           "toward": "public coverage",
@@ -287,7 +311,8 @@
           "text": "Awa proposes expanding federally funded community health centers in Hawaii to reduce care costs.",
           "quote": "We can expand federally funded community health centers across Hawaii that focus on care rather than copays.",
           "sourceUrl": "https://www.votebrentonawa.com/issues",
-          "agreement": "3/10"
+          "agreement": "3/10",
+          "voice": "own"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -295,7 +320,8 @@
           "text": "Awa says energy policy should prioritize reliable, affordable power and not move faster than residents can afford.",
           "quote": "Clean energy matters, but energy policy cannot move faster than people's ability to pay their bills.",
           "sourceUrl": "https://www.votebrentonawa.com/issues",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         }
       }
     },
@@ -309,7 +335,8 @@
           "text": "She opposed cutting Social Security and Medicare for solvency and backed closing tax loopholes for the wealthy to support those benefits.",
           "quote": "I do not support proposals that gut Medicare and Social Security for solvency. Instead, we can close loopholes in our tax policies that have allowed the ultra-rich to avoid paying their fair share of taxes.",
           "sourceUrl": "https://www.civilbeat.org/2024/09/candidate-qa-us-house-2nd-district-jill-tokuda/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "trade": {
           "toward": "freer trade",
@@ -317,7 +344,8 @@
           "text": "She called for removing tariffs on U.S. allies, saying they raise costs for families and businesses.",
           "quote": "We have to remove tariffs on our allies which have driven up the cost of food and goods, and made it difficult for businesses to survive.",
           "sourceUrl": "https://www.civilbeat.org/2026/06/candidate-qa-us-house-district-2-jill-tokuda/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "debt": {
           "toward": "protecting benefits",
@@ -325,7 +353,8 @@
           "text": "She rejected cutting Medicare and Social Security to address solvency and supported raising taxes on high earners to fund benefits.",
           "quote": "I do not support proposals that gut Medicare and Social Security for solvency.",
           "sourceUrl": "https://www.civilbeat.org/2024/09/candidate-qa-us-house-2nd-district-jill-tokuda/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "housing": {
           "toward": "building more housing",
@@ -333,7 +362,8 @@
           "text": "She said housing inventory must increase and cited federal funding for affordable housing developments.",
           "quote": "We must increase our housing inventory while protecting the homes we have.",
           "sourceUrl": "https://www.civilbeat.org/2026/06/candidate-qa-us-house-district-2-jill-tokuda/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "schools": {
           "toward": "district public schools",
@@ -341,7 +371,8 @@
           "text": "She called for universal access to quality public education and described public education funding as an investment in Hawaiʻi’s future.",
           "quote": "Our families deserve universal access to free, quality public education for children of all ages.",
           "sourceUrl": "https://www.tokudaforhawaii.com/issues/",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         },
         "immigration": {
           "toward": "more legal pathways",
@@ -349,7 +380,8 @@
           "text": "She opposed expanded ICE operations and called for transparency, accountability, and humane treatment in immigration enforcement.",
           "quote": "I will not support expanded ICE operations without guaranteed transparency, true accountability, and humane treatment.",
           "sourceUrl": "https://tokuda.house.gov/media/press-releases/rep-tokuda-votes-against-funding-bill-that-includes-dhs",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         },
         "guns": {
           "toward": "stricter gun laws",
@@ -357,7 +389,8 @@
           "text": "She advocated for universal background checks, assault-weapons restrictions, and red-flag laws.",
           "quote": "I’ve advocated for nationwide gun reform measures including banning assault weapons and high-capacity magazines, mandating comprehensive background checks for all gun purchases and transfers, addressing the proliferation of “ghost guns,” and implementing Red Flag Laws",
           "sourceUrl": "https://www.tokudaforhawaii.com/issues/",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         },
         "abortion": {
           "toward": "protecting access",
@@ -365,7 +398,8 @@
           "text": "She opposed restrictions on reproductive health care and cosponsored legislation to codify abortion access.",
           "quote": "I also cosponsored The Women’s Health Protection Act which would codify the right to abortion care",
           "sourceUrl": "https://www.tokudaforhawaii.com/issues/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "energy": {
           "toward": "faster emissions cuts",
@@ -373,7 +407,8 @@
           "text": "She called for aggressive action on climate change and increased renewable energy production.",
           "quote": "Aggressive action needs to be taken to address climate change impacts and increase renewable energy production.",
           "sourceUrl": "https://www.tokudaforhawaii.com/issues/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "voting": {
           "toward": "easier voting",
@@ -381,7 +416,8 @@
           "text": "She supports the For the People Act and voting reforms intended to expand access.",
           "quote": "I actively support crucial campaign finance reforms at the federal level, including the For the People Act and the DISCLOSE Act.",
           "sourceUrl": "https://www.tokudaforhawaii.com/issues/",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         }
       }
     }
