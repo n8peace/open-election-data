@@ -26,9 +26,9 @@ jobs:
         run: npm run check:research -- --offline
       # Research pushed by maintainers was verified when it was written (some sites show
       # GitHub's servers a different page, so rechecking here gives false alarms).
-      # Contributors' pull requests are checked online, for the files they change.
+      # Contributors' pull requests are checked online, for the quotes they add or change.
       - name: Quotes in changed files are on their source pages (pull requests)
         if: github.event_name == 'pull_request'
         run: |
           CHANGED=$(git diff --name-only --diff-filter=AM "${{ github.event.pull_request.base.sha }}" HEAD -- data/positions | grep '\.json$' || true)
-          if [ -n "$CHANGED" ]; then npm run check:research -- $CHANGED; fi
+          if [ -n "$CHANGED" ]; then npm run check:research -- --base "${{ github.event.pull_request.base.sha }}" $CHANGED; fi
