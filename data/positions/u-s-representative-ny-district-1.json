@@ -31,7 +31,8 @@
           "text": "Gallant vows to protect collective bargaining rights and oppose efforts to weaken unions.",
           "quote": "Protect collective bargaining rights and oppose efforts to weaken unions.",
           "sourceUrl": "https://gallantny.com/mission-five/",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "debt": {
           "toward": "protecting benefits",
@@ -39,7 +40,8 @@
           "text": "Gallant pledges to oppose any cuts or privatization of Medicare, Medicaid, or Social Security.",
           "quote": "Oppose any cuts or privatization of Medicare, Medicaid, or Social Security.",
           "sourceUrl": "https://gallantny.com/mission-three/",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "housing": {
           "toward": "building more housing",
@@ -47,7 +49,8 @@
           "text": "Gallant supports securing federal grants to increase the supply of workforce and attainable housing.",
           "quote": "Secure federal housing grants to increase workforce housing, starter homes, and attainable housing options for young professionals, first responders, teachers, nurses, veterans, and working families.",
           "sourceUrl": "https://gallantny.com/mission-one/",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "own"
         },
         "abortion": {
           "toward": "protecting access",
@@ -55,7 +58,8 @@
           "text": "Gallant's campaign says he has always supported abortion rights and will fight to protect them in Congress.",
           "quote": "he has always stood by a woman's right to choose. In Congress, Chris will fight to protect abortion rights",
           "sourceUrl": "https://gallantny.com/endorsements/",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "reported"
         },
         "health": {
           "toward": "public coverage",
@@ -63,7 +67,8 @@
           "text": "Gallant calls for expanding Medicare to cover dental, hearing, and vision and letting Medicare negotiate drug prices.",
           "quote": "Expand Medicare to cover dental, hearing, and vision care.",
           "sourceUrl": "https://gallantny.com/mission-three/",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "reported"
         }
       }
     },
@@ -77,7 +82,8 @@
           "text": "LaLota negotiated to raise the SALT deduction cap and campaigns on keeping taxes low for his constituents.",
           "quote": "For too long, Suffolk County's middle class has been punished by double taxation. That ends now.",
           "sourceUrl": "https://lalota.house.gov/media/press-releases/lalota-brokers-salt-deal",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "debt": {
           "toward": "protecting benefits",
@@ -85,7 +91,8 @@
           "text": "LaLota voted to protect Social Security and pledged to shield it from any reductions.",
           "quote": "Social Security is a cornerstone of financial security for millions, and we must protect it from any threats or reductions.",
           "sourceUrl": "https://lalota.house.gov/media/press-releases/lalota-votes-protect-social-security",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "guns": {
           "toward": "fewer restrictions",
@@ -93,7 +100,8 @@
           "text": "LaLota campaigns on defending the Second Amendment rights of law-abiding gun owners.",
           "quote": "Defending the Second Amendment rights of responsible, law-abiding gun owners while promoting firearm safety and responsible ownership.",
           "sourceUrl": "http://www.nicklalota.com/law-enforcement-public-safety",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "abortion": {
           "toward": "neither side",
@@ -101,7 +109,8 @@
           "text": "LaLota opposes a federal abortion ban and supports first-trimester access with exceptions, while opposing later-term abortion.",
           "quote": "I oppose a federal abortion ban, support access during the first trimester, and support exceptions for rape, incest, and the life of the mother.",
           "sourceUrl": "http://www.nicklalota.com/health-care-accessibility",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "gender": {
           "toward": "rules based on sex at birth",
@@ -109,7 +118,8 @@
           "text": "LaLota voted for the Protection of Women and Girls in Sports Act to bar transgender athletes from girls' and women's teams.",
           "quote": "Girls' sports should be reserved for biological girls and by upholding the integrity of Title IX, we protect the future of girls' sports and ensure that every young woman has the opportunity to succeed and excel.",
           "sourceUrl": "https://lalota.house.gov/media/press-releases/lalota-votes-uphold-title-ix-and-protect-women-and-girls-sports",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         }
       }
     }
