@@ -31,7 +31,8 @@
           "text": "She says she would cut taxes for working families.",
           "quote": "I’ll cut taxes for working families, repeal harmful tariffs that raise prices",
           "sourceUrl": "https://kristinaknickerbocker.com/my-priorities/",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "own"
         },
         "wages": {
           "toward": "higher wage floors",
@@ -39,7 +40,8 @@
           "text": "She says she would strengthen workers’ rights and raise wages.",
           "quote": "It means strengthening workers’ rights and raising wages so people can actually get ahead.",
           "sourceUrl": "https://kristinaknickerbocker.com/my-priorities/",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "own"
         },
         "trade": {
           "toward": "freer trade",
@@ -47,7 +49,8 @@
           "text": "She says she would repeal tariffs that she says raise prices.",
           "quote": "repeal harmful tariffs that raise prices, build more affordable housing",
           "sourceUrl": "https://kristinaknickerbocker.com/my-priorities/",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "own"
         },
         "debt": {
           "toward": "protecting benefits",
@@ -55,7 +58,8 @@
           "text": "She says she would protect Medicare along with Medicaid, CHIP, and the Affordable Care Act.",
           "quote": "I’ll protect Medicaid, Medicare, CHIP, and the Affordable Care Act",
           "sourceUrl": "https://kristinaknickerbocker.com/my-priorities/",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "own"
         },
         "housing": {
           "toward": "building more housing",
@@ -63,7 +67,8 @@
           "text": "She says she would build more affordable housing.",
           "quote": "build more affordable housing, cap childcare costs, support eldercare",
           "sourceUrl": "https://kristinaknickerbocker.com/my-priorities/",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "safety": {
           "toward": "neither side",
@@ -71,7 +76,8 @@
           "text": "She proposes investing in law enforcement and prevention strategies to support community safety.",
           "quote": "I’ll invest in law enforcement, fire departments, and prevention strategies that strengthen safety while building trust in our communities.",
           "sourceUrl": "https://kristinaknickerbocker.com/my-priorities/",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "immigration": {
           "toward": "more legal pathways",
@@ -79,7 +85,8 @@
           "text": "She said Haitian residents willing to contribute to the community should be able to remain in Springfield.",
           "quote": "And so it is important for those that are willing to contribute to our society, build businesses, pay taxes, that they get to remain here.",
           "sourceUrl": "https://ny1.com/nyc/manhattan/news/2026/08/22/springfield-residents-react-to-ice-arrests-and-immigration-enforcement",
-          "agreement": "3/10"
+          "agreement": "3/10",
+          "voice": "own"
         },
         "abortion": {
           "toward": "protecting access",
@@ -87,7 +94,8 @@
           "text": "She says she would defend reproductive healthcare.",
           "quote": "ban medical debt from wrecking people’s credit; invest in mental health care; and defend reproductive healthcare.",
           "sourceUrl": "https://kristinaknickerbocker.com/my-priorities/",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "health": {
           "toward": "public coverage",
@@ -95,7 +103,8 @@
           "text": "She supports working toward universal coverage and a public option, and says she would protect Medicaid, Medicare, and the Affordable Care Act.",
           "quote": "I believe healthcare is a right, and I will work toward Universal Coverage so families don’t have to choose between keeping a roof over their heads and affording care.",
           "sourceUrl": "https://kristinaknickerbocker.com/my-priorities/",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -103,7 +112,8 @@
           "text": "She says she would lower energy bills by requiring large corporations to pay for data-center infrastructure.",
           "quote": "lower energy bills by making big corporations—not Ohio families—pay for data center infrastructure.",
           "sourceUrl": "https://kristinaknickerbocker.com/my-priorities/",
-          "agreement": "5/10"
+          "agreement": "5/10",
+          "voice": "own"
         },
         "voting": {
           "toward": "easier voting",
@@ -111,7 +121,8 @@
           "text": "She says she would protect voting rights.",
           "quote": "That’s why I’ll ban stock trading for members of Congress, end corporate PAC influence, pass term limits, protect voting rights, and shut down the revolving door",
           "sourceUrl": "https://kristinaknickerbocker.com/my-priorities/",
-          "agreement": "3/10"
+          "agreement": "3/10",
+          "voice": "own"
         }
       }
     },
@@ -125,7 +136,8 @@
           "text": "He voted to concur in the Tax Cuts and Jobs Act.",
           "quote": "Vote Question: On Motion to Concur in the Senate Amendment",
           "sourceUrl": "https://clerk.house.gov/Votes/2017699",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "record"
         },
         "wages": {
           "toward": "market-set wages",
@@ -133,7 +145,8 @@
           "text": "Turner voted against the Raise the Wage Act, which would have raised the federal minimum wage.",
           "quote": "Vote Question: On Passage Raise the Wage Act Vote Type: Recorded Vote Status: Passed",
           "sourceUrl": "https://clerk.house.gov/Votes/2019496",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "record"
         },
         "abortion": {
           "toward": "restricting abortion",
@@ -141,7 +154,8 @@
           "text": "His campaign says he will continue seeking to protect unborn rights.",
           "quote": "Will continue to fight to protect the rights of the unborn.",
           "sourceUrl": "https://miketurner.com/issues.php",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         },
         "gender": {
           "toward": "rules based on sex at birth",
@@ -149,7 +163,8 @@
           "text": "He voted for the Protection of Women and Girls in Sports Act in 2023 and 2025.",
           "quote": "Protection of Women and Girls in Sports Act",
           "sourceUrl": "https://clerk.house.gov/Votes/202512",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "record"
         },
         "cannabis": {
           "toward": "keeping it illegal",
@@ -157,7 +172,8 @@
           "text": "He voted against House passage of the MORE Act, which would remove federal marijuana prohibitions.",
           "quote": "Vote Question: On Passage MORE Act Vote Type: Yea-And-Nay",
           "sourceUrl": "https://clerk.house.gov/Votes/2022107",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "record"
         },
         "voting": {
           "toward": "tighter rules",
@@ -165,7 +181,8 @@
           "text": "Turner voted for the SAVE Act, which passed the House and would require documentary proof of citizenship to register to vote.",
           "quote": "Vote Question: On Passage SAVE Act Vote Type: Yea-And-Nay Status: Passed",
           "sourceUrl": "https://clerk.house.gov/Votes/2025102",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "record"
         }
       }
     },
@@ -187,7 +204,8 @@
           "text": "In a candidate questionnaire, he said abortion should be allowed under any circumstances and that the decision belongs to the woman.",
           "quote": "Under any circumstances, its a woman's body. They are allowed to do what they would like to do with their body.",
           "sourceUrl": "https://ivoterguide.com/candidate/4072/race/2964/election/400",
-          "agreement": "3/10"
+          "agreement": "3/10",
+          "voice": "own"
         },
         "energy": {
           "toward": "neither side",
@@ -195,7 +213,8 @@
           "text": "He says fossil-fuel power will remain necessary while opposing an antagonistic stance toward green energy.",
           "quote": "We aren't going to get rid of fossil fuel-based power, but we can't be antagonist to green energy either.",
           "sourceUrl": "https://tommcmasters.us/forum/index.php?id=advocacy/2026-leageu-of-women&page=topicview",
-          "agreement": "3/10"
+          "agreement": "3/10",
+          "voice": "own"
         }
       }
     }
