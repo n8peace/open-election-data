@@ -10,29 +10,11 @@
   "choices": [
     {
       "name": "Yes",
-      "stances": {
-        "tax": {
-          "toward": "more services",
-          "strength": "strong",
-          "text": "A Yes vote raises the local sales tax to help maintain essential City services.",
-          "quote": "a one-cent local sales tax increase to help maintain essential City services.",
-          "sourceUrl": "https://www.siskiyou.news/category/mount-shasta/",
-          "agreement": "3/3"
-        }
-      }
+      "stances": {}
     },
     {
       "name": "No",
-      "stances": {
-        "tax": {
-          "toward": "lower taxes",
-          "strength": "strong",
-          "text": "A No vote does not enact the proposed local sales tax increase.",
-          "quote": "a one-cent local sales tax increase to help maintain essential City services.",
-          "sourceUrl": "https://www.siskiyou.news/category/mount-shasta/",
-          "agreement": "3/3"
-        }
-      }
+      "stances": {}
     }
   ],
   "sources": "siskiyou.news",
