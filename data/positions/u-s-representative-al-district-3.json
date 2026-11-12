@@ -31,7 +31,8 @@
           "text": "Rogers campaigns on closing the border and has a record of restricting immigration.",
           "quote": "We must close our borders, protect the unborn, unleash American energy, and grow our economy!",
           "sourceUrl": "https://www.mikerogersforcongress.com/",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         }
       }
     },
@@ -45,7 +46,8 @@
           "text": "McInnis says the wealthy should pay more and backs raising taxes on high earners to fund services for working families.",
           "quote": "Supports raising wages for working families and increasing taxes on high-income earners.",
           "sourceUrl": "https://www.branch.vote/races/2026-alabama-primary-election-al-state-u.s.-representative-al-congressional-3-d/candidates/lee-mcinnis",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "reported"
         },
         "schools": {
           "toward": "district public schools",
@@ -53,7 +55,8 @@
           "text": "McInnis advocates for quality, free public education for every child.",
           "quote": "Supports quality, free public education for every child.",
           "sourceUrl": "https://www.branch.vote/races/2026-alabama-primary-election-al-state-u.s.-representative-al-congressional-3-d/candidates/lee-mcinnis",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "reported"
         },
         "health": {
           "toward": "public coverage",
@@ -61,7 +64,8 @@
           "text": "McInnis says the district has healthcare deserts and calls for healthcare for all.",
           "quote": "In the richest country in the world, it doesn't have to be this way. We can have healthcare for all.",
           "sourceUrl": "https://leemcinnis4alabama.com/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         }
       }
     }
