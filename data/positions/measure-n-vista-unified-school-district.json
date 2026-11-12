@@ -18,7 +18,8 @@
           "text": "A Yes vote cannot be determined from the provided text to change taxes or services.",
           "quote": " for the Evaluation of Climate Action Implementation Choices (2017) ",
           "sourceUrl": "https://sdtaxpayers.org/policyreports",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "reported"
         },
         "schools": {
           "toward": "neither side",
@@ -26,7 +27,8 @@
           "text": "A Yes vote cannot be determined from the provided text to change funding for district public schools or expand school choice.",
           "quote": " for the Evaluation of Climate Action Implementation Choices (2017) ",
           "sourceUrl": "https://sdtaxpayers.org/policyreports",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "reported"
         }
       }
     },
@@ -39,7 +41,8 @@
           "text": "A No vote cannot be determined from the provided text to change taxes or services.",
           "quote": " for the Evaluation of Climate Action Implementation Choices (2017) ",
           "sourceUrl": "https://sdtaxpayers.org/policyreports",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "reported"
         },
         "schools": {
           "toward": "neither side",
@@ -47,7 +50,8 @@
           "text": "A No vote cannot be determined from the provided text to change funding for district public schools or expand school choice.",
           "quote": " for the Evaluation of Climate Action Implementation Choices (2017) ",
           "sourceUrl": "https://sdtaxpayers.org/policyreports",
-          "agreement": "2/3"
+          "agreement": "2/3",
+          "voice": "reported"
         }
       }
     }
