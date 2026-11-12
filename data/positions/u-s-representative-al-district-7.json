@@ -31,7 +31,8 @@
           "text": "Akin says she will give law enforcement, firefighters, and EMS the resources and support they need.",
           "quote": "Keep families safe by giving law enforcement, firefighters, and EMS the resources and support they need to do their jobs.",
           "sourceUrl": "https://www.akinforcongress.com/issues",
-          "agreement": "3/3"
+          "agreement": "3/3",
+          "voice": "own"
         }
       }
     },
@@ -45,7 +46,8 @@
           "text": "Sewell criticized tariffs for raising costs and hurting Alabama farmers and families.",
           "quote": "Trump's tariffs have cost the average family an extra $1,700.",
           "sourceUrl": "https://sewell.house.gov/2026/2/rep-sewell-statement-on-president-trump-s-state-of-the-union-address",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "own"
         },
         "debt": {
           "toward": "protecting benefits",
@@ -53,7 +55,8 @@
           "text": "Sewell proposed protecting guaranteed Medicare benefits and maintaining the program's financial sustainability.",
           "quote": "Protecting and strengthening Medicare by safeguarding its guaranteed benefits",
           "sourceUrl": "https://sewell.house.gov/2025/12/rep-sewell-unveils-new-democrat-coalition-health-care-action-plan",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "reported"
         },
         "immigration": {
           "toward": "more legal pathways",
@@ -61,7 +64,8 @@
           "text": "Sewell voted against a reconciliation bill that funded mass deportation efforts and criticized increased ICE funding without oversight or accountability.",
           "quote": "This bill does nothing to lower costs, nothing to strengthen health care, and nothing to improve the lives of the people I represent. That's why I voted no.",
           "sourceUrl": "https://sewell.house.gov/2026/6/rep-sewell-votes-against-republican-reconciliation-bill",
-          "agreement": "3/10"
+          "agreement": "3/10",
+          "voice": "own"
         },
         "guns": {
           "toward": "stricter gun laws",
@@ -69,7 +73,8 @@
           "text": "Sewell voted to require universal background checks on all firearm sales and transfers.",
           "quote": "Requiring universal background checks on the sale of every gun is an essential part of ensuring that guns do not fall into the wrong hands.",
           "sourceUrl": "https://sewell.house.gov/2019/2/sewell-votes-require-background-checks-sales-transfers-all-firearms",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "own"
         },
         "abortion": {
           "toward": "protecting access",
@@ -77,7 +82,8 @@
           "text": "Sewell voted for the Women's Health Protection Act and condemned the overturning of Roe v. Wade.",
           "quote": "I believe that a woman's deeply personal health care decisions should be made by her and her doctor, not her politicians.",
           "sourceUrl": "https://sewell.house.gov/media-center/press-releases/rep-sewell-votes-defend-women-s-access-reproductive-health-care",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "own"
         },
         "health": {
           "toward": "public coverage",
@@ -85,7 +91,8 @@
           "text": "Sewell introduced legislation to incentivize states to expand Medicaid coverage under the ACA.",
           "quote": "In my state, approximately 314,000 more Alabamians would be covered under Medicaid expansion",
           "sourceUrl": "https://sewell.house.gov/2019/1/rep-sewell-introduces-bill-incentivize-medicaid-expansion",
-          "agreement": "9/10"
+          "agreement": "9/10",
+          "voice": "own"
         },
         "energy": {
           "toward": "faster emissions cuts",
@@ -93,7 +100,8 @@
           "text": "Sewell voted for and celebrated the Inflation Reduction Act's clean energy and climate investments.",
           "quote": "making the largest investment to fight climate change in our nation's history",
           "sourceUrl": "https://sewell.house.gov/2023/8/rep-sewell-celebrates-one-year-anniversary-of-the-landmark-inflation-reduction-act",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "own"
         },
         "voting": {
           "toward": "easier voting",
@@ -101,7 +109,8 @@
           "text": "Sewell introduced the John R. Lewis Voting Rights Advancement Act to restore and expand voting protections.",
           "quote": "The right to vote and safeguard our democracy by restoring and modernizing the full protections of the Voting Rights Act of 1965",
           "sourceUrl": "https://sewell.house.gov/2023/9/on-national-voter-registration-day-rep-sewell-and-house-democrats-introduce-the-john-r-lewis-voting-rights-advancement-act",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "reported"
         }
       }
     }
