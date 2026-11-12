@@ -31,7 +31,8 @@
           "text": "He voted against a Republican tax plan and supports ending tax breaks for the wealthiest Americans.",
           "quote": "Congressman Pallone opposed the partisan Republican tax plan, and voted no when it was considered by the House of Representatives.",
           "sourceUrl": "https://pallone.house.gov/issues/economy-and-jobs",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "reported"
         },
         "wages": {
           "toward": "higher wage floors",
@@ -39,7 +40,8 @@
           "text": "He supports significantly raising the minimum wage and strengthening workplace protections.",
           "quote": "Congressman Pallone supports policies that would significantly raise the minimum wage, implement equal work for equal pay and paid family leave.",
           "sourceUrl": "https://pallone.house.gov/issues?page=0",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "reported"
         },
         "debt": {
           "toward": "protecting benefits",
@@ -47,7 +49,8 @@
           "text": "He says he is committed to protecting and strengthening Medicare, Medicaid, and Social Security.",
           "quote": "Congressman Pallone is committed to protecting the programs that seniors rely on, like Medicare, Medicaid and Social Security, while also making them stronger and more secure.",
           "sourceUrl": "https://pallone.house.gov/issues/seniors",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "reported"
         },
         "schools": {
           "toward": "district public schools",
@@ -55,7 +58,8 @@
           "text": "He says local schools and teachers need adequate resources and compensation.",
           "quote": "Congressman Pallone believes local schools and teachers must be provided with adequate resources and compensation, and a strong emphasis must be placed on hiring and retaining highly trained and talented teaching professionals.",
           "sourceUrl": "https://pallone.house.gov/issues/education?page=1",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "reported"
         },
         "abortion": {
           "toward": "protecting access",
@@ -63,7 +67,8 @@
           "text": "He called for federal protection of reproductive health care, including abortion.",
           "quote": "Congressman Frank Pallone, Jr. (NJ-06) called for federal protection of the right to full reproductive health care services, including abortion, contraception, and IVF.",
           "sourceUrl": "https://pallone.house.gov/issues/civil-rights",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "reported"
         },
         "energy": {
           "toward": "faster emissions cuts",
@@ -71,7 +76,8 @@
           "text": "He introduced the CLEAN Future Act, which sets a goal of a 100 percent clean economy by 2050.",
           "quote": "The CLEAN Future Act formally adopts the goal of achieving of a 100 percent clean economy by 2050.",
           "sourceUrl": "https://pallone.house.gov/issues/environment",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "reported"
         }
       }
     },
@@ -85,7 +91,8 @@
           "text": "Her campaign says she will fight to lower property taxes and living costs.",
           "quote": "Hillary will fight for lower property taxes, reduced cost of living, and keeping more of your paycheck in your home.",
           "sourceUrl": "https://www.herzigforcongress.com/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "reported"
         },
         "schools": {
           "toward": "school choice",
@@ -93,7 +100,8 @@
           "text": "Her campaign says families should be able to choose their children’s learning environment.",
           "quote": "Families deserve the freedom to choose the best learning environment for their kids.",
           "sourceUrl": "https://www.herzigforcongress.com/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "reported"
         },
         "cannabis": {
           "toward": "legalizing it",
@@ -101,7 +109,8 @@
           "text": "Her campaign supports removing federal cannabis prohibition and establishing federal regulation.",
           "quote": "Hillary supports responsible cannabis reform, including removing federal prohibition and employment penalties for lawful cannabis use.",
           "sourceUrl": "https://www.herzigforcongress.com/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "reported"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -109,7 +118,8 @@
           "text": "Her campaign emphasizes diversifying energy supplies and lowering energy costs.",
           "quote": "Reliable Energy: Upgrade the grid; Diversify energy, lower costs, smart placement of solar, not on agricultural fields",
           "sourceUrl": "https://www.herzigforcongress.com/",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "reported"
         }
       }
     }
