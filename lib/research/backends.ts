@@ -12,7 +12,8 @@ import path from 'node:path';
 import { promisify } from 'node:util';
 import { z } from 'zod';
 import { fetchSource, quoteIsInSource, type ResearchedStance, type Source } from '../ai/research';
-import { ISSUE_IDS, NEITHER, SideChoiceSchema, sideGuide, toPosition, type IssueId } from '../issues';
+import { ISSUE_IDS, NEITHER, sideGuide, toPosition, type IssueId } from '../issues';
+import { SideChoiceSchema } from '../side-choice';
 
 const run = promisify(execFile);
 

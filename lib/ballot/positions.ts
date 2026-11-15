@@ -1,7 +1,8 @@
 import { readdir, readFile } from 'node:fs/promises';
 import path from 'node:path';
 import { z } from 'zod';
-import { ISSUE_IDS, NEITHER, SideChoiceSchema, issueById, toPosition, type IssueId, type Position } from '../issues';
+import { ISSUE_IDS, NEITHER, issueById, toPosition, type IssueId, type Position } from '../issues';
+import { SideChoiceSchema } from '../side-choice';
 
 // Researched positions live as reviewable JSON files in data/positions/, written by
 // `npm run research`. They publish once independent agents agree and every quote

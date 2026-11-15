@@ -1,5 +1,3 @@
-import { z } from 'zod';
-
 // The issue list and dial wording. This file is the public, auditable heart of
 // the method: each end of a dial is worded the way its own supporters would say
 // it, and the ends are deliberately not all lined up left-to-right by party.
@@ -49,12 +47,6 @@ export const WEIGHT: Record<Importance, number> = { low: 1, medium: 2, high: 3 }
 // strength, and we convert here. This removes a class of errors where a model
 // flips the sign and puts someone on the opposite end of a dial.
 
-export const SideChoiceSchema = z.object({
-  toward: z.string(),
-  strength: z.enum(['lean', 'strong']),
-});
-export type Strength = z.infer<typeof SideChoiceSchema>['strength'];
-
 export const NEITHER = 'neither side';
 
 export function sideGuide(ids: readonly IssueId[]): string {
@@ -66,7 +58,7 @@ export function sideGuide(ids: readonly IssueId[]): string {
     .join('\n');
 }
 
-export function toPosition(id: IssueId, toward: string, strength: Strength): Position | null {
+export function toPosition(id: IssueId, toward: string, strength: 'lean' | 'strong'): Position | null {
   const i = issueById[id];
   const t = toward.trim().toLowerCase().replace(/^["']|["']$/g, '');
   const mag = strength === 'strong' ? 2 : 1;
