@@ -1,6 +1,6 @@
 import { generateText, Output, type LanguageModel } from 'ai';
 import { z } from 'zod';
-import { ISSUE_IDS, NEITHER, sideGuide, toPosition, type IssueId, type Position } from '../issues';
+import { ISSUE_IDS, NEITHER, SideChoiceSchema, sideGuide, toPosition, type IssueId, type Position } from '../issues';
 
 // Offline research: reads a candidate's (or a measure's) sources and extracts a
 // sourced position per issue. Runs once per contest, never per voter. Any claim
@@ -26,10 +26,8 @@ export interface ResearchedStance {
 
 const Schema = z.object({
   stances: z.array(
-    z.object({
+    SideChoiceSchema.extend({
       issue: z.enum(ISSUE_IDS),
-      toward: z.string(),
-      strength: z.enum(['lean', 'strong']),
       summary: z.string(),
       quote: z.string(),
       sourceUrl: z.string(),

@@ -1,7 +1,7 @@
 import { readdir, readFile } from 'node:fs/promises';
 import path from 'node:path';
 import { z } from 'zod';
-import { ISSUE_IDS, NEITHER, issueById, toPosition, type IssueId, type Position } from '../issues';
+import { ISSUE_IDS, NEITHER, SideChoiceSchema, issueById, toPosition, type IssueId, type Position } from '../issues';
 
 // Researched positions live as reviewable JSON files in data/positions/, written by
 // `npm run research`. They publish once independent agents agree and every quote
@@ -10,9 +10,7 @@ import { ISSUE_IDS, NEITHER, issueById, toPosition, type IssueId, type Position 
 // In the files, a stance names its side in words (the dial's short label), so a
 // person writing or reviewing research can't put someone on the wrong end by
 // flipping a sign. It's converted to a number when loaded.
-const StanceSchema = z.object({
-  toward: z.string(),
-  strength: z.enum(['lean', 'strong']),
+const StanceSchema = SideChoiceSchema.extend({
   text: z.string().min(10).max(240),
   quote: z.string().min(12),
   sourceUrl: z.url(),

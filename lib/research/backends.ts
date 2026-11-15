@@ -12,7 +12,7 @@ import path from 'node:path';
 import { promisify } from 'node:util';
 import { z } from 'zod';
 import { fetchSource, quoteIsInSource, type ResearchedStance, type Source } from '../ai/research';
-import { ISSUE_IDS, NEITHER, sideGuide, toPosition, type IssueId } from '../issues';
+import { ISSUE_IDS, NEITHER, SideChoiceSchema, sideGuide, toPosition, type IssueId } from '../issues';
 
 const run = promisify(execFile);
 
@@ -29,10 +29,8 @@ function runClosed(cmd: string, args: string[], cwd: string, timeoutMs: number):
 }
 
 const Result = z.object({
-  stances: z.array(z.object({
+  stances: z.array(SideChoiceSchema.extend({
     issue: z.string(),
-    toward: z.string(),
-    strength: z.enum(['lean', 'strong']),
     summary: z.string(),
     quote: z.string(),
     sourceUrl: z.string(),
