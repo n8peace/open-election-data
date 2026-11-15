@@ -108,8 +108,9 @@
           "strength": "lean",
           "text": "He urged lawmakers to slow minimum-wage increases, end automatic indexing, and restore the tip credit.",
           "quote": "You can slow down the rate of increase to the minimum wage to allow businesses more time to absorb it, remove the provision that automatically increases the wage every year and restore the tip credit.",
-          "sourceUrl": "https://www.maine.gov/governor/lepage/newsroom/article.html?id=722147",
-          "agreement": "6/10"
+          "sourceUrl": "https://web.archive.org/web/20191023103306/https://www.maine.gov/governor/lepage/newsroom/article.html?id=722147",
+          "agreement": "6/10",
+          "voice": "own"
         },
         "trade": {
           "toward": "neither side",
@@ -134,16 +135,18 @@
           "strength": "strong",
           "text": "As governor, he said school choice benefits Maine students.",
           "quote": "School choice benefits each and every Maine student who deserves the best education this state can provide.",
-          "sourceUrl": "https://www.maine.gov/governor/lepage/newsroom/speech.html?id=495850",
-          "agreement": "5/10"
+          "sourceUrl": "https://web.archive.org/web/20240726005128/https://www.maine.gov/governor/lepage/newsroom/speech.html?id=495850",
+          "agreement": "5/10",
+          "voice": "own"
         },
         "safety": {
           "toward": "more enforcement",
           "strength": "strong",
           "text": "As governor, he increased pay for state law-enforcement agencies and added drug-enforcement agents.",
           "quote": "Increased the pay of the State Police, Warden Service, Marine Patrol, Capitol Police and other state law enforcement agencies to address recruitment and retention issues.",
-          "sourceUrl": "https://www.maine.gov/governor/lepage/priorities-accomplishments/fighting-crime-protecting-public.html",
-          "agreement": "5/10"
+          "sourceUrl": "https://web.archive.org/web/20250917063951/https://www.maine.gov/governor/lepage/priorities-accomplishments/fighting-crime-protecting-public.html",
+          "agreement": "5/10",
+          "voice": "reported"
         },
         "immigration": {
           "toward": "stricter enforcement",
@@ -186,8 +189,9 @@
           "strength": "strong",
           "text": "He backed repeal and replacement of the Affordable Care Act and said states that had not expanded Medicaid should be barred from doing so.",
           "quote": "First, Medicaid expansion should be frozen. If states have not already expanded Medicaid, they should not be allowed to.",
-          "sourceUrl": "https://www.maine.gov/governor/lepage/newsroom/article.html?id=758764",
-          "agreement": "3/10"
+          "sourceUrl": "https://web.archive.org/web/20191211135850/https://www.maine.gov/governor/lepage/newsroom/article.html?id=758764",
+          "agreement": "3/10",
+          "voice": "own"
         },
         "energy": {
           "toward": "cheaper energy",

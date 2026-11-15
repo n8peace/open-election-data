@@ -29,8 +29,9 @@
           "strength": "strong",
           "text": "Archuleta twice voted for SB 9, which required approval of qualifying two-unit developments and urban lot splits.",
           "quote": "Archuleta, Atkins, Becker, Bradford, Caballero, Cortese, Dahle, Dodd, Durazo, Eggman, Gonzalez, Grove, Hertzberg, Hueso",
-          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB9",
-          "agreement": "3/5"
+          "sourceUrl": "https://web.archive.org/web/20260213110545/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB9",
+          "agreement": "3/5",
+          "voice": "record"
         },
         "safety": {
           "toward": "more enforcement",
@@ -55,15 +56,16 @@
           "strength": "strong",
           "text": "Archuleta voted for AB 1766, which made state identification cards available regardless of immigration status.",
           "quote": "Allen, Archuleta, Atkins, Becker, Bradford, Caballero, Cortese, Dodd, Durazo, Eggman, Glazer, Gonzalez, Hertzberg, Hueso",
-          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220AB1766",
-          "agreement": "3/5"
+          "sourceUrl": "https://web.archive.org/web/20240610113910/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220AB1766",
+          "agreement": "3/5",
+          "voice": "record"
         },
         "guns": {
           "toward": "stricter gun laws",
           "strength": "strong",
           "text": "Archuleta twice voted for SB 2, which tightened concealed-carry licensing and restricted firearms in specified sensitive places.",
           "quote": "Allen, Archuleta, Ashby, Atkins, Becker, Blakespear, Bradford, Cortese, Dodd, Durazo, Eggman, Glazer, Gonzalez, Laird",
-          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240SB2",
+          "sourceUrl": "https://web.archive.org/web/20260605004608/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240SB2",
           "agreement": "3/5"
         },
         "cannabis": {
@@ -71,7 +73,7 @@
           "strength": "lean",
           "text": "Archuleta voted in committee and on the Senate floor for AB 1775, which expanded regulated cannabis-consumption businesses by permitting food and beverage sales.",
           "quote": "Allen, Alvarado-Gil, Archuleta, Atkins, Becker, Blakespear, Bradford, Caballero, Cortese, Dahle, Dodd, Durazo, Eggman, Glazer",
-          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1775",
+          "sourceUrl": "https://web.archive.org/web/20250723095551/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1775",
           "agreement": "3/5"
         },
         "energy": {
@@ -79,16 +81,18 @@
           "strength": "strong",
           "text": "Archuleta twice voted for SB 1020, which established interim clean-electricity targets and a 100-percent clean-power goal.",
           "quote": "Allen, Archuleta, Atkins, Becker, Bradford, Caballero, Cortese, Dodd, Durazo, Eggman, Glazer, Gonzalez, Hertzberg, Hueso",
-          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1020",
-          "agreement": "4/5"
+          "sourceUrl": "https://web.archive.org/web/20250921175917/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1020",
+          "agreement": "4/5",
+          "voice": "record"
         },
         "voting": {
           "toward": "easier voting",
           "strength": "lean",
           "text": "Archuleta voted for AB 37, which permanently required mailing a ballot to every active registered voter.",
           "quote": "Allen, Archuleta, Atkins, Becker, Bradford, Caballero, Cortese, Dodd, Durazo, Eggman, Glazer, Gonzalez, Hertzberg, Hueso",
-          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220AB37",
-          "agreement": "4/5"
+          "sourceUrl": "https://web.archive.org/web/20251211032224/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220AB37",
+          "agreement": "4/5",
+          "voice": "record"
         }
       }
     },

@@ -62,6 +62,15 @@ async function ask(backend: string, quote: string, page: Source): Promise<Voice 
   return output.voice ?? undefined;
 }
 
+const warned = new Set<string>();
+/** Say once per message when a model call fails, so a broken backend is not mistaken for disagreement. */
+function warnOnce(reason: unknown) {
+  const msg = reason instanceof Error ? reason.message : String(reason);
+  if (warned.has(msg)) return;
+  warned.add(msg);
+  console.warn(`model call failed: ${msg.slice(0, 300)}`);
+}
+
 /** The same 3, 5, or 10-agent decision rule used for positions. */
 export async function classifyVoice(
   quote: string,
@@ -71,14 +80,18 @@ export async function classifyVoice(
   const page = await (opts.loadSource ?? fetchSource)(sourceUrl).catch(() => null);
   if (!page || !quoteIsInSource(quote, sourceUrl, [page])) return undefined;
   const answers: (Voice | undefined)[] = [];
+  const errors: unknown[] = [];
   const run = async (from: number, count: number) => {
     for (let i = from; i < from + count; i += 4) {
       const batch = await Promise.allSettled(Array.from({ length: Math.min(4, from + count - i) }, (_, j) =>
         (opts.askModel ?? ask)(opts.backend ?? modelFor(i + j), quote, page)));
+      for (const r of batch) if (r.status === 'rejected') { errors.push(r.reason); warnOnce(r.reason); }
       answers.push(...batch.map((r) => r.status === 'fulfilled' ? r.value : undefined));
     }
   };
   await run(0, FIRST_ROUND);
+  // A broken model setup should stop the run, not read as "the models disagreed".
+  if (errors.length === answers.length) throw new Error(`every model call failed: ${errors[0] instanceof Error ? errors[0].message : String(errors[0])}`);
   let voice = decideVoice(answers);
   if (voice) return voice;
   const found = answers.filter((a): a is Voice => a !== undefined);

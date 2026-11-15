@@ -1,5 +1,7 @@
 // Replace stale source URLs with Internet Archive snapshots that contain the exact quote.
 // npm run archive:missing -- data/positions/example.json --dry-run
+// --include-unreachable also looks for a copy when the live page no longer loads
+// (for example a voter guide taken down after the election).
 import { readdir, readFile, rename, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fetchSource, quoteIsInSource, type Source } from '../lib/ai/research';
@@ -10,9 +12,10 @@ const ARCHIVE_PREFIX = 'https://web.archive.org/';
 const REQUEST_INTERVAL_MS = 1_000;
 
 function options(args: string[]) {
-  const out: { files: string[]; dryRun: boolean } = { files: [], dryRun: false };
+  const out: { files: string[]; dryRun: boolean; includeUnreachable: boolean } = { files: [], dryRun: false, includeUnreachable: false };
   for (const arg of args) {
     if (arg === '--dry-run') out.dryRun = true;
+    else if (arg === '--include-unreachable') out.includeUnreachable = true;
     else if (arg.startsWith('-')) throw new Error(`Unknown argument: ${arg}`);
     else out.files.push(arg);
   }
@@ -125,9 +128,8 @@ async function main() {
         if (!page) {
           counts.unreachable++;
           console.log(`${file} | ${choice.name} | ${issue}: unreachable`);
-          continue;
-        }
-        if (quoteIsInSource(stance.quote, stance.sourceUrl, [page])) {
+          if (!opts.includeUnreachable) continue;
+        } else if (quoteIsInSource(stance.quote, stance.sourceUrl, [page])) {
           counts.present++;
           continue;
         }

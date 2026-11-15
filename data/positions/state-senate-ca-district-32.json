@@ -30,7 +30,8 @@
           "text": "Tate supports taxing the wealthiest Californians to fund essential services while opposing broad tax increases on working families.",
           "quote": "We should not impose more taxes on working-class families, who already struggle to meet their basic needs. Instead, I believe in raising taxes on our state’s wealthiest taxpayers –– such as multimillionaires and billionaires –– to fund essential services in the short term, while making investments that will pay off in the long term.",
           "sourceUrl": "https://losangelesmovinginsider.com/qa-meet-dr-tiffanie-tate-candidate-for-california-state-senate-district-32/",
-          "agreement": "8/10"
+          "agreement": "8/10",
+          "voice": "own"
         },
         "wages": {
           "toward": "higher wage floors",
@@ -38,7 +39,8 @@
           "text": "Tate says she would work with labor unions to seek better wages and benefits.",
           "quote": "One reason for our high cost of living is that wages haven’t kept pace with inflation. To fix this, I plan to collaborate with labor unions to fight for better wages and benefits across the board.",
           "sourceUrl": "https://losangelesmovinginsider.com/qa-meet-dr-tiffanie-tate-candidate-for-california-state-senate-district-32/",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "own"
         },
         "housing": {
           "toward": "building more housing",
@@ -46,7 +48,8 @@
           "text": "Tate supports building more affordable housing and accelerating project approvals by reducing bureaucratic delays.",
           "quote": "If I’m elected to the State Senate, fixing our housing shortage would be one of my top priorities. To improve housing access and prevent homelessness, I would first push to build more affordable housing across California. We need to make sure developments can be approved quickly and built efficiently –– instead of being delayed by bureaucracy and red tape.",
           "sourceUrl": "https://losangelesmovinginsider.com/qa-meet-dr-tiffanie-tate-candidate-for-california-state-senate-district-32/",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "schools": {
           "toward": "district public schools",
@@ -54,7 +57,8 @@
           "text": "Tate says her first priority would be fully funding and strengthening public education.",
           "quote": "Once elected, my first priority will be fully funding and strengthening our public education system. I will advocate to increase investments in school infrastructure, raise wages for teachers and staff and invest in student mental health and job training services.",
           "sourceUrl": "https://losangelesmovinginsider.com/qa-meet-dr-tiffanie-tate-candidate-for-california-state-senate-district-32/",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "immigration": {
           "toward": "more legal pathways",
@@ -62,7 +66,8 @@
           "text": "Tate opposes immigration enforcement in schools and places of worship and pledges to protect immigrants' rights.",
           "quote": "I staunchly oppose ICE’s invasion into places of worship and schools. Once elected, I pledge to fight to keep masked ICE agents out of California. Immigrants make our state great, and they should never live in fear.",
           "sourceUrl": "https://losangelesmovinginsider.com/qa-meet-dr-tiffanie-tate-candidate-for-california-state-senate-district-32/",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "guns": {
           "toward": "stricter gun laws",
@@ -88,7 +93,8 @@
           "text": "Tate supports expanding Medi-Cal eligibility and reversing cuts to immigrant health coverage.",
           "quote": "I believe in expanding eligibility requirements for Medi-Cal so that more Californians in need can qualify for premium tax credits to help lower monthly premium costs. Moreover, I will work to hold pharmaceutical companies and insurance companies accountable for spiking the price of healthcare and unfairly denying claims. Additionally, I would vote to reverse the governor’s cuts to immigrant healthcare coverage.",
           "sourceUrl": "https://losangelesmovinginsider.com/qa-meet-dr-tiffanie-tate-candidate-for-california-state-senate-district-32/",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "energy": {
           "toward": "faster emissions cuts",
@@ -96,7 +102,8 @@
           "text": "Tate supports transitioning to fully clean energy and phasing out oil- and natural-gas-fired power plants.",
           "quote": "Combating the impacts of climate change is a core issue of mine. I believe we need to transition to 100% clean energy by building large-scale solar, wind and battery developments. In the meantime, we must work to phase out oil and natural gas plants so Californians can breathe cleaner, safer air.",
           "sourceUrl": "https://losangelesmovinginsider.com/qa-meet-dr-tiffanie-tate-candidate-for-california-state-senate-district-32/",
-          "agreement": "7/10"
+          "agreement": "7/10",
+          "voice": "own"
         },
         "voting": {
           "toward": "easier voting",
@@ -172,7 +179,7 @@
           "strength": "lean",
           "text": "Seyarto voted against SJR 9, which condemned mass immigration raids and supported expanded legal services and protections for people affected by enforcement.",
           "quote": "Alvarado-Gil, Choi, Dahle, Grove, Jones, Niello, Ochoa Bogh, Seyarto, Strickland, Valladares",
-          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SJR9",
+          "sourceUrl": "https://web.archive.org/web/20260125141047/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SJR9",
           "agreement": "5/10"
         },
         "guns": {
@@ -189,8 +196,9 @@
           "strength": "lean",
           "text": "He voted against SB 233, which temporarily authorized qualified Arizona physicians to provide abortion-related care to Arizona patients in California.",
           "quote": "Dahle, Grove, Jones, Nguyen, Niello, Ochoa Bogh, Seyarto, Wilk",
-          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240SB233",
-          "agreement": "7/10"
+          "sourceUrl": "https://web.archive.org/web/20250203031259/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240SB233",
+          "agreement": "7/10",
+          "voice": "record"
         },
         "health": {
           "toward": "private insurance",

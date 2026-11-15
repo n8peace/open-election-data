@@ -52,80 +52,90 @@
           "strength": "strong",
           "text": "He voted for the 2025 One Big Beautiful Bill and praised making the 2017 tax cuts permanent.",
           "quote": "We made the Trump Tax Cuts of 2017 permanent.",
-          "sourceUrl": "https://gimenez.house.gov/2025/5/advancing-the-america-first-agenda",
-          "agreement": "10/10"
+          "sourceUrl": "https://web.archive.org/web/20260618112916/https://gimenez.house.gov/2025/5/advancing-the-america-first-agenda",
+          "agreement": "10/10",
+          "voice": "own"
         },
         "wages": {
           "toward": "market-set wages",
           "strength": "lean",
           "text": "He voted against a 2021 budget bill that included a $15 federal minimum wage, warning it could cause job losses and raise costs.",
           "quote": "This will cause disruptive job losses, decimate small businesses in a time of need, and increase the cost of many goods and services, including healthcare and childcare services.",
-          "sourceUrl": "https://gimenez.house.gov/2021/2/gimenez-votes-against-partisan-budget-deal",
-          "agreement": "8/10"
+          "sourceUrl": "https://web.archive.org/web/20260210183930/https://gimenez.house.gov/2021/2/gimenez-votes-against-partisan-budget-deal",
+          "agreement": "8/10",
+          "voice": "reported"
         },
         "trade": {
           "toward": "freer trade",
           "strength": "lean",
           "text": "He supports trade agreements that expand markets if they are free and fair, while also backing measures against unfair trade practices.",
           "quote": "I support establishing new partnerships around the world to expand markets for our producers, as long as our trade agreements are both free and fair, protecting American producers from unfair trade practices.",
-          "sourceUrl": "https://gimenez.house.gov/trade",
-          "agreement": "5/10"
+          "sourceUrl": "https://web.archive.org/web/20260927014823/https://gimenez.house.gov/trade",
+          "agreement": "5/10",
+          "voice": "own"
         },
         "housing": {
           "toward": "building more housing",
           "strength": "lean",
           "text": "He requested federal funding for a 326-unit mixed-income development, describing housing access as a local issue.",
           "quote": "The funding would be used for the development of a 326 unit, mixed-age and mixed-income multifamily development.",
-          "sourceUrl": "https://gimenez.house.gov/_cache/files/4/e/4ee9cd68-f2d5-47a8-8cfe-4e3af64a62db/630A23DF64F2B0EE29239BD1D4D0882D.sweetwater-housing-development-project-signed-member-certification-and-federal-nexus-letter.pdf",
-          "agreement": "5/10"
+          "sourceUrl": "https://web.archive.org/web/20260210041019/https://gimenez.house.gov/_cache/files/4/e/4ee9cd68-f2d5-47a8-8cfe-4e3af64a62db/630A23DF64F2B0EE29239BD1D4D0882D.sweetwater-housing-development-project-signed-member-certification-and-federal-nexus-letter.pdf",
+          "agreement": "5/10",
+          "voice": "own"
         },
         "safety": {
           "toward": "more enforcement",
           "strength": "lean",
           "text": "He opposed removing qualified immunity for police officers and argued that it helps them carry out their jobs.",
           "quote": "I understand firsthand the importance of qualified immunity for police officers to carry out their jobs.",
-          "sourceUrl": "https://gimenez.house.gov/2021/3/gimenez-votes-against-partisan-election-reform-and-dangerous-restrictions",
-          "agreement": "8/10"
+          "sourceUrl": "https://web.archive.org/web/20260210183928/https://gimenez.house.gov/2021/3/gimenez-votes-against-partisan-election-reform-and-dangerous-restrictions",
+          "agreement": "8/10",
+          "voice": "own"
         },
         "immigration": {
           "toward": "neither side",
           "strength": "lean",
           "text": "He supports a path to legal status and DACA for some immigrants while also backing more border enforcement and opposing sanctuary cities.",
           "quote": "I support allowing undocumented immigrants to come out of the shadows and be placed on a path to legal status so that they can receive their work authorization, get a driver’s license, and send their children to school.",
-          "sourceUrl": "https://gimenez.house.gov/immigration",
-          "agreement": "9/10"
+          "sourceUrl": "https://web.archive.org/web/20260927014823/https://gimenez.house.gov/immigration",
+          "agreement": "9/10",
+          "voice": "own"
         },
         "guns": {
           "toward": "neither side",
           "strength": "lean",
           "text": "He voted for the Bipartisan Background Checks Act but against H.R. 1446, saying he opposed added burdens on legal gun ownership.",
           "quote": "Today, I voted for the Bipartisan Background Checks Act to close a loophole exploited by dangerous criminals to side-step the system and illegally obtain firearms.",
-          "sourceUrl": "https://gimenez.house.gov/2021/3/gimenez-statement-background-check-legislation",
-          "agreement": "6/10"
+          "sourceUrl": "https://web.archive.org/web/20260210183920/https://gimenez.house.gov/2021/3/gimenez-statement-background-check-legislation",
+          "agreement": "6/10",
+          "voice": "own"
         },
         "abortion": {
           "toward": "restricting abortion",
           "strength": "strong",
           "text": "He praised the decision overturning Roe v. Wade and said abortion rights should be decided by state legislatures.",
           "quote": "Roe V. Wade was fundamentally wrong from the very beginning. Nowhere in the Constitution is the right to abortion declared, and as properly interpreted by the Tenth Amendment, those rights are guarded by the individual states.",
-          "sourceUrl": "https://gimenez.house.gov/2022/6/gimenez-statement-on-the-supreme-court-s-dobbs-decision",
-          "agreement": "9/10"
+          "sourceUrl": "https://web.archive.org/web/20260210183513/https://gimenez.house.gov/2022/6/gimenez-statement-on-the-supreme-court-s-dobbs-decision",
+          "agreement": "9/10",
+          "voice": "own"
         },
         "gender": {
           "toward": "rules based on sex at birth",
           "strength": "strong",
           "text": "He supported a resolution disapproving the Department of Education’s Title IX rule and said it ignored biological realities in sports.",
           "quote": "The radical rule change under Title IX submitted by the Department of Education ignores biological realities and harms women and girls educational and athletic opportunities.",
-          "sourceUrl": "https://gimenez.house.gov/2024/7/state-sponsors-of-terrorism-have-no-business-here",
-          "agreement": "8/10"
+          "sourceUrl": "https://web.archive.org/web/20260210194709/https://gimenez.house.gov/2024/7/state-sponsors-of-terrorism-have-no-business-here",
+          "agreement": "8/10",
+          "voice": "reported"
         },
         "voting": {
           "toward": "tighter rules",
           "strength": "lean",
           "text": "He voted for the Safeguard American Voter Eligibility Act and said it would require proof of citizenship to vote.",
           "quote": "This bill will ensure that only American citizens can vote in American elections. Illegal immigrants should not have a say in our elections and requiring proof of citizenship in order to vote is a nonstarter.",
-          "sourceUrl": "https://gimenez.house.gov/2024/7/state-sponsors-of-terrorism-have-no-business-here",
-          "agreement": "8/10"
+          "sourceUrl": "https://web.archive.org/web/20260210194709/https://gimenez.house.gov/2024/7/state-sponsors-of-terrorism-have-no-business-here",
+          "agreement": "8/10",
+          "voice": "own"
         }
       }
     },

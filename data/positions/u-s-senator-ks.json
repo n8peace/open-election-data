@@ -72,7 +72,8 @@
           "text": "Marshall praised tax cuts in the 2025 reconciliation bill and said he believes cutting taxes helps the economy grow.",
           "quote": "They don’t realize that when you cut taxes, the economy grows.",
           "sourceUrl": "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-when-you-cut-taxes-the-economy-grows/",
-          "agreement": "10/10"
+          "agreement": "10/10",
+          "voice": "own"
         },
         "wages": {
           "toward": "market-set wages",
@@ -80,7 +81,8 @@
           "text": "He voted against a motion to increase the federal minimum wage and introduced legislation he said would protect workers from union bosses.",
           "quote": "protects workers from overbearing and unaccountable union bosses and small business owners from unelected bureaucrats in Washington.",
           "sourceUrl": "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-scott-legislation-protects-workers-rights/",
-          "agreement": "6/10"
+          "agreement": "6/10",
+          "voice": "own"
         },
         "housing": {
           "toward": "building more housing",
@@ -115,7 +117,8 @@
           "text": "He joined legislation creating sentencing enhancements and an additional prison term for specified federal offenses involving flag burning.",
           "quote": "which would enact sentencing enhancements for individuals who burn the American flag in the course of committing a federal offense.",
           "sourceUrl": "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-joins-senators-hawley-and-lee-in-introducing-legislation-to-increase-penalties-against-criminal-flag-burners/",
-          "agreement": "4/10"
+          "agreement": "4/10",
+          "voice": "reported"
         },
         "immigration": {
           "toward": "stricter enforcement",
@@ -200,8 +203,9 @@
           "strength": "strong",
           "text": "He said taxes, especially the sales tax, should be greatly reduced.",
           "quote": "All taxes, especially the sales tax, should be greatly reduced.",
-          "sourceUrl": "https://kclyradio.com/blog/general-election-survey-for-candidates-running-for-senator/",
-          "agreement": "4/5"
+          "sourceUrl": "https://web.archive.org/web/20260114032604/https://kclyradio.com/blog/general-election-survey-for-candidates-running-for-senator/",
+          "agreement": "4/5",
+          "voice": "own"
         },
         "safety": {
           "toward": "neither side",
@@ -225,8 +229,9 @@
           "strength": "strong",
           "text": "He said he would not vote for more national gun laws and opposed limits on lawful gun owners.",
           "quote": "I pledge that as a United States Senator, I shall never vote for more national gun laws.",
-          "sourceUrl": "https://kclyradio.com/blog/general-election-survey-for-candidates-running-for-senator/",
-          "agreement": "5/5"
+          "sourceUrl": "https://web.archive.org/web/20260114032604/https://kclyradio.com/blog/general-election-survey-for-candidates-running-for-senator/",
+          "agreement": "5/5",
+          "voice": "own"
         },
         "abortion": {
           "toward": "restricting abortion",
@@ -259,8 +264,9 @@
           "strength": "strong",
           "text": "He supports paper ballots and absentee voting for people who need it, but wants to eliminate early voting.",
           "quote": "I would continue to allow absentee ballots for those who need them, but would eliminate early voting.",
-          "sourceUrl": "https://kclyradio.com/blog/general-election-survey-for-candidates-running-for-senator/",
-          "agreement": "5/5"
+          "sourceUrl": "https://web.archive.org/web/20260114032604/https://kclyradio.com/blog/general-election-survey-for-candidates-running-for-senator/",
+          "agreement": "5/5",
+          "voice": "own"
         }
       }
     }

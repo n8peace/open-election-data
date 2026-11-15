@@ -119,7 +119,7 @@
           "strength": "strong",
           "text": "Paxton has defended identification requirements for mail ballots and other provisions of Texas's election law.",
           "quote": "Across multiple appeals, Attorney General Paxton has successfully defended different provisions of SB 1 in the Fifth Circuit. The provisions challenged in this case require voters casting ballots by mail to provide an identification number or Social Security number that matches state records.",
-          "sourceUrl": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-paxton-secures-legal-victory-upholding-id-requirements-mail-ballots-and-other",
+          "sourceUrl": "https://web.archive.org/web/20260923120612/https://www.texasattorneygeneral.gov/news/releases/attorney-general-paxton-secures-legal-victory-upholding-id-requirements-mail-ballots-and-other",
           "agreement": "3/5",
           "voice": "reported"
         }
@@ -276,7 +276,8 @@
           "text": "Brown supports a federal law protecting abortion access nationwide.",
           "quote": "I support a federal law to protect access to abortions nationwide, since so many red states (like Texas) want to limit women’s personal choices.",
           "sourceUrl": "https://www.fortbendlibraries.gov/media/3620",
-          "agreement": "3/5"
+          "agreement": "3/5",
+          "voice": "own"
         },
         "energy": {
           "toward": "cheaper energy",
@@ -284,7 +285,8 @@
           "text": "Brown opposes climate proposals he says would damage Western economies, favoring an unsubsidized energy market and additional nuclear power.",
           "quote": "Instead, the proposals want to damage Western economies while ignoring China’s major emissions. We need a free market in energy, without government subsidies or controls.",
           "sourceUrl": "https://www.fortbendlibraries.gov/media/3620",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         }
       }
     }

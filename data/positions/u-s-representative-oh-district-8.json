@@ -162,8 +162,9 @@
           "strength": "strong",
           "text": "He praised the 2017 tax package and said tax cuts for job creators help the economy.",
           "quote": "Cutting taxes for job creators is giving our economy the shot in the arm it needs to get moving again.",
-          "sourceUrl": "https://davidson.house.gov/2018/1/davidson-statement-presidents-state-union-address",
-          "agreement": "5/5"
+          "sourceUrl": "https://web.archive.org/web/20260416081224/https://davidson.house.gov/2018/1/davidson-statement-presidents-state-union-address",
+          "agreement": "5/5",
+          "voice": "own"
         },
         "wages": {
           "toward": "market-set wages",
@@ -179,8 +180,9 @@
           "strength": "lean",
           "text": "He said he favors free trade and opposed broad tariffs because they could disrupt economic growth.",
           "quote": "I’m a free trade guy so I don’t like tariffs. I like free trade.",
-          "sourceUrl": "https://davidson.house.gov/2018/1/davidson-previews-issues-state-union",
-          "agreement": "3/5"
+          "sourceUrl": "https://web.archive.org/web/20260316105916/https://davidson.house.gov/2018/1/davidson-previews-issues-state-union",
+          "agreement": "3/5",
+          "voice": "own"
         },
         "schools": {
           "toward": "school choice",
@@ -196,8 +198,9 @@
           "strength": "strong",
           "text": "He supports immigration enforcement and says he opposes amnesty or rewards for illegal immigration.",
           "quote": "I will oppose any policy that supports amnesty or rewards illegal immigration.",
-          "sourceUrl": "https://davidson.house.gov/immigration",
-          "agreement": "3/5"
+          "sourceUrl": "https://web.archive.org/web/20260922064217/https://davidson.house.gov/immigration",
+          "agreement": "3/5",
+          "voice": "own"
         },
         "guns": {
           "toward": "fewer restrictions",
@@ -213,16 +216,18 @@
           "strength": "strong",
           "text": "He says life begins at conception and commits to defending the unborn.",
           "quote": "Life begins at conception, and the right to life is the first freedom government has a duty to protect.",
-          "sourceUrl": "https://davidson.house.gov/pro-life-and-family-issues",
-          "agreement": "4/5"
+          "sourceUrl": "https://web.archive.org/web/20260827002605/https://davidson.house.gov/pro-life-and-family-issues",
+          "agreement": "4/5",
+          "voice": "own"
         },
         "gender": {
           "toward": "rules based on sex at birth",
           "strength": "strong",
           "text": "He supports sex-based rules for women’s sports and says policy should recognize biological differences between women and men.",
           "quote": "Federal policy should recognize the truth that women and men are biologically different. I support protecting women’s sports and private spaces from policies that deny biological reality.",
-          "sourceUrl": "https://davidson.house.gov/pro-life-and-family-issues",
-          "agreement": "5/5"
+          "sourceUrl": "https://web.archive.org/web/20260827002605/https://davidson.house.gov/pro-life-and-family-issues",
+          "agreement": "5/5",
+          "voice": "own"
         },
         "cannabis": {
           "toward": "keeping it illegal",
@@ -238,7 +243,7 @@
           "strength": "strong",
           "text": "He supports competition and more affordable coverage options and opposes a one-size-fits-all public system.",
           "quote": "More competition and more affordable coverage options would help bring costs down without forcing Americans into a one-size-fits-all system.",
-          "sourceUrl": "https://davidson.house.gov/health-care",
+          "sourceUrl": "https://web.archive.org/web/20260812055403/https://davidson.house.gov/health-care",
           "agreement": "4/5"
         },
         "energy": {
@@ -246,8 +251,9 @@
           "strength": "strong",
           "text": "He supported the Lower Energy Costs Act, which he said would increase domestic production and streamline energy infrastructure.",
           "quote": "The Lower Energy Costs Act will increase domestic energy production, streamline American energy infrastructure, and reverse the anti-energy agenda of the Biden administration.",
-          "sourceUrl": "https://davidson.house.gov/2023/3/rep-davidson-statement-on-passage-of-lower-energy-costs-act",
-          "agreement": "3/5"
+          "sourceUrl": "https://web.archive.org/web/20260519213543/https://davidson.house.gov/2023/3/rep-davidson-statement-on-passage-of-lower-energy-costs-act",
+          "agreement": "3/5",
+          "voice": "own"
         },
         "voting": {
           "toward": "tighter rules",
