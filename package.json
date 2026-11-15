@@ -38,6 +38,7 @@
     "recheck": "node --env-file-if-exists=.env.local --import tsx scripts/recheck.ts",
     "review": "node --import tsx scripts/review-sheet.ts",
     "compare-models": "node --env-file-if-exists=.env.local --import tsx scripts/compare-models.ts",
+    "eval": "node --env-file-if-exists=.env.local --import tsx scripts/eval-cases.ts",
     "schema": "node --import tsx scripts/positions-schema.ts",
     "build:api": "node --import tsx scripts/build-api.ts",
     "bias-check": "node --env-file-if-exists=.env.local --import tsx scripts/bias-check.ts"
