@@ -237,7 +237,8 @@
           "text": "He sponsored legislation defending workers’ ability to choose whether to join a union and voted against a procedural motion related to federal minimum-wage increases.",
           "quote": "If that is not a union, that worker should not be forced to unionize.",
           "sourceUrl": "https://www.risch.senate.gov/news/press-releases/risch-crapo-sponsor-bill-to-protect-workers-and-small-businesses/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "schools": {
           "toward": "school choice",
@@ -272,7 +273,8 @@
           "text": "He voted against a gun-control bill, saying its provisions would erode Second Amendment rights.",
           "quote": "infringing on Americans’ constitutional rights is not the answer to the challenges before us.",
           "sourceUrl": "https://www.risch.senate.gov/news/press-releases/risch-statement-on-gun-control-legislation/",
-          "agreement": "5/5"
+          "agreement": "5/5",
+          "voice": "own"
         },
         "abortion": {
           "toward": "restricting abortion",
@@ -280,7 +282,8 @@
           "text": "He said Roe v. Wade was wrongly decided and that he would protect the unborn.",
           "quote": "The most basic right we as humans have is the right to life.",
           "sourceUrl": "https://www.risch.senate.gov/news/press-releases/risch-statement-on-supreme-court-abortion-ruling/",
-          "agreement": "4/5"
+          "agreement": "4/5",
+          "voice": "own"
         },
         "gender": {
           "toward": "rules based on sex at birth",
