@@ -1,9 +1,19 @@
 name: Publish the API
-# Every push to main rebuilds the free static API and publishes it to GitHub Pages:
+# Every push to main that changes the data or the build rebuilds the free static API and publishes it to GitHub Pages:
 # https://n8peace.github.io/open-election-data/
 on:
   push:
     branches: [main]
+    # Only what the API is built from. Docs-only pushes skip the rebuild.
+    paths:
+      - 'data/**'
+      - 'lib/**'
+      - 'scripts/**'
+      - 'site/**'
+      - 'package.json'
+      - 'package-lock.json'
+      - 'tsconfig.json'
+      - '.github/workflows/publish.yml'
   workflow_dispatch:
 permissions:
   contents: read
