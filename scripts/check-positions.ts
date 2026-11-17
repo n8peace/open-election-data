@@ -36,15 +36,38 @@ function unchangedSince(ref: string, file: string): Set<string> {
   return new Set((old.choices ?? []).flatMap((c) => Object.entries(c.stances ?? {}).flatMap(([id, s]) => s ? [stanceKey(c.name, id, s)] : [])));
 }
 
+const host = (url: string) => { try { return new URL(url).host; } catch { return url; } };
+
+/** Fetches every URL once: up to `limit` at a time, never more than `perHost` from one site. */
+async function fetchAll(urls: string[], limit = 8, perHost = 2): Promise<Map<string, Source | Error>> {
+  const out = new Map<string, Source | Error>();
+  const busy = new Map<string, number>();
+  const queue = [...urls];
+  const worker = async () => {
+    while (queue.length) {
+      const i = queue.findIndex((u) => (busy.get(host(u)) ?? 0) < perHost);
+      if (i < 0) { await new Promise((r) => setTimeout(r, 50)); continue; }
+      const [url] = queue.splice(i, 1);
+      const h = host(url);
+      busy.set(h, (busy.get(h) ?? 0) + 1);
+      out.set(url, await fetchSource(url).catch((e: Error) => e));
+      busy.set(h, busy.get(h)! - 1);
+    }
+  };
+  await Promise.all(Array.from({ length: limit }, worker));
+  return out;
+}
+
 async function main() {
   const files = (await readdir(POSITIONS_DIR)).filter((f) => f.endsWith('.json')).sort();
-  const sources = new Map<string, Source | Error>();
   let errors = 0;
   let warnings = 0;
   let quotes = 0;
   const fail = (f: string, msg: string) => { errors++; console.log(`  ✗ ${f}: ${msg}`); };
   const warn = (f: string, msg: string) => { warnings++; console.log(`  ! ${f}: ${msg}`); };
 
+  // Pass 1: format checks, and collect the quotes to verify.
+  const toCheck: { f: string; name: string; id: string; quote: string; sourceUrl: string }[] = [];
   for (const f of files) {
     const raw = JSON.parse(await readFile(path.join(POSITIONS_DIR, f), 'utf8'));
     const parsed = PositionsFileSchema.safeParse(raw);
@@ -66,17 +89,20 @@ async function main() {
     for (const ch of file.choices) {
       for (const [id, s] of Object.entries(ch.stances)) {
         if (!s || known.has(stanceKey(ch.name, id, s))) continue;
-        quotes++;
-        if (!sources.has(s.sourceUrl)) {
-          sources.set(s.sourceUrl, await fetchSource(s.sourceUrl).catch((e: Error) => e));
-        }
-        const src = sources.get(s.sourceUrl)!;
-        if (src instanceof Error) {
-          warn(f, `${ch.name} / ${id}: couldn't fetch ${s.sourceUrl} (${src.message}). A reviewer must check this quote by hand.`);
-        } else if (!quoteIsInSource(s.quote, s.sourceUrl, [src])) {
-          fail(f, `${ch.name} / ${id}: quote not found in ${s.sourceUrl}`);
-        }
+        toCheck.push({ f, name: ch.name, id, quote: s.quote, sourceUrl: s.sourceUrl });
       }
+    }
+  }
+
+  // Pass 2: fetch each source once, several at a time, then check every quote in file order.
+  const sources = await fetchAll([...new Set(toCheck.map((q) => q.sourceUrl))]);
+  for (const q of toCheck) {
+    quotes++;
+    const src = sources.get(q.sourceUrl)!;
+    if (src instanceof Error) {
+      warn(q.f, `${q.name} / ${q.id}: couldn't fetch ${q.sourceUrl} (${src.message}). A reviewer must check this quote by hand.`);
+    } else if (!quoteIsInSource(q.quote, q.sourceUrl, [src])) {
+      fail(q.f, `${q.name} / ${q.id}: quote not found in ${q.sourceUrl}`);
     }
   }
   console.log(`\nChecked ${files.length} files and ${quotes} quotes: ${errors} errors, ${warnings} warnings.`);

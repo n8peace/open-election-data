@@ -14,6 +14,8 @@ permissions:
 jobs:
   sources:
     runs-on: ubuntu-latest
+    # Sources are fetched several at a time, each with its own time limit; this caps a stuck run.
+    timeout-minutes: 60
     env:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
