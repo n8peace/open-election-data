@@ -1,7 +1,8 @@
 name: Nightly source check
 # Candidates edit their sites. Every night, re-fetch every published source and
 # confirm each quote is still there. If one disappears, open an issue so the
-# claim gets rechecked instead of silently going stale.
+# claim gets rechecked instead of silently going stale. A run that finishes checks in with
+# Spooky, so a night the job doesn't run (or breaks) raises an alarm with no one watching.
 on:
   schedule:
     - cron: '17 9 * * *'
@@ -42,3 +43,8 @@ jobs:
           { echo "The nightly check (run $(date -u +%Y-%m-%d)) couldn't find these quotes on their source pages. Some sites show GitHub's servers a different page, so a maintainer rechecks from a normal connection (\`npm run check:research -- <files>\`) before changing anything."; echo; echo '```'; grep -E '✗' check.txt; echo '```'; } > body.md
           N=$(gh issue list --label source-check --state open --json number -q '.[0].number')
           if [ -n "$N" ]; then gh issue edit "$N" --body-file body.md; else gh issue create --title "Source check: quotes to recheck" --body-file body.md --label source-check; fi
+      - name: Check in with Spooky
+        if: success() && github.event_name == 'schedule'
+        env:
+          PING: ${{ secrets.SPOOKY_PING_NIGHTLY }}
+        run: '[ -z "$PING" ] || curl -fsS -m 10 --retry 3 -o /dev/null "$PING" || true'
